@@ -1,7 +1,7 @@
 logo: /images/greenlogo.png
 links:
   - title: About Us
-    collection: example-folder
+    collection: about-us
   - title: Signature Programmes
     collection: example-folder
   - title: Holistic Education
