@@ -12,9 +12,9 @@ If you would like to find out more about the interesting sharings which were pre
 
 [Spotlight Sessions](/35th-anniversary/Learning-Festival/Spotlight-Sessions)
 <br>
-[Concurrent Sessions 1](/35th-anniversary/Learning-Festival/Spotlight-Sessions)
+[Concurrent Sessions 1](/35th-anniversary/Learning-Festival/Concurrent-Sessions-1)
 <br>
-[Concurrent Sessions 2](/35th-anniversary/Learning-Festival/Spotlight-Sessions)
+[Concurrent Sessions 2](/35th-anniversary/Learning-Festival/Concurrent-Sessions-2)
 
 <center> Click the video below to find out what is in store on 12 March 2021! </center>
 
