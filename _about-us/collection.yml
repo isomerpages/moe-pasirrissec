@@ -1,4 +1,5 @@
 collections:
   about-us:
     output: true
-    order: []
+    order:
+      - LHL Award for Innovation in Normal Course.md
