@@ -2,6 +2,7 @@ collections:
   35th-anniversary:
     output: true
     order:
+      - Learning Festival/Spotlight Sessions.md
       - Learning Festival/.keep
       - Learning Festival/Learning Festival.md
       - Learning Festival/Concurrent Session 1.md
