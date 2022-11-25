@@ -16,5 +16,5 @@ sections:
       title: 35th Anniversary
       subtitle: Pasir Ris Secondary School
       button: Button text
-      url: /35th-Anniversary
+      url: /35th-anniversary/Learning-Festival
 ---
