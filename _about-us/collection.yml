@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - PRSS Connect/Retrospective 2019.md
       - PRSS Connect/Retrospective 2018.md
       - PRSS Connect/School Video.md
       - PRSS Connect/.keep
