@@ -2,11 +2,11 @@ collections:
   35th-anniversary:
     output: true
     order:
-      - MUSEIT! HOMECOMING CONCERT.md
-      - Career Awareness Day.md
       - Learning Festival/.keep
       - Learning Festival/Learning Festival.md
       - Learning Festival/Spotlight Sessions.md
       - Learning Festival/Concurrent Session 1.md
       - Learning Festival/Concurrent Session 2.md
       - Learning Festival/Student Learning Festival.md
+      - Career Awareness Day.md
+      - MUSEIT! HOMECOMING CONCERT.md
