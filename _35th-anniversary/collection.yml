@@ -2,4 +2,5 @@ collections:
   35th-anniversary:
     output: true
     order:
+      - Learning Festival/Learning Festival.md
       - Learning Festival/.keep
