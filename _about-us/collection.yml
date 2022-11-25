@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Partners/Parents Support Group.md
       - Our Partners/Alumni.md
       - Our Partners/.keep
       - PRSS Connect/Retrospective 2021.md
