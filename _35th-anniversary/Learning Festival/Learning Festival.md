@@ -10,11 +10,11 @@ Thank you for joining us for our Staff Learning Festival on 12 March 2021.
 
 If you would like to find out more about the interesting sharings which were presented, and to view the presentation slides, please click on the links below.
 
-[Spotlight Sessions](/Learning-Festival/Spotlight-Sessions)
+[Spotlight Sessions](/35th-anniversary/Learning-Festival/Spotlight-Sessions)
 <br>
-[Concurrent Sessions 1](/Learning-Festival/Spotlight-Sessions)
+[Concurrent Sessions 1](/35th-anniversary/Learning-Festival/Spotlight-Sessions)
 <br>
-[Concurrent Sessions 2](/Learning-Festival/Spotlight-Sessions)
+[Concurrent Sessions 2](/35th-anniversary/Learning-Festival/Spotlight-Sessions)
 
 <center> Click the video below to find out what is in store on 12 March 2021! </center>
 
