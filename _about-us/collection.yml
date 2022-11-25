@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - PRSS Connect/School Video.md
       - PRSS Connect/.keep
       - LHL Award for Innovation in Normal Course.md
