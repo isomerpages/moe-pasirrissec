@@ -2,6 +2,7 @@ collections:
   35th-anniversary:
     output: true
     order:
+      - Awards Ceremony.md
       - Learning Festival/.keep
       - Learning Festival/Learning Festival.md
       - Learning Festival/Spotlight Sessions.md
