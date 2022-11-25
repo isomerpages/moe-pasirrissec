@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - PRSS Connect/.keep
       - LHL Award for Innovation in Normal Course.md
