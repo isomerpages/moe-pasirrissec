@@ -13,4 +13,5 @@ third_nav_title: Our People
 |1A1|KIMBERLYN LEE|[kimberlyn_lee@moe.edu.sg](mailto:kimberlyn_lee@moe.edu.sg)
 |1A2|SUMRAH BTE CHUNI|[sumrah_chuni@moe.edu.sg](mailto:sumrah_chuni@moe.edu.sg)
 |1E3|MAVIS HO MIN YU|[ho_min_yu_mavis@moe.edu.sg](mailto:ho_min_yu_mavis@moe.edu.sg)
-|
+|1E3|MINDY LOW LIXIAN|[mindy_low_lixian@moe.edu.sg](mailto:mindy_low_lixian@moe.edu.sg)
+|1E3|LI YANG|[li_yang_a@moe.edu.sg](mailto:li_yang_a@moe.edu.sg)
