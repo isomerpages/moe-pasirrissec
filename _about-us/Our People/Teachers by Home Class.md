@@ -19,3 +19,8 @@ third_nav_title: Our People
 |1E4|LEOM LI YAN|[leom_li_yan@moe.edu.sg](mailto:leom_li_yan@moe.edu.sg)
 |1E5|NUR NADIAH BTE ADANAN|[nur_nadiah_adanan@moe.edu.sg](mailto:nur_nadiah_adanan@moe.edu.sg)
 |1E5|JONATHAN CHAN AIK BENG|[jonathan_chan_aik_beng@moe.edu.sg](mailto:jonathan_chan_aik_beng@moe.edu.sg)
+|1E6|WENDY KOH JIE LIN|[wong_jie_lin@moe.edu.sg](mailto:wong_jie_lin@moe.edu.sg)
+|1E6|MOHAMED ISKANDAR	|[mohamed_iskandar_ahmad@moe.edu.sg](mailto:mohamed_iskandar_ahmad@moe.edu.sg)
+|1T7|JASLIN JIANG WEI YEOW|[jiang_wei_yeow@moe.edu.sg](mailto:jiang_wei_yeow@moe.edu.sg)
+|1T7|DANIEL CHNG WEI MIN|[chng_wei_min_daniel@moe.edu.sg](mailto:chng_wei_min_daniel@moe.edu.sg)
+|1T7|NADIRAH JAMALLODIN	|[nadirah_a@moe.edu.sg](mailto:nadirah_a@moe.edu.sg)
