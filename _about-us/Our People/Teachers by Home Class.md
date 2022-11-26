@@ -45,3 +45,23 @@ third_nav_title: Our People
 |2T7|WONG YUN YI	|[wong_yun_yi@moe.edu.sg](mailto:wong_yun_yi@moe.edu.sg)
 |2T7|CECILIA ANG |[ang_shi_ting_cecilia@moe.edu.sg](mailto:ang_shi_ting_cecilia@moe.edu.sg)
 |2T7|SALSABILA BTE ISHAK|[salsabila_ishak@moe.edu.sg](mailto:salsabila_ishak@moe.edu.sg)
+
+##### Secondary 3
+
+| Class | Name | Email |
+| -------- | -------- | -------- |
+|3A1|JUNE HO WEI WEI|[ho_wei_wei_june@moe.edu.sg](mailto:ho_wei_wei_june@moe.edu.sg)
+|3A1|NOOR RAHMAN BIN SAINI|[noor_rahman_saini@moe.edu.sg](mailto:noor_rahman_saini@moe.edu.sg)
+|3A2|LEE CHEE WENG|[lee_chee_weng_a@moe.edu.sg](mailto:lee_chee_weng_a@moe.edu.sg)
+|3A2|SITI MARIAM BTE HASHIM|[siti_mariam_hashim@moe.edu.sg](mailto:siti_mariam_hashim@moe.edu.sg)
+|3E3|COLIN LEE KUAN WEI|[lee_kuan_wei@moe.edu.sg](mailto:lee_kuan_wei@moe.edu.sg)
+|3E3|NG MEI LING|[ng_mei_ling@moe.edu.sg](mailto:ng_mei_ling@moe.edu.sg)
+|3E4|SHAHILLA RAJ|[shahilla_balakrishnan@moe.edu.sg](mailto:shahilla_balakrishnan@moe.edu.sg)
+|3E4|ZULAIHA BTE OSMAN|[zulaiha_osman@moe.edu.sg](mailto:zulaiha_osman@moe.edu.sg)
+|3E5|FAITH NAH|[nah_cher_hui_faith@moe.edu.sg](mailto:nah_cher_hui_faith@moe.edu.sg)
+|3E5|HAIRUNISA BTE HOSNIN|[hairunisa_hosnin@moe.edu.sg](mailto:hairunisa_hosnin@moe.edu.sg)
+|3E6|SABRINA HO|[ho_yen_yin_sabrina@moe.edu.sg](mailto:ho_yen_yin_sabrina@moe.edu.sg)
+|3E6|KEVIN KOK WAI KEONG|[Kok_Wai_Keong_Kevin@moe.edu.sg](mailto:Kok_Wai_Keong_Kevin@moe.edu.sg)
+|3T7|QUAH WEI WEE|[quah_wei_wee@moe.edu.sg](mailto:quah_wei_wee@moe.edu.sg)
+|3T7|DESMOND NG BOON TIONG|[ng_boon_tiong_a@moe.edu.sg](mailto:ng_boon_tiong_a@moe.edu.sg)
+|3T7|ANG EE HUP|[ang_ee_hup@moe.edu.sg](mailto:ang_ee_hup@moe.edu.sg)
