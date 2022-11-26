@@ -43,5 +43,5 @@ third_nav_title: Our People
 |2E6|SHAYNE ONG CHI YING|[chi_ying_shayne_ong@moe.edu.sg](mailto:chi_ying_shayne_ong@moe.edu.sg)
 |2E6|KALAIVANI D/O R MOOVENTHAR |[kalaivani_r_mooventhar@moe.edu.sg ](mailto:kalaivani_r_mooventhar@moe.edu.sg)
 |2T7|WONG YUN YI	|[wong_yun_yi@moe.edu.sg](mailto:wong_yun_yi@moe.edu.sg)
-|2T7|
-
+|2T7|CECILIA ANG |[ang_shi_ting_cecilia@moe.edu.sg](mailto:ang_shi_ting_cecilia@moe.edu.sg)
+|2T7|SALSABILA BTE ISHAK|[salsabila_ishak@moe.edu.sg](mailto:salsabila_ishak@moe.edu.sg)
