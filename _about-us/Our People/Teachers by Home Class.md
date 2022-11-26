@@ -65,3 +65,23 @@ third_nav_title: Our People
 |3T7|QUAH WEI WEE|[quah_wei_wee@moe.edu.sg](mailto:quah_wei_wee@moe.edu.sg)
 |3T7|DESMOND NG BOON TIONG|[ng_boon_tiong_a@moe.edu.sg](mailto:ng_boon_tiong_a@moe.edu.sg)
 |3T7|ANG EE HUP|[ang_ee_hup@moe.edu.sg](mailto:ang_ee_hup@moe.edu.sg)
+
+##### Secondary 4
+
+| Class | Name | Email |
+| -------- | -------- | -------- |
+|4A1|STEPHEN GAN CHUN SENG|[gan_chun_seng@moe.edu.sg](mailto:gan_chun_seng@moe.edu.sg)
+|4A1|RUBI'AH BINTE MASSUAN	|[rubiah_massuan@moe.edu.sg](mailto:rubiah_massuan@moe.edu.sg)
+|4A2|SERENE TOH LIHUI|[toh_li_hui_serene@moe.edu.sg](mailto:toh_li_hui_serene@moe.edu.sg)
+|4A2|ABDUL HALIM B MOHAMED UDORI|[abdul_halim_mohamed_udori@moe.edu.sg](mailto:abdul_halim_mohamed_udori@moe.edu.sg)
+|4E3|KELVIN LEONG WHYE MENG	|[leong_whye_meng_kelvin@moe.edu.sg](mailto:leong_whye_meng_kelvin@moe.edu.sg )
+|4E3|YAP SU FEN	|[su_fen_yap@moe.edu.sg](mailto:su_fen_yap@moe.edu.sg)
+|4E4|CHENG SONG FONG|[cheng_song_fong@moe.edu.sg](mailto:cheng_song_fong@moe.edu.sg)
+|4E4|FILZAH BINTE YAHYA|[filzah_yahaya@moe.edu.sg](mailto:filzah_yahaya@moe.edu.sg)
+|4E5|NAZRENE AKBAR ALI|[nazrene_akbar_ali@moe.edu.sg](mailto:nazrene_akbar_ali@moe.edu.sg)
+|4E5|HUANG YIN-CHIAO|[huang_yin_chiao@moe.edu.sg](mailto:huang_yin_chiao@moe.edu.sg)
+|4E6|CHEW TING ZHEN|[chew_ting_zhen@moe.edu.sg](mailto:chew_ting_zhen@moe.edu.sg)
+|4E6|CHIANG SHU LEE |[chiang_shu_lee@moe.edu.sg](mailto:chiang_shu_lee@moe.edu.sg)
+|4T7|LEONG SU JUEN|[leong_su_juen@moe.edu.sg](mailto:leong_su_juen@moe.edu.sg)
+|4T7|MOHAMED ASHIQ MOHAMED ELIAS|[mohamed_ashiq_mohamed_elia@moe.edu.sg](mailto:mohamed_ashiq_mohamed_elia@moe.edu.sg)
+|4T7|ZULKIFLI BIN MOHAMED SAAT |[zulkifli_mohamed_saat@moe.edu.sg](mailto:zulkifli_mohamed_saat@moe.edu.sg)
