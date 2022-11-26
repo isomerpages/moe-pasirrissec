@@ -15,3 +15,7 @@ third_nav_title: Our People
 |1E3|MAVIS HO MIN YU|[ho_min_yu_mavis@moe.edu.sg](mailto:ho_min_yu_mavis@moe.edu.sg)
 |1E3|MINDY LOW LIXIAN|[mindy_low_lixian@moe.edu.sg](mailto:mindy_low_lixian@moe.edu.sg)
 |1E3|LI YANG|[li_yang_a@moe.edu.sg](mailto:li_yang_a@moe.edu.sg)
+|1E4|LIU SHU CUN|[liu_shu_cun@moe.edu.sg](mailto:liu_shu_cun@moe.edu.sg)
+|1E4|LEOM LI YAN|[leom_li_yan@moe.edu.sg](mailto:leom_li_yan@moe.edu.sg)
+|1E5|NUR NADIAH BTE ADANAN|[nur_nadiah_adanan@moe.edu.sg](mailto:nur_nadiah_adanan@moe.edu.sg)
+|1E5|JONATHAN CHAN AIK BENG|[jonathan_chan_aik_beng@moe.edu.sg](mailto:jonathan_chan_aik_beng@moe.edu.sg)
