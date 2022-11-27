@@ -1,4 +1,5 @@
 collections:
   e-open-house:
     output: true
-    order: []
+    order:
+      - FAQ & Enquiries.md
