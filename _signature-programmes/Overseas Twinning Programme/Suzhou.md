@@ -19,3 +19,7 @@ A key part of the programme is an annual overseas immersion trip to schools in c
 *   School immersion programme
 *   Industry visits
 *   Cultural site visits
+
+![](/images/group%20pic.jpeg)
+![](/images/lesson.jpeg)
+<center>Attending lesson with buddies in Suzhou </center>
