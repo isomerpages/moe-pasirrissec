@@ -1,4 +1,5 @@
 collections:
   our-heritage:
     output: true
-    order: []
+    order:
+      - Heritage Video.md
