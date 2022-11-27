@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Overseas Twinning Programme/Overseas Twinning Programme.md
       - Overseas Twinning Programme/.keep
       - Student Leadership.md
       - Signature Programmes.md
