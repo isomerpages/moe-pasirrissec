@@ -46,3 +46,12 @@ third_nav_title: Our People
 |ST Music 	|Ms. Leong Su Juen 	|[leong_su_juen@moe.edu.sg ](mailto:leong_su_juen@moe.edu.sg)
 |ST Physics	|Mr. Chiang Shu Lee	|[chiang_shu_lee@moe.edu.sg](mailto:chiang_shu_lee@moe.edu.sg)
 |ST Social Studies	|Mdm Hairunisa Bte Hosnin	|[hairunisa_hosnin@moe.edu.sg](mailto:hairunisa_hosnin@moe.edu.sg)
+
+##### Admin & Support
+
+| Designation | Name | Email |
+| -------- | -------- | -------- |
+|Admin Manager 	|Mdm Hazwani Bte Abdul Wahid	|[Hazwani_ABDUL_WAHID@schools.gov.sg](mailto:Hazwani_ABDUL_WAHID@schools.gov.sg)
+|Operations Manager	|Mr. Mohd Amin Bin Kadir	|[Mohd_Amin_KADIR@schools.gov.sg](mailto:Mohd_Amin_KADIR@schools.gov.sg)
+|School Counsellor	|Ms. Lorraine Teo Pek Lian	|[lorraine_teo_pek_lian@moe.edu.sg](mailto:lorraine_teo_pek_lian@moe.edu.sg)
+|SEN Officer	|Mdm Nur Atiqah Bte Nasir	|[nur_atiqah_nasir@moe.edu.sg](mailto:nur_atiqah_nasir@moe.edu.sg)
