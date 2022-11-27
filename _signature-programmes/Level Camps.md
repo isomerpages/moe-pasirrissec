@@ -35,3 +35,15 @@ Through the camp, students will develop a positive mindset as they learn to over
 
 ![](/images/Photo%20Album%201.jpeg)
 ![](/images/Photo%20Album%202.jpeg)
+
+#### Sec 3 - Camp Metamorphosis
+
+The Secondary 3 level camp, entitled “Camp Metamorphosis”, aims to develop identity and provide transitional support as students move to a new class in secondary 3. The activities were designed to help them ease into the new environment and provide opportunities to build friendships with cohort peers and cultivate a stronger sense of belonging to the school.  
+
+  
+
+Throughout the camp, students had opportunities to develop their class spirit as they worked together on various projects. Through the authentic and experiential learning in this camp, they will forge friendships, and deepen their sense of belonging, and pride in the school.
+
+  
+
+The theme of the camp was selected as adolescence is a period of transformation, not unlike a chrysalis changing into a butterfly. It is only through the struggle of metamorphosis that he gains the strength to survive on his own. This is not like the growing up process, where our young grow through the struggles and difficulties they went through.
