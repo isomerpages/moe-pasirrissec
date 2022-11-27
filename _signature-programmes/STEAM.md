@@ -21,3 +21,6 @@ In PRSS, the infusion of the S.T.E.A.M. curriculum in our daily lessons helps ra
 
 ![](/images/Steam%204.png)
 <center>Students made use of the concepts from the elements of arts, principles of chromatography, and layout & composition to express their learnings.</center>
+
+![](/images/Steam%205.png)
+<center>Students took on the role of an architect to reimagine a wall in their classroom for mental wellness through 3D repeated design. They explored different modular designs and 3D visual effects underpinned by interdisciplinary concepts – science (optical illusion), art (tonal shading), and mathematics (epicycloids).</center>
