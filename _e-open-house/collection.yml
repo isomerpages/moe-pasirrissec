@@ -2,4 +2,5 @@ collections:
   e-open-house:
     output: true
     order:
+      - Holistic Education/.keep
       - FAQ & Enquiries.md
