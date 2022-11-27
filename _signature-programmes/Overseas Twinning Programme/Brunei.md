@@ -4,7 +4,6 @@ permalink: /signature-programmes/Overseas-Twinning-Programme/Brunei/
 description: ""
 third_nav_title: Overseas Twinning Programme
 ---
-  
 Pasir Ris Secondary School embarks on the twinning programme with schools in Brunei so as to achieve the following:  
   
 
@@ -18,3 +17,8 @@ This programme is implemented on a yearly basis.
 
 ![](/images/Katok%20Sec%20School.jpeg)
 <center>A warm welcome by the principal and key personnel of Katok Secondary School</center>
+
+<img src="/images/KSS2.png" 
+     style="width:50%;float:left"><img src="/images/KSS4.png" 
+     style="width:50%">
+![](/images/KSS3.png)
