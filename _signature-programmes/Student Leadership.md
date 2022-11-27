@@ -60,3 +60,12 @@ Nominations are made by teachers, peers and aspiring student leaders themselves.
 
 ![](/images/26th%20SC.jpeg)
 <center>26th Student Council Ex-Co Team</center>
+
+![](/images/SC%20Exco.jpeg)
+<center>The SC Ex-Co preparing appreciation gifts for School Leaders</center>
+
+![](/images/appreciating.jpeg)
+<center>A Class Chairman appreciating the Home Teacher during Teachers' Day Celebration</center>
+
+![](/images/CCA%20Leaders.jpeg)
+<center>CCA Leaders</center>
