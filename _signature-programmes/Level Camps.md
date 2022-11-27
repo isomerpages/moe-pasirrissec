@@ -47,3 +47,25 @@ Throughout the camp, students had opportunities to develop their class spirit as
   
 
 The theme of the camp was selected as adolescence is a period of transformation, not unlike a chrysalis changing into a butterfly. It is only through the struggle of metamorphosis that he gains the strength to survive on his own. This is not like the growing up process, where our young grow through the struggles and difficulties they went through.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yflcg0SDmmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Sec 4N - Camp Quest / Sec 4E5N - Camp Conquest
+
+Camp Quest seeks to prepare the Sec 4 Normal Academic and Normal Technical classes as they work towards graduating from PRSS. The programme is tailored to help them find their focus and to be clear about their goals so that they can achieve them. 
+
+The tagline of the camp is “Go the Distance”. The activities in the camp also seek to equip them with the necessary knowledge, skills, and attitudes to help them to conquer the challenges that they may face along the way. 
+
+At the start of the camp, students define what success means to them and how they can live a life of purpose, identifying the reasons why they want to be successful and yet at the same time find support from others should the going get tough. Students also build their confidence through learning about the power of first impressions, where they are exposed to the importance of social and business etiquette, personal grooming, and hygiene, as well as effective interpersonal communication skills.
+
+![](/images/Sec%204%20LC.png)
+
+Through these activities, we hope that they will help them to
+
+  
+
+*   enhance their resilience and help them to stay focused on pursuing their aspirations
+*   deepen their friendships with cohort peers to achieve team goals
+*   learn various soft skills relevant to the future workplace
+*   cultivate a sense of belonging and pride in the school
+*   develop greater awareness of post-secondary options
