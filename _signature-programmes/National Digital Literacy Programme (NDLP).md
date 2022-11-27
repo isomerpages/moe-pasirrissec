@@ -33,13 +33,13 @@ Since 2021, every Secondary 1 student purchase their own **Chromebook** as the
 
 Please click below for details.  
   
-For PLD purchased in 2022: [Student Device Information Kit (Acer)](/files/Student%20Device%20Information%20Kit%20Acer_26%20Mar%2022.pdf) 
+For PLD purchased in 2022: [Student Device Information Kit (Acer)](/files/Student%20Device%20Information%20Kit%20Acer_26%20Mar%2022.pdf) <br>
 For PLD purchased in 2021: [Student Device Information Kit (Lenovo)](/files/Student%20Device%20Information%20Kit%20Lenovo_01%20July%2022.pdf)
   
 
 #### Parent Resources
 
-[Parent Handbook (I) on 1\_1 Learning.pdf](/files/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf) 
+[Parent Handbook (I) on 1\_1 Learning.pdf](/files/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf) <br>
 [Parent Handbook (II) on 1\_1 Learning.pdf](/files/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf)
   
 
