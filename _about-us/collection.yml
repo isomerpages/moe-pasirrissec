@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/School Advisory Committee.md
       - Our People/Key Personnel.md
       - Our People/Teachers by Home Class.md
       - Our People/.keep
