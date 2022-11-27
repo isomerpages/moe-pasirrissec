@@ -23,3 +23,12 @@ A key part of the programme is an annual overseas immersion trip to schools in c
 ![](/images/group%20pic.jpeg)
 ![](/images/lesson.jpeg)
 <center>Attending lesson with buddies in Suzhou </center>
+
+![](/images/Zhou%20Village.jpeg)
+<center>Visit to Zhou Village</center>
+
+![](/images/Suzhou%20Delegates.jpeg)
+<center>Hosting of Suzhou Delegates</center>
+
+![](/images/FCE%20lesson.jpeg)
+<center>Attending FCE lesson with Pasirians</center>
