@@ -3,7 +3,6 @@ title: Our Heritage
 permalink: /about-us/Our-Heritage/
 description: ""
 ---
-  
 Pasir Ris Secondary School was the first secondary school established in Tampines on 2 January 1985. We had our humble beginnings with 11 Secondary One classes and 16 teaching staff at Chongzheng Primary School, our temporary school site. 
 
   
@@ -38,5 +37,5 @@ Today, Pasir Ris Secondary School has established a strong presence in the commu
 
 We have come a long way since 1985 and are committed to continuing our mission in providing quality education and a conducive environment for every student to grow and succeed in a rapidly changing world.
 
-[Our Journey](/Our-Journey)
+[Our Journey](/Our-Journey)<br>
 [Heritage Video](/Heritage-Video)
