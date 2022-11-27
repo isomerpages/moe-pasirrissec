@@ -71,4 +71,4 @@ Do refer to the **Parent Resource Kits** (click on links below) provides gener
 Thank you.  
   
 **[Resource Kit - Experiencing Blended Learning (BL) with Our Children](/files/Resource%20Kit%20-%20Experiencing%20Blended%20Learning%20BL%20with%20Our%20Children.pdf)
-[Resource Kit - How do I support my child on regular HBL Day?](https://pasirrissec.moe.edu.sg/qql/slot/u166/HBL/How%20do%20I%20support%20my%20child%20on%20regular%20HBL%20Day_final%20PRSS.pdf)**
+[Resource Kit - How do I support my child on regular HBL Day?](/files/How%20do%20I%20support%20my%20child%20on%20regular%20HBL%20Day_final%20PRSS.pdf)**
