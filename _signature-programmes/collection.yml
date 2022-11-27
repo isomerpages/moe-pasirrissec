@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Level Camps.md
       - Overseas Twinning Programme/.keep
       - Overseas Twinning Programme/Overseas Twinning Programme.md
       - Overseas Twinning Programme/Brunei.md
