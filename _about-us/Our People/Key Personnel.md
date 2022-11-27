@@ -37,3 +37,12 @@ third_nav_title: Our People
 
 | Designation | Name | Email |
 | -------- | -------- | -------- |
+|LT English 	|Mdm Lynn Loy (Mrs. Lynn Tan)	|[loy_lin_li_lynn@moe.edu.sg](mailto:loy_lin_li_lynn@moe.edu.sg)
+|LT History	|Mdm Mariamah Mohd Yusoff	|[mariamah_mohd_yusoff@moe.edu.sg](mailto:mariamah_mohd_yusoff@moe.edu.sg)
+|LT Geography	|Mdm Sarifah Bte Tamsir	|[sarifah_tamsir@moe.edu.sg](mailto:sarifah_tamsir@moe.edu.sg)
+|ST Character & Citizenship Education	|Mdm Siti Mariam Bte Hashim	|[siti_mariam_hashim@moe.edu.sg](mailto:siti_mariam_hashim@moe.edu.sg)
+|ST Chinese Language	|Ms. Yuan Pin	|[yuan_pin@moe.edu.sg](mailto:yuan_pin@moe.edu.sg)
+|ST English Language & Literature	|Ms. Jumiah Bte Ahmad	|[jumiah_ahmad@moe.edu.sg](mailto:jumiah_ahmad@moe.edu.sg)
+|ST Music 	|Ms. Leong Su Juen 	|[leong_su_juen@moe.edu.sg ](mailto:leong_su_juen@moe.edu.sg)
+|ST Physics	|Mr. Chiang Shu Lee	|[chiang_shu_lee@moe.edu.sg](mailto:chiang_shu_lee@moe.edu.sg)
+|ST Social Studies	|Mdm Hairunisa Bte Hosnin	|[hairunisa_hosnin@moe.edu.sg](mailto:hairunisa_hosnin@moe.edu.sg)
