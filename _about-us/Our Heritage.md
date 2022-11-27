@@ -37,5 +37,5 @@ Today, Pasir Ris Secondary School has established a strong presence in the commu
 
 We have come a long way since 1985 and are committed to continuing our mission in providing quality education and a conducive environment for every student to grow and succeed in a rapidly changing world.
 
-[Our Journey](/Our-Journey)<br>
-[Heritage Video](/Heritage-Video)
+[Our Journey](/our-heritage/Our-Journey/)<br>
+[Heritage Video](/our-heritage/Heritage-Video)
