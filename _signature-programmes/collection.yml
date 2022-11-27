@@ -2,5 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Student Leadership.md
       - Signature Programmes.md
       - STEAM.md
