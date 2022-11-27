@@ -2,5 +2,6 @@ collections:
   e-open-house:
     output: true
     order:
+      - Holistic Education/Blended Learning.md
       - Holistic Education/.keep
       - FAQ & Enquiries.md
