@@ -33,3 +33,6 @@ _Sec 3 and 4 students work with various organisations which helped enhance their
 		 
 _Sec 2 students sharing their projects at Pasir Ris Library and Tampines Hub Library on Pioneers of Singapore._
 
+<img src="/images/Environmental%20Awareness%20Projects%201.png" 
+     style="width:45%;float:left"><img src="/images/Environmental%20Awareness%20Projects%202.png" 
+     style="width:55%">
