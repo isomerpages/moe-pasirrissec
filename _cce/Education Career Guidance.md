@@ -60,3 +60,26 @@ Through ECG curriculum and programmes, the school aims to help students to:
   
 
 Choosing one's education or career path is one of the most important yet difficult decisions to make. Students need to be able to make well-informed choices by talking to their parents, home teachers, subject teachers and/or school ECG counsellor about their education and career aspirations. They can also explore and gather information via the MOE Education and Career Guidance e-portal at https://www.myskillsfuture.sg/secondary
+
+![](/images/My%20Skills%20Future.png)
+
+**More Information:**  <br>
+[https://www.myskillfuture.gov.sg/content/student/en/secondary.html](https://www.myskillfuture.gov.sg/content/student/en/secondary.html)
+
+<img src="/images/QR%20COde%202.png" 
+     style="width:25%">
+		 
+**ECG Counsellor**
+
+Our ECG Counsellor is stationed at the ECG counselling room every Thursday to provide support to students (individually or in small groups) and guide students who may need additional help to make informed decisions on post-secondary education and career options.
+
+  
+
+Parents or students who would like to explore more about subject choices, enquire about post-secondary education options or find out more about their career interests, strengths and passions, can have a chat with our school’s ECG Counsellor every Thursdays. 
+
+  
+
+**Appointments can be made via email ([mohammed\_syahril\_samsudin@schools.gov.sg](mailto:mohammed_syahril_samsudin@schools.gov.sg)) or through the QR code below:**
+
+<img src="/images/QR%20COde%203.png" 
+     style="width:25%">
