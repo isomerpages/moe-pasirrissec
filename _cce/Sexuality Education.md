@@ -91,11 +91,11 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emo
 
   
 
-11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This  form will be distributed to parents at the start of the year and is also downloadable [here](https://pasirrissec.moe.edu.sg/qql/slot/u166/Co-Curriculum/Sexuality%20Education/Annex%20A.pdf). The completed form is to be submitted by 31/01/2022.
+11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This  form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A.pdf). The completed form is to be submitted by 31/01/2022.
 
   
 
-12\. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be  distributed to parents at the start of the year and is also downloadable [here](https://pasirrissec.moe.edu.sg/qql/slot/u166/Co-Curriculum/Sexuality%20Education/Annex%20B.pdf). The completed form is to be submitted by 28/02/2022.
+12\. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be  distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20B.pdf). The completed form is to be submitted by 28/02/2022.
 
   
 
