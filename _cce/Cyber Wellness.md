@@ -97,3 +97,20 @@ In PRSS, we also engage student leaders to lead Cyber Wellness peer advocacy pro
 ![](/images/SL%20positive2.png)
 ![](/images/SL%20positive3.png)
 ![](/images/SL%20positive4.png)
+
+**Awards and Recognition**
+
+To further develop and share our expertise in Cyber Wellness, the school presented our Cyber Wellness programme at the National Cyber Wellness STAR Award Conference 2015, Cyber Wellness Connexion 2017, National Cyber Wellness Student Ambassador Summit 2017 and National CW Connexion 2019. Our student leaders have also participated in competitions such as Cyber Warriors Challenge and National Cyber Wellness Advocacy Challenge. At the NCAC 2016, our school teams won the First and Third Prize. Our student, Ong Jiang En was also awarded the National Cyber Wellness Student Ambassador Award in 2017. Terry Teng Joon Seng, President of the Student Council was also awarded the National Cyber Wellness Student Ambassador Award in 2019.
+
+<img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise.jpeg" 
+     style="width:50%;float:left"><img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%202.jpeg" 
+     style="width:50%">
+<img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%203.jpeg" 
+     style="width:50%;float:left"><img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%204.jpeg" 
+     style="width:50%;float:left"><img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%205.jpeg" 
+     style="width:50%">
+<br><br>
+<img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%206.jpeg" 
+     style="width:50%">
+<center>Presentation at National Cyber Wellness student conferences and winning the 1st and 3rd Prize at National Cyber Wellness Advocacy Challenge
+in 2014-2018.</center>
