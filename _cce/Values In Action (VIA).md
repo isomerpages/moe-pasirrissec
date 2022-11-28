@@ -13,3 +13,9 @@ description: ""
 
 *   e.g. school & community events like Racial Harmony Day, Chinese New Year Celebration, Tampines Learning Festival
 *   CCAs, Project Work, camps, assembly programme, CCE lessons
+
+<img src="/images/pre-service%20workshop%201.png" 
+     style="width:50%;float:left"><img src="/images/pre-service%20workshop%202.png" 
+     style="width:50%">
+
+_Sec 3 students underwent pre-service workshop conducted by TOUCH Community Services on caring for the elderly._
