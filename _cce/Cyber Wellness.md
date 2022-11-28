@@ -137,3 +137,18 @@ Cyber Wellness programme to other Cyber Wellness Coordinators at Cyber Wellness 
 
 
 <center>Sharing their aspirations for the online sphere.</center>
+
+**Partnerships**
+
+We believe in working closely with other key stakeholders.
+
+  
+
+*   Other schools
+
+Since 2015, we have been supporting the Cyber Wellness programmes in other schools. Our student leaders have conducted workshops and training programmes for both Primary and Secondary schools. Our student leaders have also organised a Cyber Wellness Fest to engage their students as a form of Values-In-Action (VIA) project. 
+  
+
+*   Other external organisations
+
+We have engaged the support of other organisations such as Singapore Kindness Movement, Kingmaker, KPMG, IMDA and the Tampines community centres to run various activities such as assembly talks and outreach projects.
