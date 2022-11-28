@@ -21,21 +21,9 @@ description: ""
 _Sec 3 students underwent pre-service workshop conducted by TOUCH Community Services on caring for the elderly._
 
 <img src="/images/Social%20work%201.png" 
-     style="width:35%;float:left"><img src="/images/Social%20work%202.png" 
-     style="width:27%;float:left"><img src="/images/Social%20work%203.png" 
-     style="width:23%;float:left">
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
+     style="width:40%;float:left"><img src="/images/Social%20work%202.png" 
+     style="width:32%;float:left"><img src="/images/Social%20work%203.png" 
+     style="width:28%;float:left">
 
 _Sec 3 and 4 students work with various organisations which helped enhance their experiences and social skills._
 
