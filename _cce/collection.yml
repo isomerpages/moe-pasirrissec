@@ -2,4 +2,5 @@ collections:
   cce:
     output: true
     order:
+      - Sexuality Education.md
       - Values In Action (VIA).md
