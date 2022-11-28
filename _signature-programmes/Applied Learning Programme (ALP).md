@@ -59,3 +59,5 @@ _Bottom left: Our Sec 2 students undergoing a film making workshop conducted by 
 _Top right: Our students sharing about the PRSS Waves Radio show to guests during the 35th Anniversary celebrations_ 
 
 _Bottom right: Our #Ruminate gallery where students can learn more about contemporary issues and news that affect our community._
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SHelsGz7fbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
