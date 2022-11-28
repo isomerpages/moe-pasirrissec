@@ -152,3 +152,7 @@ Since 2015, we have been supporting the Cyber Wellness programmes in other schoo
 *   Other external organisations
 
 We have engaged the support of other organisations such as Singapore Kindness Movement, Kingmaker, KPMG, IMDA and the Tampines community centres to run various activities such as assembly talks and outreach projects.
+
+<img src="/images/Partnership.jpeg" 
+     style="width:50%;float:left"><img src="/images/Partnership%201.jpeg" 
+     style="width:50%">
