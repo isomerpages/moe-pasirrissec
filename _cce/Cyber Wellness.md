@@ -127,3 +127,6 @@ Cyber Wellness programme to other Cyber Wellness Coordinators at Cyber Wellness 
 
 ![](/images/terry%20award.jpeg)
 <center>Terry Teng, Cyber Wellness Student Ambassador Awardee 2019</center>
+
+![](/images/be%20the%20change_1.jpeg)
+<center> Winning the Top Prize at Design For Change Challenge in 2019.</center>
