@@ -114,3 +114,13 @@ To further develop and share our expertise in Cyber Wellness, the school present
      style="width:50%">
 <center>Presentation at National Cyber Wellness student conferences and winning the 1st and 3rd Prize at National Cyber Wellness Advocacy Challenge
 in 2014-2018.</center>
+
+![](/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%207.jpeg)
+
+<center>Ong Jiang En, Cyber Wellness Student Ambassdor Awardee 2017</center>
+
+<img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%208.jpeg" 
+     style="width:50%">
+
+<center>Miss Mavis Ho sharing about the school's holistic  
+Cyber Wellness programme to other Cyber Wellness Coordinators at Cyber Wellness Connexion Conference 2018.</center>
