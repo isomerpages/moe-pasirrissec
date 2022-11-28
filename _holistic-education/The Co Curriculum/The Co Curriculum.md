@@ -5,4 +5,4 @@ description: ""
 third_nav_title: The Co Curriculum
 ---
 [<img src="/images/VIA.png" 
-     style="width:25%">](/the-co-curriculum/Values-In-Action-VIA)
+     style="width:25%">](/cce/Values-In-Action-VIA)
