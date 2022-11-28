@@ -19,3 +19,8 @@ description: ""
      style="width:50%">
 
 _Sec 3 students underwent pre-service workshop conducted by TOUCH Community Services on caring for the elderly._
+
+<img src="/images/Social%20work%201.png" 
+     style="width:35%;float:left"><img src="/images/Social%20work%202.png" 
+     style="width:27%;float:left"><img src="/images/Social%20work%203.png" 
+     style="width:23%;float:left">
