@@ -11,3 +11,18 @@ In PRSS, we embrace the love of aesthetics and have a vibrant culture in the Mus
 
 ![](/images/LLP%20FRamework%202022.jpeg)
 <center>LLP FRamework 2022</center>
+
+Learning for Life Programme (LLP) aims to build a vibrant arts environment where every child can **SHINE through the ARTs.**  
+
+  
+**Vision**
+
+  
+
+To develop Pasirians into: 
+
+1.  **Cultured Citizens** who are well-acquainted with the culture and heritage of Singapore and deeply appreciative of its Arts and its place in society
+2.  **Reflective learners** who are able to interpret, respond, and reflect on their experiences and interactions with the various art forms
+3.  **Creative Performers** who are able to create and use multiple art forms for communication & expression.
+
+![](/images/LLP2.png)
