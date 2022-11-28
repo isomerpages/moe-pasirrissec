@@ -24,3 +24,18 @@ _Sec 3 students underwent pre-service workshop conducted by TOUCH Community Serv
      style="width:35%;float:left"><img src="/images/Social%20work%202.png" 
      style="width:27%;float:left"><img src="/images/Social%20work%203.png" 
      style="width:23%;float:left">
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+_Sec 3 and 4 students work with various organisations which helped enhance their experiences and social skills._
+
