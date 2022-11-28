@@ -29,5 +29,7 @@ _Sec 3 and 4 students work with various organisations which helped enhance their
 
 <img src="/images/Sec%202%20students%20sharing%201.png" 
      style="width:35%;float:left"><img src="/images/Sec%202%20students%20sharing%202.png" 
-     style="width:29%;float:left"><img src="/images/Sec%202%20students%20sharing%203.png" 
-     style="width:36%;float:left">
+     style="width:29%;float:left"><img src="/images/Sec%202%20students%20sharing%203.png" style="width:36%">
+		 
+_Sec 2 students sharing their projects at Pasir Ris Library and Tampines Hub Library on Pioneers of Singapore._
+
