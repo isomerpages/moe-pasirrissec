@@ -36,3 +36,9 @@ Through ECG curriculum and programmes, the school aims to help students to:
 **Post- Secondary School Education Pathways**
 
 <center>Pathway for Students through GCE O-Level</center>
+
+![](/images/Pathway%20O%20Level.png)
+
+<center>Pathway for Students through GCE Normal (Academic) Level</center>
+
+![](/images/Pathway%20N(A)%20Level.png)
