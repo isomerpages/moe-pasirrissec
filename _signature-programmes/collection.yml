@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Learning for Life Programme (LLP).md
       - National Digital Literacy Programme (NDLP).md
       - Interdisciplinary Project Work (IPW).md
       - Level Camps.md
