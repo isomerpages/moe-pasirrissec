@@ -61,3 +61,11 @@ _Top right: Our students sharing about the PRSS Waves Radio show to guests durin
 _Bottom right: Our #Ruminate gallery where students can learn more about contemporary issues and news that affect our community._
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SHelsGz7fbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Podcast on social issues by our Sec 3 students**
+
+**A Radio podcast**
+
+**A short Radio show which our students produced as part of their training**
+
+[Click here](/useful-links/Direct-School-Admission-DSA/DSA-ALP-IN-HUMANITIES-AND-ENGLISH-LANGUAGE) to find out how you can join PRSS through our Direct School Admission in ALP
