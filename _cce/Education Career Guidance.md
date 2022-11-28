@@ -46,3 +46,17 @@ Through ECG curriculum and programmes, the school aims to help students to:
 <center>Pathway for Students through GCE 'NT' Level</center>
 
 ![](/images/Pathway%20N(T)%20Level.png)
+
+**More Information:**<br>
+[https://www.moe.gov.sg/post-secondary/admissions](https://www.moe.gov.sg/post-secondary/admissions)
+
+<img src="/images/QR%20COde%201.png" 
+     style="width:25%">
+
+**MySkillsFuture Student Portal - Support for Our Students**
+
+“What do you want to be when you grow up?”
+
+  
+
+Choosing one's education or career path is one of the most important yet difficult decisions to make. Students need to be able to make well-informed choices by talking to their parents, home teachers, subject teachers and/or school ECG counsellor about their education and career aspirations. They can also explore and gather information via the MOE Education and Career Guidance e-portal at https://www.myskillsfuture.sg/secondary
