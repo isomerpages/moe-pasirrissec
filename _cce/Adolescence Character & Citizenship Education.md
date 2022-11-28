@@ -156,3 +156,28 @@ In PRSS, time is set aside for home teachers to have Student-Teacher Conferences
 
 ![](/images/School%20approach.jpeg)
 <center>A whole school approach to deepening relationships between home teachers and their charges. </center>
+
+**Peer Support and Relationships**
+
+Supportive peer relationships form a critical part of the network of positive relationships in school. Peers are a significant source of support for most students and especially so for adolescents as they are more likely to turn to their friends rather than adults for help. With Peer Support and Relationships (PSR), students participate in fostering strong bonds of friendships and a sense of belonging to the school community (peer bonding), provide practical help, and social-emotional support to one another (peer helping) and promote positive mindsets, pro-social behaviours both online and offline, well-being and role-model good character (peer influencing). Taken together, these efforts contribute to the building of a caring and supportive peer culture, by students for students.
+
+  
+
+**Student Voice and Ownership**
+
+To establish an effective learning environment for CCE, it is critical to take into account student voices, and co-design learning approaches and activities that cater to their needs and interests. Creating space for students to be heard and encouraged to play an active role in what and how they learn, provides opportunities for them to develop agency or self-directedness, responsibility, and ownership of their learning. Student participation in the planning and implementation of some aspects of CCE, e.g. Values in Action (VIA) activities, Co-curricular activities (CCAs), outdoor activities, Cyber Wellness, peer-support initiatives and other relevant aspects, will create
+
+![](/images/Staff%201.png)
+
+To increase student engagement during CCE lessons, the teachers seek to strengthen student voice through facilitating lessons well. To build up staff capacity in this area, the Specialised CCE teachers of each level conduct weekly training and discussions with the home teachers of each level, where they discuss about the lesson content, as well as the pedagogies that they using to enable effective learning and how to assess if students have learnt. 
+
+  
+
+**Adult Role-modeling**
+
+Adults in the school, especially school leaders, key personnel, teachers, and coaches have a powerful influence on students, who look to them for guidance, inspiration, wisdom, and support. Adults need to be aware of the positive or negative impact they can have on young minds, and consciously try to be good role models of the values, social-emotional competencies, and citizenship dispositions that we hope to see in students.
+
+**Consistent and Coherent Messaging**
+
+For schools to provide a conducive environment for positive dispositional development in our students, it is of critical importance that the messaging about values, character, social-emotional well-being, and citizenship is consistently and coherently demonstrated in the various experiences the student encounters throughout the school day. A common language used intentionally by all members of the school community will demonstrate coherence between intentions, goals, actions, decisions, habits, and behaviours. Systems and structures in the school also support and make explicit the messaging on the centrality of the development of students’ character and citizenship dispositions in the school environment.
+
