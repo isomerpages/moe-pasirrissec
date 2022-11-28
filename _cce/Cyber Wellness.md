@@ -156,3 +156,6 @@ We have engaged the support of other organisations such as Singapore Kindness Mo
 <img src="/images/Partnership.jpeg" 
      style="width:50%;float:left"><img src="/images/Partnership%201.jpeg" 
      style="width:50%">
+		 <img src="/images/Partnership%203.jpeg" 
+     style="width:50%;float:left"><img src="/images/Partnership%203.jpeg" 
+     style="width:50%">
