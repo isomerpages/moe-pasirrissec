@@ -2,5 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
+      - The Co Curriculum/The Co Curriculum.md
       - The Co Curriculum/.keep
       - Blended Learning.md
