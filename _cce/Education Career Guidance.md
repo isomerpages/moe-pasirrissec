@@ -83,3 +83,15 @@ Parents or students who would like to explore more about subject choices, enquir
 
 <img src="/images/QR%20COde%203.png" 
      style="width:25%">
+		 
+**ECG Talks / Workshops**
+
+Regular talks and workshops are conducted by our ECG Counsellor to help students better chart their post-secondary educational pathways so as to work towards an industry of their choice.
+
+![](/images/ECG%20Talk.png)
+
+**Career Awareness Day**
+
+PRSS alumni were invited back to share their personal educational journeys and career experiences with their juniors.
+
+![](/images/Career%20Awareness%20(1).png)
