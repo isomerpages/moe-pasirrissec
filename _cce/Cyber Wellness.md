@@ -130,3 +130,10 @@ Cyber Wellness programme to other Cyber Wellness Coordinators at Cyber Wellness 
 
 ![](/images/be%20the%20change_1.jpeg)
 <center> Winning the Top Prize at Design For Change Challenge in 2019.</center>
+
+<img src="/images/Terry%20individual.jpeg" 
+     style="width:35%;float:left"><img src="/images/be%20the%20change_2.jpeg" 
+     style="width:65%">
+
+
+<center>Sharing their aspirations for the online sphere.</center>
