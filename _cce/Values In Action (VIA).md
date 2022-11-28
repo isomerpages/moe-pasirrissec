@@ -36,3 +36,11 @@ _Sec 2 students sharing their projects at Pasir Ris Library and Tampines Hub Lib
 <img src="/images/Environmental%20Awareness%20Projects%201.png" 
      style="width:45%;float:left"><img src="/images/Environmental%20Awareness%20Projects%202.png" 
      style="width:55%">
+		 
+_Sec One Environmental Awareness Projects to P6 students from Parkview Primary to conserve water as well as energy._
+
+<img src="/images/energy%20conservation%20game%201.png" 
+     style="width:45%;float:left"><img src="/images/energy%20conservation%20game%202.png" 
+     style="width:55%">
+
+_Students shared on an energy conservation game at Tampines Learning Festival and Racial Harmony Day Fund-Raising Carnival for President’s Challenge in school._
