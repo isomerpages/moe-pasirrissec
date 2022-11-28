@@ -152,9 +152,7 @@ Positive interpersonal relationships between teachers and students contribute si
 In PRSS, time is set aside for home teachers to have Student-Teacher Conferences (STCs) in the morning. During STCs, HTs meet students one to one to get to know them better and to understand their concerns so that they are able to better support them.
 
 ![](/images/STC.jpeg)
-
 <center>STCs being conducted by home teachers </center>
 
 ![](/images/School%20approach.jpeg)
-
 <center>A whole school approach to deepening relationships between home teachers and their charges. </center>
