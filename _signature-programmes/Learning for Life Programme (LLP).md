@@ -26,3 +26,13 @@ To develop Pasirians into: 
 3.  **Creative Performers** who are able to create and use multiple art forms for communication & expression.
 
 ![](/images/LLP2.png)
+
+**Program Structure**
+
+  
+
+PRSS has the 4E Development Plan to promote school-wide progression in the development of the arts that progresses from the introduction of the various arts to specialization in the different art forms.  
+
+##### Photos
+
+
