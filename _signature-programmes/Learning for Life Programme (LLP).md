@@ -45,3 +45,13 @@ PRSS has the 4E Development Plan to promote school-wide progression in the dev
      style="width:50%">
 		 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TPW6uOQuj8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1sKeX7eeCGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nm0XEDCP6f4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rHNnRwcqwJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img src="/images/Angklung%202.jpeg" 
+     style="width:50%;float:left"><img src="/images/Traditional%20Drumming.jpeg" 
+     style="width:50%">
