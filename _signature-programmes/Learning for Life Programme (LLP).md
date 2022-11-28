@@ -39,3 +39,7 @@ PRSS has the 4E Development Plan to promote school-wide progression in the dev
      style="width:50%;float:left">
 <img src="/images/Gift%20of%20the%20Art.png" 
      style="width:50%">
+		 <img src="/images/Creative%20Performers.png" 
+     style="width:50%;float:left">
+<img src="/images/llp%20black.png" 
+     style="width:50%">
