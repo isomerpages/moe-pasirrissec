@@ -124,3 +124,6 @@ in 2014-2018.</center>
 
 <center>Miss Mavis Ho sharing about the school's holistic  
 Cyber Wellness programme to other Cyber Wellness Coordinators at Cyber Wellness Connexion Conference 2018.</center>
+
+![](/images/terry%20award.jpeg)
+<center>Terry Teng, Cyber Wellness Student Ambassador Awardee 2019</center>
