@@ -42,3 +42,7 @@ Through ECG curriculum and programmes, the school aims to help students to:
 <center>Pathway for Students through GCE Normal (Academic) Level</center>
 
 ![](/images/Pathway%20N(A)%20Level.png)
+
+<center>Pathway for Students through GCE 'NT' Level</center>
+
+![](/images/Pathway%20N(T)%20Level.png)
