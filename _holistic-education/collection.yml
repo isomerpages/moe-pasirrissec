@@ -1,4 +1,5 @@
 collections:
   holistic-education:
     output: true
-    order: []
+    order:
+      - Blended Learning.md
