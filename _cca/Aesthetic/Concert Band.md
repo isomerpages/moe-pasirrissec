@@ -41,3 +41,36 @@ Achievements
 Schedule
 --------
 ![](/images/bandschedule.png)
+
+Teachers-in-charge
+------------------
+
+Madam Anmilia Anwar Datt (OIC)
+
+Ms. Jasmine Peh (2IC)
+
+Mr. Omarali
+
+Ms. Leom Li Yan
+
+Mr. Jonathan Chan
+
+Ms. Wang Xiangkun
+
+Mr. Lokhman Haris
+
+Conductor
+---------
+
+Mr. Faizal Othman
+
+Mr. Steven Phua
+
+Photos
+------
+
+![](/images/Band%20Photo%201.jpeg)
+![](/images/Band%20Photo%202.jpeg)
+![](/images/band%20photo%203.png)
+![](/images/Band%20Photo%204.png)
+![](/images/Band%20Photo%205.png)
