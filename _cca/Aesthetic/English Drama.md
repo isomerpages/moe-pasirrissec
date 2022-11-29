@@ -91,4 +91,3 @@ Photos
 <img src="/images/FNDS1.jpeg" 
      style="width:50%;float:left"><img src="/images/FNDS2.jpeg" 
      style="width:50%">
-![](/images/FNDS2.jpeg)
