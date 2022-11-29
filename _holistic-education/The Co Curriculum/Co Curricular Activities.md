@@ -41,16 +41,16 @@ Except for medical reasons, an attendance rate of less than 50% would constitute
 #### **Aesthetic**
 
 [<img src="/images/ChineseOrchestra.png" 
-     style="width:20%;float:left">](/cca/Chinese-Orchestra)
+     style="width:20%;float:left">](/cca/Aesthetic/Chinese-Orchestra/)
 		 
-<img src="/images/Choir.png" 
-     style="width:20%;float:left">
+[<img src="/images/Choir.png" 
+     style="width:20%;float:left">](/cca/Aesthetic/Choir/)
 		 
-<img src="/images/ConcertBand.png" 
-     style="width:20%;float:left">
+[<img src="/images/ConcertBand.png" 
+     style="width:20%;float:left">](/cca/Aesthetic/Concert-Band/)
 		 
-<img src="/images/ModernDance.png" 
-     style="width:20%;float:left">
+[<img src="/images/ModernDance.png" 
+     style="width:20%;float:left">]((/cca/Aesthetic/Modern-Dance/)
 		 
-<img src="/images/EnglishDrama.png" 
-     style="width:20%">
+[<img src="/images/EnglishDrama.png" 
+     style="width:20%">](/cca/Aesthetic/English-Drama/)
