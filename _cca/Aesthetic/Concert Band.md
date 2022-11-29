@@ -74,3 +74,6 @@ Photos
 ![](/images/band%20photo%203.png)
 ![](/images/Band%20Photo%204.png)
 ![](/images/Band%20Photo%205.png)
+![](/images/Band%20Photo%206.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Otjb4IvJyBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
