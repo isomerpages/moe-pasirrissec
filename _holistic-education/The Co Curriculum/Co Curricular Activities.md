@@ -37,3 +37,20 @@ For students with an attendance rate of 50% - 74%, the CCA points scored for the
   
 
 Except for medical reasons, an attendance rate of less than 50% would constitute a break in the CCA, and all points accumulated up to and including that year would be annulled.
+
+#### **Aesthetic**
+
+[<img src="/images/ChineseOrchestra.png" 
+     style="width:20%;float:left">](/cca/Chinese-Orchestra)
+		 
+<img src="/images/Choir.png" 
+     style="width:20%;float:left">
+		 
+<img src="/images/ConcertBand.png" 
+     style="width:20%;float:left">
+		 
+<img src="/images/ModernDance.png" 
+     style="width:20%;float:left">
+		 
+<img src="/images/EnglishDrama.png" 
+     style="width:20%">
