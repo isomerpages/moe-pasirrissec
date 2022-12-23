@@ -66,3 +66,7 @@ Photos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/juMno1qq2Ys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](/images/CO%20Photo%202.jpeg)
+![](/images/CO%20Photo%203.png)
+![](/images/CO%202.jpeg)
+![](/images/co.png)
+![](/images/co2.png)
