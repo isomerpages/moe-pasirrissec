@@ -68,3 +68,6 @@ Photos
 ![](/images/Group%202.jpeg)
 <center>Celebrating coach's special day </center>
 
+![](/images/Team%201.jpeg)
+![](/images/Team%202.jpeg)
+![](/images/Training.jpeg)
