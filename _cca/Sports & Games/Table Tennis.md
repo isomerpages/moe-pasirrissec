@@ -41,3 +41,6 @@ Photos
 
 ![](/images/Training%20in%20action.jpeg)
 <center>Training in action</center>
+
+![](/images/Focused.jpeg)
+<center>Focused</center>
