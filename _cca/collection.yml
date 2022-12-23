@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports & Games/.keep
       - Club/Audio Visual Lights.md
       - Club/Tinkers' Club.md
       - Club/.keep
