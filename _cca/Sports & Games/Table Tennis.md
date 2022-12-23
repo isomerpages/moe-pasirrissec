@@ -47,3 +47,6 @@ Photos
 
 ![](/images/Physical%20Fitness.jpeg)
 <center>Physical fitness training</center>
+
+![](/images/Competition%20in%20action.jpeg)
+<center>Competition in action</center>
