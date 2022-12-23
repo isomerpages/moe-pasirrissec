@@ -50,3 +50,10 @@ Photos
 
 ![](/images/Competition%20in%20action.jpeg)
 <center>Competition in action</center>
+
+![](/images/Determined.jpeg)
+<center>Determined</center>
+
+![](/images/Receiving%20coach%20tips.jpeg)
+<center>Receiving coach tips</center>
+
