@@ -50,7 +50,7 @@ Except for medical reasons, an attendance rate of less than 50% would constitute
      style="width:20%;float:left">](/cca/Aesthetic/Concert-Band/)
 		 
 [<img src="/images/ModernDance.png" 
-     style="width:20%;float:left">]((/cca/Aesthetic/Modern-Dance/)
+     style="width:20%;float:left">](/cca/Aesthetic/Modern-Dance/)
 		 
 [<img src="/images/EnglishDrama.png" 
      style="width:20%">](/cca/Aesthetic/English-Drama/)
