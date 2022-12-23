@@ -45,3 +45,77 @@ Highlights
 **SCDF Pinnacle Award 2022** \- Warrant Officer Brasen Lew
 
 **Unit Best Cadet Award 2022** \- Warrant Officer Leyu Jing Kai Rico
+
+Schedule
+--------
+![](/images/ncdccsch.png)
+
+Teachers-in-charge
+------------------
+
+LTA Wong Yun Yi - OIC
+
+LTA Yap Su Fen - 2IC
+
+LTA Hannah Lum Wan Ling
+
+Mr. Daniel Ng Tze Keen
+
+NCDCC Motto
+-----------
+
+  
+
+NCDCC’s motto of “We Learn, We Lead, We Serve”, in alignment to the 3 big ideas in Character and Citizenship Education: “Identity, Relationships and Choices”, well encapsulates the journey of NCDCC cadets into three phases:  
+
+  
+
+**We Learn**
+
+Cadets learn Triangle Of Life skills, which include basic firefighting, first aid and CPR+AED. These are core skills in NCDCC, which enable cadets to help themselves and others in times of need. Equipping cadets with these skills will help to form their identity as NCDCC cadets, a community responder at heart.
+
+**We Lead**
+
+Cadets will be trained in soft skills such as leadership, communication (including methods of instruction), relationship management and social awareness to get them ready for their leadership phase. They will also further hone their civil defence skills by going through one of the three cadet specialist tracks and be given leadership opportunities to lead their peers.
+
+**We Serve**
+
+Cadets will make choices to serve their school and the wider community through public education platforms such as the NCDCC Service Month and Emergency Preparedness Day as advocates of Emergency Preparedness. With the civil defence knowledge and skills imparted to them, they will also be able to lend a helping hand as Community First Responders with a compassionate heart.
+
+![](/images/NCDCC%20poster.jpeg)
+
+**NCDCC Curriculum**
+
+  
+
+NCDCC’s curriculum focuses mainly on Triangle of Life Skills, which include basic firefighting, first aid and CPR+AED. These important lifesaving skills can make a difference to save a life in times of needs.
+
+  
+
+**Secondary 1**
+
+The three badges that a Secondary One Cadets will complete include Total Defence (Bronze) Badge, Foot Drill (Bronze) Badge and Fire Safety Proficiency Badge. Cadets get to go through fire safety training at Sectorised Training. They are eligible for promotion to Lance Corporal upon completion of the three badge works.
+
+  
+
+**Secondary 2**
+
+Secondary Two Cadets typically will complete six badges within the year. This includes Civil Defence Knowledge Badge, First Aid Proficiency Badge, SANA Badge, Foot Drill (Silver) Badge, CPR+AED Proficiency Badge and Rescue Proficiency Badge. They are eligible for promotion to Sergeant upon completion of six badge works.
+
+  
+
+**Secondary 3**
+
+Secondary Three Cadets are required to complete the HAZMAT Proficiency Badge and Homefront Security Badge. There will also be three Specialisation Courses offered, namely the Fire Safety, Medical Response and Urban Search and Rescue Specialisation Courses. Cadets are eligible for promotion to Staff Sergeant upon completion of the Specialisation Courses.
+
+  
+
+**Secondary 4**
+
+The top tier of Cadet Leader will be chosen to the Warrant Officer of the unit.
+
+  
+
+Photos
+------
+![](/images/ncdcc.png)
