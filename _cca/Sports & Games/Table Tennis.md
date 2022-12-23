@@ -57,3 +57,5 @@ Photos
 ![](/images/Receiving%20coach%20tips.jpeg)
 <center>Receiving coach tips</center>
 
+![](/images/Practice.jpeg)
+<center>Practice makes perfect</center>
