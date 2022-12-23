@@ -44,3 +44,6 @@ Photos
 
 ![](/images/Focused.jpeg)
 <center>Focused</center>
+
+![](/images/Physical%20Fitness.jpeg)
+<center>Physical fitness training</center>
