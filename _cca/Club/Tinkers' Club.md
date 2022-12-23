@@ -37,3 +37,8 @@ Mr. Koh Chun Kiat (Advisor)
 Photos
 ------
 
+<img src="/images/SAFMC.jpeg" 
+     style="width:50%;float:left"><img src="/images/Crafts%20at%20tinkers.jpeg" 
+     style="width:50%"><img src="/images/RoboticsCoding.jpeg" 
+     style="width:50%;float:left"><img src="/images/ArtsCraft.jpeg" 
+     style="width:50%">
