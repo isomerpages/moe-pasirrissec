@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Club/Audio Visual Lights.md
       - Club/Tinkers' Club.md
       - Club/.keep
       - Aesthetic/Chinese Orchestra.md
