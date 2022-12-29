@@ -48,9 +48,7 @@ _1 to 1 programme_
 
 ![](/images/Collaboration%20at%20math%20trail.jpeg)
 
-_Collaboration at math trail  
-  
-_
+_Collaboration at math trail_
 
 ![](/images/Conduct%20of%20Virtual%20Math%20Trail.jpeg)
 
