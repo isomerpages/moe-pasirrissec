@@ -130,6 +130,8 @@ Photos
 
 Our Sec 3 students Lim Sing Yee, Marcus Lim, Osbert Tham, took part in the recent @9th ASEAN Plus Three Junior Science Odyssey&nbsp;(APT JSO) and won the Silver award by using their Chemistry skills knowledge to turn used cooking oil into soap in the Science lab.
 
+<a href="https://www.youtube.com/shorts/97OrF_BKt7g">![](/images/sciencereel.png)</a>
+
   
 
 <img style="width:53%;float:left" src="/images/Picture3.jpeg"><img style="width:47%" src="/images/Picture4.jpeg">
