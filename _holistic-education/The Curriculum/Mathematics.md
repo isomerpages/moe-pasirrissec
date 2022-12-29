@@ -28,3 +28,34 @@ The Mathematics curriculum is closely aligned to MOE defined syllabus and includ
 *   Mathematical Modelling and Problems in Real World Context (PRWC)
 *   Math Trail (beyond school)
 *   STEM in Math
+
+People
+------
+
+![](/images/mathpeople.png)
+
+Photos
+------
+
+  
+
+![](/images/Conduct%20of%20SLS%20Lesson%20in%20Class.jpeg)
+_Conduct of SLS Lesson in Class_   
+
+![](/images/1%20to%201%20programme.jpeg)
+
+_1 to 1 programme_  
+
+![](/images/Collaboration%20at%20math%20trail.jpeg)
+
+_Collaboration at math trail  
+  
+_
+
+![](/images/Conduct%20of%20Virtual%20Math%20Trail.jpeg)
+
+_Conduct of Virtual Math Trail_
+
+![](/images/Virtual%20Math%20Trail.jpeg)
+
+_Virtual Math Trail_
