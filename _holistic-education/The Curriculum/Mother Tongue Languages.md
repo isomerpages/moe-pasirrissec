@@ -48,3 +48,14 @@ We seek to develop Pasirians who will be:
  **Programmes**
  
  ![](/images/mothertongueprog.png)
+ 
+ People
+------
+
+  
+
+Teachers as Learners, Teachers as Leaders
+
+Professional Development includes department learning journey, open classroom, presentations @ cluster, zonal, national levels
+
+![](/images/motherpeople.png)
