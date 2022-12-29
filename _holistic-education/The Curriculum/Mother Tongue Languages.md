@@ -59,3 +59,13 @@ Teachers as Learners, Teachers as Leaders
 Professional Development includes department learning journey, open classroom, presentations @ cluster, zonal, national levels
 
 ![](/images/motherpeople.png)
+
+Photos
+------
+
+![](/images/CNY%20Celebrations%202022.jpeg)
+![](/images/Raya%20Celebrations.png)
+![](/images/mothertongue2.png)
+![](/images/Deepavali.jpeg)
+![](/images/Reading%20Programme.jpeg)
+![](/images/mother3.png)
