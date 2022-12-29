@@ -132,28 +132,20 @@ Our Sec 3 students Lim Sing Yee, Marcus Lim, Osbert Tham, took part in the recen
 
   
 
-<img style="width:50%;float:left" src="/images/Picture3.jpeg"><img style="width:50%" src="/images/Picture4.jpeg">
+<img style="width:53%;float:left" src="/images/Picture3.jpeg"><img style="width:47%" src="/images/Picture4.jpeg">
+
+Teachers as Facilitators of Students’ Learning Experiences  
 
 ![](/images/Picture5.jpeg)
 
 <img style="width:43%;float:left" src="/images/Picture6.jpeg"><img style="width:57%" src="/images/Picture7.jpeg">
-  
-
-Teachers as Facilitators of Students’ Learning Experiences  
-
-![Picture5.jpg](https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Curriculum/Science/Picture5.jpg)  
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234);" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Picture6.jpg" src="https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Curriculum/Science/Picture6.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Picture7.jpg" src="https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Curriculum/Science/Picture7.jpg"></td></tr></tbody></table>
 
   
 
 Students as Inquirers in the Science classroom  
 
   
-
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234);" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Picture8.jpg" src="https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Curriculum/Science/Picture8.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Picture9.jpg" src="https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Curriculum/Science/Picture9.jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Picture11.jpg" src="https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Curriculum/Science/Picture11.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Picture10.jpg" src="https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Curriculum/Science/Picture10.jpg"></td></tr></tbody></table>
+![](/images/science2.png)
 
   
 
