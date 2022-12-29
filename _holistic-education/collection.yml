@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - The Co Curriculum/The Co Curriculum.md
       - The Co Curriculum/Co Curricular Activities.md
       - The Co Curriculum/Character & Citizenship Education.md
       - The Co Curriculum/.keep
