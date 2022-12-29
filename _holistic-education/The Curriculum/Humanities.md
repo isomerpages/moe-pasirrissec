@@ -18,3 +18,15 @@ As part of professional learning, we continue to innovate our instructional prog
 ![](/images/Hum%20Inquiry%20approach.jpeg)
 
 Since 2015, our school has been on the Applied Learning Programme (ALP) in Humanities and English Language. This resulted in an increase in the variety of Humanities Subjects offered at the Upper Secondary levels. In addition, a thinking paradigm utilising the Elements of Thought and Intellectual Standards was adopted. Together with an emphasis on contemporary issues and broadcast journalism platforms, we aim to develop our students into concerned citizens who will be able to contribute meaningfully back to Singapore.
+
+People
+------
+
+![](/images/humanpeople.png)
+
+Photos
+------
+
+![](/images/Humanities.png)
+![](/images/Humanities%202.png)
+![](/images/human2.png)
