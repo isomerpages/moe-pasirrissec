@@ -119,3 +119,8 @@ The programme is divided into three tiers: Enrich, Engage, Excel
   
 
 You can access the virtual tour of our school's Eco Garden [here](https://www.theasys.io/viewer/qkQVL2MUIHWYlEYQ7leC0upoNvvyEg/).
+
+People
+------
+
+![](/images/sciencepeople.png)
