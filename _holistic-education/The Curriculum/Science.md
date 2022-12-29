@@ -134,6 +134,9 @@ Our Sec 3 students Lim Sing Yee, Marcus Lim, Osbert Tham, took part in the recen
 
 <img style="width:50%;float:left" src="/images/Picture3.jpeg"><img style="width:50%" src="/images/Picture4.jpeg">
 
+![](/images/Picture5.jpeg)
+
+<img style="width:43%;float:left" src="/images/Picture6.jpeg"><img style="width:57%" src="/images/Picture7.jpeg">
   
 
 Teachers as Facilitators of Students’ Learning Experiences  
