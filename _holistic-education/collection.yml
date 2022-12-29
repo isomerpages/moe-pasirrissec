@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - The Curriculum/Mother Tongue Languages.md
       - The Curriculum/Physical Education.md
       - The Curriculum/Science.md
       - The Curriculum/The Curriculum.md
