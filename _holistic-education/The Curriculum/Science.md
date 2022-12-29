@@ -49,7 +49,7 @@ The programme is divided into three tiers: Enrich, Engage, Excel
 
 **Stage 1 (Enrich)**
 
-*   Field trips   
+*   Field trips&nbsp;  
     
 *   Learning journeys
 *   Survival in the Wild Inquiry Workshop
@@ -73,41 +73,41 @@ The programme is divided into three tiers: Enrich, Engage, Excel
 
   
 
-**Highlights** 
+**Highlights**&nbsp;
 
-*   **Unity Scientific Innovation Challenge with SP & ERI@N (USPE 2022) Finals**
+*   **Unity Scientific Innovation Challenge with SP &amp; ERI@N (USPE 2022) Finals**
 
-> Consolation prize and Participation prize
+&gt; Consolation prize and Participation prize
 
 *   **IgnITE Skills Challenge 2022**
 
-> Certificate of Participation
+&gt; Certificate of Participation
 
 *   **International C. B. Paul Science Quiz 2022**
 
-> Lower Secondary  - 2 silver, 1 bronze and 1 participation
-> 
-> Upper Secondary  - 1 silver, 1 bronze, 3 merit and 3 participations
+&gt; Lower&nbsp;Secondary&nbsp; - 2 silver, 1 bronze and 1 participation
+&gt; 
+&gt; Upper Secondary&nbsp; - 1 silver, 1 bronze, 3 merit and 3 participations
 
 *   **Singapore Junior Physics Olympiad 2022**
 
-> Individual round - 1 bronze, 7 honourable mentions and 5 participations
-> 
-> Team round - 1 bronze and 2 participations
+&gt; Individual round - 1 bronze, 7 honourable mentions and 5 participations
+&gt; 
+&gt; Team round - 1 bronze and 2 participations
 
 *   **Singapore Junior Biology Olympiad 2022**
 
-> Individual round - 3 bronze, 2 honourable mentions and 2 participations
+&gt; Individual round - 3 bronze, 2 honourable mentions and 2 participations
 
 *   **ASEAN +3 Junior Science Odyssey (APTJSO)**
 
-> Science Process Skills Challenge - Silver
-> 
-> Sustainability Challenge - Silver
-> 
-> Interdisciplinary Group Project - Gold
+&gt; Science Process Skills Challenge - Silver
+&gt; 
+&gt; Sustainability Challenge - Silver
+&gt; 
+&gt; Interdisciplinary Group Project - Gold
 
-**The PRSS Ecogarden**   
+**The PRSS Ecogarden**&nbsp;  
 
   
 
@@ -124,3 +124,34 @@ People
 ------
 
 ![](/images/sciencepeople.png)
+
+Photos
+------
+
+Our Sec 3 students Lim Sing Yee, Marcus Lim, Osbert Tham, took part in the recent @9th ASEAN Plus Three Junior Science Odyssey&nbsp;(APT JSO) and won the Silver award by using their Chemistry skills knowledge to turn used cooking oil into soap in the Science lab.
+
+  
+
+<img style="width:50%;float:left" src="/images/Picture3.jpeg"><img style="width:50%" src="/images/Picture4.jpeg">
+
+  
+
+Teachers as Facilitators of Students’ Learning Experiences  
+
+![Picture5.jpg](https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Curriculum/Science/Picture5.jpg)  
+
+  
+
+<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234);" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Picture6.jpg" src="https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Curriculum/Science/Picture6.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Picture7.jpg" src="https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Curriculum/Science/Picture7.jpg"></td></tr></tbody></table>
+
+  
+
+Students as Inquirers in the Science classroom  
+
+  
+
+<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234);" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Picture8.jpg" src="https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Curriculum/Science/Picture8.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Picture9.jpg" src="https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Curriculum/Science/Picture9.jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Picture11.jpg" src="https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Curriculum/Science/Picture11.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Picture10.jpg" src="https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Curriculum/Science/Picture10.jpg"></td></tr></tbody></table>
+
+  
+
+Students demonstrating evidence of their learning at different national and international competitions
