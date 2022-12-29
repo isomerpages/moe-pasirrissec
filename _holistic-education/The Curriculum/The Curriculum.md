@@ -19,3 +19,10 @@ The Pasir Ris Secondary School Curriculum is designed and customised for every s
      style="width:33%;float:left">
 		 <img src="/images/mathematics.png" 
      style="width:33%">
+		 
+<img src="/images/mothertongue.png" 
+     style="width:33%;float:left">
+		 <img src="/images/physicaledu.png" 
+     style="width:33%;float:left">
+		 <img src="/images/science.png" 
+     style="width:33%">
