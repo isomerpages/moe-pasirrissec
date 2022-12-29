@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Co Curricular Activities.md
       - Aesthetic/.keep
       - Aesthetic/Chinese Orchestra.md
       - Aesthetic/Choir.md
