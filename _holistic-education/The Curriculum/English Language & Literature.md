@@ -44,3 +44,8 @@ In the Literature classroom, students read and respond to a variety of literary 
   
 
 It is our goal to continue to engage our students and to prepare them for the challenging future ahead with 21st century critical thinking and effective communication skills in the English Language.
+
+People
+------
+
+![](/images/englishpeople.png)
