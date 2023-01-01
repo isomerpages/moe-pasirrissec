@@ -13,7 +13,8 @@ The English Language and Literature Department is committed to nurturing confide
 
 ![](/images/EL%202020%20foci.jpeg)
 
-  
+
+
 
   
 
@@ -49,3 +50,6 @@ People
 ------
 
 ![](/images/englishpeople.png)
+
+Photos
+------
