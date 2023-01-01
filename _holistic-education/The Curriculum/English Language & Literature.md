@@ -53,3 +53,5 @@ People
 
 Photos
 ------
+![](/images/english.png)
+![](/images/english2.png)
