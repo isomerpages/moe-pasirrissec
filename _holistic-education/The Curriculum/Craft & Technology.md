@@ -8,10 +8,13 @@ Programme
 ---------
 
   
+<ul class="jekyllcodex\_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion1">  
+    <label for="accordion1">Design & Technology </label>  
+    <div>
 
-#### Design & Technology 
-
-The Design & Technology (DT) Unit adopts the DT T&L Framework based on the MOE Syllabus document. The unit aims to instill the design-thinking culture in our students, where empathy, being inquisitive, sketching, critical and creative thinking skills are emphasized in our instructional programme.  
+<p>The Design & Technology (DT) Unit adopts the DT T&L Framework based on the MOE Syllabus document. The unit aims to instill the design-thinking culture in our students, where empathy, being inquisitive, sketching, critical and creative thinking skills are emphasized in our instructional programme.  
 
   
 
@@ -85,4 +88,7 @@ Highlights Photo Set B: Applying block programming knowledge in an authentic con
 Highlights, Photo Set C: Applying design thinking to discover and analyse real world issues as well as prototyping solutions (PRSS Design Thinking Challenge (2019).  
 
   
-![](/images/dnt4.png)
+![](/images/dnt4.png)</p>
+
+</div>  
+</li>
