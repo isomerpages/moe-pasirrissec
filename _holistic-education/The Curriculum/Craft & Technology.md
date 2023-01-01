@@ -75,76 +75,14 @@ Highlights Photo Set A: Exposure to Mobile App writing, CAD software, and receiv
 
   
 
-![Mobile App_1.jpg](https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Departments/Craft%20&%20Technology/Photos/D&T/Mobile%20App_1.jpg)
-
-![Mobile App_2.jpg](https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Departments/Craft%20&%20Technology/Photos/D&T/Mobile%20App_2.jpg)![Mobile App_3.jpg](https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Departments/Craft%20&%20Technology/Photos/D&T/Mobile%20App_3.jpg)  
+![](/images/dnt2.png)
 
   
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 Highlights Photo Set B: Applying block programming knowledge in an authentic context  (Digital Making National Infocomm Challenge (2019) 
 
-![Programming Knowledge 2.jpg](https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Departments/Craft%20&%20Technology/Photos/D&T/Programming%20Knowledge%202.jpg)
-
-![Programming Knowledge 1.jpg](https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Departments/Craft%20&%20Technology/Photos/D&T/Programming%20Knowledge%201.jpg)
-
-![Programming Knowledge 3.jpg](https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Departments/Craft%20&%20Technology/Photos/D&T/Programming%20Knowledge%203.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+![](/images/dnt3.png)
 
 Highlights, Photo Set C: Applying design thinking to discover and analyse real world issues as well as prototyping solutions (PRSS Design Thinking Challenge (2019).  
 
   
-
-![Design Thinking 1.jpg](https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Curriculum/CnT/Design%20Thinking%201.jpg)
-
-![Design Thinking 2.jpg](https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Curriculum/CnT/Design%20Thinking%202.jpg)![Design Thinking 3.jpg](https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Curriculum/CnT/Design%20Thinking%203.jpg)
+![](/images/dnt4.png)
