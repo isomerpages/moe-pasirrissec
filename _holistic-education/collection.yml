@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - The Curriculum/English Language & Literature.md
       - The Curriculum/Humanities.md
       - The Curriculum/Mathematics.md
       - The Curriculum/Mother Tongue Languages.md
