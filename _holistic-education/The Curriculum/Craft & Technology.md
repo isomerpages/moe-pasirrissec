@@ -14,31 +14,29 @@ Programme
     <label for="accordion1">Design & Technology </label>  
     <div>
 
-<p>The Design & Technology (DT) Unit adopts the DT T&L Framework based on the MOE Syllabus document. The unit aims to instill the design-thinking culture in our students, where empathy, being inquisitive, sketching, critical and creative thinking skills are emphasized in our instructional programme.  
+<p>The Design & Technology (DT) Unit adopts the DT T&L Framework based on the MOE Syllabus document. The unit aims to instill the design-thinking culture in our students, where empathy, being inquisitive, sketching, critical and creative thinking skills are emphasized in our instructional programme. </p>
 
   
 
-![](/images/Design%20Process.png)
+<img src="/images/Design%20Process.png">
 
-Source: MOE Syllabus document  
-
-  
-
-The DT Unit uses the Design Process Model as a thinking routine and vehicle for designing to create change so as to affect empathy, practicality and appropriateness in everyday life.  
+<p>Source: MOE Syllabus document </p>
 
   
 
-  
-
-![](/images/Research.png)
+<p>The DT Unit uses the Design Process Model as a thinking routine and vehicle for designing to create change so as to affect empathy, practicality and appropriateness in everyday life.  </p>
 
   
-
-Source: MOE Syllabus document  
+<img src="/images/Research.png">
 
   
 
-**Research and Needs Analysis** \- research and investigate to seek real world problems for designing of solutions to meet target users’ needs.  
+<p>Source: MOE Syllabus document  </p>
+
+  
+
+<p>Research and Needs Analysis </p>
+<p>- research and investigate to seek real world problems for designing of solutions to meet target users’ needs.  </p>
   
 
 ![](/images/Area%20Survey.jpeg)
