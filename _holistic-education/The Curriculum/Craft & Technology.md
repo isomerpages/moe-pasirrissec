@@ -38,35 +38,37 @@ Programme
 <p>Research and Needs Analysis </p>
 <p>- research and investigate to seek real world problems for designing of solutions to meet target users’ needs.  </p>
   
-
-![](/images/Area%20Survey.jpeg)
-  
-  
-
-**Idea Conceptualization & Development** \- use sketching, doodling and any other graphical means to generate, explore, communicate and develop creative and innovative solutions.  
+<img src="/images/Area%20Survey.jpeg">
 
   
+  
 
-![](/images/ideas.jpeg)
+<p>Idea Conceptualization & Development</p>
+<p>- use sketching, doodling and any other graphical means to generate, explore, communicate and develop creative and innovative solutions.  </p>
+
+  
+<img src="/images/ideas.jpeg">
 
  
 
-**Prototyping** \- learn design manipulating skills to build mock-up models with model making materials and prototype using resistant materials. There is also the opportunity for students to test and evaluate proposed solutions for improvements.  
+<p>Prototyping</p> 
+<p>- learn design manipulating skills to build mock-up models with model making materials and prototype using resistant materials. There is also the opportunity for students to test and evaluate proposed solutions for improvements.  </p>
 
   
 
-![](/images/dnt.png)
+<img src="/images/dnt.png">
   
 
-![](/images/Room.jpeg)
+<img src="/images/Room.jpeg">
 
 
-**Signature Program - Makers’ Education**  
-Since 2019, the D&T Unit has begun to shift in tandem with the national initiative towards “digital”. As part of the shift, the department has acquired some prototyping capability such as laser cutting equipment, heat press machines and 3D printer. This will “empower” the D&T Unit to gradually incorporate “Makers’ Education” as part of the department’s added focus to expose the students to prototype and test out their “ideas for school improvement” around them. Such opportunities will allow our students to experience a “real life” approach in problem solving as the students are able to “transform” their proposed ideas from sketches/drawings to actual real life application and/or implementation.
+<p>Signature Program - Makers’ Education</p>  
+<p>Since 2019, the D&T Unit has begun to shift in tandem with the national initiative towards “digital”. As part of the shift, the department has acquired some prototyping capability such as laser cutting equipment, heat press machines and 3D printer. This will “empower” the D&T Unit to gradually incorporate “Makers’ Education” as part of the department’s added focus to expose the students to prototype and test out their “ideas for school improvement” around them. Such opportunities will allow our students to experience a “real life” approach in problem solving as the students are able to “transform” their proposed ideas from sketches/drawings to actual real life application and/or implementation.</p>
 
-![](/images/classroom.jpeg)
 
-**Extended Learning**
+<img src="/images/classroom.jpeg">
+
+<p>Extended Learning</p>
 
 *   Participation in Design Thinking and Innovation Boot Camp organized by Nanyang Polytechnic for Secondary 3 D&T students.
 *   Participation in Singapore Amazing Flying Machine Competition by Singapore Science Centre
@@ -90,3 +92,4 @@ Highlights, Photo Set C: Applying design thinking to discover and analyse real w
 
 </div>  
 </li>
+</ul>
