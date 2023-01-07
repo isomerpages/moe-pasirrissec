@@ -195,7 +195,8 @@ Programme
 
 <p>The unit leverages on the revised NFS syllabus to incorporate urban farming as authentic learning experience to understand the importance of Food Security and Sustainability. This will also equip students with new STEM skills/knowledge so that they grow confident in exploring new career opportunities in “High Technology” Farming arenas.</p>
 			
-
+<img src="/images/Urban%20Farming.png">
+<img src="/images/Urban%20Farming%202.png">
 			
 </div>  
 </li>
