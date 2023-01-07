@@ -56,3 +56,21 @@ This Year, the students had the opportunity to weave authentic leaning opportuni
 
 <img src="/images/Animation.jpeg" 
      style="width:50%">
+		 
+*   Students create an animated poster to teach others the health benefits of an assigned herb/spice and one local dish using it as its ingredient. 
+*   Software and Skills used – Inkscape and Scratch  (MEL and IMC)
+*   Artefact/s created – An animated Scratch poster.  
+
+  
+
+**Secondary Three**
+
+(In collaboration with RHD: design some games for the booth, congkat shifting of seeds game. Tie-up with other subject learning: Math, Science, EL, VIA with Home Teacher)
+
+![](/images/Scratch%201.png)
+
+*   Students create games after which they can be used in “gallery walk style” for events (e.g. Open house, RHD)   
+*   Software and Skills used – Inkscape and Scratch  (MEL and IMC)
+    
+*   Artefact/s created – Games made from Scratch program. The game involves a person/animal who tries to catch moving object/animals.
+
