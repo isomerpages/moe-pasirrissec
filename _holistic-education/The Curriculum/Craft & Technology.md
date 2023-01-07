@@ -94,7 +94,17 @@ Programme
     <input type="checkbox" id="accordion2">  
     <label for="accordion2">Art </label>  
     <div>
+<p>The Art Unit adopts the Art Framework based on the MOE Syllabus document for the lower secondary Art programs The unit aims to build students’ capacity to enjoy art, express themselves, communicate, learn about and connect with the community and wider world in and through art.</p>
+			
+<img src="/images/Art.png">
+			
+<p>Key Art Programmes for Secondary 1 - 3</p>
+		
+<img src="/images/Art%20Programme.png">
 
+<p>Extended Learning</p>
+
+<p>Highlights Photo Set A: Still Life object photography before painting</p>
 			
 </div>  
 </li>
