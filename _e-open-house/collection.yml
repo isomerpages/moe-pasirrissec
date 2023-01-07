@@ -2,5 +2,4 @@ collections:
   e-open-house:
     output: true
     order:
-      - The Co Curriculum.md
       - FAQ & Enquiries.md
