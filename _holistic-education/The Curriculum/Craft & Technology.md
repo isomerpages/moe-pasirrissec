@@ -234,6 +234,71 @@ Programme
 <p>For 1st semester, our students will experience our signature programme, the STOMP Project module. They learn to compose music and perform their creations to their peers and teachers. Students will showcase their composition during their class performance at the end of this module.</p>
 	
 <img src="/images/boomwhacker%202.jpeg">
+
+<p>For 2nd semester, they will learn to read musical notations and perform familiar tunes on the boomwhackers. In this module, the classes will get to choose a song and perform during our school’s in-house lunch time concert before the end of this module.</p>
+	
+<p>2. Secondary Two (Express and Normal Academic)</p>
+
+<p>For 1st semester, our students will learn to play familiar tunes on musical instruments (i.e., ukulele, keyboard, cajon) and collaborate with their peers to perform as a pop band.  </p>
+
+<img src="/images/keyboard%201.jpeg">
+	
+<p>For 2nd semester, the students would have learnt the fundamentals of playing the instruments and basic structure of typical pop songs. Hence, it is timely to introduce our students to the Songwriting module. In this module, our students will learn to become better songwriters by understanding fundamentals in songwriting. They will have the opportunity to showcase their learning through an assessment of their playing before the end of 2nd semester.</p>
+	
+<img src="/images/keyboard%202.jpeg">
+	
+<p>Uniquely N(T) Music @PRSS</p>
+	
+<p>Normal (Technical) Stream</p>
+
+<p>The Music Programme for Normal (T) students is spread over 4 years, with the option for students to take up NT Music elective subject in Upper Secondary.  </p>
+
+  
+
+<p>Secondary 1</p>
+
+<p>Our students will attend ukulele and keyboard lessons, where they learn basic playing skills through pop songs.</p>
+	
+<img src="/images/ukulele.jpeg">
+	
+<p>Secondary Two</p>
+
+<p>Our students continue to build on their instrumental skills as they work with acoustic as well virtual instruments on the GarageBand (available on Apple devices) to arrange and showcase their work in groups..</p>
+	
+<img src="/images/GarageBand.jpeg">
+	
+<p>N(T) Level Music (Upper Secondary)</p>
+
+<p>This subject is offered to our interested 3NT students as their elective subject during the Secondary Two streaming exercise. The programme allow students to deepen their skills in reading, analyzing and reproducing music of different forms, and more importantly, to become active listeners who can readily interact with music of different genres. Where possible, these students will be provided opportunities to showcase their musical creation and improvisation via both physically (Lunchtime concert) or digitally (via youtube).</p>
+	
+<img src="/images/traditional%20instruments%201.jpeg">
+	
+<p>Highlights</p>
+
+<p>PRSS 35th Anniversary Celebration – MUSEIT: Homecoming</p>
+
+<p>In celebration of the school’s 35th birthday, we invited students who graduated from the N Level Music class in 2019 and 2020 to collaborate and perform with current students from the 4NT music class. The experience and exposure allowed students to learn and discuss music at a greater level!</p>
+	
+<img src="/images/A_student.jpeg">
+	
+<p>Lunchtime Concert - MUSEIT: Season Three, Episode 2</p>
+
+<p>Featuring our Secondary One Lower Secondary Music Syllabus and N(T) music students.</p>
+
+<img src="/images/Sec1_group.png">
+<img src="/images/Sec1_group2.png">
+<img src="/images/Sec1_group3.png">
+<img src="/images/Sec1_group4.jpeg">
+
+<p>Singapore Youth Festival: Celebrations in the City @ Kampung Admiralty</p> 
+
+<p>Our pop band (students from Secondary Three N(T) level music class) performed with Mr Dick Yip and his Minstrels at Kampung Admiralty for Singapore Youth Festival: Celebrations in the City.</p>
+	
+<img src="/images/SYF.jpeg">
+	
+<p>Singapore Youth Festival: Celebrations in the City @ Esplanade Concourse</p>
+
+<p>Collaboration with “The Acapella Group” from ITE College Central.</p>
 			
 </div>  
 </li>
