@@ -136,6 +136,10 @@ Programme
 			
 <img src="/images/canvas%20painting.jpeg">
 			
+<p>Highlights, Photo Set H: Art student putting up his finishing touch on his final artwork (his installation master piece.)</p>
+			
+<img src="/images/final%20artwork.jpeg">
+			
 </div>  
 </li>
 </ul>
