@@ -300,6 +300,19 @@ Programme
 
 <p>Collaboration with “The Acapella Group” from ITE College Central.</p>
 			
+<img src="/images/SYF_EC1.jpeg">
+<img src="/images/SYF_EC2.jpeg">
+
+<p>PRSS pop band was featured on Lian He Zao Bao Article!</p>
+	
+<img src="/images/popband%201.jpeg">
+<img src="/images/popband%202.jpeg">
+
+<p>Teachers from the Music Unit:</p>
+
+<p>Ms Leong Su Juen (ST – Music) </p> 
+
+<p>Ms Jasmine Peh (AYH)</p>
 </div>  
 </li>
 </ul>
