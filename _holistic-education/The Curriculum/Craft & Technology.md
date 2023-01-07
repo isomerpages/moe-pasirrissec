@@ -233,7 +233,7 @@ Programme
 
 <p>For 1st semester, our students will experience our signature programme, the STOMP Project module. They learn to compose music and perform their creations to their peers and teachers. Students will showcase their composition during their class performance at the end of this module.</p>
 	
-![](/images/boomwhacker%202.jpeg)
+<img src="/images/boomwhacker%202.jpeg">
 			
 </div>  
 </li>
