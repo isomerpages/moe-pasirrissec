@@ -144,10 +144,10 @@ Programme
 </li>
 </ul>
 
-  <li>  
-    <input type="checkbox" id="accordion3">  
-    <label for="accordion3">Nurtrition and Food Science</label>  
-    <div>
+<li>  
+<input type="checkbox" id="accordion3">  
+<label for="accordion3">Nurtrition and Food Science</label>  
+<div>
 
 <p>The Nutrition and Food Science (NFS) Unit adopts the MOE NFS Education Framework. The unit aims to empower students to be health-conscious and discerning consumers; enabling them to better manage their lives for the present and the future. The focus is on how individuals and families optimize their resources of food, finance and time to meet their physical, mental, social and economic needs.</p>
 			
@@ -222,7 +222,7 @@ Programme
 <li>  
 <input type="checkbox" id="accordion4">  
 <label for="accordion4">Music </label>  
-    <div>
+<div>
 <p>At PRSS, we believe that our students have the innate ability to express themselves musically. Through our exciting and comprehensive music programmes, we aim to develop them with musical and extra-musical skills such as critical thinking, psychomotor, social awareness, moral and cultural values. All of these skills and values will lead towards the holistic development of a child.</p>
 			
 </div>  
