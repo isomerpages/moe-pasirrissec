@@ -9,8 +9,8 @@ description: ""
      style="width:25%;float:left"><img src="/images/pasirianexp.png" 
      style="width:25%">
 
-<img src="/images/signatureprog.png" 
-     style="width:25%;float:left">
+<a href="/signature-programmes/Signature-Programmes/"><img src="/images/signatureprog.png" 
+     style="width:25%;float:left"></a>
 <a href="/holistic-education/The-Curriculum/The-Curriculum/"><img src="/images/thecurriculum.png" 
      style="width:25%;float:left"></a>
 <a href="/holistic-education/The-Co-Curriculum/The-Co-Curriculum/"><img src="/images/cocurriculum.png" 
