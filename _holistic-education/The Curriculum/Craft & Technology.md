@@ -105,6 +105,15 @@ Programme
 <p>Extended Learning</p>
 
 <p>Highlights Photo Set A: Still Life object photography before painting</p>
+		
+<img src="/images/Still%20life.jpeg">
+
+<p>Highlights Photo Set B: Launching of the Art Installation Showcase @Level 2 during the 35th Anniversary celebrations (12 Mar 2021)</p>
+
+<img src="/images/Aet%20Installation.png">
+
+<p>Highlights Photo Set C: Student’s Portraiture Showcase @Le Visage Gallery – Level 3</p>
+			
 			
 </div>  
 </li>
