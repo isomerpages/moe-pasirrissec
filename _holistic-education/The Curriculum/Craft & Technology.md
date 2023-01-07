@@ -198,6 +198,33 @@ Programme
 <img src="/images/Urban%20Farming.png">
 <img src="/images/Urban%20Farming%202.png">
 			
+<p>Inquiry-based learning (IBL) helps students learn better as they are involved in an authentic task. As part of their project Food Culture, students were tasked to identify herbs and spices by activating their sense of smell.</p>
+			
+<img src="/images/herbs%20and%20spices.jpeg">
+			
+<p>Culinary Workshop conducted by a professional Chef to enhance students’ skills in preparing food using new food trends and cooking technique</p>
+			
+<img src="/images/food3.png">
+			
+<p>Tinkers’ Fest Craft the Cake challenge</p>
+			
+<img src="/images/food4.png">
+			
+<p>Enrichment workshop</p> 
+
+<p>Secondary 3 NFS students attended ‘Science in your Food’ workshop organised by Corteva agriscience. This workshop enhanced students’ interest in STEM and introduced agriscience’s role in our daily lives. Students prepared their own ice-cream using liquid nitrogen and lots of ice.</p>
+			
+<img src="/images/food5.png">
+</div>  
+</li>
+</ul>
+
+<li>  
+<input type="checkbox" id="accordion4">  
+<label for="accordion4">Music </label>  
+    <div>
+<p>At PRSS, we believe that our students have the innate ability to express themselves musically. Through our exciting and comprehensive music programmes, we aim to develop them with musical and extra-musical skills such as critical thinking, psychomotor, social awareness, moral and cultural values. All of these skills and values will lead towards the holistic development of a child.</p>
+			
 </div>  
 </li>
 </ul>
