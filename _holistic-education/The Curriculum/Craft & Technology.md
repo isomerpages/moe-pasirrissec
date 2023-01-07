@@ -114,6 +114,27 @@ Programme
 
 <p>Highlights Photo Set C: Student’s Portraiture Showcase @Le Visage Gallery – Level 3</p>
 			
+<img src="/images/Portraiture%20Showcase.jpeg">
+
+<p>Highlights Photo Set D: Student’s master pieces @The Sculpture Park – Level 4</p>
+		
+<img src="/images/The%20Sculpture%20Park.jpeg">
+			
+<p>Highlights Photo Set E: Secondary 2 student working on her printmaking template</p>
+			
+<img src="/images/printmaking%20template.jpeg">
+			
+<p>Highlights Photo Set F: A group of 3NA Art on the learning journey to 2020 NAFA Open House event to get inspiration</p>
+			
+<img src="/images/art.png">
+			
+<p>Highlights Photo Set G: Art jamming @NAFA’s Skylight Studio. Can you spot Mr. Rahman’s drawing?</p>
+			
+<img src="/images/Art%20jamming%20@NAFA’s%201.jpeg">
+			
+<p>Highlights, Photo Set H: 3A1 budding artists have a go at canvas painting during their studio practice.</p>
+			
+<img src="/images/canvas%20painting.jpeg">
 			
 </div>  
 </li>
