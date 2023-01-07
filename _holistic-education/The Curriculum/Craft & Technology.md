@@ -69,26 +69,23 @@ Programme
 <img src="/images/classroom.jpeg">
 
 <p>Extended Learning</p>
+<p>-   Participation in Design Thinking and Innovation Boot Camp organized by Nanyang Polytechnic for Secondary 3 D&T students.</p>
+<p>-   Participation in Singapore Amazing Flying Machine Competition by Singapore Science Centre</p>
+<p>-   Participation in Design Thinking Challenge for Lower Secondary students (in 2019 and 2021). 2020 edition was canceled due to Covid-19.</p>
 
-*   Participation in Design Thinking and Innovation Boot Camp organized by Nanyang Polytechnic for Secondary 3 D&T students.
-*   Participation in Singapore Amazing Flying Machine Competition by Singapore Science Centre
-*   Participation in Design Thinking Challenge for Lower Secondary students (in 2019 and 2021). 2020 edition was canceled due to Covid-19.
-
-Highlights Photo Set A: Exposure to Mobile App writing, CAD software, and receiving mentorship from SUTD students and J.P Morgan staff (The School’s Challenge – Live Smart @ The East Competition in 2019). 2020 Edition was canceled due to Covid-19.
-
-  
-
-![](/images/dnt2.png)
+<p>Highlights Photo Set A: Exposure to Mobile App writing, CAD software, and receiving mentorship from SUTD students and J.P Morgan staff (The School’s Challenge – Live Smart @ The East Competition in 2019). 2020 Edition was canceled due to Covid-19.</p>
 
   
-Highlights Photo Set B: Applying block programming knowledge in an authentic context  (Digital Making National Infocomm Challenge (2019) 
-
-![](/images/dnt3.png)
-
-Highlights, Photo Set C: Applying design thinking to discover and analyse real world issues as well as prototyping solutions (PRSS Design Thinking Challenge (2019).  
+<img src="/images/dnt2.png">
 
   
-![](/images/dnt4.png)</p>
+<p>Highlights Photo Set B: Applying block programming knowledge in an authentic context  (Digital Making National Infocomm Challenge (2019) </p>
+
+<img src="/images/dnt3.png">
+
+<p>Highlights, Photo Set C: Applying design thinking to discover and analyse real world issues as well as prototyping solutions (PRSS Design Thinking Challenge (2019).</p>
+
+<img src="/images/dnt4.png">
 
 </div>  
 </li>
