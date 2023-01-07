@@ -224,6 +224,16 @@ Programme
 <label for="accordion4">Music </label>  
 <div>
 <p>At PRSS, we believe that our students have the innate ability to express themselves musically. Through our exciting and comprehensive music programmes, we aim to develop them with musical and extra-musical skills such as critical thinking, psychomotor, social awareness, moral and cultural values. All of these skills and values will lead towards the holistic development of a child.</p>
+	
+<p>Music Programmes @PRSS</p>
+	
+<p>The Lower Secondary Music Syllabus</p>
+	
+<p>1. Secondary One (Express and Normal Academic)</p>
+
+<p>For 1st semester, our students will experience our signature programme, the STOMP Project module. They learn to compose music and perform their creations to their peers and teachers. Students will showcase their composition during their class performance at the end of this module.</p>
+	
+![](/images/boomwhacker%202.jpeg)
 			
 </div>  
 </li>
