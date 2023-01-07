@@ -143,3 +143,60 @@ Programme
 </div>  
 </li>
 </ul>
+
+  <li>  
+    <input type="checkbox" id="accordion3">  
+    <label for="accordion3">Nurtrition and Food Science</label>  
+    <div>
+
+<p>The Nutrition and Food Science (NFS) Unit adopts the MOE NFS Education Framework. The unit aims to empower students to be health-conscious and discerning consumers; enabling them to better manage their lives for the present and the future. The focus is on how individuals and families optimize their resources of food, finance and time to meet their physical, mental, social and economic needs.</p>
+			
+<img src="/images/NFS%20Syllabus.png">
+			
+<p>Source: MOE revised NFS syllabus</p>
+			
+<p>The unit adopts the inquiry-based pedagogical approach for the teaching and learning of Food Consumer Education (FCE) and Food and Nutrition (F&N).</p>
+			
+<img src="/images/NFS%20Syllabus_2.png">
+			
+<p>Source: MOE revised NFS syllabus</p>
+			
+<p>This approach focuses on providing students with an authentic problem context that allows students to relate and apply the knowledge gained in real-life situations, aligned with the development of 21st Century Competencies. The teaching of FCE and F&N is a cyclical process where students’ engagement with a question or topic leads to intellectual exploration. This eventually leads to an explanation of the feature or process in the question and further leads to the application of their ideas. This process develops the students’ understanding and involves them in their own learning. </p>
+
+  
+
+<p>This approach will lead to deeper acquisition of nutrition, meal-planning, principles of food science and understanding the link between diet and health. Students will also be equipped with the knowledge and skills to make informed decisions concerning food and nutrition.</p>
+
+  
+
+<p>Programmes to enhance learning experiences of students</p>
+
+<p>- Project Food Culture – Learning Journey to Bollywood Veggies/ hawker centre food</p>
+<p>- Supermarket Tour @ NTUC, (Virtual Supermarket Tour was mounted during the Covid-19 period)</p>
+<p>- Sustainable Environment - Organic Farming at PRSS Eco-garden</p>
+<p>- Culinary workshops by professional chefs for both FCE and F&N students</p>
+<p>Annual Tinkers’ Fest Activity – Internal competition; Craft the Cake and Pancake Art. </p>
+
+  
+
+<p>Experiential Learning (ExL) in action</p>
+
+<p>Learning journey to Bollywood Veggies (prior to Covid-19) to help students construct and retain knowledge better</p>
+			
+<img src="/images/food.png">
+	
+<p>Learning Journey to supermarket</p>
+
+<p>During this period, virtual supermarket visit was mounted where students learn more about comparative shopping and analyzing nutritional claims on a food product.</p>
+			
+<img src="/images/food2.png">
+			
+<p>Urban farming in PRSS</p>
+
+<p>The unit leverages on the revised NFS syllabus to incorporate urban farming as authentic learning experience to understand the importance of Food Security and Sustainability. This will also equip students with new STEM skills/knowledge so that they grow confident in exploring new career opportunities in “High Technology” Farming arenas.</p>
+			
+
+			
+</div>  
+</li>
+</ul>
