@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - The Curriculum/Resources For Student.md
       - The Curriculum/Computer Application.md
       - The Curriculum/Craft & Technology.md
       - The Curriculum/English Language & Literature.md
