@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - The Curriculum/.keep
-      - The Curriculum/Curriculum.md
       - The Curriculum/The Curriculum.md
       - The Curriculum/Resources For Student.md
       - The Curriculum/Computer Application.md
