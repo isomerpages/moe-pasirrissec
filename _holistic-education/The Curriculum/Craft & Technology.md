@@ -316,3 +316,8 @@ Programme
 </div>  
 </li>
 </ul>
+
+People
+------
+
+![](/images/craftpeople.png)
