@@ -321,3 +321,11 @@ People
 ------
 
 ![](/images/craftpeople.png)
+
+Photos
+------
+
+![](/images/craft_tech1.jpeg)
+![](/images/craft_tech2.jpeg)
+![](/images/craft_tech3.jpeg)
+![](/images/craft_tech4.jpeg)
