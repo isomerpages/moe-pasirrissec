@@ -28,7 +28,7 @@ PRSS student Gmail Login - Click here for the [prss.sg](http://mail.prss.sg/) 
 
 **FAS Application Form**
 
-Click [here](https://pasirrissec-moe-edu-sg-admin.cwp.sg/useful-links/information-for-parents/financial-assistance) for more details
+Click [here](/Useful-Links/Information-For-Parents/Financial-Assistance) for more details
 
 **Wireless@SG Hotspots**
 
