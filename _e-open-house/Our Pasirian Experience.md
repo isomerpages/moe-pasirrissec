@@ -37,3 +37,6 @@ Let truth and sincerity come right from your heart
 These and other thoughts we gladly bring  
 To Pasir Ris right from the start  
 To Pasir Ris right from the start
+
+<a href="<img src="/images/open.png" 
+     style="width:50%"></a>
