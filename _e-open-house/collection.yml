@@ -2,6 +2,7 @@ collections:
   e-open-house:
     output: true
     order:
+      - Campus Tour.md
       - Our Pasirian Experience.md
       - E Open House.md
       - FAQ & Enquiries.md
