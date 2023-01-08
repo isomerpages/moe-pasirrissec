@@ -27,5 +27,5 @@ The Pasir Ris Secondary School Curriculum is designed and customised for every s
 <a href="/holistic-education/The-Curriculum/Science/"><img src="/images/science.png" 
      style="width:33%"></a>
 		 
-<img src="/images/open.png" 
-     style="width:33%">
+<a href="/e-open-house/e-Open-House/"><img src="/images/open.png" 
+     style="width:33%"></a>
