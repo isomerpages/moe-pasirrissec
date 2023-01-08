@@ -6,7 +6,8 @@ description: ""
 <img src="/images/principal.png" 
      style="width:25%;float:left"><img src="/images/principalpresent.png" 
      style="width:25%;float:left"><img src="/images/campustour.png" 
-     style="width:25%;float:left"><img src="/images/pasirianexp.png" 
+     style="width:25%;float:left">
+<img src="/images/pasirianexp.png" 
      style="width:25%">
 
 <a href="/signature-programmes/Signature-Programmes/"><img src="/images/signatureprog.png" 
