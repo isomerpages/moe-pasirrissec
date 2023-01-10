@@ -69,3 +69,18 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 
 **Key Dates**
 
+
+| Activity| Dates | 
+| -------- | -------- | 
+| Application through the centralised DSA-Sec Portal<br>Mainstream students: [https://go.gov.sg/apply-dsa-sec](https://go.gov.sg/apply-dsa-sec)<br>Non-mainstream students: [https://go.gov.sg/apply-dsa-sec-nms](https://go.gov.sg/apply-dsa-sec-nms)     | 5 May 2022, 11am - 1 Jun 2022, 3pm     | 
+|Notification of Interview/ Audition/ Trial for shortlisted applicants|27 Jun 2022 - 12 Sep 2022
+|Outcome of application (Confirmed Offer, Waiting List, Rejected)|	By 12 Sep 2022
+|Students with CO or WL offer will receive notification on the School Preference Submission|End Oct 2022
+|Submission of school preferences via the DSA-Sec Portal|31 Oct 2022 – 4 Nov 2022
+|Release of DSA-Sec results with PSLE results release|Late Nov 2022
+
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from Sec 1 - 4. 
+
+\*For any inquiries, please call the General Office at 65010800.
