@@ -57,6 +57,10 @@ Except for medical reasons, an attendance rate of less than 50% would constitute
 		 
 #### **Clubs**
 
+<img src="/images/blank.png" 
+     style="width:20%;float:left">
+		 <img src="/images/blank.png" 
+     style="width:10%;float:left">
 [<img src="/images/audio.png" 
      style="width:20%;float:left">](/cca/Clubs/Audio-Visual-Lights/)
 		 [<img src="/images/tinkersclub.png" 
