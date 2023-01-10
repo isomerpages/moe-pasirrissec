@@ -39,4 +39,4 @@ To Pasir Ris right from the start
 To Pasir Ris right from the start
 
 <a href="/e-open-house/e-Open-House/"><img src="/images/open.png" 
-     style="width:50%"></a>
+     style="width:33%"></a>
