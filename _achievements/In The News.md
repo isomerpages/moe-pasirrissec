@@ -43,3 +43,12 @@ PRSS Pop Band is in the news! 
 
 ****[Click here](/images/PRSS%20Pop%20Band%20news%20article.jpeg)** to read the full article.**
 
+Singapore Poly scholars overcome the odds
+-----------------------------------------
+
+![](/images/Dean%20Lim.png)
+
+  **[Read the article on The new Paper >](https://www.tnp.sg/news/singapore/singapore-poly-scholars-overcome-odds)**
+	
+	Facing the Os together
+----------------------
