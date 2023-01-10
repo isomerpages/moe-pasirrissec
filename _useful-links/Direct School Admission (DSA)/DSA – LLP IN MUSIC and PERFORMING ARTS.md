@@ -20,9 +20,8 @@ If you are talented in Music and the Performing Arts and wish to shine in a supp
 
 | DSA Main Category | DSA Talent Area |
 | -------- | -------- | 
-| Performing Arts     | [Modern Dance](https://pasirrissec-moe-edu-sg-admin.cwp.sg/holistic-education/the-co-curriculum/co-curricular-activities/aesthetics/modern-dance)     |
-|Performing Arts|[English Drama](https://pasirrissec-moe-edu-sg-admin.cwp.sg/holistic-education/the-co-curriculum/co-curricular-activities/aesthetics/english-drama)|
-|Performing Arts|[Chinese Orchestra](https://pasirrissec-moe-edu-sg-admin.cwp.sg/holistic-education/the-co-curriculum/co-curricular-activities/aesthetics/chinese-orchestra)
-|Performing Arts|	Choir
-|Performing Arts|[Concert](https://pasirrissec-moe-edu-sg-admin.cwp.sg/holistic-education/the-co-curriculum/co-curricular-activities/aesthetics/concert-band) [Band](https://pasirrissec-moe-edu-sg-admin.cwp.sg/holistic-education/the-co-curriculum/co-curricular-activities/aesthetics/concert-band)
-
+| Performing Arts     | [Modern Dance](/cca/Aesthetic/Modern-Dance/)     |
+|Performing Arts|[English Drama](/cca/Aesthetic/English-Drama/)|
+|Performing Arts|[Chinese Orchestra](/cca/Aesthetic/Chinese-Orchestra/)
+|Performing Arts|	[Choir](/cca/Aesthetic/Choir/)
+|Performing Arts|[Concert Band](/cca/Aesthetic/Concert-Band/)
