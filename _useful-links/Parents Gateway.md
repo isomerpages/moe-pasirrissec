@@ -13,7 +13,7 @@ Please download the Parents Gateway app from the App Store or Google Play. 
   
 
 [<img src="/images/Apple%20App%20Store.png" 
-     style="width:40%;float:left">](https://apps.apple.com/sg/app/parents-gateway/id1267198708)          
+     style="width:50%;float:left">](https://apps.apple.com/sg/app/parents-gateway/id1267198708)          
 [<img src="/images/Google%20Play.png" 
      style="width:50%;float:left">](https://play.google.com/store/apps/details?id=com.moe.pgp&pli=1)  
   
