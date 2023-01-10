@@ -2,9 +2,9 @@ collections:
   e-open-house:
     output: true
     order:
+      - E Open House.md
       - Principal's Welcome Message.md
       - Principal Presentation.md
       - Campus Tour.md
       - Our Pasirian Experience.md
-      - E Open House.md
       - FAQ & Enquiries.md
