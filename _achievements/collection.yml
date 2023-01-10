@@ -2,4 +2,5 @@ collections:
   achievements:
     output: true
     order:
+      - CCA Achievements.md
       - Staff Accolades.md
