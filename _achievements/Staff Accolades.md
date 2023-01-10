@@ -91,6 +91,4 @@ Ashiq believes that teachers need to be learners as well, and is an advocate of 
 
   
 
-For his drive and commitment in bringing out the best in his students and his peers, Mohamed Ashiq Bin Mohamed Elias is one of the winners of the Outstanding Youth
-
-in Education Award 2014.
+For his drive and commitment in bringing out the best in his students and his peers, Mohamed Ashiq Bin Mohamed Elias is one of the winners of the Outstanding Youth in Education Award 2014.
