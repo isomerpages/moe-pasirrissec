@@ -12,4 +12,4 @@ HPB has developed a Parents’ Booklet to encourage parents to nurture healthy e
 
   
 
-Please click [here][](/files/HPB%20HM%20Parents%20Booklet_School_Generic_30%20Mar.pdf) for the e-version of Parents’ Booklet, or The Parents’ Booklet can also be downloaded from the Healthy Meals in Schools Programme webpage in hpb website : [http://www.hpb.gov.sg/HOPPortal/programmes-article/3088](http://www.hpb.gov.sg/HOPPortal/programmes-article/3088).
+Please click [here](/files/HPB%20HM%20Parents%20Booklet_School_Generic_30%20Mar.pdf) for the e-version of Parents’ Booklet, or The Parents’ Booklet can also be downloaded from the Healthy Meals in Schools Programme webpage in hpb website : [http://www.hpb.gov.sg/HOPPortal/programmes-article/3088](http://www.hpb.gov.sg/HOPPortal/programmes-article/3088).
