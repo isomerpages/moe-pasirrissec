@@ -72,4 +72,3 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 |Students with CO or WL offer will receive notification on the School Preference Submission|End Oct 2022
 |Submission of school preferences via the DSA-Sec Portal|31 Oct 2022 – 4 Nov 2022
 |Release of DSA-Sec results with PSLE results release|Late Nov 2022
-
