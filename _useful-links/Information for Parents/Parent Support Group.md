@@ -49,3 +49,4 @@ Chinese New Year Celebrations to usher in the Year of the Hog saw the PRSS PSG o
 
 ![](/images/CNY-1.png)
 ![](/images/CNY-2.png)
+![](/images/CNY-3.png)
