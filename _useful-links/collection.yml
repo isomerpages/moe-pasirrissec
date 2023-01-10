@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Information for Parents/Healthy Meals in Schools Programme.md
       - Information for Parents/General School Information.md
       - Information for Parents/Booklist.md
       - Information for Parents/Financial Assistance.md
