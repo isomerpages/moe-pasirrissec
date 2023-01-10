@@ -31,4 +31,4 @@ Our teachers are involved in professional learning teams, critical inquiry and r
 **Pasir Ris Secondary School**
 
 <a href="/e-open-house/e-Open-House/"><img src="/images/open.png" 
-     style="width:50%"></a>
+     style="width:33%"></a>
