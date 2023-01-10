@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Information for Parents/Financial Assistance.md
       - Information for Parents/Leave of Absence (LOA) Scheme.md
       - Information for Parents/Student GPA Insurance Plan.md
       - Information for Parents/.keep
