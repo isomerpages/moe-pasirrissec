@@ -34,14 +34,14 @@ third_nav_title: Information for Parents
 
 **Secondary 4**
 
-[Sec 4 (Express) Booklist for 2023](https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Info%20for%20Parents/Booklist/Sec%204%20Exp%202023.pdf)
+[Sec 4 (Express) Booklist for 2023](/files/Sec%204%20Exp%202023.pdf)
 
-[Sec 4 (NA) Booklist for 2023](https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Info%20for%20Parents/Booklist/Sec%204%20NA%202023.pdf)
+[Sec 4 (NA) Booklist for 2023](/files/Sec%204%20NA%202023.pdf)
 
-[Sec 4 (NT) Booklist for 2023](https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Info%20for%20Parents/Booklist/Sec%204%20NT%202023.pdf)
+[Sec 4 (NT) Booklist for 2023](/files/Sec%204%20NT%202023.pdf)
 
   
 
 **Secondary 5**
 
-[Sec 5 (NA) Booklist for 2023](https://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Info%20for%20Parents/Booklist/Sec%205%20NA%202023.pdf)
+[Sec 5 (NA) Booklist for 2023](/files/Sec%205%20NA%202023.pdf)
