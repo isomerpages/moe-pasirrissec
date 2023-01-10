@@ -28,3 +28,5 @@ Students who would like to explore their subject choices, ask about post-second
 
   
 Please email him at [Mohammed\_syahril\_SAMSUDIN@schools.gov.sg](mailto:Mohammed_syahril_SAMSUDIN@schools.gov.sg)
+
+![](/images/image012.jpeg)
