@@ -3,12 +3,16 @@ title: E Open House
 permalink: /e-open-house/e-Open-House/
 description: ""
 ---
-<img src="/images/principal.png" 
-     style="width:25%;float:left"><img src="/images/principalpresent.png" 
-     style="width:25%;float:left"><img src="/images/campustour.png" 
-     style="width:25%;float:left">
-<img src="/images/pasirianexp.png" 
-     style="width:25%">
+<a href="/e-open-house/Principals-Welcome-Message/"><img src="/images/principal.png" 
+     style="width:25%;float:left"></a>
+		 
+<a href="/e-open-house/Principal-Presentation/"><img src="/images/principalpresent.png" style="width:25%;float:left"></a>
+
+<a href="/e-open-house/Campus-Tour/"><img src="/images/campustour.png" 
+     style="width:25%;float:left"></a>
+
+<a href="/e-open-house/Our-Pasirian-Experience/"><img src="/images/pasirianexp.png" 
+     style="width:25%"></a>
 
 <a href="/signature-programmes/Signature-Programmes/"><img src="/images/signatureprog.png" 
      style="width:25%;float:left"></a>
