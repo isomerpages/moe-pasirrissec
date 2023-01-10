@@ -33,3 +33,13 @@ Pasir Ris Secondary School’s Personal Digital Learning Programme lesson was pr
 
 Pasir Ris Secondary School's Personal Digital Learning Programme featured in Shin Min Daily News, 4 March 2020
 --------------------------------------------------------------------------------------------------------------
+![](/images/Personal%20Digital%20Learning%20Programme.jpeg)
+
+Using pop songs in our music curriculum
+---------------------------------------
+![](/images/PRSS%20Pop%20Band%20news%20article%20header.jpeg)
+
+PRSS Pop Band is in the news! 
+
+****[Click here](/images/PRSS%20Pop%20Band%20news%20article.jpeg)** to read the full article.**
+
