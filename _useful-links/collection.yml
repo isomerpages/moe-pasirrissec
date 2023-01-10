@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Information for Parents/Parent Support Group.md
       - Information for Parents/Cyber Wellness.md
       - Information for Parents/Education & Career Guidance.md
       - Information for Parents/Healthy Meals in Schools Programme.md
