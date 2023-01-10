@@ -71,12 +71,18 @@ Except for medical reasons, an attendance rate of less than 50% would constitute
 
 #### **Sports & Games**
 
+<img src="/images/blank.png" 
+     style="width:20%;float:left">
 [<img src="/images/badminton.png" 
      style="width:20%;float:left">](/cca/Sports-and-Games/Badminton/)
 [<img src="/images/basket.png" 
      style="width:20%;float:left">](/cca/Sports-and-Games/Basketball/)
 [<img src="/images/football.png" 
      style="width:20%;float:left">](/cca/Sports-and-Games/Football/)
+<img src="/images/blank.png" 
+     style="width:20%;float:left">
+<img src="/images/blank.png" 
+     style="width:20%;float:left">
 [<img src="/images/netball.png" 
      style="width:20%;float:left">](/cca/Sports-and-Games/Netball/)
 [<img src="/images/tabletennis.png" 
