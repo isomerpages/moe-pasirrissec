@@ -30,3 +30,8 @@ MOE has also developed other CW resources for parents, such as guides and tips r
 <img src="/images/image015.png" 
      style="width:50%;float:left">
 Please share this email with your PSG members and friends, and connect with us on  [MOE Facebook](https://www.facebook.com/moesingapore/?fref=ts) ,  [Twitter](https://twitter.com/moesg?lang=en) ,  [Instagram](https://www.instagram.com/moesingapore/) , or [YouTube channel](https://www.youtube.com/user/MOESpore). You can also visit  the  [Schoolbag.sg](https://www.schoolbag.sg/)  website for more education news, and stories on school programmes and activities. If you have any questions or comments for us on our updates, you can email us at  [Engagement@moe.gov.sg](mailto:Engagement@moe.gov.sg) . To ensure delivery to your inbox, please add  [Engagement@moe.gov.sg](mailto:Engagement@moe.gov.sg)  to your address book . If you do not wish to receive future emails from us, you may email us to unsubscribe.
+
+PARENTS-EXCESSIVE INTERNET USE
+==============================
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NJYUVyYMeEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
