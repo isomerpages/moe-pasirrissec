@@ -89,3 +89,18 @@ Except for medical reasons, an attendance rate of less than 50% would constitute
      style="width:20%;float:left">](/cca/Sports-and-Games/Table-Tennis/)
 [<img src="/images/volleyb.png" 
      style="width:20%;float:left">](/cca/Sports-and-Games/Volleyball/)
+		 
+<br><br>
+<br><br>
+<br><br>
+
+#### **Uniformed Groups**
+
+<img src="/images/blank.png" 
+     style="width:20%;float:left">
+[<img src="/images/ncclogo.png" 
+     style="width:20%;float:left">](/cca/Uniformed-Groups/National-Cadet-Corps/)
+[<img src="/images/npcclogo.png" 
+     style="width:20%;float:left">](/cca/Uniformed-Groups/National-Police-Cadet-Corps/)
+[<img src="/images/ncdcclogo.png" 
+     style="width:20%;float:left">](/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/)
