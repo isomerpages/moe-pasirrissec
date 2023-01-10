@@ -65,3 +65,7 @@ Studying Side by Side Drew Siblings Closer
 #### [Teachers awarded for inventive ways in bringing current affairs to classrooms](http://www.straitstimes.com/singapore/teachers-awarded-for-inventive-ways-in-bringing-current-affairs-to-classrooms)
 
 SINGAPORE - Four teachers received the inaugural Singapore Press Holdings' (SPH) Innovative Educators Award at the SPH Education Symposium 2017 on Monday (Aug 28). The award recognises teachers who have found inventive ways in the classroom to hone their students' current affairs knowledge and life skills using the news.
+
+![](/images/chinese_news.jpeg)
+
+<a href="/files/New%20Paper_Amirah.pdf">![](/images/New-Paper_Amirah.png)</a>
