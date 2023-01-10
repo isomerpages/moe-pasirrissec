@@ -50,5 +50,18 @@ Singapore Poly scholars overcome the odds
 
   **[Read the article on The new Paper >](https://www.tnp.sg/news/singapore/singapore-poly-scholars-overcome-odds)**
 	
-	Facing the Os together
+Facing the Os together
 ----------------------
+
+![](/images/Facing%20the%20Os.jpeg)
+
+Studying Side by Side Drew Siblings Closer
+------------------------------------------
+![](/images/triplets.jpeg)
+
+(Mavis Ho – Staff Achievement)
+------------------------------
+
+#### [Teachers awarded for inventive ways in bringing current affairs to classrooms](http://www.straitstimes.com/singapore/teachers-awarded-for-inventive-ways-in-bringing-current-affairs-to-classrooms)
+
+SINGAPORE - Four teachers received the inaugural Singapore Press Holdings' (SPH) Innovative Educators Award at the SPH Education Symposium 2017 on Monday (Aug 28). The award recognises teachers who have found inventive ways in the classroom to hone their students' current affairs knowledge and life skills using the news.
