@@ -69,3 +69,5 @@ SINGAPORE - Four teachers received the inaugural Singapore Press Holdings' (SPH)
 ![](/images/chinese_news.jpeg)
 
 <a href="/files/New%20Paper_Amirah.pdf">![](/images/New-Paper_Amirah.png)</a>
+
+<a href="/files/The%20New%20Paper_Jessie_14Jan2014.pdf">![](/images/The-New-Paper_Jessie_14Jan2014.png)</a>
