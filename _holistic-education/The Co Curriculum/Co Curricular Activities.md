@@ -54,3 +54,10 @@ Except for medical reasons, an attendance rate of less than 50% would constitute
 		 
 [<img src="/images/EnglishDrama.png" 
      style="width:20%">](/cca/Aesthetic/English-Drama/)
+		 
+#### **Clubs**
+
+[<img src="/images/audio.png" 
+     style="width:20%;float:left">](/cca/Clubs/Audio-Visual-Lights/)
+		 [<img src="/images/tinkersclub.png" 
+     style="width:20%">](/cca/Clubs/Tinkers-Club/)
