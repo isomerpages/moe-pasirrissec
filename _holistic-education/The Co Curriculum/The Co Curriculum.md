@@ -8,5 +8,5 @@ The Co-Curriculum is an integral part of the Pasirian Experience. Pasir Ris Seco
 
 <a href="/files/2022%20Weekly%20CCA%20Schedule%20Updated%203%20Feb.pdf"><img src="/images/ccaschedule.png" 
      style="width:50%;float:left"></a>
-<a href=""><img src="/images/open.png" 
+<a href="/e-open-house/e-Open-House/"><img src="/images/open.png" 
      style="width:50%"></a>
