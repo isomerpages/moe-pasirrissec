@@ -40,4 +40,4 @@ Please click below for the following slides shared during the briefing session t
 
 | |||
 | -------- | -------- | -------- |
-| Useful Links:<br>[Book List & Uniform]()<br>[FAS Application]()<br>[School Transfer]()  | [Contact Information](/files/PRSS%202023%20A%20message%20to%20our%20Sec%201%20Pasirians.pdf)   | [FAQ](/files/Attire.pdf)  |
+| Useful Links:<br>[Book List & Uniform](/useful-links/Information-for-Parents/Booklist/)<br>[FAS Application]()<br>[School Transfer]()  | [Contact Information](/files/PRSS%202023%20A%20message%20to%20our%20Sec%201%20Pasirians.pdf)   | [FAQ](/files/Attire.pdf)  |
