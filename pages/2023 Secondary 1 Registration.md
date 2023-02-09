@@ -29,3 +29,9 @@ Please click below for the following slides shared during the briefing session t
 | |||
 | -------- | -------- | -------- |
 | [Key Personnel](/files/PRSS%202023%20Key%20Personnel.pdf)     | [Sec 1 Online Registration Form](https://form.gov.sg/638ffb2fcc49df00110ee967)     | [2022 e-Open House](/e-open-house/e-Open-House/)     |
+
+![](/images/sec1b.png)
+
+| |||
+| -------- | -------- | -------- |
+| Camp Oneiric  (Coming soon)    | [Message to 2023 Sec 1 Pasirian](/files/PRSS%202023%20A%20message%20to%20our%20Sec%201%20Pasirians.pdf)   | [Attire](/files/Attire.pdf)  |
