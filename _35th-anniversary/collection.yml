@@ -2,7 +2,6 @@ collections:
   35th-anniversary:
     output: true
     order:
-      - Awards Ceremony.md
       - Learning Festival/.keep
       - Learning Festival/Learning Festival.md
       - Learning Festival/Spotlight Sessions.md
@@ -11,3 +10,4 @@ collections:
       - Learning Festival/Student Learning Festival.md
       - Career Awareness Day.md
       - MUSEIT! HOMECOMING CONCERT.md
+      - Awards Ceremony.md
