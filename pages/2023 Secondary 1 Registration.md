@@ -35,3 +35,9 @@ Please click below for the following slides shared during the briefing session t
 | |||
 | -------- | -------- | -------- |
 | Camp Oneiric  (Coming soon)    | [Message to 2023 Sec 1 Pasirian](/files/PRSS%202023%20A%20message%20to%20our%20Sec%201%20Pasirians.pdf)   | [Attire](/files/Attire.pdf)  |
+
+![](/images/sec1c.png)
+
+| |||
+| -------- | -------- | -------- |
+| Useful Links:<br>[Book List & Uniform]()<br>[FAS Application]()<br>[School Transfer]()  | [Contact Information](/files/PRSS%202023%20A%20message%20to%20our%20Sec%201%20Pasirians.pdf)   | [FAQ](/files/Attire.pdf)  |
