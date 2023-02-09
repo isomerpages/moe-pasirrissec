@@ -40,4 +40,4 @@ Please click below for the following slides shared during the briefing session t
 
 | |||
 | -------- | -------- | -------- |
-| Useful Links:<br>[Book List & Uniform](/useful-links/Information-for-Parents/Booklist/)<br>[FAS Application]()<br>[School Transfer]()  | [Contact Information](/files/PRSS%202023%20A%20message%20to%20our%20Sec%201%20Pasirians.pdf)   | [FAQ](/files/Attire.pdf)  |
+| Useful Links:<br>[Book List & Uniform](/useful-links/Information-for-Parents/Booklist/)<br>[FAS Application](/useful-links/Information-for-Parents/Financial-Assistance/)<br>[School Transfer](https://form.gov.sg/639003089f0e9d0012be00e4)  | [Contact Information](/contact-us)   | [FAQ](https://docs.google.com/document/d/1bIODL1sh33MIKrsqc5Svt13-215L8ND4_U20gfHlmwA/edit)  |
