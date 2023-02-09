@@ -41,27 +41,22 @@ Please find [attached](/files/Camp%20Quest%20Programme.pdf) the Sec 4N Level 
 
 ### Newsflash – Term 1 2023
 
-Please click [here](https://pasirrissec.moe.edu.sg/qql/slot/u166/Announcements/Newsflash%20Term%201%202023_Final.pdf) to view.
-
-[Read More...](https://pasirrissec.moe.edu.sg/qql/slot/u166/Announcements/Newsflash%20Term%201%202023_Final.pdf)
+Please click [here](/files/Newsflash%20Term%201%202023_Final.pdf) to view.
 
 ### Sale of School Uniform in Jan 2023
 
-Please click [here](https://pasirrissec.moe.edu.sg/qql/slot/u166/Announcements/Pasir%20Ris%20Secondary%20%20sale%20schedule%20Jan%202023%20.pdf) to view the announcements
+Please click [here](/files/Pasir%20Ris%20Secondary%20%20sale%20schedule%20Jan%202023%20.pdf) to view the announcements
 
-[Read More...](https://pasirrissec.moe.edu.sg/qql/slot/u166/Announcements/Pasir%20Ris%20Secondary%20%20sale%20schedule%20Jan%202023%20.pdf)
 
 ### 2023 Secondary 1 Registration
 
-Please click [here](https://pasirrissec-moe-edu-sg-admin.cwp.sg/others/2023-secondary-1-registration) for the 2023 Secondary 1 Registration.
-
-[Read More...](https://pasirrissec.moe.edu.sg/others/2023-secondary-1-registration)
+Please click [here](/2023-secondary-1-registration) for the 2023 Secondary 1 Registration.
 
 ### GCE N Level Result Release
 
-Please [click here](https://pasirrissec.moe.edu.sg/qql/slot/u166/Announcements/Announcements/2022/Release%20of%20GCE%20N%20Level%20Results%202022_Admin%20Brief%2019%20Dec%20Final%20-%20for%20school%20website.pdf) for the release of GCE N Level Results 2022 - Admin Brief.
+Please [click here](/files/Release%20of%20GCE%20N%20Level%20Results%202022_Admin%20Brief%2019%20Dec%20Final%20-%20for%20school%20website.pdf)for the release of GCE N Level Results 2022 - Admin Brief.
 
-Please [click here](https://pasirrissec.moe.edu.sg/qql/slot/u166/Announcements/Announcements/2022/Release%20of%20GCE%20N%20Level%20Results%202022_Results%20-%20final%20for%20school%20website.pdf) for the release of GCE N Level Results 2022 - Results.
+Please [click here](/files/Release%20of%20GCE%20N%20Level%20Results%202022_Results%20-%20final%20for%20school%20website.pdf) for the release of GCE N Level Results 2022 - Results.
 
 ### Application for School Transfer
 
