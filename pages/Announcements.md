@@ -15,33 +15,29 @@ Please click [here](/files/2023%20T1%20Timetable%20WEF%2030%20Jan%20FINAL2%20CL
 
 Please click [here](/files/Release%20of%202022%20GCE%20O%20Level%20Results_Admin%20Brief_for%20school%20website.pdf) for the Release of 2022 GCE O-Level Results - Admin Brief
 
-Please click [here](http://pasirrissec-moe-edu-sg-admin.cwp.sg/qql/slot/u166/Announcements/Announcements/2023/Release%20of%20O%20Level%20Results/Release%20of%202022%20GCE%20O%20Level%20Results_For%20School%20Website.pdf) for the results of the 2022 GCE O-Level Examinations.
+Please click [here](/files/Release%20of%202022%20GCE%20O%20Level%20Results_For%20School%20Website.pdf) for the results of the 2022 GCE O-Level Examinations.
 
-Please click [here](https://pasirrissec-moe-edu-sg-admin.cwp.sg/others/release-of-2022-gce-o-level-results) to view the letter to parents.
+Please click [here](/release-of-2022-gce-o-level-results) to view the letter to parents.
 
 ### Sec 4E5A Level Camp Programme
 
-Please find [attached](https://pasirrissec.moe.edu.sg/qql/slot/u166/Announcements/Sec%204E5NA%20Level%20Camp%20Programme.pdf) the Sec 4E5A Level Camp Programme
+Please find [attached](/files/Sec%204E5NA%20Level%20Camp%20Programme.pdf)the Sec 4E5A Level Camp Programme
 
 ### Sec 3 Level Camp Programme
 
-Please find [attached](https://pasirrissec.moe.edu.sg/qql/slot/u166/Announcements/Sec%203%20Camp%202023_Programme_updated%205%20Jan.pdf) the Sec 3 Camp Programme
+Please find [attached](/files/Sec%203%20Camp%202023_Programme_updated%205%20Jan.pdf)the Sec 3 Camp Programme
 
 ### Sec 2 Level Camp Programme
 
-Please find [attached](https://pasirrissec.moe.edu.sg/qql/slot/u166/Announcements/Camp%20Prog%20for%20Parents.pdf) the Sec 2 Camp Programme
+Please find [attached](/files/Camp%20Prog%20for%20Parents.pdf) the Sec 2 Camp Programme
 
 ### Sec 1 Level Camp Programme
 
-Please find [attached](https://pasirrissec.moe.edu.sg/qql/slot/u166/Announcements/Camp%20Oneiric%20Programme.pdf) the Sec 1 Camp Programme.
-
-[Read More...](https://pasirrissec.moe.edu.sg/qql/slot/u166/Announcements/Camp%20Oneiric%20Programme.pdf)
+Please find [attached](/files/Camp%20Oneiric%20Programme.pdf) the Sec 1 Camp Programme.
 
 ### Sec 4N Level Camp Programme (Camp Quest)
 
-Please find [attached](https://pasirrissec.moe.edu.sg/qql/slot/u166/Announcements/Camp%20Quest%20Programme.pdf) the Sec 4N Level Camp Programme.
-
-[Read More...](https://pasirrissec.moe.edu.sg/qql/slot/u166/Announcements/Camp%20Quest%20Programme.pdf)
+Please find [attached](/files/Camp%20Quest%20Programme.pdf) the Sec 4N Level Camp Programme.
 
 ### Newsflash – Term 1 2023
 
