@@ -3,3 +3,23 @@ title: 2023 Secondary 1 Registration
 permalink: /2023-secondary-1-registration/
 description: ""
 ---
+All parents and incoming Secondary 1 students are strongly encouraged to attend our welcome and briefing session via Zoom.
+--------------------------------------------------------------------------------------------------------------------------
+
+Topic: **PRSS Secondary 1 Registration Live Session**
+
+Time: **Dec 22, 2022 09:00 AM Singapore**
+
+Join Zoom Meeting  
+[**https://moe-singapore.zoom.us/j/85143771110**](https://moe-singapore.zoom.us/j/85143771110)
+
+  
+
+Meeting ID: **851 4377 1110**<br>Passcode: **prss2212**
+  
+**\[Updated on 22 December 2022 at 12.30 pm\]**  
+Please click below for the following slides shared during the briefing session this morning.  
+
+*   [**Principal's Presentation**]()
+*   **[Main Briefing](/files/PRSS%20Sec%201%20Reg%20Slides.pdf)** 
+*   **[PDLP Briefing](/files/2023%20Sec%201%20PDLP%20Parent%20Engagement%20Deck%20Sec%201%20Registration%20For%20Sharing.pdf)**
