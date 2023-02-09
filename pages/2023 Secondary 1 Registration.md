@@ -28,5 +28,4 @@ Please click below for the following slides shared during the briefing session t
 
 | |||
 | -------- | -------- | -------- |
-| [Key Personnel](/files/PRSS%202023%20Key%20Personnel.pdf)     | [Sec 1 Online Registration Form](https://form.gov.sg/638ffb2fcc49df00110ee967)     | [2022 e-Open House]()     |
-
+| [Key Personnel](/files/PRSS%202023%20Key%20Personnel.pdf)     | [Sec 1 Online Registration Form](https://form.gov.sg/638ffb2fcc49df00110ee967)     | [2022 e-Open House](/e-open-house/e-Open-House/)     |
