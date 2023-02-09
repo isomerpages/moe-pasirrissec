@@ -23,3 +23,10 @@ Please click below for the following slides shared during the briefing session t
 *   [**Principal's Presentation**]()
 *   **[Main Briefing](/files/PRSS%20Sec%201%20Reg%20Slides.pdf)** 
 *   **[PDLP Briefing](/files/2023%20Sec%201%20PDLP%20Parent%20Engagement%20Deck%20Sec%201%20Registration%20For%20Sharing.pdf)**
+
+![](/images/sec1.png)
+
+| |||
+| -------- | -------- | -------- |
+| [Key Personnel](/files/PRSS%202023%20Key%20Personnel.pdf)     | [Sec 1 Online Registration Form](https://form.gov.sg/638ffb2fcc49df00110ee967)     | [2022 e-Open House]()     |
+
