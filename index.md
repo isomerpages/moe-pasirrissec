@@ -12,6 +12,9 @@ sections:
         - title: Announcements
           description: ""
           url: /Announcements
+         - title: Test
+          description: ""
+          url: /Test
   - infobar:
       title: 35th Anniversary
       subtitle: Pasir Ris Secondary School
