@@ -12,7 +12,7 @@ sections:
         - title: Announcements
           description: ""
           url: /Announcements
-         - title: Test
+        - title: Test
           description: ""
           url: /Test
   - infobar:
