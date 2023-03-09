@@ -26,9 +26,9 @@ locations:
     title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6501 0800
+      - email: prss@moe.edu.sg
+      - other: We will contact you within 3 working days for any enquiry.
     title: General Enquiries & Feedback
   - content:
       - phone: ""
