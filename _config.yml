@@ -2,8 +2,8 @@ title: Pasir Ris Secondary School
 url: https://pasirrissec.moe.edu.sg
 favicon: /images/Logo/general_logo.png
 colors:
-  primary-color: "#4f8e03"
-  secondary-color: "#417505"
+  primary-color: "#417505"
+  secondary-color: "#4f8e03"
   media-colors:
     - title: media-color-one
       color: "#49759a"
