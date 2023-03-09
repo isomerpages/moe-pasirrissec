@@ -11,7 +11,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 7.30am - 5.30pm
-        description: Closed on Public Holidays
+        description: Closed on Sunday & Public Holidays
       - days: Sat
         time: 8.30am - 12.00pm
         description: ""
