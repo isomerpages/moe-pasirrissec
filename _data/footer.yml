@@ -1,6 +1,5 @@
 contact_us: /contact-us/
-show_reach: true
-faq: /faq/
+show_reach: false
 social_media:
   facebook: https://www.facebook.com/people/Pasir-Ris-Secondary-School/100068939598481/
   youtube: https://www.youtube.com/YourYoutube
