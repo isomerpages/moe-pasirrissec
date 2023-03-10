@@ -12,7 +12,7 @@ sections:
         - title: Announcements
           description: ""
           url: /Announcements
-         - title: For Parents
+        - title: For Parents
           description: ""
           url: /Parents
         - title: For Teachers
