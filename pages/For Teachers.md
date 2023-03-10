@@ -1,5 +1,5 @@
 ---
 title: For Teachers
-permalink: /permalink/
+permalink: /For Teachers/
 description: ""
 ---
