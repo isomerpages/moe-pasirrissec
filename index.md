@@ -18,6 +18,9 @@ sections:
         - title: For Teachers
           description: ""
           url: /For Teachers
+         - title: For Students
+          description: ""
+          url: /For Students
   - infobar:
       title: 35th Anniversary
       subtitle: Pasir Ris Secondary School
