@@ -1,5 +1,5 @@
 ---
 title: For Parents
-permalink: /permalink/
+permalink: /For Parents/
 description: ""
 ---
