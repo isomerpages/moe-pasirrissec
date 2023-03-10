@@ -12,6 +12,12 @@ sections:
         - title: Announcements
           description: ""
           url: /Announcements
+          - title: For Teachers
+          description: ""
+          url: /For Teachers
+          - title: For Parents
+          description: ""
+          url: /For Parents
   - infobar:
       title: 35th Anniversary
       subtitle: Pasir Ris Secondary School
