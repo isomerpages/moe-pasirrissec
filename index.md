@@ -18,7 +18,7 @@ sections:
         - title: For Teachers
           description: ""
           url: /For Teachers
-         - title: For Students
+        - title: For Students
           description: ""
           url: /For Students
   - infobar:
