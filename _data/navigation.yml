@@ -8,9 +8,9 @@ links:
     collection: holistic-education
   - title: Achievements
     collection: achievements
+  - title: Information For Parents
+    collection: information-for-parents
   - title: Useful Links
     collection: useful-links
   - title: Contact Us
     url: /Contact-Us
-  - title: Information For Parents
-    collection: information-for-parents
