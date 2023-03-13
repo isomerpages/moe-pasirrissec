@@ -1,6 +1,0 @@
-collections:
-  information-for-parents:
-    output: true
-    order:
-      - Parent Support Group.md
-      - Event for Parents.md
