@@ -4,7 +4,7 @@ permalink: /about-us/Principals-Foreword/
 description: ""
 ---
 <img src="/images/Mrs%20Chua.jpg" 
-     style="width:30%;float:left">
+     style="width:30%;float:left;margin-right:5%">
 		 
 A warm welcome to Pasir Ris Secondary School and congratulations on your child's successful completion of Primary School.
 
