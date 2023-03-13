@@ -4,8 +4,7 @@ permalink: /information-for-parents/Parent-Support-Group/
 description: ""
 ---
 “ _Coming together is a beginning. Keeping together is progress. Working together is success._ ”
-
-                                                                                                                                              - Henry Ford
+                                                                                                                                             - Henry Ford
 
 This famous quote was often shared by members of our PSG Exco.  It goes well with our Partnership Framework of fostering synergistic partnership for win-win outcomes.
 
