@@ -14,7 +14,7 @@ sections:
           url: /Announcements
         - title: Information for Parents
           description: ""
-          url: /For Parents
+          url: /Information-for-Parents/Event-for-Parents/
         - title: Direct School Admission (DSA) Exercise 2023
           description: ""
           url: /For Teachers
