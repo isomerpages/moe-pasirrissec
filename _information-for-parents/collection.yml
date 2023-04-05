@@ -2,6 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
+      - Student GPA Insurance Plan.md
       - Financial Assistance.md
       - General School Information.md
       - Education & Career Guidance.md
