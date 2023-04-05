@@ -15,7 +15,7 @@ In PRSS, we embrace the love of aesthetics and have a vibrant culture in the Mus
 Learning for Life Programme (LLP) aims to build a vibrant arts environment where every child can&nbsp;**SHINE through the ARTs.**  
 
   
-**Vision**
+##### **Vision**
 
   
 
@@ -27,7 +27,7 @@ To develop Pasirians into:&nbsp;
 
 ![](/images/LLP2.png)
 
-**Program Structure**
+##### **Program Structure**
 
   
 
