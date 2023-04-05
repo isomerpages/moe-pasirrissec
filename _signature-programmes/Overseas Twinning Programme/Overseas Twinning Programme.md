@@ -12,6 +12,7 @@ Pasir Ris Secondary School’s Overseas Twinning Programme seeks to enrich all P
 
   
 
-In 2021, Pasir Ris Secondary School hosted her inaugural e-twinning programme with students from the following school:
+Since 2021, Pasir Ris Secondary School has hosted e-twinning programmes with students from the following school:
 
 *   Suncheon Namsan Middle School, South Korea
+*   Japan
