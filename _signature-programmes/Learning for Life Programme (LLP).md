@@ -56,4 +56,4 @@ PRSS has the&nbsp;4E Development Plan&nbsp;to promote school-wide progression in
 		 
 ![](/images/Indian%20Drumming.jpeg)
 
-&nbsp;[Click here](/useful-links/Direct-School-Admission-DSA/DSA-LLP-IN-MUSIC-AND-PERFORMING-ARTS)&nbsp;to find out how you can join PRSS through our Direct School Admission in LLP.
+&nbsp;[Click here](/useful-links/direct-school-admission-dsa/dsa-llp-in-music-and-performing-arts/)&nbsp;to find out how you can join PRSS through our Direct School Admission in LLP.
