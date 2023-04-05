@@ -22,31 +22,30 @@ Although the programme has evolved since its inception, the five key strategies 
 
   
 
-**Diversity in Humanities Subject offerings (D)**&nbsp;
+##### **Diversity in Humanities Subject offerings (D)**&nbsp;
 
 Provide a variety of Humanities subject offerings to better prepare students for post-secondary education&nbsp;
 
   
 
-**Relevance of learning through Broadcast Journalism platforms(R)**&nbsp;
+##### **Relevance of learning through Broadcast Journalism platforms(R)**&nbsp;
 
 Through various content creation platforms such as photojournalism, podcasts, news-casting and documentary production, we provide quality learning experiences for students to apply their knowledge and skills to real-life situations.
 
   
 
-**Interest in reading and improved literacy (I)**&nbsp;
+##### **Interest in reading and improved literacy (I)**&nbsp;
 
 Cultivate reading habits for deeper learning and improved literacy to enable students to better express themselves and develop their confidence.&nbsp;
 
   
-
-**Value in a real-world application through current affairs and career guidance (V)**&nbsp;
+##### **Value in a real-world application through current affairs and career guidance (V)**&nbsp;
 
 Leverage current affairs to enhance students’ global awareness, perspective-taking and cultural literacy; augment students’ awareness of career opportunities linked to the Media arts industry through career talks, learning journeys and attachments.&nbsp;
 
   
 
-**Environment and partnerships (E)**&nbsp;
+##### **Environment and partnerships (E)**&nbsp;
 
 Transform physical spaces into themed corners to cultivate students’ interest in current affairs and showcase students’ work; collaborate with key external partners to make learning more authentic and experiential.
 
