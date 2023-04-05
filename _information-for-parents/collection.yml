@@ -2,6 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
+      - Healthy Meals in Schools Programme.md
       - Booklist.md
       - Leave of Absence (LOA) Scheme.md
       - Student GPA Insurance Plan.md
