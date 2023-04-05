@@ -2,5 +2,6 @@ collections:
   information-for-parents:
     output: true
     order:
+      - Cyber Wellness.md
       - Parent Support Group.md
       - Event for Parents.md
