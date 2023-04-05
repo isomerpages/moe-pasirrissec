@@ -12,10 +12,11 @@ sections:
         - title: Announcements
           description: ""
           url: /Announcements
-        - title: For Parents
+        - title: Information for Parents
           description: ""
           url: /For Parents
         - title: Direct School Admission (DSA) Exercise 2023
           description: ""
           url: /For Teachers
+      title: Pasir Ris Secondary School
 ---
