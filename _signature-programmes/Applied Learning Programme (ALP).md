@@ -10,7 +10,7 @@ The Applied Learning Programme (ALP): Eye on the World – Stories through Journ
 
   
 
-The programme was first started in 2015, with a focus on deepening interest and applying learning in Humanities and English language in various real life situations. Students do this through various integrated projects in the IP and non-IP areas such as IPW and VIA. These programmes brought them out to the real world and develop their confidence in engaging with other stakeholders in the community. Concurrently, a Current Affairs programme was developed to help our students develop an interest and learn more about contemporary issues which affect them and the community. 
+The programme was first started in 2015, with a focus on deepening interest and applying learning in Humanities and English language in various real life situations. Students do this through various integrated projects in the IP and non-IP areas such as IPW and VIA. These programmes brought them out to the real world and develop their confidence in engaging with other stakeholders in the community. Concurrently, a Current Affairs programme was developed to help our students develop an interest and learn more about contemporary issues which affect them and the community.&nbsp;
 
   
 
@@ -22,45 +22,45 @@ Although the programme has evolved since its inception, the five key strategies 
 
   
 
-**Diversity in Humanities Subject offerings (D)** 
+**Diversity in Humanities Subject offerings (D)**&nbsp;
 
-Provide a variety of Humanities subject offerings to better prepare students for post-secondary education 
+Provide a variety of Humanities subject offerings to better prepare students for post-secondary education&nbsp;
 
   
 
-**Relevance of learning through Broadcast Journalism platforms(R)** 
+**Relevance of learning through Broadcast Journalism platforms(R)**&nbsp;
 
 Through various content creation platforms such as photojournalism, podcasts, news-casting and documentary production, we provide quality learning experiences for students to apply their knowledge and skills to real-life situations.
 
   
 
-**Interest in reading and improved literacy (I)** 
+**Interest in reading and improved literacy (I)**&nbsp;
 
-Cultivate reading habits for deeper learning and improved literacy to enable students to better express themselves and develop their confidence. 
-
-  
-
-**Value in a real-world application through current affairs and career guidance (V)** 
-
-Leverage current affairs to enhance students’ global awareness, perspective-taking and cultural literacy; augment students’ awareness of career opportunities linked to the Media arts industry through career talks, learning journeys and attachments. 
+Cultivate reading habits for deeper learning and improved literacy to enable students to better express themselves and develop their confidence.&nbsp;
 
   
 
-**Environment and partnerships (E)** 
+**Value in a real-world application through current affairs and career guidance (V)**&nbsp;
+
+Leverage current affairs to enhance students’ global awareness, perspective-taking and cultural literacy; augment students’ awareness of career opportunities linked to the Media arts industry through career talks, learning journeys and attachments.&nbsp;
+
+  
+
+**Environment and partnerships (E)**&nbsp;
 
 Transform physical spaces into themed corners to cultivate students’ interest in current affairs and showcase students’ work; collaborate with key external partners to make learning more authentic and experiential.
 
 ![](/images/Photos%20for%20ALP.jpeg)
 
-_Top left: Our Sec 2 students undergoing the Photojournalism Workshop_
+_Top left:&nbsp;Our Sec 2 students undergoing the Photojournalism Workshop_
 
 _Bottom left: Our Sec 2 students undergoing a film making workshop conducted by industry professionals._
 
-_Top right: Our students sharing about the PRSS Waves Radio show to guests during the 35th Anniversary celebrations_ 
+_Top right: Our students sharing about the PRSS Waves Radio show to guests during the 35th Anniversary celebrations_&nbsp;
 
-_Bottom right: Our #Ruminate gallery where students can learn more about contemporary issues and news that affect our community._
+_Bottom right:&nbsp;Our #Ruminate gallery where students can learn more about contemporary issues and news that affect our community._
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SHelsGz7fbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SHelsGz7fbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Podcast on social issues by our Sec 3 students**
 
@@ -68,4 +68,4 @@ _Bottom right: Our #Ruminate gallery where students can learn more about contem
 
 **A short Radio show which our students produced as part of their training**
 
-[Click here](/useful-links/Direct-School-Admission-DSA/DSA-ALP-IN-HUMANITIES-AND-ENGLISH-LANGUAGE) to find out how you can join PRSS through our Direct School Admission in ALP
+[Click here](/useful-links/direct-school-admission-dsa/dsa-alp-in-humanities-and-english-language/)&nbsp;to find out how you can join PRSS through our Direct School Admission in ALP.
