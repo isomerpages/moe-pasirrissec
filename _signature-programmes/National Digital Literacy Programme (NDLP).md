@@ -25,7 +25,7 @@ At PRSS, all students use a&nbsp;**Chromebook**&nbsp;as their PLD. Chromebooks a
 Since 2021, every Secondary 1 student purchase their own&nbsp;**Chromebook**&nbsp;as the school-prescribed PLD. This device is a touchscreen convertible laptop (i.e. can be used as a laptop or rotated 180o&nbsp;into a tablet) and comes with its own in-built stylus for inking functions.
 
 ![](/images/chrome.png)
-![](/images/chromespecs.png)
+![](/images/chromespecs2023.png)
 
 #### PDLP Student Device Information Kit
 
