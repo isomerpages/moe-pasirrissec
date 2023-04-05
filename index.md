@@ -15,7 +15,7 @@ sections:
         - title: For Parents
           description: ""
           url: /For Parents
-        - title: For Teachers
+        - title: Direct School Admission (DSA) Exercise 2023
           description: ""
           url: /For Teachers
 ---
