@@ -46,7 +46,7 @@ third_nav_title: Our People
 |2T7|JASLIN JIANG WEI YEOW|[jiang_wei_yeow@moe.edu.sg](mailto:jiang_wei_yeow@moe.edu.sg)
 |2T7|DANIEL CHNG WEI MIN|[chng_wei_min_daniel@moe.edu.sg](mailto:chng_wei_min_daniel@moe.edu.sg)
 |2T7|NADIRAH JAMALLODIN	|[nadirah_a@moe.edu.sg](mailto:nadirah_a@moe.edu.sg)
-
+|2T7|DESIREE OH	|[oh_yi_ting_desiree@moe.edu.sg](mailto:oh_yi_ting_desiree@moe.edu.sg)
 
 ##### Secondary 3
 
@@ -60,6 +60,7 @@ third_nav_title: Our People
 |3E3|JIN BEIHUA|[jin_beihua@moe.edu.sg](mailto:jin_beihua@moe.edu.sg)
 |3E4|WONG YUN YI	|[wong_yun_yi@moe.edu.sg](mailto:wong_yun_yi@moe.edu.sg)
 |3E4|JUMIAH AHMAD	|[jumiah_ahmad@moe.edu.sg](mailto:jumiah_ahmad@moe.edu.sg)
+|3E4|ZACHARY	KOH|[koh_jia_sheng_zachary@moe.edu.sg](mailto:koh_jia_sheng_zachary@moe.edu.sg)
 |3E5|ANMILIA BTE ANWAR DATT	|[anmilia_anwar_datt@moe.edu.sg](mailto:anmilia_anwar_datt@moe.edu.sg)
 |3E5|ALBERT NEO CHIN LEE	|[neo_chin_lee@moe.edu.sg](mailto:neo_chin_lee@moe.edu.sg)
 |3E6|CHIANG SHU LEE |[chiang_shu_lee@moe.edu.sg](mailto:chiang_shu_lee@moe.edu.sg)
