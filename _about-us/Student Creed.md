@@ -3,6 +3,8 @@ title: Student Creed
 permalink: /about-us/Student-Creed/
 description: ""
 ---
+#### **Student Creed**
+
 We, Pasirians, will be upright in character and exemplary in conduct  
   
 We will learn with passion and strive for excellence  
