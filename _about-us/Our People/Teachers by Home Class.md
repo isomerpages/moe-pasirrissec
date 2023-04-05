@@ -25,6 +25,7 @@ third_nav_title: Our People
 |1T7|CINDY SOH SOCK KHENG|[soh_sock_kheng@moe.edu.sg](mailto:soh_sock_kheng@moe.edu.sg)
 |1T7|ANDY LAW|[law_andy@moe.edu.sg](mailto:law_andy@moe.edu.sg)
 |1T7|ZULKIFLI BIN MOHAMED SAAT |[zulkifli_mohamed_saat@moe.edu.sg](mailto:zulkifli_mohamed_saat@moe.edu.sg)
+|1T7|HAZMI BIN HAROON|[hazmi_haroon@moe.edu.sg](mailto:hazmi_haroon@moe.edu.sg)
 
 
 ##### Secondary 2
@@ -67,7 +68,8 @@ third_nav_title: Our People
 |3E6|SHAYNE ONG CHI YING|[chi_ying_shayne_ong@moe.edu.sg](mailto:chi_ying_shayne_ong@moe.edu.sg)
 |3T7|RUBI'AH BINTE MASSUAN	|[rubiah_massuan@moe.edu.sg](mailto:rubiah_massuan@moe.edu.sg)
 |3T7|ABDUL HALIM B MOHAMED UDORI|[abdul_halim_mohamed_udori@moe.edu.sg](mailto:abdul_halim_mohamed_udori@moe.edu.sg)
-|3T7|HAZMI BIN HAROON|[hazmi_haroon@moe.edu.sg](mailto:hazmi_haroon@moe.edu.sg)
+|3T7|PEARLYN CHIA|[pearlyn_chia_kai_ling@moe.edu.sg](mailto:pearlyn_chia_kai_ling@moe.edu.sg)
+
 
 
 ##### Secondary 4
@@ -87,7 +89,7 @@ third_nav_title: Our People
 |4E6|SABRINA HO|[ho_yen_yin_sabrina@moe.edu.sg](mailto:ho_yen_yin_sabrina@moe.edu.sg)
 |4E6|KEVIN KOK WAI KEONG|[Kok_Wai_Keong_Kevin@moe.edu.sg](mailto:Kok_Wai_Keong_Kevin@moe.edu.sg)
 |4T7|DESMOND NG BOON TIONG|[ng_boon_tiong_a@moe.edu.sg](mailto:ng_boon_tiong_a@moe.edu.sg)
-|4T7|LEONG SU JUEN|[leong_su_juen@moe.edu.sg](mailto:leong_su_juen@moe.edu.sg)
+|4T7|EUDORA TAN|[tan_cijun_eudora@moe.edu.sg](mailto:tan_cijun_eudora@moe.edu.sg)
 |4T7|ANG EE HUP|[ang_ee_hup@moe.edu.sg](mailto:ang_ee_hup@moe.edu.sg)
 
 
