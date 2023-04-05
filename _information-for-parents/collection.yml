@@ -2,6 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
+      - Financial Assistance.md
       - General School Information.md
       - Education & Career Guidance.md
       - Cyber Wellness.md
