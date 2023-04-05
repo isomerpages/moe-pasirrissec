@@ -2,13 +2,13 @@ collections:
   information-for-parents:
     output: true
     order:
-      - Healthy Meals in Schools Programme.md
-      - Booklist.md
-      - Leave of Absence (LOA) Scheme.md
-      - Student GPA Insurance Plan.md
-      - Financial Assistance.md
-      - General School Information.md
-      - Education & Career Guidance.md
-      - Cyber Wellness.md
-      - Parent Support Group.md
       - Event for Parents.md
+      - Parent Support Group.md
+      - Cyber Wellness.md
+      - Education & Career Guidance.md
+      - General School Information.md
+      - Healthy Meals in Schools Programme.md
+      - Financial Assistance.md
+      - Booklist.md
+      - Student GPA Insurance Plan.md
+      - Leave of Absence (LOA) Scheme.md
