@@ -9,10 +9,14 @@ third_nav_title: Our People
 
 | Class | Name | Email |
 | -------- | -------- | -------- |
-| 1A1 | FAZIDAH BTE MOHD LIAS     | [fazidah_mohamed_lias@moe.edu.sg](mailto:fazidah_mohamed_lias@moe.edu.sg)      |
+|1A1|MAVIS HO MIN YU|[ho_min_yu_mavis@moe.edu.sg](mailto:ho_min_yu_mavis@moe.edu.sg)
+|1A1|ERIC KOH|[koh_kai_hwee@moe.edu.sg](mailto:koh_kai_hwee@moe.edu.sg)
+|1A2|VINCENT YEW KAH KEAT|[yew_kah_keat_vincent@moe.edu.sg](mailto:yew_kah_keat_vincent@moe.edu.sg)
+|1A2|YEONG WEI SYN|[yeong_wei_syn@moe.edu.sg](mailto:yeong_wei_syn@moe.edu.sg)
+
+|1A1 | FAZIDAH BTE MOHD LIAS     | [fazidah_mohamed_lias@moe.edu.sg](mailto:fazidah_mohamed_lias@moe.edu.sg)      |
 |1A1|KIMBERLYN LEE|[kimberlyn_lee@moe.edu.sg](mailto:kimberlyn_lee@moe.edu.sg)
 |1A2|SUMRAH BTE CHUNI|[sumrah_chuni@moe.edu.sg](mailto:sumrah_chuni@moe.edu.sg)
-|1E3|MAVIS HO MIN YU|[ho_min_yu_mavis@moe.edu.sg](mailto:ho_min_yu_mavis@moe.edu.sg)
 |1E3|MINDY LOW LIXIAN|[mindy_low_lixian@moe.edu.sg](mailto:mindy_low_lixian@moe.edu.sg)
 |1E3|LI YANG|[li_yang_a@moe.edu.sg](mailto:li_yang_a@moe.edu.sg)
 |1E4|LIU SHU CUN|[liu_shu_cun@moe.edu.sg](mailto:liu_shu_cun@moe.edu.sg)
@@ -37,7 +41,7 @@ third_nav_title: Our People
 |2E3|HANNAH LUM WAN LING|[lum_wan_ling_hannah@moe.edu.sg](mailto:lum_wan_ling_hannah@moe.edu.sg)
 |2E4|LEE WEI WEI|[lee_wei_wei@moe.edu.sg](mailto:lee_wei_wei@moe.edu.sg)
 |2E4|WANG XIANGKUN|[wang_xiangkun@moe.edu.sg](mailto:wang_xiangkun@moe.edu.sg)
-|2E5|VINCENT YEW KAH KEAT|[yew_kah_keat_vincent@moe.edu.sg](mailto:yew_kah_keat_vincent@moe.edu.sg)
+
 |2E5|FIONA CHEW XIN RONG|[chew_xin_rong_fiona@moe.edu.sg](mailto:chew_xin_rong_fiona@moe.edu.sg)
 |2E6|NG AI HOON|[ng_ai_hoon@moe.edu.sg](mailto:ng_ai_hoon@moe.edu.sg)
 |2E6|SHAYNE ONG CHI YING|[chi_ying_shayne_ong@moe.edu.sg](mailto:chi_ying_shayne_ong@moe.edu.sg)
