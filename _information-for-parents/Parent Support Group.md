@@ -8,8 +8,6 @@ description: ""
 
 This famous quote was often shared by members of our PSG Exco.&nbsp; It goes well with our Partnership Framework of fostering synergistic partnership for win-win outcomes.
 
-&nbsp;  
-
 ##### **PARENT SUPPORT GROUP EXCO**
 CHAIRPERSON : Ms Ann Kwan
 <br>VICE CHAIRPERSON : Mdm Amy Jiang
