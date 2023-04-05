@@ -8,9 +8,8 @@ description: ""
 
 We want to nurture every \*Pasirian to become a:        
 
-·    Confident Learner who is inquisitive, motivated, reflective, thinks critically, communicates effectively and owns his/her learning
-
-·        Caring and Resilient Citizen who embraces challenges and has the moral courage to make a positive difference to the lives of others.
+* Confident Learner who is inquisitive, motivated, reflective, thinks critically, communicates effectively and owns his/her learning
+* Caring and Resilient Citizen who embraces challenges and has the moral courage to make a positive difference to the lives of others.
 
 ##### Mission: Inspiring Lives, Nurturing Talents, Realising Dreams
 
@@ -21,30 +20,20 @@ We believe that every student can learn and grow. Teachers hold the key to unloc
 
 ##### Values:
 
-**Pride**
-
-Belief in the worth of self, school and the community
+* **Pride** - Belief in the worth of self, school and the community
 
   
 
-**Responsibility**
-
-Fulfilment of duty to self, family, community, nation and the world
+* **Responsibility** - Fulfilment of duty to self, family, community, nation and the world
 
   
 
-**Integrity**
-
-Honesty in words and actions, and moral courage to stand up for what is right
+* **Integrity** - Honesty in words and actions, and moral courage to stand up for what is right
 
   
 
-**Zeal**
-
-Enthusiasm to learn and pursue one's dreams, persevering even in the face of challenges 
+* **Zeal** - Enthusiasm to learn and pursue one's dreams, persevering even in the face of challenges 
 
   
 
-**Empathy**
-
-Ability to understand and feel for others, and show care and compassion
+* **Empathy** - Ability to understand and feel for others, and show care and compassion
