@@ -61,16 +61,11 @@ _Bottom right:&nbsp;Our #Ruminate gallery where students can learn more about co
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SHelsGz7fbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**Podcast on social issues by our Sec 3 students**
 
-**A Radio podcast**
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1u2bqYOlYKGSmtsRYOwCuHjLjR_YirObR0Xidi6O1y4g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-**A short Radio show which our students produced as part of their training**
-```
 
-<iframe src="https://drive.google.com/file/d/1KExkggWMOtttWt02mYQ978yva5RmqwRU/preview" height="200" width="400" frameborder="0"></iframe>
 
-```
 
 
 [Click here](/useful-links/direct-school-admission-dsa/dsa-alp-in-humanities-and-english-language/)&nbsp;to find out how you can join PRSS through our Direct School Admission in ALP.
