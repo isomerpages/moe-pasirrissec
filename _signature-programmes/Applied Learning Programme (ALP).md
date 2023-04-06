@@ -66,5 +66,11 @@ _Bottom right:&nbsp;Our #Ruminate gallery where students can learn more about co
 **A Radio podcast**
 
 **A short Radio show which our students produced as part of their training**
+```
+
+<iframe src="https://drive.google.com/file/d/1KExkggWMOtttWt02mYQ978yva5RmqwRU/preview" height="200" width="400" frameborder="0"></iframe>
+
+```
+
 
 [Click here](/useful-links/direct-school-admission-dsa/dsa-alp-in-humanities-and-english-language/)&nbsp;to find out how you can join PRSS through our Direct School Admission in ALP.
