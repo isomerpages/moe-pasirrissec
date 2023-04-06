@@ -16,7 +16,7 @@ b) **[Applied Learning Programme in Humanities & English Language](/useful-link
 
   
 
-c) **Talent Development in Sports – Football (Boys) and Volleyball (Boys & Girls)** – new in 2020, our school has many alumni who embrace sports for life and are doing well in careers related to sports. As such, we are building on the tradition to grow sporting talents at our school. We have a comprehensive and extensive programme in Football and Volleyball to develop our athletes. Not only do they receive high-quality training in sports, but there is also a robust leadership programme to develop them into worthy sports ambassadors. We strongly believe that sports can build character, foster friendship and teamwork. If you have a strong passion for Football or Volleyball and have represented your primary school in sports competitions, do join us!
+c) **[Talent Development in Sports - Football (Boys) and Volleyball (Boys & Girls)](/useful-links/direct-school-admission-dsa/dsa-talent-development-in-sports/)** – new in 2020, our school has many alumni who embrace sports for life and are doing well in careers related to sports. As such, we are building on the tradition to grow sporting talents at our school. We have a comprehensive and extensive programme in Football and Volleyball to develop our athletes. Not only do they receive high-quality training in sports, but there is also a robust leadership programme to develop them into worthy sports ambassadors. We strongly believe that sports can build character, foster friendship and teamwork. If you have a strong passion for Football or Volleyball and have represented your primary school in sports competitions, do join us!
 
   
 
