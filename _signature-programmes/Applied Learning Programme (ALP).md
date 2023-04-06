@@ -59,7 +59,7 @@ _Top right: Our students sharing about the PRSS Waves Radio show to guests durin
 
 _Bottom right:&nbsp;Our #Ruminate gallery where students can learn more about contemporary issues and news that affect our community._
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SHelsGz7fbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="569" height="960" src="https://www.youtube.com/embed/SHelsGz7fbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1u2bqYOlYKGSmtsRYOwCuHjLjR_YirObR0Xidi6O1y4g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
