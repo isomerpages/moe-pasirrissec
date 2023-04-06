@@ -19,7 +19,7 @@ Beyond schools’ efforts, parents can also play an important role at home in gu
 
   
 
-**Education &amp; Career Guidance (ECG) Counselling**
+##### **Education &amp; Career Guidance (ECG) Counselling**
 
 Our&nbsp;ECG&nbsp;Counsellor, Mr Syahril, supports students (individually or in small groups) with the necessary knowledge and skills to make informed decisions for a smoother transition to further education or work.
 
@@ -27,30 +27,27 @@ Students who would like to&nbsp;explore their subject choices, ask about post-se
 
   
 Please email him at&nbsp;[Mohammed\_syahril\_SAMSUDIN@schools.gov.sg](mailto:Mohammed_syahril_SAMSUDIN@schools.gov.sg)
+![](/images/ecg%20appointment%20booking.jpg)
 
-![](/images/image012.jpeg)
 
 <img src="/images/ECG1.jpeg" style="width:30%;float:left">
-		 
+ 
 Education and Career Guidance (ECG) is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work, and hence to manage their career pathways and lifelong learning throughout their lives.
 
   
 
-The ECG curriculum aims to:
+<br>The ECG curriculum aims to:
 
 *   Nurture students’ self-awareness, self-directedness and life skills for continuous learning and training;
 *   Enable students to explore viable education and career options through the provision of accurate and comprehensive information;
 *   Inculcate an appreciation for the value of all occupations and how they contribute to the well-functioning of society; and
 *   Equip our students with skills and means to positively engage their parents and other career influencers.  
     
-
-  
-
 To find out more and to learn about the ECG curriculum, click on the thumbnail or on the link&nbsp;[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/education-and-career-guidance)&nbsp;.
 
 <img src="/images/Skill%20Future%20Portal.png" style="width:50%;float:left">
 
-My Skills Future Portal  
+##### My Skills Future Portal  
   
 Please click on the image for the instructions to log in to&nbsp;[MySkillsFuture portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)&nbsp;using your child's account.
 
@@ -83,7 +80,7 @@ Using these stories as springboards, discuss with your child his/her education a
 
 <img src="/images/ECG5.png" style="width:50%;float:left">
 		 
-\&gt;We want to partner you to develop your child holistically!
+We want to partner you to develop your child holistically!
 
   
 
