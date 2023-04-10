@@ -1,0 +1,14 @@
+collections:
+  useful-links:
+    output: true
+    order:
+      - PRSS Newsflash.md
+      - Parents Gateway.md
+      - Ecogarden Virtual Tour.md
+      - Direct School Admission (DSA)/DSA – ALP IN HUMANITIES AND ENGLISH
+        LANGUAGE.md
+      - Direct School Admission (DSA)/DSA – LLP IN MUSIC AND PERFORMING ARTS.md
+      - Direct School Admission (DSA)/DSA – TALENT DEVELOPMENT IN SPORTS.md
+      - Direct School Admission (DSA)/DSA – DIGITAL MEDIA.md
+      - Direct School Admission (DSA)/Direct School Admission (DSA).md
+      - Direct School Admission (DSA)/.keep

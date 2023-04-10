@@ -1,0 +1,10 @@
+collections:
+  cce:
+    output: true
+    order:
+      - Adolescence Character & Citizenship Education.md
+      - Cyber Wellness.md
+      - Education Career Guidance.md
+      - National Education (NE).md
+      - Sexuality Education.md
+      - Values In Action (VIA).md

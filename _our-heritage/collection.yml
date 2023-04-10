@@ -1,0 +1,6 @@
+collections:
+  our-heritage:
+    output: true
+    order:
+      - Our Journey.md
+      - Heritage Video.md

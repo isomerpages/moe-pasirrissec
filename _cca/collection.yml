@@ -1,0 +1,25 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Co Curricular Activities.md
+      - Aesthetic/.keep
+      - Aesthetic/Chinese Orchestra.md
+      - Aesthetic/Choir.md
+      - Aesthetic/Concert Band.md
+      - Aesthetic/Modern Dance.md
+      - Aesthetic/English Drama.md
+      - Club/.keep
+      - Club/Audio Visual Lights.md
+      - Club/Tinkers' Club.md
+      - Sports & Games/.keep
+      - Sports & Games/Badminton.md
+      - Sports & Games/Basketball.md
+      - Sports & Games/Football.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Table Tennis.md
+      - Sports & Games/Volleyball.md
+      - Uniformed Groups/National Cadet Corps.md
+      - Uniformed Groups/National Police Cadet Corps.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/National Civil Defence Cadet Corps.md

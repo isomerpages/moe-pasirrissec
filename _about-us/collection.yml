@@ -1,0 +1,25 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Foreword.md
+      - Our Heritage.md
+      - Vision, Mission and Values.md
+      - School Symbols.md
+      - Student Creed.md
+      - Our People/School Advisory Committee.md
+      - Our People/Key Personnel.md
+      - Our People/Teachers by Home Class.md
+      - Our People/.keep
+      - Our Partners/Our Partners.md
+      - Our Partners/Parents Support Group.md
+      - Our Partners/Alumni.md
+      - Our Partners/.keep
+      - PRSS Connect/Retrospect 2022.md
+      - PRSS Connect/Retrospect 2021.md
+      - PRSS Connect/Retrospect 2020.md
+      - PRSS Connect/Retrospect 2019.md
+      - PRSS Connect/Retrospect 2018.md
+      - PRSS Connect/School Video.md
+      - PRSS Connect/.keep
+      - LHL Award for Innovation in Normal Course.md

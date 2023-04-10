@@ -1,0 +1,18 @@
+collections:
+  signature-programmes:
+    output: true
+    order:
+      - Signature Programmes.md
+      - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md
+      - National Digital Literacy Programme (NDLP).md
+      - Interdisciplinary Project Work (IPW).md
+      - Level Camps.md
+      - Overseas Twinning Programme/.keep
+      - Overseas Twinning Programme/Overseas Twinning Programme.md
+      - Overseas Twinning Programme/Brunei.md
+      - Overseas Twinning Programme/Nanjing.md
+      - Overseas Twinning Programme/Suzhou.md
+      - Overseas Twinning Programme/South Korea.md
+      - Student Leadership.md
+      - STEAM.md

@@ -1,0 +1,8 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - In The News.md
+      - Academic Achievements.md
+      - CCA Achievements.md
+      - Staff Accolades.md
