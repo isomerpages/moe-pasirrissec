@@ -3,6 +3,10 @@ title: Announcements
 permalink: /Announcements/
 description: ""
 ---
+#### 2023 Term 2 Timetable (wef 3 April)
+
+Please click [here](/files/2023%20SEM1%20BL%20TT%20V2%20-%20Class.pdf) for the 2023 Semester 1 Blended Learning (BL) timetable.
+
 ### 2023 Semester 1 BL Day Timetable
 
 Please click [here](/files/2023%20SEM1%20BL%20TT%20V2%20-%20Class.pdf) for the 2023 Semester 1 Blended Learning (BL) timetable.
