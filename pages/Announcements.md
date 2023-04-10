@@ -25,4 +25,4 @@ Please click [here](/files/Announcements/2023/release%20of%202022%20gce%20o%20l
 
 #### Sale of School Uniform in Jan 2023
 
-Please click [here](/files/Announcements/2023/pasir%20ris%20secondary%20%20sale%20schedule%20jan%202023%20.pdf) to view the announcement. 
+Please click [here](/files/Announcements/2023/pasir%20ris%20secondary%20%20sale%20schedule%20jan%202023%20.pdf) to view the announcement.
