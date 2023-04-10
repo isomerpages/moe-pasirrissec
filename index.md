@@ -18,5 +18,8 @@ sections:
         - title: Direct School Admission (DSA) Exercise 2023
           description: ""
           url: /useful-links/direct-school-admission-dsa/direct-school-admission-dsa/
+        - title: CONTACT US
+          description: ""
+          url: /Contact-Us
       title: Pasir Ris Secondary School
 ---
