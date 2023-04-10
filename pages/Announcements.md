@@ -5,7 +5,7 @@ description: ""
 ---
 #### 2023 Term 2 Timetable (wef 3 April)
 
-Please click [here](/files/2023%20SEM1%20BL%20TT%20V2%20-%20Class.pdf) for the 2023 Term 2 timetable.
+Please click [here](/files/Announcements/2023/classes%20-%202023%20t2%20tt%20wef%203%20apr%20final%203.pdf) for the 2023 Term 2 timetable.
 
 #### 2023 Semester 1 BL Day Timetable
 
