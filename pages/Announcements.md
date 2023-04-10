@@ -9,7 +9,7 @@ Please click [here](/files/Announcements/2023/classes%20-%202023%20t2%20tt%20we
 
 #### 2023 Semester 1 BL Day Timetable
 
-Please click [here]() for the 2023 Semester 1 Blended Learning (BL) timetable.
+Please click [here](/files/Announcements/2023/2023%20sem1%20bl%20tt%20v2%20-%20class.pdf) for the 2023 Semester 1 Blended Learning (BL) timetable.
 
 #### 2023 Term 1 Timetable wef 30 Jan
 
