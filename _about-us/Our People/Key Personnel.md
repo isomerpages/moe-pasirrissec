@@ -50,8 +50,8 @@ third_nav_title: Our People
 
 | Designation | Name | Email |
 | -------- | -------- | -------- |
-|Admin Manager 	|Mr Desmon Ho	|[HO_Kheng_Chan@schools.gov.sg]
-|Admin Manager 	|Mdm Hazwani Bte Abdul Wahid	|[Hazwani_ABDUL_WAHID@schools.gov.sg](mailto:Hazwani_ABDUL_WAHID@schools.gov.sg)
+|Admin Manager 	|Mr Desmond Ho|[HO_Kheng_Chan@schools.gov.sg](mailto:HO_Kheng_Chan@schools.gov.sg)
+|Admin Manager 	|Mdm Hazwani Bte Abdul Wahid |[Hazwani_ABDUL_WAHID@schools.gov.sg](mailto:Hazwani_ABDUL_WAHID@schools.gov.sg)
 |Operations Manager	|Mr Mohd Amin Bin Kadir	|[Mohd_Amin_KADIR@schools.gov.sg](mailto:Mohd_Amin_KADIR@schools.gov.sg)
 |School Counsellor	|Ms Lorraine Teo Pek Lian	|[lorraine_teo_pek_lian@moe.edu.sg](mailto:lorraine_teo_pek_lian@moe.edu.sg)
 |SEN Officer	|Mdm Nur Atiqah Bte Nasir	|[nur_atiqah_nasir@moe.edu.sg](mailto:nur_atiqah_nasir@moe.edu.sg)
