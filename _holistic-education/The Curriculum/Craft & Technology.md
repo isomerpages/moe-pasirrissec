@@ -286,9 +286,8 @@ Art student putting up his finishing touch on his final artwork (his installatio
 </li>
 
 
-People
+# People
 ------
-
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
