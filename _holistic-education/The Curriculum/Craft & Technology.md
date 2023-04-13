@@ -8,10 +8,10 @@ Programme
 ---------
   
 <ul class="jekyllcodex_accordion">  
-&nbsp; <li>  
-&nbsp;&nbsp;&nbsp; <input type="checkbox" id="accordion1">  
-# &nbsp;&nbsp;&nbsp; <label for="accordion1">Design &amp; Technology </label>  
-&nbsp;&nbsp;&nbsp; <div>
+<li>  
+&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">  
+&nbsp;&nbsp;&nbsp;<label for="accordion1">Design &amp; Technology </label>  
+<div>
 
 <p>The Design &amp; Technology (DT) Unit adopts the DT T&amp;L Framework based on the MOE Syllabus document. The unit aims to instill the design-thinking culture in our students, where empathy, being inquisitive, sketching, critical and creative thinking skills are emphasized in our instructional programme. </p>
 
