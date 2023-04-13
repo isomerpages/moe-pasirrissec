@@ -46,8 +46,19 @@ In the Literature classroom, students read and respond to a variety of literary 
 
 It is our goal to continue to engage our students and to prepare them for the challenging future ahead with 21st century critical thinking and effective communication skills in the English Language.
 
+# Programme highlights
+
+* EL Reading Programme - EL & Literature Festival 
+* Commonwealth Essay Competitions
+* National Schools Literature Festival (NSLF)
+
 People
 ------
+
+
+| Subject Taught | Name | Designation| E-mail Address |
+| English Language / Literature    | Mdm Foong Woon Sin | HOD English Language and Literature    | foong_woon_sin@moe.edu.sg
+
 
 ![](/images/englishpeople.png)
 
