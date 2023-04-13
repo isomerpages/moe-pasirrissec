@@ -11,5 +11,4 @@ third_nav_title: The Curriculum
 |![](/images/eResource%20Reposit.png) | Please [click here](https://schoolibrary.moe.edu.sg/eresourcessec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) to access to the School eResources Reposit | 
 | <img src="/images/Prsssg.jpeg" style="width:40%"> | **PRSS student Gmail Login** <br> Click [prss.sg](http://mail.prss.sg/) to access to the login page | 
 | **FAS Application Form** | Click [here](/Useful-Links/Information-For-Parents/Financial-Assistance) for more details | -------- |
-| **Wireless@SG Hotspots** | Please [click here](/files/List%20for%20the%20Hotspots%20at%20East%20Zone.pdf) for the list of Wireless@SG | 
-Hotspots around Singapore
+| **Wireless@SG Hotspots** | Please [click here](/files/List%20for%20the%20Hotspots%20at%20East%20Zone.pdf) for the list of Wireless@SG | otspots around Singapore
