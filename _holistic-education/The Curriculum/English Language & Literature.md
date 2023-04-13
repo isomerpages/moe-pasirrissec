@@ -41,10 +41,21 @@ People
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
 | English Language/ Literature  | Mdm Foong Woon Sin <br> HOD English Language and Literature | foong_woon_sin@moe.edu.sg |
+| English Language | Mrs Lynn Tan <br> LT English Language | loy_lin_li_lynn@moe.edu.sg |
 | English Language/ Literature  | Ms Jumiah Ahmad <br> ST English Language | jumiah_ahmad@moe.edu.sg |
-
-
-![](/images/englishpeople.png)
+| English Language | Ms Parvin Marican <br> LH English Language | parvin_bibi_marican@moe.edu.sg |
+| English Language/ Geography | Mdm Noraidah Suwandi | noraidah_suwandi@moe.edu.sg |
+| English Language/ Elements of Business Skills | Ms Cindy Soh | soh_sock_kheng@moe.edu.sg |
+| English Literature/ Social Studies | Ms Filzah Binte Yahaya| filzah_yahaya@moe.edu.sg |
+| English Language/ Literature | Ms Faith Nah Cher Hui | nah_cher_hui_faith@moe.edu.sg |
+| English Literature/ History | Ms Mavis Ho Min Yu| ho_min_yu_mavis@moe.edu.sg |
+| Social Studies/ English | Ms Shayne Ong| chi_ying_shayne_ong@moe.edu.sg |
+| English Language/ Elements of Business Skills | Mdm Lee Wei Wei| lee_wei_wei@moe.edu.sg |
+| English Language/ Literature | Mdm Nazrene Akbar Ali | nazrene_akbar_ali@moe.edu.sg |
+| English Language/ Literature | Ms Hannah Lum | lum_wan_ling_hannah@moe.edu.sg |
+| History/ English | Mdm Shahilla d/o K Balakrishnan| shahilla_balakrishnan@moe.edu.sg |
+| English Language/ History | Mr Zulkifli Mohamed Saat (AED) | zulkifli_mohamed_saat@moe.edu.sg |
+| English Language/ History | Ms Nadirah Binte Jamallodin (AED) | nadirah_a@moe.edu.sg |
 
 Photos
 ------
