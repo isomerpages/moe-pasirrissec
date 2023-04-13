@@ -16,13 +16,9 @@ Programme
 
 <p>The Design &amp; Technology (DT) Unit adopts the DT T&amp;L Framework based on the MOE Syllabus document. The unit aims to instill the design-thinking culture in our students, where empathy, being inquisitive, sketching, critical and creative thinking skills are emphasized in our instructional programme. </p>
 
-  
-
 <img src="/images/Design%20Process.png">
 
-<p>Source: MOE Syllabus document </p>
-
-  
+<p align="center">Source: MOE Syllabus document </p>
 
 <p>The DT Unit uses the Design Process Model as a thinking routine and vehicle for designing to create change so as to affect empathy, practicality and appropriateness in everyday life.  </p>
   
@@ -55,16 +51,16 @@ Programme
 * <p>Participation in Singapore Amazing Flying Machine Competition by Singapore Science Centre</p>
 * <p>Participation in Design Thinking Challenge for Lower Secondary students (in 2019 and 2021). 2020 edition was canceled due to Covid-19.</p>
 
-<b></b><p><b>Highlights Photo Set A: </b> Exposure to Mobile App writing, CAD software, and receiving mentorship from SUTD students and J.P Morgan staff (The School’s Challenge – Live Smart @ The East Competition in 2019). 2020 Edition was canceled due to Covid-19.</p>
+<p><b>Highlights Photo Set A: </b> Exposure to Mobile App writing, CAD software, and receiving mentorship from SUTD students and J.P Morgan staff (The School’s Challenge – Live Smart @ The East Competition in 2019). 2020 Edition was canceled due to Covid-19.</p>
 
 <img src="/images/dnt2.png">
   
-<b></b><p><b>Highlights Photo Set B: </b>
+<p><b>Highlights Photo Set B: </b>
 Applying block programming knowledge in an authentic context&nbsp; (Digital Making National Infocomm Challenge (2019)&nbsp;</p>
 
 <img src="/images/dnt3.png">
 
-<b></b><p><b>Highlights Photo Set C: </b> Applying design thinking to discover and analyse real world issues as well as prototyping solutions (PRSS Design Thinking Challenge (2019).</p>
+<p><b>Highlights Photo Set C: </b> Applying design thinking to discover and analyse real world issues as well as prototyping solutions (PRSS Design Thinking Challenge (2019).</p>
 
 <img src="/images/dnt4.png">
 
@@ -75,49 +71,52 @@ Applying block programming knowledge in an authentic context&nbsp; (Digital Maki
 &nbsp;&nbsp;&nbsp; <input type="checkbox" id="accordion2">  
 &nbsp;&nbsp;&nbsp; <label for="accordion2">Art </label>  
 &nbsp;&nbsp;&nbsp; <div>
+	
 <p>The Art Unit adopts the Art Framework based on the MOE Syllabus document for the lower secondary Art programs The unit aims to build students’ capacity to enjoy art, express themselves, communicate, learn about and connect with the community and wider world in and through art.</p>
 			
 <img src="/images/Art.png">
 			
-<p>Key Art Programmes for Secondary 1 - 3</p>
+<p align="center">Key Art Programmes for Secondary 1 - 3</p>
 		
 <img src="/images/Art%20Programme.png">
 
-<p>Extended Learning</p>
+<p align="center">Extended Learning</p>
 
-<p>Highlights Photo Set A: Still Life object photography before painting</p>
+<b></b><p><b>Highlights Photo Set A: </b>
+Still Life object photography before painting</p>
 		
 <img src="/images/Still%20life.jpeg">
 
-<p>Highlights Photo Set B: Launching of the Art Installation Showcase @Level 2 during the 35th Anniversary celebrations (12 Mar 2021)</p>
+<b></b><p><b>Highlights Photo Set B: </b>
+Launching of the Art Installation Showcase @Level 2 during the 35th Anniversary celebrations (12 Mar 2021)</p>
 
 <img src="/images/Aet%20Installation.png">
 
-<p>Highlights Photo Set C: Student’s Portraiture Showcase @Le Visage Gallery – Level 3</p>
+<b></b><p><b>Highlights Photo Set C: </b> 
+Student’s Portraiture Showcase @Le Visage Gallery – Level 3</p>
 			
 <img src="/images/Portraiture%20Showcase.jpeg">
 
-<p>Highlights Photo Set D: Student’s master pieces @The Sculpture Park – Level 4</p>
+<b></b><p><b>Highlights Photo Set D: </b> Student’s master pieces @The Sculpture Park – Level 4</p>
 		
 <img src="/images/The%20Sculpture%20Park.jpeg">
 			
-<p>Highlights Photo Set E: Secondary 2 student working on her printmaking template</p>
+<b></b><p><b>Highlights Photo Set E: </b> Secondary 2 student working on her printmaking template</p>
 			
 <img src="/images/printmaking%20template.jpeg">
 			
-<p>Highlights Photo Set F: A group of 3NA Art on the learning journey to 2020 NAFA Open House event to get inspiration</p>
+<b></b><p><b>Highlights Photo Set F: </b> A group of 3NA Art on the learning journey to 2020 NAFA Open House event to get inspiration</p>
 			
 <img src="/images/art.png">
 			
-<p>Highlights Photo Set G: Art jamming @NAFA’s Skylight Studio. Can you spot Mr. Rahman’s drawing?</p>
-			
+<b></b><p><b>Highlights Photo Set G: </b> Art jamming @NAFA’s Skylight Studio. Can you spot Mr. Rahman’s drawing?</p>
 <img src="/images/Art%20jamming%20@NAFA’s%201.jpeg">
 			
-<p>Highlights, Photo Set H: 3A1 budding artists have a go at canvas painting during their studio practice.</p>
-			
+<p>Highlights, Photo Set H: 3A1 budding artists have a go at canvas painting during their studio practice.</p>		
 <img src="/images/canvas%20painting.jpeg">
-			
-<p>Highlights, Photo Set H: Art student putting up his finishing touch on his final artwork (his installation master piece.)</p>
+
+<b></b><p><b>Highlights Photo Set H: </b> 
+Art student putting up his finishing touch on his final artwork (his installation master piece.)</p>
 			
 <img src="/images/final%20artwork.jpeg">
 			
