@@ -15,8 +15,5 @@ sections:
         - title: Information for Parents
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
-        - title: Direct School Admission (DSA) Exercise 2023
-          description: ""
-          url: /useful-links/direct-school-admission-dsa/direct-school-admission-dsa/
       title: Pasir Ris Secondary School
 ---
