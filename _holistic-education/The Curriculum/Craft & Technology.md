@@ -196,9 +196,10 @@ Art student putting up his finishing touch on his final artwork (his installatio
 <p>Secondary 3 NFS students attended ‘Science in your Food’ workshop organised by Corteva agriscience. This workshop enhanced students’ interest in STEM and introduced agriscience’s role in our daily lives. Students prepared their own ice-cream using liquid nitrogen and lots of ice.</p>
 			
 <img src="/images/food5.png">
+	
 </div>  
 </li>
-
+	
 
 <li>  
 <input type="checkbox" id="accordion4">  
