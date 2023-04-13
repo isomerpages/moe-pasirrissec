@@ -284,7 +284,7 @@ Art student putting up his finishing touch on his final artwork (his installatio
 	
 </div>  
 </li>
-
+</ul>
 
 # People
 ------
@@ -309,4 +309,4 @@ Photos
 ![](/images/craft_tech1.jpeg)
 ![](/images/craft_tech2.jpeg)
 ![](/images/craft_tech3.jpeg)
-![](/images/craft_tech4.jpeg)</ul>
+![](/images/craft_tech4.jpeg)
