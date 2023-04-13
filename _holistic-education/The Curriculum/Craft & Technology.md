@@ -289,7 +289,20 @@ Art student putting up his finishing touch on his final artwork (his installatio
 People
 ------
 
-![](/images/craftpeople.png)
+
+| Subject(s) Taught | Name | E-mail Address |
+| -------- | -------- | -------- |
+| Design &amp; Technology | Mr Koh Chun Kiat <br>SH EdTech | koh_chun_kiat@moe.edu.sg |
+| Design &amp; Technology | Mr Teo Yu Wen Wilfred | teo_yu_wen_wilfred@moe.edu.sg |
+| Music | Ms Leong Su Juen | leong_su_juen@moe.edu.sg |
+| Music/ English Language | Ms Jasmine Peh Hui Wen <br> Assistant Year Head | peh_hui_wen_jasmine@moe.edu.sg |
+| Food and Consumer Education/ Food and Nutrition | Mdm Siti Mirna <br> SH Food &amp; Nutrition/ Art | siti_mirna@moe.edu.sg |
+|Food and Consumer Education/ Food and Nutrition | Mdm Nur Nadiah Adanan | nur_nadiah_adanan@moe.edu.sg |
+| Art | Mr Noor Rahman Saini | noor_rahman_saini@moe.edu.sg |
+| Art | Ms Leom Li Yan | leom_li_yan@moe.edu.sg |
+| Art | Mr Kimberlyn Lee | kimberlyn_lee@moe.edu.sg |
+| Support Staff | Mr Mohd Ali Yunos | mohamed_ali_yunos@moe.edu.sg |
+| Support Staff | Mr Sanusi Idris | sanusi_b_idris@moe.edu.sg |
 
 Photos
 ------
