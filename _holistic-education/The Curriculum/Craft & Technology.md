@@ -30,30 +30,20 @@ Programme
 
 <p align="center">Source: MOE Syllabus document </p>
 
-  
-
-<p>Research and Needs Analysis&nbsp;</p>
-<p>- research and investigate to seek real world problems for designing of solutions to meet target users’ needs.  </p>
-  
+### <p>Research and Needs Analysis</p>
+<p>Research and investigate to seek real world problems for designing of solutions to meet target users’ needs. </p>
+ 
 <img src="/images/Area%20Survey.jpeg">
 
-  
-  
-
-<p>Idea Conceptualization &amp; Development</p>
-<p>- use sketching, doodling and any other graphical means to generate, explore, communicate and develop creative and innovative solutions.  </p>
-
+### <p>Idea Conceptualization &amp; Development</p>
+<p>Use sketching, doodling and any other graphical means to generate, explore, communicate and develop creative and innovative solutions. </p>
   
 <img src="/images/ideas.jpeg">
 
- 
+### <p>Prototyping</p>
+<p> Learn design manipulating skills to build mock-up models with model making materials and prototype using resistant materials. There is also the opportunity for students to test and evaluate proposed solutions for improvements. </p>
 
-<p>Prototyping</p>&nbsp;
-<p>- learn design manipulating skills to build mock-up models with model making materials and prototype using resistant materials. There is also the opportunity for students to test and evaluate proposed solutions for improvements.  </p>
 
-  
-
-<img src="/images/dnt.png">
   
 
 <img src="/images/Room.jpeg">
