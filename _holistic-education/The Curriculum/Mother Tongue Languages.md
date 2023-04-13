@@ -34,6 +34,12 @@ We seek to develop Pasirians who will be:
  
  ![](/images/mothertongueprog.png)
  
+** Malay Language**
+ 
+* Projek Kreatif (Creative Level Project)
+* Meet-The-Author Session with Djohan Abdul Rahman at Our Tampines Hub (OTH)
+* Hari Raya Celebrations
+
  People
 ------
 
