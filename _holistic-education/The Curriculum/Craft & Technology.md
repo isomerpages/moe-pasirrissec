@@ -199,7 +199,7 @@ Art student putting up his finishing touch on his final artwork (his installatio
 	
 ### <p>Music Programmes @PRSS</p>
 	
-<p>The Lower Secondary Music Syllabus</p>
+#### <p>The Lower Secondary Music Syllabus</p>
 	
 1. <p>Secondary One (Express and Normal Academic)</p>
 
