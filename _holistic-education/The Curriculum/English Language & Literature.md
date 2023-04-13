@@ -40,8 +40,8 @@ People
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
-| English Language / Literature  | Mdm Foong Woon Sin <br> HOD English Language and Literature | Foong Woon Sin foong_woon_sin@moe.edu.sg |
-
+| English Language/ Literature  | Mdm Foong Woon Sin <br> HOD English Language and Literature | foong_woon_sin@moe.edu.sg |
+| English Language/ Literature  | Ms Jumiah Ahmad <br> ST English Language | jumiah_ahmad@moe.edu.sg |
 
 
 ![](/images/englishpeople.png)
