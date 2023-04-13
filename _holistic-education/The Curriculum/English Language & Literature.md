@@ -55,11 +55,6 @@ It is our goal to continue to engage our students and to prepare them for the ch
 People
 ------
 
-
-| Subject Taught | Name | Designation| E-mail Address |
-| English Language / Literature    | Mdm Foong Woon Sin | HOD English Language and Literature    | foong_woon_sin@moe.edu.sg
-
-
 ![](/images/englishpeople.png)
 
 Photos
