@@ -6,7 +6,6 @@ third_nav_title: The Curriculum
 ---
 Programme
 ---------
-
   
 <ul class="jekyllcodex_accordion">  
 &nbsp; <li>  
@@ -117,62 +116,53 @@ Student’s Portraiture Showcase @Le Visage Gallery – Level 3</p>
 
 <b></b><p><b>Highlights Photo Set H: </b> 
 Art student putting up his finishing touch on his final artwork (his installation master piece.)</p>
-			
 <img src="/images/final%20artwork.jpeg">
 			
 </div>  
 </li>
-</ul>
 
 <li>  
 &nbsp;&nbsp;&nbsp; <input type="checkbox" id="accordion3">  
 &nbsp;&nbsp;&nbsp; <label for="accordion3">Nutrition and Food Science </label>  
 &nbsp;&nbsp;&nbsp; <div>
 	
-
 <p>The Nutrition and Food Science (NFS) Unit adopts the MOE NFS Education Framework. The unit aims to empower students to be health-conscious and discerning consumers; enabling them to better manage their lives for the present and the future. The focus is on how individuals and families optimize their resources of food, finance and time to meet their physical, mental, social and economic needs.</p>
 			
 <img src="/images/NFS%20Syllabus.png">
 			
-<p>Source: MOE revised NFS syllabus</p>
+<p align="center">Source: MOE revised NFS syllabus</p>
 			
 <p>The unit adopts the inquiry-based pedagogical approach for the teaching and learning of Food Consumer Education (FCE) and Food and Nutrition (F&amp;N).</p>
 			
 <img src="/images/NFS%20Syllabus_2.png">
 			
-<p>Source: MOE revised NFS syllabus</p>
+<p align="center">Source: MOE revised NFS syllabus</p>
 			
-<p>This approach focuses on providing students with an authentic problem context that allows students to relate and apply the knowledge gained in real-life situations, aligned with the development of 21st Century Competencies. The teaching of FCE and F&amp;N is a cyclical process where students’ engagement with a question or topic leads to intellectual exploration. This eventually leads to an explanation of the feature or process in the question and further leads to the application of their ideas. This process develops the students’ understanding and involves them in their own learning.&nbsp;</p>
-
-  
+<p>This approach focuses on providing students with an authentic problem context that allows students to relate and apply the knowledge gained in real-life situations, aligned with the development of 21st Century Competencies. The teaching of FCE and F&amp;N is a cyclical process where students’ engagement with a question or topic leads to intellectual exploration. This eventually leads to an explanation of the feature or process in the question and further leads to the application of their ideas. This process develops the students’ understanding and involves them in their own learning. </p>
 
 <p>This approach will lead to deeper acquisition of nutrition, meal-planning, principles of food science and understanding the link between diet and health. Students will also be equipped with the knowledge and skills to make informed decisions concerning food and nutrition.</p>
 
-  
-
 <p>Programmes to enhance learning experiences of students</p>
 
-<p>- Project Food Culture – Learning Journey to Bollywood Veggies/ hawker centre food</p>
-<p>- Supermarket Tour @ NTUC, (Virtual Supermarket Tour was mounted during the Covid-19 period)</p>
-<p>- Sustainable Environment - Organic Farming at PRSS Eco-garden</p>
-<p>- Culinary workshops by professional chefs for both FCE and F&amp;N students</p>
-<p>Annual Tinkers’ Fest Activity – Internal competition; Craft the Cake and Pancake Art.&nbsp;</p>
+* <p>Project Food Culture – Learning Journey to Bollywood Veggies/ hawker centre food</p>
+* <p>Supermarket Tour @ NTUC, (Virtual Supermarket Tour was mounted during the Covid-19 period)</p>
+* <p>Sustainable Environment - Organic Farming at PRSS Eco-garden</p>
+* <p>Culinary workshops by professional chefs for both FCE and F&amp;N students</p>
+<p>Annual Tinkers’ Fest Activity – Internal competition; Craft the Cake and Pancake Art.</p>
 
-  
-
-<p>Experiential Learning (ExL) in action</p>
+### <p>Experiential Learning (ExL) in action</p>
 
 <p>Learning journey to Bollywood Veggies (prior to Covid-19) to help students construct and retain knowledge better</p>
 			
 <img src="/images/food.png">
 	
-<p>Learning Journey to supermarket</p>
+### <p>Learning Journey to supermarket</p>
 
 <p>During this period, virtual supermarket visit was mounted where students learn more about comparative shopping and analyzing nutritional claims on a food product.</p>
 			
 <img src="/images/food2.png">
 			
-<p>Urban farming in PRSS</p>
+### <p>Urban farming in PRSS</p>
 
 <p>The unit leverages on the revised NFS syllabus to incorporate urban farming as authentic learning experience to understand the importance of Food Security and Sustainability. This will also equip students with new STEM skills/knowledge so that they grow confident in exploring new career opportunities in “High Technology” Farming arenas.</p>
 			
@@ -191,7 +181,7 @@ Art student putting up his finishing touch on his final artwork (his installatio
 			
 <img src="/images/food4.png">
 			
-<p>Enrichment workshop</p>&nbsp;
+### <p>Enrichment workshop</p>
 
 <p>Secondary 3 NFS students attended ‘Science in your Food’ workshop organised by Corteva agriscience. This workshop enhanced students’ interest in STEM and introduced agriscience’s role in our daily lives. Students prepared their own ice-cream using liquid nitrogen and lots of ice.</p>
 			
@@ -199,19 +189,19 @@ Art student putting up his finishing touch on his final artwork (his installatio
 	
 </div>  
 </li>
-	
 
 <li>  
-<input type="checkbox" id="accordion4">  
-<label for="accordion4">Music </label>  
-<div>
+&nbsp;&nbsp;&nbsp; <input type="checkbox" id="accordion4">  
+&nbsp;&nbsp;&nbsp; <label for="accordion4">Music</label>  
+&nbsp;&nbsp;&nbsp; <div>
+
 <p>At PRSS, we believe that our students have the innate ability to express themselves musically. Through our exciting and comprehensive music programmes, we aim to develop them with musical and extra-musical skills such as critical thinking, psychomotor, social awareness, moral and cultural values. All of these skills and values will lead towards the holistic development of a child.</p>
 	
-<p>Music Programmes @PRSS</p>
+### <p>Music Programmes @PRSS</p>
 	
 <p>The Lower Secondary Music Syllabus</p>
 	
-<p>1. Secondary One (Express and Normal Academic)</p>
+1. <p>Secondary One (Express and Normal Academic)</p>
 
 <p>For 1st semester, our students will experience our signature programme, the STOMP Project module. They learn to compose music and perform their creations to their peers and teachers. Students will showcase their composition during their class performance at the end of this module.</p>
 	
@@ -219,7 +209,7 @@ Art student putting up his finishing touch on his final artwork (his installatio
 
 <p>For 2nd semester, they will learn to read musical notations and perform familiar tunes on the boomwhackers. In this module, the classes will get to choose a song and perform during our school’s in-house lunch time concert before the end of this module.</p>
 	
-<p>2. Secondary Two (Express and Normal Academic)</p>
+2. <p>Secondary Two (Express and Normal Academic)</p>
 
 <p>For 1st semester, our students will learn to play familiar tunes on musical instruments (i.e., ukulele, keyboard, cajon) and collaborate with their peers to perform as a pop band.  </p>
 
@@ -229,41 +219,39 @@ Art student putting up his finishing touch on his final artwork (his installatio
 	
 <img src="/images/keyboard%202.jpeg">
 	
-<p>Uniquely N(T) Music @PRSS</p>
-	
-<p>Normal (Technical) Stream</p>
+### <p>Uniquely N(T) Music @PRSS</p>
+
+<b><p>Normal (Technical) Stream</p></b>
 
 <p>The Music Programme for Normal (T) students is spread over 4 years, with the option for students to take up NT Music elective subject in Upper Secondary.  </p>
 
-  
-
-<p>Secondary 1</p>
+##### <p>Secondary 1</p>
 
 <p>Our students will attend ukulele and keyboard lessons, where they learn basic playing skills through pop songs.</p>
 	
 <img src="/images/ukulele.jpeg">
 	
-<p>Secondary Two</p>
+##### <p>Secondary Two</p>
 
-<p>Our students continue to build on their instrumental skills as they work with acoustic as well virtual instruments on the GarageBand (available on Apple devices) to arrange and showcase their work in groups..</p>
+<p>Our students continue to build on their instrumental skills as they work with acoustic as well virtual instruments on the GarageBand (available on Apple devices) to arrange and showcase their work in groups.</p>
 	
 <img src="/images/GarageBand.jpeg">
 	
-<p>N(T) Level Music (Upper Secondary)</p>
+##### <p>N(T) Level Music (Upper Secondary)</p>
 
 <p>This subject is offered to our interested 3NT students as their elective subject during the Secondary Two streaming exercise. The programme allow students to deepen their skills in reading, analyzing and reproducing music of different forms, and more importantly, to become active listeners who can readily interact with music of different genres. Where possible, these students will be provided opportunities to showcase their musical creation and improvisation via both physically (Lunchtime concert) or digitally (via youtube).</p>
 	
 <img src="/images/traditional%20instruments%201.jpeg">
 	
-<p>Highlights</p>
+# <p>Highlights</p>
 
-<p>PRSS 35th Anniversary Celebration – MUSEIT: Homecoming</p>
+#### <p>PRSS 35th Anniversary Celebration – MUSEIT: Homecoming</p>
 
 <p>In celebration of the school’s 35th birthday, we invited students who graduated from the N Level Music class in 2019 and 2020 to collaborate and perform with current students from the 4NT music class. The experience and exposure allowed students to learn and discuss music at a greater level!</p>
 	
 <img src="/images/A_student.jpeg">
 	
-<p>Lunchtime Concert - MUSEIT: Season Three, Episode 2</p>
+#### <p>Lunchtime Concert - MUSEIT: Season Three, Episode 2</p>
 
 <p>Featuring our Secondary One Lower Secondary Music Syllabus and N(T) music students.</p>
 
@@ -272,7 +260,7 @@ Art student putting up his finishing touch on his final artwork (his installatio
 <img src="/images/Sec1_group3.png">
 <img src="/images/Sec1_group4.jpeg">
 
-<p>Singapore Youth Festival: Celebrations in the City @ Kampung Admiralty</p>&nbsp;
+<p>Singapore Youth Festival: Celebrations in the City @ Kampung Admiralty</p>
 
 <p>Our pop band (students from Secondary Three N(T) level music class) performed with Mr Dick Yip and his Minstrels at Kampung Admiralty for Singapore Youth Festival: Celebrations in the City.</p>
 	
@@ -291,10 +279,9 @@ Art student putting up his finishing touch on his final artwork (his installatio
 <img src="/images/popband%202.jpeg">
 
 <p>Teachers from the Music Unit:</p>
-
 <p>Ms Leong Su Juen (ST – Music) </p> 
-
 <p>Ms Jasmine Peh (AYH)</p>
+	
 </div>  
 </li>
 
@@ -310,4 +297,4 @@ Photos
 ![](/images/craft_tech1.jpeg)
 ![](/images/craft_tech2.jpeg)
 ![](/images/craft_tech3.jpeg)
-![](/images/craft_tech4.jpeg)
+![](/images/craft_tech4.jpeg)</ul>
