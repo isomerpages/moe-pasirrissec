@@ -11,7 +11,7 @@ Programme
 <ul class="jekyllcodex_accordion">  
 &nbsp; <li>  
 &nbsp;&nbsp;&nbsp; <input type="checkbox" id="accordion1">  
-&nbsp;&nbsp;&nbsp; <label for="accordion1">Design &amp; Technology </label>  
+# &nbsp;&nbsp;&nbsp; <label for="accordion1">Design &amp; Technology </label>  
 &nbsp;&nbsp;&nbsp; <div>
 
 <p>The Design &amp; Technology (DT) Unit adopts the DT T&amp;L Framework based on the MOE Syllabus document. The unit aims to instill the design-thinking culture in our students, where empathy, being inquisitive, sketching, critical and creative thinking skills are emphasized in our instructional programme. </p>
@@ -125,9 +125,10 @@ Art student putting up his finishing touch on his final artwork (his installatio
 </ul>
 
 <li>  
-<input type="checkbox" id="accordion3">  
-<label for="accordion3">Nurtrition and Food Science</label>  
-<div>
+&nbsp;&nbsp;&nbsp; <input type="checkbox" id="accordion3">  
+&nbsp;&nbsp;&nbsp; <label for="accordion3">Nutrition and Food Science </label>  
+&nbsp;&nbsp;&nbsp; <div>
+	
 
 <p>The Nutrition and Food Science (NFS) Unit adopts the MOE NFS Education Framework. The unit aims to empower students to be health-conscious and discerning consumers; enabling them to better manage their lives for the present and the future. The focus is on how individuals and families optimize their resources of food, finance and time to meet their physical, mental, social and economic needs.</p>
 			
