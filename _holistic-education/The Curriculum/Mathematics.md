@@ -32,7 +32,7 @@ People
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
 | Math/ Additional Math | Mr So Kwee Soon Victor <br> HOD Mathematics | so_kwee_soon@moe.edu.sg |
-| Math/ Additional Math| Ms Chew Shuhui Eunice <br>SH Mathematics | chew_shuhui_eunice@moe.edu.sg |
+| Math/ Additional Math| Ms Chew Shuhui Eunice <br>School Staff Developer | chew_shuhui_eunice@moe.edu.sg |
 | Math/ Additional Math | Mr Neo Chin Lee Albert | neo_chin_lee@moe.edu.sg |
 | Math/ Additional Math | Mr Ng Boon Tiong Desmond | ng_boon_tiong_a@moe.edu.sg |
 | Math  | Mr Ong Rui Wen | ong_rui_wen@moe.edu.sg |
