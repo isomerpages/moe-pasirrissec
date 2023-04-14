@@ -21,7 +21,7 @@ Students will get to&nbsp;
 *   Acquire skills and develop knowledge of tactics and game strategies to be applied to at least 6 different sports.
 *   Develop skills and understanding in Outdoor Education to be equipped to participate in the level camps throughout the years as a Pasirian.
 
-#### Highlights
+## Highlights
 
 *   Inter-class Games
 *   Annual Cross Country
