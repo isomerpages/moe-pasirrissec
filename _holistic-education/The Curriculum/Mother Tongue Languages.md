@@ -51,7 +51,7 @@ Professional Development includes department learning journey, open classroom, p
 |Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
 |Chinese Language | Mr Wong Wei Long <br> HOD Mother Tongue Languages | [wong_wei_long@moe.edu.sg](mailto:wong_wei_long@moe.edu.sg) |
-| Malay Language | Mr Lokhman Haris <br>SH Aesthetics | [lokhman_haris_abdul_karem@moe.edu.sg](mailto:lokhman_haris_abdul_karem@moe.edu.sg) |
+| Malay Language | Mr Lokhman Haris Bin Abdul Karem <br>SH Aesthetics | [lokhman_haris_abdul_karem@moe.edu.sg](mailto:lokhman_haris_abdul_karem@moe.edu.sg) |
 | Chinese Language | Ms Wong Jie Lin | [wong_jie_lin@moe.edu.sg](mailto:wong_jie_lin@moe.edu.sg) |
 | Chinese Language | Mr Liu Shu Cun | [liu_shu_cun@moe.edu.sg](mailto:liu_shu_cun@moe.edu.sg) |
 | Chinese Language | Mdm Ng Ai Hoon | [ng_ai_hoon@moe.edu.sg](mailto:ng_ai_hoon@moe.edu.sg) |
@@ -59,7 +59,7 @@ Professional Development includes department learning journey, open classroom, p
 | Chinese Language | Ms Wang Xiangkun | [wang_xiangkun@moe.edu.sg](mailto:wang_xiangkun@moe.edu.sg) |
 | Malay Language | Mdm Rubi'ah Binte Massuan | [rubiah_massuan@moe.edu.sg](mailto:rubiah_massuan@moe.edu.sg) |
 | Malay Language | Mdm Fazidah Bte Mohd Lias  | [fazidah_mohamed_lias@moe.edu.sg](mailto:fazidah_mohamed_lias@moe.edu.sg) |
-| Malay Language | Mdm Anmilia Anwar Datt  | [anmilia_anwar_datt@moe.edu.sg](mailto:anmilia_anwar_datt@moe.edu.sg) |
+| Malay Language | Mdm Anmilia Bte Anwar Datt  | [anmilia_anwar_datt@moe.edu.sg](mailto:anmilia_anwar_datt@moe.edu.sg) |
 | Malay Language | Mr Muhammad Omarali Bin Zulkiflee | [muhammad_omarali_zulkiflee@moe.edu.sg](mailto:muhammad_omarali_zulkiflee@moe.edu.sg) |
 
 Photos
