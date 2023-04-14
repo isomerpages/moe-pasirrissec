@@ -106,6 +106,7 @@ People
 | Chemistry/ NT Science | Ms Jaslin Jiang | jiang_wei_yeow@moe.edu.sg |
 | Physics/ Lower Secondary Science | Mr Kok Wai Keong Kevin | Kok_Wai_Keong_Kevin@moe.edu.sg |
 | Physics/ Mathematics | Mr Seong Then Yee | seong_then_yee@moe.edu.sg |
+| Biology/ Chemistry | Mr Zachary Koh Jia Sheng | koh_jia_sheng_zachary@moe.edu.sg |
 | Laboratory Technician | Mdm Dinah Tan Kwee Choo | tan_kwee_choo@moe.edu.sg |
 | Laboratory Technician | Ms Khairunnisa Rahmat | khairunnisa_rahmat@moe.edu.sg |
 
