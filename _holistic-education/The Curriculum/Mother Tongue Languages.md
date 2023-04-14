@@ -57,6 +57,7 @@ Professional Development includes department learning journey, open classroom, p
 | Chinese Language | Mdm Ng Ai Hoon | [ng_ai_hoon@moe.edu.sg](mailto:ng_ai_hoon@moe.edu.sg) |
 | Chinese Language | Ms Wong Yun Yi | [ng_ai_hoon@moe.edu.sg](mailto:ng_ai_hoon@moe.edu.sg) |
 | Chinese Language | Ms Wang Xiangkun | [wang_xiangkun@moe.edu.sg](mailto:wang_xiangkun@moe.edu.sg) |
+| Chinese Language | Ms Desiree Oh Yi Ting | oh_yi_ting_desiree@moe.edu.sg |
 | Malay Language | Mdm Rubi'ah Binte Massuan | [rubiah_massuan@moe.edu.sg](mailto:rubiah_massuan@moe.edu.sg) |
 | Malay Language | Mdm Fazidah Bte Mohd Lias  | [fazidah_mohamed_lias@moe.edu.sg](mailto:fazidah_mohamed_lias@moe.edu.sg) |
 | Malay Language | Mdm Anmilia Bte Anwar Datt  | [anmilia_anwar_datt@moe.edu.sg](mailto:anmilia_anwar_datt@moe.edu.sg) |
