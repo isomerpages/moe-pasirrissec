@@ -90,7 +90,23 @@ You can access the virtual tour of our school's Eco Garden [here](https://www.th
 People
 ------
 
-![](/images/sciencepeople.png)
+| Subject(s) Taught | Name | E-mail Address |
+| -------- | -------- | -------- |
+| Chemistry/ Lower Secondary Science | Miss Chua Wei Tian<br>HOD Science  | chua_wei_tian@moe.edu.sg |
+| Chemistry | Mr Chua Khoon Wee<br>HOD Information Communication Technology | chua_Khoon_Wee@moe.edu.sg |
+| Biology/ Lower Secondary Science| Mr Joshua Tan<br>HOD Character &amp; Citizenship Education |  joshua_tan_see_kuang@moe.edu.sg | 
+| Physics/ NT Science| Mr Mohamed Ashiq<br>YH Upper Secondary | mohamed_ashiq_mohamed@moe.edu.sg | 
+| Chemistry/ Physical Education | Mr Mohammed Riffaii<br>SH Discipline | mohammed_riffaii_maidin@moe.edu.sg|
+| Physics | Mr Chiang Shu Lee<br>ST Physics | chiang_shu_lee@moe.edu.sg |
+| Physics/ NT Science | Mdm Siti Mariam <br>ST Character &amp; Citizenship Education | siti_mariam_hashim@moe.edu.sg |
+| Chemistry/ Lower Secondary Science | Ms Quah Wei Wei <br>LH Lower Secondary Science | quah_wei_wee@moe.edu.sg |
+| Chemistry/ Lower Secondary Science / Mathematics | Mdm Zulaiha Osman | zulaiha_osman@moe.edu.sg |
+| Chemistry/ Mathematics | Mr Gan Chun Seng Stephen | gan_chun_seng@moe.edu.sg |
+| Chemistry/ NT Science | Ms Jaslin Jiang | jiang_wei_yeow@moe.edu.sg |
+| Physics/ Lower Secondary Science | Mr Kok Wai Keong Kevin | Kok_Wai_Keong_Kevin@moe.edu.sg |
+| Physics/ Mathematics | Mr Seong Then Yee | seong_then_yee@moe.edu.sg |
+| Laboratory Technician | Mdm Dinah Tan Kwee Choo | tan_kwee_choo@moe.edu.sg |
+| Laboratory Technician | Ms Khairunnisa Rahmat | khairunnisa_rahmat@moe.edu.sg |
 
 Photos
 ------
