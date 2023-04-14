@@ -54,6 +54,7 @@ People
 | English Language/ Literature | Mdm Nazrene Akbar Ali | nazrene_akbar_ali@moe.edu.sg |
 | English Language/ Literature | Ms Hannah Lum | lum_wan_ling_hannah@moe.edu.sg |
 | History/ English | Mdm Shahilla d/o K Balakrishnan| shahilla_balakrishnan@moe.edu.sg |
+| English | Ms Pearlyn Chia Kai Ling| pearlyn_chia_kai_ling@moe.edu.sg |
 | English Language/ History | Mr Zulkifli Mohamed Saat (AED) | zulkifli_mohamed_saat@moe.edu.sg |
 | English Language/ History | Ms Nadirah Binte Jamallodin (AED) | nadirah_a@moe.edu.sg |
 
