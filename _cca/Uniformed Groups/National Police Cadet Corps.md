@@ -58,6 +58,8 @@ Urban Adventure Civil Defence Skills Challenge 2019 - 3rd place (Open Category)
 * SSGT (NPCC) Aw En Zi Charlotte (Female) 
 * SSGT (NPCC) Lee Lin Ken (Male)
 
+20 of our cadets took part in the National Day Parade 2022 At The Float@Marina.
+
 ## Achievements
 
 UNIT OVERALL PROFICENCY AWARD - DISTINCTION (2022)
