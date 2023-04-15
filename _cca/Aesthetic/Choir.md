@@ -30,8 +30,6 @@ In PRSS, every year is an exciting year for the choir with an array of activitie
 
 ## Schedule
 
-
-
 | Day | Time | Venue |
 | -------- | -------- | -------- |
 | Monday / Thursday | 3.30pm - 6.30pm | Choir Room |
