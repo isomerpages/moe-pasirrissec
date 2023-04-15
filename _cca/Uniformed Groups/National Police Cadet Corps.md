@@ -35,9 +35,9 @@ Urban Adventure Civil Defence Skills Challenge 2019 - 3rd place (Open Category)
 
 **SPF-NPCC Badge Award 2022**
 * SI (NPCC) Ravi Rashmi Priscilla 
-* SI (NPCC) You Chen Kai Station 
+* SI (NPCC) You Chen Kai  
 
-**Inspector Promotion 2022**
+**Station Inspector Promotion 2022**
 * SI (NPCC) Ravi Rashmi Priscilla 
 * SI (NPCC) You Chen Kai 
 
@@ -58,7 +58,7 @@ Urban Adventure Civil Defence Skills Challenge 2019 - 3rd place (Open Category)
 * SSGT (NPCC) Aw En Zi Charlotte (Female) 
 * SSGT (NPCC) Lee Lin Ken (Male)
 
-20 of our cadets took part in the National Day Parade 2022 At The Float@Marina.
+20 of our cadets took part in the National Day Parade 2022 At The Float@Marina
 
 ## Achievements
 
