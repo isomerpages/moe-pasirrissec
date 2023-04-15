@@ -55,8 +55,8 @@ Urban Adventure Civil Defence Skills Challenge 2019 - 3rd place (Open Category)
 * SI (NPCC) Koh Zhong Yi Joyvis 
 
 **Best Unit Cadet 2023**
-SSGT (NPCC) Aw En Zi Charlotte (Female) 
-SSGT (NPCC) Lee Lin Ken (Male)
+* SSGT (NPCC) Aw En Zi Charlotte (Female) 
+* SSGT (NPCC) Lee Lin Ken (Male)
 
 ## Achievements
 
