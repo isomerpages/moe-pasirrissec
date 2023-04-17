@@ -57,10 +57,6 @@ NCDCC believes in developing and empowering our youths to be active concerned ci
 | Tuesday<br>(Main Training Day) | 03.30pm - 06.30pm | Parade Square |
 | Friday<br>(Additional Training Day) | 02.30pm - 05.30pm | Parade Square |
 
-
---------
-![](/images/ncdccsch.png)
-
 ### Teachers-in-charge
 
 * LTA Wong Yun Yi (IC)
