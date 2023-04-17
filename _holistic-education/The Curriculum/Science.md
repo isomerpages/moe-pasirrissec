@@ -13,13 +13,7 @@ The Science Department is committed to nurturing students who demonstrate a high
 
 Our strategy for developing critical and inventive thinking in our students includes the use of Mathematics to define, understand and/or solve problems and teaching students to draw linkages and identify assumptions based on data. We train our students to support their ideas using logical reasoning and to switch methods with ease, in a systematic manner. As for communication, collaboration and information skills, we help to enhance our students' ability to integrate information and concepts into their existing knowledge base and to relate that knowledge base to new problems and topics.
 
-  
-
-  
-
 **Key Programme: Science Experiential, Enrichment and Development Programme (SEED)**
-
-  
 
 This programme aims to promote interest and authentic learning in Science and Technology within and beyond the confines of the classroom. Through this programme, we hope to:
 
@@ -31,49 +25,30 @@ This programme aims to promote interest and authentic learning in Science and Te
 
 The programme is divided into three tiers: Enrich, Engage, Excel
 
-  
-
-  
-
-  
-
 ![](/images/SEED.png)
-
-  
-
-  
+ 
 
 **Signature Programmes**
-
-  
 
 **Stage 1 (Enrich)**
 
 *   Field trips&nbsp;  
-    
 *   Learning journeys
 *   Survival in the Wild Inquiry Workshop
-
-  
 
 **Stage 2 (Engage)**
 
 *   External workshops (Forensic Science, Applied Sciences and Engineering)
 *   Intra-school and inter-school competitions  
     
-
-  
-
 **Stage 3 (Excel)**
 
 *   Customised field trips  
-    
 *   National and international competitions  
     
+# Programme Highlights
 
-  
-
-**Highlights**&nbsp;
+Science Experiential, Enrichment and Development Programme (SEED) which aims to promote interest and authentic learning in Science and Technology within and beyond the confines of the classroom
 
 *   **Unity Scientific Innovation Challenge with SP &amp; ERI@N (USPE 2022) Finals**
 
@@ -86,13 +61,11 @@ The programme is divided into three tiers: Enrich, Engage, Excel
 *   **International C. B. Paul Science Quiz 2022**
 
 &gt; Lower&nbsp;Secondary&nbsp; - 2 silver, 1 bronze and 1 participation
-&gt; 
 &gt; Upper Secondary&nbsp; - 1 silver, 1 bronze, 3 merit and 3 participations
 
 *   **Singapore Junior Physics Olympiad 2022**
 
 &gt; Individual round - 1 bronze, 7 honourable mentions and 5 participations
-&gt; 
 &gt; Team round - 1 bronze and 2 participations
 
 *   **Singapore Junior Biology Olympiad 2022**
@@ -102,28 +75,40 @@ The programme is divided into three tiers: Enrich, Engage, Excel
 *   **ASEAN +3 Junior Science Odyssey (APTJSO)**
 
 &gt; Science Process Skills Challenge - Silver
-&gt; 
 &gt; Sustainability Challenge - Silver
-&gt; 
 &gt; Interdisciplinary Group Project - Gold
 
-**The PRSS Ecogarden**&nbsp;  
+# The PRSS Ecogarden 
 
-  
-
-*   Provides an authentic environment for experiential learning to instil the joy of learning, foster curiosity, deepen learning, cultivate responsibility and to improve sense of belonging to the school.
+*  Provides an authentic environment for experiential learning to instil the joy of learning, foster curiosity, deepen learning, cultivate responsibility and to improve sense of belonging to the school.
 *   Enables students to better appreciate the relevance of prevalent global issues which may impact their lives and help extend their learning beyond the syllabus and classroom when learning activities across subjects and levels are aligned to relevant UN sustainable development goals.
 
 ![](/images/Eco-Garden.jpeg)
-
-  
 
 You can access the virtual tour of our school's Eco Garden [here](https://www.theasys.io/viewer/qkQVL2MUIHWYlEYQ7leC0upoNvvyEg/).
 
 People
 ------
 
-![](/images/sciencepeople.png)
+| Subject(s) Taught | Name | E-mail Address |
+| -------- | -------- | -------- |
+| Chemistry/ Lower Secondary Science | Miss Chua Wei Tian<br>HOD Science  | chua_wei_tian@moe.edu.sg |
+| Chemistry | Mr Chua Khoon Wee<br>HOD Information Communication Technology | chua_Khoon_Wee@moe.edu.sg |
+| Biology/ Lower Secondary Science| Mr Joshua Tan<br>HOD Character &amp; Citizenship Education |  joshua_tan_see_kuang@moe.edu.sg | 
+| Physics/ NT Science| Mr Mohamed Ashiq<br>YH Upper Secondary | mohamed_ashiq_mohamed@moe.edu.sg | 
+| Biology | Mr Daniel Ng Tze Keen<br>SH Character &amp; Citizenship Education | ng_tze_keen_daniel@moe.edu.sg
+| Chemistry/ Physical Education | Mr Mohammed Riffaii<br>SH Discipline | mohammed_riffaii_maidin@moe.edu.sg|
+| Physics | Mr Chiang Shu Lee<br>ST Physics | chiang_shu_lee@moe.edu.sg |
+| Physics/ NT Science | Mdm Siti Mariam <br>ST Character &amp; Citizenship Education | siti_mariam_hashim@moe.edu.sg |
+| Chemistry/ Lower Secondary Science | Ms Quah Wei Wei <br>LH Lower Secondary Science | quah_wei_wee@moe.edu.sg |
+| Chemistry/ Lower Secondary Science / Mathematics | Mdm Zulaiha Osman | zulaiha_osman@moe.edu.sg |
+| Chemistry/ Mathematics | Mr Gan Chun Seng Stephen | gan_chun_seng@moe.edu.sg |
+| Chemistry/ NT Science | Ms Jaslin Jiang | jiang_wei_yeow@moe.edu.sg |
+| Physics/ Lower Secondary Science | Mr Kok Wai Keong Kevin | Kok_Wai_Keong_Kevin@moe.edu.sg |
+| Physics/ Mathematics | Mr Seong Then Yee | seong_then_yee@moe.edu.sg |
+| Biology/ Chemistry | Mr Zachary Koh Jia Sheng | koh_jia_sheng_zachary@moe.edu.sg |
+| Laboratory Technician | Mdm Dinah Tan Kwee Choo | tan_kwee_choo@moe.edu.sg |
+| Laboratory Technician | Ms Khairunnisa Rahmat | khairunnisa_rahmat@moe.edu.sg |
 
 Photos
 ------
@@ -132,7 +117,6 @@ Our Sec 3 students Lim Sing Yee, Marcus Lim, Osbert Tham, took part in the recen
 
 <a href="https://www.youtube.com/shorts/97OrF_BKt7g">![](/images/sciencereel.png)</a>
 
-  
 
 <img style="width:53%;float:left" src="/images/Picture3.jpeg"><img style="width:47%" src="/images/Picture4.jpeg">
 
@@ -142,13 +126,8 @@ Teachers as Facilitators of Students’ Learning Experiences
 
 <img style="width:43%;float:left" src="/images/Picture6.jpeg"><img style="width:57%" src="/images/Picture7.jpeg">
 
-  
-
 Students as Inquirers in the Science classroom  
 
-  
 ![](/images/science2.png)
-
-  
 
 Students demonstrating evidence of their learning at different national and international competitions

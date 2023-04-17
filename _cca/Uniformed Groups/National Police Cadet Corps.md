@@ -4,84 +4,83 @@ permalink: /cca/Uniformed-Groups/National-Police-Cadet-Corps/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-About us
---------
+### About us
 
 **“Only the Best wear Blue”.**
 
-Pasir Ris Secondary NPCC Unit believe in developing our cadet’s character, leadership and resilience. Hence, our unit motto is Nurturing Leaders of Tomorrow. We will always ensure that all the cadets will have a fulfilling experience discovering about themselves and learning skills that will be useful for the future.  
+Pasir Ris Secondary NPCC Unit believes in developing our cadets' character, leadership and resilience. Hence, our unit motto is Nurturing Leaders of Tomorrow. We will always ensure that all the cadets will have a fulfilling experience discovering about themselves and learning skills that will be useful for the future. 
 
-This year, some of our cadets are gearing up in preparation for the HQ competitions such as the Drills Competition and Campcraft competition. It is also our pride to achieve our 16th consecutive year Gold Award for the Unit Overall Proficiency Award, (UOPA) in 2019 and 12th position in the NPCC Drill Competition.
+This year, some of our cadets are gearing up in preparation for the HQ competitions such as the CSI Competition and Area competition. It is also our pride to achieve our 19th consecutive year Gold Award for the Unit Overall Proficiency Award, (UOPA) in 2022. 
 
-Some of our unit programs includes the 0.22 revolver shooting, Crime Scene Investigation Course, Kayaking Course, First Aid Course and many more. 
+Some of our unit programs include the 0.22 revolver shooting, Crime Scene Investigation Course, Kayaking Course and First Aid Course. In 2023, we will continue to carry out more programmes face to face so that our cadets can learn more effectively to achieve our goals.
 
-In 2022, we are proud to be selected to representing NPCC in the Actual National Day Parade at The Float @ Marina Bay. 20 cadets will be representing the school and NPCC for this once in a life time opportunity.
+### Highlights
 
-Highlights
-----------
+Unit Overall Proficiency Award (UOPA) – Gold Award (2006 - 2021) <br><br>
+Unit Overall Proficiency Award (UOPA) – Distinction Award (2022) <br><br>
+Urban Adventure Civil Defence Skills Challenge 2019 - 3rd place (Open Category) 
 
-**Unit Overall Proficiency Award (UOPA)** –  Gold Award (14th consecutive year, since 2006)  
+**SPF-NPCC Badge Award 2021**
+* SI (NPCC) Adiba Jamshed Puyyakara 
+* SI (NPCC) Lee Jia Jing 
+* SSGT (NPCC) Nur Hidayah Binte Johar 
 
-**NPCC Inter-Unit Drill Competition 2019** – 12th position  
+**Station Inspector Promotion 2021**
+* SI (NPCC) Adiba Jamshed Puyyakara 
+* SI (NPCC) Lee Jia Jing 
 
-**Urban Adventure Civil Defence Skills Challenge 2019** \- 3rd place (Open Category)  
+**Best Unit Cadet 2021**
+* SI (NPCC) Adiba Jamshed Puyyakara (Female) 
+* SI (NPCC) Lee Jia Jing (Male) 
 
-**Area 9 Games Day 2019**  
-Basketball Boys – 1st Soccer Boys – 2nd  
-Captain Ball Boys – 3rd 
+**SPF-NPCC Badge Award 2022**
+* SI (NPCC) Ravi Rashmi Priscilla 
+* SI (NPCC) You Chen Kai  
 
-**SPF-NPCC Badge Award 2020** SI (NPCC) You Shu Mei, SI(NPCC) Muhammad Azfar Bin Muhammad Faudzan
-
-**Station Inspector Promotion 2020**  
-SI (NPCC) You Shu Mei, SI (NPCC) Muhammad Azfar Bin Muhammad Faudzan
-
-**Best Unit Cadet 2020**  
-SI (NPCC) You Shu Mei (Female), SI (NPCC) Muhammad Azfar Bin Muhammad Faudzan (Male)
-
-**SPF-NPCC Badge Award 2021**  
-SI (NPCC) Adiba Jamshed Puyyakara  
-SI (NPCC) Lee Jia Jing  
-SSGT (NPCC) Nur Hidayah Binte Johar
-
-**Station Inspector Promotion 2021**  
-SI (NPCC) Adiba Jamshed Puyyakara, SI (NPCC) Lee Jia Jing 
-
-**Best Unit Cadet 2021**  
-SI (NPCC) Adiba Jamshed Puyyakara (Female), SI (NPCC) Lee Jia Jing (Male)
-
-**SPF-NPCC Badge Award 2022**  
-SI (NPCC) Ravi Rashmi Priscilla, SI (NPCC) You Chen Kai
-
-**Station Inspector Promotion 2022**  
-SI (NPCC) Ravi Rashmi Priscilla, SI (NPCC) You Chen Kai
-
-  
+**Station Inspector Promotion 2022**
+* SI (NPCC) Ravi Rashmi Priscilla 
+* SI (NPCC) You Chen Kai 
 
 **Best Unit Cadet 2022**
+* SI (NPCC) Ravi Rashmi Priscilla (Female) 
+* SI (NPCC) You Chen Kai (Male) 
 
-SI (NPCC) Ravi Rashmi Priscilla (Female), SI (NPCC) You Chen Kai (Male)
+**SPF-NPCC Badge Award 2023** 
+* SI (NPCC) Su Jing Ning Janelle 
+* SSGT(NPCC) Aw En Zi Charlotte 
+* SSGT(NPCC) Rebekah Wee Yong Yi 
 
-Schedule
---------
-![](/images/npcc.png)
+**Station Inspector Promotion 2023**
+* SI (NPCC) Su Jing Ning Janelle 
+* SI (NPCC) Koh Zhong Yi Joyvis 
 
-Teachers-in-charge
-------------------
+**Best Unit Cadet 2023**
+* SSGT (NPCC) Aw En Zi Charlotte (Female) 
+* SSGT (NPCC) Lee Lin Ken (Male)
 
-Ms Cindy Soh Sock Kheng (OC)
+20 of our cadets took part in the National Day Parade 2022 At The Float@Marina
 
-Ms Chew Ting Zhen (DYOC)
+### Achievements
 
-Mr Seong Thye Yee
+UNIT OVERALL PROFICENCY AWARD - DISTINCTION (2022)
 
-Ms Kimberlyn Lee
+### Schedule
 
-Mr Zulkifli Mohamed Saat
+| Day | Time | Venue |
+| -------- | -------- | -------- |
+| Tuesday<br>(Main Training Day) | 03.30pm - 06.00pm | New Foyer / Parade Square |
+| Friday<br>(Additional Training Day) | 02.30pm - 06.00pm | New Foyer / Parade Square |
 
-  
+### Teachers-in-charge
 
-Photos
-------
+* Ms Cindy Soh Sock Kheng (OC) (Jan 2023 - Jun 20230
+* Mr Seong Then Yee (OC) (Jul 2023 - Till Present)
+* Mr Seong Then Yee (DYOC) (Jan 2023 - Jun 2023)
+* Ms Kimberlyn Lee (DYOC) (Jul 2023 - Till Present)
+* Mr Zulkifli Mohamed Saat
+
+### Photos
+
 ![](/images/UNIT%20PHOTO%202022.jpeg)
 <center>Unit Photo 2022</center>
 
@@ -89,7 +88,7 @@ Photos
 <center>Crime Scene Investigation</center>
 
 ![](/images/NPCC%20-%20Campfire.png)
-<center>Campcraft (Campfire, Flag Staff, Basha Making & Map Reading)</center>
+<center>Campcraft (Campfire, Flag Staff, Basha Making &amp; Map Reading)</center>
 
 ![](/images/Shooting.jpeg)
 <center>Shooting Course</center>
