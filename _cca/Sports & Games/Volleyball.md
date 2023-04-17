@@ -44,8 +44,8 @@ third_nav_title: Sports & Games
 | Boys Team | Girls Team| 
 | -------- | -------- | 
 | Mr Andy Law (IC) | Mdm Nazrene Akhbar Ali | 
-| Mr Colin Lee Kuan Wei (2IC)  | Miss Mavis Ho | 
-| Mr Mohamed Riffai bin Maidin  | Miss Parvin Marican |
+| Mr Colin Lee Kuan Wei (2IC)  | Miss Parvin Marican | 
+| Mr Mohamed Riffai bin Maidin  |  |
 | Mr Chong Hock Boon |  | 
 
 ### Coach
