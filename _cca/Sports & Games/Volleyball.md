@@ -39,8 +39,6 @@ third_nav_title: Sports & Games
 
 ### Teachers-in-charge
 
-
-
 | Boys Team | Girls Team| 
 | -------- | -------- | 
 | Mr Andy Law (IC) | Mdm Nazrene Akhbar Ali | 
