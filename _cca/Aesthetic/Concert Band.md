@@ -4,13 +4,13 @@ permalink: /cca/Aesthetic/Concert-Band/
 description: ""
 third_nav_title: Aesthetic
 ---
-## About us
+### About us
 
 **One Band, One Sound, One Soul**
 
 Pasir Ris Concert Band is committed to create resilient leaders and passionate musicians among our members. We instill high standard of musicianship and discipline among our members in our pursuit towards music excellence. Members are provided with many opportunities to showcase their passion towards music through various performing platforms, masterclasses and exchange programmes. In addition, our distinct leadership programme is aimed to harness leadership skills as well as musicianship.
 
-## Highlights
+### Highlights
 
 The Concert Band, led by 2 well-respected conductors, has a dynamic programme to ensure your well rounded development in musicality and character. From showcases to camps to exchanges and overseas programmes, we have it all! 
 
@@ -20,28 +20,25 @@ The Concert Band, led by 2 well-respected conductors, has a dynamic programme to
 * 2022 WBAS Youth Arts Leaders Conference 
 * 2023 Labour Day Open House @ Istana (upcoming in May)
 
-## Achievements
+### Achievements
 
 * 2017 Singapore Youth Festival (SYF) - Distinction
 * 2019 Singapore Youth Festival (SYF) - Distinction
 * 2021 Singapore Youth Festival (SYF) – Distinction
 
-## Schedule
+### Schedule
 
-**<center>Main Band</center>**
-
+#### **<center>Main Band</center>**
 | Day | Time | Venue |
 | -------- | -------- | -------- |
 | Monday / Tuesday | 3.30pm - 6.30pm | Band Room |
 | Thursday (Sectionals) | 3.30pm - 5.30pm | Band Room |
-
-**<center>Recruit Band</center>**
-
+#### **<center>Recruit Band</center>**
 | Day | Time | Venue |
 | -------- | -------- | -------- |
 | Monday / Tuesday | 3.30pm - 5.30pm | Band Room |
 
-## Teachers-in-charge
+### Teachers-in-charge
 
 * Madam Anmilia Anwar Datt (OIC) 
 * Ms. Jasmine Peh (2IC) 
@@ -53,7 +50,7 @@ The Concert Band, led by 2 well-respected conductors, has a dynamic programme to
 **Band Director:**<br> Mr Md Faizal Othman<br><br>
 **Assistant Band Director:** <br>Mr Steven Phua
 
-## Photos
+### Photos
 
 ![](/images/Band%20Photo%201.jpeg)
 ![](/images/Band%20Photo%202.jpeg)
