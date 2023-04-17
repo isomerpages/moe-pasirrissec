@@ -54,16 +54,15 @@ NCDCC believes in developing and empowering our youths to be active concerned ci
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday<br>(Main Training Day) | 03.30pm - 06.30pm | Parade Square |
-| Friday<br>(Additional Training Day) | 02.30pm - 05.30pm | Parade Square |
+| Tuesday<br>(Main Training Day) | 03.30pm - 06.30pm | Outside CCA Room |
+| Friday<br>(Additional Training Day) | 02.30pm - 05.30pm | Outside CCA Room |
 
 ### Teachers-in-charge
 
 * LTA Wong Yun Yi (IC)
-* LTA Hannah Lum Wan Ling (2IC)
+* LTA Hannah Lum (2IC)
 * Mr Winston Chiang
-* Mr. Daniel Ng Tze Keen
-* Ms Pearlyn Chia
+* Mr. Daniel Ng
 
 ### NCDCC Motto
   
