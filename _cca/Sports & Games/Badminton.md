@@ -22,7 +22,6 @@ In 2023, the team participated in the East Zone B Division Badminton Tournament 
 
 ### Schedule
 
-
 | Training Days | Time | Venue |
 | -------- | -------- | -------- |
 | Monday | 03.00pm - 06.00pm | School Hall |
@@ -37,7 +36,8 @@ In 2023, the team participated in the East Zone B Division Badminton Tournament 
 
 ### Coach
 
-Chea Hong Hui
+* Coach Justin Tay Li Wei 
+* Coach Kenneth Khoo
 
 ### Photos
 
