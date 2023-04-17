@@ -2,62 +2,48 @@
 title: Netball
 permalink: /cca/Sports-and-Games/Netball/
 description: ""
-third_nav_title: Sports & Games
+third_nav_title: Sports &amp; Games
 ---
-About us
---------
+### About us
 
-**Passion & Resilience**
+**Passion &amp; Resilience**
 
-  
+That is how we play our game.
 
-That is how we play our game. 
-
-  
-
-With much passion, we keep up with our fitness routines despite the challenging days during school closure in mid-2020 due to the pandemic through E-CCA Zoom sessions. We are able to adapt despite the limitation of space and resources as we push through our online training together. 
-
-  
-
-Our traditional bonding session was replaced by an online sharing of students about their favorite snacks. A student team leader then shared how we can consciously choose healthier alternatives to snack. It was an engaging session for everyone as we share common favorites. 
-
-  
-
-With much resilience, we paced through the days and appreciated our physical trainings again on court. Together as a team we can grow stronger.
+We are a team of girls passionate about netball. Together with our coach we train for National School Games B and C divisions. This year we are also participating in the School Challenge League. Come join us and develop your physical strength and mental perseverance.
 
 ![](/images/Netball.jpeg)
 
 **Time to release the latent energy after 2 years!**
 
-Highlights
-----------
+### Highlights
 
-NSG starts on  5 April to 18 April. After a respite of 2 years, the games have started again!  
+Besides the annual NSG for B and C Division, we are also participating in the School Challenge League. Hence, during CCA we get to spar with other schools in mini-competitions.
 
 All the best to our Netball Girls!
 
-Schedule
---------
+### Achievements
 
-![](/images/netballsch.png)
+We are helping out our neighbouring Yumin Primary school to have friendly matches with their upper primary team to condition them for their NSG. By doing so we are also indirectly talent spotting for our future team.
 
-Teachers-in charge
-------------------
+### Schedule
 
-Mdm Nadiah  
+| Day | Time | Venue |
+| -------- | -------- | -------- |
+| Monday | 03.30pm - 06.30pm | Upper Indoor Sports Hall |
+| Friday | 01.30pm - 04.30pm | Upper Indoor Sports Hall |
 
-Miss Shayne Ong  
+### Teachers-in charge
 
-Mrs Looi
+* Mdm Nadiah (IC)  
+* Miss Shayne Ong (2IC)  
+* Ms Lee Wei Wei
 
-Coach
------
+### Coach
 
-Coach Faizah  
+Coach Faizah who also trains the Back2Netball team at the Singapore Netball Club
   
-
-Photos
-------
+### Photos
 
 ![](/images/Zoom%20Training.jpeg)
 <center>Zoom Training</center>
