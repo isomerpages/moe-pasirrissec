@@ -6,6 +6,8 @@ third_nav_title: Sports & Games
 ---
 ### About us
 
+##### **Excellence, Perseverance and Passion!**
+
 Pasir Ris Secondary Basketball CCA was initiated in 2009. At that time, only the Girls' team was formed. In the following year, we started recruiting members for the Boys team due to a strong interest from the male students to join the CCA.
 
 The students train twice a week on Tuesdays and Thursdays. During training sessions, they are taught basketball skills, teamwork and important core values.
