@@ -4,8 +4,7 @@ permalink: /cca/Aesthetic/Chinese-Orchestra/
 description: ""
 third_nav_title: Aesthetic
 ---
-## About us
---------
+### About us
 
 Where Music **CO**nquers
 
@@ -17,28 +16,28 @@ Since the commencement of the PRSSCO Niche Programme in Chinese Orchestra in 200
 
 We welcome parents and prospective students to check out our Instagram and TikTok @prssco\_\_ for updates and events in PRSSCO.
 
-## Highlights
+### Highlights
 
 * 2020: SYF Beat the Bug Percussion Ensemble 2020: National Day Virtual Performance 2020: Ensemble Showdown 
 * 2021: Chinese New Year Celebrations - Music Video 
 * 2022: Chinese New Year Celebrations - Music Video 
 * 2022: Young Talent Showcase @ OTH
 
-## Achievement
+### Achievement
 
 * SYF 2017: Certificate of Distinction
 * SYF 2019: Certificate of Distinction
 * SYF 2021: Certificate of Accomplishment
 
-## Schedule
+### Schedule
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Monday / Thursday | 3.15pm - 6.30pm  | CO Room |
+| Monday / Thursday | 03.15pm - 06.30pm  | CO Room |
 
-## Teachers-in-charge
+### Teachers-in-charge
 
-* Ms Leong Su Juen (OIC) 
+* Ms Leong Su Juen (IC) 
 * Mdm Siti Sarah (2IC) 
 * Ms Ng Mei Ling 
 * Mdm Ng Ai Hoon 
@@ -48,7 +47,7 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 **Conductor**<br>
 Mr Chin Yen Choong
 
-## Photos
+### Photos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G7r30ncf14E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
