@@ -33,13 +33,17 @@ Participated in National School Games - EZ "C" Division Basketball Tournament 20
 
 ### Teachers-in-charge
 
-* Jaslin Jiang (IC)
-* Hairunisa (2IC)
-* Nadhirah
+| Boys Team | Girls Team |
+| -------- | -------- | 
+| Mr Vincent Yew (IC)  | Ms Jaslin Jiang (IC) | 
+| Mr Daniel Chng (2IC) | Ms Hairunisa (2IC) | 
+| Mr Ang Ee Hup | Mdm Nadhirah | 
 
 ### Coach
 
-![](/images/basketcoach.png)
+| Boys Team | Girls Team | 
+| -------- | -------- | 
+| Mr Lai Wei Jie | Mr Choo Hoo Sen    |
 
 ### Photos
 
