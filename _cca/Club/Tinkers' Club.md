@@ -22,10 +22,9 @@ In coding sessions, members were taught the fundamentals of block coding using m
 
 ## Teachers-in-charge
 
-* Mr. Wilfred Teo (OIC)
-* Mr. Noor Rahman Saini  
+* Mr. Wilfred Teo (IC)
+* Mr. Noor Rahman Saini (2IC)  
 * Ms. June Ho Wei Wei
-* Mr. Koh Chun Kiat (Advisor)
 
 ## Photos
 
