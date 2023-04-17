@@ -16,9 +16,9 @@ The Audio Visual and Lights Club (AVL) has three main areas of specialisation: 
 
 ## Teachers-in-charge
 
-* Mr Chiang Shu Lee (OIC) 
-* Mr Koh Chun Kiat 
+* Mr Chiang Shu Lee (IC) 
 * Ms Jin Beihua
+* Mr Koh Chun Kiat 
  
 ## Photos
 
