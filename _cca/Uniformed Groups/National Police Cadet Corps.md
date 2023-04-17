@@ -4,7 +4,7 @@ permalink: /cca/Uniformed-Groups/National-Police-Cadet-Corps/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-## About us
+### About us
 
 **“Only the Best wear Blue”.**
 
@@ -14,7 +14,7 @@ This year, some of our cadets are gearing up in preparation for the HQ competiti
 
 Some of our unit programs include the 0.22 revolver shooting, Crime Scene Investigation Course, Kayaking Course and First Aid Course. In 2023, we will continue to carry out more programmes face to face so that our cadets can learn more effectively to achieve our goals.
 
-## Highlights
+### Highlights
 
 Unit Overall Proficiency Award (UOPA) – Gold Award (2006 - 2021) <br><br>
 Unit Overall Proficiency Award (UOPA) – Distinction Award (2022) <br><br>
@@ -60,20 +60,18 @@ Urban Adventure Civil Defence Skills Challenge 2019 - 3rd place (Open Category)
 
 20 of our cadets took part in the National Day Parade 2022 At The Float@Marina
 
-## Achievements
+### Achievements
 
 UNIT OVERALL PROFICENCY AWARD - DISTINCTION (2022)
 
-## Schedule
+### Schedule
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| Tuesday<br>(Main Training Day) | 03.30pm - 06.00pm | New Foyer / Parade Square |
+| Friday<br>(Additional Training Day) | 02.30pm - 06.00pm | New Foyer / Parade Square |
 
-
-![](/images/npcc.png)
-
-## Teachers-in-charge
+### Teachers-in-charge
 
 * Ms Cindy Soh Sock Kheng (OC) (Jan 2023 - Jun 20230
 * Mr Seong Then Yee (OC) (Jul 2023 - Till Present)
@@ -81,7 +79,7 @@ UNIT OVERALL PROFICENCY AWARD - DISTINCTION (2022)
 * Ms Kimberlyn Lee (DYOC) (Jul 2023 - Till Present)
 * Mr Zulkifli Mohamed Saat
 
-## Photos
+### Photos
 
 ![](/images/UNIT%20PHOTO%202022.jpeg)
 <center>Unit Photo 2022</center>
