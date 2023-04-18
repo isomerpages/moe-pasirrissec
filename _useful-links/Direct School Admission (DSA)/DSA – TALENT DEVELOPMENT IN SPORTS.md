@@ -26,5 +26,3 @@ If you have the passion and talent for Football or Volleyball, we invite you to 
 The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
 
 For any inquiries, please call the General Office at 6501 0800.
-
-General Office at 65010800.
