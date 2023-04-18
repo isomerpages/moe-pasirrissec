@@ -18,7 +18,7 @@ If you have the passion and talent for Football or Volleyball, we invite you to 
 
 | DSA Main Category | DSA Talent Area |  Nature |
 | -------- | -------- | -------- |
-| Sports &amp; Games   | <a href="/cca/Sports-and-Games/Football/">Football </a>     | Boys only      |
+| Sports &amp; Games  | <a href="/cca/Sports-and-Games/Football/">Football </a>     | Boys only      |
 |Sports &amp; Games|<a href="/cca/Sports-and-Games/Volleyball/">Volleyball </a>|Boys &amp; Girls|
 
 #### **Selection Criteria**
