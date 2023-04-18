@@ -9,7 +9,7 @@ Programme
 
 ### Vision
 
-**Learn our MTL, Love our MTL, Live out our MTL | Teachers as Learners, Teachers as Leaders**
+##### **Learn our MTL, Love our MTL, Live out our MTL | Teachers as Learners, Teachers as Leaders**
 
 The Mother Tongue Languages (MTL) Department believes in nurturing Pasirians to:  
 
@@ -30,7 +30,7 @@ We seek to develop Pasirians who will be:
 * Connected learners who leverage technology in the application of MTL in daily life &amp; to the understanding of contemporary issues&nbsp;  
 * Discerning digital users who are keenly aware &amp; proud of their cultural heritage (values, history, tradition) &amp; willing to embrace other cultures in Singapore &amp; Asia in the increasingly digitised &amp; globalised age
 
-# Highlights
+### Highlights
  
  ![](/images/mothertongueprog.png)
  
@@ -40,10 +40,9 @@ We seek to develop Pasirians who will be:
 * Meet-The-Author Session with Djohan Abdul Rahman at Our Tampines Hub (OTH)
 * Hari Raya Celebrations
 
- People
-------
+###  People
 
-Teachers as Learners, Teachers as Leaders
+**Teachers as Learners, Teachers as Leaders**
 
 Professional Development includes department learning journey, open classroom, presentations @ cluster, zonal and national levels.
 
@@ -57,15 +56,14 @@ Professional Development includes department learning journey, open classroom, p
 | Chinese Language | Mdm Ng Ai Hoon | [ng_ai_hoon@moe.edu.sg](mailto:ng_ai_hoon@moe.edu.sg) |
 | Chinese Language | Ms Wong Yun Yi | [ng_ai_hoon@moe.edu.sg](mailto:ng_ai_hoon@moe.edu.sg) |
 | Chinese Language | Ms Wang Xiangkun | [wang_xiangkun@moe.edu.sg](mailto:wang_xiangkun@moe.edu.sg) |
-| Chinese Language | Mdm Jin Beihua | jin_beihua@moe.edu.sg |
-| Chinese Language | Ms Desiree Oh Yi Ting | oh_yi_ting_desiree@moe.edu.sg |
+| Chinese Language | Mdm Jin Beihua | [jin_beihua@moe.edu.sg](mailto:jin_beihua@moe.edu.sg) |
+| Chinese Language | Ms Desiree Oh Yi Ting | [oh_yi_ting_desiree@moe.edu.sg](mailto:oh_yi_ting_desiree@moe.edu.sg) |
 | Malay Language | Mdm Rubi'ah Binte Massuan | [rubiah_massuan@moe.edu.sg](mailto:rubiah_massuan@moe.edu.sg) |
 | Malay Language | Mdm Fazidah Bte Mohd Lias  | [fazidah_mohamed_lias@moe.edu.sg](mailto:fazidah_mohamed_lias@moe.edu.sg) |
 | Malay Language | Mdm Anmilia Bte Anwar Datt  | [anmilia_anwar_datt@moe.edu.sg](mailto:anmilia_anwar_datt@moe.edu.sg) |
 | Malay Language | Mr Muhammad Omarali Bin Zulkiflee | [muhammad_omarali_zulkiflee@moe.edu.sg](mailto:muhammad_omarali_zulkiflee@moe.edu.sg) |
 
-Photos
-------
+### Photos
 
 ![](/images/CNY%20Celebrations%202022.jpeg)
 ![](/images/Raya%20Celebrations.png)
