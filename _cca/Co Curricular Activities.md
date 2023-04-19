@@ -23,3 +23,5 @@ Students must have a main CCA each year from one of the 4 groups. Points are awa
 For students with an attendance rate of 50% - 74%, the CCA points scored for the year will not be computed. However, CCA points accumulated in earlier years can be retained for computation when the student rejoins a CCA and fulfills the 75% attendance rate criterion. 
 
 Except for medical reasons, an attendance rate of less than 50% would constitute a break in the CCA, and all points accumulated up to and including that year would be annulled.
+
+[CCA 2023 Schedule](https://docs.google.com/spreadsheets/d/1TRMnih_yiTWHQEveWFLJNL0_E0wgkmU3/edit#gid=1377928689)
