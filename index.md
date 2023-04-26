@@ -15,7 +15,7 @@ sections:
         - title: Information for Parents
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
-        - title: "DSA "
+        - title: "Direst School Admission (DSA) "
           description: ""
           url: https://www.pasirrissec.moe.edu.sg/useful-links/direct-school-admission-dsa/direct-school-admission-dsa
       title: Pasir Ris Secondary School
