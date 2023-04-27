@@ -11,7 +11,7 @@ description: ""
 | 2 | **GCE N Level Results 2022** | All our 4NT students qualify for ITE and 3 of them scored 3 out of 4 distinctions while 89.7% of our 4NA students qualify for the 5NA and 17 of them scored 4 distinctions and above. <br><br> Click here to read more about how some of our N Level students achieved their goals and have done well |
 | 3 | **English Language and Literature Department** | **GEMA Short Story Writing Competition 2022** <br><br> - Silver Award (Senior Category)<br>- Consolation <br><br>**Live on Festival 2022 Essay Writing Competition**<br><br>- Higher Distinction Award (Senior Category) |
 | 4 | **Mother Tongue Department** | **Young Reporter News Challenge**<br><br> - Outstanding News Video Re-Tell News Category |
-| -------- | -------- | -------- |
+| 5 | -------- | -------- |
 | -------- | -------- | -------- |
 
 ![](/images/acad2022.png)
