@@ -38,4 +38,4 @@ These and other thoughts we gladly bring
 To Pasir Ris right from the start  
 To Pasir Ris right from the start
 
-<a href="/e-open-house/e-Open-House/"><img src="/images/open.png" style="width:33%"></a>
+<a href="/e-open-house/e-Open-House/"><img src="/images/Button/eopenhouse.png" style="width:48%"></a>
