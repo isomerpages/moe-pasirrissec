@@ -15,5 +15,8 @@ sections:
         - title: Information for Parents
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
+        - title: "DSA e-Open House 2023 "
+          description: ""
+          url: https://www.pasirrissec.moe.edu.sg/e-open-house/e-Open-House
       title: Pasir Ris Secondary School
 ---

@@ -10,12 +10,9 @@ Co-Curricular Activities (CCAs) are an integral part of the holistic, well-round
 
 CCA is compulsory for all secondary school students. Students can choose from any of these 4 categories:
 
-• Clubs and societies
-
-• Physical sports
-
-• Uniformed groups
-
+• Clubs and societies<br>
+• Physical sports<br>
+• Uniformed groups<br>
 • Visual and performing arts
 
 Students are encouraged to remain in the same CCA throughout their years in PRSS. Transfer between CCAs can only be allowed due to medical reasons.
@@ -42,21 +39,21 @@ Except for medical reasons, an attendance rate of less than 50% would constitute
 		 
 #### **Clubs**
 
-[<img src="/images/audio.png" style="width:20%;float:left">](/cca/Clubs/Audio-Visual-Lights/)
-[<img src="/images/tinkersclub.png" style="width:20%;float:left">](/cca/Clubs/Tinkers-Club/)
+[<img src="/images/audio.png" style="width:25%;float:left">](/cca/Clubs/Audio-Visual-Lights/)
+[<img src="/images/tinkersclub.png" style="width:25%;float:left">](/cca/Clubs/Tinkers-Club/)
 
 <br><br><br>
 
 #### **Sports &amp; Games**
 
-[<img src="/images/basket.png" style="width:20%;float:left">](/cca/Sports-and-Games/Basketball/)
-[<img src="/images/football.png" style="width:20%;float:left">](/cca/Sports-and-Games/Football/)
-[<img src="/images/tabletennis.png" style="width:20%;float:left">](/cca/Sports-and-Games/Table-Tennis/)
- [<img src="/images/netball.png" style="width:20%;float:left">](/cca/Sports-and-Games/Netball/)
-[<img src="/images/volleyb.png" style="width:20%;float:left">](/cca/Sports-and-Games/Volleyball/)
-[<img src="/images/badminton.png" style="width:20%;float:left">](/cca/Sports-and-Games/Badminton/)
+[<img src="/images/basket.png" style="width:25%;float:left">](/cca/Sports-and-Games/Basketball/)
+[<img src="/images/football.png" style="width:25%;float:left">](/cca/Sports-and-Games/Football/)
+[<img src="/images/tabletennis.png" style="width:25%;float:left">](/cca/Sports-and-Games/Table-Tennis/)
+ [<img src="/images/netball.png" style="width:25%;float:left">](/cca/Sports-and-Games/Netball/)
+[<img src="/images/volleyb.png" style="width:25%;float:left">](/cca/Sports-and-Games/Volleyball/)
+[<img src="/images/badminton.png" style="width:25%;float:left">](/cca/Sports-and-Games/Badminton/)
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 #### **Uniformed Groups**
 

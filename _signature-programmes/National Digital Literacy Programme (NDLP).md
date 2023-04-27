@@ -7,9 +7,9 @@ description: ""
 
 In 2019, our Secondary 1 cohort participated in the 1:1 Learning Pilot Project with the Ministry of Education (MOE). This provided an opportunity for Teachers to work closely with MOE Officers to customise, differentiate and personalise learning experiences where our students learn in a 1:1 computing environment. By integrating technology and digital learning into school-wide curriculum, pedagogy and assessment, teachers were able to design and bring about student-centric and active learning experiences.
 
-<img src="/images/Pic%201.jpeg" style="width:50%;float:left"><img src="/images/Pic%202.jpeg" style="width:50%">
+<img src="/images/Pic%201.jpeg" style="width:52%;float:left"><img src="/images/Pic%202.jpeg" style="width:45%">
 		 
-At MOE’s Committee of Supply Debate in March 2020, MOE launched the&nbsp;**National Digital Literacy Programme (NDLP)**&nbsp;for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the&nbsp;Personalised Digital Learning Programme (PDLP)&nbsp;for all secondary school students, whereby every secondary school student will own a school-prescribed computing device or Personal Learning Device (PLD) by end-2021.&nbsp; &nbsp;&nbsp;
+At MOE’s Committee of Supply Debate in March 2020, MOE launched the **National Digital Literacy Programme (NDLP)** for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the&nbsp;Personalised Digital Learning Programme (PDLP)&nbsp;for all secondary school students, whereby every secondary school student will own a school-prescribed computing device or Personal Learning Device (PLD) by end-2021.
 
 The Personal Learning Device (PLD) will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (SLS) – as well as other educational technology to personalise and enhance students’ learning. This will also better enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world. Students will also acquire digital literacy in the four components of Ministry of Education (MOE)’s Digital Literacy Framework:
 
@@ -17,12 +17,9 @@ The Personal Learning Device (PLD) will be used in tandem with the national e-le
 
 #### Personal Learning Device (PLD)
 
+At PRSS, all students use a **Chromebook** as their PLD. Chromebooks are chosen for their variety of affordances, including seamless learning experiences alongside existing teaching and learning technologies such as the SLS, Google Suite for Education Apps and Microsoft Pro Plus. It is also a relatively lightweight and portable device that offers students convenient learning on-the-move. A full charge of the battery typically allows students to work on their PLDs for the entire curriculum hours.   
 
-At PRSS, all students use a&nbsp;**Chromebook**&nbsp;as their PLD. Chromebooks are chosen for their variety of affordances, including seamless learning experiences alongside existing teaching and learning technologies such as the SLS, Google Suite for Education Apps and Microsoft Pro Plus. It is also a relatively lightweight and portable device that offers students convenient learning on-the-move. A full charge of the battery typically allows students to work on their PLDs for the entire curriculum hours. &nbsp;&nbsp;
-
-  
-
-Since 2021, every Secondary 1 student purchase their own&nbsp;**Chromebook**&nbsp;as the school-prescribed PLD. This device is a touchscreen convertible laptop (i.e. can be used as a laptop or rotated 180o&nbsp;into a tablet) and comes with its own in-built stylus for inking functions.
+Since 2021, every Secondary 1 student purchase their own **Chromebook** as the school-prescribed PLD. This device is a touchscreen convertible laptop (i.e. can be used as a laptop or rotated 180 into a tablet) and comes with its own in-built stylus for inking functions.
 
 ![](/images/chrome.png)
 ![](/images/chromespecs2023.png)
