@@ -13,7 +13,7 @@ description: ""
 
 ![](/images/alumni.png)
 
-Find out more&nbsp;[here](/about-us/Our-Partners/Alumni/).
+Find out more [here](/about-us/Our-Partners/Alumni/).
 
 ### SCHOOL SONG
 
