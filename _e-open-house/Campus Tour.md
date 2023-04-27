@@ -7,4 +7,4 @@ description: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bPPkrSN0lh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<a href="/e-open-house/e-Open-House/"><img src="/images/open.png" style="width:33%"></a>
+<a href="/e-open-house/e-Open-House/"><img src="/images/Button/eopenhouse.png" style="width:48%"></a>
