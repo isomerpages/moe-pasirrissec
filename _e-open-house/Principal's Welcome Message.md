@@ -3,7 +3,7 @@ title: Principal's Welcome Message
 permalink: /e-open-house/Principals-Welcome-Message/
 description: ""
 ---
-<img src="/images/Mrs%20Chua.jpg" style="width:25%;float:left">
+<img src="/images/Mrs%20Chua.jpg" style="width:30%;float:left">
 
 Dear Parents &amp; Prospective Students
 
