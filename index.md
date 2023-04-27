@@ -15,8 +15,8 @@ sections:
         - title: Information for Parents
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
-        - title: "Direct School Admission (DSA) "
+        - title: "DSA e-Open House 2023 "
           description: ""
-          url: https://www.pasirrissec.moe.edu.sg/useful-links/direct-school-admission-dsa/direct-school-admission-dsa
+          url: ""
       title: Pasir Ris Secondary School
 ---
