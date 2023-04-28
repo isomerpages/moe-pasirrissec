@@ -6,9 +6,9 @@ third_nav_title: The Curriculum
 ---
 ### Programme
 
-The Humanities Department at Pasir Ris Secondary aspires to cultivate a passion for the study of academic disciplines covering human behaviour and culture.&nbsp;&nbsp;
+The Humanities Department at Pasir Ris Secondary aspires to cultivate a passion for the study of academic disciplines covering human behaviour and culture.
 
-The subjects include Geography, History, Social Studies and Elements of Business. Adopting an Inquiry approach, we prepare our students for the evolving complexities of the globalised world by infusing experiential and hands-on learning opportunities. They do this through various platforms such as Geographical Inquiry and Historical Inquiry projects where they had the chance to research and apply their learning from the respective subject areas.&nbsp;
+The subjects include Geography, History, Social Studies and Elements of Business. Adopting an Inquiry approach, we prepare our students for the evolving complexities of the globalised world by infusing experiential and hands-on learning opportunities. They do this through various platforms such as Geographical Inquiry and Historical Inquiry projects where they had the chance to research and apply their learning from the respective subject areas.
 
 As part of professional learning, we continue to innovate our instructional programs by using various mobile applications in our teaching and learning. In addition, we continuously seek ways for students to apply what they have learnt in the Humanities curriculum into real life contexts, anchored on contemporary issues.&nbsp;
 
@@ -27,8 +27,8 @@ Since 2015, our school has been on the Applied Learning Programme (ALP) in Human
 | Geography/ English Language | Mdm Noraidah Suwandi | [noraidah_suwandi@moe.edu.sg](mailto:noraidah_suwandi@moe.edu.sg) |
 | Elements of Business Skills/ English Language | Mdm Lee Wei Wei | [lee_wei_wei@moe.edu.sg](mailto:lee_wei_wei@moe.edu.sg) |
 | Elements of Business Skills/ English Language | Ms Cindy Soh | [soh_sock_kheng@moe.edu.sg](mailto:soh_sock_kheng@moe.edu.sg) |
-| Geography/ Social Studies | Ms Sabrina Ho | [ho_yen_yin_sabrina@moe.edu.sg] (mailto:ho_yen_yin_sabrina@moe.edu.sg)|
-| History/ English Language | Ms Mavis Ho | [ho_min_yu_mavis@moe.edu.sg](mailto: ho_min_yu_mavis@moe.edu.sg) |
+| Geography/ Social Studies | Ms Sabrina Ho | [ho_yen_yin_sabrina@moe.edu.sg](mailto:ho_yen_yin_sabrina@moe.edu.sg)|
+| History/ English Language | Ms Mavis Ho | [ho_min_yu_mavis@moe.edu.sg](mailto:ho_min_yu_mavis@moe.edu.sg) |
 | Social Studies/ English Language | Ms Shayne Ong Chi Ying | [chi_ying_shayne_ong@moe.edu.sg](mailto:chi_ying_shayne_ong@moe.edu.sg) |
 | History/ English Language | Mr Zulkifli Mohamed Saat (AED) | [zulkifli_mohamed_saat@moe.edu.sg](mailto:zulkifli_mohamed_saat@moe.edu.sg) |
 | Humanities/ English Language | Ms Nadirah Binte Jamallodin (AED) | [nadirah_a@moe.edu.sg](mailto:nadirah_a@moe.edu.sg) |
