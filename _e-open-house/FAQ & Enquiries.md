@@ -13,4 +13,4 @@ FAQ 2022 - Please click&nbsp;[here](/files/FAQs%20from%20our%20e-Open%20House%20
 
 FAQ 2021 - Please click&nbsp;[here](/files/e-Open%20House%202021%20Nov\_Collated%20FAQs%20from%20online%20engagement%20session%2026%20Nov.pdf)&nbsp;to view other FAQs from our Open House (year-end) in 2021.
 
-<a href="/e-open-house/e-Open-House/"><img src="/images/Button/eopenhouse.png" style="width:48%"></a>
+<a href="/e-open-house/e-open-house/"><img src="/images/Button/eopenhouse.png" style="width:48%"></a>
