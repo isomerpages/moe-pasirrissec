@@ -1,11 +1,10 @@
 ---
-title: English Language &amp; Literature
+title: English Language & Literature
 permalink: /holistic-education/The-Curriculum/English-Language-and-Literature/
 description: ""
 third_nav_title: The Curriculum
 ---
-Programme
----------
+### Programme
 
 The English Language and Literature Department is committed to nurturing confident students who are able to think and read critically and communicate confidently and empathetically in the English language. Our department goals and pedagogies are closely aligned to the 2020 EL syllabus which has three key student outcomes of an empathetic communicator, a discerning reader and a creative inquirer.  
 
@@ -23,42 +22,40 @@ The department has also organised a EL/Lit Festival in Term 2 Week 3 this year w
 
 Our students are also exposed to a variety of opportunities such as the National Schools Literature Festival (NSLF) which sees them participating in the Book Trailer, Book Parade and Unseen Debates and the International Competitions and Assessments for Schools (ICAS) which challenges students who are strong in the language. In addition, we also participate in the Commonwealth Essay Writing Competition and the YMCA Plain English Speaking competition annually.  
 
-In the Literature classroom, students read and respond to a variety of literary texts from the genres of prose, poetry and drama. They also explore different perspectives and give personal responses to different themes on family, culture and society. The texts can range from classics, such as Shakespeare to modern works such as Farenheit 451 by Ray Bradbury.&nbsp;
+In the Literature classroom, students read and respond to a variety of literary texts from the genres of prose, poetry and drama. They also explore different perspectives and give personal responses to different themes on family, culture and society. The texts can range from classics, such as Shakespeare to modern works such as Farenheit 451 by Ray Bradbury
 
 It is our goal to continue to engage our students and to prepare them for the challenging future ahead with 21st century critical thinking and effective communication skills in the English Language.
 
-# Programme highlights
+### Programme highlights
 
 * EL Reading Programme 
 * EL &amp; Literature Festival 
 * Commonwealth Essay Competitions
 * National Schools Literature Festival (NSLF)
 
-People
-------
-
+### People
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
-| English Language/ Literature  | Mdm Foong Woon Sin <br> HOD English Language and Literature | foong_woon_sin@moe.edu.sg |
-| English Language | Mrs Lynn Tan <br> LT English Language | loy_lin_li_lynn@moe.edu.sg |
-| English Language/ Literature  | Ms Jumiah Ahmad <br> ST English Language | jumiah_ahmad@moe.edu.sg |
-| English Language | Ms Parvin Marican <br> LH English Language | parvin_bibi_marican@moe.edu.sg |
-| English Language/ Geography | Mdm Noraidah Suwandi | noraidah_suwandi@moe.edu.sg |
-| English Language/ Elements of Business Skills | Ms Cindy Soh | soh_sock_kheng@moe.edu.sg |
-| English Literature/ Social Studies | Ms Filzah Binte Yahaya| filzah_yahaya@moe.edu.sg |
-| English Language/ Literature | Ms Faith Nah Cher Hui | nah_cher_hui_faith@moe.edu.sg |
-| English Literature/ History | Ms Mavis Ho Min Yu| ho_min_yu_mavis@moe.edu.sg |
-| Social Studies/ English | Ms Shayne Ong| chi_ying_shayne_ong@moe.edu.sg |
-| English Language/ Elements of Business Skills | Mdm Lee Wei Wei| lee_wei_wei@moe.edu.sg |
-| English Language/ Literature | Mdm Nazrene Akbar Ali | nazrene_akbar_ali@moe.edu.sg |
-| English Language/ Literature | Ms Hannah Lum | lum_wan_ling_hannah@moe.edu.sg |
-| History/ English | Mdm Shahilla d/o K Balakrishnan| shahilla_balakrishnan@moe.edu.sg |
-| English | Ms Pearlyn Chia Kai Ling| pearlyn_chia_kai_ling@moe.edu.sg |
-| English Language/ History | Mr Zulkifli Mohamed Saat (AED) | zulkifli_mohamed_saat@moe.edu.sg |
-| English Language/ History | Ms Nadirah Binte Jamallodin (AED) | nadirah_a@moe.edu.sg |
+| English Language/ Literature  | Mdm Foong Woon Sin <br> HOD English Language and Literature | [foong_woon_sin@moe.edu.sg](mailto:foong_woon_sin@moe.edu.sg) |
+| English Language | Mrs Lynn Tan <br> LT English Language | [loy_lin_li_lynn@moe.edu.sg](mailto:loy_lin_li_lynn@moe.edu.sg) |
+| English Language/ Literature  | Ms Jumiah Ahmad <br> ST English Language | [jumiah_ahmad@moe.edu.sg](mailto:jumiah_ahmad@moe.edu.sg) |
+| English Language | Ms Parvin Marican <br> LH English Language | [parvin_bibi_marican@moe.edu.sg](mailto:parvin_bibi_marican@moe.edu.sg) |
+| English Language/ Geography | Mdm Noraidah Suwandi | [noraidah_suwandi@moe.edu.sg](mailto:noraidah_suwandi@moe.edu.sg)|
+| English Language/ Elements of Business Skills | Ms Cindy Soh | [soh_sock_kheng@moe.edu.sg](mailto:soh_sock_kheng@moe.edu.sg)|
+| English Literature/ Social Studies | Ms Filzah Binte Yahaya| [filzah_yahaya@moe.edu.sg](mailto: filzah_yahaya@moe.edu.sg)|
+| English Language/ Literature | Ms Faith Nah Cher Hui | [nah_cher_hui_faith@moe.edu.sg](mailto:nah_cher_hui_faith@moe.edu.sg) |
+| English Literature/ History | Ms Mavis Ho Min Yu| [ho_min_yu_mavis@moe.edu.sg](mailto:ho_min_yu_mavis@moe.edu.sg) |
+| Social Studies/ English | Ms Shayne Ong | [chi_ying_shayne_ong@moe.edu.sg](mailto:chi_ying_shayne_ong@moe.edu.sg) |
+| English Language/ Elements of Business Skills | Mdm Lee Wei Wei| [lee_wei_wei@moe.edu.sg](mailto:lee_wei_wei@moe.edu.sg)|
+| English Language/ Literature | Mdm Nazrene Akbar Ali | [nazrene_akbar_ali@moe.edu.sg](mailto:nazrene_akbar_ali@moe.edu.sg) |
+| English Language/ Literature | Ms Hannah Lum | [lum_wan_ling_hannah@moe.edu.sg](mailto:lum_wan_ling_hannah@moe.edu.sg) |
+| History/ English | Mdm Shahilla d/o K Balakrishnan| [shahilla_balakrishnan@moe.edu.sg](mailto:shahilla_balakrishnan@moe.edu.sg) |
+| English | Ms Pearlyn Chia Kai Ling| [pearlyn_chia_kai_ling@moe.edu.sg](mailto:pearlyn_chia_kai_ling@moe.edu.sg) |
+| English Language/ History | Mr Zulkifli Mohamed Saat (AED) | [zulkifli_mohamed_saat@moe.edu.sg](mailto:zulkifli_mohamed_saat@moe.edu.sg) |
+| English Language/ History | Ms Nadirah Binte Jamallodin (AED) | [nadirah_a@moe.edu.sg](mailto:nadirah_a@moe.edu.sg) |
 
-Photos
-------
+### Photos
+
 ![](/images/english.png)
 ![](/images/english2.png)
