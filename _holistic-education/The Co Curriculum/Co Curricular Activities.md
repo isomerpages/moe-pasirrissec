@@ -33,9 +33,9 @@ Except for medical reasons, an attendance rate of less than 50% would constitute
 		 
 [<img src="/images/ConcertBand.png" style="width:20%;float:left">](/cca/Aesthetic/Concert-Band/)
 		 
-[<img src="/images/ModernDance.png" style="width:25%;float:left">](/cca/Aesthetic/Modern-Dance/)
+[<img src="/images/ModernDance.png" style="width:20%;float:left">](/cca/Aesthetic/Modern-Dance/)
 		 
-[<img src="/images/EnglishDrama.png" style="width:25%">](/cca/Aesthetic/English-Drama/)
+[<img src="/images/EnglishDrama.png" style="width:20%">](/cca/Aesthetic/English-Drama/)
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -65,3 +65,8 @@ Except for medical reasons, an attendance rate of less than 50% would constitute
 [<img src="/images/ncclogo.png" style="width:25%;float:left">](/cca/Uniformed-Groups/National-Cadet-Corps/)
 [<img src="/images/npcclogo.png" style="width:25%;float:left">](/cca/Uniformed-Groups/National-Police-Cadet-Corps/)
 [<img src="/images/ncdcclogo.png" style="width:25%;float:left">](/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/)
+
+|  |  |  |
+| -------- | -------- | -------- |
+
+<a href="/e-open-house/e-open-house/"><img src="/images/Button/eopenhouse.png" style="width:48%"></a>
