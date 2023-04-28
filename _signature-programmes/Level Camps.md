@@ -44,7 +44,7 @@ The tagline of the camp is “Go the Distance”. The activities in the camp als
 
 At the start of the camp, students define what success means to them and how they can live a life of purpose, identifying the reasons why they want to be successful and yet at the same time find support from others should the going get tough. Students also build their confidence through learning about the power of first impressions, where they are exposed to the importance of social and business etiquette, personal grooming, and hygiene, as well as effective interpersonal communication skills.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ohFduzVLqeQ" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ohFduzVLqeQ?start=6" height="315" width="560"></iframe>
 
 ![](/images/Sec%204%20LC.png)
 
