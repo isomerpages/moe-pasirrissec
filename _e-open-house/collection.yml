@@ -2,7 +2,7 @@ collections:
   e-open-house:
     output: true
     order:
-      - E Open House.md
+      - DSA e Open House 2023.md
       - Principal's Welcome Message.md
       - Principal Presentation.md
       - Campus Tour.md

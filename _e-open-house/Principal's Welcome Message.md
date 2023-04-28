@@ -15,7 +15,7 @@ We believe that every child can learn and succeed with under the guidance and su
 
 The school’s 2 distinctive programmes namely **LLP in Music and the performing arts and ALP in Journalism (eg broadcast journalism and photo journalism)** have grown many talents in a wide range of genres and skillsets. Our students continue to perform well in the SYF and our next phase of work is to build cultural leadership and leverage the Arts to uplift our students. The ALP continues to grow in strength with students initiated learning and projects aligned with UN17 Sustainable Goals including eco stewardship and raising global awareness to grow our students as active and concerned citizens.
 
-Our Volleyball and football teams have gained traction on the ground over the past 3 years with teams doing very well at the NSG.&nbsp;Students gave their best in training and displayed good sportsmanship.
+Our Volleyball and football teams have gained traction on the ground over the past 3 years with teams doing very well at the NSG. Students gave their best in training and displayed good sportsmanship.
 
 A holistic and balanced education is what we advocate at PRSS. Students can choose from a range of CCAs from Sports, Uniformed Groups, Performing Arts and Clubs. Fostering the joy of learning and preparing our students well for the future with the requisite skills, knowledge, values and attitudes is aligned with our vision of ‘Confident Learners, Caring and Resilient Citizens’. Generations of students who came through our gates at Pasir Ris Secondary have done well in life!
 
@@ -27,4 +27,4 @@ We look forward to you joining our school.
 **Principal**<br>
 **Pasir Ris Secondary School**
 
-<a href="/e-open-house/e-Open-House/"><img src="/images/Button/eopenhouse.png" style="width:48%"></a>
+<a href="/e-open-house/e-open-house/"><img src="/images/Button/eopenhouse.png" style="width:48%"></a>

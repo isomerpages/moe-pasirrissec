@@ -3,6 +3,10 @@ title: Our Pasirian Experience
 permalink: /e-open-house/Our-Pasirian-Experience/
 description: ""
 ---
+### DSA VLOG
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OXW8GQrnhn4" height="315" width="560"></iframe>
+
 ### SCHOOL CORPORATE VIDEO
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GOF8jI49lWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
@@ -38,4 +42,4 @@ These and other thoughts we gladly bring
 To Pasir Ris right from the start  
 To Pasir Ris right from the start
 
-<a href="/e-open-house/e-Open-House/"><img src="/images/Button/eopenhouse.png" style="width:48%"></a>
+<a href="/e-open-house/e-open-house/"><img src="/images/Button/eopenhouse.png" style="width:48%"></a>
