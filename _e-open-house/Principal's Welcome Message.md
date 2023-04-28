@@ -27,4 +27,4 @@ We look forward to you joining our school.
 **Principal**<br>
 **Pasir Ris Secondary School**
 
-<a href="/e-open-house/e-Open-House/"><img src="/images/Button/eopenhouse.png" style="width:48%"></a>
+<a href="/e-open-house/e-open-house"><img src="/images/Button/eopenhouse.png" style="width:48%"></a>
