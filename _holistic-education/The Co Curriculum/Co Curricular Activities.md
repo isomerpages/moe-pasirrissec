@@ -62,7 +62,3 @@ Except for medical reasons, an attendance rate of less than 50% would constitute
 [<img src="/images/ncclogo.png" style="width:25%;float:left">](/cca/Uniformed-Groups/National-Cadet-Corps/)
 [<img src="/images/npcclogo.png" style="width:25%;float:left">](/cca/Uniformed-Groups/National-Police-Cadet-Corps/)
 [<img src="/images/ncdcclogo.png" style="width:25%;float:left">](/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/)
-
-<br><br><br><br><br><br>
-
-<a href="/e-open-house/e-open-house/"><img src="/images/Button/eopenhouse.png" style="width:48%"></a>
