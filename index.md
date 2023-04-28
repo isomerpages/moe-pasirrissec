@@ -22,6 +22,6 @@ sections:
       description: Click the link below to find out more
       button: E-open house page
       url: /e-open-house/e-open-house/
-      image: /images/E Open house/2023 e-open house banner.jpeg
+      image: /images/E Open house/dsa e open house.jpg
       alt: The Pasirian Experience
 ---
