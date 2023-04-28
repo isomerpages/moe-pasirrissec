@@ -22,6 +22,13 @@ sections:
       description: Click the link below to find out more
       button: E-open house page
       url: /e-open-house/e-open-house/
-      image: /images/E Open house/2023 e-open house banner.jpeg
+      image: /images/E Open house/dsa e open house.jpg
       alt: The Pasirian Experience
+  - infopic:
+      title: PRSS Campus Tour
+      description: Click the link below for a 360° tour of the school
+      button: Campus Tour
+      url: https://go.gov.sg/prsscampustour
+      image: /images/E Open house/2023 campus tour (resized).png
+      alt: PRSS Campus Tour
 ---

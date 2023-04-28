@@ -90,8 +90,6 @@ third_nav_title: Our People
 |4E6|KEVIN KOK WAI KEONG|[Kok_Wai_Keong_Kevin@moe.edu.sg](mailto:Kok_Wai_Keong_Kevin@moe.edu.sg)
 |4T7|DESMOND NG BOON TIONG|[ng_boon_tiong_a@moe.edu.sg](mailto:ng_boon_tiong_a@moe.edu.sg)
 |4T7|EUDORA TAN|[tan_cijun_eudora@moe.edu.sg](mailto:tan_cijun_eudora@moe.edu.sg)
-|4T7|ANG EE HUP|[ang_ee_hup@moe.edu.sg](mailto:ang_ee_hup@moe.edu.sg)
-
 
 ##### Secondary 5
 
