@@ -33,17 +33,17 @@ Except for medical reasons, an attendance rate of less than 50% would constitute
 		 
 [<img src="/images/ConcertBand.png" style="width:20%;float:left">](/cca/Aesthetic/Concert-Band/)
 		 
-[<img src="/images/ModernDance.png" style="width:20%;float:left">](/cca/Aesthetic/Modern-Dance/)
+[<img src="/images/ModernDance.png" style="width:25%;float:left">](/cca/Aesthetic/Modern-Dance/)
 		 
-[<img src="/images/EnglishDrama.png" style="width:20%">](/cca/Aesthetic/English-Drama/)
+[<img src="/images/EnglishDrama.png" style="width:25%">](/cca/Aesthetic/English-Drama/)
 
 |  |  |  |
 | -------- | -------- | -------- |
 
 #### **Clubs**
 
-[<img src="/images/audio.png" style="width:25%;float:left">](/cca/Clubs/Audio-Visual-Lights/)
-[<img src="/images/tinkersclub.png" style="width:25%;float:left">](/cca/Clubs/Tinkers-Club/)
+[<img src="/images/audio.png" style="width:20%;float:left">](/cca/Clubs/Audio-Visual-Lights/)
+[<img src="/images/tinkersclub.png" style="width:20%;float:left">](/cca/Clubs/Tinkers-Club/)
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -62,6 +62,6 @@ Except for medical reasons, an attendance rate of less than 50% would constitute
 
 #### **Uniformed Groups**
 
-[<img src="/images/ncclogo.png" style="width:30%;float:left">](/cca/Uniformed-Groups/National-Cadet-Corps/)
-[<img src="/images/npcclogo.png" style="width:30%;float:left">](/cca/Uniformed-Groups/National-Police-Cadet-Corps/)
-[<img src="/images/ncdcclogo.png" style="width:30%;float:left">](/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/)
+[<img src="/images/ncclogo.png" style="width:25%;float:left">](/cca/Uniformed-Groups/National-Cadet-Corps/)
+[<img src="/images/npcclogo.png" style="width:25%;float:left">](/cca/Uniformed-Groups/National-Police-Cadet-Corps/)
+[<img src="/images/ncdcclogo.png" style="width:25%;float:left">](/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/)
