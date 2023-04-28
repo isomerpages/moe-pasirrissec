@@ -4,7 +4,9 @@ permalink: /e-open-house/FAQ-and-Enquiries/
 description: ""
 ---
 If you have further inquiries, please click&nbsp;[here](http://gg.gg/eOH_enquiries).  
-  
+
+FAQ 2023 - Please click [here](/files/FAQs\_e-Open%20House%202022Nov%20\_9%20Nov%2022.pdf) to view the FAQs.
+
 FAQ 2022 - Please click&nbsp;[here](/files/FAQs\_e-Open%20House%202022Nov%20\_9%20Nov%2022.pdf)&nbsp;to view the FAQs.&nbsp;
 
 FAQ 2021 - Please click&nbsp;[here](/files/e-Open%20House%202021%20Nov\_FAQs.pdf)&nbsp;to view the FAQs.&nbsp;
