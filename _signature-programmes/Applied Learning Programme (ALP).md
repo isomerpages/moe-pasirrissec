@@ -66,4 +66,4 @@ _Bottom right:&nbsp;Our #Ruminate gallery where students can learn more about co
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1u2bqYOlYKGSmtsRYOwCuHjLjR_YirObR0Xidi6O1y4g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-[Click here](/useful-links/direct-school-admission-dsa/dsa-alp-in-humanities-and-english-language/) to find out how you can join PRSS through our Direct School Admission in ALP.
+[Click here](/useful-links/direct-school-admission-dsa/dsa-alp-in-humanities-and-english-language) to find out how you can join PRSS through our Direct School Admission in ALP.
