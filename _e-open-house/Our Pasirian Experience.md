@@ -3,6 +3,11 @@ title: Our Pasirian Experience
 permalink: /e-open-house/Our-Pasirian-Experience/
 description: ""
 ---
+### DSA VLOG
+
+https://youtu.be/OXW8GQrnhn4
+
+
 ### SCHOOL CORPORATE VIDEO
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GOF8jI49lWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
