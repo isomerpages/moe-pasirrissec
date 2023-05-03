@@ -38,6 +38,7 @@ To expose students to the glee and glamour of working in a theatre production, s
 * SYF (AP) Drama 2017: Certificate of Commendation
 * SYF (AP) Drama 2019: Certificate of Distinction
 * SYF (AP) Drama 2021: Certificate of Distinction &amp; Certificate of Accomplishment  
+* SYF (AP) Drama 2023: Certificate of Distinction
 
 ### Schedule
 
