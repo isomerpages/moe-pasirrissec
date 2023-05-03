@@ -2,10 +2,10 @@ collections:
   e-open-house:
     output: true
     order:
-      - DSA Talent Areas.md
       - DSA e Open House 2023.md
       - Principal's Welcome Message.md
       - Principal Presentation.md
       - Campus Tour.md
       - Our Pasirian Experience.md
       - FAQ & Enquiries.md
+      - DSA Talent Areas.md
