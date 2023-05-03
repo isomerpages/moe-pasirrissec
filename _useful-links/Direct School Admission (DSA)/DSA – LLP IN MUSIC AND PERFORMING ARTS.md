@@ -14,7 +14,7 @@ With our firm belief in maximizing our Pasirians’ potential, talented Pasirian
 
 If you are talented in Music and the Performing Arts and wish to shine in a supportive environment, we invite you to join our Pasirian family.
 
-![](/images/LLP%20collage.png)
+![DSA Performing Arts Main Pic](/images/DSA/dsa%20perf%20arts%20main%20pic.jpg)
 
 #### **LLP Talent Areas**
 
@@ -30,7 +30,7 @@ If you are talented in Music and the Performing Arts and wish to shine in a supp
 
 Applicants must:
 
-*   Have a keen sense of aesthetics, potential and interest to deepen knowledge and skill in music or one of the performing arts.&nbsp;
+*   Have a keen sense of aesthetics, potential and interest to deepen knowledge and skill in music or one of the performing arts.
 *   Demonstrate positive personal dispositions and learning attitudes towards music and the performing arts.
 
 Students without any prior experience or formal training in the performing arts but demonstrate the above traits are encouraged to apply.
