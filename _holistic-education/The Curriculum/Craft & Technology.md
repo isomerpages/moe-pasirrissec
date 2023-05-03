@@ -1,5 +1,5 @@
 ---
-title: Craft &amp; Technology
+title: Craft & Technology
 permalink: /holistic-education/The-Curriculum/Craft-and-Technology/
 description: ""
 third_nav_title: The Curriculum
@@ -197,9 +197,9 @@ Art student putting up his finishing touch on his final artwork (his installatio
 
 <p>At PRSS, we believe that our students have the innate ability to express themselves musically. Through our exciting and comprehensive music programmes, we aim to develop them with musical and extra-musical skills such as critical thinking, psychomotor, social awareness, moral and cultural values. All of these skills and values will lead towards the holistic development of a child.</p>
 	
-### <p>Music Programmes @PRSS</p>
+### Music Programmes @PRSS
 	
-#### <p>The Lower Secondary Music Syllabus</p>
+#### **The Lower Secondary Music Syllabus**
 	
 1. <p>Secondary One (Express and Normal Academic)</p>
 
@@ -219,39 +219,39 @@ Art student putting up his finishing touch on his final artwork (his installatio
 	
 <img src="/images/keyboard%202.jpeg">
 	
-### <p>Uniquely N(T) Music @PRSS</p>
+### Uniquely N(T) Music @PRSS
 
 <b><p>Normal (Technical) Stream</p></b>
 
 <p>The Music Programme for Normal (T) students is spread over 4 years, with the option for students to take up NT Music elective subject in Upper Secondary.  </p>
 
-##### <p>Secondary 1</p>
+#### **Secondary One**
 
 <p>Our students will attend ukulele and keyboard lessons, where they learn basic playing skills through pop songs.</p>
 	
 <img src="/images/ukulele.jpeg">
 	
-##### <p>Secondary Two</p>
+#### **Secondary Two**
 
 <p>Our students continue to build on their instrumental skills as they work with acoustic as well virtual instruments on the GarageBand (available on Apple devices) to arrange and showcase their work in groups.</p>
 	
 <img src="/images/GarageBand.jpeg">
 	
-##### <p>N(T) Level Music (Upper Secondary)</p>
+#### N(T) Level Music (Upper Secondary)
 
 <p>This subject is offered to our interested 3NT students as their elective subject during the Secondary Two streaming exercise. The programme allow students to deepen their skills in reading, analyzing and reproducing music of different forms, and more importantly, to become active listeners who can readily interact with music of different genres. Where possible, these students will be provided opportunities to showcase their musical creation and improvisation via both physically (Lunchtime concert) or digitally (via youtube).</p>
 	
 <img src="/images/traditional%20instruments%201.jpeg">
 	
-# <p>Highlights</p>
+### Highlights
 
-#### <p>PRSS 35th Anniversary Celebration – MUSEIT: Homecoming</p>
+#### **PRSS 35th Anniversary Celebration – MUSEIT: Homecoming**
 
 <p>In celebration of the school’s 35th birthday, we invited students who graduated from the N Level Music class in 2019 and 2020 to collaborate and perform with current students from the 4NT music class. The experience and exposure allowed students to learn and discuss music at a greater level!</p>
 	
 <img src="/images/A_student.jpeg">
 	
-#### <p>Lunchtime Concert - MUSEIT: Season Three, Episode 2</p>
+#### **Lunchtime Concert - MUSEIT: Season Three, Episode 2**
 
 <p>Featuring our Secondary One Lower Secondary Music Syllabus and N(T) music students.</p>
 
