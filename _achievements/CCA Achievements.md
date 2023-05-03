@@ -7,12 +7,8 @@ description: ""
 
 | **No** | **Co-Curriculur Activity / Student** | **Programme / Competition / Award** |
 | -------- | -------- | -------- |
-| 1 | **Concert Band** | ***SYF 2023*** <br>Certificate of Distinction |
-| 2 | **Chinese Orchestra** | ***SYF 2023*** <br> Certificate of Distinction |
-| 3 | **Choir** | ***SYF 2023***  <br>Certificate of Distinction |
-| 4 | **English Drama** | ***SYF 2023*** <br> Certificate of Distinction |
-| 5 | **Modern Dance** | ***SYF 2023*** <br>Certificate of Accomplishment |
-| 6 | **NPCC** | ***SPF-NPCC Badge Award 2023*** <br>- SI (NPCC) Su Jing Ning Janelle <br> - SSGT (NPCC) Aw En Zi Charlotte<br> - SGT (NPCC) Rebekah Wee Yong Yi |
+ | 1 | **Aesthetics CCA Groups** |  **Singapore Youth Art Presentation Festival 2023** <br> - **Concert Band** Certificate of Distinction<br> - **Chinese Orchestra** Certificate of Distinction <br> - **Choir** Certificate of Distinction <br> - **English Drama** Certificate of Distinction <br> - **Modern Dance** Certificate of Accomplishment |
+| 2 | **NPCC** | **SPF-NPCC Badge Award 2023** <br>- SI (NPCC) Su Jing Ning Janelle <br> - SSGT (NPCC) Aw En Zi Charlotte<br> - SGT (NPCC) Rebekah Wee Yong Yi |
 
 ### **2022**
 
