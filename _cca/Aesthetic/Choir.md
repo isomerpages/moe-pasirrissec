@@ -27,6 +27,7 @@ In PRSS, every year is an exciting year for the choir with an array of activitie
 * SYF 2015: Certificate of Distinction
 * SYF 2017: Certificate of Distinction
 * SYF 2019: Certificate of Distinction
+* SYF 2023: Certificate of Distinction
 
 ### Schedule
 
