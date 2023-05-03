@@ -37,6 +37,7 @@ We have a busy schedule every year and we pride ourselves in presenting the best
 * SYF 2017: Certificate of Distinction  
 * SYF 2019: Certificate of Accomplishment
 * SYF 2021: Certificate of Accomplishment  
+* SYF 2023: Certificate of Accomplishment  
 
 ### Schedule
 
