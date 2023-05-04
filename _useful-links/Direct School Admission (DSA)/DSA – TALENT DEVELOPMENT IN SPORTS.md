@@ -55,7 +55,7 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 
 | **Activity** | **Dates** | 
 | -------- | -------- | 
-| Application through the centralised DSA-Sec Portal <br> Mainstream students: [https://go.gov.sg/apply-dsa-sec](https://go.gov.sg/apply-dsa-sec)<br> Non-mainstream students: [https://go.gov.sg/apply-dsa-sec-nms](https://go.gov.sg/apply-dsa-sec-nms) | 4 May 2023, 11am – 31 May 2023, 3pm | 
+| Application through the centralised DSA-Sec Portal <br> Mainstream students: <br>[https://go.gov.sg/apply-dsa-sec](https://go.gov.sg/apply-dsa-sec)<br> Non-mainstream students: <br>[https://go.gov.sg/apply-dsa-sec-nms](https://go.gov.sg/apply-dsa-sec-nms) | 4 May 2023, 11am – 31 May 2023, 3pm | 
 | Notification of Interview/ Audition/ Trial for shortlisted applicants | 26 Jun 2023 - 8 Sep 2023 | 
 | Outcome of application (Confirmed Offer, Waiting List, Rejected) | By 11 Sep 2023 | 
 | Students with CO or WL offer will receive notification on the School Preference Submission | End Oct 2023 | 
