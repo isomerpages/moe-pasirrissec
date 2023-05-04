@@ -48,12 +48,10 @@ PRSS has the&nbsp;4E Development Plan&nbsp;to promote school-wide progression in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rHNnRwcqwJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<img src="/images/Angklung%202.jpeg" style="width:50%;float:left">
-<img src="/images/Traditional%20Drumming.jpeg" style="width:50%">
+<img src="/images/Angklung%202.jpeg" style="width:45%;float:left">
+<img src="/images/Traditional%20Drumming.jpeg" style="width:50%"><br>
+<img src="/images/llp.jpeg" style="width:45%;float:left">
+<img src="/images/llp2.jpeg" style="width:45%">
 		 
-<img src="/images/llp.jpeg" style="width:50%;float:left">
-<img src="/images/llp2.jpeg" style="width:50%">
-		 
-![](/images/Indian%20Drumming.jpeg)
 
 [Click here](/useful-links/direct-school-admission-dsa/dsa-llp-in-music-and-performing-arts) to find out how you can join PRSS through our Direct School Admission in LLP.
