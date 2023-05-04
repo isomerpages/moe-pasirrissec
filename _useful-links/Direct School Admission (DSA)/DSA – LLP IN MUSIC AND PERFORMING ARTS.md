@@ -20,7 +20,7 @@ If you are talented in Music and the Performing Arts and wish to shine in a supp
 
 | DSA Main Category | DSA Talent Area |
 | -------- | -------- | 
-| Performing Arts     | [Modern&nbsp;Dance](/cca/Aesthetic/Modern-Dance/)     |
+| Performing Arts | [Modern&nbsp;Dance](/cca/Aesthetic/Modern-Dance/)     |
 |Performing Arts|[English&nbsp;Drama](/cca/Aesthetic/English-Drama/)|
 |Performing Arts|[Chinese&nbsp;Orchestra](/cca/Aesthetic/Chinese-Orchestra/)
 |Performing Arts|	[Choir](/cca/Aesthetic/Choir/)
