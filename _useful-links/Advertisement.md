@@ -3,7 +3,6 @@ title: Advertisement
 permalink: /useful-links/advertisement/
 description: ""
 ---
-
 **School Canteen Advertisement**
 
 
@@ -27,7 +26,7 @@ description: ""
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
 3\. Submit the completed application form and documents by closing date via email OR to the School's General Office.  
-Address: 390 Tampines Street 21, Singapore 529400 
+Address: 390 Tampines Street 21, Singapore 529400   
 Contact No: 65010800  
 Email: [prss@moe.edu.sg](mailto:prss@moe.edu.sg)  
 Contact Person: Mr Desmond Ho 
@@ -58,4 +57,3 @@ Green & Blue Line: Alight at Tampines MRT Station and we are just a stone’s th
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).  
 * Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.
 * * *
-
