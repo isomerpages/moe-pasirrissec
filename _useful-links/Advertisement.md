@@ -14,7 +14,7 @@ description: ""
 **Application Procedure**
 
 1\. Download and complete the application form. You may also request for hardcopy form at the School’s General Office.  
- \[[Application Form](/files/application%20for%20school%20canteen%20stall.pdf)]
+ [Application Form](/files/application%20for%20school%20canteen%20stall.pdf)
  
 
 2\. Attached the following documents together with the application form:
@@ -26,7 +26,7 @@ description: ""
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
 3\. Submit the completed application form and documents by closing date via email OR to the School's General Office.  
-Address: 390 Tampines Street 21, Singapore 529400   
+Address: 390 Tampines Street 21, Singapore 529400      
 Contact No: 65010800  
 Email: [prss@moe.edu.sg](mailto:prss@moe.edu.sg)  
 Contact Person: Mr Desmond Ho 
