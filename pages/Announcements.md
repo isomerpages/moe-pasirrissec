@@ -5,7 +5,7 @@ description: ""
 ---
 #### Collection of School Graduation Certificate (SGC) for 2022 Cohort
 
-Students from 2022 Sec 4 Express and Normal Technical cohorts may collect their SGC from the school General Office during office hours.
+Students from 2022 Sec 4Exp, Sec 4NT, and 5NT cohorts may collect their SGC from the school General Office during office hours
 
 #### 2023 Term 2 Timetable (wef 3 April)
 

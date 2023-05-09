@@ -56,8 +56,8 @@ Except for medical reasons, an attendance rate of less than 50% would constitute
 [<img src="/images/badminton.png" style="width:25%;float:left">](/cca/Sports-and-Games/Badminton/)
 
 <br><br><br><br><br><br><br><br>
-<br><br><br><br>
-
+<br><br><br><br><br><br>
+<br><br>
 #### **Uniformed Groups**
 
 [<img src="/images/ncclogo.png" style="width:25%;float:left">](/cca/Uniformed-Groups/National-Cadet-Corps/)
