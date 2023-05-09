@@ -66,7 +66,7 @@ Professional Development includes department learning journey, open classroom, p
 ### Photos
 
 ![](/images/CNY%20Celebrations%202022.jpeg)
-![](/images/Raya%20Celebrations.png)
+
 ![](/images/mothertongue2.png)
 ![](/images/Deepavali.jpeg)
 ![](/images/Reading%20Programme.jpeg)
