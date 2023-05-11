@@ -9,7 +9,7 @@ description: ""
 
 | Type of Stalls | Closing Date | Requirements|
 | -------- | -------- | -------- |
-|  Stall X  |  xx May 2023  |  Sell xx items  |
+|    |   |   |
 
 **Application Procedure**
 
