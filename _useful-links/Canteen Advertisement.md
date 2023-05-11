@@ -1,6 +1,6 @@
 ---
-title: Advertisement
-permalink: /useful-links/advertisement/
+title: Canteen Advertisement
+permalink: /useful-links/canteenadvertisement/
 description: ""
 ---
 **School Canteen Advertisement**
@@ -9,7 +9,7 @@ description: ""
 
 | Type of Stalls | Closing Date | Requirements|
 | -------- | -------- | -------- |
-|  Stall X  |  xx May 2023  |  Sell xx items  |
+|    |   |   |
 
 **Application Procedure**
 

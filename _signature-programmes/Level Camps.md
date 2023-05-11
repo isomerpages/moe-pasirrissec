@@ -11,7 +11,9 @@ In Camp Oneiric, we are sure that the Secondary Ones will enjoy and have a memor
 
 Camp Oneiric offers plenty of opportunities for our students to step beyond their comfort zones and become independent and confident learners. Some of the highlights from this camp include making the dream catcher, Kin Ball, Amazing Race, Aesthetic Induction program, and music-making sessions. These activities will establish stronger bonds between classmates and their teachers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jJETGvS0lTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/L0XWh_oOCB0" height="315" width="560"></iframe>
+
+<!--iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jJETGvS0lTw" height="315" width="560"-->
 
 #### Sec 2 - Camp Spark
 
