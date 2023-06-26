@@ -28,7 +28,7 @@ Should you require **Counselling or learning & behavioural support**, you may c
 
 2\. School Counsellor/ AED LBS: 6501 0839
 
-3\. ECG Counsellor: syahril\_samsudin@moe.edu.sg
+3\. ECG Counsellor: syahril_samsudin@moe.edu.sg
 
 **Direction to get to school**
 
