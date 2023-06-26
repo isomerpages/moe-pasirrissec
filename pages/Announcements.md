@@ -18,7 +18,7 @@ Please click [here](/files/Announcements/2023/2023%20sem2%20bl%20tt%20v1-classse
 Students from 2022 Sec 4NA, 4E, 4NT, and 5NA cohorts may collect their SGC from the school General Office during office hours (7.30am - 5pm)
 
 
-#### 2023 Newsflash – Term 2
+#### 2023 Newsflash – Term 3
 
 Please click [here](/files/Useful%20Links/Newsflash/newsflash%20term%202%202023_final.pdf) to view.
 
