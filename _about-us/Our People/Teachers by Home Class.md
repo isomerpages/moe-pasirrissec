@@ -14,7 +14,7 @@ third_nav_title: Our People
 |1A2|VINCENT YEW KAH KEAT|[yew_kah_keat_vincent@moe.edu.sg](mailto:yew_kah_keat_vincent@moe.edu.sg)
 |1A2|YEONG WEI SYN|[yeong_wei_syn@moe.edu.sg](mailto:yeong_wei_syn@moe.edu.sg)
 |1E3|HANNAH LUM WAN LING|[lum_wan_ling_hannah@moe.edu.sg](mailto:lum_wan_ling_hannah@moe.edu.sg)
-|1E3|FILZAH BINTE YAHYA|[filzah_yahaya@moe.edu.sg](mailto:filzah_yahaya@moe.edu.sg)
+|1E3|JONATHAN NG|[ng_tian_loong_jonathan@moe.edu.sg ](mailto:ng_tian_loong_jonathan@moe.edu.sg)
 |1E3|QUAH WEI WEE|[quah_wei_wee@moe.edu.sg](mailto:quah_wei_wee@moe.edu.sg)
 |1E4|KIMBERLYN LEE|[kimberlyn_lee@moe.edu.sg](mailto:kimberlyn_lee@moe.edu.sg)
 |1E4|LEE WEI WEI|[lee_wei_wei@moe.edu.sg](mailto:lee_wei_wei@moe.edu.sg)
@@ -22,9 +22,8 @@ third_nav_title: Our People
 |1E5|NORAIDAH BTE SUWANDI|[noraidah_suwandi@moe.edu.sg](mailto:noraidah_suwandi@moe.edu.sg)
 |1E6|WINSTON CHIANG|[winston_chiang_ming_yao@moe.edu.sg](mailto:winston_chiang_ming_yao@moe.edu.sg)
 |1E6|BUGANESWARI SOMO PILLAY|[buganeswari_somo_pillay@moe.edu.sg](mailto:buganeswari_somo_pillay@moe.edu.sg)
-|1T7|CINDY SOH SOCK KHENG|[soh_sock_kheng@moe.edu.sg](mailto:soh_sock_kheng@moe.edu.sg)
 |1T7|ANDY LAW|[law_andy@moe.edu.sg](mailto:law_andy@moe.edu.sg)
-|1T7|ZULKIFLI BIN MOHAMED SAAT |[zulkifli_mohamed_saat@moe.edu.sg](mailto:zulkifli_mohamed_saat@moe.edu.sg)
+|1T7|DANIEL NG |[ng_tze_keen_daniel@moe.edu.sg](mailto:ng_tze_keen_daniel@moe.edu.sg)
 |1T7|HAZMI BIN HAROON|[hazmi_haroon@moe.edu.sg](mailto:hazmi_haroon@moe.edu.sg)
 
 
@@ -42,11 +41,10 @@ third_nav_title: Our People
 |2E4|SITI SARAH BTE MAMAT|[siti_sarah_mamat@moe.edu.sg](mailto:siti_sarah_mamat@moe.edu.sg)
 |2E5|NUR NADIAH BTE ADANAN|[nur_nadiah_adanan@moe.edu.sg](mailto:nur_nadiah_adanan@moe.edu.sg)
 |2E5|WANG XIANGKUN|[wang_xiangkun@moe.edu.sg](mailto:wang_xiangkun@moe.edu.sg)
-|2E6|WENDY KOH JIE LIN|[wong_jie_lin@moe.edu.sg](mailto:wong_jie_lin@moe.edu.sg)
+|2E6|WENDY WONG JIE LIN|[wong_jie_lin@moe.edu.sg](mailto:wong_jie_lin@moe.edu.sg)
 |2E6|MOHAMED ISKANDAR	|[mohamed_iskandar_ahmad@moe.edu.sg](mailto:mohamed_iskandar_ahmad@moe.edu.sg)
 |2T7|JASLIN JIANG WEI YEOW|[jiang_wei_yeow@moe.edu.sg](mailto:jiang_wei_yeow@moe.edu.sg)
 |2T7|DANIEL CHNG WEI MIN|[chng_wei_min_daniel@moe.edu.sg](mailto:chng_wei_min_daniel@moe.edu.sg)
-|2T7|NADIRAH JAMALLODIN	|[nadirah_a@moe.edu.sg](mailto:nadirah_a@moe.edu.sg)
 |2T7|DESIREE OH	|[oh_yi_ting_desiree@moe.edu.sg](mailto:oh_yi_ting_desiree@moe.edu.sg)
 
 ##### Secondary 3
@@ -89,7 +87,6 @@ third_nav_title: Our People
 |4E6|SABRINA HO|[ho_yen_yin_sabrina@moe.edu.sg](mailto:ho_yen_yin_sabrina@moe.edu.sg)
 |4E6|KEVIN KOK WAI KEONG|[Kok_Wai_Keong_Kevin@moe.edu.sg](mailto:Kok_Wai_Keong_Kevin@moe.edu.sg)
 |4T7|DESMOND NG BOON TIONG|[ng_boon_tiong_a@moe.edu.sg](mailto:ng_boon_tiong_a@moe.edu.sg)
-|4T7|EUDORA TAN|[tan_cijun_eudora@moe.edu.sg](mailto:tan_cijun_eudora@moe.edu.sg)
 
 ##### Secondary 5
 
