@@ -5,12 +5,11 @@ description: ""
 ---
 #### **Bookshop**
 
-**Popular Book Company Pte Ltd**
+**Pacific Bookstores Pte Ltd**
 <br>Daily sales at school bookshop from 7 am to 3.00pm
-<br>Tel: 65146735 or Popular's Office (64629529/30) 
-<br>Fax: 65874957
+<br>Tel: Pacific's Office (69298012)
 
-Website:&nbsp;[www.popular.com.sg](http://www.popular.com.sg/)
+Website:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/)
 
   
 
