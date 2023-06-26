@@ -20,7 +20,7 @@ Students from 2022 Sec 4NA, 4E, 4NT, and 5NA cohorts may collect their SGC from 
 
 #### 2023 Newsflash – Term 3
 
-Please click [here](/files/Useful%20Links/Newsflash/newsflash%20term%202%202023_final.pdf) to view.
+Please click [here]([](/files/Useful%20Links/Newsflash/term%203%20-%20newsflash.pdf)) to view.
 
 #### 2023 Semester 1 BL Day Timetable
 
