@@ -2,6 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
+      - School Admission.md
       - Event for Parents.md
       - Parent Support Group.md
       - Cyber Wellness.md
