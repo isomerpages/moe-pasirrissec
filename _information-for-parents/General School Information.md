@@ -7,7 +7,7 @@ description: ""
 
 **Pacific Bookstores Pte Ltd**
 <br>Daily sales at school bookshop from 7 am to 3.00pm
-<br>Tel: Pacific's Office (69298012)
+<br>Tel: 90479319 (School Bookshop) or 69298012 (Pacific's Office)
 
 Website:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/)
 
