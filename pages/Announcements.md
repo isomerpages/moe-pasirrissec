@@ -3,15 +3,14 @@ title: Announcements
 permalink: /Announcements/
 description: ""
 ---
+#### 2023 Semester 2 Timetable 
+
+Please click  for 2023 Semester 2 Timetable
+
+
 #### 2023 Newsflash – Term 3
 
 Please click [here](/files/Useful%20Links/Newsflash/term%203%20-%20newsflash.pdf) to view.
-
-#### 2023 Term 3 Week 1 Timetable (26/6 - 30/6)
-
-Secondary  1 Classes:  Please click [here](/files/Announcements/2023/term%203%20week%201%20timetable%20for%20s1.pdf)
-
-Secondary  2 - 5 Classes:  Please click [here](/files/Announcements/2023/term%203%20week%201%20timetable%20for%20s2%20-%205.pdf)
 
 #### 2023 Semester 2 Blended Learning Timetable
 
