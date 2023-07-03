@@ -5,7 +5,7 @@ description: ""
 ---
 #### 2023 Term 3 Timetable 
 
-Please click  for 2023 Term 3 Timetable
+Please click [here](/files/Announcements/term%203%20tt%20wef%203%20jul%20for%20classes%20final%201.pdf) for 2023 Term 3 Timetable
 
 
 #### 2023 Newsflash – Term 3
