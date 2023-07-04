@@ -5,8 +5,7 @@ description: ""
 ---
 **2023**  
 [Term 3 - Newsflash]
-
-<br>
+(/files/Useful%20Links/Newsflash/newsflash%20term%203%202023_final.pdf)<br>
 [Term 2 - Newsflash](/files/Useful%20Links/Newsflash/newsflash%20term%202%202023_final.pdf)<br>
 [Term 1 - Newsflash](/files/Useful%20Links/Newsflash/newsflash%20term%202%202023_final.pdf)
 
