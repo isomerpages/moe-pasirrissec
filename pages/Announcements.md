@@ -10,7 +10,7 @@ Please click [here](/files/Announcements/term%203%20tt%20wef%203%20jul%20for%20c
 
 #### 2023 Newsflash – Term 3
 
-Please click [here](/files/Useful%20Links/Newsflash/term%203%20-%20newsflash.pdf) to view.
+Please click [here](/files/term%203%20-%20newsflash_final.pdf) to view.
 
 #### 2023 Semester 2 Blended Learning Timetable
 
