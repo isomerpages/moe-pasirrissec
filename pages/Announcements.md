@@ -9,7 +9,7 @@ Please click [here]((/files/Announcements/2023%204na%20prelim%20timetable_11jul)
 
 #### 2023 4NT Prelim Timetable
 
-Please click [here]((/files/Announcements/2023 %204nt%20prelim%20timetable_11 jul)
+Please click [here](((/files/Announcements/2023%204nt%20prelim%20timetable_11jul))
 
 #### 2023 Term 3 Timetable 
 
