@@ -5,7 +5,7 @@ description: ""
 ---
 ####  2023 4E Prelim Timetable
 
-Please click 
+Please click [here](files/Announcements/2023/2023%204e5n%20prelim%20timetable_19%20jul.pdf)
 
 #### 2023 4NA Prelim Timetable
 
