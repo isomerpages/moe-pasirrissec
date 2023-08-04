@@ -12,3 +12,4 @@ description: ""
 |11 Mar 2023|Sec 4 & 5|Parents Engagement Session Post Education Pathways & EAE / DSA Sharing|[Engagement Slide](/files/Information%20for%20Parents/Event%20for%20Parents/sec%204%20%205%20ecg%20briefing_11%20mar%202023.pdf)
 |7 Jul 2023|Sec 3|Second Breakfast Session with Parents of Sec 3 Students|[Second Breakfast Session Slide - Sec 3](/files/Information%20for%20Parents/Event%20for%20Parents/second%20breakfast%20session%20sec%203.pdf)
 | 15 July 2023  | Upper Sec | Education and Career Guidance Talk for Parents |[ECG Slides](files/Information%20for%20Parents/Event%20for%20Parents/ecgtalkforparents_15July2023.pdf)|
+| 14 July 2023     | Sec 2     | Parents Engagement Session| [Engagement Slides](/files/Information%20for%20Parents/Event%20for%20Parents/s2streaming_slides_2023.pdf)
