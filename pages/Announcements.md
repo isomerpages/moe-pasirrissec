@@ -5,7 +5,7 @@ description: ""
 ---
 ####  Adjustments to School Timetable for 30 Aug (Wed) and 31 Aug (Thurs) 2023 
 
-Please click [here](/files/Announcements/2023/2023%204e5n%20prelim%20timetable_19jul.pdf)
+Please click [here](/files/Announcements/2023/adjustments%20to%20sch%20timetable%20for%2030-31%20aug.pdf)
 
 ####  2023 4E Prelim Timetable
 
