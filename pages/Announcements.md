@@ -3,29 +3,25 @@ title: Announcements
 permalink: /Announcements/
 description: ""
 ---
-
-
-
-
 #### 2023 S1-3 End of Year Exam Timetable
 
 |Sec 1  |      |
 | -------- | -------- |
-| Sec 1 Express  | [Sec 1 Express EYE Timetable](Files/Announcements/2023/2023%201e%20eye%20timetable_4sep.pdf)  
-| Sec 1 Normal Academic  | [Sec 1 Normal Academic EYE Timetable](Files/Announcements/2023/2023%201na%20eye%20timetable_4sep.pdf)
-| Sec 1 Normal Technical | [Sec 1 Normal Technical EYE Timetable]( Files/Announcements/2023/2023%201nt%20eye%20timetable_4sep.pdf) |
+| Sec 1 Express | [Sec 1 Express EYE Timetable](/files/Announcements/2023/2023%201e%20eye%20timetable_4sep.pdf)|
+| Sec 1 Normal Academic | [Sec 1 Normal Academic EYE Timetable](/files/Announcements/2023/2023%201na%20eye%20timetable_4sep.pdf) |
+| Sec 1 Normal Technical | [Sec 1 Normal Technical EYE Timetable](/files/Announcements/2023/2023%201nt%20eye%20timetable_4sep.pdf) |
 
 |Sec 2  |      |
 | -------- | -------- |
-| Sec 2 Express | [Sec 2 Express EYE Timetable](Files/Announcements/2023/2023%202e%20eye%20timetable_4sep.pdf) |
-| Sec 2 Normal Academic | [Sec 2 Normal Academic EYE Timetable](Files/Announcements/2023/2023%202na%20eye%20timetable_4sep.pdf) |
-| Sec 2 Normal Technical | [Sec 2 Normal Technical EYE Timetable](Files/Announcements/2023/2023%202nt%20eye%20timetable_4sep.pdf)  |
+| Sec 2 Express | [Sec 2 Express EYE Timetable](/files/Announcements/2023/2023%202e%20eye%20timetable_4sep.pdf) |
+| Sec 2 Normal Academic | [Sec 2 Normal Academic EYE Timetable](/files/Announcements/2023/2023%202na%20eye%20timetable_4sep.pdf)|
+| Sec 2 Normal Technical | [Sec 2 Normal Technical EYE Timetable](/files/Announcements/2023/2023%202nt%20eye%20timetable_4sep.pdf)|
 
 |Sec 3  |      |
 | -------- | -------- |
-| Sec 3 Express | [Sec 3 Express EYE Timetable](Files/Announcements/2023/2023%203e%20eye%20timetable_4sep.pdf) |
-| Sec 3 Normal Academic |[Sec 3 Normal Academic EYE TimeTable](Files/Announcements/2023/2023%203na%20eye%20timetable_4sep.pdf) |
-| Sec 3 Normal Technical | [Sec 3 Normal Technical EYE Timetable ](Files/Announcements/2023/2023%203nt%20eye%20timetable_4sep.pdf) |
+| Sec 3 Normal Express | [Sec 3 Express EYE Timetable](/files/Announcements/2023/2023%203e%20eye%20timetable_4sep.pdf)|
+| Sec 3 Normal Academic | [Sec 3 Normal Academic EYE Timetable](/files/Announcements/2023/2023%203na%20eye%20timetable_4sep.pdf) |
+| Sec 3 Normal Technical | [Sec 3 Normal Technical EYE Timetable](/files/Announcements/2023/2023%203nt%20eye%20timetable_4sep.pdf) |
 
 ####  31 Aug 2023 (Thurs) Blended Learning Timetable  
 
