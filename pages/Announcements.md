@@ -3,6 +3,10 @@ title: Announcements
 permalink: /Announcements/
 description: ""
 ---
+#### 2023 Newsflash – Term 4
+
+Please click [here](/files/Announcements/Newsflash/2023%20term%204%20newsflash_final.pdf) to view.
+
 #### 2023 S1-3 End of Year Exam Timetable
 
 |Sec 1  |      |
