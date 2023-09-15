@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Device Management Application.md
       - Signature Programmes.md
       - National Digital Literacy Programme (NDLP).md
       - Applied Learning Programme (ALP).md
