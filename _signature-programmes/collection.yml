@@ -2,8 +2,8 @@ collections:
   signature-programmes:
     output: true
     order:
-      - National Digital Literacy Programme (NDLP).md
       - Signature Programmes.md
+      - National Digital Literacy Programme (NDLP).md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Interdisciplinary Project Work (IPW).md
