@@ -23,9 +23,9 @@ Please click [here](/files/Announcements/Newsflash/2023%20term%204%20newsflash_
 
 |Sec 3  |      |
 | -------- | -------- |
-| Sec 3 Normal Express | [Sec 3 Express EYE Timetable](/files/Announcements/2023/2023%203e%20eye%20timetable_4sep.pdf)|
-| Sec 3 Normal Academic | [Sec 3 Normal Academic EYE Timetable](/files/Announcements/2023/2023%203na%20eye%20timetable_4sep.pdf) |
-| Sec 3 Normal Technical | [Sec 3 Normal Technical EYE Timetable](/files/Announcements/2023/2023%203nt%20eye%20timetable_4sep.pdf) |
+| Sec 3 Normal Express |[Sec 3 Express EYE Timetable](/files/Announcements/2023/2023%203e%20eye%20timetable_13sep%20(final).pdf)|
+| Sec 3 Normal Academic | [Sec 3 Normal Academic EYE Timetable](/files/Announcements/2023/2023%203na%20eye%20timetable_13sep%20(final).pdf) |
+| Sec 3 Normal Technical | [Sec 3 Normal Technical EYE Timetable](/files/Announcements/2023/2023%203nt%20eye%20timetable_13sep%20(final).pdf)  |
 
 ####  31 Aug 2023 (Thurs) Blended Learning Timetable  
 
