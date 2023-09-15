@@ -3,6 +3,11 @@ title: Announcements
 permalink: /Announcements/
 description: ""
 ---
+#### Timetable for Graduating Classes 2023 with effect from 18 Sept 2023
+
+Please click [here](/files/Announcements/timetable%20for%20graduating%20classes%20wef%2018%20sep.pdf) to view.
+
+
 #### 2023 Newsflash – Term 4
 
 Please click [here](/files/Announcements/Newsflash/2023%20term%204%20newsflash_final.pdf) to view.
