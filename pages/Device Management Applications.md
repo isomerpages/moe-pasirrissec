@@ -10,9 +10,13 @@ description: ""
 #### DMA Resources for Parents who oboard the After-School Parents Options
 
 
-| Column 1 | Column 2 | 
+| DMA Options | Guide Links | 
 | -------- | -------- | 
-| Text     | Text     | 
+| Default  | [DMA Parent Guide - Default ](https://drive.google.com/file/d/1UqLVMv1Rn7OLPlSE7r57KUmhqy4D4GDS/view?usp=drive_link) | 
+| Option A | [DMA Parent Guide - Option A](https://drive.google.com/file/d/15Qv3EfGzCyMgaXoRPOjIYgoxcwckl2Vx/view?usp=drive_link) | 
+|  Option B | [DMA Parent Guide - Option B](https://drive.google.com/file/d/1USUfgYZWV6hkhyTNnzAhyjwpehLOVFxl/view?usp=drive_link)| 
 
-
-We hope that these videos will be useful for  supporting parents on managing their child’s Personal Learning Device (PLD).
+| Troubleshooting | Video Guide Links |
+| -------- | -------- | 
+| Account Password Reset | [Parent Account Password Reset](https://drive.google.com/file/d/1Z12ioBGk58D5Fo8kMoKmfv-P5AkkQK6B/view?usp=drive_link) | 
+| -------- | -------- | 
