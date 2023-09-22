@@ -10,8 +10,11 @@ This famous quote was often shared by members of our PSG Exco. It goes well with
 ##### **PARENT SUPPORT GROUP EXCO**
 
 
+This is the link to the registration form to join PSG in 2024.<br>
+[https://forms.gle/TYmVaAcWKN3BqHzQ6](https://forms.gle/TYmVaAcWKN3BqHzQ6)
 
-  
+![PSG Form Link](/images/psg%20form%20link.png)
+
 
 ##### **DADS FOR LIFE EXCO**
 CHAIRPERSON : Mr Wong Yew Kong, Edwin
