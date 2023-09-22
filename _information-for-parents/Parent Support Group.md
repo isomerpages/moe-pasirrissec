@@ -3,20 +3,33 @@ title: Parent Support Group
 permalink: /useful-links/Information-for-Parents/Parent-Support-Group/
 description: ""
 ---
-“ _Coming together is a beginning. Keeping together is progress. Working together is success._ ”
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; -&nbsp;Henry Ford
+“ Coming together is a beginning. Keeping together is progress. Working together is success. ” Henry Ford
 
-This famous quote was often shared by members of our PSG Exco.&nbsp; It goes well with our Partnership Framework of fostering synergistic partnership for win-win outcomes.
+This famous quote was often shared by members of our PSG Exco. It goes well with our Partnership Framework of fostering synergistic partnership for win-win outcomes.
 
 ##### **PARENT SUPPORT GROUP EXCO**
-CHAIRPERSON : Ms Ann Kwan
-<br>VICE CHAIRPERSON : Mdm Amy Jiang
-<br>SECRETARY 1 : Mrs Jenny Yang
-<br>SECRETARY 2 : Ms Ng Puay Hun, Sylvia
-<br>EXCO MEMBER&nbsp; : Ms Joanne Poh
 
+| **2023** |  |
+| -------- | -------- | 
+| CHAIRPERSON | Ms Ann Kwan | 
+| VICE CHAIRPERSON | Mr Soh Yew Hin | 
+| SECRETARY | Ms Sherene Tan |
+| EXCO MEMBER | Ms Joanne Poh | 
+|  | Mdm Grace Tan | &nbsp; 
+|  | Mrs Wendy Soh | &nbsp; 
 
-  
+| **2024** |  | 
+| -------- | -------- |
+| CHAIRPERSON  | Mdm Sherene Tan  | 
+| VICE CHAIRPERSON | Mr Soh Yew Hin | 
+| EXCO MEMBER | Ms Joanne Poh | 
+|  | Mdm Grace Tan | &nbsp; 
+|  | Mrs Wendy Soh | &nbsp; 
+
+Please click on the link below for the registration form to join PSG in 2024.<br>
+[https://forms.gle/TYmVaAcWKN3BqHzQ6](https://forms.gle/TYmVaAcWKN3BqHzQ6)
+
+![PSG Form Link](/images/psg%20form%20link.png)
 
 ##### **DADS FOR LIFE EXCO**
 CHAIRPERSON : Mr Wong Yew Kong, Edwin
