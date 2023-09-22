@@ -3,16 +3,12 @@ title: Parent Support Group
 permalink: /useful-links/Information-for-Parents/Parent-Support-Group/
 description: ""
 ---
-“ _Coming together is a beginning. Keeping together is progress. Working together is Henry Ford
+“ Coming together is a beginning. Keeping together is progress. Working together is success. ” Henry Ford
 
-This famous quote was often shared by members of our PSG Exco.&nbsp; It goes well with our Partnership Framework of fostering synergistic partnership for win-win outcomes.
+This famous quote was often shared by members of our PSG Exco. It goes well with our Partnership Framework of fostering synergistic partnership for win-win outcomes.
 
 ##### **PARENT SUPPORT GROUP EXCO**
-CHAIRPERSON : Ms Ann Kwan
-<br>VICE CHAIRPERSON : Mdm Amy Jiang
-<br>SECRETARY 1 : Mrs Jenny Yang
-<br>SECRETARY 2 : Ms Ng Puay Hun, Sylvia
-<br>EXCO MEMBER&nbsp; : Ms Joanne Poh
+
 
 
   
