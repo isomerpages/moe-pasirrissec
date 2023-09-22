@@ -9,12 +9,27 @@ This famous quote was often shared by members of our PSG Exco. It goes well with
 
 ##### **PARENT SUPPORT GROUP EXCO**
 
+| **2023** |  |
+| -------- | -------- | 
+| CHAIRPERSON | Ms Ann Kwan | 
+| VICE CHAIRPERSON | Mr Soh Yew Hin | 
+| SECRETARY | Ms Sherene Tan |
+| EXCO MEMBER | Ms Joanne Poh | 
+|  | Mdm Grace Tan | &nbsp; 
+|  | Mrs Wendy Soh | &nbsp; 
 
-This is the link to the registration form to join PSG in 2024.<br>
+| **2024** |  | 
+| -------- | -------- |
+| CHAIRPERSON  | Mdm Sherene Tan  | 
+| VICE CHAIRPERSON | Mr Soh Yew Hin | 
+| EXCO MEMBER | Ms Joanne Poh | 
+|  | Mdm Grace Tan | &nbsp; 
+|  | Mrs Wendy Soh | &nbsp; 
+
+Please click on the link below for the registration form to join PSG in 2024.<br>
 [https://forms.gle/TYmVaAcWKN3BqHzQ6](https://forms.gle/TYmVaAcWKN3BqHzQ6)
 
 ![PSG Form Link](/images/psg%20form%20link.png)
-
 
 ##### **DADS FOR LIFE EXCO**
 CHAIRPERSON : Mr Wong Yew Kong, Edwin
