@@ -10,7 +10,7 @@ Please click [here](/files/Announcements/timetable%20for%20graduating%20classes
 
 #### 2023 Newsflash – Term 4
 
-Please click [here](/files/Announcements/Newsflash/2023%20term%204%20newsflash_final.pdf) to view.
+Please click [here](/files/Announcements/Newsflash/term%204%20newsflash%202023_final.pdf) to view.
 
 #### 2023 S1-3 End of Year Exam Timetable
 
