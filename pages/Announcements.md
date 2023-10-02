@@ -3,6 +3,11 @@ title: Announcements
 permalink: /Announcements/
 description: ""
 ---
+#### Blended Learning Timetable for Class 4E3, 4E4, 5A1 on Wednesday, 4th October 2023
+
+Please click [here](/files/2023%20t4w4%20bl%204e34e45a1-classes.pdf) to view.
+
+
 #### Timetable for Graduating Classes 2023 with effect from 18 Sept 2023
 
 Please click [here](/files/Announcements/timetable%20for%20graduating%20classes%20wef%2018%20sep.pdf) to view.
