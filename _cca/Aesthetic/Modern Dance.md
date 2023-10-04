@@ -43,7 +43,7 @@ We have a busy schedule every year and we pride ourselves in presenting the best
 
 | Day | Time | Venue |
 | --- | --- | --- |
-| Monday / Thursday | 03.15pm - 06.15pm | AVA Room |
+| Monday / Thursday | 3.15pm - 6.00pm | AVA Room |
 
 ### Teachers-in-charge
 
