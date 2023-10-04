@@ -4,7 +4,19 @@ permalink: /holistic-education/The-Curriculum/Science/
 description: ""
 third_nav_title: The Curriculum
 ---
-### Programme
+### Learning Outcomes and Objectives
+
+1. Demonstrate a high level of curiosity in Science and a high level of motivation and concentration. 
+2. Make intuitive leaps in solving Science problems. 
+3. Comprehend abstract concepts beyond age level expectations and see connections between Science and other disciplines
+
+### Programme Highlights
+
+Science Experiential, Enrichment and Development Programme (SEED) which aims to promote interest and authentic learning in Science and Technology within and beyond the confines of the classroom
+
+### Achievements
+* Best Oral Defense Award' for USPE 2023
+* Bronze Award' for SISTEMIC 2023
 
 #### **Students as Inquirers, Teachers as Facilitators of Students’ Learning Experiences**
 
