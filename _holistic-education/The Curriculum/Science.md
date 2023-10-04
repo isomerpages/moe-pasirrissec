@@ -4,20 +4,6 @@ permalink: /holistic-education/The-Curriculum/Science/
 description: ""
 third_nav_title: The Curriculum
 ---
-### Learning Outcomes and Objectives
-
-1. Demonstrate a high level of curiosity in Science and a high level of motivation and concentration. 
-2. Make intuitive leaps in solving Science problems. 
-3. Comprehend abstract concepts beyond age level expectations and see connections between Science and other disciplines
-
-### Programme Highlights
-
-Science Experiential, Enrichment and Development Programme (SEED) which aims to promote interest and authentic learning in Science and Technology within and beyond the confines of the classroom
-
-### Achievements
-* Best Oral Defense Award' for USPE 2023
-* Bronze Award' for SISTEMIC 2023
-
 #### **Students as Inquirers, Teachers as Facilitators of Students’ Learning Experiences**
 
 The Science Department is committed to nurturing students who demonstrate a high level of curiosity in Science and a high level of motivation and concentration and can make intuitive leaps in solving Science problems. We also want our students to be able to comprehend abstract concepts beyond age level expectations and see connections between Science and other disciplines.
@@ -59,6 +45,13 @@ The programme is divided into three tiers:
 *   Customised field trips  
 *   National and international competitions  
     
+		
+### Learning Outcomes and Objectives
+
+1. Demonstrate a high level of curiosity in Science and a high level of motivation and concentration. 
+2. Make intuitive leaps in solving Science problems. 
+3. Comprehend abstract concepts beyond age level expectations and see connections between Science and other disciplines
+
 ### Programme Highlights
 
 Science Experiential, Enrichment and Development Programme (SEED) which aims to promote interest and authentic learning in Science and Technology within and beyond the confines of the classroom
@@ -90,6 +83,10 @@ Science Experiential, Enrichment and Development Programme (SEED) which aims to 
 * Science Process Skills Challenge - Silver
 * Sustainability Challenge - Silver
 * Interdisciplinary Group Project - Gold
+
+### Achievements
+* Best Oral Defense Award' for USPE 2023
+* Bronze Award' for SISTEMIC 2023
 
 ### The PRSS Ecogarden 
 
