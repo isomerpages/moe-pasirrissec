@@ -6,9 +6,9 @@ third_nav_title: Aesthetic
 ---
 ### About us
 
-Drama Club in Pasir Ris Secondary School is a multi-disciplinary club that focuses on nurturing students’ potential in creating productions and staging performances. As part of their training, students continuously develop their expertise in performance and stage management.
+Drama Club in Pasir Ris Secondary School focuses on nurturing students’ potential in creating drama productions and staging performances. As part of their training, students continuously develop their expertise in performance and stage management. 
 
-To expose students to the glee and glamour of working in a theatre production, students will get to be involved in either devising, performing or stage-managing a drama production every year. Students will also usually attend local drama productions, including plays from the M1 Peer Pleasure Youth Theatre Festival. Aside from watching plays, students have the opportunity to learn more about backstage management, ranging from lighting techniques to props design, and the pre-production process, including script writing and creating characters. At the end of four years in Drama Club, students will become more confident, well-spoken and creative individuals. These attributes have helped them charm audiences from all walks of life, excel in oral communication and forge friendships with everyone they meet.
+To expose students to the glee and glamour of working in a theatre production, students will get to be involved in either devising, performing or stage-managing a drama production every year. Students will also usually attend local drama productions, to gain exposure and learn to appreciate a variety of drama performances. Aside from watching plays, students have the opportunity to learn more about backstage management, ranging from lighting techniques to props design, and the pre-production process, including script writing and creating characters. At the end of four years in Drama Club, students will become more confident, well-spoken and creative individuals. These attributes have helped them charm audiences from all walks of life, excel in oral communication and forge friendships with everyone they meet.
 
 ### Highlights
 
