@@ -279,7 +279,6 @@ Art student putting up his finishing touch on his final artwork (his installatio
 <img src="/images/popband%202.jpeg">
 
 <p>Teachers from the Music Unit:</p>
-<p>Ms Leong Su Juen (ST – Music) </p> 
 <p>Ms Jasmine Peh (AYH)</p>
 	
 </div>  
