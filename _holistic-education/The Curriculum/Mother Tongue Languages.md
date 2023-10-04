@@ -4,10 +4,9 @@ permalink: /holistic-education/The-Curriculum/Mother-Tongue-Languages/
 description: ""
 third_nav_title: The Curriculum
 ---
-Programme
----------
+### Programme
 
-### Vision
+#### Vision
 
 ##### **Learn our MTL, Love our MTL, Live out our MTL | Teachers as Learners, Teachers as Leaders**
 
@@ -17,11 +16,11 @@ The Mother Tongue Languages (MTL) Department believes in nurturing Pasirians to:
 * Love their MTLs – Ignite, deepen &amp; sustain Pasirians’ passion for their MTLs
 * Live out their MTLs – Inspire Pasirians to appreciate their MTL values, cultures &amp; heritage, and apply them in their daily lives
 
-### The Mission
+#### The Mission
 
 The department seeks to equip every student with good listening, speaking, reading &amp; writing skills, so that he / she can become a proficient user of the Mother Tongue Language. We seek to develop in every student a lifelong passion for the Mother Tongue Language, so that he / she can grow to appreciate the beauty therein. We also seek to raise the cultural awareness of students from different races through various cultural programmes and activities, so that they can learn to embrace one another's culture and live in racial harmony in their everyday lives.
 
-### MTL Learning Dispositions
+#### MTL Learning Dispositions
 
 We seek to develop Pasirians who will be:
 
@@ -30,8 +29,8 @@ We seek to develop Pasirians who will be:
 * Connected learners who leverage technology in the application of MTL in daily life &amp; to the understanding of contemporary issues&nbsp;  
 * Discerning digital users who are keenly aware &amp; proud of their cultural heritage (values, history, tradition) &amp; willing to embrace other cultures in Singapore &amp; Asia in the increasingly digitised &amp; globalised age
 
-### Highlights
- 
+#### Programme Highlights
+
  ![](/images/mothertongueprog.png)
  
 ##### **Malay Language**
@@ -40,12 +39,11 @@ We seek to develop Pasirians who will be:
 * Meet-The-Author Session with Djohan Abdul Rahman at Our Tampines Hub (OTH)
 * Hari Raya Celebrations
 
-###  People
+####  People
 
 **Teachers as Learners, Teachers as Leaders**
 
 Professional Development includes department learning journey, open classroom, presentations @ cluster, zonal and national levels.
-
 
 |Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
