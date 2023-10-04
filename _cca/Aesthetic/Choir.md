@@ -12,7 +12,7 @@ In 2010, the choir found new direction from a SSA (Female Choir) to SATB Mixed C
 
 ### Highlights
 
-In PRSS, every year is an exciting year for the choir with an array of activities. Other than opportunities in staging full-length concerts with our alumni to showcase their musical abilities, outdoor performances were and will always be definitive and stimulating experiences for all choir members. The activities include the following:
+Every year is an exciting year for PRSS Choir, with an array of meaningful activities. Other than the opportunities to stage full-length concerts with our PRSS Choir alumni to showcase their musical abilities, outdoor performances have been and will always be definitive and stimulating experiences for all PRSS Choir members. These activities include the following:
 
 * 2017 Tampines Hub Grand Opening Celebrations - La(H) Singapura! Concert
 * 2018 A Beautiful Life: A Tapestry of Love - Victoria Concert Hall
@@ -33,7 +33,7 @@ In PRSS, every year is an exciting year for the choir with an array of activitie
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Monday / Thursday | 03.30pm - 06.30pm | Choir Room |
+| Monday / Thursday | 3.30pm - 6.30pm | Choir Room |
 
 ### Teachers-in-charge
 
