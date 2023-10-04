@@ -42,8 +42,6 @@ It is our goal to continue to engage our students and to prepare them for the ch
 | English Language/ Literature  | Ms Jumiah Ahmad <br> ST English Language | [jumiah_ahmad@moe.edu.sg](mailto:jumiah_ahmad@moe.edu.sg) |
 | English Language | Ms Parvin Marican <br> LH English Language | [parvin_bibi_marican@moe.edu.sg](mailto:parvin_bibi_marican@moe.edu.sg) |
 | English Language/ Geography | Mdm Noraidah Suwandi | [noraidah_suwandi@moe.edu.sg](mailto:noraidah_suwandi@moe.edu.sg)|
-| English Language/ Elements of Business Skills | Ms Cindy Soh | [soh_sock_kheng@moe.edu.sg](mailto:soh_sock_kheng@moe.edu.sg)|
-| English Literature/ Social Studies | Ms Filzah Binte Yahaya| [filzah_yahaya@moe.edu.sg](mailto:filzah_yahaya@moe.edu.sg)|
 | English Language/ Literature | Ms Faith Nah Cher Hui | [nah_cher_hui_faith@moe.edu.sg](mailto:nah_cher_hui_faith@moe.edu.sg) |
 | English Literature/ History | Ms Mavis Ho Min Yu| [ho_min_yu_mavis@moe.edu.sg](mailto:ho_min_yu_mavis@moe.edu.sg) |
 | Social Studies/ English | Ms Shayne Ong | [chi_ying_shayne_ong@moe.edu.sg](mailto:chi_ying_shayne_ong@moe.edu.sg) |
@@ -52,7 +50,6 @@ It is our goal to continue to engage our students and to prepare them for the ch
 | English Language/ Literature | Ms Hannah Lum | [lum_wan_ling_hannah@moe.edu.sg](mailto:lum_wan_ling_hannah@moe.edu.sg) |
 | History/ English | Mdm Shahilla d/o K Balakrishnan| [shahilla_balakrishnan@moe.edu.sg](mailto:shahilla_balakrishnan@moe.edu.sg) |
 | English | Ms Pearlyn Chia Kai Ling| [pearlyn_chia_kai_ling@moe.edu.sg](mailto:pearlyn_chia_kai_ling@moe.edu.sg) |
-| English Language/ History | Mr Zulkifli Mohamed Saat (AED) | [zulkifli_mohamed_saat@moe.edu.sg](mailto:zulkifli_mohamed_saat@moe.edu.sg) |
 | English Language/ History | Ms Nadirah Binte Jamallodin (AED) | [nadirah_a@moe.edu.sg](mailto:nadirah_a@moe.edu.sg) |
 
 ### Photos
