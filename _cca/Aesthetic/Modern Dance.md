@@ -6,7 +6,7 @@ third_nav_title: Aesthetic
 ---
 ### About us
 
-#### PRSS Modern Dance
+#### PRSS Dance
 
 **Crafted with sincerity. Choreographed with technical prowess. Performed with purpose.**
 
