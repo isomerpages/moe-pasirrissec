@@ -36,7 +36,7 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Monday / Thursday | 03.15pm - 06.30pm  | CO Room |
+| Monday / Thursday | 3.15pm - 6.30pm  | CO Room |
 
 ### Teachers-in-charge
 
