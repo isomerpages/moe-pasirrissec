@@ -4,20 +4,19 @@ permalink: /holistic-education/The-Co-Curriculum/Character-and-Citizenship-Educa
 description: ""
 third_nav_title: The Co Curriculum
 ---
-[<img src="/images/AC2E.png" 
-     style="width:33%;float:left">](/cce/Adolescence-CCE-AC2E)
+#### **Developing the Citizenship Dispositions of Pasirians:** 
 
-[<img src="/images/CyberWellness.png" 
-     style="width:33%;float:left">](/cce/Cyber-Wellness)
+Schools commemorate&nbsp;Racial&nbsp;Harmony&nbsp;Day&nbsp;(RHD) on 21 July each year to mark the anniversary of the 1964 race riots. On this&nbsp;day, students reflect on and celebrate Singapore as a harmonious society built on a rich diversity of&nbsp;cultures and the collaborative effort of all to promote social cohesion. The theme for this year’s Racial Harmony Day was Singapore: Our Multicultural Mosaic. In line with the theme, students came donned in their ethnic costumes for the Racial Harmony Day Bazaar, highlighting the multicultural diversity we have in Singapore. During the bazaar, students sold a variety of traditional items from styrofoam aeroplanes to rubber bouncy balls and ethnic food, from muah chee to kueh lapis sagu and also the playing of traditional games like chapteh and congkak to raise funds to be donated to the President’s Challenge.
 
-[<img src="/images/ECG.png" 
-     style="width:33%">](/cce/Education-Career-Guidance)
 
-[<img src="/images/NE.png" 
-     style="width:33%;float:left">](/cce/National-Education-NE)
+[<img src="/images/AC2E.png" style="width:33%;float:left">](/cce/Adolescence-CCE-AC2E)
 
-[<img src="/images/SexualityEducation.png" 
-     style="width:33%;float:left">](/cce/Sexuality-Education)
+[<img src="/images/CyberWellness.png" style="width:33%;float:left">](/cce/Cyber-Wellness)
 
-[<img src="/images/VIA.png" 
-     style="width:33%">](/cce/Values-In-Action-VIA)
+[<img src="/images/ECG.png" style="width:33%">](/cce/Education-Career-Guidance)
+
+[<img src="/images/NE.png" style="width:33%;float:left">](/cce/National-Education-NE)
+
+[<img src="/images/SexualityEducation.png" style="width:33%;float:left">](/cce/Sexuality-Education)
+
+[<img src="/images/VIA.png" style="width:33%">](/cce/Values-In-Action-VIA)
