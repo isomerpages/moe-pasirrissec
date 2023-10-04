@@ -21,48 +21,32 @@ NCDCC believes in developing and empowering our youths to be active concerned ci
 
 ### Highlights
 
-2022 
-* Face to Face Specialisation Course resumed for secondary 3 cadets
-* Urban Search and Rescue, Fire Safety and Medical Response Participated in Precision Drill Challenge 
-* Educated the public at the Pasir Ris Community Resilience Day
+1. Precision Drill Competition
+2. Service Month Project at Methodist Welfare Service Center
+3. Tampines West Community Resilience Day
 
 ### Achievements
 
-**Unit Overall Performance Award**
-- Gold (5th consecutive year, since 2015)
-
-**SCDF-NCDCC Pinnacle Award 2021** 
-* LEONG WEE KWOK, 
-* RAY NG JUN JIE, 
-* RAYMUS
-
-**Unit Cadet Award 2021**
-- LEONG WEE KWOK, RAY
-
-**UOPA GOLD Award 2021**
-
-**SCDF Pinnacle Award 2022**
-- Warrant Officer Leyu Jing Kai Rico
-
-**SCDF Pinnacle Award 2022**
-- Warrant Officer Brasen Lew
-
-**Unit Best Cadet Award 2022**
--Warrant Officer Leyu Jing Kai Rico
+##### 2023 
+1. Unit Overall Performance Award - Distinction (9th consecutive year, since 2015)
+2. Pinnacle Award - Warrant Officer Lau Pei Ying Jolin &amp; Warrant Officer Kwang Yan Lin 
+3. Best Unit Cadet - Warrant Officer Lau Pei Ying Jolin
+4. Home Team Corps Team Award
 
 ### Schedule
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday<br>(Main Training Day) | 03.30pm - 06.30pm | Outside CCA Room |
-| Friday<br>(Additional Training Day) | 02.30pm - 05.30pm | Outside CCA Room |
+| Tuesday | 3.30pm - 6.30pm | Outside CCA Room |
+| Friday | 2.30pm - 5.30pm | Outside CCA Room |
 
 ### Teachers-in-charge
 
-* LTA Wong Yun Yi (IC)
-* LTA Hannah Lum (2IC)
-* Mr Winston Chiang
+* LTA Wong Yun Yi (OIC)
+* LTA Hannah Lum (2OIC)
 * Mr. Daniel Ng
+* Mr Winston Chiang
+* Mr Jonathan Ng
 
 ### NCDCC Motto
   
