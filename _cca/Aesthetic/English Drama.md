@@ -44,14 +44,13 @@ To expose students to the glee and glamour of working in a theatre production, s
 
 | Day | Time | Venue |
 | --- | --- | --- |
-| Tuesday | 03.30pm - 06.00pm | Black Box |
-| Friday | 02.30pm - 06.00pm | Black Box |
+|Tuesday | 3.30pm - 6.00pm | Black Box |
+| Friday | 2.30pm - 6.00pm | Black Box |
 
 ### Teachers-in-charge
 
 * Ms. Faith Nah (IC)
 * Ms. Jumiah Ahmad (2IC)
-* Ms. Filzah Yahaya
 
 **Instructor:**<br>
 Mr. Ian Loy  
