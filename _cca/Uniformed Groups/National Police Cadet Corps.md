@@ -18,8 +18,8 @@ In 2023, we will continue to carry out more programmes face to face so that our 
 
 ### Highlights
 
-Unit Overall Proficiency Award (UOPA) – Gold Award (2006 - 2021) <br><br>
-Unit Overall Proficiency Award (UOPA) – Distinction Award (2022) <br><br>
+Unit Overall Proficiency Award (UOPA) – Gold Award (2006 - 2021)<br>
+Unit Overall Proficiency Award (UOPA) – Distinction Award (2022)<br>
 Urban Adventure Civil Defence Skills Challenge 2019 - 3rd place (Open Category) 
 
 **SPF-NPCC Badge Award 2021**
@@ -70,16 +70,15 @@ UNIT OVERALL PROFICENCY AWARD - DISTINCTION (2022)
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday<br>(Main Training Day) | 03.30pm - 06.00pm | New Foyer / Parade Square |
-| Friday<br>(Additional Training Day) | 02.30pm - 06.00pm | New Foyer / Parade Square |
+| Tuesday | 3.30pm - 6.00pm | New Foyer / Parade Square |
+| Friday | 2.30pm - 6.00pm | New Foyer / Parade Square |
 
 ### Teachers-in-charge
 
-* Ms Cindy Soh Sock Kheng (OC) (Jan 2023 - Jun 20230
+* Ms Cindy Soh Sock Kheng (OC) (Jan 2023 - Jun 2023)
 * Mr Seong Then Yee (OC) (Jul 2023 - Till Present)
 * Mr Seong Then Yee (DYOC) (Jan 2023 - Jun 2023)
 * Ms Kimberlyn Lee (DYOC) (Jul 2023 - Till Present)
-* Mr Zulkifli Mohamed Saat
 
 ### Photos
 
