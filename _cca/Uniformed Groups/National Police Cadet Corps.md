@@ -12,7 +12,9 @@ Pasir Ris Secondary NPCC Unit believes in developing our cadets' character, lead
 
 This year, some of our cadets are gearing up in preparation for the HQ competitions such as the CSI Competition and Area competition. It is also our pride to achieve our 19th consecutive year Gold Award for the Unit Overall Proficiency Award, (UOPA) in 2022. 
 
-Some of our unit programs include the 0.22 revolver shooting, Crime Scene Investigation Course, Kayaking Course and First Aid Course. In 2023, we will continue to carry out more programmes face to face so that our cadets can learn more effectively to achieve our goals.
+Some of our unit programs include the 0.22 revolver shooting, Crime Scene Investigation Course, Kayaking Course and First Aid Course. 
+
+In 2023, we will continue to carry out more programmes face to face so that our cadets can learn more effectively to achieve our goals.
 
 ### Highlights
 
