@@ -24,7 +24,7 @@ The Concert Band, led by 2 well-respected conductors, has a dynamic programme to
 
 * 2017 Singapore Youth Festival (SYF) - Distinction
 * 2019 Singapore Youth Festival (SYF) - Distinction
-* 2021 Singapore Youth Festival (SYF) – Distinction
+* 2021 Singapore Youth Festival (SYF) - Distinction
 * 2023 Singapore Youth Festival (SYF) - Distinction
 
 ### Schedule
