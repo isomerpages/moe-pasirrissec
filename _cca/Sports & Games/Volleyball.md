@@ -27,15 +27,15 @@ third_nav_title: Sports & Games
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Monday | 03.00pm - 06.00pm | Integrated Sports Hall |
-| Thursday | 03.00pm - 06.00pm | Integrated Sports Hall |
+| Monday | 3.00pm - 6.00pm | Integrated Sports Hall |
+| Thursday | 3.00pm - 6.00pm | Integrated Sports Hall |
 
 ##### **Girls Team**
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 03.00pm - 06.00pm | Integrated Sports Hall |
-| Friday | 01.30pm - 04.30pm | Integrated Sports Hall |
+| Tuesday | 3.00pm - 6.00pm | Integrated Sports Hall |
+| Friday | 1.30pm - 4.30pm | Integrated Sports Hall |
 
 ### Teachers-in-charge
 

@@ -24,9 +24,9 @@ In 2023, the team participated in the East Zone B Division Badminton Tournament 
 
 | Training Days | Time | Venue |
 | -------- | -------- | -------- |
-| Monday | 03.00pm - 06.00pm | School Hall |
-| Thursday | 03.00pm - 06.00pm | School Hall |
-| Tuesday | 03.00pm - 06.00pm | Competition Period |
+| Monday |3.00pm - 6.00pm | School Hall |
+| Thursday |3.00pm - 6.00pm | School Hall |
+| Tuesday | 3.00pm - 6.00pm | Competition Period |
 
 ### Teachers-in-charge
 

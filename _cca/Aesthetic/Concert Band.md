@@ -18,13 +18,13 @@ The Concert Band, led by 2 well-respected conductors, has a dynamic programme to
 * 2019 La Famille de Musique @ Singapore Conference Hall 
 * 2020 La Famille de Musique eGames Day 
 * 2022 WBAS Youth Arts Leaders Conference 
-* 2023 Labour Day Open House @ Istana (upcoming in May)
+* 2023 Labour Day Open House @ Istana 
 
 ### Achievements
 
 * 2017 Singapore Youth Festival (SYF) - Distinction
 * 2019 Singapore Youth Festival (SYF) - Distinction
-* 2021 Singapore Youth Festival (SYF) – Distinction
+* 2021 Singapore Youth Festival (SYF) - Distinction
 * 2023 Singapore Youth Festival (SYF) - Distinction
 
 ### Schedule

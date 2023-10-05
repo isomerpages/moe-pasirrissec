@@ -4,8 +4,7 @@ permalink: /holistic-education/The-Curriculum/Physical-Education/
 description: ""
 third_nav_title: The Curriculum
 ---
-Programme
----------
+### Programme
 
 The Physical Education Department at PRSS aspires to develop Pasirians' to cultivate skills, practices and values to enjoy a lifetime of active healthy living. Our PE programme consists mainly of:
 
@@ -13,27 +12,23 @@ The Physical Education Department at PRSS aspires to develop Pasirians' to culti
 2. Sports Module
 3. Outdoor Education Lessons
 
-#### Outcomes
+### Learning outcomes and objectives
 
-Students will get to&nbsp;
+To enable Pasirians to demonstrate individually and with others the physical skills, practices and values to enjoy a lifetime of active and healthy living.
 
-*   Gain knowledge in the content areas of health and fitness management, healthy eating and weight management, and personal safety in physical activities.
-*   Acquire skills and develop knowledge of tactics and game strategies to be applied to at least 6 different sports.
-*   Develop skills and understanding in Outdoor Education to be equipped to participate in the level camps throughout the years as a Pasirian.
+### Programme Highlights
 
-## Highlights
+Termly Physical Activities Games Modules 
+Physical, Health and Fitness
+Outdoor Education
+Secondary 1 Outdoor Adventure Learning Camp
+Secondary 3 MOE-OBS Camp 
+Level Camps 
+Annual Cross-Country Meet
+Inter-Class Games
+Learn To Play Games Enrichment Modules
 
-*   Inter-class Games
-*   Annual Cross Country
-*   Level Camps
-*   Learning Journeys
-*   ReFresh Programme
-*   Volleyball Carnival (Upper Sec)  
-*   Football Carnival (Lower Sec)   
-*   U25 Programme
-
-People
-------
+### People
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
@@ -44,8 +39,7 @@ People
 | Physical Education  | Mr Yew Kah Keat Vincent| [yew_kah_keat_vincent@moe.edu.sg](mailto:yew_kah_keat_vincent@moe.edu.sg)|
 | Physical Education  | Mr Mohamed Iskandar Bin Ahmad | [mohamed_iskandar_ahmad@moe.edu.sg](mailto:mohamed_iskandar_ahmad@moe.edu.sg)  |
 
-Photos
-------
+### Photos
 
 ![](/images/physical.png)
 

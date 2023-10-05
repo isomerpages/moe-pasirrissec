@@ -18,7 +18,9 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 
 ### Highlights
 
-* 2020: SYF Beat the Bug Percussion Ensemble 2020: National Day Virtual Performance 2020: Ensemble Showdown 
+* 2020: SYF Beat the Bug Percussion Ensemble 
+* 2020: National Day Virtual Performance 
+* 2020: Ensemble Showdown 
 * 2021: Chinese New Year Celebrations - Music Video 
 * 2022: Chinese New Year Celebrations - Music Video 
 * 2022: Young Talent Showcase @ OTH
@@ -34,11 +36,10 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Monday / Thursday | 03.15pm - 06.30pm  | CO Room |
+| Monday / Thursday | 3.15pm - 6.30pm  | CO Room |
 
 ### Teachers-in-charge
 
-* Ms Leong Su Juen (IC) 
 * Mdm Siti Sarah (2IC) 
 * Ms Ng Mei Ling 
 * Mdm Ng Ai Hoon 

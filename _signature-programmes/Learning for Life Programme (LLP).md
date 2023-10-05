@@ -5,33 +5,30 @@ description: ""
 ---
 #### Music &amp; Performing Arts  
 
-  
-
-In PRSS, we embrace the love of aesthetics and have a vibrant culture in the Music and Performing Arts. Our Learning for Life Programme (LLP) in Music and Performing Arts is a broad-based programme encapsulated in ‘SHINE’ which comprises 5 key areas:&nbsp; Self-discovery of Interest and Ability, Heritage &amp; Cultural Appreciation, Interaction &amp; Collaborative learning, eNgagement in Community Outreach &amp; Partnership and Excellence in Artistic Expression. Through Music and the Performing Arts, we hope to cultivate sound values, build character and help our students to pursue their passion and talent in aesthetics.
+In PRSS, we embrace the love of aesthetics and strive towards building a vibrant culture in the Music and Performing Arts. Our Learning for Life Programme (LLP) in Music and Performing Arts is a broad-based programme where we aim to create the environment where every child can **SHINE through the ARTs**.
 
 ![](/images/LLP%20FRamework%202022.jpeg)
 <center>LLP FRamework 2022</center>
 
-Learning for Life Programme (LLP) aims to build a vibrant arts environment where every child can&nbsp;**SHINE through the ARTs.**  
+##### **LLP Goals:**
 
-  
-##### **Vision**
-
-  
-
-To develop Pasirians into:&nbsp;
-
-1.  **Cultured Citizens**&nbsp;who are well-acquainted with the culture and heritage of Singapore and deeply appreciative of its Arts and its place in society
-2.  **Reflective learners**&nbsp;who are able to interpret, respond, and reflect on their experiences and interactions with the various art forms
-3.  **Creative Performers**&nbsp;who are able to create and use multiple art forms for communication &amp; expression.
+1. **Cultured Citizens**: well-acquainted with global culture and heritage and appreciative of its Arts
+2. **Reflective learners**: able to interpret, respond and reflect on their experiences and interactions with various art forms
+3. **Creative Performers**: able to co-create and use different art forms for communication and expression
 
 ![](/images/LLP2.png)
 
 ##### **Program Structure**
 
-  
+PRSS has the 4E Development Plan to promote school-wide progression in the development of the arts that progresses from the introduction of the various arts to specialization in the different art forms.  
 
-PRSS has the&nbsp;4E Development Plan&nbsp;to promote school-wide progression in the development of the arts that progresses from the&nbsp;introduction of the various arts to specialization in the different art forms.  
+##### **Programme Highlights**
+
+* Cultural Fusion Modules - CF1.0, 2.0, 3.0 
+* Theatre Experience 
+* MUSEIT 
+* Assembly Showcases 
+* Kepple Night's Programme
 
 ##### Photos
 

@@ -27,11 +27,11 @@ Participated in National School Games - EZ "C" Division Basketball Tournament 20
 #### **Boys Team**
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 03.00pm - 06.00pm | Lower (SH Boys) |
+| Tuesday | 3.00pm - 6.00pm | Lower (SH Boys) |
 #### **Girls Team**
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Thursday | 03.00pm - 06.00pm | Lower (SH Girls) |
+| Thursday | 3.00pm - 6.00pm | Lower (SH Girls) |
 
 ### Teachers-in-charge
 
