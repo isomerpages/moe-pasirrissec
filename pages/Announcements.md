@@ -3,6 +3,13 @@ title: Announcements
 permalink: /Announcements/
 description: ""
 ---
+#### Check Exam Script Timetable 16 Oct 2023 - 18 Oct 2023
+
+Please click [here](/files/2023%20t4%20check%20script%20tt%20v3%20-%20class.pdf) to view.
+
+
+
+
 #### Blended Learning Timetable for Class 4E3, 4E4, 5A1 on Wednesday, 4th October 2023
 
 Please click [here](/files/2023%20t4w4%20bl%204e34e45a1-classes.pdf) to view.
