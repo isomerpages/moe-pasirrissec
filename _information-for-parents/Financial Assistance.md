@@ -15,5 +15,9 @@ Eligibility and benefits of the MOE Financial Assistance Scheme (MOE-FAS) are av
 <br>If you wish to apply, you can apply&nbsp;[online](https://form.gov.sg/64e2f8f73f582600139f54ac)&nbsp;or submit&nbsp;the MOE Financial Assistance Form&nbsp;found below to the school’s Admin Office.
 
 
+```
+table, th, td&nbsp;{&nbsp;&nbsp;border:&nbsp;1px solid black;  
+&nbsp; border-collapse:&nbsp;collapse;}
+```
 
 | MOE FAS Application Form|[2024 FAS Application Form Checklist](/files/Information%20for%20Parents/2024%20moe%20fas%20application%20form.pdf)|
