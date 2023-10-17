@@ -22,8 +22,8 @@ table, th, td {border:1px solid black;}
 
 <table style="width:100%">
   <tbody><tr>
-    <td>MOE FAS Application Form 
-			[2024 FAS Application form_Checklist](/files/Information%20for%20Parents/2024%20fas%20application%20form.pdf)2024 FAS Application Form Checklist</td>
+    <td>MOE FAS Application Form</td>
+    <td> <a href="/files/Information%20for%20Parents/2024%20fas%20application%20form.pdf)"> 2024 FAS Application Form Checklist</a></td>
   </tr>
 </tbody></table>
 
