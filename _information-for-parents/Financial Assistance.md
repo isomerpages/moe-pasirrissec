@@ -30,8 +30,7 @@ th, td {
 <table style="width:100%">
   <tbody><tr>
     <th>MOE FAS Application Form</th>
-    <th><a href="/files/Information%20for%20Parents/2024%20moe%20fas%20application%20form.pdf">2024 FAS Application Form Checklist</a></th> 
+    <th><a href="/files/Information%20for%20Parents/2024%20moe%20fas%20application%20form.pdf">2024 FAS Application Form Checklist.pdf</a></th> 
   </tr>
 </tbody></table>
-
 
