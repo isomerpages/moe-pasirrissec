@@ -17,4 +17,3 @@ Eligibility and benefits of the MOE Financial Assistance Scheme (MOE-FAS) are av
 
 
 | MOE FAS Application Form|[2024 FAS Application Form Checklist](/files/Information%20for%20Parents/2024%20moe%20fas%20application%20form.pdf)|
-| --------------------------------------------------------------------|
