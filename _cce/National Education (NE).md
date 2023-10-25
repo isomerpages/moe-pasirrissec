@@ -23,6 +23,7 @@ In order to create holistic learning experiences among Pasirians, a plethora of 
 ![](/images/national%20education_02.png)
 <p align="center"><i>Tea session to promote interaction and understanding among local and international students during International Friendship Day</i></p>
 
+
 #### Integration Programme
 
 The Integration Programme is catered to our international students, as well as students who are Singapore Permanent Residents (PRs).
