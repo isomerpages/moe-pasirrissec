@@ -17,6 +17,9 @@ A storm has been brewing in a teacup for the past two years during COVID-19. The
 ![](/images/CCA/Netball/netball_2023_03.png)
 <p align="center"><i>2023 Farewell Session with our Seniors, Secondary 4 Netballers</i></p>
 
+![](/images/CCA/Netball/netball_2023_04.png)
+<p align="center"><i>December Holiday Netball Festival, our Netballers in green bibs</i></p>
+
 ### Highlights
 
 Besides the annual NSG for B and C Division, we are also participating in the School Challenge League. Hence, during CCA we get to spar with other schools in mini-competitions.
