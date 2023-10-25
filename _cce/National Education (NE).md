@@ -39,10 +39,10 @@ Through these efforts, we hope to create a welcoming and inclusive environment f
 
 ##### Learning Journeys conducted for the international students
 ![](/images/CCE/national%20education_2023_03.png)
-<p align="center">Learning Journey onboard the Duck Tour</p>
+<p align="center"><i>Learning Journey onboard the Duck Tour</i></p>
 
 ![](/images/CCE/national%20education_2023_04.png)
-<p align="center">Learning Journey to Madame Tussauds Singapore</p>
+<p align="center"><i>Learning Journey to Madame Tussauds Singapore</i></p>
 
 #### Celebration of Life
 
