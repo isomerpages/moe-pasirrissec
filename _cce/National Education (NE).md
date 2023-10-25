@@ -93,6 +93,7 @@ Through these efforts, we hope to create a welcoming and inclusive environment f
 
 **Learning Journeys conducted for the international students**
 ![](/images/CCE/national%20education_2023_03.png)
+Learning Journey onboard the Duck Tour
 
 **Celebration of Life**
 
