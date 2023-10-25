@@ -53,9 +53,14 @@ Coach Faizah who also trains the Back2Netball team at the Singapore Netball Club
 ![](/images/Zoom%20Bonding.jpeg)
 <center>Zoom Bonding</center>
 
+<!--
 ![](/images/Group%202.jpeg)
 <center>Celebrating coach's special day </center>
+--->
 
 ![](/images/Team%201.jpeg)
+<!--
 ![](/images/Team%202.jpeg)
+--->
+
 ![](/images/Training.jpeg)
