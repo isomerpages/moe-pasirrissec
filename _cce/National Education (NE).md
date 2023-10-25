@@ -12,12 +12,16 @@ National Education is anchored on the following citizenship dispositions which e
 *   A sense of hope: It is critical for our citizenry to continue to have confidence and optimism in Singapore’s future, and resilience to face the challenges ahead.
 
 ![](/images/Citizenship%20Disposition.png)
+SG Secure Talk and Exhibition during Total Defence Day
+
+![ ](/images/national%20education_02.png)
+Tea session to promote interaction and understanding among local and international students during International Friendship Day
 
 **Programmes to Develop Citizenship Dispositions in Pasirians**
 
 In order to create holistic learning experiences among Pasirians, a plethora of events and activities are organised throughout the years. These activities include commemoration of Total Defence Day, International Friendship Day, Racial Harmony Day, National Day and NRIC Presentation Ceremony. With these programmes, we hope that Pasirians’ understanding of their identity and convictions as citizens will be developed as they lead and participate actively.
 
-
+![](/images/national%20education_01.png)
 
 National Education is anchored on the following citizenship dispositions which enable Pasirians to realise their part in the success of the community and nation:  
 
