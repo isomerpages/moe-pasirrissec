@@ -8,6 +8,7 @@ description: ""
 VALUES IN ACTION (VIA) at Pasir Ris Secondary aims to develop caring and resilient Pasirians who actively contribute to the community. Guided by the themes from the United Nations Sustainable Development Goals (UNSDG), VIA projects create awareness of social and environmental issues and provide opportunities for students to espouse the school values of empathy and zeal through advocacy projects and outreach, both at the upper and lower secondary. Through their involvement, students will reflect on their service experiences and have a better understanding and appreciation of what it takes to be socially responsible.
 
 ![](/images/CCE/VIA/via_2023_01.png)
+
 ![](/images/CCE/VIA/via_2023_02.png)
 
 #### ECO Stewardship
