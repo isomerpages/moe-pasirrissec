@@ -78,9 +78,13 @@ PRSS alumni were invited back to share their personal educational journeys and c
 
 ![](/images/Career%20Awareness%20(1).png)
 
-**
+##### Learning Journeys to Jurong Island
 
-#### STEAM Carnival Career VR Expo
+As part of the STEAM Carnival, selected students were given the rare opportunity to visit Jurong Island to learn more about the petrol-chemical industry.
+
+
+
+##### STEAM Carnival Career VR Expo
 
 During the STEAM carnival, all sec 3 students got to explore various STEAM related careers using virtual reality sets to give them a more immersive experience of the various tech-related jobs.
 
@@ -90,3 +94,4 @@ During the STEAM carnival, all sec 3 students got to explore various STEAM relat
 
 As part of Camp Conquest and Camp Quest, all graduating students had the opportunity to visit the different schools of Temasek Polytechnics. Students embarked on a tailor made Learning Journey to a school of their interest to find out more about polytechnic courses of their choice.
 
+![](/images/CCE/ECG/ceg_2023_01b.png)
