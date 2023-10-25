@@ -15,25 +15,9 @@ National Education is anchored on the following citizenship dispositions which e
 
 **Programmes to Develop Citizenship Dispositions in Pasirians**
 
-In order to create holistic learning experiences among Pasirians, a plethora of events and activities are organised throughout the years. These activities include commemoration of Total Defence Day, International Friendship Day, Racial Harmony Day, National Day and NRIC Presentation Ceremony. With these programmes, we hope that Pasirians’ understanding of their identity and convictions as citizens will be developed as they lead and participate actively. As for our international students, rich programmes such as visit to Supreme Court and musicals based on historical figures are also organised in order to help them better integrate and understand Singapore’s history and heritage.
+In order to create holistic learning experiences among Pasirians, a plethora of events and activities are organised throughout the years. These activities include commemoration of Total Defence Day, International Friendship Day, Racial Harmony Day, National Day and NRIC Presentation Ceremony. With these programmes, we hope that Pasirians’ understanding of their identity and convictions as citizens will be developed as they lead and participate actively.
 
-![](/images/Total%20Defence.jpeg)
-_Total Defence Day 2019_
 
-![](/images/International%20Friendship%20Day.png)
-_International Friendship Day: Sharing by our international students_
-
-![](/images/Racial%20Harmony%20Bazaar.png)
-_Racial Harmony Bazaar -  The Singapore Connection through traditional games_
-
-![](/images/NDP.png)
-_NDP 2019@PRSS – Observance Ceremony by Uniformed Groups_
-
-![](/images/NDP%202.png)
-_NDP 2019@PRSS – Café Singapura : bonding with teachers and peers through breakfast_
-
-![](/images/NDP%203.png)
-_NDP 2019@PRSS - Concert performance with senior citizens from the community._
 
 National Education is anchored on the following citizenship dispositions which enable Pasirians to realise their part in the success of the community and nation:  
 
