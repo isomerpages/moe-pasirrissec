@@ -23,6 +23,14 @@ In order to create holistic learning experiences among Pasirians, a plethora of 
 ![](/images/national%20education_02.png)
 <p align="center"><i>Tea session to promote interaction and understanding among local and international students during International Friendship Day</i></p>
 
+![](/images/CCE/national%20education_2023_05.png)
+<p align="center"><i>Racial Harmony Bazaar</i></p>
+
+![](/images/CCE/national%20education_2023_06.png)
+<p align="center"><i>National Day Observance Ceremony by Uniformed Groups</i></p>
+
+![](/images/CCE/national%20education_2023_07.png)
+<p align="center"><i>National Day Celebrations</i></p>
 
 #### Integration Programme
 
