@@ -7,7 +7,7 @@ description: ""
 
 In the fast changing and complex world today, new developments such as disruptive technologies and the global pandemic can have great impact on the educational landscape and employment opportunities. Hence, it is important to help the students develop future ready skills such as critical and creative thinking, multimedia and communication skills in order to navigate confidently through the evolving landscape.
 
-The school follows the&nbsp;**MOE Education and Career Guidance (ECG) Development Model** which focuses on equipping students with the necessary knowledge, skills and values to enable them to transit well to further education beyond secondary school.
+The school follows the **MOE Education and Career Guidance (ECG) Development Model** which focuses on equipping students with the necessary knowledge, skills and values to enable them to transit well to further education beyond secondary school.
 
 #### Aims
 
