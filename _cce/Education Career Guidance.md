@@ -9,47 +9,43 @@ In the fast changing and complex world today, new developments such as disruptiv
 
 The school follows the&nbsp;**MOE Education and Career Guidance (ECG) Development Model** which focuses on equipping students with the necessary knowledge, skills and values to enable them to transit well to further education beyond secondary school.
 
-### Aims
+#### Aims
 
 Through ECG curriculum and programmes, the school aims to help students to: 
 
 *   **A**ppreciate all occupations
 *   **D**iscover talents and interest
 *   **A**cquire Knowledge, Skills and Values to make informed decisions on post-sec education and career  
-    
 *   **P**ave their education and career pathways 
-    
 *   **T**ap on stakeholders for support and guidance
     
-### <center>Main ECG Programme @PRSS</center>
+#### <center>Main ECG Programme @PRSS</center>
 
 ![](/images/Table%201.jpeg)
 ![](/images/Table%202.jpeg)
 
-### Post-Secondary School Education Pathways
+#### Post-Secondary School Education Pathways
 
-**<center>Pathway for Students through GCE O-Level</center>**
+##### <center>Pathway for Students through GCE O-Level</center>
 
 ![](/images/Pathway%20O%20Level.png)
 
-**<center>Pathway for Students through GCE Normal (Academic) Level</center>**
+##### <center>Pathway for Students through GCE Normal (Academic) Level</center>
 
 ![](/images/Pathway%20N(A)%20Level.png)
 
-**<center>Pathway for Students through GCE 'NT' Level</center>**
+#### <center>Pathway for Students through GCE 'NT' Level</center>
 
 ![](/images/Pathway%20N(T)%20Level.png)
 
-**More Information:**<br>
-[https://www.moe.gov.sg/post-secondary/admissions](https://www.moe.gov.sg/post-secondary/admissions)
+#### More Information:
 
-<img src="/images/QR%20COde%201.png" style="width:25%">
 
-**MySkillsFuture Student Portal - Support for Our Students**
+
+
+#### MySkillsFuture Student Portal - Support for Our Students
 
 “What do you want to be when you grow up?”
-
-  
 
 Choosing one's education or career path is one of the most important yet difficult decisions to make. Students need to be able to make well-informed choices by talking to their parents, home teachers, subject teachers and/or school ECG counsellor about their education and career aspirations. They can also explore and gather information via the MOE Education and Career Guidance e-portal at https://www.myskillsfuture.sg/secondary
 
@@ -81,3 +77,16 @@ Regular talks and workshops are conducted by our ECG Counsellor to help students
 PRSS alumni were invited back to share their personal educational journeys and career experiences with their juniors.
 
 ![](/images/Career%20Awareness%20(1).png)
+
+**
+
+#### STEAM Carnival Career VR Expo
+
+During the STEAM carnival, all sec 3 students got to explore various STEAM related careers using virtual reality sets to give them a more immersive experience of the various tech-related jobs.
+
+![](/images/CCE/ECG/ceg_2023_02.png)
+
+##### Learning Journeys to Temasek Polytechnic
+
+As part of Camp Conquest and Camp Quest, all graduating students had the opportunity to visit the different schools of Temasek Polytechnics. Students embarked on a tailor made Learning Journey to a school of their interest to find out more about polytechnic courses of their choice.
+
