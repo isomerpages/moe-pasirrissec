@@ -90,7 +90,7 @@ We organise trainings for our leaders and students to internalise the Cyber Well
 
 Cyber Wellness is especially important for our internet-savvy youth today. All students will attend assembly talks and lessons which will teach them how to stay safe in cyber-world. There are also competitions and termly just-in-time holiday reminders to engage students. Topics covered include socializing on social media platforms, fake news, copyright issues, cyber-gaming, Internet addiction, cyber-bullying and cyber-relationships.
 
-<img src="/images/Assembly%20talks%201.jpeg" style="width:35%;float:left"><img src="/images/Assembly%20talks%202.jpeg" style="width:65%">
+![](/images/CCE/CW/cw02%20assembly%20talks.png)
 		 
 **Student Leaders Positive Peer Advocacy**&nbsp;
 
