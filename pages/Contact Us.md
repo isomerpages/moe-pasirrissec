@@ -45,6 +45,6 @@ Please contact the following:
 
 | MRT | Directions | 
 | -------- | -------- | 
-| [Green] East-West Line  | Alight at Tampines MRT Station  |
-| [Blue] Downtown Line | Alight at Tampines Station  | 
-|and we are just a stone's throw away! |   | 
+|East-West Line  | Alight at Tampines MRT Station (EW2)  |
+|  Downtown Line | Alight at Tampines (DT32) Station  | 
+|and we are just a stone's throw away! |   |
