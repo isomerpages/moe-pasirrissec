@@ -4,9 +4,10 @@ permalink: /Contact-Us/
 description: ""
 ---
 #### Pasir Ris Secondary School
-390 Tampines Street 21&nbsp;  
+390 Tampines Street 21<br>
 Singapore 529400
 
+[VIEW MAP -&gt;](https://www.onemap.gov.sg/?lat=1.3542274&amp;lng=103.9489627)
 ##### **Contact Us**
 
 ##### **For General Enquiries &amp; Feedback**
