@@ -3,11 +3,12 @@ title: Contact Us
 permalink: /Contact-Us/
 description: ""
 ---
-#### Pasir Ris Secondary School
+##### **Main Office**
 390 Tampines Street 21<br>
 Singapore 529400
 
 [VIEW MAP -&gt;](https://www.onemap.gov.sg/?lat=1.3542274&amp;lng=103.9489627)
+
 ##### **Contact Us**
 
 ##### **For General Enquiries &amp; Feedback**
@@ -35,16 +36,15 @@ Please contact the following:
 
 ##### **Direction to get to school**
 
-| Bus | SBS Nos | 
+| Bus Route | SBS Nos | 
 | -------- | -------- | 
 | Along Tampines Ave 4  | Bus 3, 15, 21, 27, 129,168, 298     | 
 | Along Tampines St 21 | Bus 3, 291 | 
 
 
 
-| MRT | Stops | 
+| MRT | Directions | 
 | -------- | -------- | 
-| East-West Line  | Alight at Tampines MRT Station  |
-| Downtown Line | Alight at Tampines Station  | 
-
+| [Green] East-West Line  | Alight at Tampines MRT Station  |
+| [Blue] Downtown Line | Alight at Tampines Station  | 
 and we are just a stone's throw away!
