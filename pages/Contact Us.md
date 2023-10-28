@@ -47,4 +47,4 @@ Please contact the following:
 | -------- | -------- | 
 | [Green] East-West Line  | Alight at Tampines MRT Station  |
 | [Blue] Downtown Line | Alight at Tampines Station  | 
-and we are just a stone's throw away!
+|and we are just a stone's throw away! |   | 
