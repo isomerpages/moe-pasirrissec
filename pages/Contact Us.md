@@ -34,8 +34,8 @@ Please contact the following:
 
 | Bus Directions | SBS Nos | 
 | -------- | -------- | 
-| Along Tampines Ave 4  | 3, 15, 21, 27, 129,168, 298     | 
-| Along Tampines St 21 | 3, 291 | 
+| Along Tampines Ave 4  | Bus 3, 15, 21, 27, 129,168, 298     | 
+| Along Tampines St 21 | Bus 3, 291 | 
 
 
 
