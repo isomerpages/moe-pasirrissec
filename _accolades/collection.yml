@@ -1,5 +1,5 @@
 collections:
-  achievements:
+  accolades:
     output: true
     order:
       - In The News.md
