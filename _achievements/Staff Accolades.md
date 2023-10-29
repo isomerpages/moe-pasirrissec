@@ -3,8 +3,8 @@ title: Staff Accolades
 permalink: /achievements/Staff-Accolades/
 description: ""
 ---
-## 2023
-![](/images/Achievements/Staff%20Accolades/2023_staff%20accolades.png)
+## 2022
+
 ## 2021
 ![](/images/2021staff.png)
 
