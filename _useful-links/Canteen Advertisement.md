@@ -9,7 +9,12 @@ description: ""
 
 | Type of Stalls | Closing Date | Requirements|
 | -------- | -------- | -------- |
-|    |   |   |
+|Chinese Cuisine Stall (Economy Rice)    | 17 November 2023  | See Below  |
+
+**Other details:**
+
+1. Estimated start date is Jan 2024 after gas and licence has been approved.
+2. Application for gas, SFA licence, handover etc should preferably be done and completed before the start date. 
 
 **Application Procedure**
 
@@ -29,7 +34,7 @@ description: ""
 Address: 390 Tampines Street 21, Singapore 529400      
 Contact No: 65010800  
 Email: [prss@moe.edu.sg](mailto:prss@moe.edu.sg)  
-Contact Person: Mr Desmond Ho 
+Contact Person: Mdm Dolly Leong
 
 How to get there?  
 **BUS**  
