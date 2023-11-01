@@ -37,19 +37,12 @@ Transform physical spaces into themed corners to cultivate students’ interest 
 
 ![](/images/Photos%20for%20ALP.jpeg)
 
-_Top left:&nbsp;Our Sec 2 students undergoing the Photojournalism Workshop_
+<center>Top left: Our Sec 2 students undergoing the Photojournalism Workshop
+<br>Bottom left: Our Sec 2 students undergoing a film making workshop .conducted by industry professionals.<br>Top right: Our students sharing about the PRSS Waves Radio show to guests during the 35th Anniversary celebrations.
+<br>Bottom right: Our #Ruminate gallery where students can learn more about contemporary issues and news that affect our community. 
+<br><br>
+<iframe width="560" height="369" src="https://www.youtube.com/embed/SHelsGz7fbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<br>
+<iframe allowfullscreen="true" height="369" width="560" frameborder="0" src="https://docs.google.com/presentation/d/1u2bqYOlYKGSmtsRYOwCuHjLjR_YirObR0Xidi6O1y4g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-_Bottom left: Our Sec 2 students undergoing a film making workshop conducted by industry professionals._
-
-_Top right: Our students sharing about the PRSS Waves Radio show to guests during the 35th Anniversary celebrations_&nbsp;
-
-_Bottom right:&nbsp;Our #Ruminate gallery where students can learn more about contemporary issues and news that affect our community._
-
-<iframe width="960" height="569" src="https://www.youtube.com/embed/SHelsGz7fbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1u2bqYOlYKGSmtsRYOwCuHjLjR_YirObR0Xidi6O1y4g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-[Click here](/useful-links/direct-school-admission-dsa/dsa-alp-in-humanities-and-english-language) to find out how you can join PRSS through our Direct School Admission in ALP.
+[Click here](/useful-links/direct-school-admission-dsa/dsa-alp-in-humanities-and-english-language) to find out how you can join PRSS through our Direct School Admission in ALP.</center>
