@@ -4,7 +4,7 @@ permalink: /holistic-education/The-Curriculum/Mathematics/
 description: ""
 third_nav_title: The Curriculum
 ---
-### Programme
+#### **Programme**
 
 Mathematics Department aims to develop students to have inquisitive minds, to be independent learners and confident problem solvers. This vision is achieved by equipping every student with the attitude of perseverance, critical thinking, logical reasoning and communication skills that will serve as a foundation for the student to be confident in solving problems in this VUCA world.
 	
@@ -14,7 +14,7 @@ The Mathematics curriculum is closely aligned to MOE defined syllabus and includ
 	
 ![](/images/Maths%20Dept%20Website.jpeg)
   
-### Highlights
+#### **Highlights**
 
 *   Australian Math Competition for Lower Secondary students&nbsp;
 *   Singapore Mathematical Olympiads for Upper Secondary students
@@ -24,7 +24,7 @@ The Mathematics curriculum is closely aligned to MOE defined syllabus and includ
 *   Math Trail (beyond school)
 *   STEM in Math
 
-### People
+#### **People**
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
@@ -35,7 +35,7 @@ The Mathematics curriculum is closely aligned to MOE defined syllabus and includ
 | Math/ Additional Math | Mr Ng Boon Tiong Desmond | [ng_boon_tiong_a@moe.edu.sg](mailto:ng_boon_tiong_a@moe.edu.sg) |
 | Math/ Computer Applications | Mr Cheng Song Fong | [cheng_song_fong@moe.edu.sg](mailto:cheng_song_fong@moe.edu.sg) |
 | Math/ Additional Math/ Computer Applications | Mr Chng Wei Min Daniel | [chng_wei_min_daniel@moe.edu.sg](mailto:chng_wei_min_daniel@moe.edu.sg) |
-| Math/ Additional Math/ Computer Applications | Mr Ho Wei Wei June | [ho_wei_wei_june@moe.edu.sg](mailto:ho_wei_wei_june@moe.edu.sg) |
+| Math/ Additional Math/ Computer Applications | Ms Ho Wei Wei June | [ho_wei_wei_june@moe.edu.sg](mailto:ho_wei_wei_june@moe.edu.sg) |
 | Math/ Additional Math/ Computer Applications | Mr Lee Kuan Wei Colin | [lee_kuan_wei@moe.edu.sg](mailto:ee_kuan_wei@moe.edu.sg) |
 | Math/ Computer Applications | Mdm Sumrah Chuni | [sumrah_chuni@moe.edu.sg](mailto:sumrah_chuni@moe.edu.sg) |
 | Math/ Computer Applications | Mr Chang Hock Boon | [chang_hock_boon@moe.edu.sg](mailto:chang_hock_boon@moe.edu.sg) |
@@ -47,23 +47,24 @@ The Mathematics curriculum is closely aligned to MOE defined syllabus and includ
 | Principles of Accounts/ Math | Ms Ng Mei Ling | [ng_mei_ling@moe.edu.sg](mailto:ng_mei_ling@moe.edu.sg)|
 | Principles of Accounts/ Math | Mr Lee Chee Weng | [lee_chee_weng@moe.edu.sg](mailto:lee_chee_weng@moe.edu.sg) |
 
-### Photos
+#### **Photos**
 
 ![](/images/Conduct%20of%20SLS%20Lesson%20in%20Class.jpeg)
-_Conduct of SLS Lesson in Class_&nbsp;  
-
+<center>Conduct of SLS Lesson in Class  
+<br>
+	
 ![](/images/1%20to%201%20programme.jpeg)
-
-_1 to 1 programme_  
+<center>1-to-1 programme
+<br>
 
 ![](/images/Collaboration%20at%20math%20trail.jpeg)
-
-_Collaboration at math trail_
+<center>Collaboration at Math Trail
+<br>
 
 ![](/images/Conduct%20of%20Virtual%20Math%20Trail.jpeg)
-
-_Conduct of Virtual Math Trail_
+<center>Conduct of Virtual Math Trail
+<br>
 
 ![](/images/Virtual%20Math%20Trail.jpeg)
-
-_Virtual Math Trail_
+<center>Virtual Math Trail
+<br></center></center></center></center></center>
