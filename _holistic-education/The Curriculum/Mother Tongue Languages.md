@@ -12,9 +12,9 @@ third_nav_title: The Curriculum
 
 The Mother Tongue Languages (MTL) Department believes in nurturing Pasirians to:  
 
-* Learn their MTLs – Nurture &amp; develop Pasirians to become confident &amp; proficient MTL users
-* Love their MTLs – Ignite, deepen &amp; sustain Pasirians’ passion for their MTLs
-* Live out their MTLs – Inspire Pasirians to appreciate their MTL values, cultures &amp; heritage, and apply them in their daily lives
+* *Learn their MTLs* – Nurture &amp; develop Pasirians to become confident proficient MTL users
+* *Love their MTLs* – Ignite, deepen &amp; sustain Pasirians’ passion for their MTLs
+* *Live out their MTLs* – Inspire Pasirians to appreciate their MTL values, cultures &amp; heritage, and apply them in their daily lives
 
 #### **Mission**
 
