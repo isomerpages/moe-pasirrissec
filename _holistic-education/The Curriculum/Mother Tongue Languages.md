@@ -12,9 +12,9 @@ third_nav_title: The Curriculum
 
 The Mother Tongue Languages (MTL) Department believes in nurturing Pasirians to:  
 
-* *Learn their MTLs* – Nurture &amp; develop Pasirians to become confident proficient MTL users
-* *Love their MTLs* – Ignite, deepen &amp; sustain Pasirians’ passion for their MTLs
-* *Live out their MTLs* – Inspire Pasirians to appreciate their MTL values, cultures &amp; heritage, and apply them in their daily lives
+* *Learn their MTLs* – Nurture and develop Pasirians to become confident proficient MTL users
+* *Love their MTLs* – Ignite, deepen and sustain Pasirians’ passion for their MTLs
+* *Live out their MTLs* – Inspire Pasirians to appreciate their MTL cultures and apply their MTL in their daily lives
 
 #### **Mission**
 
@@ -22,10 +22,10 @@ The Mother Tongue Languages (MTL) Department believes in nurturing Pasirians to:
 
 We seek to develop Pasirians who will be:
 
-* Self-directed learners who leverage technology to become proficient users of respective MTLs
-* Connected learners who leverage technology to think critically, communicate confidently; learn collaboratively in both written; spoken MTL
-* Connected learners who leverage technology in the application of MTL in daily life; to the understanding of contemporary issues&nbsp;  
-* Discerning digital users who are keenly aware; proud of their cultural heritage (values, history, tradition); willing to embrace other cultures in Singapore; Asia in the increasingly digitised; globalised age
+* *Self-directed learners* who leverage technology to become proficient users of respective MTLs
+* *Connected learners* who leverage technology to think critically, communicate confidently and learn collaboratively in both written; spoken MTL
+* *Connected learners* who leverage technology in the application of MTL in daily life; to the understanding of contemporary issues;  
+* *Discerning digital users* who are keenly aware; proud of their cultural heritage (values, history, tradition); willing to embrace other cultures in Singapore; Asia in the increasingly digitised age
 
 #### **Programme Highlights**
 
