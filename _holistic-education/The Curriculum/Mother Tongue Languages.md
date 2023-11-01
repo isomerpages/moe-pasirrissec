@@ -57,7 +57,11 @@ We seek to develop Pasirians who will be:
 #### **Photos**
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/kongsi%20raya%202023%20collage.jpg)
+
 ![](/images/mothertongue2.png)
+
 ![](/images/Deepavali.jpeg)
+
 ![](/images/Reading%20Programme.jpeg)
+
 ![](/images/mother3.png)
