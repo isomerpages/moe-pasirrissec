@@ -34,21 +34,21 @@ PRSS has the 4E Development Plan to promote school-wide progression in the devel
 
 <img src="/images/Celebrating%20Talent.png" style="width:50%;float:left">
 <img src="/images/Gift%20of%20the%20Art.png" style="width:50%">
-		 <img src="/images/Creative%20Performers.png" style="width:50%;float:left">
+<img src="/images/Creative%20Performers.png" style="width:50%;float:left">
 <img src="/images/llp%20black.png" style="width:50%">
-		 
+<br><center>		 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TPW6uOQuj8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sKeX7eeCGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nm0XEDCP6f4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rHNnRwcqwJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
+<br>
 <img src="/images/Angklung%202.jpeg" style="width:45%;float:left">
 <img src="/images/Traditional%20Drumming.jpeg" style="width:50%"><br>
 <img src="/images/llp.jpeg" style="width:45%;float:left">
 <img src="/images/llp2.jpeg" style="width:45%">
 		 
 
-[Click here](/useful-links/direct-school-admission-dsa/dsa-llp-in-music-and-performing-arts) to find out how you can join PRSS through our Direct School Admission in LLP.
+[Click here](/useful-links/direct-school-admission-dsa/dsa-llp-in-music-and-performing-arts) to find out how you can join PRSS through our Direct School Admission in LLP.</center>
