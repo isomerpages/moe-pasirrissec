@@ -17,12 +17,12 @@ sections:
           url: /Information-for-Parents/Event-for-Parents/
       title: Pasir Ris Secondary School
   - infopic:
-      title: DSA E-OPEN HOUSE 2023
-      subtitle: Direct School Admission
+      title: PRSS E-OPEN HOUSE 2023
+      subtitle: PRSS OPEN HOUSE
       description: Click the link below to find out more
       button: E-open house page
       url: /e-open-house/e-open-house/
-      image: /images/E Open house/dsa e open house.jpg
+      image: /images/E Open house/open house banner.png
       alt: The Pasirian Experience
   - infopic:
       title: PRSS Campus Tour
