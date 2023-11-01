@@ -22,28 +22,23 @@ The Mother Tongue Languages (MTL) Department believes in nurturing Pasirians to:
 
 We seek to develop Pasirians who will be:
 
-* *Self-directed learners* who leverage technology to become proficient users of respective MTLs
-* *Connected learners* who leverage technology to think critically, communicate confidently and learn collaboratively in both written; spoken MTL
-* *Connected learners* who leverage technology in the application of MTL in daily life; to the understanding of contemporary issues;  
-* *Discerning digital users* who are keenly aware; proud of their cultural heritage (values, history, tradition); willing to embrace other cultures in Singapore; Asia in the increasingly digitised age
+* *Self-directed learners* who leverage technology to become proficient users of respective MTLs.
+* *Connected learners* who leverage technology to think critically, communicate confidently and learn collaboratively in both written and spoken MTL.
+* *Connected learners* who leverage technology in the application of MTL in daily life and to the understanding of contemporary issues.
+* *Discerning digital users* who are keenly aware and proud of their cultural heritage (values, history, tradition) and willing to embrace other cultures in Singapore and Asia in the increasingly digitised age.
 
 #### **Programme Highlights**
 
- ![](/images/mothertongueprog.png)
- 
-##### **Malay Language**
- 
-* Projek Kreatif (Creative Level Project)
-* Meet-The-Author Session with Djohan Abdul Rahman at Our Tampines Hub (OTH)
-* Hari Raya Celebrations
+
+
 
 ####  **People**
 
 **Teachers as Learners, Teachers as Leaders**
 
-Professional Development includes department learning journey, open classroom, presentations @ cluster, zonal and national levels.
+*Professional development includes department retreats and learning journeys, open classrooms, presentations at school, cluster, zonal and national levels etc.*
 
-|Subject(s) Taught | Name | E-mail Address |
+|Subject Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
 |Chinese Language | Mr Wong Wei Long <br> HOD Mother Tongue Languages | [wong_wei_long@moe.edu.sg](mailto:wong_wei_long@moe.edu.sg) |
 | Malay Language | Mr Lokhman Haris Bin Abdul Karem <br>SH Aesthetics | [lokhman_haris_abdul_karem@moe.edu.sg](mailto:lokhman_haris_abdul_karem@moe.edu.sg) |
