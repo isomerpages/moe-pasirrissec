@@ -1,5 +1,5 @@
 ---
-title: DSA e Open House 2023
+title: PRSS e Open House 2023
 permalink: /e-open-house/e-open-house/
 description: ""
 ---
