@@ -32,6 +32,7 @@ We seek to develop Pasirians who will be:
 ![](/images/Curriculum/Mother%20Tongue%20Language/mtl%20dept%20website%20update%202023.png)
 
 
+
 ####  **People**
 
 **Teachers as Learners, Teachers as Leaders**
