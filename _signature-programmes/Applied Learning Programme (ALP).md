@@ -11,7 +11,7 @@ The programme was first started in 2015, with a focus on deepening interest and 
   
 A strategic review was carried out in 2018 and the programme was further enhanced with the addition of journalism platforms as avenues where our students can apply their learning and express themselves. These platforms include radio shows, podcast and video productions. In addition, an accompanying industry exposure programme was developed to expose our students to jobs and career opportunities in these areas.
 
-![](/images/Eye%20on%20the%20world.png)
+<img height="auto" width="400" max="" src="/images/Eye%20on%20the%20world.png">
 
 Although the programme has evolved since its inception, the five key strategies (DRIVE Framework) driving the programme have remained, and they include:  
 
