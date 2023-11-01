@@ -10,3 +10,6 @@ description: ""
 <a href="/holistic-education/The-Curriculum/The-Curriculum/"><img src="/images/thecurriculum.png" style="width:25%;float:left"></a>
 <a href="/holistic-education/The-Co-Curriculum/The-Co-Curriculum/"><img src="/images/cocurriculum.png" style="width:25%;float:left"></a>
 <a href="/e-open-house/FAQ-and-Enquiries/"><img src="/images/faq.png" style="width:25%"></a>
+
+
+
