@@ -26,8 +26,8 @@ third_nav_title: The Curriculum
   
 This year, the students had the opportunity to weave authentic leaning opportunities into their coursework.
 
-![](/images/comp.png)
-![](/images/comp2.png)
+<img height="auto" width="500" max="" src="/images/comp.png">
+<img height="auto" width="500" max="" src="/images/comp2.png">
 
 ##### **Secondary One**  
 (in collaboration with 1T7 VIA Project)
