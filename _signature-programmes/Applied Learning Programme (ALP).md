@@ -35,7 +35,7 @@ Leverage current affairs to enhance students’ global awareness, perspective-ta
 
 Transform physical spaces into themed corners to cultivate students’ interest in current affairs and showcase students’ work; collaborate with key external partners to make learning more authentic and experiential.
 
-![](/images/Photos%20for%20ALP.jpeg)
+<img height="auto" width="600" max="" src="/images/Photos%20for%20ALP.jpeg">
 
 <center>Top left: Our Sec 2 students undergoing the Photojournalism Workshop
 <br>Bottom left: Our Sec 2 students undergoing a film making workshop .conducted by industry professionals.<br>Top right: Our students sharing about the PRSS Waves Radio show to guests during the 35th Anniversary celebrations.
