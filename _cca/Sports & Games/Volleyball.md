@@ -7,11 +7,11 @@ variant: markdown
 ---
 ### **About us**
 
-**Dig, Set & Spike to Victory!** 
+##### **Dig, Set & Spike to Victory!** 
 
 “Ace!” the thunderous cheer roared as the players circled round each other, put their hands in the center and jumped for victory. This group cheer gives them the adrenalin rush as they soar to greater heights, striking the opponent zealously. We have instilled in our players the ‘Never Say Die’ attitude. 
 
-**Ace, Ace, Ace! We’re going to pump you up!**
+##### **Ace, Ace, Ace! We’re going to pump you up!**
 
 ![](/images/volleyball.png)
 
@@ -52,5 +52,7 @@ Mr Ryan Ling 
 ### **Photos**
 
 ![](/images/Vball%20grp%20photo%201.jpeg)
+
 ![](/images/Vball%20grp%20photo%202.jpeg)
+
 ![](/images/Vball%20grp%20photo%203.jpeg)
