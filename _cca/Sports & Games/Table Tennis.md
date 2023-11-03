@@ -3,8 +3,9 @@ title: Table Tennis
 permalink: /cca/Sports-and-Games/Table-Tennis/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
-### About us
+### **About us**
 
 CCA Table Tennis always remembers her mission and vision, with the aim that pupils who join the CCA over the course of 4 years will
 
@@ -15,31 +16,39 @@ CCA Table Tennis always remembers her mission and vision, with the aim that pupi
 *   exhibit model sportsman qualities such as sportsmanship, fair play and graciousness,
 *   be developed in team spirit.
 
-### Highlights
+### **Highlights**
 
 Participated in National School Games 2023
 
-### Achievements
+### **Achievements**
 
 Participated in National School Games 2023
 
-### Schedule
+### **Schedule**
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
 | Tuesday  | 3.00pm - 6.00pm | School Hall |
 | Thursday | 3.00pm - 6.00pm | School Hall |
 
-### Teachers-in-charge
+### **Teachers-in-charge**
 
 * Mr Albert Neo (IC)
 * Mr Liu Shucun (2IC)
 
-### Coach
+### **Coach**
 
 Mr Colin Wee Sheng Rong
 
-### Photos
+### **Photos**
+
+![](/images/CCA/Table%20Tennis/table%20tennis%2001.JPG)
+
+![](/images/CCA/Table%20Tennis/table%20tennis%2002.JPG)
+
+![](/images/CCA/Table%20Tennis/table%20tennis%2003.JPG)
+
+![](/images/CCA/Table%20Tennis/table%20tennis%2004.JPG)
 
 ![](/images/Training%20in%20action.jpeg)
 <center>Training in action</center>

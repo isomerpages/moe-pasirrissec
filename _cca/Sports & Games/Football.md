@@ -3,16 +3,17 @@ title: Football
 permalink: /cca/Sports-and-Games/Football/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
-### About us
+### **About us**
 
-<center>**PRSS Football CCA "Impossible is Nothing**"</center> 
+##### <center>**PRSS Football CCA "Impossible is Nothing**</center> 
 
 For all our matches, each and every one of our boys will always give their all. Be it dominating the game from the beginning, or clawing our way up from defeat, the boys will always show what resilience is and what it looks like. Training twice a week, listening to the coach and heeding his advice and tips, our boys will always show tremendous teamwork on and off the pitch and play to their maximum potential.&nbsp;&nbsp;
 
 The ‘Pasir Ris cheer, ‘WoooHaaa!’ will always echo in the pitch before every game. It shows the spirit our boys even before our games. With the ever present fighting spirit in our team, our opponents will know we are not a team to be trifled with. PRSS Football is definitely a force not be reckoned with.
 
-### Highlights
+### **Highlights**
 
 *   Our ‘C’ Boys won the 3rd spot in the East Zone National School Games in 2022.
 *   Our ‘B’ Boys attained the 5th place in the East Zone National School Games in 2022.
@@ -23,29 +24,29 @@ The ‘Pasir Ris cheer, ‘WoooHaaa!’ will always echo in the pitch before eve
 * National Schools Games Football Championships (B and C Divisions)
 * Collaboration between Tampines Rover Football Club (TRFC) and Pasir Ris 
 
-### Achievements
+### **Achievements**
 
 NSG Football Championships B Division League 1 (Top 16) 
 NSG Football Championships C Division League 1 (Top 8)
 
-### Schedule
+### **Schedule**
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
 | Tuesday | 2.30pm - 5.30pm | Field |
 | Thursday | 2.30pm - 5.30pm | Field |
 
-### Teachers-in-charge
+### **Teachers-in-charge**
 
 * Mr Abdul Halim (OIC)
 * Mr Desmond Ng (2IC)
 * Advisor: Mr Amir HMS
 
-### Coach
+### **Coach**
 
 Mr Aliff Shafaein Safiee
 
-### Photos
+### **Photos**
 
 ![](/images/20220422_072741.jpeg)
 ![](/images/football2.png)
