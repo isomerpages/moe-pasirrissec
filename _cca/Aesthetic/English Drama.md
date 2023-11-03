@@ -3,6 +3,7 @@ title: English Drama
 permalink: /cca/Aesthetic/English-Drama/
 description: ""
 third_nav_title: Aesthetic
+variant: markdown
 ---
 ### About us
 
@@ -32,6 +33,9 @@ To expose students to the glee and glamour of working in a theatre production, s
 
 **2022**
 * 2022 Drama Production - 'Furthest North and Deepest South'
+
+**2023**
+* 2023 Singapore Youth Festival
 
 ### Achievements
 
