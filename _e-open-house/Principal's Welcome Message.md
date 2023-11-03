@@ -2,6 +2,7 @@
 title: Principal's Welcome Message
 permalink: /e-open-house/Principals-Welcome-Message/
 description: ""
+variant: markdown
 ---
 <img src="/images/Mrs%20Chua.jpg" style="width:30%;float:left">
 
@@ -26,5 +27,3 @@ We look forward to you joining our school.
 **Mrs Grace Chua**<br>
 **Principal**<br>
 **Pasir Ris Secondary School**
-
-<a href="/e-open-house/e-open-house/"><img src="/images/Button/eopenhouse.png" style="width:48%"></a>
