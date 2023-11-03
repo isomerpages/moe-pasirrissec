@@ -52,7 +52,7 @@ The Concert Band, led by 2 well-respected conductors, has a dynamic programme to
 **Band Director:**<br> Mr Md Faizal Othman<br><br>
 **Assistant Band Director:** <br>Mr Steven Phua
 
-### Photos
+### **Photos**
 
 ![](/images/Band%20Photo%201.jpeg)
 ![](/images/Band%20Photo%202.jpeg)
