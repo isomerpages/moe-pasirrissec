@@ -3,10 +3,9 @@ title: Volleyball
 permalink: /cca/Sports-and-Games/Volleyball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
-## VOLLEYBALL (GIRLS/BOYS)
-
-### About us
+### **About us**
 
 **Dig, Set & Spike to Victory!** 
 
@@ -16,12 +15,12 @@ third_nav_title: Sports & Games
 
 ![](/images/volleyball.png)
 
-### Highlights
+### **Highlights**
 
 *   Our ‘C’ Boys Volleyball team won the 3rd place in the East Zone National School Games in 2022
 *   Our ‘C’ Boys managed to compete in the East Zone National School Games (Nationals) in 2022
 
-### Schedule
+### **Schedule**
 
 ##### **Boys Team**
 
@@ -37,7 +36,7 @@ third_nav_title: Sports & Games
 | Tuesday | 3.00pm - 6.00pm | Integrated Sports Hall |
 | Friday | 1.30pm - 4.30pm | Integrated Sports Hall |
 
-### Teachers-in-charge
+### **Teachers-in-charge**
 
 | Boys Team | Girls Team| 
 | -------- | -------- | 
@@ -46,11 +45,11 @@ third_nav_title: Sports & Games
 | Mr Mohamed Riffai bin Maidin  |  |
 | Mr Chong Hock Boon |  | 
 
-### Coach
+### **Coach**
 
 Mr Ryan Ling 
 
-### Photos
+### **Photos**
 
 ![](/images/Vball%20grp%20photo%201.jpeg)
 ![](/images/Vball%20grp%20photo%202.jpeg)
