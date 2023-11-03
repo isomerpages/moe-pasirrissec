@@ -54,11 +54,9 @@ The Concert Band, led by 2 well-respected conductors, has a dynamic programme to
 
 ### **Photos**
 
-![](/images/Band%20Photo%201.jpeg)
-![](/images/Band%20Photo%202.jpeg)
-![](/images/band%20photo%203.png)
-![](/images/Band%20Photo%204.png)
-![](/images/Band%20Photo%205.png)
-![](/images/Band%20Photo%206.png)
+<img height="auto" width="700" src="/images/CCA/Concert%20Band/band%2001.JPG">
+
+![](/images/CCA/Concert%20Band/band%2002.JPG)
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Otjb4IvJyBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
