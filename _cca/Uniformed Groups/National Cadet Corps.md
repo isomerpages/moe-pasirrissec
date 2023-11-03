@@ -15,15 +15,17 @@ To develop our cadets with a global mindset, the NCC has a comprehensive Interna
 
 Freestyle Drill Exhibition (FSD) competition has always been the niche of PRSS NCC unit. Our unit has been placed the top 4 positions in the East District for the past 3 years. The exciting annual competition fosters creativity, teamwork, resilience and discipline that are hallmarks of a NCC Cadet. In this competition, cadets are required to choreograph the drill movements and promote creativity to make drill fun but yet challenging.
 
-Check out this video link for their performance during the East District competition:&nbsp;[https://www.youtube.com/watch?v=tn6rNsQ8kj8&amp;feature=youtu.be](https://www.youtube.com/watch?v=tn6rNsQ8kj8&amp;feature=youtu.be)
+Check out this video link for their performance during the East District competition:
+
+[https://www.youtube.com/watch?v=tn6rNsQ8kj8&amp;feature=youtu.be](https://www.youtube.com/watch?v=tn6rNsQ8kj8&amp;feature=youtu.be)
 
 ### **Schedule**
 
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday <br>(when there are no HQ activities) | 03.00pm - 06.00pm | Parade Square |
-| Friday <br>(when there are no HQ activities) | 02.30pm - 05.30pm | Parade Square |
+| Tuesday <br>(when there are no HQ activities) | 3.00pm - 6.00pm | Parade Square |
+| Friday <br>(when there are no HQ activities) | 2.30pm - 5.30pm | Parade Square |
 
 ### **Teachers-in-charge**
 
@@ -34,8 +36,20 @@ Check out this video link for their performance during the East District competi
 
 ### **Photos**
 
+![](/images/CCA/NCC/ncc%2001.JPG)
+
+![](/images/CCA/NCC/ncc%2002.JPG)
+
+![](/images/CCA/NCC/ncc%2003.JPG)
+
+![](/images/CCA/NCC/ncc%2004.jpg)
+
 ![](/images/image4_edited.jpeg)
-![](/images/Freestyle-drill-competition_edited.jpeg)
-![](/images/image2_edited.jpeg)
+
 ![](/images/NCC%20Boys%20and%20Girls%20Cadet%20Leaders%202021.jpeg)
+
 ![](/images/POP%20parade%20NCC.jpeg)
+
+![](/images/Freestyle-drill-competition_edited.jpeg)
+
+![](/images/image2_edited.jpeg)
