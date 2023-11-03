@@ -49,7 +49,19 @@ Participated in National School Games - EZ "C" Division Basketball Tournament 20
 | -------- | -------- | 
 | Mr Lai Wei Jie | Mr Choo Hoo Sen    |
 
-### Photos
+### **Photos**
 
+![](/images/CCA/Basketball/bball%20team.jpeg)
+
+![](/images/CCA/Basketball/bball%20team%20photo_boys.jpeg)
+
+![](/images/CCA/Basketball/bball%20team%20photo_girls.jpeg)
+
+![](/images/CCA/Basketball/bball_girls%20pre-games1.jpeg)
+
+![](/images/CCA/Basketball/bball_girls%20pre-games2.jpeg)
+
+![](/images/CCA/Basketball/retro1.jpeg)
 ![](/images/basketball.png)
+
 ![](/images/basketball2.png)
