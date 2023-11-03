@@ -4,7 +4,7 @@ permalink: /holistic-education/The-Curriculum/Science/
 description: ""
 third_nav_title: The Curriculum
 ---
-#### **Students as Inquirers, Teachers as Facilitators of Students’ Learning Experiences**
+### **Students as Inquirers, Teachers as Facilitators of Students’ Learning Experiences**
 
 The Science Department is committed to nurturing students who demonstrate a high level of curiosity in Science and a high level of motivation and concentration and can make intuitive leaps in solving Science problems. We also want our students to be able to comprehend abstract concepts beyond age level expectations and see connections between Science and other disciplines.
 
@@ -46,13 +46,13 @@ The programme is divided into three tiers:
 *   National and international competitions  
     
 		
-### Learning Outcomes and Objectives
+#### **Learning Outcomes and Objectives**
 
 1. Demonstrate a high level of curiosity in Science and a high level of motivation and concentration. 
 2. Make intuitive leaps in solving Science problems. 
 3. Comprehend abstract concepts beyond age level expectations and see connections between Science and other disciplines
 
-### Programme Highlights
+#### **Programme Highlights**
 
 Science Experiential, Enrichment and Development Programme (SEED) which aims to promote interest and authentic learning in Science and Technology within and beyond the confines of the classroom
 
@@ -84,11 +84,11 @@ Science Experiential, Enrichment and Development Programme (SEED) which aims to 
 * Sustainability Challenge - Silver
 * Interdisciplinary Group Project - Gold
 
-### Achievements
+#### **Achievements**
 * Best Oral Defense Award' for USPE 2023
 * Bronze Award' for SISTEMIC 2023
 
-### The PRSS Ecogarden 
+#### **The PRSS Ecogarden** 
 
 *  Provides an authentic environment for experiential learning to instil the joy of learning, foster curiosity, deepen learning, cultivate responsibility and to improve sense of belonging to the school.
 *   Enables students to better appreciate the relevance of prevalent global issues which may impact their lives and help extend their learning beyond the syllabus and classroom when learning activities across subjects and levels are aligned to relevant UN sustainable development goals.
@@ -97,7 +97,7 @@ Science Experiential, Enrichment and Development Programme (SEED) which aims to 
 
 You can access the virtual tour of our school's Eco Garden [here](https://www.theasys.io/viewer/qkQVL2MUIHWYlEYQ7leC0upoNvvyEg/).
 
-### People
+#### **People**
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
@@ -119,24 +119,22 @@ You can access the virtual tour of our school's Eco Garden [here](https://www.th
 | Laboratory Technician | Mdm Dinah Tan Kwee Choo | [tan_kwee_choo@moe.edu.sg](mailto:tan_kwee_choo@moe.edu.sg) |
 | Laboratory Technician | Ms Khairunnisa Rahmat | [khairunnisa_rahmat@moe.edu.sg](mailto:khairunnisa_rahmat@moe.edu.sg) |
 
-### Photos
-
+#### **Photos**
 
 Our Sec 3 students Lim Sing Yee, Marcus Lim, Osbert Tham, took part in the recent @9th ASEAN Plus Three Junior Science Odyssey&nbsp;(APT JSO) and won the Silver award by using their Chemistry skills knowledge to turn used cooking oil into soap in the Science lab.
 
 <a href="https://www.youtube.com/shorts/97OrF_BKt7g">![](/images/sciencereel.png)</a>
 
-
 <img style="width:53%;float:left" src="/images/Picture3.jpeg"><img style="width:47%" src="/images/Picture4.jpeg">
 
-Teachers as Facilitators of Students’ Learning Experiences  
+<center>Teachers as Facilitators of Students’ Learning Experiences<br>  
 
 ![](/images/Picture5.jpeg)
 
 <img style="width:43%;float:left" src="/images/Picture6.jpeg"><img style="width:57%" src="/images/Picture7.jpeg">
 
-Students as Inquirers in the Science classroom  
+<center>Students as Inquirers in the Science classroom<br>  
 
 ![](/images/science2.png)
 
-Students demonstrating evidence of their learning at different national and international competitions
+Students demonstrating evidence of their learning at different national and international competitions.</center></center>

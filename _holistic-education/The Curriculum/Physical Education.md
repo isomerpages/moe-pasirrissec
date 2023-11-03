@@ -4,7 +4,7 @@ permalink: /holistic-education/The-Curriculum/Physical-Education/
 description: ""
 third_nav_title: The Curriculum
 ---
-### Programme
+### **Programme**
 
 The Physical Education Department at PRSS aspires to develop Pasirians' to cultivate skills, practices and values to enjoy a lifetime of active healthy living. Our PE programme consists mainly of:
 
@@ -12,11 +12,11 @@ The Physical Education Department at PRSS aspires to develop Pasirians' to culti
 2. Sports Module
 3. Outdoor Education Lessons
 
-### Learning outcomes and objectives
+#### **Learning outcomes and objectives**
 
 To enable Pasirians to demonstrate individually and with others the physical skills, practices and values to enjoy a lifetime of active and healthy living.
 
-### Programme Highlights
+#### **Programme Highlights**
 
 Termly Physical Activities Games Modules 
 Physical, Health and Fitness
@@ -28,7 +28,7 @@ Annual Cross-Country Meet
 Inter-Class Games
 Learn To Play Games Enrichment Modules
 
-### People
+#### **People**
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
@@ -37,18 +37,18 @@ Learn To Play Games Enrichment Modules
 | Physical Education  | Mr Mohammed Riffaii Bin Maidin<br> SH Discipline | [mohammed_riffaii_maidin@moe.edu.sg](mailto:mohammed_riffaii_maidin@moe.edu.sg)|
 | Physical Education  | Mr Abdul Halim Bin Mohamed Udori | [abdul_halim_mohamed_udori@moe.edu.sg](mailto:abdul_halim_mohamed_udori@moe.edu.sg)|
 | Physical Education  | Mr Yew Kah Keat Vincent| [yew_kah_keat_vincent@moe.edu.sg](mailto:yew_kah_keat_vincent@moe.edu.sg)|
-| Physical Education  | Mr Mohamed Iskandar Bin Ahmad | [mohamed_iskandar_ahmad@moe.edu.sg](mailto:mohamed_iskandar_ahmad@moe.edu.sg)  |
+| Physical Education  | Mr Mohamed Iskandar Bin Ahmad | [mohamed_iskandar_ahmad@moe.edu.sg](mailto:mohamed_iskandar_ahmad@moe.edu.sg) |
 
-### Photos
+#### **Photos**
 
 ![](/images/physical.png)
 
-_**Sports and Games Module**_  
+<center>Sports and Games Module<br>  
   
 ![](/images/PHF.jpeg)
 
-_**Physical Health and Fitness**_
+<center>Physical Health and Fitness<br>
   
 ![](/images/physical2.png)
 
-_**Outdoor Education**_
+<center>Outdoor Education<br></center></center></center>

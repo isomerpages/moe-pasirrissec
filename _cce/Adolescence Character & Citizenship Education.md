@@ -1,5 +1,5 @@
 ---
-title: Adolescence Character &amp; Citizenship Education
+title: Adolescence Character & Citizenship Education
 permalink: /cce/Adolescence-CCE-AC2E/
 description: ""
 ---
@@ -17,7 +17,7 @@ d) **Future readiness**: Have a sense of purpose in life, develop the dispositio
 
 Students will learn values through three overarching ideas, namely (Identity, Relationships and Choices) in six domains, starting with self and extending to the family, school, community, nation and the world. The diagram below shows the Core Values, the 3 Big Ideas and the Expanding Domains in the CCE syllabus.  
 
-## CCE 2021 Curriculum Frame
+### **CCE 2021 Curriculum Frame**
 
 ![](/images/The%20CCE%202021%20Curriculum%20Frame.png)
 

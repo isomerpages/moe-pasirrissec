@@ -26,14 +26,14 @@ Since 2015, our school has been on the Applied Learning Programme (ALP) in Human
 | Social Studies/ Geography | Mdm Hairunisa Hosnin | [hairunisa_hosnin@moe.edu.sg](mailto:hairunisa_hosnin@moe.edu.sg) |
 | Geography/ English Language | Mdm Noraidah Suwandi | [noraidah_suwandi@moe.edu.sg](mailto:noraidah_suwandi@moe.edu.sg) |
 | Elements of Business Skills/ English Language | Mdm Lee Wei Wei | [lee_wei_wei@moe.edu.sg](mailto:lee_wei_wei@moe.edu.sg) |
-| Elements of Business Skills/ English Language | Ms Cindy Soh | [soh_sock_kheng@moe.edu.sg](mailto:soh_sock_kheng@moe.edu.sg) |
 | Geography/ Social Studies | Ms Sabrina Ho | [ho_yen_yin_sabrina@moe.edu.sg](mailto:ho_yen_yin_sabrina@moe.edu.sg)|
 | History/ English Language | Ms Mavis Ho | [ho_min_yu_mavis@moe.edu.sg](mailto:ho_min_yu_mavis@moe.edu.sg) |
+| History/English Language | Mdm Shahilla d/0 K Balakrishnan | [shahilla_balakrishnan@moe.edu.sg](mailto:shahilla_balakrishnan@moe.edu.sg) |
 | Social Studies/ English Language | Ms Shayne Ong Chi Ying | [chi_ying_shayne_ong@moe.edu.sg](mailto:chi_ying_shayne_ong@moe.edu.sg) |
-| History/ English Language | Mr Zulkifli Mohamed Saat (AED) | [zulkifli_mohamed_saat@moe.edu.sg](mailto:zulkifli_mohamed_saat@moe.edu.sg) |
+| Social Studies/History | Ms Fiona Chew | [chew_xin_rong_fiona@moe.edu.sg](mailto:chew_xin_rong_fiona@moe.edu.sg) |
 | Humanities/ English Language | Ms Nadirah Binte Jamallodin (AED) | [nadirah_a@moe.edu.sg](mailto:nadirah_a@moe.edu.sg) |
-| Social Studies/ History | Ms Fiona Chew | [chew_xin_rong_fiona@moe.edu.sg](mailto:chew_xin_rong_fiona@moe.edu.sg) |
-| History/ English Language | Mdm Shahilla d/0 K Balakrishnan | [shahilla_balakrishnan@moe.edu.sg](mailto:shahilla_balakrishnan@moe.edu.sg) |
+
+
 
 ### Photos
 

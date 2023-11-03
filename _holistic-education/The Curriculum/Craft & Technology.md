@@ -4,8 +4,8 @@ permalink: /holistic-education/The-Curriculum/Craft-and-Technology/
 description: ""
 third_nav_title: The Curriculum
 ---
-Programme
----------
+### **Programme**
+
   
 <ul class="jekyllcodex_accordion">  
 <li>  
@@ -19,7 +19,7 @@ Programme
 
 <p align="center">Source: MOE Syllabus document </p>
 
-<p>The DT Unit uses the Design Process Model as a thinking routine and vehicle for designing to create change so as to affect empathy, practicality and appropriateness in everyday life.  </p>
+<p>The DT Unit uses the Design Process Model as a thinking routine and vehicle for designing to create change so as to affect empathy, practicality and appropriateness in everyday life. </p>
   
 <img src="/images/Research.png">
 
@@ -30,7 +30,7 @@ Programme
  
 <img src="/images/Area%20Survey.jpeg">
 
-### <p>Idea Conceptualization &amp; Development</p>
+### <p>Idea Conceptualization and Development</p>
 <p>Use sketching, doodling and any other graphical means to generate, explore, communicate and develop creative and innovative solutions. </p>
   
 <img src="/images/ideas.jpeg">
