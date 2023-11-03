@@ -36,7 +36,7 @@ We are helping out our neighbouring Yumin Primary school to have friendly matche
 | Monday | 3.30pm - 6.30pm | Upper Indoor Sports Hall |
 | Friday | 1.30pm - 4.30pm | Upper Indoor Sports Hall |
 
-### **Teachers in charge**
+### **Teachers-in-charge**
 
 * Mdm Nadiah (IC)  
 * Miss Shayne Ong (2IC)  
