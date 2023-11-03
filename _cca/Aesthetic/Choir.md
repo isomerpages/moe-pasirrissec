@@ -3,6 +3,7 @@ title: Choir
 permalink: /cca/Aesthetic/Choir/
 description: ""
 third_nav_title: Aesthetic
+variant: markdown
 ---
 ### About us
 
@@ -20,6 +21,7 @@ Every year is an exciting year for PRSS Choir, with an array of meaningful activ
 * 2018 Supernova Combined Choir Concert - ACSI
 * 2019 SYF Celebrations in the City Performance
 * 2020 Limelight 2020 - Esplanade Concert Hall
+* 2023 Singapore Youth Festival
 
 ### Achievements
 
