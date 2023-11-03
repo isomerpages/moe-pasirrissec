@@ -18,9 +18,8 @@ sections:
       title: Pasir Ris Secondary School
   - infopic:
       title: PRSS OPEN HOUSE 25 NOV 2023
-      subtitle: PRSS OPEN HOUSE
       description: Click on the link to find out more
-      button: more
+      button: OPEN HOUSE
       url: /e-open-house/e-open-house/
       image: /images/E Open house/open house banner.png
       alt: The Pasirian Experience
