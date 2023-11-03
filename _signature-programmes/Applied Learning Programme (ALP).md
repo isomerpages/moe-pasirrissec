@@ -42,8 +42,8 @@ Transform physical spaces into themed corners to cultivate students’ interest 
 <br>Bottom left: Our Sec 2 students undergoing a film making workshop .conducted by industry professionals.<br>Top right: Our students sharing about the PRSS Waves Radio show to guests during the 35th Anniversary celebrations.
 <br>Bottom right: Our #Ruminate gallery where students can learn more about contemporary issues and news that affect our community. 
 <br><br>
-https://drive.google.com/file/d/1gQ-C-Hm7DchXvdxqkyJ4dyd9UhEN0Tyb/view?usp=sharing
-<iframe width="560" height="369" src="https://www.youtube.com/embed/SHelsGz7fbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GFybHyxVc8g?si=TrtdgRkdO9lTi1Ck" height="315" width="560"></iframe>	
 <br>
 <iframe allowfullscreen="true" height="369" width="560" frameborder="0" src="https://docs.google.com/presentation/d/1u2bqYOlYKGSmtsRYOwCuHjLjR_YirObR0Xidi6O1y4g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
