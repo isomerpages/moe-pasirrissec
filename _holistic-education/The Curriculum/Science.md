@@ -3,6 +3,7 @@ title: Science
 permalink: /holistic-education/The-Curriculum/Science/
 description: ""
 third_nav_title: The Curriculum
+variant: markdown
 ---
 ### **Students as Inquirers, Teachers as Facilitators of Students’ Learning Experiences**
 
@@ -105,36 +106,27 @@ You can access the virtual tour of our school's Eco Garden [here](https://www.th
 | Chemistry | Mr Chua Khoon Wee<br>HOD Information Communication Technology | [chua_Khoon_Wee@moe.edu.sg](mailto:chua_Khoon_Wee@moe.edu.sg) |
 | Biology/ Lower Secondary Science| Mr Joshua Tan<br>HOD Character &amp; Citizenship Education |  [joshua_tan_see_kuang@moe.edu.sg](mailto:joshua_tan_see_kuang@moe.edu.sg) | 
 | Physics/ NT Science| Mr Mohamed Ashiq<br>YH Upper Secondary | [mohamed_ashiq_mohamed@moe.edu.sg](mailto:mohamed_ashiq_mohamed@moe.edu.sg) | 
-| Biology | Mr Daniel Ng Tze Keen<br>SH Character &amp; Citizenship Education | [ng_tze_keen_daniel@moe.edu.sg](mailto:ng_tze_keen_daniel@moe.edu.sg) |
-| Chemistry/ Physical Education | Mr Mohammed Riffaii<br>SH Discipline | [mohammed_riffaii_maidin@moe.edu.sg](mailto:mohammed_riffaii_maidin@moe.edu.sg)|
+| Chemistry/ Lower Secondary Science | Ms Quah Wei Wei <br>LH Lower Secondary Science | [quah_wei_wee@moe.edu.sg](mailto:quah_wei_wee@moe.edu.sg) |
+| Biology/ Lower Secondary Science | Mr Daniel Ng Tze Keen<br>SH Character &amp; Citizenship Education | [ng_tze_keen_daniel@moe.edu.sg](mailto:ng_tze_keen_daniel@moe.edu.sg) |
+| Chemistry/ Lower Secondary Science/ Physical Education | Mr Mohammed Riffaii<br>SH Discipline | [mohammed_riffaii_maidin@moe.edu.sg](mailto:mohammed_riffaii_maidin@moe.edu.sg)|
 | Physics | Mr Chiang Shu Lee<br>ST Physics | [chiang_shu_lee@moe.edu.sg](mailto:chiang_shu_lee@moe.edu.sg) |
 | Physics/ NT Science | Mdm Siti Mariam <br>ST Character &amp; Citizenship Education | [siti_mariam_hashim@moe.edu.sg](mailto:siti_mariam_hashim@moe.edu.sg) |
-| Chemistry/ Lower Secondary Science | Ms Quah Wei Wei <br>LH Lower Secondary Science | [quah_wei_wee@moe.edu.sg](mailto:quah_wei_wee@moe.edu.sg) |
-| Chemistry/ Lower Secondary Science / Mathematics | Mdm Zulaiha Osman | [zulaiha_osman@moe.edu.sg](mailto:zulaiha_osman@moe.edu.sg) |
+| Biology/ Lower Secondary Science | Mr Winston Chiang | [winston_chiang_ming_yao@moe.edu.sg](mailto:winston_chiang_ming_yao@moe.edu.sg) |
 | Chemistry/ Mathematics | Mr Gan Chun Seng Stephen | [gan_chun_seng@moe.edu.sg](mailto:gan_chun_seng@moe.edu.sg) |
 | Chemistry/ NT Science | Ms Jaslin Jiang | [jiang_wei_yeow@moe.edu.sg](mailto:jiang_wei_yeow@moe.edu.sg) |
-| Physics/ Lower Secondary Science | Mr Kok Wai Keong Kevin | [Kok_Wai_Keong_Kevin@moe.edu.sg](mailto:Kok_Wai_Keong_Kevin@moe.edu.sg) |
+| Biology/ Lower Secondary Science | Mr Zachary Koh Jia Sheng | [koh_jia_sheng_zachary@moe.edu.sg](mailto:koh_jia_sheng_zachary@moe.edu.sg) |
+| Physics/ Chemistry/ Lower Secondary Science | Mr Kok Wai Keong Kevin | [Kok_Wai_Keong_Kevin@moe.edu.sg](mailto:Kok_Wai_Keong_Kevin@moe.edu.sg) |
 | Physics/ Mathematics | Mr Seong Then Yee | [seong_then_yee@moe.edu.sg](mailto:seong_then_yee@moe.edu.sg) |
-| Biology/ Chemistry | Mr Zachary Koh Jia Sheng | [koh_jia_sheng_zachary@moe.edu.sg](mailto:koh_jia_sheng_zachary@moe.edu.sg) |
+| Chemistry/ Lower Secondary Science / Mathematics | Mdm Zulaiha Osman | [zulaiha_osman@moe.edu.sg](mailto:zulaiha_osman@moe.edu.sg) |
 | Laboratory Technician | Mdm Dinah Tan Kwee Choo | [tan_kwee_choo@moe.edu.sg](mailto:tan_kwee_choo@moe.edu.sg) |
 | Laboratory Technician | Ms Khairunnisa Rahmat | [khairunnisa_rahmat@moe.edu.sg](mailto:khairunnisa_rahmat@moe.edu.sg) |
 
 #### **Photos**
 
-Our Sec 3 students Lim Sing Yee, Marcus Lim, Osbert Tham, took part in the recent @9th ASEAN Plus Three Junior Science Odyssey&nbsp;(APT JSO) and won the Silver award by using their Chemistry skills knowledge to turn used cooking oil into soap in the Science lab.
+![Teachers as Facilitators of Students’ Learning Experiences](/images/Curriculum/Science/science%2001.jpg)<center>Teachers as Facilitators of Students’ Learning Experiences</center><br>
 
-<a href="https://www.youtube.com/shorts/97OrF_BKt7g">![](/images/sciencereel.png)</a>
+![Students as Inquirers in the Science classroom](/images/Curriculum/Science/science%2002.jpg)
+<center>Students as Inquirers in the Science classroom</center>
 
-<img style="width:53%;float:left" src="/images/Picture3.jpeg"><img style="width:47%" src="/images/Picture4.jpeg">
-
-<center>Teachers as Facilitators of Students’ Learning Experiences<br>  
-
-![](/images/Picture5.jpeg)
-
-<img style="width:43%;float:left" src="/images/Picture6.jpeg"><img style="width:57%" src="/images/Picture7.jpeg">
-
-<center>Students as Inquirers in the Science classroom<br>  
-
-![](/images/science2.png)
-
-Students demonstrating evidence of their learning at different national and international competitions.</center></center>
+![Students demonstrating evidence of their learning at different national &amp; international competitions](/images/Curriculum/Science/science%2003.jpeg)
+<center>Students demonstrating evidence of their learning at different national and international competitions</center><br>

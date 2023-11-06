@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /Contact-Us/
 description: ""
+variant: markdown
 ---
 ##### **Main Office**
 390 Tampines Street 21<br>
@@ -16,6 +17,7 @@ Tel: +65 6501 0800 <br>
 Fax: +65 6501 0900<br>
 Email: prss@moe.edu.sg
 
+We will contact you within 3 working days for any enquiry.
 
 ##### **For Counselling or Learning &amp; Behavioural Support**
 
@@ -27,7 +29,7 @@ Please contact the following:
 
 3. ECG Counsellor: syahril_samsudin@moe.edu.sg
 
-##### **SLS Account or Password Enquiries**
+##### **For SLS Account or Password Enquiries**
 
 Please contact the following:
 
@@ -47,4 +49,5 @@ Please contact the following:
 | -------- | -------- | 
 |East-West Line  | Alight at Tampines MRT Station (EW2)  |
 |  Downtown Line | Alight at Tampines (DT32) Station  | 
-|and we are just a stone's throw away! |   |
+
+We are just a stone's throw away! 
