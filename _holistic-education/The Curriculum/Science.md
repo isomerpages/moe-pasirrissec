@@ -123,20 +123,8 @@ You can access the virtual tour of our school's Eco Garden [here](https://www.th
 
 #### **Photos**
 
-Our Sec 3 students Lim Sing Yee, Marcus Lim, Osbert Tham, took part in the recent @9th ASEAN Plus Three Junior Science Odyssey&nbsp;(APT JSO) and won the Silver award by using their Chemistry skills knowledge to turn used cooking oil into soap in the Science lab.
-
-<a href="https://www.youtube.com/shorts/97OrF_BKt7g">![](/images/sciencereel.png)</a>
-
-<img style="width:53%;float:left" src="/images/Picture3.jpeg"><img style="width:47%" src="/images/Picture4.jpeg">
-
-<center>Teachers as Facilitators of Students’ Learning Experiences<br>  
-
-![](/images/Picture5.jpeg)
-
-<img style="width:43%;float:left" src="/images/Picture6.jpeg"><img style="width:57%" src="/images/Picture7.jpeg">
-
-<center>Students as Inquirers in the Science classroom<br>  
-
-![](/images/science2.png)
-
-Students demonstrating evidence of their learning at different national and international competitions.</center></center>
+![Teachers as Facilitators of Students’ Learning Experiences](/images/Curriculum/Science/science%2001.jpg)<center>Teachers as Facilitators of Students’ Learning Experiences</center><br>
+![Students as Inquirers in the Science classroom](/images/Curriculum/Science/science%2002.jpg)
+<center>Students as Inquirers in the Science classroom</center><br>
+![Students demonstrating evidence of their learning at different national &amp; international competitions](/images/Curriculum/Science/science%2003.jpeg)
+<center>Students demonstrating evidence of their learning at different national and international competitions</center><br>
