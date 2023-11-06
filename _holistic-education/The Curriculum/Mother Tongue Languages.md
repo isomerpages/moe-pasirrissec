@@ -3,6 +3,7 @@ title: Mother Tongue Languages
 permalink: /holistic-education/The-Curriculum/Mother-Tongue-Languages/
 description: ""
 third_nav_title: The Curriculum
+variant: markdown
 ---
 ### **Programme**
 
@@ -59,7 +60,13 @@ We seek to develop Pasirians who will be:
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/kongsi%20raya%202023%20collage.jpg)
 
+![](/images/Curriculum/Mother%20Tongue%20Language/hari%20raya%20concert%202023.jpeg)
+
 ![](/images/mothertongue2.png)
+
+![](/images/Curriculum/Mother%20Tongue%20Language/upper%20sec%20class%20decoration%20competition.png)
+
+![](/images/Curriculum/Mother%20Tongue%20Language/lower%20sec%20class%20mascot%20competition.png)
 
 ![](/images/Deepavali.jpeg)
 
