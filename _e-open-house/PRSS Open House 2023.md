@@ -1,7 +1,8 @@
 ---
-title: PRSS e Open House 2023
+title: PRSS Open House 2023
 permalink: /e-open-house/e-open-house/
 description: ""
+variant: tiptap
 ---
 <a href="/e-open-house/Principals-Welcome-Message/"><img src="/images/principal.png" style="width:25%;float:left"></a>
 <a href="/e-open-house/Campus-Tour/"><img src="/images/campustour.png" style="width:25%;float:left"></a>

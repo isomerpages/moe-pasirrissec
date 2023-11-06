@@ -3,10 +3,11 @@ title: National Police Cadet Corps
 permalink: /cca/Uniformed-Groups/National-Police-Cadet-Corps/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-### About us
+### **About us**
 
-**“Only the Best wear Blue”.**
+#### **“Only the Best wear Blue”.**
 
 Pasir Ris Secondary NPCC Unit believes in developing our cadets' character, leadership and resilience. Hence, our unit motto is Nurturing Leaders of Tomorrow. We will always ensure that all the cadets will have a fulfilling experience discovering about themselves and learning skills that will be useful for the future. 
 
@@ -16,7 +17,7 @@ Some of our unit programs include the 0.22 revolver shooting, Crime Scene Invest
 
 In 2023, we will continue to carry out more programmes face to face so that our cadets can learn more effectively to achieve our goals.
 
-### Highlights
+### **Highlights**
 
 Unit Overall Proficiency Award (UOPA) – Gold Award (2006 - 2021)<br>
 Unit Overall Proficiency Award (UOPA) – Distinction Award (2022)<br>
@@ -62,25 +63,31 @@ Urban Adventure Civil Defence Skills Challenge 2019 - 3rd place (Open Category)
 
 20 of our cadets took part in the National Day Parade 2022 At The Float@Marina
 
-### Achievements
+### **Achievements**
 
 UNIT OVERALL PROFICENCY AWARD - DISTINCTION (2022)
 
-### Schedule
+### **Schedule**
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
 | Tuesday | 3.30pm - 6.00pm | New Foyer / Parade Square |
 | Friday | 2.30pm - 6.00pm | New Foyer / Parade Square |
 
-### Teachers-in-charge
+### **Teachers-in-charge**
 
 * Ms Cindy Soh Sock Kheng (OC) (Jan 2023 - Jun 2023)
 * Mr Seong Then Yee (OC) (Jul 2023 - Till Present)
 * Mr Seong Then Yee (DYOC) (Jan 2023 - Jun 2023)
 * Ms Kimberlyn Lee (DYOC) (Jul 2023 - Till Present)
 
-### Photos
+### **Photos**
+
+![](/images/CCA/NPCC/npcc%2001.jpg)
+
+![](/images/CCA/NPCC/npcc%2002.jfif)
+
+![](/images/CCA/NPCC/npcc%2003.jfif)
 
 ![](/images/UNIT%20PHOTO%202022.jpeg)
 <center>Unit Photo 2022</center>
@@ -101,5 +108,7 @@ UNIT OVERALL PROFICENCY AWARD - DISTINCTION (2022)
 <center>CSSP Presentation</center>
 
 ![](/images/NDP%20at%20Platform.jpeg)
+
 ![](/images/NDP%20at%20Platform1.jpeg)
+
 ![](/images/NDP%20at%20Platform2.jpeg)

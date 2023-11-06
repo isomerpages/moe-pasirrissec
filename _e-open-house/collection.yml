@@ -2,7 +2,7 @@ collections:
   e-open-house:
     output: true
     order:
-      - PRSS e Open House 2023.md
+      - PRSS Open House 2023.md
       - Principal's Welcome Message.md
       - Campus Tour.md
       - Our Pasirian Experience.md

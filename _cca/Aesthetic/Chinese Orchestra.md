@@ -3,6 +3,7 @@ title: Chinese Orchestra
 permalink: /cca/Aesthetic/Chinese-Orchestra/
 description: ""
 third_nav_title: Aesthetic
+variant: markdown
 ---
 ### About us
 
@@ -24,6 +25,7 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 * 2021: Chinese New Year Celebrations - Music Video 
 * 2022: Chinese New Year Celebrations - Music Video 
 * 2022: Young Talent Showcase @ OTH
+* 2023: Singapore Youth Festival
 
 ### Achievement
 
