@@ -49,4 +49,5 @@ Please contact the following:
 | -------- | -------- | 
 |East-West Line  | Alight at Tampines MRT Station (EW2)  |
 |  Downtown Line | Alight at Tampines (DT32) Station  | 
-|and we are just a stone's throw away! |   |
+
+We are just a stone's throw away! 
