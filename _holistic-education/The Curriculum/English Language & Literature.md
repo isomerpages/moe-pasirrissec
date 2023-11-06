@@ -3,6 +3,7 @@ title: English Language & Literature
 permalink: /holistic-education/The-Curriculum/English-Language-and-Literature/
 description: ""
 third_nav_title: The Curriculum
+variant: markdown
 ---
 ### **Programme**
 
@@ -54,5 +55,18 @@ It is our goal to continue to engage our students and to prepare them for the ch
 
 ### **Photos**
 
+![](/images/Curriculum/English%20Language/ell%2001.JPG)
+
+![](/images/Curriculum/English%20Language/ell%2002.JPG)
+
+![](/images/Curriculum/English%20Language/ell%2003.jpg)
+
+![](/images/Curriculum/English%20Language/ell%2004.jpg)
+
+![](/images/Curriculum/English%20Language/ell%2005.jpg)
+
+![](/images/Curriculum/English%20Language/ell%2006.jpg)
+
 ![](/images/english.png)
+
 ![](/images/english2.png)
