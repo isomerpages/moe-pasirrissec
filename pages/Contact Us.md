@@ -17,6 +17,7 @@ Tel: +65 6501 0800 <br>
 Fax: +65 6501 0900<br>
 Email: prss@moe.edu.sg
 
+We will contact you within 3 working days for any enquiry.
 
 ##### **For Counselling or Learning &amp; Behavioural Support**
 
