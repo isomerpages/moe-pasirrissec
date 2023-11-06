@@ -3,6 +3,7 @@ title: Physical Education
 permalink: /holistic-education/The-Curriculum/Physical-Education/
 description: ""
 third_nav_title: The Curriculum
+variant: markdown
 ---
 ### **Programme**
 
@@ -41,14 +42,6 @@ Learn To Play Games Enrichment Modules
 
 #### **Photos**
 
-![](/images/physical.png)
+![PRSS PE Department 2023](/images/Curriculum/Physical%20Education/prss%20pe%20dept%202023.jfif)
+<center>PRSS PE Department</center><br>
 
-<center>Sports and Games Module<br>  
-  
-![](/images/PHF.jpeg)
-
-<center>Physical Health and Fitness<br>
-  
-![](/images/physical2.png)
-
-<center>Outdoor Education<br></center></center></center>
