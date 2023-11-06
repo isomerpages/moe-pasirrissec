@@ -60,8 +60,7 @@ We seek to develop Pasirians who will be:
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/kongsi%20raya%202023%20collage.jpg)
 
-![](/images/Curriculum/Mother%20Tongue%20Language/hari%20raya%20concert%202023.jpeg)
-<center>Hari Raya Concert 2023</center>
+![](/images/Curriculum/Mother%20Tongue%20Language/hari%20raya%20concert%202023.jpeg)<center>Hari Raya Concert 2023</center>
 
 ![](/images/mothertongue2.png)
 
