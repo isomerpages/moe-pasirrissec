@@ -61,15 +61,21 @@ We seek to develop Pasirians who will be:
 ![](/images/Curriculum/Mother%20Tongue%20Language/kongsi%20raya%202023%20collage.jpg)
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/hari%20raya%20concert%202023.jpeg)
+<center>Hari Raya Concert 2023</center>
 
 ![](/images/mothertongue2.png)
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/upper%20sec%20class%20decoration%20competition.png)
+<center>Upper Sec Class Decoration Competition</center>
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/lower%20sec%20class%20mascot%20competition.png)
+<center>Lower Sec Class Mascot Competition</center>
 
 ![](/images/Deepavali.jpeg)
 
 ![](/images/Reading%20Programme.jpeg)
 
 ![](/images/mother3.png)
+
+![](/images/Curriculum/Mother%20Tongue%20Language/cultural%20trail%20at%20kampung%20glam.jpeg)
+<center>Cultural Trail at Kampung Glam</center>
