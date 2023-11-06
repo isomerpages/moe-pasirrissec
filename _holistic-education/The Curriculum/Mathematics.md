@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /holistic-education/The-Curriculum/Mathematics/
 description: ""
 third_nav_title: The Curriculum
+variant: markdown
 ---
 #### **Programme**
 
@@ -49,22 +50,11 @@ The Mathematics curriculum is closely aligned to MOE defined syllabus and includ
 
 #### **Photos**
 
-![](/images/Conduct%20of%20SLS%20Lesson%20in%20Class.jpeg)
-<center>Conduct of SLS Lesson in Class  
-<br>
-	
-![](/images/1%20to%201%20programme.jpeg)
-<center>1-to-1 programme
-<br>
+![](/images/Curriculum/Mathematics/maths%20comp%20lab.jpg)
+<center>Computer Lab</center>
 
-![](/images/Collaboration%20at%20math%20trail.jpeg)
-<center>Collaboration at Math Trail
-<br>
+![](/images/Curriculum/Mathematics/redesign%20cup.jpg)
+<center>Student redesigning the cup&gt;</center>
 
-![](/images/Conduct%20of%20Virtual%20Math%20Trail.jpeg)
-<center>Conduct of Virtual Math Trail
-<br>
-
-![](/images/Virtual%20Math%20Trail.jpeg)
-<center>Virtual Math Trail
-<br></center></center></center></center></center>
+![](/images/Curriculum/Mathematics/maths%20trail.jpg)
+<center>Maths Trail</center>
