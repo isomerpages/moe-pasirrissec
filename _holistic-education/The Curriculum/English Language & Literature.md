@@ -57,8 +57,6 @@ It is our goal to continue to engage our students and to prepare them for the ch
 
 ![](/images/Curriculum/English%20Language/ell%2001.JPG)
 
-![](/images/Curriculum/English%20Language/ell%2002.JPG)
-
 ![](/images/Curriculum/English%20Language/ell%2003.jpg)
 
 ![](/images/Curriculum/English%20Language/ell%2004.jpg)
