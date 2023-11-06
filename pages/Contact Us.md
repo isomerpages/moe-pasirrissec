@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /Contact-Us/
 description: ""
+variant: markdown
 ---
 ##### **Main Office**
 390 Tampines Street 21<br>
@@ -27,7 +28,7 @@ Please contact the following:
 
 3. ECG Counsellor: syahril_samsudin@moe.edu.sg
 
-##### **SLS Account or Password Enquiries**
+##### **For SLS Account or Password Enquiries**
 
 Please contact the following:
 
