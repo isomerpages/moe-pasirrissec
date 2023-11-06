@@ -46,7 +46,7 @@ Learn To Play Games Enrichment Modules
 <center>PRSS PE Department</center><br>
 
 ![](/images/Curriculum/Physical%20Education/cross%20country%202023%2001.jpeg)
-<center>Cross Country 2023t</center><br>
+<center>Cross Country 2023</center><br>
 
 ![](/images/Curriculum/Physical%20Education/cross%20country%202023%2002.jpeg)
 
