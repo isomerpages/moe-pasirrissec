@@ -124,7 +124,9 @@ You can access the virtual tour of our school's Eco Garden [here](https://www.th
 #### **Photos**
 
 ![Teachers as Facilitators of Students’ Learning Experiences](/images/Curriculum/Science/science%2001.jpg)<center>Teachers as Facilitators of Students’ Learning Experiences</center><br>
+
 ![Students as Inquirers in the Science classroom](/images/Curriculum/Science/science%2002.jpg)
-<center>Students as Inquirers in the Science classroom</center><br>
+<center>Students as Inquirers in the Science classroom</center>
+
 ![Students demonstrating evidence of their learning at different national &amp; international competitions](/images/Curriculum/Science/science%2003.jpeg)
 <center>Students demonstrating evidence of their learning at different national and international competitions</center><br>
