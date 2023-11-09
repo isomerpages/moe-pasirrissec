@@ -22,8 +22,8 @@ sections:
       url: /e-open-house/e-open-house/
       image: /images/E Open house/open house banner.png
       alt: The Pasirian Experience
-      description: "Visit us at our school during our Open House on 25 Nov. No
-        pre-registration required. "
+      description: Visit us at our school during our Open House on 25 Nov. No
+        pre-registration required.
   - infopic:
       title: PRSS Campus Tour
       description: Click the link below for a 360° tour of the school
