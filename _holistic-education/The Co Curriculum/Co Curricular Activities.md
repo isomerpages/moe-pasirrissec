@@ -44,6 +44,8 @@ Except for medical reasons, an attendance rate of less than 50% would constitute
 [<img src="/images/tinkersclub.png" style="width:20%;float:left">](/cca/Clubs/Tinkers-Club/)
 <br>
 <br>
+<br>
+<br>
 #### **Sports &amp; Games**
 
 [<img src="/images/basket.png" style="width:25%;float:left">](/cca/Sports-and-Games/Basketball/)
@@ -52,10 +54,8 @@ Except for medical reasons, an attendance rate of less than 50% would constitute
  [<img src="/images/netball.png" style="width:25%;float:left">](/cca/Sports-and-Games/Netball/)
 [<img src="/images/volleyb.png" style="width:25%;float:left">](/cca/Sports-and-Games/Volleyball/)
 [<img src="/images/badminton.png" style="width:25%;float:left">](/cca/Sports-and-Games/Badminton/)
-
-<br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br>
-<br><br>
+<br>
+<br>
 #### **Uniformed Groups**
 
 [<img src="/images/ncclogo.png" style="width:25%;float:left">](/cca/Uniformed-Groups/National-Cadet-Corps/)
