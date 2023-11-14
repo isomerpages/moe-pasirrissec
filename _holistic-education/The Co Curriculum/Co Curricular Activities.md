@@ -3,6 +3,7 @@ title: Co Curricular Activities
 permalink: /holistic-education/The-Co-Curriculum/Co-Curricular-Activities/
 description: ""
 third_nav_title: The Co Curriculum
+variant: markdown
 ---
 Co-Curricular Activities (CCAs) are an integral part of the holistic, well-rounded education that PRSS seeks to provide. The school has a broad and diverse range of CCAs to cater to the different needs and interests of our students. Through active participation, Pasirians will gain a positive school experience. The CCA experiences will not only provide them with the platform to acquire inter-personal and leadership skills, they also give them the opportunity to thrive for excellence. PRSS leverages on CCAs as a platform for students to develop their character, qualities and be prepared to manage challenging environments.
 
@@ -36,8 +37,6 @@ Except for medical reasons, an attendance rate of less than 50% would constitute
 [<img src="/images/ModernDance.png" style="width:20%;float:left">](/cca/Aesthetic/Modern-Dance/)
 		 
 [<img src="/images/EnglishDrama.png" style="width:20%">](/cca/Aesthetic/English-Drama/)
-
-<br><br><br><br><br><br>
 
 #### **Clubs**
 
