@@ -17,6 +17,15 @@ sections:
           url: /Information-for-Parents/Event-for-Parents/
       title: Pasir Ris Secondary School
   - infopic:
+      title: Open House Programme is out!
+      id: infopic
+      description: We are excited to announce that the programme for our Open House on
+        25 November 2023 is now out!
+      image: /images/Open_House_2023_programme.png
+      alt: Image alt text
+      url: /openhouse2023/
+      button: Click here
+  - infopic:
       title: PRSS OPEN HOUSE 25 NOV 2023
       button: Find out more about us
       url: /e-open-house/e-open-house/
