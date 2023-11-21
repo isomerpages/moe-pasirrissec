@@ -23,7 +23,7 @@ sections:
         25 November 2023 is now out!
       image: /images/Open_House_2023_programme.png
       alt: Image alt text
-      url: https://pasirrissec.moe.edu.sg/permalink/open_house_2023
+      url: /openhouse2023/
       button: Click here
   - infopic:
       title: PRSS OPEN HOUSE 25 NOV 2023
