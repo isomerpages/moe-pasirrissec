@@ -2,6 +2,7 @@
 title: Canteen Advertisement
 permalink: /useful-links/canteenadvertisement/
 description: ""
+variant: markdown
 ---
 **School Canteen Advertisement**
 
@@ -9,7 +10,7 @@ description: ""
 
 | Type of Stalls | Closing Date | Requirements|
 | -------- | -------- | -------- |
-|Chinese Cuisine Stall (Economy Rice)    | 17 November 2023  | See Below  |
+|Economy Rice Stall (Non-Halal)    | 15 December 2023  | See Below  |
 
 **Other details:**
 
