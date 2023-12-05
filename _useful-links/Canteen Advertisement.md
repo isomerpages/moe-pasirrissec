@@ -10,7 +10,8 @@ variant: markdown
 
 | Type of Stalls | Closing Date | Requirements|
 | -------- | -------- | -------- |
-|Economy Rice Stall (Non-Halal)    | 15 December 2023  | See Below  |
+|Economy Rice Stall (Non-Halal)    | 22 December 2023  | See Below  |
+|Asia Cuisine (Non-Halal - Japanese/Korean,Vegetarian,etc)    | 22 December 2023  | See Below  |
 
 **Other details:**
 
