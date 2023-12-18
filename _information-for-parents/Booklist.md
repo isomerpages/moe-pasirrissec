@@ -2,10 +2,11 @@
 title: Booklist
 permalink: /useful-links/Information-for-Parents/Booklist/
 description: ""
+variant: markdown
 ---
 **Secondary 1**
 
-Coming soon...........
+[Sec 1 Booklist for 2024](/files/S1_with_Uniform_Sale.pdf)
 
 **Secondary 2**  
 
