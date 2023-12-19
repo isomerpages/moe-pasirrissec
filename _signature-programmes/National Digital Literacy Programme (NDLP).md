@@ -2,6 +2,7 @@
 title: National Digital Literacy Programme (NDLP)
 permalink: /signature-programmes/National-Digital-Literacy-Programme-NDLP/
 description: ""
+variant: markdown
 ---
 #### Background
 
@@ -28,20 +29,16 @@ Since 2021, every Secondary 1 student purchase their own **Chromebook** as the s
 
 Please click below for details.  
   
-For PLD purchased in 2022 and 2023:&nbsp;[Student Device Information Kit (Acer)](/files/Student%20Device%20Information%20Kit%20Acer_26%20Mar%2022.pdf) <br>
-For PLD purchased in 2021:&nbsp;[Student Device Information Kit (Lenovo)](/files/Student%20Device%20Information%20Kit%20Lenovo_01%20July%2022.pdf)
-  
+For PLD purchased in 2022 and 2023: [Student Device Information Kit (Acer)](/files/Student%20Device%20Information%20Kit%20Acer_26%20Mar%2022.pdf)<br>
+For PLD purchased in 2021: [Student Device Information Kit (Lenovo)](/files/Student%20Device%20Information%20Kit%20Lenovo_01%20July%2022.pdf)
 
 #### Parent Resources
 
-[Parent Handbook (I) on 1\_1 Learning.pdf](/files/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf) <br>
-[Parent Handbook (II) on 1\_1 Learning.pdf](/files/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf)
-  
+[Parent Handbook (I) on Learning with a Personal Device](/files/Signature%20programmes/NDLP/ip2%20parent%20handbook%20i%202024_final.pdf)<br>
+[Parent Handbook (II) on Learning with a Personal Device](/files/Signature%20programmes/NDLP/ip3%20parent%20handbook%20ii%202024_final.pdf)<br>
 
 #### Financial Assistance
 
-To ensure affordability of the PLD, there was a one-time Edusave top-up of $200 in every student’s Edusave account in April 2020. Additional subsidies are available for students that are on financial assistance schemes.&nbsp;
-
-  
-
+To ensure affordability of the PLD, there was a one-time Edusave top-up of $200 in every student’s Edusave account in April 2020. Additional subsidies are available for students that are on financial assistance schemes.
+ 
 Students, including permanent residents (PR) and international students (IS), that need additional support should approach the General Office for more information on financial assistance.
