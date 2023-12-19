@@ -30,12 +30,6 @@ Since 2021, every Secondary 1 student purchase their own **Chromebook** as the s
 ![](/images/chrome.png)
 
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | 
-
-
-![](/images/chromespecs2023.png)
 
 #### PDLP Student Device Information Kit
   
