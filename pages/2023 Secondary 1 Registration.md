@@ -2,34 +2,6 @@
 title: 2023 Secondary 1 Registration
 permalink: /2023-secondary-1-registration/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-All parents and incoming Secondary 1 students are strongly encouraged to attend our welcome and briefing session via Zoom.
-
-**Live Engagement Session with School Leaders &amp; Key Personnel**
-
-**Date:** 21 December 2023<br>
-**Time:** 9-10.30am <br>
-**Zoom Link:** https://tinyurl.com/4wk2bh3n <br>
-**Passcode:** prss2112
-
-|   |    |   |
-| -------- | -------- | -------- |
-| <img src="/images/Sec%201%20Registration/Key_Personnel.png" style="width:45%;float:middle"><p align="middle">[Key Personnel](www.pasirrissec.moe.edu.sg/about-us/Our-People/Key-Personnel/) | <img src="/images/Sec%201%20Registration/Online_Registration.png" style="width:20%;float:middle"></p><p align="middle">[Sec 1 Online Registration Form](https://form.gov.sg/638ffb2fcc49df00110ee967) | <img src="/images/Sec%201%20Registration/2023_e_Open_House.png" style="width:30%;float:middle"></p><p align="middle">[2023 e-Open House](www.pasirrissec.moe.edu.sg/e-open-house/e-open-house/) |
-| <img src="/images/Sec%201%20Registration/2023_e_Open_House.png" style="width:30%;float:middle"></p><p align="middle">[2023 e-Open House](www.pasirrissec.moe.edu.sg/e-open-house/e-open-house/)     | Text     |Text     |
-| Text     | Text     |Text     |
-	
-![](/images/sec1.png)
-|[Key Personnel](/files/PRSS%202023%20Key%20Personnel.pdf)    | [Sec 1 Online Registration Form](https://form.gov.sg/638ffb2fcc49df00110ee967)     | [2022 e-Open House](/e-open-house/e-Open-House/)     |
-
-![](/images/sec1b.png)
-
-| |||
-| -------- | -------- | -------- |
-| Camp Oneiric  (Coming soon)    | [Message to 2023 Sec 1 Pasirian](/files/PRSS%202023%20A%20message%20to%20our%20Sec%201%20Pasirians.pdf)   | [Attire](/files/Attire.pdf)  |
-
-![](/images/sec1c.png)
-
-| |||
-| -------- | -------- | -------- |
-| Useful Links:<br>[Book List &amp; Uniform](/useful-links/Information-for-Parents/Booklist/)<br>[FAS Application](/useful-links/Information-for-Parents/Financial-Assistance/)<br>[School Transfer](https://form.gov.sg/639003089f0e9d0012be00e4)  | [Contact Information](/contact-us)   | [FAQ](https://docs.google.com/document/d/1bIODL1sh33MIKrsqc5Svt13-215L8ND4_U20gfHlmwA/edit)  |</p>
+<p>All parents and incoming Secondary 1 students are strongly encouraged to attend our welcome and briefing session via Zoom.</p><p><strong>Live Engagement Session with School Leaders &amp; Key Personnel</strong></p><p><strong>Date:</strong> 21 December 2023<br><strong>Time:</strong> 9-10.30am <br><strong>Zoom Link:</strong> https://tinyurl.com/4wk2bh3n <br><strong>Passcode:</strong> prss2112</p><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:45%;float:middle" height="auto" width="100%" src="/images/Sec%201%20Registration/Key_Personnel.png"></div><p><a href="www.pasirrissec.moe.edu.sg/about-us/Our-People/Key-Personnel/" rel="noopener noreferrer nofollow" target="_blank">Key Personnel</a></p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:20%;float:middle" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png"></div><p></p><p><a href="https://form.gov.sg/638ffb2fcc49df00110ee967" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Online Registration Form</a></p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:30%;float:middle" height="auto" width="100%" src="/images/Sec%201%20Registration/2023_e_Open_House.png"></div><p></p><p><a href="www.pasirrissec.moe.edu.sg/e-open-house/e-open-house/" rel="noopener noreferrer nofollow" target="_blank">2023 e-Open House</a></p></td></tr><tr><td rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Sec_1_Camp_Oneiric.png"></div><p><a href="/files/Sec%201%20Registration/Camp Oneiric (Sec 1 Camp)](/files/Sec%201%20Registration/Sec_1_Camp_Oneiric_2024_For_Sec_1_Live_Engagement_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Camp Oneiric (Sec 1 Camp)</a></p></td><td rowspan="1" colspan="1"><p></p><a class="isomer-image-wrapper" href="/files/Sec%201%20Registration/A_Message_to_2024_Sec_1_Pasirians.pdf"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Message_to_2023_Sec_1_Pasirian.jpg"></a><p><a href="/files/Sec%201%20%20Registration/A_Message_to_2024_Sec_1_Pasirians.pdf" rel="noopener noreferrer nofollow" target="_blank">A_Message_to_2024_Sec_1_Pasirians</a></p></td><td rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Attire.png"></div><p>Attire</p></td></tr><tr><td rowspan="1" colspan="1"><p>Text</p></td><td rowspan="1" colspan="1"><p>Text</p></td><td rowspan="1" colspan="1"><p>Text</p></td></tr></tbody></table><table><tbody><tr><td rowspan="1" colspan="1"><p>Useful Links:<br><a href="/useful-links/Information-for-Parents/Booklist/" rel="noopener noreferrer nofollow" target="_blank">Book List &amp; Uniform</a><br><a href="/useful-links/Information-for-Parents/Financial-Assistance/" rel="noopener noreferrer nofollow" target="_blank">FAS Application</a><br><a href="https://form.gov.sg/639003089f0e9d0012be00e4" rel="noopener noreferrer nofollow" target="_blank">School Transfer</a></p></td><td rowspan="1" colspan="1"><p><a href="/contact-us" rel="noopener noreferrer nofollow" target="_blank">Contact Information</a></p></td><td rowspan="1" colspan="1"><p><a href="https://docs.google.com/document/d/1bIODL1sh33MIKrsqc5Svt13-215L8ND4_U20gfHlmwA/edit" rel="noopener noreferrer nofollow" target="_blank">FAQ</a></p></td></tr></tbody></table><p></p>
