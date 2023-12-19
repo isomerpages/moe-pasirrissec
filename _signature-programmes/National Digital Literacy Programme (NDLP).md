@@ -6,7 +6,9 @@ variant: markdown
 ---
 #### Background
 
-In 2019, our Secondary 1 cohort participated in the 1:1 Learning Pilot Project with the Ministry of Education (MOE). This provided an opportunity for Teachers to work closely with MOE Officers to customise, differentiate and personalise learning experiences where our students learn in a 1:1 computing environment. By integrating technology and digital learning into school-wide curriculum, pedagogy and assessment, teachers were able to design and bring about student-centric and active learning experiences.
+In 2019, our Secondary 1 cohort participated in the 1:1 Learning Pilot Project with the Ministry of Education (MOE). This provided an opportunity for Teachers to work closely with MOE Officers to customise, differentiate and personalise learning experiences where our students learn in a 1:1 computing environment. 
+
+By integrating technology and digital learning into school-wide curriculum, pedagogy and assessment, teachers were able to design and bring about student-centric and active learning experiences.
 
 <img src="/images/Pic%201.jpeg" style="width:52%;float:left"><img src="/images/Pic%202.jpeg" style="width:45%">
 		 
@@ -14,15 +16,25 @@ At MOE’s Committee of Supply Debate in March 2020, MOE launched the **National
 
 The Personal Learning Device (PLD) will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (SLS) – as well as other educational technology to personalise and enhance students’ learning. This will also better enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world. Students will also acquire digital literacy in the four components of Ministry of Education (MOE)’s Digital Literacy Framework:
 
-![](/images/Pic%203.png)
+![](/images/Signature%20Programmes/MOE_Digital_Literacy_Framework.png)
+
 
 #### Personal Learning Device (PLD)
 
-At PRSS, all students use a **Chromebook** as their PLD. Chromebooks are chosen for their variety of affordances, including seamless learning experiences alongside existing teaching and learning technologies such as the SLS, Google Suite for Education Apps and Microsoft Pro Plus. It is also a relatively lightweight and portable device that offers students convenient learning on-the-move. A full charge of the battery typically allows students to work on their PLDs for the entire curriculum hours.   
+At PRSS, all students use a **Chromebook** as their PLD. Chromebooks are chosen for their variety of affordances, including seamless learning experiences alongside existing teaching and learning technologies such as the SLS, Google Suite for Education Apps and Microsoft Pro Plus. 
+
+It is also a relatively lightweight and portable device that offers students convenient learning on-the-move. A full charge of the battery typically allows students to work on their PLDs for the entire curriculum hours.   
 
 Since 2021, every Secondary 1 student purchase their own **Chromebook** as the school-prescribed PLD. This device is a touchscreen convertible laptop (i.e. can be used as a laptop or rotated 180 into a tablet) and comes with its own in-built stylus for inking functions.
 
 ![](/images/chrome.png)
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | 
+
+
 ![](/images/chromespecs2023.png)
 
 #### PDLP Student Device Information Kit
