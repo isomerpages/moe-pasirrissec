@@ -15,10 +15,10 @@ All parents and incoming Secondary 1 students are strongly encouraged to attend 
 
 |   |    |   |
 | -------- | -------- | -------- |
-| <img src="/images/Sec%201%20Registration/Key_Personnel.png" style="width:45%;float:middle"><p align="middle">[Key Personnel](www.pasirrissec.moe.edu.sg/about-us/Our-People/Key-Personnel/) | <img src="/images/Sec%201%20Registration/Online_Registration.png" style="width:20%;float:middle"></p><p align="middle">[Sec 1 Online Registration Form](https://form.gov.sg/638ffb2fcc49df00110ee967) | <img src="/images/Sec%201%20Registration/2023_e_Open_House.png" style="width:70%;float:middle">|
-| Text     | Text     |
-
-
+| <img src="/images/Sec%201%20Registration/Key_Personnel.png" style="width:45%;float:middle"><p align="middle">[Key Personnel](www.pasirrissec.moe.edu.sg/about-us/Our-People/Key-Personnel/) | <img src="/images/Sec%201%20Registration/Online_Registration.png" style="width:20%;float:middle"></p><p align="middle">[Sec 1 Online Registration Form](https://form.gov.sg/638ffb2fcc49df00110ee967) | <img src="/images/Sec%201%20Registration/2023_e_Open_House.png" style="width:30%;float:middle"></p><p align="middle">[2023 e-Open House](www.pasirrissec.moe.edu.sg/e-open-house/e-open-house/) |
+| <img src="/images/Sec%201%20Registration/2023_e_Open_House.png" style="width:30%;float:middle"></p><p align="middle">[2023 e-Open House](www.pasirrissec.moe.edu.sg/e-open-house/e-open-house/)     | Text     |Text     |
+| Text     | Text     |Text     |
+	
 ![](/images/sec1.png)
 |[Key Personnel](/files/PRSS%202023%20Key%20Personnel.pdf)    | [Sec 1 Online Registration Form](https://form.gov.sg/638ffb2fcc49df00110ee967)     | [2022 e-Open House](/e-open-house/e-Open-House/)     |
 
