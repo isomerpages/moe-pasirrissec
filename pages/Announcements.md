@@ -2,7 +2,12 @@
 title: Announcements
 permalink: /Announcements/
 description: ""
+variant: markdown
 ---
+#### Release of GCE N Level Results
+
+Please click here to view the ECG Slides for the release of GCE N Level Results.
+
 #### Check Exam Script Timetable 16 Oct 2023 - 18 Oct 2023
 
 Please click [here](/files/2023%20t4%20check%20script%20tt%20v3%20-%20class.pdf) to view.
