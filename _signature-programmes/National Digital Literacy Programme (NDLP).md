@@ -28,8 +28,9 @@ It is also a relatively lightweight and portable device that offers students con
 Since 2021, every Secondary 1 student purchase their own **Chromebook** as the school-prescribed PLD. This device is a touchscreen convertible laptop (i.e. can be used as a laptop or rotated 180 into a tablet) and comes with its own in-built stylus for inking functions.
 
 ![](/images/chrome.png)
+![](/images/Signature%20Programmes/Chromebook_2024_Specs.png)
 
-
+Please refer to the Parents’ Letter which will be send via Parents’ Gateway for more details on this programme.
 
 #### PDLP Student Device Information Kit
   
