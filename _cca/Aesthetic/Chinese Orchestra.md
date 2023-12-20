@@ -42,11 +42,12 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 
 ### Teachers-in-charge
 
-* Mdm Siti Sarah (2IC) 
-* Ms Ng Mei Ling 
+* Mdm Siti Sarah (OIC) 
+* Ms Ng Mei Ling (2IC)
 * Mdm Ng Ai Hoon 
+* Mdm Yong Wei Syn 
 * Mr Kevin Kok 
-* Mdm Wong Wei Syn 
+* Ms Fam Hui Yuen
 
 **Conductor**<br>
 Mr Chin Yen Choong
