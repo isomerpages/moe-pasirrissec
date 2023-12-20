@@ -76,10 +76,10 @@ UNIT OVERALL PROFICENCY AWARD - DISTINCTION (2022)
 
 ### **Teachers-in-charge**
 
-* Ms Cindy Soh Sock Kheng (OC) (Jan 2023 - Jun 2023)
-* Mr Seong Then Yee (OC) (Jul 2023 - Till Present)
-* Mr Seong Then Yee (DYOC) (Jan 2023 - Jun 2023)
-* Ms Kimberlyn Lee (DYOC) (Jul 2023 - Till Present)
+* Mr Seong Then Yee (IC)
+* Ms Kimberlyn Lee (2IC)
+* Ms Desiree Oh 
+* Mr Zachary Koh
 
 ### **Photos**
 
