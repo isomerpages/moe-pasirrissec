@@ -46,11 +46,11 @@ The Concert Band, led by 2 well-respected conductors, has a dynamic programme to
 
 #### **Teachers-in-charge**
 
-* Madam Anmilia Anwar Datt (OIC) 
-* Ms. Jasmine Peh (2IC) 
+* Mdm Anmilia Anwar Datt (OIC) 
+* Mdm. Zulaiha Osman (2IC) 
 * Mr. Lokhman Haris 
-* Ms. Wang Xiangkun 
-* Mdm Zulaiha Osman 
+* Ms. Pearlyn Chia
+* Ms. Ong Ting Kai
 
 **Band Director:**<br> Mr Md Faizal Othman<br><br>
 **Assistant Band Director:** <br>Mr Steven Phua
