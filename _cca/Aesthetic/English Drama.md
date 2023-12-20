@@ -55,6 +55,9 @@ To expose students to the glee and glamour of working in a theatre production, s
 
 * Ms. Faith Nah (IC)
 * Ms. Jumiah Ahmad (2IC)
+* Ms. Nithiyaa
+* Mdm. Nazrene
+* Mdm. Shahilla
 
 **Instructor:**<br>
 Mr. Ian Loy  
