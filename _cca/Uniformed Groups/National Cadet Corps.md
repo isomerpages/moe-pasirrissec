@@ -32,7 +32,7 @@ Check out this video link for their performance during the East District competi
 | NCC Boys | NCC Girls |
 | -------- | -------- | 
 | Mr Cheng Song Fong (IC)  | Mr Stephen Gan (IC)| 
-| Mr Eric Koh  | Ms Sabrina Ho (2IC) | 
+| Mr Ernest Yeo (2IC)  | Ms Sabrina Ho (2IC) | 
 
 ### **Photos**
 
