@@ -33,8 +33,8 @@ Our School, Our Stories Photo Contest Honourable Mention Award
 ### **Teachers-in-charge**
 
 * Mr Chiang Shu Lee (OIC) 
-* Mr Koh Chun Kiat 
 * Mdm Jin Beihua
+* Mr Koh Chun Kiat 
  
 ### **Photos**
 
