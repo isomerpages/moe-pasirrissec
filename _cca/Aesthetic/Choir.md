@@ -41,9 +41,9 @@ Every year is an exciting year for PRSS Choir, with an array of meaningful activ
 
 * Mr Muhammad Omarali (OIC) 
 * Ms. Fiona Chew (2IC) 
-* Mdm Siti Mirna 
 * Mdm Sumrah Chuni 
-* Ms. Bugan
+* Mdm Siti Mirna 
+* Ms. Buganeswari
 
 **Conductor**<br>
 Mr. Terrence Toh
