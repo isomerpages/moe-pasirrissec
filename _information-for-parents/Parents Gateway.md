@@ -18,4 +18,4 @@ Please download the Parents Gateway app from the App Store or Google Play.
 
 Parents/Guardians who have onboard Parents Gateway when your child/ward was in primary school need not download the Parents Gateway mobile app again when your child/ward progresses on to secondary school.
 
-Visit the [Parents Gateway FAQs page](https://pg.moe.edu.sg/faq) to find out more information.
+Visit the [Parents Gateway FAQs](https://pg.moe.edu.sg/faq) to find out more information.
