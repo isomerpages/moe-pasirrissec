@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - PRSS Newsflash.md
-      - Parents Gateway.md
       - Canteen Advertisement.md
       - Direct School Admission (DSA)/.keep
       - Direct School Admission (DSA)/Direct School Admission (DSA).md
