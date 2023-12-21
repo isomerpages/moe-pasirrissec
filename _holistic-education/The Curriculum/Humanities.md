@@ -32,8 +32,7 @@ Since 2015, our school has been on the Applied Learning Programme (ALP) in Human
 | History/English Language | Mdm Shahilla d/0 K Balakrishnan | [shahilla_balakrishnan@moe.edu.sg](mailto:shahilla_balakrishnan@moe.edu.sg) |
 | Social Studies/ English Language | Ms Shayne Ong Chi Ying | [chi_ying_shayne_ong@moe.edu.sg](mailto:chi_ying_shayne_ong@moe.edu.sg) |
 | Social Studies/History | Ms Fiona Chew Xin Rong| [chew_xin_rong_fiona@moe.edu.sg](mailto:chew_xin_rong_fiona@moe.edu.sg) |
-| Humanities/ English Language | Ms Nadirah Binte Jamallodin (AED) | [nadirah_a@moe.edu.sg](mailto:nadirah_a@moe.edu.sg) |
-
+| Humanities | Mr Ernest Yeo Yincai | [yeo_yingcai_ernest@moe.edu.sg](mailto:yeo_yingcai_ernest@moe.edu.sg) |
 
 
 ### Photos
