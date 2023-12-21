@@ -2,7 +2,6 @@ collections:
   information-for-parents:
     output: true
     order:
-      - Parents Gateway.md
       - General School Information.md
       - Event for Parents.md
       - Parent Support Group.md
@@ -10,6 +9,7 @@ collections:
       - School Transfer.md
       - Cyber Wellness.md
       - Financial Assistance.md
+      - Parents Gateway.md
       - Student GPA Insurance Plan.md
       - Leave of Absence (LOA) Scheme.md
       - Healthy Meals in Schools Programme.md
