@@ -40,10 +40,10 @@ variant: markdown
 
 | Boys Team | Girls Team| 
 | -------- | -------- | 
-| Mr Andy Law (IC) | Mdm Nazrene Akhbar Ali | 
-| Mr Colin Lee Kuan Wei (2IC)  | Miss Parvin Marican | 
+| Mr Andy Law (IC) | Ms Wang Xiangkun | 
+| Mr Chang Hock Boon (2IC)  |  | 
 | Mr Mohamed Riffai bin Maidin  |  |
-| Mr Chong Hock Boon |  | 
+| Albert Neo (from Jun) |  |
 
 ### **Coach**
 

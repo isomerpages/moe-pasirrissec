@@ -17,8 +17,8 @@ sections:
           url: /Information-for-Parents/Event-for-Parents/
       title: Pasir Ris Secondary School
   - infopic:
-      title: "Live Engagement "
-      subtitle: "Sec 1 2024 registration "
+      title: Live Engagement
+      subtitle: Sec 1 2024 registration
       id: infopic
       description: With School Leaders & Key Personnel
       button: Sec 1 registration portal

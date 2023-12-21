@@ -3,6 +3,7 @@ title: Modern Dance
 permalink: /cca/Aesthetic/Modern-Dance/
 description: ""
 third_nav_title: Aesthetic
+variant: markdown
 ---
 ### About us
 
@@ -47,10 +48,9 @@ We have a busy schedule every year and we pride ourselves in presenting the best
 
 ### Teachers-in-charge
 
-* Madam Fazidah Mohd Lias (OIC)
-* Madam Rubi’ah Massuan
+* Mdm. Fazidah Mohd Lias (IC)
+* Mdm. Rubi’ah Massuan (2IC)
 * Ms. Mindy Low Lixian
-* Ms. Salsabila Ishak
 
 **Choreographer:**<br>Mr. Shahbirul Zaki Bin Ahmad<br><br>
 **Technique Instructor:**<br>

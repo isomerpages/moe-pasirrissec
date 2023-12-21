@@ -43,11 +43,11 @@ NCDCC believes in developing and empowering our youths to be active concerned ci
 
 ### **Teachers-in-charge**
 
-* LTA Wong Yun Yi (OIC)
-* LTA Hannah Lum (2OIC)
-* Mr. Daniel Ng
+* LTA Wong Yun Yi (IC till June)
+* Mr Jonathan Ng (2IC, IC from June)
 * Mr Winston Chiang
-* Mr Jonathan Ng
+* Mr. Daniel Ng
+
 
 ### **Photos**
 
