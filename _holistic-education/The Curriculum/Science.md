@@ -110,10 +110,10 @@ You can access the virtual tour of our school's Eco Garden [here](https://www.th
 | Biology/ Lower Secondary Science | Mr Daniel Ng Tze Keen<br>SH Character &amp; Citizenship Education | [ng_tze_keen_daniel@moe.edu.sg](mailto:ng_tze_keen_daniel@moe.edu.sg) |
 | Chemistry/ Lower Secondary Science/ Physical Education | Mr Mohammed Riffaii<br>SH Discipline | [mohammed_riffaii_maidin@moe.edu.sg](mailto:mohammed_riffaii_maidin@moe.edu.sg)|
 | Physics | Mr Chiang Shu Lee<br>ST Physics | [chiang_shu_lee@moe.edu.sg](mailto:chiang_shu_lee@moe.edu.sg) |
-| Physics/ NT Science | Mdm Siti Mariam <br>ST Character &amp; Citizenship Education | [siti_mariam_hashim@moe.edu.sg](mailto:siti_mariam_hashim@moe.edu.sg) |
-| Biology/ Lower Secondary Science | Mr Winston Chiang | [winston_chiang_ming_yao@moe.edu.sg](mailto:winston_chiang_ming_yao@moe.edu.sg) |
+| Physics/ NT Science | Mdm Siti Mariam Bte Hashim<br>ST Character &amp; Citizenship Education | [siti_mariam_hashim@moe.edu.sg](mailto:siti_mariam_hashim@moe.edu.sg) |
+| Biology/ Lower Secondary Science | Mr Winston Chiang Ming Yao | [winston_chiang_ming_yao@moe.edu.sg](mailto:winston_chiang_ming_yao@moe.edu.sg) |
 | Chemistry/ Mathematics | Mr Gan Chun Seng Stephen | [gan_chun_seng@moe.edu.sg](mailto:gan_chun_seng@moe.edu.sg) |
-| Chemistry/ NT Science | Ms Jaslin Jiang | [jiang_wei_yeow@moe.edu.sg](mailto:jiang_wei_yeow@moe.edu.sg) |
+| Chemistry/ NT Science | Ms Jaslin Jiang Wei Yeow | [jiang_wei_yeow@moe.edu.sg](mailto:jiang_wei_yeow@moe.edu.sg) |
 | Biology/ Lower Secondary Science | Mr Zachary Koh Jia Sheng | [koh_jia_sheng_zachary@moe.edu.sg](mailto:koh_jia_sheng_zachary@moe.edu.sg) |
 | Physics/ Chemistry/ Lower Secondary Science | Mr Kok Wai Keong Kevin | [Kok_Wai_Keong_Kevin@moe.edu.sg](mailto:Kok_Wai_Keong_Kevin@moe.edu.sg) |
 | Physics/ Mathematics | Mr Seong Then Yee | [seong_then_yee@moe.edu.sg](mailto:seong_then_yee@moe.edu.sg) |
