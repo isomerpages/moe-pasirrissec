@@ -3,6 +3,7 @@ title: Humanities
 permalink: /holistic-education/The-Curriculum/Humanities/
 description: ""
 third_nav_title: The Curriculum
+variant: markdown
 ---
 ### Programme
 
@@ -30,7 +31,7 @@ Since 2015, our school has been on the Applied Learning Programme (ALP) in Human
 | History/ English Language | Ms Mavis Ho | [ho_min_yu_mavis@moe.edu.sg](mailto:ho_min_yu_mavis@moe.edu.sg) |
 | History/English Language | Mdm Shahilla d/0 K Balakrishnan | [shahilla_balakrishnan@moe.edu.sg](mailto:shahilla_balakrishnan@moe.edu.sg) |
 | Social Studies/ English Language | Ms Shayne Ong Chi Ying | [chi_ying_shayne_ong@moe.edu.sg](mailto:chi_ying_shayne_ong@moe.edu.sg) |
-| Social Studies/History | Ms Fiona Chew | [chew_xin_rong_fiona@moe.edu.sg](mailto:chew_xin_rong_fiona@moe.edu.sg) |
+| Social Studies/History | Ms Fiona Chew Xin Rong| [chew_xin_rong_fiona@moe.edu.sg](mailto:chew_xin_rong_fiona@moe.edu.sg) |
 | Humanities/ English Language | Ms Nadirah Binte Jamallodin (AED) | [nadirah_a@moe.edu.sg](mailto:nadirah_a@moe.edu.sg) |
 
 
