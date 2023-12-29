@@ -2,6 +2,7 @@
 title: Education and Career Guidance
 permalink: /useful-links/information-for-parents/education-and-career-guidance/
 description: ""
+variant: markdown
 ---
 Dear parents,
 
@@ -25,14 +26,24 @@ Our&nbsp;ECG&nbsp;Counsellor, Mr Syahril, supports students (individually or in 
 
 Students who would like to&nbsp;explore their subject choices, ask about post-secondary education options, or find out more about&nbsp;their career interests, strengths and passions can make an appointment to have a chat with him.
 
-  
-Please email him at&nbsp;[Mohammed\_syahril\_SAMSUDIN@schools.gov.sg](mailto:Mohammed_syahril_SAMSUDIN@schools.gov.sg)
-![](/images/ecg%20appointment%20booking.jpg)
 
 
-<img src="/images/ECG1.jpeg" style="width:30%;float:left">
+![](/images/ECG2.png) 
+<img src="/images/ECG_2024_1.png" style="width:40%;float:left">
+
+Link: https://go.gov.sg/ecgbookingprss 
+
+Email:&nbsp;[Mohammed\_syahril\_SAMSUDIN@schools.gov.sg](mailto:Mohammed_syahril_SAMSUDIN@schools.gov.sg) 
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+|    |  |    |
+
+
+<img src="/images/ECG1.jpeg" style="width:26%;float:left"> 
  
-Education and Career Guidance (ECG) is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work, and hence to manage their career pathways and lifelong learning throughout their lives.
+<br>Education and Career Guidance (ECG) is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work, and hence to manage their career pathways and lifelong learning throughout their lives.
 
   
 
