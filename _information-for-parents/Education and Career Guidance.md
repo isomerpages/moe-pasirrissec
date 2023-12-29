@@ -31,14 +31,12 @@ Students who would like to&nbsp;explore their subject choices, ask about post-se
 ![](/images/ECG2.png) 
 <img src="/images/ECG_2024_1.png" style="width:40%;float:left">
 
-Link: https://go.gov.sg/ecgbookingprss 
+Link: https://go.gov.sg/ecgbookingprss<br> 
 
-Email:&nbsp;[Mohammed\_syahril\_SAMSUDIN@schools.gov.sg](mailto:Mohammed_syahril_SAMSUDIN@schools.gov.sg) 
+Email:&nbsp;[Mohammed\_syahril\_SAMSUDIN@schools.gov.sg](mailto:Mohammed_syahril_SAMSUDIN@schools.gov.sg) <br>
 
 
-|  |  |  |
-| -------- | -------- | -------- |
-|    |  |    |
+
 
 
 <img src="/images/ECG1.jpeg" style="width:26%;float:left"> 
