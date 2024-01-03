@@ -1,0 +1,10 @@
+collections:
+  open-house:
+    output: true
+    order:
+      - PRSS Open House 2023.md
+      - Principal's Welcome Message.md
+      - Campus Tour.md
+      - Our Pasirian Experience.md
+      - FAQ & Enquiries.md
+      - DSA Talent Areas.md

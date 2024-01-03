@@ -1,0 +1,14 @@
+logo: /images/Logo/logowhitebackground.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Signature Programmes
+    collection: signature-programmes
+  - title: Holistic Education
+    collection: holistic-education
+  - title: Achievements
+    collection: achievements
+  - title: Useful Links
+    collection: useful-links
+  - title: Contact Us
+    url: /Contact-Us

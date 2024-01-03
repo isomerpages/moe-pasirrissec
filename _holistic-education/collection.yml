@@ -1,0 +1,20 @@
+collections:
+  holistic-education:
+    output: true
+    order:
+      - The Curriculum/.keep
+      - The Curriculum/The Curriculum.md
+      - The Curriculum/Resources For Student.md
+      - The Curriculum/Computer Application.md
+      - The Curriculum/Craft & Technology.md
+      - The Curriculum/English Language & Literature.md
+      - The Curriculum/Humanities.md
+      - The Curriculum/Mathematics.md
+      - The Curriculum/Mother Tongue Languages.md
+      - The Curriculum/Physical Education.md
+      - The Curriculum/Science.md
+      - The Co Curriculum/The Co Curriculum.md
+      - The Co Curriculum/Co Curricular Activities.md
+      - The Co Curriculum/Character & Citizenship Education.md
+      - The Co Curriculum/.keep
+      - Blended Learning.md
