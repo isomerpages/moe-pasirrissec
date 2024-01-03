@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### PRSS Newsflash
 
-Please click [here](/files/Useful%20Links/Newsflash/Newsflash_Term_1_2024__final_.pdf) to view our Newsflash for Term 1
+Please click [here](/useful-links/PRSS-Newsflash/) to view our Newsflash for Term 1.
 
 #### Release of GCE N Level Results
 
