@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 2024 Term 1 Timetable
+
+Please click [here](/files/Announcements/2024/Term_1_TT_wef_8_Jan_for_Classes.pdf) for the 2024 Term 1 Timetable
+
 #### PRSS Newsflash
 
 Please click [here](/useful-links/PRSS-Newsflash/) to view our Newsflash for Term 1.
