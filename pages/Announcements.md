@@ -4,6 +4,9 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Release of GCE O Level Results
+Please click [here](/files/Announcements/Letter_to_parents_on_release_of_GCE_O_Level_Results_2023__Combined_.pdf) to view the Parent Letter on the release of GCE O Level Results 2023.
+
 #### 2024 Term 1 Timetable
 
 Please click [here](/files/Announcements/2024/Term_1_TT_wef_8_Jan_for_Classes.pdf) for the 2024 Term 1 Timetable.
