@@ -9,13 +9,13 @@ variant: markdown
 
 
 | Type of Stalls | Closing Date | Requirements|
-| -------- | -------- | -------- |
-|Economy Rice Stall (Non-Halal)    | 22 December 2023  | See Below  |
-|Asia Cuisine (Non-Halal - Japanese/Korean,Vegetarian,etc)    | 22 December 2023  | See Below  |
+| ------- | -------- | -------- |
+|Economy Rice Stall (Non-Halal)    | 29 February 2024  | See Below  |
+|Asia Cuisine (Non-Halal - Japanese/Korean,Vegetarian,etc)    | 29 February 2024  | See Below  |
 
 **Other details:**
 
-1. Estimated start date is Jan 2024 after gas and licence has been approved.
+1. Estimated start date is after gas and licence has been approved.
 2. Application for gas, SFA licence, handover etc should preferably be done and completed before the start date. 
 
 **Application Procedure**
