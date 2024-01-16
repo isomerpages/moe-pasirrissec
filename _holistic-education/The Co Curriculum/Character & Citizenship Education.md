@@ -3,6 +3,7 @@ title: Character & Citizenship Education
 permalink: /holistic-education/The-Co-Curriculum/Character-and-Citizenship-Education/
 description: ""
 third_nav_title: The Co Curriculum
+variant: markdown
 ---
 #### **Developing the Citizenship Dispositions of Pasirians:** 
 
@@ -47,6 +48,6 @@ Schools commemorate&nbsp;Racial&nbsp;Harmony&nbsp;Day&nbsp;(RHD) on 21 July each
 
 [<img src="/images/NE.png" style="width:33%;float:left">](/cce/National-Education-NE)
 
-[<img src="/images/SexualityEducation.png" style="width:33%;float:left">](/cce/Sexuality-Education)
+[<img src="/images/SexualityEducation.png" style="width:33%;float:left">](/cce/sexuality-education)
 
 [<img src="/images/VIA.png" style="width:33%">](/cce/Values-In-Action-VIA)
