@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### Sec 4 and 5 Parents Engagement Slides
 
-Please click  to view the Sec 4 and 5 Parents Engagement Slides 2024.
+Please click [here](/files/Information_for_parents/Sec_4_and_5_Parents_Engagement_2024.pdf) to view the Sec 4 and 5 Parents Engagement Slides 2024.
 
 #### Release of GCE O Level Results
 Please click [here](/files/Announcements/Letter_to_parents_on_release_of_GCE_O_Level_Results_2023__Combined_.pdf) to view the Parent Letter on the release of GCE O Level Results 2023.
