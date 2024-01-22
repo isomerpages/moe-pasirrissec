@@ -4,6 +4,11 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 2024 Semester 1 Blended Learning Timetable
+
+Please click [here](/files/2024_SEM1_BL_TT_V1_Classes.pdf) for the 2024 Semester 1 Blended Learning Timetable.
+
+
 #### Sec 4 and 5 Parents Engagement Slides
 
 Please click [here](/files/Information_for_Parents/Sec_4_and_5_Parents_Engagement_2024.pdf) to view the Sec 4 and 5 Parents Engagement Slides 2024.
