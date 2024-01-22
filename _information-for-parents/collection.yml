@@ -2,7 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
-      - General School Information.md
+      - School Vendors.md
       - Event for Parents.md
       - Parent Support Group.md
       - Booklist.md
