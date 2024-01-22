@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### 2024 Semester 1 Blended Learning Timetable
 
-Please click [here](/files/Announcements/2024/Term_1_TT_wef_8_Jan_for_Classes.pdf) for the 2024 Semester 1 Blended Learning Timetable.
+Please click [here](/files/2024_SEM1_BL_TT_V1_Classes.pdf) for the 2024 Semester 1 Blended Learning Timetable.
 
 
 #### Sec 4 and 5 Parents Engagement Slides
