@@ -4,6 +4,12 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 2024 Term 1 Timetable with effect from 29 Jan 2024
+
+Please click [here](/files/Term_1_TT_wef_29_Jan_for_S1.pdf) for 2024 Term 1 Timetable, Secondary 1 Classes.
+
+Please click [here](/files/Term_1_TT_wef_29_Jan_for_S2___5.pdf) for 2024 Term 1 Timetable, Secondary 2 - 5 Classes.
+
 #### 2024 Semester 1 Blended Learning Timetable
 
 Please click [here](/files/2024_SEM1_BL_TT_V1_Classes.pdf) for the 2024 Semester 1 Blended Learning Timetable.
@@ -16,9 +22,7 @@ Please click [here](/files/Information%20for%20Parents/Sec_4_and_5_Parents_Engag
 #### Release of GCE O Level Results
 Please click [here](/files/Announcements/Letter_to_parents_on_release_of_GCE_O_Level_Results_2023__Combined_.pdf) to view the Parent Letter on the release of GCE O Level Results 2023.
 
-#### 2024 Term 1 Timetable
 
-Please click [here](/files/Announcements/2024/Term_1_TT_wef_8_Jan_for_Classes.pdf) for the 2024 Term 1 Timetable.
 
 #### PRSS Newsflash
 
