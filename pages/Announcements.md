@@ -6,9 +6,9 @@ variant: markdown
 ---
 #### 2024 Term 1 Timetable with effect from 29 Jan 2024
 
-Please click [here](/files/Term_1_TT_wef_29_Jan_for_S1.pdf) for 2024 Term 1 Timetable, Secondary 1 Classes.
+Please click [here](/files/Timetable_for_Class_S1_wef_29_Jan.pdf) for 2024 Term 1 Timetable, Secondary 1 Classes.
 
-Please click [here](/files/Term_1_TT_wef_29_Jan_for_S2___5.pdf) for 2024 Term 1 Timetable, Secondary 2 - 5 Classes.
+Please click [here](/files/Timetable_for_Class_S2___5_wef_29_Jan.pdf) for 2024 Term 1 Timetable, Secondary 2 - 5 Classes.
 
 #### 2024 Semester 1 Blended Learning Timetable
 
