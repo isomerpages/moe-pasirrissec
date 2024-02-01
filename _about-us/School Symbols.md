@@ -36,5 +36,5 @@ With pride and joy let us sing  <br>
 Let truth and sincerity come right from your heart  <br>
 These and other thoughts we gladly bring  <br>
 To Pasir Ris right from the start  <br>
-To Pasir Ris right from the start <br>
+To Pasir Ris right from the start! <br>
 </p>
