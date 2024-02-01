@@ -5,15 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p>&lt;ul class="jekyllcodex_accordion"&gt;
-<br>
 <br>&lt;li&gt;&lt;input id="accordion1" type="checkbox"&gt;
 <br>&lt;label for="accordion1"&gt;School Vision&lt;/label&gt;&lt;div&gt;
-<br>&lt;p&gt;</p>
-<h3><strong>School Vision</strong></h3>
-<blockquote>
-<h4>Confident Learners, Caring &amp; Resilient Citizens</h4>
-</blockquote>
-<p>We want to nurture every Pasirian to become a:</p>
+<br>&lt;p&gt; We want to nurture every Pasirian to become a:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Confident Learner:</strong> one who is inquisitive, motivated,
