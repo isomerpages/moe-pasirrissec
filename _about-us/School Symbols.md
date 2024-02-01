@@ -23,19 +23,18 @@ The school colours, *yellow and green*, represent the *freshness and enlightenme
 <p align="center">
 With pride and joy let us sing <br>
 Let truth and sincerity come right from your heart <br>
-These and other thoughts we gladly bring  
-To Pasir Ris right from the start  
-  
-There's care and service we offer  
-Give kindness to everyone and grudging to none  
-These and other deeds to you we proffer  
-Realizing the best from everyone  
-  
-Have pride in self and concern for others  
-But never from the good to stray away  
-  
-With pride and joy let us sing  
-Let truth and sincerity come right from your heart  
-These and other thoughts we gladly bring  
-To Pasir Ris right from the start  
-To Pasir Ris right from the start</p>
+These and other thoughts we gladly bring <br> 
+To Pasir Ris right from the start <br><br>
+There's care and service we offer <br> 
+Give kindness to everyone and grudging to none  <br>
+These and other deeds to you we proffer  <br>
+Realizing the best from everyone  <br><br>
+	<b>Chorus</b><br>	
+Have pride in self and concern for others  <br>
+But never from the good to stray away  <br><br>
+With pride and joy let us sing  <br>
+Let truth and sincerity come right from your heart  <br>
+These and other thoughts we gladly bring  <br>
+To Pasir Ris right from the start  <br>
+To Pasir Ris right from the start <br>
+</p>
