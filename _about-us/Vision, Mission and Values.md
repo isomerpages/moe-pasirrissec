@@ -34,6 +34,11 @@ will have a zest for life, the passion to learn, the confidence to lead
 and the resilience to navigate the complexities in life to become the future
 of Singapore.</p>
 <h3><strong>School Values</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Values.png">
+</div>
+<p></p>
 <ul>
 <li>
 <p><strong>Pride</strong> - Belief in the worth of self, school and the community</p>
