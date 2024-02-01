@@ -8,7 +8,7 @@ Pasir Ris Secondary School was the first secondary school established in Tampine
 
 Four months later, the school moved to its new school building at its present location at Tampines Street 21. It was a significant milestone as we embarked on a new journey in the education landscape in Singapore. On 20 August 1987, the Senior Parliamentary Secretary (Defence) and Member of Parliament for Tampines, Mr. Phua Bah Lee, officially opened the school.
   
-Our founding Principal, Ms. Bandara, crafted the school motto, Pride and Responsibility, together with some staff members. The aim was to ensure that every Pasirian embraces these values as he works towards success and excellence.
+Our founding Principal, Ms. Bandara, crafted the school motto, Pride and Responsibility, together with some staff members. The aim was to ensure that every Pasirian embraces these values as he or she works towards success and excellence.
 
 In 1997, the building extension project started immediately after the GCE ‘O’ Level examination to add more classrooms for the school to go single session in 2000. The school began its single session on 2nd January 2000 with thirty-nine classes.
 
