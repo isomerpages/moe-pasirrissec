@@ -4,16 +4,17 @@ permalink: /about-us/School-Symbols/
 description: ""
 variant: markdown
 ---
+## **School Motto** 
+
 <img src="/images/logo%20(3).png" style="width:50%;float:right">
 
-#### **School Motto: Pride &amp; Responsibility**  
-  
+#### **Pride and Responsibility**
+
+Our school logo reflects the type of education the school
+aims to provide for our students.
+
 Our Motto, Pride, and Responsibility, derived from the initials of the school, are core values which we hope to instil in our students. These virtues, like sails in the wind, will help Pasirians move forward as Confident Learners, Caring and Resilient Citizens. The waves which form the base on which Pride and Responsibility rest, symbolise the students' development and growth in navigating complexities through a holistic education.  
   
-## **School Crest**
-
-Our School logo reflects the type of education our aims to provide its student.  
-
 ## **School Colours**
   
 The school colours, *yellow and green*, represent the *freshness and enlightenment* a sound education provides. It is the school’s aspiration to provide the best possible education for our students to ensure that the future generations of Singapore citizens will show pride in their pursuits and shoulder their responsibilities with commitment and dedication.
