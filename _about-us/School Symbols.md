@@ -2,6 +2,7 @@
 title: School Symbols
 permalink: /about-us/School-Symbols/
 description: ""
+variant: markdown
 ---
 <img src="/images/logo%20(3).png" style="width:50%;float:right">
 
@@ -9,18 +10,19 @@ description: ""
   
 Our Motto, Pride, and Responsibility, derived from the initials of the school, are core values which we hope to instil in our students. These virtues, like sails in the wind, will help Pasirians move forward as Confident Learners, Caring and Resilient Citizens. The waves which form the base on which Pride and Responsibility rest, symbolise the students' development and growth in navigating complexities through a holistic education.  
   
-#### **School Crest**  
+## **School Crest**
 
 Our School logo reflects the type of education our aims to provide its student.  
-  
-#### **School Colours**  
-  
-The school colours, yellow and green, are indicative of the freshness and enlightenment that a sound education provides. It is the school's aspiration to provide the best possible education for its students so as to ensure that our future generation of citizens will show pride in workmanship and shoulder responsibilities efficiently.
 
-#### **School Song**  
+## **School Colours**
+  
+The school colours, *yellow and green*, represent the *freshness and enlightenment* a sound education provides. It is the school’s aspiration to provide the best possible education for our students to ensure that the future generations of Singapore citizens will show pride in their pursuits and shoulder their responsibilities with commitment and dedication.
 
-With pride and joy let us sing  
-Let truth and sincerity come right from your heart  
+## **School Song**
+
+<p align="center">
+With pride and joy let us sing <br>
+Let truth and sincerity come right from your heart <br>
 These and other thoughts we gladly bring  
 To Pasir Ris right from the start  
   
@@ -36,4 +38,4 @@ With pride and joy let us sing
 Let truth and sincerity come right from your heart  
 These and other thoughts we gladly bring  
 To Pasir Ris right from the start  
-To Pasir Ris right from the start
+To Pasir Ris right from the start</p>
