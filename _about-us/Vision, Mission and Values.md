@@ -31,55 +31,22 @@ others.</p>
 <br>
 <br>&lt;li&gt;&lt;input id="accordion2" type="checkbox"&gt;
 <br>&lt;label for="accordion2"&gt;School Mission&lt;/label&gt;&lt;div&gt;
-<br>&lt;p&gt;</p>
-<h3><strong>School Mission</strong></h3>
-<blockquote>
-<h4>Inspiring Lives, Nurturing Talents, Realising Dreams</h4>
-</blockquote>
-<p>We believe that every student can learn and grow. Teachers hold the key
-to unlock the hearts and minds of our students. It is therefore imperative
-for teachers to model the way for Pasirians, guide them to be anchored
-on core values and purpose, teach them the requisite skills and knowledge
-to be future-ready and develop their potential to the fullest so that they
-will have a zest for life, the passion to learn, the confidence to lead
-and the resilience to navigate the complexities in life to become the future
-of Singapore.</p>
+<br>&lt;p&gt; We believe that every student can learn and grow. Teachers hold
+the key to unlock the hearts and minds of our students. It is therefore
+imperative for teachers to model the way for Pasirians, guide them to be
+anchored on core values and purpose, teach them the requisite skills and
+knowledge to be future-ready and develop their potential to the fullest
+so that they will have a zest for life, the passion to learn, the confidence
+to lead and the resilience to navigate the complexities in life to become
+the future of Singapore.</p>
 <p>&lt;/p&gt;
 <br>&lt;/div&gt;&lt;/li&gt;
 <br>
 <br>&lt;li&gt;&lt;input id="accordion3" type="checkbox"&gt;
-<br>&lt;label for="accordion3"&gt;Insert Accordion Title here&lt;/label&gt;&lt;div&gt;
+<br>&lt;label for="accordion3"&gt;School Values&lt;/label&gt;&lt;div&gt;
 <br>&lt;p&gt;</p>
-<h3><strong>School Values</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Values.png">
-</div>
-<p></p>
-<ul>
-<li>
-<p><strong>Pride</strong> - Belief in the worth of self, school and the community</p>
-</li>
-<li>
-<p><strong>Responsibility</strong> - Fulfilment of duty to self, family, community,
-nation and the world</p>
-</li>
-<li>
-<p><strong>Integrity</strong> - Honesty in words and actions, and moral courage
-to stand up for what is right</p>
-</li>
-<li>
-<p><strong>Zeal</strong> - Enthusiasm to learn and pursue one's dreams, persevering
-even in the face of challenges</p>
-</li>
-<li>
-<p><strong>Empathy</strong> - Ability to understand and feel for others, and
-show care and compassion</p>
-</li>
-</ul>
 <p>&lt;/p&gt;
 <br>&lt;/div&gt;&lt;/li&gt;
-<br>
 <br>&lt;/ul&gt;</p>
 <h3></h3>
 <h3></h3>
