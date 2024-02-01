@@ -30,19 +30,8 @@ others.</p>
 <br>&lt;/div&gt;&lt;/li&gt;
 <br>
 <br>&lt;li&gt;&lt;input id="accordion2" type="checkbox"&gt;
-<br>&lt;label for="accordion2"&gt;Insert Accordion Title here&lt;/label&gt;&lt;div&gt;
-<br>&lt;p&gt;Insert co&lt;/p&gt;
-<br>&lt;/div&gt;&lt;/li&gt;
-<br>
-<br>&lt;li&gt;&lt;input id="accordion3" type="checkbox"&gt;
-<br>&lt;label for="accordion3"&gt;Insert Accordion Title here&lt;/label&gt;&lt;div&gt;
-<br>&lt;p&gt;Insert content here&lt;/p&gt;
-<br>&lt;/div&gt;&lt;/li&gt;
-<br>
-<br>&lt;/ul&gt;</p>
-<h3></h3>
-<p></p>
-<h3></h3>
+<br>&lt;label for="accordion2"&gt;School Mission&lt;/label&gt;&lt;div&gt;
+<br>&lt;p&gt;</p>
 <h3><strong>School Mission</strong></h3>
 <blockquote>
 <h4>Inspiring Lives, Nurturing Talents, Realising Dreams</h4>
@@ -55,6 +44,12 @@ to be future-ready and develop their potential to the fullest so that they
 will have a zest for life, the passion to learn, the confidence to lead
 and the resilience to navigate the complexities in life to become the future
 of Singapore.</p>
+<p>&lt;/p&gt;
+<br>&lt;/div&gt;&lt;/li&gt;
+<br>
+<br>&lt;li&gt;&lt;input id="accordion3" type="checkbox"&gt;
+<br>&lt;label for="accordion3"&gt;Insert Accordion Title here&lt;/label&gt;&lt;div&gt;
+<br>&lt;p&gt;</p>
 <h3><strong>School Values</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -82,4 +77,11 @@ even in the face of challenges</p>
 show care and compassion</p>
 </li>
 </ul>
+<p>&lt;/p&gt;
+<br>&lt;/div&gt;&lt;/li&gt;
+<br>
+<br>&lt;/ul&gt;</p>
+<h3></h3>
+<h3></h3>
+<h3></h3>
 <p></p>
