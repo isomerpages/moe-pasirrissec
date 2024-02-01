@@ -4,6 +4,11 @@ permalink: /about-us/Vision-Mission-and-Values/
 description: ""
 variant: tiptap
 ---
+<p>&lt;ul class="jekyllcodex_accordion"&gt;
+<br>
+<br>&lt;li&gt;&lt;input id="accordion1" type="checkbox"&gt;
+<br>&lt;label for="accordion1"&gt;School Vision&lt;/label&gt;&lt;div&gt;
+<br>&lt;p&gt;</p>
 <h3><strong>School Vision</strong></h3>
 <blockquote>
 <h4>Confident Learners, Caring &amp; Resilient Citizens</h4>
@@ -21,6 +26,23 @@ and has the moral courage to make a positive difference to the lives of
 others.</p>
 </li>
 </ul>
+<p>&lt;/p&gt;
+<br>&lt;/div&gt;&lt;/li&gt;
+<br>
+<br>&lt;li&gt;&lt;input id="accordion2" type="checkbox"&gt;
+<br>&lt;label for="accordion2"&gt;Insert Accordion Title here&lt;/label&gt;&lt;div&gt;
+<br>&lt;p&gt;Insert co&lt;/p&gt;
+<br>&lt;/div&gt;&lt;/li&gt;
+<br>
+<br>&lt;li&gt;&lt;input id="accordion3" type="checkbox"&gt;
+<br>&lt;label for="accordion3"&gt;Insert Accordion Title here&lt;/label&gt;&lt;div&gt;
+<br>&lt;p&gt;Insert content here&lt;/p&gt;
+<br>&lt;/div&gt;&lt;/li&gt;
+<br>
+<br>&lt;/ul&gt;</p>
+<h3></h3>
+<p></p>
+<h3></h3>
 <h3><strong>School Mission</strong></h3>
 <blockquote>
 <h4>Inspiring Lives, Nurturing Talents, Realising Dreams</h4>
