@@ -13,7 +13,7 @@ variant: markdown
 Our school logo reflects the type of education the school
 aims to provide for our students.
 
-Our Motto, Pride, and Responsibility, derived from the initials of the school, are core values which we hope to instil in our students. These virtues, like sails in the wind, will help Pasirians move forward as Confident Learners, Caring and Resilient Citizens. The waves which form the base on which Pride and Responsibility rest, symbolise the students' development and growth in navigating complexities through a holistic education.  
+Our motto, *Pride and Responsibility*, derived from the initials of the school, are the values which we hope to instil in our students. These virtues, like sails in the wind, will carry us forward to success and work excellence. The waves that form the base on which Pride and Responsibility rest, symbolise our students’ aesthetic and moral development, which are integral to their all-rounded education.
   
 ## **School Colours**
   
