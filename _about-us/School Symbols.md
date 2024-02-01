@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## **School Motto** 
 
-<img src="/images/logo%20(3).png" style="width:50%;float:right">
+<img src="/images/logo%20(3).png" style="width:45%;float:left">
 
 #### **Pride and Responsibility**
 
