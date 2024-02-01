@@ -49,7 +49,7 @@ of Singapore.</p>
 <br>&lt;li&gt;&lt;input id="accordion3" type="checkbox"&gt;
 <br>&lt;label for="accordion3"&gt;School Values&lt;/label&gt;&lt;div&gt;
 <br>&lt;p&gt;</p>
-<p></p>
+<h3><strong>School Values </strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/School_Values.png">
 </div>
