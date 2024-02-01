@@ -28,5 +28,5 @@ We have come a long way since 1985 and are committed to continuing our mission i
 
 ### Our Journey
 
-
+Please click to view 
 [Our Journey](/our-heritage/Our-Journey/)<br>
