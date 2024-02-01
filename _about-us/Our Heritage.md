@@ -4,7 +4,7 @@ permalink: /about-us/Our-Heritage/
 description: ""
 variant: markdown
 ---
-Pasir Ris Secondary School was the first secondary school established in Tampines on 2nd January 1985. We had our humble beginnings with 11 Secondary One classes and sixteen teaching staffs at Chongzheng Primary School, our temporary school site.
+Pasir Ris Secondary School was the first secondary school established in Tampines on 2nd January 1985. We had our humble beginnings with 11 Secondary One classes and 16 teaching staffs at Chongzheng Primary School, our temporary school site.
 
 Four months later, the school moved to its new school building at its present location at Tampines Street 21. It was a significant milestone as we embarked on a new journey in the education landscape in Singapore. On 20 August 1987, the Senior Parliamentary Secretary (Defence) and Member of Parliament for Tampines, Mr. Phua Bah Lee, officially opened the school.
   
