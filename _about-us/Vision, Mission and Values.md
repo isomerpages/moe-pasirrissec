@@ -4,10 +4,6 @@ permalink: /about-us/Vision-Mission-and-Values/
 description: ""
 variant: tiptap
 ---
-<p>&lt;ul class="jekyllcodex_accordion"&gt;
-<br>&lt;li&gt;&lt;input id="accordion1" type="checkbox"&gt;
-<br>&lt;label for="accordion1"&gt;School Vision&lt;/label&gt;&lt;div&gt;
-<br>&lt;p&gt;</p>
 <h3><strong>School Vision</strong></h3>
 <blockquote>
 <h4>Confident Learners, Caring &amp; Resilient Citizens</h4>
@@ -23,14 +19,9 @@ or her learning.</p>
 <p><strong>Caring and Resilient Citizen:</strong> one who embraces challenges
 and has the moral courage to make a positive difference to the lives of
 others.</p>
+<p></p>
 </li>
 </ul>
-<p>&lt;/p&gt;
-<br>&lt;/div&gt;&lt;/li&gt;
-<br>
-<br>&lt;li&gt;&lt;input id="accordion2" type="checkbox"&gt;
-<br>&lt;label for="accordion2"&gt;School Mission&lt;/label&gt;&lt;div&gt;
-<br>&lt;p&gt;</p>
 <h3><strong>School Mission</strong></h3>
 <blockquote>
 <h4>Inspiring Lives, Nurturing Talents, Realising Dreams</h4>
@@ -43,13 +34,7 @@ to be future-ready and develop their potential to the fullest so that they
 will have a zest for life, the passion to learn, the confidence to lead
 and the resilience to navigate the complexities in life to become the future
 of Singapore.</p>
-<p>&lt;/p&gt;
-<br>&lt;/div&gt;&lt;/li&gt;
-<br>
-<br>&lt;li&gt;&lt;input id="accordion3" type="checkbox"&gt;
-<br>&lt;label for="accordion3"&gt;School Values&lt;/label&gt;&lt;div&gt;
-<br>&lt;p&gt;</p>
-<h3><strong>School Values </strong></h3>
+<h3><strong>School Values</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/School_Values.png">
 </div>
