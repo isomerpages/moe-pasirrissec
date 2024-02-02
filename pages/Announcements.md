@@ -4,6 +4,9 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Closure of Uniform store for Chinese New Year
+![](/images/JeepSing.png)
+
 #### 2024 Term 1 Timetable with effect from 29 Jan 2024
 
 Please click [here](/files/Timetable_for_Class_S1_wef_29_Jan.pdf) for 2024 Term 1 Timetable, Secondary 1 Classes.
