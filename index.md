@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage.gif
+      background: /images/Homepage/2024_School_banner.gif
       key_highlights:
         - title: Announcements
           description: ""
@@ -15,7 +15,6 @@ sections:
         - title: Information for Parents
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
-      title: Pasir Ris Secondary School
   - infopic:
       title: Live Engagement
       subtitle: Sec 1 2024 registration
