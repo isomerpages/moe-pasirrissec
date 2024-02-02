@@ -1,8 +1,8 @@
 ---
 title: Vision, Mission and Values
-permalink: /about-us/Vision-Mission-and-Values/
+permalink: /about-us/vision-mission-and-values/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>School Vision</strong></h3>
 <blockquote>
