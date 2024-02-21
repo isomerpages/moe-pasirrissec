@@ -72,7 +72,7 @@ for more details on this programme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For PLD purchased in 2022 and 2023</p>
+<p>For PLD purchased in 2022 to 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Student%20Device%20Information%20Kit%20Acer_26%20Mar%2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit (Acer)</a>
@@ -108,8 +108,8 @@ for more details on this programme.</p>
 </tbody>
 </table>
 <h4>Parent Resources</h4>
-<p><a href="/files/Signature%20programmes/NDLP/ip2%20parent%20handbook%20i%202024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a Personal Device</a>
-<br><a href="/files/Signature%20programmes/NDLP/ip3%20parent%20handbook%20ii%202024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on Learning with a Personal Device</a>
+<p><a href="/files/Signature%20programmes/NDLP/ip2%20parent%20handbook%20i%202024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a Personal Device</a> 
+<br><a href="/files/Signature%20programmes/NDLP/ip3%20parent%20handbook%20ii%202024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on Learning with a Personal Device</a> 
 <br><a href="https://drive.google.com/drive/folders/1v-TiyDZGUeOhJazC4LyU-j0UlMUqddm0?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide</a>
 </p>
 <h4>Financial Assistance</h4>
