@@ -4,8 +4,6 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### Closure of Uniform store for Chinese New Year
-![](/images/JeepSing.png)
 
 #### 2024 Term 1 Timetable with effect from 29 Jan 2024
 
