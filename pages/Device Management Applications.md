@@ -26,6 +26,9 @@ Please download the guides according to the options you have selected for the DM
 | -------- | -------- | -------- |
 |![DMA Default](/images/DMA/DMA_Parent_Guide_Default_Option.png) [<p align="center">DMA Parent Guide - Default](https://drive.google.com/file/d/1UqLVMv1Rn7OLPlSE7r57KUmhqy4D4GDS/view?usp=drive_link)| ![DMA Option A](/images/DMA/DMA_Parent_Guide_Option_A.png)[</p><p align="center">DMA Parent Guide - Option A](https://drive.google.com/file/d/15Qv3EfGzCyMgaXoRPOjIYgoxcwckl2Vx/view?usp=drive_link) | ![DMA Option B](/images/DMA/DMA_Parent_Guide_Option_B.png)[</p><p align="center">DMA Parent Guide - Option B](https://drive.google.com/file/d/1USUfgYZWV6hkhyTNnzAhyjwpehLOVFxl/view?usp=drive_link) |
 
+#### DMA Video Guides on setting the DMA for parent who have onboard the After-School Parent Options
+
+
 Please refer to the video guides on setting the DMA
 
 | |  |
