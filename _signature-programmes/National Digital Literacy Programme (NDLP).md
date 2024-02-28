@@ -99,12 +99,12 @@ for more details on this programme.</p>
 <h4>Parent Resources</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Signature%20programmes/NDLP/ip2%20parent%20handbook%20i%202024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a Personal Device</a> 
+<p><a href="/files/Signature%20programmes/NDLP/ip2%20parent%20handbook%20i%202024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a Personal Device</a>
 </p>
 </li>
 <li>
 <p><a href="/files/Signature%20programmes/NDLP/ip3%20parent%20handbook%20ii%202024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on Learning with a Personal Device</a> 
-<br><a href="/files/Signature programmes/NDLP/A_Parent_s_Guide_to_Generative_AI_Tools_for_Learning.pdf" rel="noopener noreferrer nofollow" target="_blank">file </a>
+<br><a href="/files/Signature programmes/NDLP/A_Parent_s_Guide_to_Generative_AI_Tools_for_Learning.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
 </p>
 </li>
 <li>
@@ -119,3 +119,6 @@ are available for students that are on financial assistance schemes.</p>
 <p>Students, including permanent residents (PR) and international students
 (IS), that need additional support should approach the General Office for
 more information on financial assistance.</p>
+<h4>Device Management Application</h4>
+<p>DMA Resource Site</p>
+<p></p>
