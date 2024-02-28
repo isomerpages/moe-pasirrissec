@@ -48,7 +48,7 @@ the school-prescribed PLD. This device is a touchscreen convertible laptop
 (i.e. can be used as a laptop or rotated 180 into a tablet) and comes with
 its own in-built stylus for inking functions.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chrome.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/chrome.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
