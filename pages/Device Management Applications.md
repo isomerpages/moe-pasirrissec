@@ -16,9 +16,10 @@ variant: markdown
 |![DMA Default](/images/DMA/DMA_Parent_Guide_Default_Option.png) [<p align="center">Default](https://drive.google.com/file/d/1UqLVMv1Rn7OLPlSE7r57KUmhqy4D4GDS/view?usp=drive_link)| ![DMA Option A](/images/DMA/DMA_Parent_Guide_Option_A.png)[</p><p align="center">Option A](https://drive.google.com/file/d/15Qv3EfGzCyMgaXoRPOjIYgoxcwckl2Vx/view?usp=drive_link) | ![DMA Option B](/images/DMA/DMA_Parent_Guide_Option_B.png)[</p><p align="center">Option B](https://drive.google.com/file/d/1USUfgYZWV6hkhyTNnzAhyjwpehLOVFxl/view?usp=drive_link) |
 
 
-#### DMA Troubleshooting Guides
+#### DMA Video Guides
 
-| Problems/Issues | Video Guide Links |
+| How to | Video Guide Links |
 | -------- | -------- | 
 | Account Password Reset | [Parent Account Password Reset](https://drive.google.com/file/d/1Z12ioBGk58D5Fo8kMoKmfv-P5AkkQK6B/view?usp=drive_link) | 
-| Overriding Sleep Hours | [Overriding School Sleep Hours](https://drive.google.com/file/d/1b62IdeAw_ey_8zSF6H7Bxn5j8Lfjsnzx/view?usp=drive_link) |</p>
+| Overriding Sleep Hours | [Overriding School Sleep Hours](https://drive.google.com/file/d/1b62IdeAw_ey_8zSF6H7Bxn5j8Lfjsnzx/view?usp=drive_link) |
+| Setting Rules to Restrict Usage | [Setting Rules to Restrict Usage ](https://drive.google.com/file/d/1jSkaMA7kC_pxCpj__lNYv-uI8umL92JY/view?usp=sharing) |</p>
