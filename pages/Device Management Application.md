@@ -20,17 +20,19 @@ The following infograhic outline the different levels of restrictions, controls,
 
 For parents/guardians who wish to choose Option A or Option B, please fill in the [Option Form](https://go.gov.sg/prss-dma-option) for After-School DMA Parent Options.
 
-Once the school has onboarded, the parents/guardians will receive an activation e-mail from Mobile Guardian via the e-mail address that they have provided to the school.  If the activation e-mail is not found in their Inbox, please check the ‘Junk Folder’ or ‘Spam Folder’ for the e-mail notification.
-
 Parents can also request to change their DMA option subsequently using the same [form](https://go.gov.sg/prss-dma-option). The request will be processed by the school monthly. 
 
 #### DMA Resources for parent who have onboard the After-School Parent Options
+
+Once the school has onboarded the After-School Parent Options, the parents/guardians will receive an e-mail invitation to onboard the Mobile Guardian via the e-mail address that they have provided to the school.  
+
+If the activation e-mail is not found in their Inbox, please check the ‘Junk Folder’ or ‘Spam Folder’ for the e-mail notification. Parents/Guardians can download the guides on how to login from the [Mobile Guardian Portal](https://sg-portal.mobileguardian.com/).
 
 Please download the guides according to the options you have selected for the DMA:
 
 |  |  |  |
 | -------- | -------- | -------- |
-|![DMA Default](/images/DMA/DMA_Parent_Guide_Default_Option.png) [<p align="center">DMA Parent Guide - Default</p>](https://drive.google.com/file/d/1UqLVMv1Rn7OLPlSE7r57KUmhqy4D4GDS/view?usp=drive_link)| ![DMA Option A](/images/DMA/DMA_Parent_Guide_Option_A.png)[<p align="center">DMA Parent Guide - Option A</p>](https://drive.google.com/file/d/15Qv3EfGzCyMgaXoRPOjIYgoxcwckl2Vx/view?usp=drive_link) | ![DMA Option B](/images/DMA/DMA_Parent_Guide_Option_B.png)[<p align="center">DMA Parent Guide - Option B</p>](https://drive.google.com/file/d/1USUfgYZWV6hkhyTNnzAhyjwpehLOVFxl/view?usp=drive_link) |
+|![DMA Default](/images/DMA/DMA_Parent_Guide_Default_Option.png) [DMA Parent Guide - Default](https://drive.google.com/file/d/1UqLVMv1Rn7OLPlSE7r57KUmhqy4D4GDS/view?usp=drive_link)| ![DMA Option A](/images/DMA/DMA_Parent_Guide_Option_A.png)[DMA Parent Guide - Option A](https://drive.google.com/file/d/15Qv3EfGzCyMgaXoRPOjIYgoxcwckl2Vx/view?usp=drive_link) | ![DMA Option B](/images/DMA/DMA_Parent_Guide_Option_B.png)[DMA Parent Guide - Option B](https://drive.google.com/file/d/1USUfgYZWV6hkhyTNnzAhyjwpehLOVFxl/view?usp=drive_link) |
 
 #### Additional video resources for parent on setting their DMA
 
