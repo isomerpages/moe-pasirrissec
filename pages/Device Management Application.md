@@ -20,9 +20,10 @@ The following infograhic outline the different levels of restrictions, controls,
 
 For parents / guardians who wish to choose Option A or Option B, please fill in the [Option Form for After-School DMA Parent Options](https://go.gov.sg/prss-dma-option).
 
-Once onboarded, you will receive an activation e-mail from Mobile Guardian via the e-mail address that you have provided to the school. If the activation e-mail is not found in your Inbox, please check the ‘Junk Folder’ or ‘Spam Folder’ for the e-mail notification.
+Once the school has onboarded, the parents / guardians will receive an activation e-mail from Mobile Guardian via the e-mail address that they have provided to the school. 
+If the activation e-mail is not found in the Inbox, please check the ‘Junk Folder’ or ‘Spam Folder’ for the e-mail notification.
 
-Parents can request to change their DMA option subsequently using the same form. The request will be processed by the school monthly. 
+Parents can also request to change their DMA option subsequently using the same form. The request will be processed by the school monthly. 
 
 #### DMA Resources for parent who have onboard the After-School Parent Options
 
@@ -30,9 +31,9 @@ Please download the guides according to the options you have selected for the DM
 
 |  |  |  |
 | -------- | -------- | -------- |
-|![DMA Default](/images/DMA/DMA_Parent_Guide_Default_Option.png) [<p align="center">DMA Parent Guide - Default](https://drive.google.com/file/d/1UqLVMv1Rn7OLPlSE7r57KUmhqy4D4GDS/view?usp=drive_link)| ![DMA Option A](/images/DMA/DMA_Parent_Guide_Option_A.png)[</p><p align="center">DMA Parent Guide - Option A](https://drive.google.com/file/d/15Qv3EfGzCyMgaXoRPOjIYgoxcwckl2Vx/view?usp=drive_link) | ![DMA Option B](/images/DMA/DMA_Parent_Guide_Option_B.png)[</p><p align="center">DMA Parent Guide - Option B](https://drive.google.com/file/d/1USUfgYZWV6hkhyTNnzAhyjwpehLOVFxl/view?usp=drive_link) |
+|![DMA Default](/images/DMA/DMA_Parent_Guide_Default_Option.png) [<p align="center">DMA Parent Guide - Default</p>](https://drive.google.com/file/d/1UqLVMv1Rn7OLPlSE7r57KUmhqy4D4GDS/view?usp=drive_link)| ![DMA Option A](/images/DMA/DMA_Parent_Guide_Option_A.png)[<p align="center">DMA Parent Guide - Option A</p>](https://drive.google.com/file/d/15Qv3EfGzCyMgaXoRPOjIYgoxcwckl2Vx/view?usp=drive_link) | ![DMA Option B](/images/DMA/DMA_Parent_Guide_Option_B.png)[<p align="center">DMA Parent Guide - Option B</p>](https://drive.google.com/file/d/1USUfgYZWV6hkhyTNnzAhyjwpehLOVFxl/view?usp=drive_link) |
 
-Please click on the video link on setting the Parent's DMA
+#### Additional video resources for parent on setting their DMA
 
 | |  |
 | -------- | -------- | 
@@ -40,9 +41,9 @@ Please click on the video link on setting the Parent's DMA
 | Overriding Sleep Hours | [Overriding School Sleep Hours](https://drive.google.com/file/d/1b62IdeAw_ey_8zSF6H7Bxn5j8Lfjsnzx/view?usp=drive_link) |
 | Setting Rules to Restrict Usage | [Setting Rules to Restrict Usage ](https://drive.google.com/file/d/1jSkaMA7kC_pxCpj__lNYv-uI8umL92JY/view?usp=sharing) |
 	
-#### DMA for Graduating Students
+#### Uninstallation of DMA for Graduating Students
 	
-DMA will be uninstalled from your child’s/ward’s PLD once he/she is graduating from the school. DMA will be uninstalled only for students who are not continuing with 5NA course.
+DMA will be uninstalled from your child’s/ward’s PLD once he/she is graduating from the school. DMA will be uninstalled ONLY for students who are not continuing the 5NA course.
 	
 After the DMA has been uninstalled, your child/ward will be able to use the PLD without the DMA. Your child’s/ward’s browsing activity will no longer be monitored and the browsing history on his/her PLD will also be deleted from the DMA system server.
 	
@@ -54,4 +55,4 @@ After the DMA has been uninstalled, your child/ward will be able to use the PLD 
 | On the day of DMA uninstallation | Please ensure that the PLD is switched off from 6:00 am to 11:00 pm. This is to ensure that the uninstallation process, which will be done remotely, can proceed smoothly. |
 | After the DMA has been uninstalled | Starting from the next day after the DMA uninstallation, you may refer to the attached document for instructions to check if the DMA has been successfully uninstalled from your child’s/ward’s PLD. Please ensure that the PLD is switched off from 6:00 am to 11:00 pm. This is to ensure that the uninstallation process, which will be done remotely, can proceed smoothly. | 
 
-If you find that the DMA in your child’s/ward’s PLD has not been uninstalled properly, please contact the school at 6501 0800 or email at prss@moe.edu.sg. </p>
+If you find that the DMA in your child’s/ward’s PLD has not been uninstalled properly, please contact the school at 6501 0891 or email at prss@moe.edu.sg.
