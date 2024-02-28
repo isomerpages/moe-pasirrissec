@@ -36,6 +36,10 @@ Education (MOE)’s Digital Literacy Framework:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature%20Programmes/MOE_Digital_Literacy_Framework.png">
 </div>
 <h4>Personal Learning Device (PLD)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PLD Initiative Infographic" src="/images/Signature Programmes/PLD_Initiative.jpg">
+</div>
 <p>At PRSS, all students use a <strong>Chromebook</strong> as their PLD. Chromebooks
 are chosen for their variety of affordances, including seamless learning
 experiences alongside existing teaching and learning technologies such
@@ -54,11 +58,6 @@ its own in-built stylus for inking functions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature%20Programmes/Chromebook_2024_Specs.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PLD Initiative Infographic" src="/images/Signature Programmes/PLD_Initiative.jpg">
-</div>
-<p></p>
 <p>Please refer to the Parents’ Letter which will be send via Parents’ Gateway
 for more details on this programme.</p>
 <h4>PDLP Student Device Information Kit</h4>
