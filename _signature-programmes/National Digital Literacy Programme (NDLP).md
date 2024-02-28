@@ -97,12 +97,21 @@ for more details on this programme.</p>
 </tbody>
 </table>
 <h4>Parent Resources</h4>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/Signature%20programmes/NDLP/ip2%20parent%20handbook%20i%202024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a Personal Device</a> 
-<br><a href="/files/Signature%20programmes/NDLP/ip3%20parent%20handbook%20ii%202024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on Learning with a Personal Device</a> 
-<br><a href="/files/Signature programmes/NDLP/A_Parent_s_Guide_to_Generative_AI_Tools_for_Learning.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
-<a href="/files/Signature programmes/NDLP/a_parent_s_guide_to_generative_ai_tools_for_learning.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
 </p>
-<p></p>
+</li>
+<li>
+<p><a href="/files/Signature%20programmes/NDLP/ip3%20parent%20handbook%20ii%202024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on Learning with a Personal Device</a> 
+<br><a href="/files/Signature programmes/NDLP/A_Parent_s_Guide_to_Generative_AI_Tools_for_Learning.pdf" rel="noopener noreferrer nofollow" target="_blank">file </a>
+</p>
+</li>
+<li>
+<p><a href="/files/Signature programmes/NDLP/a_parent_s_guide_to_generative_ai_tools_for_learning.pdf" rel="noopener noreferrer nofollow" target="_blank">A Parent's Guide to Generative AI Tools for Leaning</a>
+</p>
+</li>
+</ul>
 <h4>Financial Assistance</h4>
 <p>To ensure affordability of the PLD, there was a one-time Edusave top-up
 of $200 in every student’s Edusave account in April 2020. Additional subsidies
