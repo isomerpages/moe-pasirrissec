@@ -101,7 +101,7 @@ for more details on this programme.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Signature programmes/NDLP/a_parent_s_guide_to_generative_ai_tools_for_learning.pdf" rel="noopener noreferrer nofollow" target="_blank">A Parent's Guide to Generative AI Tools for Leaning</a>
+<p><a href="/files/Signature programmes/NDLP/a_parent_s_guide_to_generative_ai_tools_for_learning.pdf" rel="noopener noreferrer nofollow" target="_blank">A Parent's Guide to Generative AI Tools for Learning</a>
 </p>
 </li>
 </ul>
