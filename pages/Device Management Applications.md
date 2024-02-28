@@ -20,9 +20,7 @@ The following infograhic outline the different levels of restrictions, controls,
 
 Please fill the form below to request/change your child's/ward's after school DMA option.
 
-You will receive an activation e-mail via the e-mail address that you have provided to the school.
-
-If the activation e-mail is not found in your Inbox, please check the ‘Junk Folder’ or ‘Spam Folder’ for the e-mail onboard notification.
+You will receive an activation e-mail via the e-mail address that you have provided to the school. If the activation e-mail is not found in your Inbox, please check the ‘Junk Folder’ or ‘Spam Folder’ for the e-mail onboard notification.
 
 #### DMA Resources for parent who have onboard the After-School Parent Options
 
