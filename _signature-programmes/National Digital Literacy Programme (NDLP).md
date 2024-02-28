@@ -120,5 +120,5 @@ are available for students that are on financial assistance schemes.</p>
 (IS), that need additional support should approach the General Office for
 more information on financial assistance.</p>
 <h4>Device Management Application</h4>
-<p>DMA Resource Site</p>
+<p>Please view our DMA Resource Site</p>
 <p></p>
