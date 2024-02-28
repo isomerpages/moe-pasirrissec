@@ -11,9 +11,9 @@ variant: markdown
 #### DMA Resources for parent who have onboard the After-School Parent Options
 
 
-| DMA Parent Guide Options |  |  |
+|  |  |  |
 | -------- | -------- | -------- |
-|![DMA Default](/images/DMA/DMA_Parent_Guide_Default_Option.png) [<p align="center">Default](https://drive.google.com/file/d/1UqLVMv1Rn7OLPlSE7r57KUmhqy4D4GDS/view?usp=drive_link)| [Option A](https://drive.google.com/file/d/15Qv3EfGzCyMgaXoRPOjIYgoxcwckl2Vx/view?usp=drive_link) | [Option B](https://drive.google.com/file/d/1USUfgYZWV6hkhyTNnzAhyjwpehLOVFxl/view?usp=drive_link) |
+|![DMA Default](/images/DMA/DMA_Parent_Guide_Default_Option.png) [<p align="center">Default](https://drive.google.com/file/d/1UqLVMv1Rn7OLPlSE7r57KUmhqy4D4GDS/view?usp=drive_link)| ![DMA Option A](/images/DMA/DMA_Parent_Guide_Option_A.png)[</p><p align="center">Option A](https://drive.google.com/file/d/15Qv3EfGzCyMgaXoRPOjIYgoxcwckl2Vx/view?usp=drive_link) | ![DMA Option B](/images/DMA/DMA_Parent_Guide_Option_B.png)[</p><p align="center">Option B](https://drive.google.com/file/d/1USUfgYZWV6hkhyTNnzAhyjwpehLOVFxl/view?usp=drive_link) |
 
 
 #### DMA Troubleshooting Guides
