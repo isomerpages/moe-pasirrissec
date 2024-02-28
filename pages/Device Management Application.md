@@ -20,7 +20,7 @@ The following infograhic outline the different levels of restrictions, controls,
 
 For parents / guardians who wish to choose Option A or Option B, please fill in the [Option Form for After-School DMA Parent Options](https://go.gov.sg/prss-dma-option).
 
-You will receive an activation e-mail via the e-mail address that you have provided to the school. If the activation e-mail is not found in your Inbox, please check the ‘Junk Folder’ or ‘Spam Folder’ for the e-mail onboard notification.
+Once onboarded, you will receive an activation e-mail from Mobile Guardian via the e-mail address that you have provided to the school. If the activation e-mail is not found in your Inbox, please check the ‘Junk Folder’ or ‘Spam Folder’ for the e-mail notification.
 
 Parents can request to change their DMA option subsequently using the same form. The request will be processed by the school monthly. 
 
