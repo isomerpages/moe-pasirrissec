@@ -12,7 +12,9 @@ The installation of DMA applies to both devices purchased through the school and
 
 The DMA will be funded by MOE and will be uninstalled from the device when your child/ward graduates/leaves the school.
 
-#### DMA After-School Parent Options
+#### Providing Parents/Guardians with Greater Choice of After-School DMA Parent Options
+
+The following infograhic outline the different levels of restrictions, controls, and monitoring for the different DMA options after school hours.
 
 ![Infographic on DMA Parent Options](/images/ip8%20-%20infographic%20on%20the%20pld%20initiative_2023.jpg)
 
