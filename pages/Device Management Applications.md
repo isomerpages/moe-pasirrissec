@@ -55,18 +55,4 @@ After the DMA has been uninstalled, your child/ward will be able to use the PLD 
 | On the day of DMA uninstallation | Please ensure that the PLD is switched off from 6:00 am to 11:00 pm. This is to ensure that the uninstallation process, which will be done remotely, can proceed smoothly. |
 | After the DMA has been uninstalled | Starting from the next day after the DMA uninstallation, you may refer to the attached document for instructions to check if the DMA has been successfully uninstalled from your child’s/ward’s PLD. Please ensure that the PLD is switched off from 6:00 am to 11:00 pm. This is to ensure that the uninstallation process, which will be done remotely, can proceed smoothly. | 
 
-
-	
-
-
-. 
-	
-
-
-. 
-
-Technical Support:
-
-Should your child/ward require technical assistance to perform the back-up, he/she can call the school-based helpline: 6876 7129 Ext 167.
-
-If you find that the DMA in your child’s/ward’s PLD has not been uninstalled properly, please contact the school at 6876 7129.</p>
+If you find that the DMA in your child’s/ward’s PLD has not been uninstalled properly, please contact the school at 6501 0800 or email at prss@moe.edu.sg. </p>
