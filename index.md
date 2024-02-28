@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Website_Banner.gif
+      background: /images/Homepage/Homepage.gif
       key_highlights:
         - title: Announcements
           description: ""
