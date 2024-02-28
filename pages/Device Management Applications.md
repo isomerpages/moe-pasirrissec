@@ -40,4 +40,33 @@ Please click on the link video on setting the DMA
 | Account Password Reset | [Parent Account Password Reset](https://drive.google.com/file/d/1Z12ioBGk58D5Fo8kMoKmfv-P5AkkQK6B/view?usp=drive_link) | 
 | Overriding Sleep Hours | [Overriding School Sleep Hours](https://drive.google.com/file/d/1b62IdeAw_ey_8zSF6H7Bxn5j8Lfjsnzx/view?usp=drive_link) |
 | Setting Rules to Restrict Usage | [Setting Rules to Restrict Usage ](https://drive.google.com/file/d/1jSkaMA7kC_pxCpj__lNYv-uI8umL92JY/view?usp=sharing) |
-</p>
+	
+#### DMA for Graduating Students
+	
+DMA will be uninstalled from your child’s/ward’s PLD once he/she is graduating from the school. DMA will be uninstalled only for students who are not continuing with 5NA course.
+	
+After the DMA has been uninstalled, your child/ward will be able to use the PLD without the DMA. Your child’s/ward’s browsing activity will no longer be monitored and the browsing history on his/her PLD will also be deleted from the DMA system server.
+	
+**Actions required by your child/ward:**
+
+|  |  |
+| -------- | -------- |
+| At least one day before the DMA uninstallation  | Please ensure that all data on your child’s/ward’s PLD have been backed-up (e.g. saved on an external storage device or to a cloud storage) prior to the uninstallation. This will prevent any loss of important data when the DMA is uninstalled.   | 
+|On the day of DMA uninstallation | Please ensure that the PLD is switched off from 6:00 am to 11:00 pm. This is to ensure that the uninstallation process, which will be done remotely, can proceed smoothly. |
+ 
+
+
+	
+
+
+. 
+	
+
+
+After the DMA has been uninstalled. Starting from the next day after the DMA uninstallation, you may refer to the attached document for instructions to check if the DMA has been successfully uninstalled from your child’s/ward’s PLD.
+
+Technical Support:
+
+Should your child/ward require technical assistance to perform the back-up, he/she can call the school-based helpline: 6876 7129 Ext 167.
+
+If you find that the DMA in your child’s/ward’s PLD has not been uninstalled properly, please contact the school at 6876 7129.</p>
