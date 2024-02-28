@@ -22,4 +22,5 @@ variant: markdown
 | -------- | -------- | 
 | Account Password Reset | [Parent Account Password Reset](https://drive.google.com/file/d/1Z12ioBGk58D5Fo8kMoKmfv-P5AkkQK6B/view?usp=drive_link) | 
 | Overriding Sleep Hours | [Overriding School Sleep Hours](https://drive.google.com/file/d/1b62IdeAw_ey_8zSF6H7Bxn5j8Lfjsnzx/view?usp=drive_link) |
-| Setting Rules to Restrict Usage | [Setting Rules to Restrict Usage ](https://drive.google.com/file/d/1jSkaMA7kC_pxCpj__lNYv-uI8umL92JY/view?usp=sharing) |</p>
+| Setting Rules to Restrict Usage | [Setting Rules to Restrict Usage ](https://drive.google.com/file/d/1jSkaMA7kC_pxCpj__lNYv-uI8umL92JY/view?usp=sharing) |
+</p>
