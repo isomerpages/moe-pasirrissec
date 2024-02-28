@@ -10,6 +10,7 @@ variant: markdown
 
 #### DMA Resources for parent who have onboard the After-School Parent Options
 
+Please download the guides according to the options you have selected for the DMA:
 
 |  |  |  |
 | -------- | -------- | -------- |
