@@ -18,6 +18,12 @@ The following infograhic outline the different levels of restrictions, controls,
 
 ![Infographic on DMA Parent Options](/images/ip8%20-%20infographic%20on%20the%20pld%20initiative_2023.jpg)
 
+Please fill the form below to request/change your child's/ward's after school DMA option.
+
+You will receive an activation e-mail via the e-mail address that you have provided to the school.
+
+If the activation e-mail is not found in your Inbox, please check the ‘Junk Folder’ or ‘Spam Folder’ for the e-mail onboard notification.
+
 #### DMA Resources for parent who have onboard the After-School Parent Options
 
 Please download the guides according to the options you have selected for the DMA:
@@ -29,7 +35,7 @@ Please download the guides according to the options you have selected for the DM
 #### DMA Video Guides on setting the DMA for parent who have onboard the After-School Parent Options
 
 
-Please refer to the video guides on setting the DMA
+Please click on the link video on setting the DMA
 
 | |  |
 | -------- | -------- | 
