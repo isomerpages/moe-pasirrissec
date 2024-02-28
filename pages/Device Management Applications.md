@@ -13,7 +13,7 @@ variant: markdown
 
 | DMA Parent Guide Options |  |  |
 | -------- | -------- | -------- |
-| [Default ](https://drive.google.com/file/d/1UqLVMv1Rn7OLPlSE7r57KUmhqy4D4GDS/view?usp=drive_link)| [Option A](https://drive.google.com/file/d/15Qv3EfGzCyMgaXoRPOjIYgoxcwckl2Vx/view?usp=drive_link) | [Option B](https://drive.google.com/file/d/1USUfgYZWV6hkhyTNnzAhyjwpehLOVFxl/view?usp=drive_link) |
+|![DMA Default](/images/DMA/DMA_Parent_Guide_Default_Option.png) [<p align="center">Default](https://drive.google.com/file/d/1UqLVMv1Rn7OLPlSE7r57KUmhqy4D4GDS/view?usp=drive_link)| [Option A](https://drive.google.com/file/d/15Qv3EfGzCyMgaXoRPOjIYgoxcwckl2Vx/view?usp=drive_link) | [Option B](https://drive.google.com/file/d/1USUfgYZWV6hkhyTNnzAhyjwpehLOVFxl/view?usp=drive_link) |
 
 
 #### DMA Troubleshooting Guides
@@ -21,4 +21,4 @@ variant: markdown
 | Problems/Issues | Video Guide Links |
 | -------- | -------- | 
 | Account Password Reset | [Parent Account Password Reset](https://drive.google.com/file/d/1Z12ioBGk58D5Fo8kMoKmfv-P5AkkQK6B/view?usp=drive_link) | 
-| Overriding Sleep Hours | [Overriding School Sleep Hours](https://drive.google.com/file/d/1b62IdeAw_ey_8zSF6H7Bxn5j8Lfjsnzx/view?usp=drive_link) |
+| Overriding Sleep Hours | [Overriding School Sleep Hours](https://drive.google.com/file/d/1b62IdeAw_ey_8zSF6H7Bxn5j8Lfjsnzx/view?usp=drive_link) |</p>
