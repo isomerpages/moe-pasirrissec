@@ -4,6 +4,14 @@ permalink: /permalink/
 description: ""
 variant: markdown
 ---
+#### Device Management Application Installation
+
+Your child’s/ward’s PLD will be installed with a DMA to provide a safer digital environment for learning.  DMA will be installed after the collection of the device. Students will be guided on the installation.
+
+The installation of DMA applies to both devices purchased through the school and any student-owned devices that parents/guardians opt for the student to use in lieu of the school-prescribed PLD.
+
+The DMA will be funded by MOE and will be uninstalled from the device when your child/ward graduates/leaves the school.
+
 #### DMA After-School Parent Options
 
 ![Infographic on DMA Parent Options](/images/ip8%20-%20infographic%20on%20the%20pld%20initiative_2023.jpg)
