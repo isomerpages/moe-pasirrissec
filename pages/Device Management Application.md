@@ -14,13 +14,13 @@ The DMA will be funded by MOE and will be uninstalled from the device when your 
 
 #### Providing Parents/Guardians with Greater Choice of After-School DMA Parent Options
 
-The following infograhic outline the different levels of restrictions, controls, and monitoring for the different DMA options after school hours.
+The following infographic outline the different levels of restrictions, controls, and monitoring for the different DMA options after school hours.
 
 ![Infographic on DMA Parent Options](/images/ip8%20-%20infographic%20on%20the%20pld%20initiative_2023.jpg)
 
-For parents/guardians who wish to choose Option A or Option B, please fill in the [Option Form](https://go.gov.sg/prss-dma-option) for After-School DMA Parent Options.
+For parents/guardians who wish to choose Option A or Option B, please fill in the [Option Form](https://go.gov.sg/prss-dma-option) for After-School DMA Parent Options. 
 
-Parents can also request to change their DMA option subsequently using the same [form](https://go.gov.sg/prss-dma-option). The request will be processed by the school monthly. 
+Parents can also request to change their DMA option subsequently using the same form. The request will be processed by the school monthly. 
 
 #### DMA Resources for parent who have onboard the After-School Parent Options
 
