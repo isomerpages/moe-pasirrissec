@@ -26,7 +26,8 @@ Parents can also request to change their DMA option subsequently using the same 
 
 Once the school has onboarded the After-School Parent Options, the parents/guardians will receive an e-mail invitation to onboard the Mobile Guardian via the e-mail address that they have provided to the school.  
 
-If the activation e-mail is not found in their Inbox, please check the ‘Junk Folder’ or ‘Spam Folder’ for the e-mail notification. Parents/Guardians can download the guides on how to login from the [Mobile Guardian Portal](https://sg-portal.mobileguardian.com/).
+If the activation e-mail is not found in their Inbox, please check the ‘Junk Folder’ or ‘Spam Folder’ for the e-mail notification. 
+Parents/Guardians can download the guides on how to onboard the [Mobile Guardian Parent Portal](https://sg-portal.mobileguardian.com/).
 
 Please download the guides according to the options you have selected for the DMA:
 
