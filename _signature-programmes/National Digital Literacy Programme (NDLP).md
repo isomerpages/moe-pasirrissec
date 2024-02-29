@@ -36,6 +36,10 @@ Education (MOE)’s Digital Literacy Framework:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature%20Programmes/MOE_Digital_Literacy_Framework.png">
 </div>
 <h4>Personal Learning Device (PLD)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PLD Initiative Infographic" src="/images/Signature Programmes/PLD_Initiative.jpg">
+</div>
 <p>At PRSS, all students use a <strong>Chromebook</strong> as their PLD. Chromebooks
 are chosen for their variety of affordances, including seamless learning
 experiences alongside existing teaching and learning technologies such
@@ -48,7 +52,7 @@ the school-prescribed PLD. This device is a touchscreen convertible laptop
 (i.e. can be used as a laptop or rotated 180 into a tablet) and comes with
 its own in-built stylus for inking functions.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chrome.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/chrome.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -59,17 +63,6 @@ for more details on this programme.</p>
 <h4>PDLP Student Device Information Kit</h4>
 <table>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>For PLD purchased in 2022 to 2024</p>
@@ -94,24 +87,24 @@ for more details on this programme.</p>
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Parent Resources</h4>
-<p><a href="/files/Signature%20programmes/NDLP/ip2%20parent%20handbook%20i%202024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a Personal Device</a> 
-<br><a href="/files/Signature%20programmes/NDLP/ip3%20parent%20handbook%20ii%202024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on Learning with a Personal Device</a> 
-<br><a href="https://drive.google.com/drive/folders/1v-TiyDZGUeOhJazC4LyU-j0UlMUqddm0?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Signature%20programmes/NDLP/ip2%20parent%20handbook%20i%202024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a Personal Device</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Signature%20programmes/NDLP/ip3%20parent%20handbook%20ii%202024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on Learning with a Personal Device</a> 
+<br><a href="/files/Signature programmes/NDLP/A_Parent_s_Guide_to_Generative_AI_Tools_for_Learning.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Signature programmes/NDLP/a_parent_s_guide_to_generative_ai_tools_for_learning.pdf" rel="noopener noreferrer nofollow" target="_blank">A Parent's Guide to Generative AI Tools for Learning</a>
+</p>
+</li>
+</ul>
 <h4>Financial Assistance</h4>
 <p>To ensure affordability of the PLD, there was a one-time Edusave top-up
 of $200 in every student’s Edusave account in April 2020. Additional subsidies
@@ -119,3 +112,6 @@ are available for students that are on financial assistance schemes.</p>
 <p>Students, including permanent residents (PR) and international students
 (IS), that need additional support should approach the General Office for
 more information on financial assistance.</p>
+<h4>Device Management Application</h4>
+<p>Please view our <a href="/dma" rel="noopener noreferrer nofollow" target="_blank">DMA Resource Site</a>.</p>
+<p></p>
