@@ -4,9 +4,9 @@ permalink: /useful-links/Parents-Gateway/
 description: ""
 variant: markdown
 ---
-#### **Introducing Parents Gateway**  
+### Introducing Parents Gateway
 
-**The easier way for schools to communicate with parents**
+The easier way for schools to communicate with parents
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
