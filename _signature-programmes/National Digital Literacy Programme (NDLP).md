@@ -22,24 +22,20 @@ and active learning experiences.</p>
 <p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the <strong>National Digital Literacy Programme (NDLP)</strong> for
 our schools and Institutes of Higher Learning to help students strengthen
 their digital literacy. One of the components of the NDLP is the introduction
-of the Personalised Digital Learning Programme (PDLP) for all secondary
-school students, whereby every secondary school student will own a school-prescribed
-computing device or Personal Learning Device (PLD) by end-2021.</p>
+of the <strong>Personalised Digital Learning Programme (PDLP)</strong> for
+all secondary school students, whereby every secondary school student will
+own a school-prescribed computing device or Personal Learning Device (PLD)
+by end-2021.</p>
 <p>The Personal Learning Device (PLD) will be used in tandem with the national
 e-learning platform – the Singapore Student Learning Space (SLS) – as well
 as other educational technology to personalise and enhance students’ learning.
 This will also better enable students to acquire digital skills and apply
 these skills as they navigate an increasingly digitalised world. Students
-will also acquire digital literacy in the four components of Ministry of
-Education (MOE)’s Digital Literacy Framework:</p>
+will also acquire digital literacy in the four components of <strong>MOE Digital Literacy Framework</strong>:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature%20Programmes/MOE_Digital_Literacy_Framework.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Signature%20Programmes/MOE_Digital_Literacy_Framework.png">
 </div>
 <h4>Personal Learning Device (PLD)</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PLD Initiative Infographic" src="/images/Signature Programmes/PLD_Initiative.jpg">
-</div>
 <p>At PRSS, all students use a <strong>Chromebook</strong> as their PLD. Chromebooks
 are chosen for their variety of affordances, including seamless learning
 experiences alongside existing teaching and learning technologies such
@@ -47,13 +43,13 @@ as the SLS, Google Suite for Education Apps and Microsoft Pro Plus.</p>
 <p>It is also a relatively lightweight and portable device that offers students
 convenient learning on-the-move. A full charge of the battery typically
 allows students to work on their PLDs for the entire curriculum hours.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PLD Initiative Infographic" src="/images/Signature Programmes/PLD_Initiative.jpg">
+</div>
 <p>Since 2021, every Secondary 1 student purchase their own <strong>Chromebook</strong> as
 the school-prescribed PLD. This device is a touchscreen convertible laptop
 (i.e. can be used as a laptop or rotated 180 into a tablet) and comes with
 its own in-built stylus for inking functions.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/chrome.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature%20Programmes/Chromebook_2024_Specs.png">
@@ -61,6 +57,9 @@ its own in-built stylus for inking functions.</p>
 <p>Please refer to the Parents’ Letter which will be send via Parents’ Gateway
 for more details on this programme.</p>
 <h4>PDLP Student Device Information Kit</h4>
+<p>Please refer to the Information Kit below for additional details regarding
+device contractor information, device insurance, warranty, and other relevant
+matters.</p>
 <table>
 <tbody>
 <tr>
@@ -71,9 +70,6 @@ for more details on this programme.</p>
 <p><a href="/files/Student%20Device%20Information%20Kit%20Acer_26%20Mar%2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit (Acer)</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -82,9 +78,6 @@ for more details on this programme.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Student%20Device%20Information%20Kit%20Lenovo_01%20July%2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit (Lenovo)</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
