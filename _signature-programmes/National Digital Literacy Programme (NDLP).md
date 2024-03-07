@@ -52,6 +52,9 @@ the school-prescribed PLD. This device is a touchscreen convertible laptop
 its own in-built stylus for inking functions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Acer_chromebook.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature%20Programmes/Chromebook_2024_Specs.png">
 </div>
 <p>Please refer to the Parents’ Letter which will be send via Parents’ Gateway
