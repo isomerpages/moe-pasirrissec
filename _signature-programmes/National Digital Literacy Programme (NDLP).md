@@ -57,9 +57,10 @@ its own in-built stylus for inking functions.</p>
 <p>Please refer to the Parents’ Letter which will be send via Parents’ Gateway
 for more details on this programme.</p>
 <h4>PDLP Student Device Information Kit</h4>
-<p>Parents/Guardians can refer to the Student Device Information Kit for
+<p>Parents/Guardians can refer to the <strong>Student Device Information Kit</strong> for
 additional details regarding device contractor information, device insurance,
 warranty and other relevant matters.</p>
+<p></p>
 <table>
 <tbody>
 <tr>
