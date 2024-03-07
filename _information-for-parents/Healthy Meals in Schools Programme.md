@@ -8,4 +8,4 @@ Childhood and adolescent years are crucial to set the foundation for healthy gro
 
 HPB has developed a Parents’ Booklet to encourage parents to nurture healthy eating habits at home. Together with the Healthy Meals in Schools Programme, we aim to promote the consumption of healthy meals with a balanced mix of the four different food groups – brown rice, whole grain noodles and wholemeal bread; fruit and vegetables as well as meat and alternatives, both in school and at home.
 
-Please [click here](/files/HPB%20HM%20Parents%20Booklet_School_Generic_30%20Mar.pdf) for the e-version of Parents’ Booklet. You can refer to the Healthy Meals in Schools Programme in Health Promotion Board (HPB) website at (https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme) 
+Please [click here](/files/HPB%20HM%20Parents%20Booklet_School_Generic_30%20Mar.pdf) for the e-version of Parents’ Booklet. You can refer to the Healthy Meals in Schools Programme in Health Promotion Board (HPB) HPB [website](https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
