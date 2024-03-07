@@ -86,6 +86,7 @@ warranty and other relevant matters.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h4>Parent Resources</h4>
 <ul data-tight="true" class="tight">
 <li>
