@@ -7,14 +7,7 @@ variant: markdown
 ---
 Co-Curricular Activities (CCAs) are an integral part of the holistic, well-rounded education that Pasir Ris Secondary School seeks to provide. The school has a broad and diverse range of CCAs to cater to the different needs and interests of our students. 
 
-The CCA Programme provides students with a platform to discover their interests and talents, as well as develop CCA-specific knowledge, skills, values and attitudes through sustained participation. CCA participation is **compulsory** for all students in secondary school. All students care expected to take part in at least one CCA from the four CCA groups:
-
-* Uniformed groups
-* Sports Groups
-* Performing Arts
-* Clubs and societies
-
-Students will be graded according to the LEAPs 2.0 system.
+The CCA Programme provides students with a platform to discover their interests and talents, as well as develop CCA-specific knowledge, skills, values and attitudes through sustained participation. CCA participation is **compulsory** for all students in secondary school. All students care expected to take part in at least one CCA from the four CCA groups namely, Uniformed groups, Sports Groups, Performing Arts Groups and Clubs and societies. Students will be graded according to the LEAPs 2.0 system.
 
 ### CCA Participation
 
