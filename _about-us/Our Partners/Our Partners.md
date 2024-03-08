@@ -13,4 +13,4 @@ To leverage collaborative efforts with our key stakeholders to provide for a qua
 
 ![](/images/Framework%2016%20Nov%202018.jpeg)
 
-Our committee aims to adopt the 3 Principles of the Partnership Framework; Synergy, Social Responsibility and Sustainability.
+Our committee aims to adopt the 3 Principles of the Partnership Framework; Synergy, Social Responsibility and Sustainability, to guide efforts to bring about synergistic partnerships, to realise school goals through open communication and collaborative culture.
