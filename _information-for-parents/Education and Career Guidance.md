@@ -64,12 +64,11 @@ Download the attachment for a clearer version of the poster.
 
 <img src="/images/ECG4.jpeg" style="width:50%;float:left">
 
-Browse through this&nbsp;[e-book](https://www.moe.gov.sg/microsites/next-step-forward)&nbsp;which features 42 portraits of youths who have gone through diverse education and career pathways. Our education system offers many options that cater to your child’s interests and needs, and can help them succeed in their selected path.
+Browse through this [e-book](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.pdf) which features 54 individuals go through diverse education and career pathways. The inspirational narratives highlight the many options that cater to the students' needs and can help them discover their selected pathways.
   
 Using these stories as springboards, discuss with your child his/her education and career options. Take your child’s interests, abilities and passion into consideration during the discussion!
 
 <img src="/images/ECG5.png" style="width:50%;float:left">
-		 
 We want to partner you to develop your child holistically!
 
 What topics would you like to know to support your child’s holistic development?
