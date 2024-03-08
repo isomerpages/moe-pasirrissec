@@ -34,13 +34,20 @@ The ECG curriculum aims to:
     
 To find out more and to learn about the ECG curriculum, click on the thumbnail or on the link&nbsp;[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/education-and-career-guidance)&nbsp;.
 
-<img src="/images/Skill%20Future%20Portal.png" style="width:50%;float:left">
 
-##### My Skills Future Portal  
+
+### My Skills Future Portal  
+
+<img src="/images/Skill%20Future%20Portal.png" style="width:50%;float:left">
   
-Please click on the image for the instructions to log in to&nbsp;[MySkillsFuture portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)&nbsp;using your child's account.
+Please click on the image for the instructions to log in to [MySkillsFuture portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html) using your child's account.
+
+
+
 
 <img src="/images/ECG2.jpeg" style="width:50%;float:left">
+
+
 
 Want to find out more about Education and Career Guidance (ECG)? Watch this quick&nbsp;[video](https://www.youtube.com/watch?v=12ass4FSCcg)&nbsp;on what ECG is about!
 
