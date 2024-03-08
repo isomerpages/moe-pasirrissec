@@ -4,23 +4,21 @@ permalink: /cca/Co-Curricular-Activities/
 description: ""
 variant: markdown
 ---
-Co-Curricular Activities (CCAs) are an integral part of the holistic, well-rounded education that PRSS seeks to provide. The school has a broad and diverse range of CCAs to cater to the different needs and interests of our students. Through active participation, Pasirians will gain a positive school experience. The CCA experiences will not only provide them with the platform to acquire inter-personal and leadership skills, they also give them the opportunity to thrive for excellence. PRSS leverages on CCAs as a platform for students to develop their character, qualities and be prepared to manage challenging environments.&nbsp;  
+Co-Curricular Activities (CCAs) are an integral part of the holistic, well-rounded education that PRSS seeks to provide. The school has a broad and diverse range of CCAs to cater to the different needs and interests of our students. 
 
-#### **General Guidelines**
+Our CCA Programme provides students with a platform to discover their interests and talents, as well as develop CCA-specific knowledge, skills, values and attitudes through sustained participation. CCA participation is **compulsory** for all students in secondary school. All students care expected to take part in at least one CCA from the four CCA groups:
 
-CCA is compulsory for all secondary school students. Students can choose from any of these 4 categories:
-
-* Clubs and societies
-* Physical sports
 * Uniformed groups
-* Visual and performing arts
+* Sports Groups
+* Performing Arts
+* Clubs and societies
 
-Students are encouraged to remain in the same CCA throughout their years in PRSS. Transfer between CCAs can only be allowed due to medical reasons.&nbsp;
+Students will be graded according to the LEAPs 2.0 system.
 
-#### **Participation**
+### CCA Participation
 
-Students must have a main CCA each year from one of the 4 groups. Points are awarded for participation in the main CCA with at least a&nbsp;**75% attendance rate**.&nbsp;
+All students must enrolled in a CCA throughout their secondary education.  Points will be awarded for participation only when attendance rate is above 75%. Students with poor CCA attendance (less than 75%) will be given a conduct grade of fair and their CCA points will note be computed for the year.
 
-For students with an attendance rate of 50% - 74%, the CCA points scored for the year will not be computed. However, CCA points accumulated in earlier years can be retained for computation when the student rejoins a CCA and fulfills the 75% attendance rate criterion.&nbsp;
+Students are encouraged to remain in the CCA assigned to them throughout their secondary school education. Changing of CCA will only be considered due to medical reasons. In this case, the LEAPs 2.0 points will not be affected.
 
-Except for medical reasons, an attendance rate of less than 50% would constitute a break in the CCA, and all points accumulated up to and including that year would be annulled.
+Click here for more information on LEAPs 2.0.
