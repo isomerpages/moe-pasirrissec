@@ -32,7 +32,7 @@ Please click the [Registration Form](https://forms.gle/TYmVaAcWKN3BqHzQ6) to joi
 
 ![PSG Form Link](/images/ECG_2024_1.png)
 
-We look forward to your support.
+We look forward to your support. Your involvement in school activities will enhance the educational experiences of our students and strengthen parent-child bonding. 
 
 
 #### DADS FOR LIFE EXCO
