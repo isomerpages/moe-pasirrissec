@@ -18,11 +18,11 @@ Our Learning for Life Programme (LLP), Shine@PRSS, aims to develop Pasirians int
 2. **Reflective learners**: able to interpret, respond and reflect on their experiences and interactions with various art forms
 3. **Creative Performers**: able to co-create and use different art forms for communication and expression
 
-![](/images/LLP2.png)
-
 ### Programme Structure
 
 PRSS has the 4E Development Plan to promote school-wide progression in the development of the arts that progresses from the introduction of the various arts to specialization in the different art forms.  
+
+![](/images/LLP2.png)
 
 ### Programme Highlights
 
