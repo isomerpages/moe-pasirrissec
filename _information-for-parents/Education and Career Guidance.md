@@ -8,7 +8,7 @@ Dear parents,
 
 Is your child clear about his/her interests, abilities and passion? Is he/she about to make an important decision regarding his/her education and career pathways?
 
-At the Budget Debate 2016, MOE highlighted the importance of education and career guidance (ECG) and that greater support would be given to help our children make better-informed education and career choices through the provision of ECG counselors and increased opportunities to raise our children’s awareness of specific industries. We recognise that for our children to thrive in a globalised economy and navigate meaningfully through life, they would benefit from having sound values and learning to seize every opportunity to develop transferable soft skills such as cross-cultural communication skills, problem-solving skills, and team work; and continually developing workplace readiness skills such as literacy, numeracy, and technical skills throughout life.
+At the Budget Debate 2016, MOE highlighted the importance of Education and Career Guidance (ECG) and that greater support would be given to help our children make better-informed education and career choices through the provision of ECG counselors and increased opportunities to raise our children’s awareness of specific industries. We recognise that for our children to thrive in a globalised economy and navigate meaningfully through life, they would benefit from having sound values and learning to seize every opportunity to develop transferable soft skills such as cross-cultural communication skills, problem-solving skills, and team work; and continually developing workplace readiness skills such as literacy, numeracy, and technical skills throughout life.
 
 Beyond schools’ efforts, parents can also play an important role at home in guiding our children in making important decisions for their education and career pathways. Some tips on how to help and guide your child are included in this e-mailer. Take the opportunity to discuss with your child the education and career options given the diverse and flexible pathways available at every key education stage.
 
@@ -65,25 +65,19 @@ Download the attachment for a clearer version of the poster.
 <img src="/images/ECG4.jpeg" style="width:50%;float:left">
 
 Browse through this&nbsp;[e-book](https://www.moe.gov.sg/microsites/next-step-forward)&nbsp;which features 42 portraits of youths who have gone through diverse education and career pathways. Our education system offers many options that cater to your child’s interests and needs, and can help them succeed in their selected path.
-
   
-
 Using these stories as springboards, discuss with your child his/her education and career options. Take your child’s interests, abilities and passion into consideration during the discussion!
 
 <img src="/images/ECG5.png" style="width:50%;float:left">
 		 
 We want to partner you to develop your child holistically!
 
-  
-
 What topics would you like to know to support your child’s holistic development?
+ 
+We want to hear from you to find out how we can support you! Please click on this [link](https://docs.google.com/forms/d/e/1FAIpQLSdq5wbmVhVho1d348ypjwtATjjk13nYij3D0cRGPsnR2_6voQ/viewform) to share your views with us.
 
-  
+Please share this email with your Parent Support Group (PSG) members and friends, and connect with us on [MOE Facebook](https://www.facebook.com/moesingapore), [Twitter](https://twitter.com/MOEsg), [Instagram](https://www.instagram.com/moesingapore/), [YouTube channel](http://www.youtube.com/channel/UC8PAXQlNeQ5w4n4uKC0hRmw). You can also [Schoolbag](https://www.schoolbag.edu.sg) website for more education news, and stories on school programmes and activities. 
 
-We want to hear from you to find out how we can support you! Please click on this&nbsp;[link](https://docs.google.com/forms/d/e/1FAIpQLSdq5wbmVhVho1d348ypjwtATjjk13nYij3D0cRGPsnR2_6voQ/viewform)&nbsp;to share your views with us.
+If you have any questions or comments for us on our updates, you can email us at [Engagement@moe.gov.sg](mailto:Engagement@moe.gov.sg). To ensure delivery to your inbox, please add [Engagement@moe.gov.sg](mailto:Engagement@moe.gov.sg) to your address book. If you do not wish to receive future emails from us, you may email us to unsubscribe.
 
-Please share this email with your PSG members and friends, and connect with us on&nbsp;[MOE Facebook](https://www.facebook.com/moesingapore)&nbsp;,&nbsp;[Twitter](https://twitter.com/MOEsg)&nbsp;,&nbsp;[Instagram](https://www.instagram.com/moesingapore/)&nbsp;, or&nbsp;[YouTube channel](http://www.youtube.com/channel/UC8PAXQlNeQ5w4n4uKC0hRmw)&nbsp;. You can also visit&nbsp;[Schoolbag.sg](https://www.schoolbag.sg/)&nbsp;website for more education news, and stories on school programmes and activities. If you have any questions or comments for us on our updates, you can email us at&nbsp;[Engagement@moe.gov.sg](mailto:Engagement@moe.gov.sg)&nbsp;. To ensure delivery to your inbox, please add&nbsp;[Engagement@moe.gov.sg](mailto:Engagement@moe.gov.sg)&nbsp;to your address book. If you do not wish to receive future emails from us, you may email us to unsubscribe.
-
-  
-
-Thank you for your efforts in strengthening and promoting school-home-community collaborations in your role as a Parent Support Group member. We look forward to your continued support in this meaningful partnership of nurturing the next generation.
+Thank you for your efforts in strengthening and promoting school-home-community collaborations in your role as a PSG member. We look forward to your continued support in this meaningful partnership of nurturing the next generation.
