@@ -2,15 +2,18 @@
 title: Learning for Life Programme (LLP)
 permalink: /signature-programmes/Learning-for-Life-Programme-LLP/
 description: ""
+variant: markdown
 ---
-#### **Music and Performing Arts**
+### Music and Performing Arts
 
-In PRSS, we embrace the love of aesthetics and strive towards building a vibrant culture in the Music and Performing Arts. Our Learning for Life Programme (LLP) in Music and Performing Arts is a broad-based programme where we aim to create the environment where every child can **SHINE through the ARTs**.
+In Pasir Ris Secondary School, we embrace the love of aesthetics and strive towards building a vibrant culture in the **Music and Performing Arts**. Our Learning for Life Programme (LLP) in Music and Performing Arts is a broad-based programme where we aim to create the environment where every child can **SHINE through the ARTs**.
 
 ![](/images/LLP%20FRamework%202022.jpeg)
-<center>LLP FRamework 2022</center>
 
-#### **LLP Goals:**
+### Programme Goals
+
+Our Learning for Life Programme (LLP), Shine@pRSS
+
 
 1. **Cultured Citizens**: well-acquainted with global culture and heritage and appreciative of its Arts
 2. **Reflective learners**: able to interpret, respond and reflect on their experiences and interactions with various art forms
@@ -18,7 +21,7 @@ In PRSS, we embrace the love of aesthetics and strive towards building a vibrant
 
 ![](/images/LLP2.png)
 
-#### **Program Structure**
+### Programme Structure
 
 PRSS has the 4E Development Plan to promote school-wide progression in the development of the arts that progresses from the introduction of the various arts to specialization in the different art forms.  
 
