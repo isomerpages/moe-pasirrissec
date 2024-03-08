@@ -17,7 +17,7 @@ Students will be graded according to the LEAPs 2.0 system.
 
 ### CCA Participation
 
-All students must enrolled in a CCA throughout their secondary education.  Points will be awarded for participation only when attendance rate is above 75%. Students with poor CCA attendance (less than 75%) will be given a conduct grade of fair and their CCA points will note be computed for the year.
+All students must enrolled in a CCA throughout their secondary education.  Points will be awarded for participation only when attendance rate is above 75%. Students with poor CCA attendance (less than 75%) will be given a conduct grade of fair and their CCA points will not be computed for the year.
 
 Students are encouraged to remain in the CCA assigned to them throughout their secondary education. Changing of CCA will only be considered due to medical reasons. In this case, the LEAPs 2.0 points will not be affected.
 
