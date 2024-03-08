@@ -21,4 +21,10 @@ All students must enrolled in a CCA throughout their secondary education.  Point
 
 Students are encouraged to remain in the CCA assigned to them throughout their secondary education. Changing of CCA will only be considered due to medical reasons. In this case, the LEAPs 2.0 points will not be affected.
 
+Students may participate in more than one CCA on a case by case basis approved by HOD PE/CCA.
+
+**Bonus points for admission to JC / Poly / ITE**
+
+Under LEAPs 2.0, students who obtain an "Excellent" grade in CCA will be given two bonus points while those who obtain a "Good" grade will be given one bonus point.
+
 Click here for more information on LEAPs 2.0.
