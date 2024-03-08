@@ -27,4 +27,4 @@ Students may participate in more than one CCA on a case by case basis approved b
 
 Under LEAPs 2.0, students who obtain an "Excellent" grade in CCA will be given two bonus points while those who obtain a "Good" grade will be given one bonus point.
 
-Click on the link for more information on [LEAPs 2.0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0).
+Click on the link for more information on [LEAPs 2.0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0) for secondary school students.
