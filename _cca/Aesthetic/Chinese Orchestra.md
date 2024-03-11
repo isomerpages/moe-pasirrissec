@@ -52,15 +52,16 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 **Conductor**<br>
 Mr Chin Yen Choong
 
-### Photos/Videos
+### **Photos/Videos**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G7r30ncf14E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G7r30ncf14E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gUKdo6p6lXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/juMno1qq2Ys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-![](/images/CO%20Photo%202.jpeg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/juMno1qq2Ys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> </center>
+
+
 ![](/images/CO%20Photo%203.png)
 ![](/images/CO%202.jpeg)
 ![](/images/co.png)
