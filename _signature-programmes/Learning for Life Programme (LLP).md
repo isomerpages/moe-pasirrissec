@@ -10,10 +10,23 @@ In Pasir Ris Secondary School, we embrace the love of aesthetics and strive towa
 
 ![](/images/LLP%20FRamework%202022.jpeg)
 
-
 We **SH**ape, **IN**tegrate and **E**xpress through these 5 key strategies:
 
-1. Self-discor
+1. **Self-discovery of interest and ability (S)**<br>
+Provide structured and integrated programmes for students to develop self-awareness and self-management through discovery and pursuit of their artistic interests.
+
+2. **Heritage and Cultural appreciation (H)**<br>
+Heighten students’ cultural awareness, respect for diversity and appreciation of the uniqueness of the various cultures through exposure to the music and drama programmes of the different cultural groups.
+
+3. **Interaction and Collaborative Learning (I)**<br>
+Provide opportunities for students to work in teams on their projects within the school or with external organisations and institutions (locally or overseas) to develop their interpersonal and collaboration
+skills.
+
+4. **Engagement in Community Outreach and Partnership (N)**<br>
+Provide platforms for students to contribute to the community by putting up performances to entertain, educate and foster closer relationships as part of their Values-In-Action projects.
+
+5. **Excellence in Artistic Expressions (E)**<br>
+Provide more opportunities for students in Performing Art CCAs to hone their aesthetic skills, develop their leadership competencies, foster teamwork, cultivate resilience and develop a mindset of excellence.
 
 ### Programme Goals
 
@@ -25,7 +38,7 @@ Our Learning for Life Programme (LLP), Shine@PRSS, aims to develop Pasirians int
 
 ### Programme Structure
 
-PRSS has the 4E Development Plan to promote school-wide progression in the development of the arts that progresses from the introduction of the various arts to specialization in the different art forms.  
+Pasir Ris Secondary School has the 4E Development Plan to promote school-wide progression in the development of the arts that progresses from the introduction of the various arts to specialization in the different art forms.  
 
 ![](/images/LLP2.png)
 
@@ -58,4 +71,4 @@ PRSS has the 4E Development Plan to promote school-wide progression in the devel
 <img src="/images/llp2.jpeg" style="width:45%">
 		 
 
-[Click here](/useful-links/direct-school-admission-dsa/dsa-llp-in-music-and-performing-arts) to find out how you can join PRSS through our Direct School Admission in LLP.</center>
+Click [here](/useful-links/direct-school-admission-dsa/dsa-llp-in-music-and-performing-arts) to find out how you can join Pasir Ris Secondary School through our Direct School Admission in LLP.</center>
