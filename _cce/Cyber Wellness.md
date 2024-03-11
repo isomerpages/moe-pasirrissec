@@ -65,7 +65,7 @@ The four key messages for students are:
 
 Lessons are delivered via the Character and Citizenship Education (CCE) curriculum in PRSS. Key CW topics are also incorporated in subjects such as English and Mother Tongue Languages.
 
-CW curriculum: at a glance
+#### CW Curriculum at a glance
 
 ![](/images/CW.png)
 
@@ -87,13 +87,13 @@ We organise trainings for our leaders and students to internalise the Cyber Well
 
 ![](/images/CCE/CW/cw01%20training%20&amp;%20workshops.png)
 
-**Assembly Talks**
+#### **Assembly Talks**
 
 Cyber Wellness is especially important for our internet-savvy youth today. All students will attend assembly talks and lessons which will teach them how to stay safe in cyber-world. There are also competitions and termly just-in-time holiday reminders to engage students. Topics covered include socializing on social media platforms, fake news, copyright issues, cyber-gaming, Internet addiction, cyber-bullying and cyber-relationships.
 
 ![](/images/CCE/CW/cw02%20assembly%20talks.png)
 		 
-**Student Leaders Positive Peer Advocacy**&nbsp;
+#### **Student Leaders Positive Peer Advocacy**
 
 In PRSS, we also engage student leaders to lead Cyber Wellness peer advocacy projects. A signature event is the Cyber Wellness Fest. Experiential learning games led by Cyber Wellness Champs, talks, exhibitions and awareness competitions are organised to further inculcate Cyber Wellness values. We also collaborate with external organisations such as Singapore Kindness Movement, National Library Board and Fei Yue Social Services in organizing our activities. Our Student Councillors also organise the Safer Internet Awareness Campaign Week to further spread awareness and share tips on all Cyber Wellness issues. Cyber Wellness. As advocacy, our students have also created posters.
 
@@ -102,7 +102,7 @@ In PRSS, we also engage student leaders to lead Cyber Wellness peer advocacy pro
 ![](/images/SL%20positive3.png)
 ![](/images/SL%20positive4.png)
 
-**Awards and Recognition**
+#### **Awards and Recognition**
 
 To further develop and share our expertise in Cyber Wellness, the school presented our Cyber Wellness programme at the National Cyber Wellness STAR Award Conference 2015, Cyber Wellness Connexion 2017, National Cyber Wellness Student Ambassador Summit 2017 and National CW Connexion 2019. Our student leaders have also participated in competitions such as Cyber Warriors Challenge and National Cyber Wellness Advocacy Challenge. At the NCAC 2016, our school teams won the First and Third Prize. Our student, Ong Jiang En was also awarded the National Cyber Wellness Student Ambassador Award in 2017. Terry Teng Joon Seng, President of the Student Council was also awarded the National Cyber Wellness Student Ambassador Award in 2019.
 
