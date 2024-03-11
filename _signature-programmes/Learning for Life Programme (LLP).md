@@ -4,11 +4,16 @@ permalink: /signature-programmes/Learning-for-Life-Programme-LLP/
 description: ""
 variant: markdown
 ---
-### Music and Performing Arts
+## Music and Performing Arts
 
 In Pasir Ris Secondary School, we embrace the love of aesthetics and strive towards building a vibrant culture in the **Music and Performing Arts**. Our Learning for Life Programme (LLP) in Music and Performing Arts is a broad-based programme where we aim to create the environment where every child can **SHINE through the ARTs**.
 
 ![](/images/LLP%20FRamework%202022.jpeg)
+
+
+We **SH**ape, **IN**tegrate and **E**xpress through these 5 key strategies:
+
+1. Self-discorvery
 
 ### Programme Goals
 
