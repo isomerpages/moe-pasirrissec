@@ -4,7 +4,7 @@ permalink: /signature-programmes/Applied-Learning-Programme-ALP/
 description: ""
 variant: markdown
 ---
-### Eye on the World – Stories through journalism
+## Eye on the World – Stories through journalism
 
 The Applied Learning Programme (ALP), Eye on the World – stories through journalism, aims to provide students with opportunities to relate learning to real-life situations; increase their awareness of local and global issues; and develop critical thinking and effective communication skills through various journalism platforms.
 
