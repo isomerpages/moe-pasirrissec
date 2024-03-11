@@ -71,7 +71,7 @@ Lessons are delivered via the Character and Citizenship Education (CCE) curricul
 
 **Taken from:&nbsp;[https://www.moe.gov.sg/programmes/cyber-wellness](https://www.moe.gov.sg/programmes/cyber-wellness)**
 
-****Sense-Think-Act @ Home****
+#### **Sense-Think-Act @ Home**
 
 To complement the CW curriculum in schools, parents can set a good example at home in the use of technology and play an active role in guiding our children to navigate in cyberspace.&nbsp;In partnership with parents, we also organise parenting workshops for parents during PTMs to learn more about what teenagers do online and how to effectively manage some of the challenges they face in managing their children’s online behaviour.
 
@@ -81,7 +81,7 @@ To ensure that their children are safe and have positive experiences online, par
 
 According to a 2017 study by&nbsp;consultancy Ernst &amp; Young (EY), Singaporeans spend over 12 hours on their digital gadgets daily.&nbsp;More than half the student population in general spend more than three hours in the cyber world on non-work related activities. The Cyber Wellness programme in PRSS aim to equip students with the knowledge, skills and values to exhibit appropriate behaviour when interacting with other cyber users to advocate a safe and healthy cyber community.
 
-**Training and workshops**
+#### **Training and workshops**
 
 We organise trainings for our leaders and students to internalise the Cyber Wellness key messages. In 2023, we organised the NCAC enrichment module so that our student leaders are equipped with the key leadership skills to champion CW.
 
@@ -133,18 +133,15 @@ Cyber Wellness programme to other Cyber Wellness Coordinators at Cyber Wellness 
 
 <center>Sharing their aspirations for the online sphere.</center>
 
-**Partnerships**
+#### **Partnerships**
 
 We believe in working closely with other key stakeholders.
 
-  
-
-*   Other schools
+*   **Other schools**
 
 Since 2015, we have been supporting the Cyber Wellness programmes in other schools. Our student leaders have conducted workshops and training programmes for both Primary and Secondary schools. Our student leaders have also organised a Cyber Wellness Fest to engage their students as a form of Values-In-Action (VIA) project.&nbsp;
   
-
-*   Other external organisations
+*   **Other external organisations**
 
 We have engaged the support of other organisations such as Singapore Kindness Movement, Kingmaker, KPMG, IMDA and the Tampines community centres to run various activities such as assembly talks and outreach projects.
 
@@ -154,6 +151,6 @@ We have engaged the support of other organisations such as Singapore Kindness Mo
 		 <img src="/images/Partnership%206.jpeg" style="width:50%;float:left"><img src="/images/Partnership%207.jpeg" style="width:50%">
 		 <img src="/images/Partnership%208.jpeg" style="width:50%;float:left"><img src="/images/Partnership%209.jpeg" style="width:50%">
 		 
-#### Cyber Bullying hurts more than you think
+#### **Cyber Bullying hurts more than you think**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OYQjjr9hfjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
