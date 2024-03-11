@@ -45,7 +45,7 @@ Students need to:
     
 ### PRSS Cyber Wellness Programme
 
-In PRSS, our vision is to develop Pasirians as savvy online users who have positive online influence. To do so, we have a 3-pronged approach:
+In Pasir Ris Secondary School, our vision is to develop Pasirians as savvy online users who have positive online influence. To do so, we have a 3-pronged approach:
 
 ![](/images/PRSS%20Cyber%20Wellness%20Programme2.jpeg)
 
@@ -55,9 +55,9 @@ The goal of CW lessons is to equip students with life-long social-emotional comp
 
 The four key messages for students are:
 
-1.  Embrace ICT yet maintain a balanced lifestyle between the physical and the cyber world.  
-    
-2.  Harness the power of ICT for positive purposes. 
+1. Embrace ICT yet maintain a balanced lifestyle between the physical and the cyber world.    
+
+3. Harness the power of ICT for positive purposes. 
     
 3.  Maintain a positive presence in cyberspace.  
     
