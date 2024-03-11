@@ -13,7 +13,7 @@ In Pasir Ris Secondary School, we embrace the love of aesthetics and strive towa
 
 We **SH**ape, **IN**tegrate and **E**xpress through these 5 key strategies:
 
-1. Self-discorvery
+1. Self-discor
 
 ### Programme Goals
 
