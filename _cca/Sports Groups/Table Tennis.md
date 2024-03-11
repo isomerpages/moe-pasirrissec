@@ -2,7 +2,7 @@
 title: Table Tennis
 permalink: /cca/Sports-and-Games/Table-Tennis/
 description: ""
-third_nav_title: Sports & Games
+third_nav_title: Sports Groups
 variant: markdown
 ---
 ### **About us**

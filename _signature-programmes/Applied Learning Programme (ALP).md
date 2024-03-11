@@ -4,9 +4,9 @@ permalink: /signature-programmes/Applied-Learning-Programme-ALP/
 description: ""
 variant: markdown
 ---
-#### **Eye on the World – Stories through Journalism**
+## Eye on the World – Stories through journalism
 
-The Applied Learning Programme (ALP): Eye on the World – Stories through Journalism, aims to provide students with opportunities to relate learning to real-life situations; increase their awareness of local and global issues; and develop critical thinking and effective communication skills through various journalism platforms.
+The Applied Learning Programme (ALP), Eye on the World – stories through journalism, aims to provide students with opportunities to relate learning to real-life situations; increase their awareness of local and global issues; and develop critical thinking and effective communication skills through various journalism platforms.
 
 The programme was first started in 2015, with a focus on deepening interest and applying learning in Humanities and English language in various real life situations. Students do this through various integrated projects in the IP and non-IP areas such as IPW and VIA. These programmes brought them out to the real world and develop their confidence in engaging with other stakeholders in the community. Concurrently, a Current Affairs programme was developed to help our students develop an interest and learn more about contemporary issues which affect them and the community.
   
@@ -16,36 +16,39 @@ A strategic review was carried out in 2018 and the programme was further enhance
 
 Although the programme has evolved since its inception, the five key strategies (DRIVE Framework) driving the programme have remained, and they include:  
 
-##### **Diversity in Humanities Subject offerings (D)**
+#### 1. Diversity in Humanities Subject offerings (D)
 
 Provide a variety of Humanities subject offerings to better prepare students for post-secondary education.
 
-##### **Relevance of learning through Broadcast Journalism platforms (R)**
+#### 2. Relevance of learning through Broadcast Journalism platforms (R)
 
-Through various content creation platforms such as photojournalism, podcasts, news-casting and documentary production, we provide quality learning experiences for students to apply their knowledge and skills to real-life situations.
+Through various content creation platforms such as photojournalism, podcasts, news-casting and documentary productions, we provide quality learning experiences for students to apply their knowledge and skills to real-life situations.
 
-##### **Interest in reading and improved literacy (I)**
+#### 3. Interest in reading and improved literacy (I)
 
 Cultivate reading habits for deeper learning and improved literacy to enable students to better express themselves and develop their confidence.
 
-##### **Value in a real-world application through current affairs and career guidance (V)**
+#### 4. Value in a real-world application through current affairs and career guidance (V)
 
-Leverage current affairs to enhance students’ global awareness, perspective-taking and cultural literacy; augment students’ awareness of career opportunities linked to the Media arts industry through career talks, learning journeys and attachments.
+Leverage contemporary issues to enhance students’ global awareness, perspective-taking and cultural literacy; augment students’ awareness of career opportunities linked to the Media arts industry through career talks, learning journeys and attachments.
 
-##### **Environment and partnerships (E)**
+#### 5. Environment and partnerships (E)
 
 Transform physical spaces into themed corners to cultivate students’ interest in current affairs and showcase students’ work; collaborate with key external partners to make learning more authentic and experiential.
 
+
+### Photos
+
 <img height="auto" width="600" max="" src="/images/Photos%20for%20ALP.jpeg">
 
-<center>Top left: Our Sec 2 students undergoing the Photojournalism Workshop
-<br>Bottom left: Our Sec 2 students undergoing a film making workshop .conducted by industry professionals.<br>Top right: Our students sharing about the PRSS Waves Radio show to guests during the 35th Anniversary celebrations.
+Top left: Our Sec 2 students undergoing the Photojournalism Workshop
+<br>Bottom left: Our Sec 2 students undergoing a film making workshop .conducted by industry professionals.
+<br>Top right: Our students sharing about the PRSS Waves Radio show to guests during the 35th Anniversary celebrations.
 <br>Bottom right: Our #Ruminate gallery where students can learn more about contemporary issues and news that affect our community. 
-<br><br>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GFybHyxVc8g?si=TrtdgRkdO9lTi1Ck" height="315" width="560"></iframe>	
 <br>
 <iframe allowfullscreen="true" height="369" width="560" frameborder="0" src="https://docs.google.com/presentation/d/1u2bqYOlYKGSmtsRYOwCuHjLjR_YirObR0Xidi6O1y4g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 <br>
 
-Click [here](/useful-links/direct-school-admission-dsa/dsa-alp-in-humanities-and-english-language)to find out how you can join PRSS through our Direct School Admission in ALP.</center>
+Click [here](/useful-links/direct-school-admission-dsa/dsa-alp-in-humanities-and-english-language/) to find out how you can join PRSS through our Direct School Admission in ALP.

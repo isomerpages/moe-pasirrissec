@@ -2,7 +2,7 @@
 title: Basketball
 permalink: /cca/Sports-and-Games/Basketball/
 description: ""
-third_nav_title: Sports & Games
+third_nav_title: Sports Groups
 variant: markdown
 ---
 ### **About us**

@@ -16,10 +16,14 @@ aims to provide for our students.
 Our motto, *Pride and Responsibility*, derived from the initials of the school, are the values which we hope to instil in our students. These virtues, like sails in the wind, will carry us forward to success and work excellence. The waves that form the base on which Pride and Responsibility rest, symbolise our students’ aesthetic and moral development, which are integral to their all-rounded education.
   
 ## **School Colours**
+
+#### **Yellow and Green**
   
 The school colours, *yellow and green*, represent the *freshness and enlightenment* a sound education provides. It is the school’s aspiration to provide the best possible education for our students to ensure that the future generations of Singapore citizens will show pride in their pursuits and shoulder their responsibilities with commitment and dedication.
 
 ## **School Song**
+
+Our school songs calls on Pasir Ris Secondary School students to take pride in ourselves, in our deeds, to be true and sincere and to give our best in our service to others.
 
 <p align="center">
 With pride and joy let us sing <br>

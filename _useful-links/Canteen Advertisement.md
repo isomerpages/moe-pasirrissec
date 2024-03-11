@@ -10,8 +10,8 @@ variant: markdown
 
 | Type of Stalls | Closing Date | Requirements|
 | ------- | -------- | -------- |
-|Economy Rice Stall (Non-Halal)    | 29 February 2024  | See Below  |
-|Asia Cuisine (Non-Halal - Japanese/Korean,Vegetarian,etc)    | 29 February 2024  | See Below  |
+|Chinese Rice (Non-Halal - To include chicken rice in menu)    | 21 June 2024  | See Below  |
+|Asia Cuisine (Non-Halal - Japanese/Korean,Vegetarian,etc)    | 21 June 2024  | See Below  |
 
 **Other details:**
 

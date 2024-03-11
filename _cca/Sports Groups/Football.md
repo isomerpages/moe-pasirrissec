@@ -2,7 +2,7 @@
 title: Football
 permalink: /cca/Sports-and-Games/Football/
 description: ""
-third_nav_title: Sports & Games
+third_nav_title: Sports Groups
 variant: markdown
 ---
 ### **About us**
