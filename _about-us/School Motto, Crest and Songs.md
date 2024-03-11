@@ -21,6 +21,8 @@ The school colours, *yellow and green*, represent the *freshness and enlightenme
 
 ## **School Song**
 
+Our school songs calls on Pasir Ris Secondary School students to take pride in ourselves, in our deeds, to be true and sincere and to give our best in our service to others.
+
 <p align="center">
 With pride and joy let us sing <br>
 Let truth and sincerity come right from your heart <br>
