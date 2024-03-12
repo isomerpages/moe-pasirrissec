@@ -4,7 +4,7 @@ permalink: /signature-programmes/Student-Leadership/
 description: ""
 variant: markdown
 ---
-#### **Student Leadership Development Programme**  
+### **Student Leadership Development Programme**  
 
 The school provides leadership development opportunities to all students and also identifies and develops the leadership potential in our students. The school’s PRIZE values shape the beliefs, attitudes and actions of a Pasirian student leader.
 
@@ -13,8 +13,6 @@ With a structured and comprehensive four-year student leadership development pro
 Students learn to lead through observing exemplary **role models** in and outside school. Their leadership competencies are developed with the numerous **training** opportunities provided by the school. They further enhance their own leadership skills during the many learning **experiences** and platforms to apply their leadership skills.
 
 The Pegasus Programme aims to develop the 8 skills that each student will need to become an exemplary and effective leader. The eight skills are as follows:
-
-  
 
 1.  Decision-making Skills (Critical Thinking and problem-solving skills)
 2.  Collaborative Skills (Collaboration across networks)&nbsp;&nbsp;
@@ -27,8 +25,6 @@ The Pegasus Programme aims to develop the 8 skills that each student will need t
 
 Students’ leadership knowledge, skills and values are developed through a continuum of workshops, lectures, seminars, camps and external leadership programmes. Student leaders then transfer their learning into authentic practices by conducting workshops, facilitating camps and organising school and community events.
 
-  
-
 The programme is tiered and progressive. The different levels of development follow a different theme to cater to the students’ readiness and aspiration
 
 ![](/images/SL.png)
@@ -39,8 +35,6 @@ The student leadership development approach adopted is aligned with The Leadersh
 
 The student leaders in PRSS comprise the Student Councillors, Class Leaders Committees and CCA Leaders. These student leaders are identified and selected based on the following four criteria.
 
-  
-
 1.  Leadership potential
     
 2.  Keen and willing to serve the school and community
@@ -48,14 +42,11 @@ The student leaders in PRSS comprise the Student Councillors, Class Leaders Comm
 3.  Good academic performance
     
 4.  Good discipline record
-    
-
-  
-
+      
 Nominations are made by teachers, peers and aspiring student leaders themselves. However, an appointment will be based on the students’ continued good performance and positive assessment by school leaders, teachers and peers.&nbsp;
 
   
-#### Student Council Ex-Co 2022/2023
+### **Student Council Ex-Co 2022/2023**
 
 ![](/images/26th%20SC.jpeg)
 <center>26th Student Council Ex-Co Team</center>
