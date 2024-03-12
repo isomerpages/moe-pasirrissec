@@ -61,11 +61,10 @@ At the end of four years in Drama Club, students will become more confident, wel
 * Mdm. Nazrene
 * Mdm. Shahilla
 
-**Instructor:**<br>
+### **Instructor:**<br>
 Mr. Ian Loy  
 
 ### **Photos / Videos**
-
 
 
 <img src="/images/FNDS1.jpeg" style="width:50%;float:left">
