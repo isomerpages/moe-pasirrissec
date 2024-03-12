@@ -30,18 +30,18 @@ The programme is divided into three tiers:
 
 #### **Signature Programmes**
 
-**Stage 1 (Enrich)**
+##### **Stage 1 (Enrich)**
 
 *   Field trips&nbsp;  
 *   Learning journeys
 *   Survival in the Wild Inquiry Workshop
 
-**Stage 2 (Engage)**
+##### **Stage 2 (Engage)**
 
 *   External workshops (Forensic Science, Applied Sciences and Engineering)
 *   Intra-school and inter-school competitions  
     
-**Stage 3 (Excel)**
+##### **Stage 3 (Excel)**
 
 *   Customised field trips  
 *   National and international competitions  
