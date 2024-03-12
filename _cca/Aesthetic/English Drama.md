@@ -65,7 +65,9 @@ At the end of four years in Drama Club, students will become more confident, wel
 Mr. Ian Loy  
 
 ### **Photos / Videos**
+![](/images/CCA/Drama/2024%20drama%2002.jpg)
 
+![](/images/CCA/Drama/2024%20drama%2001.jpg)
 
 <img src="/images/FNDS1.jpeg" style="width:50%;float:left">
 <img src="/images/FNDS2.jpeg" style="width:50%">
