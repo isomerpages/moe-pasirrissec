@@ -10,13 +10,7 @@ In Pasir Ris Secondary School, we embrace the love of aesthetics and strive towa
 
 ![](/images/LLP%20FRamework%202022.jpeg)
 
-
-We **SH**ape, **IN**tegrate and **E**xpress through these 5 key strategies:
-
-1. Self-discor
-
 ### Programme Goals
-
 Our Learning for Life Programme (LLP), Shine@PRSS, aims to develop Pasirians into:
 
 1. **Cultured Citizens**: well-acquainted with global culture and heritage and appreciative of its Arts
@@ -25,7 +19,7 @@ Our Learning for Life Programme (LLP), Shine@PRSS, aims to develop Pasirians int
 
 ### Programme Structure
 
-PRSS has the 4E Development Plan to promote school-wide progression in the development of the arts that progresses from the introduction of the various arts to specialization in the different art forms.  
+Pasir Ris Secondary School has the **4E Development Plan** to promote school-wide progression in the development of the arts that progresses from the introduction of the various arts to specialization in the different art forms.  
 
 ![](/images/LLP2.png)
 
@@ -58,4 +52,4 @@ PRSS has the 4E Development Plan to promote school-wide progression in the devel
 <img src="/images/llp2.jpeg" style="width:45%">
 		 
 
-[Click here](/useful-links/direct-school-admission-dsa/dsa-llp-in-music-and-performing-arts) to find out how you can join PRSS through our Direct School Admission in LLP.</center>
+Click [here](/useful-links/direct-school-admission-dsa/dsa-llp-in-music-and-performing-arts) to find out how you can join Pasir Ris Secondary School through our Direct School Admission in LLP.</center>
