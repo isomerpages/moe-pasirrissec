@@ -23,12 +23,12 @@ This programme aims to promote interest and authentic learning in Science and Te
 
 The programme is divided into three tiers: 
 
-##### **<center>Enrich, Engage, Excel</center>**
+#### **<center>Enrich, Engage, Excel</center>**
 
 ![](/images/SEED.png)
  
 
-##### **Signature Programmes**
+#### **Signature Programmes**
 
 **Stage 1 (Enrich)**
 
@@ -86,6 +86,7 @@ Science Experiential, Enrichment and Development Programme (SEED) which aims to 
 * Interdisciplinary Group Project - Gold
 
 #### **Achievements**
+
 * Best Oral Defense Award' for USPE 2023
 * Bronze Award' for SISTEMIC 2023
 
@@ -102,22 +103,21 @@ You can access the virtual tour of our school's Eco Garden [here](https://www.th
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
-| Chemistry/ Lower Secondary Science | Miss Chua Wei Tian<br>HOD Science  | [chua_wei_tian@moe.edu.sg](mailto:chua_wei_tian@moe.edu.sg) |
+| Chemistry / Lower Secondary Science | Miss Chua Wei Tian<br>HOD Science  | [chua_wei_tian@moe.edu.sg](mailto:chua_wei_tian@moe.edu.sg) |
 | Chemistry | Mr Chua Khoon Wee<br>HOD Information Communication Technology | [chua_Khoon_Wee@moe.edu.sg](mailto:chua_Khoon_Wee@moe.edu.sg) |
-| Biology/ Lower Secondary Science| Mr Joshua Tan<br>HOD Character &amp; Citizenship Education |  [joshua_tan_see_kuang@moe.edu.sg](mailto:joshua_tan_see_kuang@moe.edu.sg) | 
-| Physics/ NT Science| Mr Mohamed Ashiq<br>YH Upper Secondary | [mohamed_ashiq_mohamed@moe.edu.sg](mailto:mohamed_ashiq_mohamed@moe.edu.sg) | 
-| Chemistry/ Lower Secondary Science | Ms Quah Wei Wei <br>LH Lower Secondary Science | [quah_wei_wee@moe.edu.sg](mailto:quah_wei_wee@moe.edu.sg) |
-| Biology/ Lower Secondary Science | Mr Daniel Ng Tze Keen<br>SH Character &amp; Citizenship Education | [ng_tze_keen_daniel@moe.edu.sg](mailto:ng_tze_keen_daniel@moe.edu.sg) |
-| Chemistry/ Lower Secondary Science/ Physical Education | Mr Mohammed Riffaii<br>SH Discipline | [mohammed_riffaii_maidin@moe.edu.sg](mailto:mohammed_riffaii_maidin@moe.edu.sg)|
+| Biology / Lower Secondary Science| Mr Joshua Tan<br>HOD Character &amp; Citizenship Education |  [joshua_tan_see_kuang@moe.edu.sg](mailto:joshua_tan_see_kuang@moe.edu.sg) | 
+| Chemistry | Mr Sim Chun Siang<br>HOD Student Development  | [sim_chun_siang@moe.edu.sg](mailto:sim_chun_siang@moe.edu.sg) | 
+| Physics / NT Science| Mr Mohamed Ashiq<br>YH Upper Secondary | [mohamed_ashiq_mohamed@moe.edu.sg](mailto:mohamed_ashiq_mohamed@moe.edu.sg) | 
+| Chemistry / Lower Secondary Science | Ms Quah Wei Wei <br>LH Lower Secondary Science | [quah_wei_wee@moe.edu.sg](mailto:quah_wei_wee@moe.edu.sg) |
+| Biology / English | Mr Daniel Ng Tze Keen<br>SH Character &amp; Citizenship Education | [ng_tze_keen_daniel@moe.edu.sg](mailto:ng_tze_keen_daniel@moe.edu.sg) |
+| Chemistry / Physical Education | Mr Mohammed Riffaii<br>SH Discipline | [mohammed_riffaii_maidin@moe.edu.sg](mailto:mohammed_riffaii_maidin@moe.edu.sg)|
 | Physics | Mr Chiang Shu Lee<br>ST Physics | [chiang_shu_lee@moe.edu.sg](mailto:chiang_shu_lee@moe.edu.sg) |
-| Physics/ NT Science | Mdm Siti Mariam Bte Hashim<br>ST Character &amp; Citizenship Education | [siti_mariam_hashim@moe.edu.sg](mailto:siti_mariam_hashim@moe.edu.sg) |
-| Biology/ Lower Secondary Science | Mr Winston Chiang Ming Yao | [winston_chiang_ming_yao@moe.edu.sg](mailto:winston_chiang_ming_yao@moe.edu.sg) |
-| Chemistry/ Mathematics | Mr Gan Chun Seng Stephen | [gan_chun_seng@moe.edu.sg](mailto:gan_chun_seng@moe.edu.sg) |
-| Chemistry/ NT Science | Ms Jaslin Jiang Wei Yeow | [jiang_wei_yeow@moe.edu.sg](mailto:jiang_wei_yeow@moe.edu.sg) |
-| Biology/ Lower Secondary Science | Mr Zachary Koh Jia Sheng | [koh_jia_sheng_zachary@moe.edu.sg](mailto:koh_jia_sheng_zachary@moe.edu.sg) |
-| Physics/ Chemistry/ Lower Secondary Science | Mr Kok Wai Keong Kevin | [Kok_Wai_Keong_Kevin@moe.edu.sg](mailto:Kok_Wai_Keong_Kevin@moe.edu.sg) |
-| Physics/ Mathematics | Mr Seong Then Yee | [seong_then_yee@moe.edu.sg](mailto:seong_then_yee@moe.edu.sg) |
-| Chemistry/ Lower Secondary Science / Mathematics | Mdm Zulaiha Osman | [zulaiha_osman@moe.edu.sg](mailto:zulaiha_osman@moe.edu.sg) |
+| Physics / NT Science | Mdm Siti Mariam Bte Hashim<br>ST Character &amp; Citizenship Education | [siti_mariam_hashim@moe.edu.sg](mailto:siti_mariam_hashim@moe.edu.sg) |
+| Biology / Lower Secondary Science | Mr Winston Chiang Ming Yao | [winston_chiang_ming_yao@moe.edu.sg](mailto:winston_chiang_ming_yao@moe.edu.sg) |
+| Chemistry / NT Science | Ms Jaslin Jiang Wei Yeow | [jiang_wei_yeow@moe.edu.sg](mailto:jiang_wei_yeow@moe.edu.sg) |
+| Biology / Lower Secondary Science | Mr Zachary Koh Jia Sheng | [koh_jia_sheng_zachary@moe.edu.sg](mailto:koh_jia_sheng_zachary@moe.edu.sg) |
+| Physics / Lower Secondary Science | Mr Kok Wai Keong Kevin | [Kok_Wai_Keong_Kevin@moe.edu.sg](mailto:Kok_Wai_Keong_Kevin@moe.edu.sg) |
+| Chemistry / Lower Secondary Science / Mathematics | Mdm Zulaiha Osman | [zulaiha_osman@moe.edu.sg](mailto:zulaiha_osman@moe.edu.sg) |
 | Laboratory Technician | Mdm Dinah Tan Kwee Choo | [tan_kwee_choo@moe.edu.sg](mailto:tan_kwee_choo@moe.edu.sg) |
 | Laboratory Technician | Ms Khairunnisa Rahmat | [khairunnisa_rahmat@moe.edu.sg](mailto:khairunnisa_rahmat@moe.edu.sg) |
 
