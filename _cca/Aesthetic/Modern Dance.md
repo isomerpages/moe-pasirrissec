@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Aesthetic
 variant: markdown
 ---
-### About us
+### **About us**
 
 #### PRSS Dance
 
@@ -17,7 +17,7 @@ PRSS Modern Dance aims to instill a love for self-expression in our dancers. Bro
 
 We empower our dancers to boldly express their thoughts and emotions through the graceful movements of their bodies. PRSS Modern Dance explores and redefines the ever-evolving modern dance form. We do this in a disciplined yet nurturing environment that develops our students to be confident, creative and committed dancers.
 
-### Highlights
+### **Highlights**
 
 We have a busy schedule every year and we pride ourselves in presenting the best at any event.
 
@@ -33,30 +33,32 @@ We have a busy schedule every year and we pride ourselves in presenting the best
 * 2023 CCA Bazaar 
 * 2023 Singapore Youth Festival
 
-### Achievements
+### **Achievements**
 
 * SYF 2017: Certificate of Distinction  
 * SYF 2019: Certificate of Accomplishment
 * SYF 2021: Certificate of Accomplishment  
 * SYF 2023: Certificate of Accomplishment  
 
-### Schedule
+### **Schedule**
 
 | Day | Time | Venue |
 | --- | --- | --- |
 | Monday / Thursday | 3.15pm - 6.00pm | AVA Room |
 
-### Teachers-in-charge
+### **Teachers-in-charge**
 
 * Mdm. Fazidah Mohd Lias (IC)
 * Mdm. Rubi’ah Massuan (2IC)
 * Ms. Mindy Low Lixian
 
-**Choreographer:**<br>Mr. Shahbirul Zaki Bin Ahmad<br><br>
-**Technique Instructor:**<br>
+#### **Choreographer:**
+Mr. Shahbirul Zaki Bin Ahmad
+
+#### **Technique Instructor:**
 Miss Eunice Wee Shi Quan  
 
-### Photos
+### **Photos / Videos**
 
 ![](/images/Dance.png)
 
