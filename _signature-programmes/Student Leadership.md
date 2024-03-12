@@ -10,7 +10,7 @@ The school provides leadership development opportunities to all students and als
 
 With a structured and comprehensive four-year student leadership development programme named **Pegasus Programme**, students will acquire the necessary knowledge, skills and values for them to serve the school, lead their school mates and excel in their pursuits in life. This is in line with our school’s vision to develop students to become **Confident learners, Caring &amp; Resilient Citizens**; who have moral courage, communicate effectively, inspire others and take initiative to make a difference.
 
-Students learn to lead through observing exemplary **role models** in and outside school. Their leadership competencies are developed with the numerous **training** opportunities provided by the school. They further enhance their own leadership skills during the many learning&nbsp;**experiences**&nbsp;and platforms to apply their leadership skills.&nbsp;
+Students learn to lead through observing exemplary **role models** in and outside school. Their leadership competencies are developed with the numerous **training** opportunities provided by the school. They further enhance their own leadership skills during the many learning **experiences** and platforms to apply their leadership skills.
 
 The Pegasus Programme aims to develop the 8 skills that each student will need to become an exemplary and effective leader. The eight skills are as follows:
 
