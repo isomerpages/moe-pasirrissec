@@ -8,7 +8,7 @@ variant: markdown
 
 The school provides leadership development opportunities to all students and also identifies and develops the leadership potential in our students. The school’s PRIZE values shape the beliefs, attitudes and actions of a Pasirian student leader.
 
-With a structured and comprehensive four-year student leadership development programme named&nbsp;**Pegasus Programme**, students will acquire the necessary knowledge, skills and values for them to serve the school, lead their school mates and excel in their pursuits in life. This is in line with our school’s vision to develop students to become **Confident learners, Caring &amp; Resilient Citizens**; who have moral courage, communicate effectively, inspire others and take initiative to make a difference.
+With a structured and comprehensive four-year student leadership development programme named **Pegasus Programme**, students will acquire the necessary knowledge, skills and values for them to serve the school, lead their school mates and excel in their pursuits in life. This is in line with our school’s vision to develop students to become **Confident learners, Caring &amp; Resilient Citizens**; who have moral courage, communicate effectively, inspire others and take initiative to make a difference.
 
 Students learn to lead through observing exemplary **role models** in and outside school. Their leadership competencies are developed with the numerous **training** opportunities provided by the school. They further enhance their own leadership skills during the many learning&nbsp;**experiences**&nbsp;and platforms to apply their leadership skills.&nbsp;
 
