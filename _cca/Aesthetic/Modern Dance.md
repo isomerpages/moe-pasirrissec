@@ -30,7 +30,6 @@ We have a busy schedule every year and we pride ourselves in presenting the best
 * 2020 Chingay 2020
 * 2020 Our 1st E-CCA &amp; E-Investiture  
 * 2021 Singapore Youth Festival  
-* 2023 CCA Bazaar 
 * 2023 Singapore Youth Festival
 
 ### **Achievements**
@@ -52,26 +51,19 @@ We have a busy schedule every year and we pride ourselves in presenting the best
 * Mdm. Rubi’ah Massuan (2IC)
 * Ms. Mindy Low Lixian
 
-#### **Choreographer:**
+##### **Choreographer:**
 Mr. Shahbirul Zaki Bin Ahmad
 
-#### **Technique Instructor:**
+##### **Technique Instructor:**
 Miss Eunice Wee Shi Quan  
 
 ### **Photos / Videos**
 
 ![](/images/Dance.png)
-
-<center>10-11 January LLP Programme Dance</center>
-
 ![](/images/Dance%201.png)
-
-<center>14 January CCA Bazaar</center>
-
 ![](/images/Dance%20Photo%201.jpeg)
-
 ![](/images/Dance%20Photo%202.jpeg)
-
 ![](/images/Dance%20Photo%203.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BLsSi5YnuY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BLsSi5YnuY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
