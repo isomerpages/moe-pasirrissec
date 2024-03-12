@@ -5,15 +5,13 @@ description: ""
 third_nav_title: Sports Groups
 variant: markdown
 ---
-### **About us**
-
-##### **Excellence, Perseverance and Passion!**
+### **Excellence, Perseverance and Passion!**
 
 Pasir Ris Secondary Basketball CCA was initiated in 2009. At that time, only the Girls' team was formed. In the following year, we started recruiting members for the Boys team due to a strong interest from the male students to join the CCA.
 
 The students train twice a week on Tuesdays and Thursdays. During training sessions, they are taught basketball skills, teamwork and important core values.
   
-The Basketball CCA emphasises on 3 core values that the students are expected to uphold during and outside of training sessions. Excellence, Perseverance and Passion. They are expected to achieve excellence in everything that they do, persevere when the going gets tough and demonstrate passion in their CCA.
+The Basketball CCA emphasises on 3 core values that the students are expected to uphold during and outside of training sessions. **Excellence, Perseverance and Passion**. They are expected to achieve excellence in everything that they do, persevere when the going gets tough and demonstrate passion in their CCA.
  
 ### **Highlights**
   
@@ -28,12 +26,14 @@ Participated in National School Games - EZ "C" Division Basketball Tournament 20
 ##### **Boys Team**
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 3.00pm - 6.00pm | Lower (SH Boys) |
+| Tuesday | 3.00pm - 6.00pm | OTH / Parade Square |
+| Thursday | 3.00pm - 6.00pm | Lower ISH |
 
 ##### **Girls Team**
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Thursday | 3.00pm - 6.00pm | Lower (SH Girls) |
+| Tuesday | 3.00pm - 6.00pm | Lower ISH |
+| Thursday | 3.00pm - 6.00pm | OTH / Parade Square |
 
 ### **Teachers-in-charge**
 
@@ -41,13 +41,12 @@ Participated in National School Games - EZ "C" Division Basketball Tournament 20
 | -------- | -------- | 
 | Mr Vincent Yew (IC)  | Ms Jaslin Jiang (IC) | 
 | Mr Daniel Chng (2IC) | Ms Hairunisa (2IC) | 
-| Mr Ang Ee Hup | Mdm Nadhirah | 
+
 
 ### **Coach**
 
-| Boys Team | Girls Team | 
-| -------- | -------- | 
-| Mr Lai Wei Jie | Mr Choo Hoo Sen    |
+Mr Lai Wei Jie
+Mr Choo Hoo Sen
 
 ### **Photos**
 
