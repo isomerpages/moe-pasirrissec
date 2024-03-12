@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h5>Secondary 1</h5>
+<h3><strong>Secondary 1</strong></h3>
 <table>
 <tbody>
 <tr>
@@ -201,7 +201,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h5>Secondary 2</h5>
+<h3><strong>Secondary 2</strong></h3>
 <table>
 <tbody>
 <tr>
@@ -421,7 +421,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h5>Secondary 3</h5>
+<h3><strong>Secondary 3</strong></h3>
 <table>
 <tbody>
 <tr>
@@ -618,7 +618,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h5>Secondary 4</h5>
+<h3><strong>Secondary 4</strong></h3>
 <table>
 <tbody>
 <tr>
@@ -815,7 +815,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h5>Secondary 5</h5>
+<h3><strong>Secondary 5</strong></h3>
 <table>
 <tbody>
 <tr>
