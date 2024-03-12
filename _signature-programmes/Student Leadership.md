@@ -48,6 +48,7 @@ Nominations are made by teachers, peers and aspiring student leaders themselves.
   
 ### **Student Council Ex-Co 2022/2023**
 
+
 ![](/images/26th%20SC.jpeg)
 <center>26th Student Council Ex-Co Team</center>
 
