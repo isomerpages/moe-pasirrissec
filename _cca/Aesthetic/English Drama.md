@@ -39,21 +39,21 @@ At the end of four years in Drama Club, students will become more confident, wel
 **2023**
 * 2023 Singapore Youth Festival
 
-### Achievements
+### **Achievements**
 
 * SYF (AP) Drama 2017: Certificate of Commendation
 * SYF (AP) Drama 2019: Certificate of Distinction
 * SYF (AP) Drama 2021: Certificate of Distinction &amp; Certificate of Accomplishment  
 * SYF (AP) Drama 2023: Certificate of Distinction
 
-### Schedule
+### **Schedule**
 
 | Day | Time | Venue |
 | --- | --- | --- |
 |Tuesday | 3.30pm - 6.00pm | Black Box |
 | Friday | 2.30pm - 6.00pm | Black Box |
 
-### Teachers-in-charge
+### **Teachers-in-charge**
 
 * Ms. Faith Nah (IC)
 * Ms. Jumiah Ahmad (2IC)
@@ -64,16 +64,19 @@ At the end of four years in Drama Club, students will become more confident, wel
 **Instructor:**<br>
 Mr. Ian Loy  
 
-### Photos
+### **Photos / Videos**
 
+
+
+<img src="/images/FNDS1.jpeg" style="width:50%;float:left">
+<img src="/images/FNDS2.jpeg" style="width:50%">
+
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2OF2BQISxFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-![](/images/Drama%20Photo%201.jpeg)
-![](/images/Drama%20Photo%202.jpeg)
-<img src="/images/FNDS1.jpeg" style="width:50%;float:left"><img src="/images/FNDS2.jpeg" style="width:50%">
-		 
+<br>	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HqfDz8xMZ2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P9Riq89RGMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5wtL1EEEnS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</center>
