@@ -43,7 +43,7 @@ The student leaders in PRSS comprise the Student Councillors, Class Leaders Comm
     
 4.  Good discipline record
       
-Nominations are made by teachers, peers and aspiring student leaders themselves. However, an appointment will be based on the students’ continued good performance and positive assessment by school leaders, teachers and peers.&nbsp;
+Nominations are made by teachers, peers and aspiring student leaders themselves. However, an appointment will be based on the students’ continued good performance and positive assessment by school leaders, teachers and peers.
 
   
 ### **Student Council Ex-Co 2022/2023**
