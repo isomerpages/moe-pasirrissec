@@ -45,10 +45,10 @@ Participated in National School Games - EZ "C" Division Basketball Tournament 20
 
 ### **Coach**
 
-Mr Lai Wei Jie
-Mr Choo Hoo Sen
+* Mr Lai Wei Jie
+* Mr Choo Hoo Sen
 
-### **Photos**
+### **Photos / Videos**
 
 ![](/images/CCA/Basketball/bball%20team.jpeg)
 
