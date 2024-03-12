@@ -49,18 +49,15 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 * Mr Kevin Kok 
 * Ms Fam Hui Yuen
 
-**Conductor**<br>
+#### **Conductor**<br>
 Mr Chin Yen Choong
 
-### **Photos/Videos**
-
+### **Photos / Videos**
+![](/images/CCA/Chinese%20Orchestra/2024%20chinese%20orchestra.jpg)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G7r30ncf14E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>
 
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/juMno1qq2Ys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> </center>
-
 
 ![](/images/CO%20Photo%203.png)
 ![](/images/CO%202.jpeg)
