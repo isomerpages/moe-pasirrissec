@@ -58,7 +58,7 @@ Mr. Shahbirul Zaki Bin Ahmad
 Miss Eunice Wee Shi Quan  
 
 ### **Photos / Videos**
-
+![](/images/CCA/Dance/Dance_Grid_01.jpg)
 ![](/images/Dance.png)
 ![](/images/Dance%201.png)
 ![](/images/Dance%20Photo%201.jpeg)
