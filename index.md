@@ -31,8 +31,17 @@ sections:
       url: https://go.gov.sg/prsscampustour
       image: /images/E Open house/2023 campus tour (resized).png
       alt: PRSS Campus Tour
-  - resources:
+  - infocols:
       title: News, Events and Announcements
-      id: resources
-      button: View All
+      subtitle: Latest updates
+      id: infocols
+      linktext: View All
+      url: /Announcements/
+      infoboxes:
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
 ---
