@@ -31,17 +31,29 @@ sections:
       url: https://go.gov.sg/prsscampustour
       image: /images/E Open house/2023 campus tour (resized).png
       alt: PRSS Campus Tour
-  - infocols:
-      title: News, Events and Announcements
-      subtitle: Latest updates
-      id: infocols
-      linktext: View All
-      url: /Announcements/
-      infoboxes:
-        - title: Term 1 Timetable wef  29 Jan 2024
-          description: Test
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 13 March 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+        - title: New Announcement
+          date: 13 March 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+        - title: New Announcement
+          date: 13 March 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+        - title: New Announcement
+          date: 13 March 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
