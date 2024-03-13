@@ -1,5 +1,5 @@
 ---
-title: DSA Open House
+title: DSA E Open House
 permalink: /dsa2024/
 variant: tiptap
 description: ""
