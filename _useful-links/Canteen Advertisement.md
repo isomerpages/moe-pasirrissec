@@ -4,26 +4,23 @@ permalink: /useful-links/canteenadvertisement/
 description: ""
 variant: markdown
 ---
-**School Canteen Advertisement**
-
-
+### **School Canteen Advertisement**
 
 | Type of Stalls | Closing Date | Requirements|
 | ------- | -------- | -------- |
 |Chinese Rice (Non-Halal - To include chicken rice in menu)    | 21 June 2024  | See Below  |
 |Asia Cuisine (Non-Halal - Japanese/Korean,Vegetarian,etc)    | 21 June 2024  | See Below  |
 
-**Other details:**
+#### **Other details:**
 
-1. Estimated start date is after gas and licence has been approved.
-2. Application for gas, SFA licence, handover etc should preferably be done and completed before the start date. 
+1\. Estimated start date is after gas and licence has been approved.
+2\. Application for gas, SFA licence, handover etc should preferably be done and completed before the start date. 
 
-**Application Procedure**
+#### **Application Procedure**
 
 1\. Download and complete the application form. You may also request for hardcopy form at the School’s General Office.  
  [Application Form](/files/application%20for%20school%20canteen%20stall.pdf)
  
-
 2\. Attached the following documents together with the application form:
 
 * Photocopy of the NRIC (front and back)
@@ -32,9 +29,10 @@ variant: markdown
 
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-3\. Submit the completed application form and documents by closing date via email OR to the School's General Office.  
+3\. Submit the completed application form and documents by closing date via email OR to the School's General Office. 
+
 Address: 390 Tampines Street 21, Singapore 529400      
-Contact No: 65010800  
+Contact No: 6501 0800  
 Email: [prss@moe.edu.sg](mailto:prss@moe.edu.sg)  
 Contact Person: Mdm Dolly Leong
 
@@ -49,11 +47,11 @@ SBS Nos: 3, 291
 Green & Blue Line: Alight at Tampines MRT Station and we are just a stone’s throw away!
 * * *
 
-**Interest applicants must meet the following criteria:**
+#### **Interest applicants must meet the following criteria:**
 
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.  
 * Able to provide good service and quality food with prices determined in consultation with the school.  
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see \[link\](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).  
+* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines by clicking [here]((https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme).
 * Able to maintain high standard of food safety and personal hygiene.  
 * Healthy and fit to operate the stall.  
 
