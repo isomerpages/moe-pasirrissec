@@ -38,8 +38,8 @@ sections:
       linktext: View All
       url: /Announcements/
       infoboxes:
-        - title: Infobox
-          description: Infobox description
+        - title: Term 1 Timetable wef  29 Jan 2024
+          description: Test
         - title: Infobox
           description: Infobox description
         - title: Infobox
