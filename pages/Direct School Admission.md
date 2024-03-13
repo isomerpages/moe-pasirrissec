@@ -4,7 +4,7 @@ permalink: /dsa/
 variant: markdown
 description: ""
 ---
-ul class="jekyllcodex\_accordion"&gt;  
+ul class="jekyllcodex\_accordion"
   
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1">Learning for Life Programme in Music &amp; Performing Arts</label><div>  
@@ -25,4 +25,3 @@ ul class="jekyllcodex\_accordion"&gt;
 <label for="accordion4">Digital Media</label><div>  
 <p>Our school has been on MOE pilot for the PDLP (Personal Digital Learning Programme) in 2019 and we have set up a programme to nurture students’ talent and interest in digital media. This programme is different from the ALP as it will include AVL (Audio Visual &amp; Lighting) support and service to school and talent development in digital media including video recording, broadcasting, photography, coding, computational thinking and makerspace programme. Here, students undergo training on different digital media and get to create interesting prototypes such as block programming with mBots and micro bits using principles of design thinking.</p>  
 </div></li>
-  
