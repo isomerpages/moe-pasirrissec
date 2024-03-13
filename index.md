@@ -33,7 +33,6 @@ sections:
       alt: PRSS Campus Tour
   - resources:
       title: News, Events and Announcements
-      subtitle: Add a preview and link to your Resource Room
       id: resources
       button: View All
 ---
