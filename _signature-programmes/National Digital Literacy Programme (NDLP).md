@@ -109,8 +109,7 @@ are available for students that are on financial assistance schemes.</p>
 <p>Students, including permanent residents (PR) and international students
 (IS), that need additional support should approach the General Office for
 more information on financial assistance.</p>
-<h4>Device Management Application</h4>
-<p>Please view our <a href="/dma" rel="noopener noreferrer nofollow" target="_blank">DMA Resource Site</a>.</p>
+<h4></h4>
 <p></p>
 <p></p>
 <p></p>
