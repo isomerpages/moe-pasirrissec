@@ -57,8 +57,8 @@ its own in-built stylus for inking functions.</p>
 for more details on this programme.</p>
 <h4><strong>PDLP Student Device Information Kit</strong></h4>
 <p>Parents/Guardians can refer to the <strong>Student Device Information Kit</strong> for
-additional details regarding device contractor information, device insurance,
-warranty and other relevant matters.</p>
+additional details regarding device information, device insurance, warranty
+and other relevant matters.</p>
 <table>
 <tbody>
 <tr>
@@ -66,7 +66,7 @@ warranty and other relevant matters.</p>
 <p>For PLD purchased in 2022 to 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Student%20Device%20Information%20Kit%20Acer_26%20Mar%2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit </a>
+<p><a href="/files/Student%20Device%20Information%20Kit%20Acer_26%20Mar%2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
 </p>
 </td>
 </tr>
@@ -75,7 +75,7 @@ warranty and other relevant matters.</p>
 <p>For PLD purchased in 2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Student%20Device%20Information%20Kit%20Lenovo_01%20July%2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit </a>
+<p><a href="/files/Student%20Device%20Information%20Kit%20Lenovo_01%20July%2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
 </p>
 </td>
 </tr>
