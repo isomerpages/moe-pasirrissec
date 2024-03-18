@@ -32,14 +32,15 @@ as other educational technology to personalise and enhance students’ learning.
 This will also better enable students to acquire digital skills and apply
 these skills as they navigate an increasingly digitalised world. Students
 will also acquire digital literacy in the four components of <strong>MOE Digital Literacy Framework</strong>:</p>
-<div class="isomer-image-wrapper">
+<a class="isomer-image-wrapper" href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan/digital-literacy-and-technological-skills">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Signature%20Programmes/MOE_Digital_Literacy_Framework.png">
-</div>
+</a>
 <h4><strong>Personal Learning Device (PLD)</strong></h4>
-<p>At PRSS, all students use a Chromebook as their PLD. Chromebooks are chosen
-for their variety of affordances, including seamless learning experiences
-alongside existing teaching and learning technologies such as the SLS,
-Google Suite for Education Apps and Microsoft Pro Plus.</p>
+<p>At Pasir Ris Secondary School, all students use a Chromebook as their
+PLD. Chromebooks are chosen for their variety of affordances, including
+seamless learning experiences alongside existing teaching and learning
+technologies such as the SLS, Google Suite for Education Apps and Microsoft
+Pro Plus.</p>
 <p>It is also a relatively lightweight and portable device that offers students
 convenient learning on-the-move. A full charge of the battery typically
 allows students to work on their PLDs for the entire curriculum hours.</p>
@@ -56,9 +57,9 @@ its own in-built stylus for inking functions.</p>
 <p>Please refer to the Parents’ Letter which will be send via Parents’ Gateway
 for more details on this programme.</p>
 <h4><strong>PDLP Student Device Information Kit</strong></h4>
-<p>Parents/Guardians can refer to the <strong>Student Device Information Kit</strong> for
-additional details regarding device information, device insurance, warranty
-and other relevant matters.</p>
+<p>Parents/Guardians can refer to the Student Device Information Kit for
+additional details regarding device information, device insurance, device
+warranty and other relevant matters.</p>
 <table>
 <tbody>
 <tr>
