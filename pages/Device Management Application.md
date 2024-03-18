@@ -26,10 +26,10 @@ After-School DMA Parent Options.</p>
 the same form. The request will be processed by the school monthly.</p>
 <h4><strong>DMA Resources for parent who have onboard the After-School Parent Options</strong></h4>
 <p>Once the school has onboarded the After-School Parent Options, the parents/guardians
-will receive an e-mail invitation to onboard the DMA via the e-mail address
-that they have provided to the school. If the activation e-mail is not
-found in their Inbox, please check the ‘Junk Folder’ or ‘Spam Folder’ for
-the e-mail notification.</p>
+will receive an e-mail invitation to onboard, via the e-mail address that
+they have provided to the school. If the activation e-mail is not found
+in their Inbox, please check the ‘Junk Folder’ or ‘Spam Folder’ for the
+e-mail notification.</p>
 <p>Parents/Guardians can download the guides on how to onboard the <a href="https://sg-portal.mobileguardian.com/" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Portal</a> according
 to the options they have selected for the DMA:</p>
 <table>
