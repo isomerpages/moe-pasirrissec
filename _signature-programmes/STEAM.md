@@ -2,10 +2,11 @@
 title: STEAM
 permalink: /signature-programmes/STEAM/
 description: ""
+variant: markdown
 ---
-##### Going full S.T.E.A.M. ahead
+##### **Going full S.T.E.A.M. ahead**
 
-_“Our children must be equipped with&nbsp;**diverse skill sets that open doors** for them in the modern economy.&nbsp;In a world driven by new technologies and science, we will need to strengthen STEM learning in our schools,” explains Education Minister Chan Chun Sing._
+“Our children must be equipped with&nbsp;**diverse skill sets that open doors** for them in the modern economy.&nbsp;In a world driven by new technologies and science, we will need to strengthen STEM learning in our schools,” explains Education Minister Chan Chun Sing.
 
 ![](/images/Steam.png)
 

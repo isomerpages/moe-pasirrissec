@@ -15,11 +15,6 @@ sections:
         - title: Information for Parents
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
-  - resources:
-      title: News, Events and Announcements
-      subtitle: latest updates
-      id: resources
-      button: View All
   - infopic:
       title: Live Engagement
       subtitle: Sec 1 2024 registration
