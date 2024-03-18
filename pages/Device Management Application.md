@@ -111,52 +111,5 @@ continuing the 5NA course.</p>
 the PLD without the DMA. Your child’s/ward’s browsing activity will no
 longer be monitored and the browsing history on his/her PLD will also be
 deleted from the DMA system server.</p>
-<p><strong>Actions required by your child/ward:</strong>
-</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>At least one day before the DMA uninstallation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please ensure that all data on your child’s/ward’s PLD have been backed-up
-(e.g. saved on an external storage device or to a cloud storage) prior
-to the uninstallation. This will prevent any loss of important data when
-the DMA is uninstalled.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>On the day of DMA uninstallation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please ensure that the PLD is switched off from 6:00 am to 11:00 pm. This
-is to ensure that the uninstallation process, which will be done remotely,
-can proceed smoothly.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>After the DMA has been uninstalled</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Starting from the next day after the DMA uninstallation, you may refer
-to the attached document for instructions to check if the DMA has been
-successfully uninstalled from your child’s/ward’s PLD. Please ensure that
-the PLD is switched off from 6:00 am to 11:00 pm. This is to ensure that
-the uninstallation process, which will be done remotely, can proceed smoothly.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>If you find that the DMA in your child’s/ward’s PLD has not been uninstalled
 properly, please contact the school at 6501 0891 or email at prss@moe.edu.sg.</p>
