@@ -35,10 +35,19 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 [<img src="/images/EnglishDrama.png" style="width:20%">](/cca/Aesthetic/English-Drama/)
 </p>  
 </div></li>  	
+
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">Clubs</label><div>  
 <p>
-	<img src="/images/audio.png" style="width:20%;float:left"><img src="/images/tinkersclub.png" style="width:20%;float:left"><a href="/cca/Clubs/Audio-Visual-Lights/">Audio Visual Lights</a><a href="/cca/Clubs/Tinkers-Club/">Tinkers Club</a></p><p></p><p></p></div></li><li><input type="checkbox" id="accordion3">  
+	<p></p><p>
+	</p><table>
+<tbody><tr><td><img src="/images/audio.png" style="width:50%;float:left"></td>
+<td><img src="/images/tinkersclub.png" style="width:50%;float:left"></td></tr><tr>
+<td><a href="/cca/Clubs/Audio-Visual-Lights/">Audio Visual Lights</a></td>
+<td><a href="/cca/Clubs/Tinkers-Club/">Tinkers Club</a></td></tr></tbody></table>	
+</p></div></li>
+	
+<li><input type="checkbox" id="accordion3">  
 <label for="accordion3">Sports and Games</label><div>  
 <p>
 	
@@ -57,8 +66,8 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
  </p></div></li>
 
 <table><tbody><tr>
-	<th>Uniformed Group</th></tr>
-<tr><td><img src="/images/ncclogo.png" style="width:45%;float:left"></td>
+<th>Uniformed Groups</th>
+</tr><tr><td><img src="/images/ncclogo.png" style="width:45%;float:left"></td>
 <td><img src="/images/npcclogo.png" style="width:50%;float:left"></td>
 <td><img src="/images/ncdcclogo.png" style="width:50%;float:left"></td></tr><tr>
 	<td><a href="/cca/Uniformed-Groups/National-Cadet-Corps/">National Cadet Corps</a></td>
