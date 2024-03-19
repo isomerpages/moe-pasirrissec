@@ -61,20 +61,11 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 <label for="accordion4">Uniformed Groups</label><div>  
 <p>
 	
-
-
 |  Uniformed Groups |   |   |
 | -------- | -------- | -------- |
-| <img src="/images/ncclogo.png" style="width:55%;float:left">  | <img src="/images/npcclogo.png" style="width:55%;float:left"> | <img src="/images/ncdcclogo.png" style="width:55%;float:left"> |
+| <img src="/images/ncclogo.png" style="width:35%;float:left">  | <img src="/images/npcclogo.png" style="width:35%;float:left"> | <img src="/images/ncdcclogo.png" style="width:35%;float:left"> |
 | [National Cadet Corps](/cca/Uniformed-Groups/National-Cadet-Corps/) | [National Police Cadet Corps](/cca/Uniformed-Groups/National-Police-Cadet-Corps/) |[National Civil Defence Cadet Corps](/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/) |
 
-
-
-
-
-
-
-	
 </p>  
 </div></li>
 </ul>
