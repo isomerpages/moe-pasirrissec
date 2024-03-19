@@ -39,8 +39,14 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 <label for="accordion2">Clubs</label><div>  
 <p>
 
-[Audio Visual Lights](/cca/Clubs/Audio-Visual-Lights/)<br>
-[Tinkers Club](/cca/Clubs/Tinkers-Club/)</p>  
+
+| Clubs |  |  
+| -------- | -------- | 
+| <img src="/images/audio.png" style="width:20%;float:center"> | <img src="/images/tinkersclub.png" style="width:20%;float:center"> | 
+| <a href="/cca/Clubs/Audio-Visual-Lights/"></a></p><p align="center"><a href="/cca/Clubs/Audio-Visual-Lights/">Audio Visual Lights</a>| <a href="/cca/Clubs/Tinkers-Club/"></a></p><p align="center"><a href="/cca/Clubs/Tinkers-Club/">Tinkers Club</a> | 
+
+
+</p>  
 	
 </div></li>    
 <li><input type="checkbox" id="accordion3">  
