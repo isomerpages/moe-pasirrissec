@@ -40,10 +40,10 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 <p>
 
 
-| Clubs |  |  
+| Clubs |                          |  
 | -------- | -------- | 
-| <img src="/images/audio.png" style="width:20%;float:center"> | <img src="/images/tinkersclub.png" style="width:20%;float:center"> | 
-| <a href="/cca/Clubs/Audio-Visual-Lights/"></a></p><p align="center"><a href="/cca/Clubs/Audio-Visual-Lights/">Audio Visual Lights</a>| <a href="/cca/Clubs/Tinkers-Club/"></a></p><p align="center"><a href="/cca/Clubs/Tinkers-Club/">Tinkers Club</a> | 
+| <img src="/images/audio.png" style="width:20%;float:left"> | <img src="/images/tinkersclub.png" style="width:20%;float:left"> | 
+| <a href="/cca/Clubs/Audio-Visual-Lights/">Audio Visual Lights</a>| <a href="/cca/Clubs/Tinkers-Club/">Tinkers Club</a> | 
 
 
 </p>  
@@ -69,7 +69,7 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 	
 |  Uniformed Groups |                           |                          |
 | -------- | -------- | -------- |
-| <img src="/images/ncclogo.png" style="width:25%;float:center">  | <img src="/images/npcclogo.png" style="width:25%;float:center"> | <img src="/images/ncdcclogo.png" style="width:25%;float:center"> |
+| <img src="/images/ncclogo.png" style="width:25%;float:left">  | <img src="/images/npcclogo.png" style="width:25%;float:left"> | <img src="/images/ncdcclogo.png" style="width:25%;float:left"> |
 |<a href="/cca/Uniformed-Groups/National-Cadet-Corps/">National Cadet Corps</a> | <a href="/cca/Uniformed-Groups/National-Police-Cadet-Corps">National Police Cadet Corps</a>| <a href="/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/">National Civil Defence Cadet Corps</a> |	
 	
 </p>  
