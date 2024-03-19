@@ -56,17 +56,15 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 |[<img src="/images/basket.png" style="width:35%;float:left">](/cca/Sports-and-Games/Basketball/)| [<img src="/images/football.png" style="width:35%;float:left">](/cca/Sports-and-Games/Football/)| 	[<img src="/images/tabletennis.png" style="width:35%;float:left">](/cca/Sports-and-Games/Table-Tennis/) |
 |  [<img src="/images/netball.png" style="width:35%;float:left">](/cca/Sports-and-Games/Netball/) | [<img src="/images/volleyb.png" style="width:35%;float:left">](/cca/Sports-and-Games/Volleyball/)| [<img src="/images/badminton.png" style="width:35%;float:left">](/cca/Sports-and-Games/Badminton/) |
 
-
-
 </p>  
 </div></li>  
 <li><input type="checkbox" id="accordion4">  
 <label for="accordion4">Uniformed Groups</label><div>  
 <p>
 	
-[<img src="/images/ncclogo.png" style="width:35%;float:left">](/cca/Uniformed-Groups/National-Cadet-Corps/)
-[<img src="/images/npcclogo.png" style="width:35%;float:left">](/cca/Uniformed-Groups/National-Police-Cadet-Corps/)
-[<img src="/images/ncdcclogo.png" style="width:35%;float:left">](/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/)	
+[<img src="/images/ncclogo.png" style="width:25%;float:left">](/cca/Uniformed-Groups/National-Cadet-Corps/)
+[<img src="/images/npcclogo.png" style="width:25%;float:left">](/cca/Uniformed-Groups/National-Police-Cadet-Corps/)
+[<img src="/images/ncdcclogo.png" style="width:25%;float:left">](/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/)	
 	
 </p>  
 </div></li>
