@@ -26,6 +26,16 @@ The CCA Programme provides students with a platform to discover their interests 
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">Aesthetic</label><div>  
 <p>
+	
+[<img src="/images/ChineseOrchestra.png" style="width:20%;float:left">](/cca/Aesthetic/Chinese-Orchestra/)
+		 
+[<img src="/images/Choir.png" style="width:20%;float:left">](/cca/Aesthetic/Choir/)
+		 
+[<img src="/images/ConcertBand.png" style="width:20%;float:left">](/cca/Aesthetic/Concert-Band/)
+		 
+[<img src="/images/ModernDance.png" style="width:20%;float:left">](/cca/Aesthetic/Modern-Dance/)
+		 
+[<img src="/images/EnglishDrama.png" style="width:20%">](/cca/Aesthetic/English-Drama/)
 </p>  
 </div></li>  	
 <li><input type="checkbox" id="accordion3">  
