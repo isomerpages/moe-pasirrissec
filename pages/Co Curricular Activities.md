@@ -4,3 +4,39 @@ permalink: /cca/
 variant: markdown
 description: ""
 ---
+Co-Curricular Activities (CCAs) are an integral part of the holistic, well-rounded education that Pasir Ris Secondary School seeks to provide. The school has a broad and diverse range of CCAs to cater to the different needs and interests of our students.
+
+The CCA Programme provides students with a platform to discover their interests and talents, as well as develop CCA-specific knowledge, skills, values and attitudes through sustained participation. CCA participation is&nbsp;**compulsory**&nbsp;for all students in secondary school. All students care expected to take part in at least one CCA from the four CCA groups namely, Uniformed groups, Sports Groups, Performing Arts Groups and Clubs and societies. Students will be graded according to the LEAPs 2.0 system.
+
+<ul class="jekyllcodex_accordion">
+  
+<li><input type="checkbox" id="accordion1">  
+<label for="accordion1">CCA Pariticipation</label><div>  
+  <p>All students must enrolled in a CCA throughout their secondary education. Points will be awarded for participation only when attendance rate is above 75%. Students with poor CCA attendance (less than 75%) will be given a conduct grade of fair and their CCA points will not be computed for the year.</p>
+  <p>Students are encouraged to remain in the CCA assigned to them throughout their secondary education. Changing of CCA will only be considered due to medical reasons. In this case, the LEAPs 2.0 points will not be affected.</p>
+	<p>Students may participate in more than one CCA on a case by case basis approved by HOD PE/CCA.</p>
+
+<p>Bonus points for admission to JC / Poly / ITE</p>
+
+<p>Under LEAPs 2.0, students who obtain an “Excellent” grade in CCA will be given two bonus points while those who obtain a “Good” grade will be given one bonus point.</p>
+
+<p>Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0)&nbsp;for secondary school students.</p>  
+</div></li>  
+  
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2">Applied Learning Programme in Humanities and English Language</label><div>  
+<p>
+</p>  
+</div></li>  
+  
+<li><input type="checkbox" id="accordion3">  
+<label for="accordion3">Talent Development in Sports - Football (Boys) and Volleyball (Boys and Girls)</label><div>  
+<p>
+</p>  
+</div></li>  
+
+<li><input type="checkbox" id="accordion4">  
+<label for="accordion4">Digital Media</label><div>  
+<p></p>  
+</div></li>
+</ul>
