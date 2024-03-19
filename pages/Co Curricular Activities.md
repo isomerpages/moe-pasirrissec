@@ -38,23 +38,22 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">Clubs</label><div>  
 <p>
+
+[Audio Visual Lights](/cca/Clubs/Audio-Visual-Lights/)<br>
+[Tinkers Club](/cca/Clubs/Tinkers-Club/)</p>  
 	
-
-| |  | 
-| -------- | -------- | 
-| [<img src="/images/audio.png" style="width:30%;float:left">](/cca/Clubs/Audio-Visual-Lights/)    | [<img src="/images/tinkersclub.png" style="width:30%;float:left">](/cca/Clubs/Tinkers-Club/)	     | 
-
-
-</p>  
 </div></li>    
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">Sports and Games</label><div>  
 <p>
-
-|  |  | |
-| -------- | -------- | -------- |
-|[Basketball](/cca/Sports-and-Games/Basketball/)| [Football](/cca/Sports-and-Games/Football/)| 	[Tabletennis](/cca/Sports-and-Games/Table-Tennis/) |
-|[Netball](/cca/Sports-and-Games/Netball/) | [Volleyball](/cca/Sports-and-Games/Volleyball/)| [Badminton](/cca/Sports-and-Games/Badminton/) |
+	
+[Basketball]([Basketball](/cca/Sports-and-Games/Basketball/)/cca/Sports-and-Games/Basketball/)<br>
+[Football](/cca/Sports-and-Games/Football/)<br>
+[Tabletennis](/cca/Sports-and-Games/Table-Tennis/) <br>
+[Netball](/cca/Sports-and-Games/Netball/) <br>
+[Volleyball](/cca/Sports-and-Games/Volleyball/) <br>
+[Badminton](/cca/Sports-and-Games/Badminton/)<br>
+[Floorball](/cca/Sports-and-Games/Floorball/)
 
 </p>  
 </div></li>  
@@ -63,9 +62,9 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 <p>
 	
 
-|  |  |  |
-| -------- | -------- | -------- |
-| [National Cadet Corps](/cca/Uniformed-Groups/National-Cadet-Corps/)    | [National Police Cadet Corps](/cca/Uniformed-Groups/National-Police-Cadet-Corps/) | [National Civil Defence Cadet Corps](/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/) |
+[National Cadet Corps](/cca/Uniformed-Groups/National-Cadet-Corps/)<br>
+[National Police Cadet Corps](/cca/Uniformed-Groups/National-Police-Cadet-Corps/)<br>
+[National Civil Defence Cadet Corps](/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/)
 
 
 
