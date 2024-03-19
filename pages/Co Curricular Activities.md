@@ -41,17 +41,31 @@ The CCA Programme provides students with a platform to discover their interests 
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">Clubs</label><div>  
 <p>
+	
+[<img src="/images/audio.png" style="width:50%;float:left">](/cca/Clubs/Audio-Visual-Lights/)
+[<img src="/images/tinkersclub.png" style="width:50%;float:left">](/cca/Clubs/Tinkers-Club/)	
 </p>  
-</div></li>  
-  
+</div></li>    
 <li><input type="checkbox" id="accordion4">  
 <label for="accordion4">Sports and Games</label><div>  
 <p>
+
+[<img src="/images/basket.png" style="width:35%;float:left">](/cca/Sports-and-Games/Basketball/)
+[<img src="/images/football.png" style="width:35%;float:left">](/cca/Sports-and-Games/Football/)
+[<img src="/images/tabletennis.png" style="width:35%;float:left">](/cca/Sports-and-Games/Table-Tennis/)
+ [<img src="/images/netball.png" style="width:35%;float:left">](/cca/Sports-and-Games/Netball/)
+[<img src="/images/volleyb.png" style="width:35%;float:left">](/cca/Sports-and-Games/Volleyball/)
+[<img src="/images/badminton.png" style="width:35%;float:left">](/cca/Sports-and-Games/Badminton/)
 </p>  
 </div></li>  
-
 <li><input type="checkbox" id="accordion5">  
 <label for="accordion5">Uniformed Groups</label><div>  
-<p></p>  
+<p>
+	
+[<img src="/images/ncclogo.png" style="width:35%;float:left">](/cca/Uniformed-Groups/National-Cadet-Corps/)
+[<img src="/images/npcclogo.png" style="width:35%;float:left">](/cca/Uniformed-Groups/National-Police-Cadet-Corps/)
+[<img src="/images/ncdcclogo.png" style="width:35%;float:left">](/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/)	
+	
+</p>  
 </div></li>
 </ul>
