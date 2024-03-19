@@ -50,6 +50,7 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">Sports and Games</label><div>  
 <p>
+
 	
 [Basketball]([Basketball](/cca/Sports-and-Games/Basketball/)/cca/Sports-and-Games/Basketball/)<br>
 [Football](/cca/Sports-and-Games/Football/)<br>
@@ -60,18 +61,17 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 [Floorball](/cca/Sports-and-Games/Floorball/)
 
 </p>  
-</div></li><li><input type="checkbox" id="accordion4">  
+</div></li>
+	
+<li><input type="checkbox" id="accordion4">  
 <label for="accordion4">Uniformed Groups</label><div>  
-<p>
- </p></div></li>
+<p><p></p><table><tbody><tr>
 
-<table><tbody><tr>
-
-</tr><tr><td><img src="/images/ncclogo.png" style="width:45%;float:left"></td>
-<td><img src="/images/npcclogo.png" style="width:50%;float:left"></td>
-<td><img src="/images/ncdcclogo.png" style="width:50%;float:left"></td></tr><tr>
+</tr><tr><td><img src="/images/ncclogo.png" style="width:55%;float:left"></td>
+<td><img src="/images/npcclogo.png" style="width:55%;float:left"></td>
+<td><img src="/images/ncdcclogo.png" style="width:55%;float:left"></td></tr><tr>
 	<td><a href="/cca/Uniformed-Groups/National-Cadet-Corps/">National Cadet Corps</a></td>
 	<td><a href="/cca/Uniformed-Groups/National-Police-Cadet-Corps">National Police Cadet Corps</a></td>
 	<td><a href="/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/">National Civil Defence Cadet Corps</a> </td>
-
-</tr></tbody></table><p></p><p></p><p></p></ul>
+ 
+</tr></tbody></table></p><p></p><p></p><p></p></div></li></ul>
