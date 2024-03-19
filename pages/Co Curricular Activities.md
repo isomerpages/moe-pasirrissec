@@ -39,13 +39,13 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">Clubs</label><div>  
 <p>
-	<p></p><p>
+	</p><p></p><p>
 	</p><table>
 <tbody><tr><td><img src="/images/audio.png" style="width:50%;float:left"></td>
 <td><img src="/images/tinkersclub.png" style="width:50%;float:left"></td></tr><tr>
 <td><a href="/cca/Clubs/Audio-Visual-Lights/">Audio Visual Lights</a></td>
 <td><a href="/cca/Clubs/Tinkers-Club/">Tinkers Club</a></td></tr></tbody></table>	
-</p></div></li>
+<p></p></div></li>
 	
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">Sports and Games</label><div>  
@@ -66,7 +66,7 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
  </p></div></li>
 
 <table><tbody><tr>
-<th>Uniformed Groups</th>
+
 </tr><tr><td><img src="/images/ncclogo.png" style="width:45%;float:left"></td>
 <td><img src="/images/npcclogo.png" style="width:50%;float:left"></td>
 <td><img src="/images/ncdcclogo.png" style="width:50%;float:left"></td></tr><tr>
