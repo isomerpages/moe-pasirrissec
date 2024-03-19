@@ -11,7 +11,7 @@ The CCA Programme provides students with a platform to discover their interests 
 <ul class="jekyllcodex_accordion">
   
 <li><input type="checkbox" id="accordion1">  
-<label for="accordion1">CCA Pariticipation</label><div>  
+<label for="accordion1">CCA Participation</label><div>  
   <p>All students must enrolled in a CCA throughout their secondary education. Points will be awarded for participation only when attendance rate is above 75%. Students with poor CCA attendance (less than 75%) will be given a conduct grade of fair and their CCA points will not be computed for the year.</p>
   <p>Students are encouraged to remain in the CCA assigned to them throughout their secondary education. Changing of CCA will only be considered due to medical reasons. In this case, the LEAPs 2.0 points will not be affected.</p>
 	<p>Students may participate in more than one CCA on a case by case basis approved by HOD PE/CCA.</p>
@@ -24,19 +24,24 @@ The CCA Programme provides students with a platform to discover their interests 
 </div></li>  
   
 <li><input type="checkbox" id="accordion2">  
-<label for="accordion2">Applied Learning Programme in Humanities and English Language</label><div>  
+<label for="accordion2">Aesthetic</label><div>  
+<p>
+</p>  
+</div></li>  	
+<li><input type="checkbox" id="accordion3">  
+<label for="accordion3">Clubs</label><div>  
 <p>
 </p>  
 </div></li>  
   
-<li><input type="checkbox" id="accordion3">  
-<label for="accordion3">Talent Development in Sports - Football (Boys) and Volleyball (Boys and Girls)</label><div>  
+<li><input type="checkbox" id="accordion4">  
+<label for="accordion4">Sports and Games</label><div>  
 <p>
 </p>  
 </div></li>  
 
-<li><input type="checkbox" id="accordion4">  
-<label for="accordion4">Digital Media</label><div>  
+<li><input type="checkbox" id="accordion5">  
+<label for="accordion5">Uniformed Groups</label><div>  
 <p></p>  
 </div></li>
 </ul>
