@@ -47,14 +47,14 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 	
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">Sports and Games</label><div>  
-<p><table><tbody><tr><td><a href="/cca/sports-groups/floorball/">Floorball</a></td>
-<td><a href="/cca/Sports-and-Games/Basketball/">Basketball</a></td>
-	<td><a href="/cca/Sports-and-Games/Football">Football</a></td>
-	<td><a href="/cca/Sports-and-Games/Table-Tennis/">Tabletennis</a></td>
-	<td><a href="/cca/Sports-and-Games/Netball/">Netball</a></td></tr><tr>
-<td><a href="/cca/Sports-and-Games/Volleyball/">Volleyball</a></td>
-<td><a href="/cca/Sports-and-Games/Badminton/">Badminton</a></td>
-		</tr></tbody></table></p></div></li>
+<p><table><tbody><tr>
+<td><a href="/cca/Sports-and-Games/Basketball/"><img src="/images/basket.png" style="width:85%;float:left"></a></td>
+<td><a href="/cca/Sports-and-Games/Football"><img src="/images/football.png" style="width:85%;float:left"></a></td>
+<td><a href="/cca/Sports-and-Games/Table-Tennis/"><img src="/images/tabletennis.png" style="width:85%;float:left"></a></td></tr><tr>
+<td><a href="/cca/Sports-and-Games/Netball/"><img src="/images/netball.png" style="width:85%;float:left"></a></td>
+<td><a href="/cca/Sports-and-Games/Volleyball/"><img src="/images/volleyb.png" style="width:85%;float:left"></a></td>
+<td><a href="/cca/Sports-and-Games/Badminton/"><img src="/images/badminton.png" style="width:85%;float:left"></a></td><td><a href="/cca/sports-groups/floorball/">Floorball</a></td>
+</tr></tbody></table></p></div></li>
 	
 <li><input type="checkbox" id="accordion4">  
 <label for="accordion4">Uniformed Groups</label><div>  
