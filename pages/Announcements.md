@@ -4,6 +4,9 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### PRSS Newsflash
+
+Please click [here](/files/Newsflash_Term_2_2024.pdf) to view our Newsflash for Term 2.
 
 #### 2024 Term 1 Timetable with effect from 29 Jan 2024
 
