@@ -48,15 +48,16 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">Sports and Games</label><div>  
 <p>
-		<a href="/cca/Sports-and-Games/Floorball/">Floorball</a><br>
-	<a href="/cca/Sports-and-Games/Basketball/">Basketball</a><br>	
-	<a href="/cca/Sports-and-Games/Football">Football</a><br>
-	<a href="/cca/Sports-and-Games/Table-Tennis/">Tabletennis</a><br>
-	<a href="/cca/Sports-and-Games/Netball/">Netball</a><br>
-	<a href="/cca/Sports-and-Games/Volleyball/">Volleyball</a><br>
-<a href="/cca/Sports-and-Games/Badminton/">Badminton</a><br>
-</p>  
-</div></li>
+	<p></p><table><tbody><tr><td>
+		<a href="/cca/Sports-and-Games/Floorball/">Floorball</a></td>
+	<td><a href="/cca/Sports-and-Games/Basketball/">Basketball</a></td><td>	
+	</td><td><a href="/cca/Sports-and-Games/Football">Football</a><br></td><td>
+	</td><td><a href="/cca/Sports-and-Games/Table-Tennis/">Tabletennis</a></td>
+		<td><a href="/cca/Sports-and-Games/Netball/">Netball</a></td>
+		<td><a href="/cca/Sports-and-Games/Volleyball/">Volleyball</a></td>
+		<td><a href="/cca/Sports-and-Games/Badminton/">Badminton</a></td>
+  
+		</tr></tbody></table></p></div></li>
 	
 <li><input type="checkbox" id="accordion4">  
 <label for="accordion4">Uniformed Groups</label><div>  
