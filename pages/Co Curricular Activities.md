@@ -65,5 +65,5 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 <p><table><tbody>
 <tr><td><a alt="National Cadet Corps" href="/cca/Uniformed-Groups/National-Cadet-Corps/"><img src="/images/ncclogo.png" style="width:65%;float:left"></a></td>
 <td><a alt="National Police Cadet Corps" href="/cca/Uniformed-Groups/National-Police-Cadet-Corps"><img src="/images/npcclogo.png" style="width:65%;float:left"></a></td>
-<td><a alt="National Civil Defence Cadet Corps" href="/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/"></a><img src="/images/ncdcclogo.png" style="width:65%;float:left"></td>
+<td><a alt="National Civil Defence Cadet Corps" href="/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/"><img src="/images/ncdcclogo.png" style="width:65%;float:left"></a></td>
 </tr></tbody></table></p></div></li></ul>
