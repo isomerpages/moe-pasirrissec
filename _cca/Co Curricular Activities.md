@@ -15,6 +15,8 @@ Our CCA Programme provides students with a platform to discover their interests 
 
 Students will be graded according to the LEAPs 2.0 system.
 
+Click on the link for more information on [LEAPs 2.0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0) for secondary school students.
+
 ### CCA Participation
 
 All students must enrolled in a CCA throughout their secondary education.  Points will be awarded for participation only when attendance rate is above 75%. Students with poor CCA attendance (less than 75%) will be given a conduct grade of fair and their CCA points will not be computed for the year.
@@ -23,8 +25,3 @@ Students are encouraged to remain in the CCA assigned to them throughout their s
 
 Students may participate in more than one CCA on a case by case basis approved by HOD PE/CCA.
 
-**Bonus points for admission to JC / Poly / ITE**
-
-Under LEAPs 2.0, students who obtain an "Excellent" grade in CCA will be given two bonus points while those who obtain a "Good" grade will be given one bonus point.
-
-Click on the link for more information on [LEAPs 2.0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0) for secondary school students.
