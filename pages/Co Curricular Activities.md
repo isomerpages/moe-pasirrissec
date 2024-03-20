@@ -41,8 +41,8 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 	</p><p></p><p>
 	</p><table>
 <tbody><tr><td>
-	<a href="/cca/Club/Tinkers-Club/"><img src="/images/audio.png" style="width:40%;float:left"></a></td>
-<td><a href="/cca/Club/Audio-Visual-Lights/"><img src="/images/tinkersclub.png" style="width:40%;float:left"></a></td>
+	<a href="/cca/Club/Tinkers-Club/"><img src="/images/audio.png" style="width:45%;float:left"></a></td>
+<td><a href="/cca/Club/Audio-Visual-Lights/"><img src="/images/tinkersclub.png" style="width:45%;float:left"></a></td>
 </tr></tbody></table></div></li>
 	
 <li><input type="checkbox" id="accordion3">  
@@ -59,7 +59,7 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 <li><input type="checkbox" id="accordion4">  
 <label for="accordion4">Uniformed Groups</label><div>  
 <p><table><tbody>
-<tr><td><a alt="National Cadet Corps" href="/cca/Uniformed-Groups/National-Cadet-Corps/"><img src="/images/ncclogo.png" style="width:65%;float:left"></a></td>
-<td><a alt="National Police Cadet Corps" href="/cca/Uniformed-Groups/National-Police-Cadet-Corps"><img src="/images/npcclogo.png" style="width:65%;float:left"></a></td>
-<td><a alt="National Civil Defence Cadet Corps" href="/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/"><img src="/images/ncdcclogo.png" style="width:65%;float:left"></a></td>
+<tr><td><a alt="National Cadet Corps" href="/cca/Uniformed-Groups/National-Cadet-Corps/"><img src="/images/ncclogo.png" style="width:70%;float:left"></a></td>
+<td><a alt="National Police Cadet Corps" href="/cca/Uniformed-Groups/National-Police-Cadet-Corps"><img src="/images/npcclogo.png" style="width:70%;float:left"></a></td>
+<td><a alt="National Civil Defence Cadet Corps" href="/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/"><img src="/images/ncdcclogo.png" style="width:70%;float:left"></a></td>
 </tr></tbody></table></p></div></li></ul>
