@@ -51,7 +51,7 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 <td><a href="/cca/Sports-and-Games/Basketball/">Basketball</a></td>
 	<td><a href="/cca/Sports-and-Games/Football">Football</a></td>
 	<td><a href="/cca/Sports-and-Games/Table-Tennis/">Tabletennis</a></td>
-	<td><a href="/cca/Sports-and-Games/Netball/">Netball</a></td>
+	<td><a href="/cca/Sports-and-Games/Netball/">Netball</a></td></tr><tr>
 <td><a href="/cca/Sports-and-Games/Volleyball/">Volleyball</a></td>
 <td><a href="/cca/Sports-and-Games/Badminton/">Badminton</a></td>
 		</tr></tbody></table></p></div></li>
