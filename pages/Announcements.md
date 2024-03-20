@@ -20,8 +20,8 @@ Please click [here](/files/2024_SEM1_BL_TT_V1_Classes.pdf) for the 2024 Semester
 
 #### Sec 1 and 2 Parents Engagement Slides
 
-Please click to view the Sec 1 Parents Engagement Slides 2024.
-Please click to view the Sec 2 Parents Engagement Slides 2024.
+Please click [here](/files/Information%20for%20Parents/2024_Sec_1_Parent_Engagement_2_Feb_compressed.pdf) to view the Sec 1 Parents Engagement Slides 2024.<br>
+Please click [here](/files/Information%20for%20Parents/2024_Sec_2_Parent_Engagement_16_Feb_compressed.pdf) to view the Sec 2 Parents Engagement Slides 2024.
 
 #### Sec 4 and 5 Parents Engagement Slides
 
