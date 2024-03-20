@@ -50,16 +50,13 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">Sports and Games</label><div>  
 <p>
-
-	
-[Basketball]([Basketball](/cca/Sports-and-Games/Basketball/)/cca/Sports-and-Games/Basketball/)<br>
-[Football](/cca/Sports-and-Games/Football/)<br>
-[Tabletennis](/cca/Sports-and-Games/Table-Tennis/) <br>
-[Netball](/cca/Sports-and-Games/Netball/) <br>
-[Volleyball](/cca/Sports-and-Games/Volleyball/) <br>
-[Badminton](/cca/Sports-and-Games/Badminton/)<br>
-[Floorball](/cca/Sports-and-Games/Floorball/)
-
+		<a href="/cca/Sports-and-Games/Floorball/">Floorball</a><br>
+	<a href="/cca/Sports-and-Games/Basketball/">Basketball</a><br>	
+	<a href="/cca/Sports-and-Games/Football">Football</a><br>
+	<a href="/cca/Sports-and-Games/Table-Tennis/">Tabletennis</a><br>
+	<a href="/cca/Sports-and-Games/Netball/">Netball</a><br>
+	<a href="/cca/Sports-and-Games/Volleyball/">Volleyball</a><br>
+<a href="/cca/Sports-and-Games/Badminton/">Badminton</a><br>
 </p>  
 </div></li>
 	
