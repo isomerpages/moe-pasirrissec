@@ -17,7 +17,7 @@ Students will be graded according to the LEAPs 2.0 system.
 
 Click on the link for more information on [LEAPs 2.0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0) for secondary school students.
 
-### CCA Participation
+#### **CCA Participation**
 
 All students must enrolled in a CCA throughout their secondary education.  Points will be awarded for participation only when attendance rate is above 75%. Students with poor CCA attendance (less than 75%) will be given a conduct grade of fair and their CCA points will not be computed for the year.
 
