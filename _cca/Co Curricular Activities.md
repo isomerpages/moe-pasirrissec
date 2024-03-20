@@ -9,7 +9,7 @@ Co-Curricular Activities (CCAs) are an integral part of the holistic, well-round
 Our CCA Programme provides students with a platform to discover their interests and talents, as well as develop CCA-specific knowledge, skills, values and attitudes through sustained participation. CCA participation is **compulsory** for all students in secondary school. All students care expected to take part in at least one CCA from the four CCA groups:
 
 * Uniformed groups
-* Sports Groups
+* Sports
 * Performing Arts
 * Clubs and societies
 
