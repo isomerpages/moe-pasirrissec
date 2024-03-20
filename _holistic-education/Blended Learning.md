@@ -4,23 +4,22 @@ permalink: /holistic-education/Blended-Learning/
 description: ""
 variant: markdown
 ---
-<ul class="jekyllcodex\_accordion">  
- <li><input type="checkbox" id="accordion1">  
+<ul class="jekyllcodex\_accordion"> 
+	
+<li><input type="checkbox" id="accordion1">  
 <label for="accordion1">For Students</label><div>  
-	 
-<p>Please refer to the [Student Guide to HBL Day](/files/Student%20Guide%20to%20BL%20Day_v2%20(1).pdf) for the useful information shared during the HBL Day briefing. </p> 
-
-<p>For any account or password queries, please contact the following:  
-
-1. Home Teachers
-2. School-based Helpdesk at&nbsp;6501 0891
-3. Email at;prss@moe.edu.sg if the hotline is busy
-	</p>
-
-<p>Should you require **counselling or learning and behavioural support**, you may contact the following: 1. Home Teachers
-2. School Counsellor/ SEN Officer at 6501 0839</p>
- 
-</div></li>  
+<p>Please refer to the <a href="/files/Student%20Guide%20to%20BL%20Day_v2%20(1).pdf">Student Guide to HBL Day</a> for the useful information shared during the HBL Day briefing. For any account or password queries, please contact the following:</p>
+<ol type="1">
+  <li>Home Teachers</li>
+  <li>School-based Helpdesk at&nbsp;6501 0891</li>
+  <li>Email at prss@moe.edu.sg,  if the hotline is busy</li>
+</ol>  
+	<p>Should you require <b>counselling or learning and behavioural support</b>, you may contact the following: </p>
+<ol type="1">
+	<li>Home Teachers</li>
+	<li>School Counsellor/ SEN Officer at 6501 0839</li>
+ <br>
+</ol></div></li>  
   
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">For Parents</label><div>  
