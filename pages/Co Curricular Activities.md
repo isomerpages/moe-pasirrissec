@@ -10,13 +10,15 @@ The CCA Programme provides students with a platform to discover their interests 
 
 All students care expected to take part in at least one CCA from the four CCA groups namely, Uniformed groups, Sports Groups, Performing Arts Groups and Clubs and societies. Students will be graded according to the LEAPs 2.0 system.
 
+Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0) for secondary school students.
+
+### **CCA Participation**
+
 All students must enrolled in a CCA throughout their secondary education. Points will be awarded for participation only when attendance rate is above 75%. Students with poor CCA attendance (less than 75%) will be given a conduct grade of fair and their CCA points will not be computed for the year.
  
 Students are encouraged to remain in the CCA assigned to them throughout their secondary education. Changing of CCA will only be considered due to medical reasons. In this case, the LEAPs 2.0 points will not be affected.
 
 Students may participate in more than one CCA on a case by case basis approved by HOD PE/CCA.
-
-Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0) for secondary school students.
 
 <ul class="jekyllcodex_accordion">
   
