@@ -47,7 +47,7 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 	
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">Sports and Games</label><div>  
-<p><table><tbody><tr><td><a href="/cca/Sports-and-Games/Floorball/">Floorball</a></td>
+<p><table><tbody><tr><td><a href="/cca/sports-groups/floorball/">Floorball</a></td>
 <td><a href="/cca/Sports-and-Games/Basketball/">Basketball</a></td>
 	<td><a href="/cca/Sports-and-Games/Football">Football</a></td>
 	<td><a href="/cca/Sports-and-Games/Table-Tennis/">Tabletennis</a></td>
