@@ -18,6 +18,9 @@ Please click [here](/files/Timetable_for_Class_S2___5_wef_29_Jan.pdf) for 2024 T
 
 Please click [here](/files/2024_SEM1_BL_TT_V1_Classes.pdf) for the 2024 Semester 1 Blended Learning Timetable.
 
+#### Sec 1 and 2 Parents Engagement Slides
+
+
 
 #### Sec 4 and 5 Parents Engagement Slides
 
@@ -25,12 +28,6 @@ Please click [here](/files/Information%20for%20Parents/Sec_4_and_5_Parents_Engag
 
 #### Release of GCE O Level Results
 Please click [here](/files/Announcements/Letter_to_parents_on_release_of_GCE_O_Level_Results_2023__Combined_.pdf) to view the Parent Letter on the release of GCE O Level Results 2023.
-
-
-
-#### PRSS Newsflash
-
-Please click [here](/useful-links/PRSS-Newsflash/) to view our Newsflash for Term 1.
 
 #### Release of GCE N Level Results
 
