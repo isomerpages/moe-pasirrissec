@@ -28,10 +28,8 @@ variant: markdown
 <p>Do refer to the <b>Parent Resource Kits</b> (click on links below) provides general information and tips on HBL Days, a part of the BL structure, and how you can support your child on their HBL days.
 </p>
 <p></p><ul><li><a href="/files/Resource%20Kit%20-%20Experiencing%20Blended%20Learning%20BL%20with%20Our%20Children%20(1).pdf">Resource Kit - Experiencing Blended Learning (BL) with Our Children</a>
-</li><li><a href="/files/How%20do%20I%20support%20my%20child%20on%20regular%20HBL%20Day_final%20PRSS%20(1).pdf">Resource Kit - Experiencing Blended Learning (BL) with Our Children</a>
+</li><li><a href="/files/How%20do%20I%20support%20my%20child%20on%20regular%20HBL%20Day_final%20PRSS%20(1).pdf">Resource Kit - How do I support my child on regular HBL Day?</a>
 </li>
-<li><a href="/files/How%20do%20I%20support%20my%20child%20on%20regular%20HBL%20Day_final%20PRSS%20(1).pdf">Resource Kit - How do I support my child on regular HBL Day?</a></li>
-
 </ul></div></li>    
   
 </ul>
