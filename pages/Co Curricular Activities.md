@@ -28,11 +28,11 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 <label for="accordion1">Aesthetic</label><div>  
 <p>
 </p><p></p><table><tbody><tr><td>
-<a href="/cca/Aesthetic/Chinese-Orchestra/"><img src="/images/ChineseOrchestra.png" style="width:100%;float:left"></a></td>
-	<td><a href="/cca/Aesthetic/Choir/"><img src="/images/Choir.png" style="width:100%;float:left"></a></td>		 
-<td><a href="/cca/Aesthetic/Concert-Band/"><img src="/images/ConcertBand.png" style="width:100%;float:left"></a></td>		 
-<td><a href="/cca/Aesthetic/Modern-Dance/"><img src="/images/ModernDance.png" style="width:100%;float:left"></a></td>		 
-<td><a href="/cca/Aesthetic/English-Drama/"><img src="/images/EnglishDrama.png" style="width:100%;float:left"></a></td>
+<a href="/cca/Aesthetic/Chinese-Orchestra/"><img src="/images/ChineseOrchestra.png" style="width:90%;float:left"></a></td>
+	<td><a href="/cca/Aesthetic/Choir/"><img src="/images/Choir.png" style="width:90%;float:left"></a></td>		 
+<td><a href="/cca/Aesthetic/Concert-Band/"><img src="/images/ConcertBand.png" style="width:90%;float:left"></a></td></tr><tr>		 
+<td><a href="/cca/Aesthetic/Modern-Dance/"><img src="/images/ModernDance.png" style="width:90%;float:left"></a></td>		 
+<td><a href="/cca/Aesthetic/English-Drama/"><img src="/images/EnglishDrama.png" style="width:90%;float:left"></a></td>
 </tr></tbody></table><p></p></div></li>  	
 
 <li><input type="checkbox" id="accordion2">  
