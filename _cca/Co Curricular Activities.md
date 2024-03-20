@@ -24,7 +24,7 @@ All students must enrolled in a CCA throughout their secondary education.  Point
 Students are encouraged to remain in the CCA assigned to them throughout their secondary education. Changing of CCA will only be considered due to medical reasons. In this case, the LEAPs 2.0 points will not be affected.
 
 Students may participate in more than one CCA on a case by case basis approved by HOD PE/CCA.
-
+<br><br>
 <ul class="jekyllcodex_accordion">
   
 <li><input type="checkbox" id="accordion1">  
