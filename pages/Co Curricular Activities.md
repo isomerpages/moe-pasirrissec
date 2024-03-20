@@ -41,11 +41,10 @@ Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.s
 <p>
 	</p><p></p><p>
 	</p><table>
-<tbody><tr><td><img src="/images/audio.png" style="width:50%;float:left"></td>
-<td><img src="/images/tinkersclub.png" style="width:50%;float:left"></td></tr><tr>
-<td><a href="/cca/Club/Audio-Visual-Lights/">Audio Visual Lights</a></td>
-<td><a href="/cca/Club/Tinkers-Club/">Tinkers Club</a></td></tr></tbody></table>	
-<p></p></div></li>
+<tbody><tr><td>
+	<a href="/cca/Club/Tinkers-Club/"><img src="/images/audio.png" style="width:50%;float:left"></a></td>
+<td><a href="/cca/Club/Audio-Visual-Lights/"><img src="/images/tinkersclub.png" style="width:50%;float:left"></a></td>
+</tr></tbody></table></div></li>
 	
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">Sports and Games</label><div>  
