@@ -10,68 +10,54 @@ The CCA Programme provides students with a platform to discover their interests 
 
 All students care expected to take part in at least one CCA from the four CCA groups namely, Uniformed groups, Sports Groups, Performing Arts Groups and Clubs and societies. Students will be graded according to the LEAPs 2.0 system.
 
+Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0) for secondary school students.
+
+### **CCA Participation**
+
 All students must enrolled in a CCA throughout their secondary education. Points will be awarded for participation only when attendance rate is above 75%. Students with poor CCA attendance (less than 75%) will be given a conduct grade of fair and their CCA points will not be computed for the year.
  
 Students are encouraged to remain in the CCA assigned to them throughout their secondary education. Changing of CCA will only be considered due to medical reasons. In this case, the LEAPs 2.0 points will not be affected.
 
 Students may participate in more than one CCA on a case by case basis approved by HOD PE/CCA.
 
-**Bonus points for admission to JC / Poly / ITE**
-
-Under LEAPs 2.0, students who obtain an “Excellent” grade in CCA will be given two bonus points while those who obtain a “Good” grade will be given one bonus point.
-
-Click on the link for more information on&nbsp;[LEAPs 2.0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0) for secondary school students.
-
 <ul class="jekyllcodex_accordion">
   
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1">Aesthetic</label><div>  
 <p>
-	
-[<img src="/images/ChineseOrchestra.png" style="width:20%;float:left">](/cca/Aesthetic/Chinese-Orchestra/)	 
-[<img src="/images/Choir.png" style="width:20%;float:left">](/cca/Aesthetic/Choir/)		 
-[<img src="/images/ConcertBand.png" style="width:20%;float:left">](/cca/Aesthetic/Concert-Band/)		 
-[<img src="/images/ModernDance.png" style="width:20%;float:left">](/cca/Aesthetic/Modern-Dance/)		 
-[<img src="/images/EnglishDrama.png" style="width:20%">](/cca/Aesthetic/English-Drama/)
-</p>  
-</div></li>  	
+</p><p></p><table><tbody><tr><td>
+<a href="/cca/Aesthetic/Chinese-Orchestra/"><img src="/images/ChineseOrchestra.png" style="width:80%;float:left"></a></td>
+	<td><a href="/cca/Aesthetic/Choir/"><img src="/images/Choir.png" style="width:80%;float:left"></a></td>		 
+<td><a href="/cca/Aesthetic/Concert-Band/"><img src="/images/ConcertBand.png" style="width:80%;float:left"></a></td></tr><tr>		 
+<td><a href="/cca/Aesthetic/Modern-Dance/"><img src="/images/ModernDance.png" style="width:80%;float:left"></a></td>		 
+<td><a href="/cca/Aesthetic/English-Drama/"><img src="/images/EnglishDrama.png" style="width:80%;float:left"></a></td>
+</tr></tbody></table><p></p></div></li>  	
 
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">Clubs</label><div>  
 <p>
 	</p><p></p><p>
 	</p><table>
-<tbody><tr><td><img src="/images/audio.png" style="width:50%;float:left"></td>
-<td><img src="/images/tinkersclub.png" style="width:50%;float:left"></td></tr><tr>
-<td><a href="/cca/Club/Audio-Visual-Lights/">Audio Visual Lights</a></td>
-<td><a href="/cca/Club/Tinkers-Club/">Tinkers Club</a></td></tr></tbody></table>	
-<p></p></div></li>
+<tbody><tr><td>
+	<a href="/cca/Club/Tinkers-Club/"><img src="/images/audio.png" style="width:50%;float:left"></a></td>
+<td><a href="/cca/Club/Audio-Visual-Lights/"><img src="/images/tinkersclub.png" style="width:50%;float:left"></a></td>
+</tr></tbody></table></div></li>
 	
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">Sports and Games</label><div>  
-<p>
-
-	
-[Basketball]([Basketball](/cca/Sports-and-Games/Basketball/)/cca/Sports-and-Games/Basketball/)<br>
-[Football](/cca/Sports-and-Games/Football/)<br>
-[Tabletennis](/cca/Sports-and-Games/Table-Tennis/) <br>
-[Netball](/cca/Sports-and-Games/Netball/) <br>
-[Volleyball](/cca/Sports-and-Games/Volleyball/) <br>
-[Badminton](/cca/Sports-and-Games/Badminton/)<br>
-[Floorball](/cca/Sports-and-Games/Floorball/)
-
-</p>  
-</div></li>
+<p><table><tbody><tr>
+<td><a href="/cca/Sports-and-Games/Basketball/"><img src="/images/basket.png" style="width:85%;float:left"></a></td>
+<td><a href="/cca/Sports-and-Games/Football"><img src="/images/football.png" style="width:85%;float:left"></a></td>
+<td><a href="/cca/Sports-and-Games/Table-Tennis/"><img src="/images/tabletennis.png" style="width:85%;float:left"></a></td></tr><tr>
+<td><a href="/cca/Sports-and-Games/Netball/"><img src="/images/netball.png" style="width:85%;float:left"></a></td>
+<td><a href="/cca/Sports-and-Games/Volleyball/"><img src="/images/volleyb.png" style="width:85%;float:left"></a></td>
+<td><a href="/cca/Sports-and-Games/Badminton/"><img src="/images/badminton.png" style="width:85%;float:left"></a></td><td><a href="/cca/sports-groups/floorball/">Floorball</a></td>
+</tr></tbody></table></p></div></li>
 	
 <li><input type="checkbox" id="accordion4">  
 <label for="accordion4">Uniformed Groups</label><div>  
-<p><p></p><table><tbody><tr>
-
-</tr><tr><td><img src="/images/ncclogo.png" style="width:55%;float:left"></td>
-<td><img src="/images/npcclogo.png" style="width:55%;float:left"></td>
-<td><img src="/images/ncdcclogo.png" style="width:55%;float:left"></td></tr><tr>
-	<td><a href="/cca/Uniformed-Groups/National-Cadet-Corps/">National Cadet Corps</a></td>
-	<td><a href="/cca/Uniformed-Groups/National-Police-Cadet-Corps">National Police Cadet Corps</a></td>
-	<td><a href="/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/">National Civil Defence Cadet Corps</a> </td>
- 
-</tr></tbody></table></p><p></p><p></p><p></p></div></li></ul>
+<p><table><tbody>
+<tr><td><a alt="National Cadet Corps" href="/cca/Uniformed-Groups/National-Cadet-Corps/"><img src="/images/ncclogo.png" style="width:70%;float:left"></a></td>
+<td><a alt="National Police Cadet Corps" href="/cca/Uniformed-Groups/National-Police-Cadet-Corps"><img src="/images/npcclogo.png" style="width:70%;float:left"></a></td>
+<td><a alt="National Civil Defence Cadet Corps" href="/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/"><img src="/images/ncdcclogo.png" style="width:70%;float:left"></a></td>
+</tr></tbody></table></p></div></li></ul>
