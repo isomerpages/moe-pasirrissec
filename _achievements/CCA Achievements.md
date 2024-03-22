@@ -176,6 +176,145 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca2022.png">
 </div>
 <h3><strong>2021</strong></h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>No</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Co-Curriculur Activity / Student</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Programme / Competition / Award</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NCC</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>NCC Outstanding Cadet Award</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Elijah Lau Jia Jin (4E6)</p>
+</li>
+<li>
+<p>Anston Sieow Wei Cong (4A2)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NCDCC</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>SPF-NCDCC Award</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Leong Wee Kwok Ray (4E6)</p>
+</li>
+<li>
+<p>Ng Jun Jie, Raymus (4E6)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NPCC</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>SPF-NPCC Badge Award</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Adiba Jamshed Puyyakara (4E6)*</p>
+</li>
+<li>
+<p>Lee Jia Jing (4E4)</p>
+</li>
+<li>
+<p>Nur Hidayah Binte Johar (4E3)</p>
+<p></p>
+<p><strong>*selected to be valedictorian for SPF-NPCC Award Ceremony</strong>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Malay Dance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>ACCOMPLISHMENT</em></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Concert Band</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>DISTINCTION</em></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chinese Orchestra</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>ACCOMPLISHMENT</em></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>English Drama</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>DISTINCTION</em></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca2021.png">
 </div>
