@@ -105,8 +105,6 @@ are available for students that are on financial assistance schemes.</p>
 (IS), that need additional support should approach the General Office for
 more information on financial assistance.</p>
 <h4><strong>Device Management Application</strong></h4>
-<p>Please click to view the <a href="/dma" rel="noopener noreferrer nofollow" target="_blank">DMA microsite</a>
-</p>
-<p><strong>Pelase</strong>
+<p>Please click on the link to view the <a href="/dma" rel="noopener noreferrer nofollow" target="_blank">DMA microsite.</a>
 </p>
 <p></p>
