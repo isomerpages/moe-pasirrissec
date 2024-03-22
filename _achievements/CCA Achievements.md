@@ -436,9 +436,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca2020.png">
-</div>
 <h3><strong>2019</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca2019.png">
