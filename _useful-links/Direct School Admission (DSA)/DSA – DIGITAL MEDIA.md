@@ -3,6 +3,7 @@ title: DSA – DIGITAL MEDIA
 permalink: /useful-links/direct-school-admission-dsa/dsa-digital-media/
 description: ""
 third_nav_title: Direct School Admission (DSA)
+variant: markdown
 ---
 At Pasir Ris Secondary School, we have a whole range of programmes and CCAs that cater to your interest in digital media. Through our school’s Experiencing Coding Programme and Makers Programme, you will be given the space and opportunities for creativity and innovation to address authentic and real-world challenges that we face in our daily lives, through coding, mobile app writing, robotics, maker workshops, and activities. In addition, the school’s Tinkers Club CCA will also be actively engaging you in coding and makers related competitions and events within and beyond the school.
 
@@ -12,15 +13,14 @@ In our lower secondary integrated project work, you will also be able to work on
   
 If you have a keen interest and talent for Coding, Makers Movement, Robotics, Videography, or Photography, we invite you to join our Pasirian family.
 
-![](/images/DSA_Digital%20Media.jpeg)
-
-#### Digital Media Talent Area
+![](/images/DSA/Digital_Media.jpg)
+#### **Digital Media Talent Area**
 
 | DSA Main Category | DSA Talent Area | 
 | -------- | -------- | 
 | Science, Technology, Engineering and Mathematics | Digital Media | 
 
-#### Selection Criteria
+#### **Selection Criteria**
 
 Applicants must: 
 
@@ -30,7 +30,7 @@ Applicants must:
 
 *Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.*
 
-#### Selection Process  
+#### **Selection Process** 
 
 Applicants will be shortlisted based on:
 
@@ -38,19 +38,19 @@ Applicants will be shortlisted based on:
 
 Shortlisted applicants will be required to go through an interview. Prior to the interview, instructions will also be provided to shortlisted applicants so that they may upload artefacts to an online platform for showcase, in support of their DSA application. Examples of artefacts that can be uploaded may include a combination of: project presentation posters, photos/videos of their makers designs/products, programming source code, screenshots of mobile applications written, audio recordings, animation, photography or videography work. These artefacts can be gathered from individual or group participation in past events, activities, CCA sessions or competitions. 
 
-#### Other Requirements
+#### **Other Requirements**
 
 * For all applicants who are not studying in MOE mainstream primary schools, please refer to [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application).
 * International Students may apply but must take part in and fulfil the requirements of the Admissions Exercise for International Students (AEIS) test to be successful in DSA. 
 
-#### Centralised DSA-Sec Application Process
+#### **Centralised DSA-Sec Application Process**
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec).
 * Certified true copies of certificates / documentary proof for the non-school based awards and activities may be requested for shortlisted applicants. 
 * Applicants will be notified of the outcome of the application by 11 Sep 2023. Candidates who are given a Confirmed Offer are guaranteed a place in our school in a course which they are eligible for (Express, Normal Academic or Normal Technical) based on their PSLE results. 
 * No appeal will be entertained as the school’s decision on the offer is final. 
 
-#### Key Dates
+#### **Key Dates**
 
 | **Activity** | **Dates** | 
 | -------- | -------- | 

@@ -3,6 +3,7 @@ title: DSA – TALENT DEVELOPMENT IN SPORTS
 permalink: /useful-links/direct-school-admission-dsa/dsa-talent-development-in-sports/
 description: ""
 third_nav_title: Direct School Admission (DSA)
+variant: markdown
 ---
 Did you know that Pasir Ris Secondary has a number of outstanding alumni in sports? Yasir Hanapi, a SEA Games Bronze Medallist in 2007 and 2009, and Ethel Kang, a SEA Games Bronze Medallist for Indoor Volleyball in 2015, are two alumni who have gone on to excel in their sporting journey and career. Leveraging the pervasiveness of these two sports in the school’s tradition, we are recruiting exceptional talents to join our Football and Volleyball teams.
 
@@ -12,7 +13,7 @@ With a firm belief in pushing every individual to his/her potential, for excepti
 
 If you have the passion and talent for Football or Volleyball, we invite you to join our Pasirian family.
 
-![](/images/For%20DSA%20Sports%20website.png)
+![](/images/DSA/DSA_Pic.jpg)
 
 #### **Sports Talent Area**
 
@@ -32,18 +33,18 @@ Applicants must:
 
 *Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.*
  
-#### Selection Process  
+#### **Selection Process**  
 
 Applicants will be shortlisted based on the criteria stated above.
 
 Shortlisted applicants will be required to undergo a trial to showcase their technical capability and tactical understanding about the game. An interview will also be conducted to highlight their passion for the sport and how they can contribute to the sporting fraternity in PRSS especially in the area of developing values in sports. 
 
-#### Other Requirements
+#### **Other Requirements**
 
 * For all applicants who are not studying in MOE mainstream primary schools, please refer to [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application).
 * International Students may apply but must take part in and fulfil the requirements of the Admissions Exercise for International Students (AEIS) test to be successful in DSA. 
 
-#### Centralised DSA-Sec Application Process
+#### **Centralised DSA-Sec Application Process**
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application).
 
@@ -51,7 +52,7 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 * Applicants will be notified of the outcome of the application by 11 Sep 2023. Candidates who are given a Confirmed Offer are guaranteed a place in our school in a course which they are eligible for (Express, Normal Academic or Normal Technical) based on their PSLE results. 
 * No appeal will be entertained as the school’s decision on the offer is final. 
 
-#### Key Dates
+#### **Key Dates**
 
 | **Activity** | **Dates** | 
 | -------- | -------- | 
