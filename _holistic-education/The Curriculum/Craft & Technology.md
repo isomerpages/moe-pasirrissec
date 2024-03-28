@@ -246,11 +246,7 @@ Art student putting up his finishing touch on his final artwork (his installatio
 	
 ### Highlights
 
-#### **PRSS 35th Anniversary Celebration – MUSEIT: Homecoming**
 
-<p>In celebration of the school’s 35th birthday, we invited students who graduated from the N Level Music class in 2019 and 2020 to collaborate and perform with current students from the 4NT music class. The experience and exposure allowed students to learn and discuss music at a greater level!</p>
-	
-<img src="/images/A_student.jpeg">
 	
 #### **Lunchtime Concert - MUSEIT: Season Three, Episode 2**
 
@@ -278,11 +274,8 @@ Art student putting up his finishing touch on his final artwork (his installatio
 	
 <img src="/images/popband%201.jpeg">
 <img src="/images/popband%202.jpeg">
-
-<p>Teachers from the Music Unit:</p>
-<p>Ms Jasmine Peh (AYH)</p>
 	
-</div>  
+</div> 
 </li>
 </ul>
 
