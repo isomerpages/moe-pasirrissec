@@ -31,7 +31,7 @@ Pasir Ris Secondary School has the **4E Development Plan** to promote school-wid
 * Assembly Showcases 
 * Kepple Night's Programme
 
-### Photos
+### Photos / Videos
 
 <img src="/images/Celebrating%20Talent.png" style="width:50%;float:left">
 <img src="/images/Gift%20of%20the%20Art.png" style="width:50%">
@@ -41,8 +41,6 @@ Pasir Ris Secondary School has the **4E Development Plan** to promote school-wid
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TPW6uOQuj8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sKeX7eeCGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nm0XEDCP6f4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rHNnRwcqwJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
