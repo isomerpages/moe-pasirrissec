@@ -14,7 +14,7 @@ Camp Oneiric offers plenty of opportunities for our students to step beyond thei
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/L0XWh_oOCB0" height="315" width="560"></iframe>
 
-<!--iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jJETGvS0lTw" height="315" width="560"-->
+
 
 #### Sec 2 - Camp Spark
 
@@ -39,7 +39,7 @@ Throughout the camp, students had opportunities to develop their class spirit as
 
 The theme of the camp was selected as adolescence is a period of transformation, not unlike a chrysalis changing into a butterfly. It is only through the struggle of metamorphosis that he gains the strength to survive on his own. This is not like the growing up process, where our young grow through the struggles and difficulties they went through.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LwoOlXTClnE" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Xj0-YlUML3E?si=5VrBuWx97RWRtYoU" height="315" width="560"></iframe>
 
 #### Sec 4N - Camp Quest / Sec 4E5N - Camp Conquest
 
