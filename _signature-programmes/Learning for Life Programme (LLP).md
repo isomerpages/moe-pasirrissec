@@ -32,12 +32,13 @@ Pasir Ris Secondary School has the **4E Development Plan** to promote school-wid
 * Kepple Night's Programme
 
 ### Photos / Videos
-
+![](/images/Signature%20Programmes/LLP/LLP_2024.jpg)
 <img src="/images/Celebrating%20Talent.png" style="width:50%;float:left">
 <img src="/images/Gift%20of%20the%20Art.png" style="width:50%">
 <img src="/images/Creative%20Performers.png" style="width:50%;float:left">
 <img src="/images/llp%20black.png" style="width:50%">
-<br><center>		 
+<br>
+<center>		 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TPW6uOQuj8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sKeX7eeCGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
