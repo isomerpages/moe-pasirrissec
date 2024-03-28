@@ -17,7 +17,7 @@ Join us too, on our learning journeys to media organisations such as production 
 
 If you have an interest and passion for learning more about Broadcast Journalism, Photojournalism, or Media Production, we invite you to join our Pasirian family.
 
-
+![](/images/DSA/ALP_main_pic_for_DSA_page__Resize_.png)
 
 #### **ALP Talent Areas**
 
