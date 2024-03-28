@@ -14,8 +14,6 @@ Camp Oneiric offers plenty of opportunities for our students to step beyond thei
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/L0XWh_oOCB0" height="315" width="560"></iframe>
 
-
-
 #### Sec 2 - Camp Spark
 
 At Camp Spark, students will discover their interests and strengths and develop their socio-emotional competencies through venturing out of their comfort zone and working with others.
@@ -26,10 +24,7 @@ The metaphor of “Campfire” symbolizes the progression whereby Pasirians have
 
 Through the camp, students will develop a positive mindset as they learn to overcome challenges they face along the way. Through the authentic and experiential learning in this camp, they will forge friendships, deepen their sense of belonging, and pride towards the school. Highlights of this year’s camp include virtual reality, urban farming, outdoor cooking, laser tag and class-based campfires!
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/hdilUcy-i6M?si=OFUyJ8LDgVXz3t5I" height="315" width="560"></iframe>
-
-![](/images/Photo%20Album%201.jpeg)
-![](/images/Photo%20Album%202.jpeg)
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/AEGEg6JSCx8?si=AXtLN_Q04nBQbshh" height="315" width="560"></iframe>
 
 #### Sec 3 - Camp Metamorphosis
 
