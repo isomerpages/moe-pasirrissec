@@ -3,6 +3,7 @@ title: DSA – ALP IN HUMANITIES AND ENGLISH LANGUAGE
 permalink: /useful-links/direct-school-admission-dsa/dsa-alp-in-humanities-and-english-language/
 description: ""
 third_nav_title: Direct School Admission (DSA)
+variant: markdown
 ---
 #### **EYE ON THE WORLD: STORIES THROUGH JOURNALISM**  
 
@@ -16,7 +17,7 @@ Join us too, on our learning journeys to media organisations such as production 
 
 If you have an interest and passion for learning more about Broadcast Journalism, Photojournalism, or Media Production, we invite you to join our Pasirian family.
 
-![](/images/DSA%20ALP.jpeg)
+![](/images/DSA/ALP_main_pic_for_DSA_page__Resize_.png)
 
 #### **ALP Talent Areas**
 

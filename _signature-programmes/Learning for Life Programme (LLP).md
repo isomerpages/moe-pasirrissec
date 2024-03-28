@@ -31,18 +31,19 @@ Pasir Ris Secondary School has the **4E Development Plan** to promote school-wid
 * Assembly Showcases 
 * Kepple Night's Programme
 
-### Photos
-
+### Photos / Videos
+![](/images/Signature%20Programmes/LLP/LLP_2024.jpg)
 <img src="/images/Celebrating%20Talent.png" style="width:50%;float:left">
 <img src="/images/Gift%20of%20the%20Art.png" style="width:50%">
 <img src="/images/Creative%20Performers.png" style="width:50%;float:left">
 <img src="/images/llp%20black.png" style="width:50%">
-<br><center>		 
+<br>
+<center>		 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TPW6uOQuj8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sKeX7eeCGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nm0XEDCP6f4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5oqyk43vfSo?si=NelnFtttjRD1S5dv" height="315" width="560"></iframe>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rHNnRwcqwJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>

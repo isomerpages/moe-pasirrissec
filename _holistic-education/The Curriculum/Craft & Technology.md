@@ -241,17 +241,9 @@ Art student putting up his finishing touch on his final artwork (his installatio
 #### N(T) Level Music (Upper Secondary)
 
 <p>This subject is offered to our interested 3NT students as their elective subject during the Secondary Two streaming exercise. The programme allow students to deepen their skills in reading, analyzing and reproducing music of different forms, and more importantly, to become active listeners who can readily interact with music of different genres. Where possible, these students will be provided opportunities to showcase their musical creation and improvisation via both physically (Lunchtime concert) or digitally (via youtube).</p>
-	
-<img src="/images/traditional%20instruments%201.jpeg">
-	
+
 ### Highlights
 
-#### **PRSS 35th Anniversary Celebration – MUSEIT: Homecoming**
-
-<p>In celebration of the school’s 35th birthday, we invited students who graduated from the N Level Music class in 2019 and 2020 to collaborate and perform with current students from the 4NT music class. The experience and exposure allowed students to learn and discuss music at a greater level!</p>
-	
-<img src="/images/A_student.jpeg">
-	
 #### **Lunchtime Concert - MUSEIT: Season Three, Episode 2**
 
 <p>Featuring our Secondary One Lower Secondary Music Syllabus and N(T) music students.</p>
@@ -278,11 +270,8 @@ Art student putting up his finishing touch on his final artwork (his installatio
 	
 <img src="/images/popband%201.jpeg">
 <img src="/images/popband%202.jpeg">
-
-<p>Teachers from the Music Unit:</p>
-<p>Ms Jasmine Peh (AYH)</p>
 	
-</div>  
+</div> 
 </li>
 </ul>
 
