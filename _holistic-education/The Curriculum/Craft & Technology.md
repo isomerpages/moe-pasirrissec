@@ -241,13 +241,9 @@ Art student putting up his finishing touch on his final artwork (his installatio
 #### N(T) Level Music (Upper Secondary)
 
 <p>This subject is offered to our interested 3NT students as their elective subject during the Secondary Two streaming exercise. The programme allow students to deepen their skills in reading, analyzing and reproducing music of different forms, and more importantly, to become active listeners who can readily interact with music of different genres. Where possible, these students will be provided opportunities to showcase their musical creation and improvisation via both physically (Lunchtime concert) or digitally (via youtube).</p>
-	
-<img src="/images/traditional%20instruments%201.jpeg">
-	
+
 ### Highlights
 
-
-	
 #### **Lunchtime Concert - MUSEIT: Season Three, Episode 2**
 
 <p>Featuring our Secondary One Lower Secondary Music Syllabus and N(T) music students.</p>
