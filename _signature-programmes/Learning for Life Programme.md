@@ -48,4 +48,5 @@ Pasir Ris Secondary School has the **4E Development Plan** to promote school-wid
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rHNnRwcqwJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 	
+	
 Click [here](/useful-links/direct-school-admission-dsa/dsa-llp-in-music-and-performing-arts/) to find out how you can join Pasir Ris Secondary School through our Direct School Admission in LLP.</center>
