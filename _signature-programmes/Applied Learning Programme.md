@@ -4,7 +4,7 @@ permalink: /signature-programmes/applied-learning-programme/
 description: ""
 variant: markdown
 ---
-## Eye on the World – Stories through journalism
+### **Eye on the World – Stories through journalism**
 
 The Applied Learning Programme (ALP), Eye on the World – stories through journalism, aims to provide students with opportunities to relate learning to real-life situations; increase their awareness of local and global issues; and develop critical thinking and effective communication skills through various journalism platforms.
 
@@ -37,7 +37,7 @@ Leverage contemporary issues to enhance students’ global awareness, perspectiv
 Transform physical spaces into themed corners to cultivate students’ interest in current affairs and showcase students’ work; collaborate with key external partners to make learning more authentic and experiential.
 
 
-### Photos
+#### **Photos / Videos**
 
 <img height="auto" width="600" max="" src="/images/Photos%20for%20ALP.jpeg">
 
@@ -48,7 +48,8 @@ Top left: Our Sec 2 students undergoing the Photojournalism Workshop
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GFybHyxVc8g?si=TrtdgRkdO9lTi1Ck" height="315" width="560"></iframe>	
 <br>
+<div style="text-align:center">
 <iframe allowfullscreen="true" height="369" width="560" frameborder="0" src="https://docs.google.com/presentation/d/1u2bqYOlYKGSmtsRYOwCuHjLjR_YirObR0Xidi6O1y4g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 <br>
-
+</div>
 Click [here](/useful-links/direct-school-admission-dsa/dsa-alp-in-humanities-and-english-language/) to find out how you can join PRSS through our Direct School Admission in ALP.
