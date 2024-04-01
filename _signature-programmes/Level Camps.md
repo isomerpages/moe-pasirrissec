@@ -4,7 +4,7 @@ permalink: /signature-programmes/Level-Camps/
 description: ""
 variant: markdown
 ---
-#### Sec 1 - Camp Oneiric
+#### **Sec 1 - Camp Oneiric**
 
 Transitioning to a secondary school can be both exciting but daunting for all Secondary One students. To welcome the Secondary Ones to the Pasirians' Family, we design enriching and fun activities for them through "Camp Oneiric" in the first week of school.
 
@@ -13,7 +13,6 @@ In Camp Oneiric, we are sure that the Secondary Ones will enjoy and have a memor
 Camp Oneiric offers plenty of opportunities for our students to step beyond their comfort zones and become independent and confident learners. Some of the highlights from this camp include making the dream catcher, Kin Ball, Amazing Race, Aesthetic Induction program, and music-making sessions. These activities will establish stronger bonds between classmates and their teachers.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6JWcEEq0c4Y?si=fI9HP_J0LoySNbNO" height="315" width="560"></iframe>
-
 
 #### Sec 2 - Camp Spark
 
@@ -25,7 +24,8 @@ The metaphor of “Campfire” symbolizes the progression whereby Pasirians have
 
 Through the camp, students will develop a positive mindset as they learn to overcome challenges they face along the way. Through the authentic and experiential learning in this camp, they will forge friendships, deepen their sense of belonging, and pride towards the school. Highlights of this year’s camp include virtual reality, urban farming, outdoor cooking, laser tag and class-based campfires!
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/AEGEg6JSCx8?si=AXtLN_Q04nBQbshh" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/AEGEg6JSCx8?si=AXtLN_Q04nBQbshh" height="315" width="560" class="center-block"></iframe>
+
 
 #### Sec 3 - Camp Metamorphosis
 
