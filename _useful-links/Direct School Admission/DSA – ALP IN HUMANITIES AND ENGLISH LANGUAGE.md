@@ -2,7 +2,7 @@
 title: DSA – ALP IN HUMANITIES AND ENGLISH LANGUAGE
 permalink: /useful-links/direct-school-admission-dsa/dsa-alp-in-humanities-and-english-language/
 description: ""
-third_nav_title: Direct School Admission (DSA)
+third_nav_title: Direct School Admission
 variant: markdown
 ---
 #### **EYE ON THE WORLD: STORIES THROUGH JOURNALISM**  

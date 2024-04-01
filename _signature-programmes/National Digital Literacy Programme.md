@@ -1,6 +1,6 @@
 ---
-title: National Digital Literacy Programme (NDLP)
-permalink: /signature-programmes/National-Digital-Literacy-Programme-NDLP/
+title: National Digital Literacy Programme
+permalink: /signature-programmes/national-digital-literacy-programme/
 description: ""
 variant: tiptap
 ---

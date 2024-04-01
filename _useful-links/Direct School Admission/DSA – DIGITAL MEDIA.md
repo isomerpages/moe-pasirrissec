@@ -2,7 +2,7 @@
 title: DSA – DIGITAL MEDIA
 permalink: /useful-links/direct-school-admission-dsa/dsa-digital-media/
 description: ""
-third_nav_title: Direct School Admission (DSA)
+third_nav_title: Direct School Admission
 variant: markdown
 ---
 At Pasir Ris Secondary School, we have a whole range of programmes and CCAs that cater to your interest in digital media. Through our school’s Experiencing Coding Programme and Makers Programme, you will be given the space and opportunities for creativity and innovation to address authentic and real-world challenges that we face in our daily lives, through coding, mobile app writing, robotics, maker workshops, and activities. In addition, the school’s Tinkers Club CCA will also be actively engaging you in coding and makers related competitions and events within and beyond the school.

@@ -2,7 +2,8 @@
 title: DSA – LLP IN MUSIC AND PERFORMING ARTS
 permalink: /useful-links/direct-school-admission-dsa/dsa-llp-in-music-and-performing-arts/
 description: ""
-third_nav_title: Direct School Admission (DSA)
+third_nav_title: Direct School Admission
+variant: tiptap
 ---
 PRSS extends our warmest invitation to all Primary 6 students to apply for direct admission to our Secondary One via the Direct School Admission (DSA – Sec) Exercise. 
 

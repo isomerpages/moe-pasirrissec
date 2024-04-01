@@ -2,7 +2,7 @@
 title: Direct School Admission (DSA)
 permalink: /useful-links/direct-school-admission-dsa/direct-school-admission-dsa/
 description: ""
-third_nav_title: Direct School Admission (DSA)
+third_nav_title: Direct School Admission
 ---
 Pasir Ris Secondary School (PRSS) is in an exciting stage of growth. We would like to extend our warmest invitation to all Primary 6 students to apply for direct admission to our Secondary One in 2024 via the DSA-Sec Direct School Admission Exercise. Here are the 4 categories of DSA Talent Areas students can apply to:
 

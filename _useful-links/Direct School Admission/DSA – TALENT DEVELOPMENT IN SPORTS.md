@@ -2,7 +2,7 @@
 title: DSA – TALENT DEVELOPMENT IN SPORTS
 permalink: /useful-links/direct-school-admission-dsa/dsa-talent-development-in-sports/
 description: ""
-third_nav_title: Direct School Admission (DSA)
+third_nav_title: Direct School Admission
 variant: markdown
 ---
 Did you know that Pasir Ris Secondary has a number of outstanding alumni in sports? Yasir Hanapi, a SEA Games Bronze Medallist in 2007 and 2009, and Ethel Kang, a SEA Games Bronze Medallist for Indoor Volleyball in 2015, are two alumni who have gone on to excel in their sporting journey and career. Leveraging the pervasiveness of these two sports in the school’s tradition, we are recruiting exceptional talents to join our Football and Volleyball teams.
