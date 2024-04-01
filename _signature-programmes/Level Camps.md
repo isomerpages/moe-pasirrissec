@@ -14,7 +14,7 @@ Camp Oneiric offers plenty of opportunities for our students to step beyond thei
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6JWcEEq0c4Y?si=fI9HP_J0LoySNbNO" height="315" width="560"></iframe>
 
-#### Sec 2 - Camp Spark
+#### **Sec 2 - Camp Spark**
 
 At Camp Spark, students will discover their interests and strengths and develop their socio-emotional competencies through venturing out of their comfort zone and working with others.
 
@@ -51,9 +51,8 @@ At the start of the camp, students define what success means to them and how the
 <div style="text-align:center">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/sqIaw-vygTY?si=U8Qrn8UQcBXPTHhw" height="315" width="560"></iframe>
 </div>
-<center>
+
 ![](/images/Sec%204%20LC.png)
-</center>
 
 Through these activities, we hope that they will help them to
 
