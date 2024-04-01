@@ -18,7 +18,7 @@ In PRSS, the infusion of the S.T.E.A.M. curriculum in our daily lessons helps ra
 *<center>Building bridges, fostering friendships</center>*
 
 ![](/images/Steam%203.png)
-*<center>One of the winning bridges from 2E5 2022. Their bridge was able to withstand a fixed mass without breaking.</center>*
+*<center>One of the winning bridges from 2E5. Their bridge was able to withstand a fixed mass without breaking.</center>*
 
 ![](/images/Steam%204.png)
 *<center>Students made use of the concepts from the elements of arts, principles of chromatography, and layout &amp; composition to express their learnings.</center>*
