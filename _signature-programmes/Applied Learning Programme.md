@@ -41,10 +41,11 @@ Transform physical spaces into themed corners to cultivate students’ interest 
 
 <img height="auto" width="600" max="" src="/images/Photos%20for%20ALP.jpeg">
 
-Top left: Our Sec 2 students undergoing the Photojournalism Workshop
-<br>Bottom left: Our Sec 2 students undergoing a film making workshop .conducted by industry professionals.
-<br>Top right: Our students sharing about the PRSS Waves Radio show to guests during the 35th Anniversary celebrations.
-<br>Bottom right: Our #Ruminate gallery where students can learn more about contemporary issues and news that affect our community. 
+*Top left: Our Sec 2 students undergoing the Photojournalism Workshop*
+<br>*Bottom left: Our Sec 2 students undergoing a film making workshop .conducted by industry professionals.*
+<br>*Top right: Our students sharing about the PRSS Waves Radio show to guests during the 35th Anniversary celebrations*.
+<br>*Bottom right: Our #Ruminate gallery where students can learn more about contemporary issues and news that affect our community.* 
+
 <div style="text-align:center">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GFybHyxVc8g?si=TrtdgRkdO9lTi1Ck" height="315" width="560"></iframe></div>
 
