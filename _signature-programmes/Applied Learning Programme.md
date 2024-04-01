@@ -47,10 +47,10 @@ Top left: Our Sec 2 students undergoing the Photojournalism Workshop
 <br>Bottom right: Our #Ruminate gallery where students can learn more about contemporary issues and news that affect our community. 
 <div style="text-align:center">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GFybHyxVc8g?si=TrtdgRkdO9lTi1Ck" height="315" width="560"></iframe></div>
-<br>
+
 <div style="text-align:center">
 <iframe allowfullscreen="true" height="369" width="560" frameborder="0" src="https://docs.google.com/presentation/d/1u2bqYOlYKGSmtsRYOwCuHjLjR_YirObR0Xidi6O1y4g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 <br>
 </div>
 
-Click [here](/useful-links/direct-school-admission-dsa/dsa-alp-in-humanities-and-english-language/) to find out how you can join PRSS through our Direct School Admission in ALP.
+Click [here](/useful-links/direct-school-admission-dsa/dsa-alp-in-humanities-and-english-language/) to find out how you can join Pasir Ris Secondary School through our Direct School Admission in ALP.
