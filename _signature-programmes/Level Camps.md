@@ -23,9 +23,9 @@ The theme of Camp Spark and its tagline “Zest For Life” is specially concept
 The metaphor of “Campfire” symbolizes the progression whereby Pasirians have gained their footing after Secondary One, internalised the PRIZE values and way of life, and will now begin their preparation to cultivate passion to chase their dreams.
 
 Through the camp, students will develop a positive mindset as they learn to overcome challenges they face along the way. Through the authentic and experiential learning in this camp, they will forge friendships, deepen their sense of belonging, and pride towards the school. Highlights of this year’s camp include virtual reality, urban farming, outdoor cooking, laser tag and class-based campfires!
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/AEGEg6JSCx8?si=AXtLN_Q04nBQbshh" height="315" width="560" class="center-block"></iframe>
-
+<div style="text-align:center">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/AEGEg6JSCx8?si=AXtLN_Q04nBQbshh" height="315" width="560"></iframe>
+</div>
 
 #### Sec 3 - Camp Metamorphosis
 
