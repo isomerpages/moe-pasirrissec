@@ -8,7 +8,7 @@ variant: markdown
 
 “Our children must be equipped with&nbsp;**diverse skill sets that open doors** for them in the modern economy.&nbsp;In a world driven by new technologies and science, we will need to strengthen STEM learning in our schools,” explains Education Minister Chan Chun Sing.
 
-![](/images/Steam.png)
+![](/images/STEAM_Carnival_one_slide_summary_for_CEG.gif)
 
 To help students keep up with the Information Age, it is necessary to expose them to S.T.E.A.M. – which stands for&nbsp;**S**cience, **T**echnology, **E**ngineering, **A**rts and **M**athematics. One of the main advantages of S.T.E.A.M. education is the introduction of soft skills such as creativity, collaboration, and communication. The inclusion of ‘Arts’ in the STEM curriculum offers a holistic interdisciplinary approach that encourages students to think more critically and creatively about the world around them.
 
