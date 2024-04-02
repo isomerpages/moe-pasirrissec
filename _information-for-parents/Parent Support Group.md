@@ -16,8 +16,8 @@ This famous quote was often shared by members of our Parent Support Group Exco. 
 | VICE CHAIRPERSON | Mr Soh Yew Hin | 
 | SECRETARY | Ms Sherene Tan |
 | EXCO MEMBER | Ms Joanne Poh | 
-|  | Mdm Grace Tan | &nbsp; 
-|  | Mrs Wendy Soh | &nbsp; 
+|  | Mdm Grace Tan |
+|  | Mrs Wendy Soh |
 
 | **2024** |  | 
 | -------- | -------- |
