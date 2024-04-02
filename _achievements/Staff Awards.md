@@ -10,38 +10,40 @@ variant: markdown
 ## 2021
 ![](/images/2021staff.png)
 
-## 2020
-
-![](/images/2020staff.png)
-
-## 2019
-
-![](/images/2019staff.png)
-
-## 2018
-
-![](/images/2018staff.png)
-
-
 <ul class="jekyllcodex_accordion">
-	
+
 <li><input type="checkbox" id="accordion1">  
-<label for="accordion1">2017</label><div>  
-	<h3>2017</h3><br>
-	<img src="/images/2017staff.png">
+<label for="accordion1">2020</label><div>  
+	<h3>2020</h3><br>
+	<img src="/images/2020staff.png">
 	</div></li>
 
 <li><input type="checkbox" id="accordion2">  
-<label for="accordion2">2016</label><div>  
+<label for="accordion2">2019</label><div>  
+	<h3>2019</h3><br>
+	<img src="/images/2019staff.png">
+	</div></li>
+
+<li><input type="checkbox" id="accordion3">  
+<label for="accordion3">2018</label><div>  
+	<h3>2018</h3><br>
+	<img src="/images/2018staff.png">
+	</div></li><input type="checkbox" id="accordion4">  
+<label for="accordion4">2017</label><div>  
+	<h3>2017</h3><br>
+	<img src="/images/2017staff.png">
+	</div>
+
+<li><input type="checkbox" id="accordion5">  
+<label for="accordion5">2016</label><div>  
 	<h3>2016</h3>
 <img src="/images/2016staff.png">
-
 </div></li>
 
-<li><input type="checkbox" id="accordion2">  
-<label for="accordion2">2015</label><div>  
-	<h3>2015</h3>
-<p>
+<li><input type="checkbox" id="accordion6">  
+<label for="accordion6">2015</label><div>  
+<h3>2015</h3>
+
 <b>Associate of Academy of Singapore Teachers Award 2015</b>
 
 Mdm Mariamah and Ms Leong Su Juen
@@ -53,7 +55,7 @@ Mr Mohd Amin Kadir
 <b>Overall Best Trainee (NCDCC)</b>
 
 Mr Hosea Lee
-</p>
+<p></p>
 
 <p>The award was presented at the 2nd Uniformed Groups Teacher Officer Course Combined Graduation Ceremony held on 13 Nov 2015 at the Home Team Academy for 195 teachers from 104 secondary schools. The ceremony was graced by Associate Professor Muhammad Faishal Ibrahim, Parliamentary Secretary for Ministry of Education and Ministry of Social and Family Development.</p>
 
