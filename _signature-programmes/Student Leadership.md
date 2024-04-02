@@ -5,9 +5,8 @@ description: ""
 variant: markdown
 ---
 #### **Student Leadership Development Programme**  
-<br>
 
-&gt; A Leader is one who knows the way, goes the way and shows the way.  -John C Maxwell 
+##### A Leader is one who knows the way, goes the way and shows the way.  - John C Maxwell 
 
 The school's Student Leadership Development Programme, also known as the **Pegasus Programme**, is undergirded by our belief that **Every Pasirian can be a Confident, Caring and Resilient Leader**. 
 
