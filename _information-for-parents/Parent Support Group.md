@@ -4,10 +4,9 @@ permalink: /useful-links/Information-for-Parents/Parent-Support-Group/
 description: ""
 variant: markdown
 ---
-&gt; Coming together is a beginning. Keeping together is progress. Working together is success. Henry Ford
+##### Coming together is a beginning. Keeping together is progress. Working together is success. - Henry Ford
 
 This famous quote was often shared by members of our Parent Support Group Exco. It goes well with our Partnership Framework of fostering synergistic partnership for win-win outcomes.
-
 
 #### **PARENT SUPPORT GROUP EXCO**
 
@@ -24,10 +23,15 @@ This famous quote was often shared by members of our Parent Support Group Exco. 
 | -------- | -------- |
 | CHAIRPERSON  | Mdm Sherene Tan  | 
 | VICE CHAIRPERSON | Mr Soh Yew Hin | 
-| EXCO MEMBER | Ms Joanne Poh | 
-|  | Mdm Grace Tan | 
-|  | Mrs Wendy Soh | 
+| SECRETARY | Mdm Isnimah |
+| EXCO MEMBER | Mrs Wendy Soh | 
+|  | Mdm Noor Yusainizah Ely | 
+|  | Mdm Rossita Raihan | 
+|  | Mdm Azilah | 
+|  | Ms Catherine Tan | 
 
+
+Exco Member : Ms Lee Ee Ling Exco Member : Ms Nelly Winata Exco Member : Mrs Petra Tan Exco Member : Mdm Khadijah Karim
 Please click the [Registration Form](https://forms.gle/TYmVaAcWKN3BqHzQ6) PSG in 2024 or scan the QR code.
 
 ![PSG Form Link](/images/ECG_2024_1.png)
