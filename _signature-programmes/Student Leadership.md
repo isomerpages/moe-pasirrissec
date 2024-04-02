@@ -41,7 +41,4 @@ Nominations are made by teachers, peers and aspiring student leaders themselves.
 <center><i>Class Leaders and Peer Support Leaders Appointment Ceremony</i></center>
 
 ![](/images/CCA%20Leaders.jpeg)
-<center><i>CCA Leaders</i></center><i>
-
-
-</i>
+<center><i>CCA Leaders</i></center><i></i>
