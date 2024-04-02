@@ -36,16 +36,22 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 
 ### **Schedule**
 
+##### Combine Practice
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Monday / Thursday | 3.15pm - 6.30pm  | CO Room |
+| Tuesday | 3.15pm - 6.30pm  | CO Room |
+
+##### Sectionals Practice
+| Day | Time | Venue |
+| -------- | -------- | -------- |
+| Thursday  | 3.15pm - 6.30pm | Classrooms  |
 
 ### **Teachers-in-charge**
 
 * Mdm Siti Sarah (OIC) 
 * Ms Ng Mei Ling (2IC)
 * Mdm Ng Ai Hoon 
-* Mdm Yong Wei Syn 
+* Mdm Yeong Wei Syn 
 * Mr Kevin Kok 
 * Ms Fam Hui Yuen
 

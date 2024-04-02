@@ -85,21 +85,14 @@ UNIT OVERALL PROFICENCY AWARD - DISTINCTION (2022)
 
 ![](/images/CCA/NPCC/npcc%2001.jpg)
 
-![](/images/CCA/NPCC/npcc%2002.jfif)
-
-![](/images/CCA/NPCC/npcc%2003.jfif)
-
 ![](/images/UNIT%20PHOTO%202022.jpeg)
-<center>Unit Photo 2022</center>
+<center><i>Unit Photo</i></center><i>
 
 ![](/images/NPCC-%20CSI.png)
 <center>Crime Scene Investigation</center>
 
 ![](/images/NPCC%20-%20Campfire.png)
 <center>Campcraft (Campfire, Flag Staff, Basha Making &amp; Map Reading)</center>
-
-![](/images/Shooting.jpeg)
-<center>Shooting Course</center>
 
 ![](/images/SPF-NPCC%20Award%20Ceremony%202022.jpeg)
 <center>SPF-NPCC Award Ceremony 2022</center>
@@ -111,4 +104,4 @@ UNIT OVERALL PROFICENCY AWARD - DISTINCTION (2022)
 
 ![](/images/NDP%20at%20Platform1.jpeg)
 
-![](/images/NDP%20at%20Platform2.jpeg)
+![](/images/NDP%20at%20Platform2.jpeg)</i>

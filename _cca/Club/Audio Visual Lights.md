@@ -36,7 +36,8 @@ Our School, Our Stories Photo Contest Honourable Mention Award
 * Mdm Jin Beihua
 * Mr Koh Chun Kiat 
  
-### **Photos**
+### **Photos / Videos**
+![](/images/CCA/AVL/Website_Collage_V2.jpg)
 
 ![](/images/CCA/AVL/avl%20collage%20website.JPG)
 
