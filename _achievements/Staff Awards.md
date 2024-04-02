@@ -40,7 +40,6 @@ variant: markdown
 <li><input type="checkbox" id="accordion6">  
 <label for="accordion6">2015</label><div>  
 
-
 | No | Staff | Award|
 | -------- | -------- | -------- |
 | 1     | Mdm Mariamah | Associate of Academy of Singapore Teachers Award 2015 |
