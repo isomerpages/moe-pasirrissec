@@ -29,12 +29,14 @@ This famous quote was often shared by members of our Parent Support Group Exco. 
 |  | Mdm Rossita Raihan | 
 |  | Mdm Azilah | 
 |  | Ms Catherine Tan | 
+|  | Ms Lee Ee Ling | 
+|  | Ms Nelly Winata | 
+|  | Mrs Petra Tan | 
+|  | Mdm Khadijah Karim | 
 
+Please click the [Registration Form](https://forms.gle/TYmVaAcWKN3BqHzQ6) PSG in 2024 or scan the QR code below.
 
-Exco Member : Ms Lee Ee Ling Exco Member : Ms Nelly Winata Exco Member : Mrs Petra Tan Exco Member : Mdm Khadijah Karim
-Please click the [Registration Form](https://forms.gle/TYmVaAcWKN3BqHzQ6) PSG in 2024 or scan the QR code.
-
-![PSG Form Link](/images/ECG_2024_1.png)
+<img height="100" width="100" src="/images/ECG_2024_1.png">
 
 We look forward to your support. Your involvement in school activities will enhance the educational experiences of our students and strengthen parent-child bonding. 
 
@@ -44,15 +46,15 @@ CHAIRPERSON : Mr Wong Yew Kong, Edwin
 VICE CHAIRPERSON : Mr Intekhab
 
 ![](/images/PSG%20EXCO%202019.png)
-
-_PRSS PSG EXCO_&nbsp;
-<br>_L-R&nbsp; : Mrs Jenny Yang, Ms Amy Jiang, Ms Ann Kwan, Ms Sylvia Ng and Ms Joanne Poh_
+<center><i>
+PRSS PSG EXCO<br>
+L-R: Mrs Jenny Yang, Ms Amy Jiang, Ms Ann Kwan, Ms Sylvia Ng and Ms Joanne Poh</i></center>
 
 ![](/images/Information%20for%20parents/PSG/PSG_Recruitment_Drive.jpg)
-<p align="center">PSG Recruitment Drive</p>
+<center><i>PSG Recruitment Drive</i><center>
 
 ![](/images/Information%20for%20parents/PSG/PSG_Get_Together_Session.jpg)
-<p align="center">PSG Get-Together Session</p>
+<center>PSG Get-Together Session</center>
 
 
 ##### **CHINESE NEW YEAR**
@@ -65,7 +67,7 @@ Chinese New Year Celebrations to usher in the Year of the Hog saw the PRSS PSG o
 ##### **INTERNATIONAL FRIENDSHIP DAY**
 When it comes to food tasting and food sampling, we called in the big guns – the mothers from the PSG! Their skills range from food preparation, taking care of the logistics, publicity and ensuring that they reach out to as many staff and students as possible. This year saw Asian ethnic food such as chicken curry, tom yum soup, muah chee, gyoza, kuih talam and kuih salat being dished out. The PSG received very good response from the student population and many came back for second helpings. Thank you PSG for making the International Friendship Day so memorable!
 <p align="center">
-<img src="/images/IFD%20poster.png">
+<img width="300" height="300" src="/images/IFD%20poster.png">
 	<i>The IFD poster designed by our PSG Chairperson, Ms Ann Kwan</i>
 <br>
 <img src="/images/Gyoza.png">
@@ -84,4 +86,4 @@ In the days leading up to the event, PSG members offered good suggestions for th
 
 ![](/images/RH-2.png)<br>
 ![](/images/RH-3.png)<br>
-![](/images/RH-4.png)
+![](/images/RH-4.png)</center></center>
