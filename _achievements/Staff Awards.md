@@ -6,39 +6,39 @@ variant: markdown
 ---
 ## 2022
 ![](/images/Achievements/Staff%20Accolades/2022_staff%20accolades.png)
-
-## 2021
-![](/images/2021staff.png)
-
 <ul class="jekyllcodex_accordion">
-
 <li><input type="checkbox" id="accordion1">  
-<label for="accordion1">2020</label><div>  
+<label for="accordion1">2021</label><div>  
+<img src="/images/2021staff.png">
+</div></li>
+
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2">2020</label><div>  
 	<img src="/images/2020staff.png">
 	</div></li>
 
-<li><input type="checkbox" id="accordion2">  
-<label for="accordion2">2019</label><div>  
+<li><input type="checkbox" id="accordion3">  
+<label for="accordion3">2019</label><div>  
 	<img src="/images/2019staff.png">
 	</div></li>
 
-<li><input type="checkbox" id="accordion3">  
-<label for="accordion3">2018</label><div>  
+<li><input type="checkbox" id="accordion4">  
+<label for="accordion4">2018</label><div>  
 	<img src="/images/2018staff.png">
 	</div></li>
 	
-<li><input type="checkbox" id="accordion4">  
-<label for="accordion4">2017</label><div>  
+<li><input type="checkbox" id="accordion5">  
+<label for="accordion5">2017</label><div>  
 <img src="/images/2017staff.png">
 </div>
 
-</li><li><input type="checkbox" id="accordion5">  
-<label for="accordion5">2016</label><div>  
+</li><li><input type="checkbox" id="accordion6">  
+<label for="accordion6">2016</label><div>  
 <img src="/images/2016staff.png">
 </div></li>
 
-<li><input type="checkbox" id="accordion6">  
-<label for="accordion6">2015</label><div>  
+<li><input type="checkbox" id="accordion7">  
+<label for="accordion7">2015</label><div>  
 
 | No | Staff | Award|
 | -------- | -------- | -------- |
