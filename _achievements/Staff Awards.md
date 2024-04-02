@@ -25,14 +25,14 @@ variant: markdown
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">2018</label><div>  
 	<img src="/images/2018staff.png">
-	</div>
+	</div></li>
 	
-</li><input type="checkbox" id="accordion4">  
+<li><input type="checkbox" id="accordion4">  
 <label for="accordion4">2017</label><div>  
 <img src="/images/2017staff.png">
 </div>
 
-<li><input type="checkbox" id="accordion5">  
+</li><li><input type="checkbox" id="accordion5">  
 <label for="accordion5">2016</label><div>  
 <img src="/images/2016staff.png">
 </div></li>
