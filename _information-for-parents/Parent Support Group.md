@@ -54,8 +54,7 @@ L-R: Mrs Jenny Yang, Ms Amy Jiang, Ms Ann Kwan, Ms Sylvia Ng and Ms Joanne Poh</
 <center><i>PSG Recruitment Drive</i><center>
 
 ![](/images/Information%20for%20parents/PSG/PSG_Get_Together_Session.jpg)
-<center>PSG Get-Together Session</center>
-
+	<center><i>PSG Get-Together Session</i></center>
 
 ##### **CHINESE NEW YEAR**
 Chinese New Year Celebrations to usher in the Year of the Hog saw the PRSS PSG once again contributing items for the hampers. The PSG members had fun catching-up with one another and getting to know the new PSG members.
