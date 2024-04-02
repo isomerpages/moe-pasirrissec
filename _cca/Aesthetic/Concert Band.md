@@ -52,14 +52,15 @@ The Concert Band, led by 2 well-respected conductors, has a dynamic programme to
 * Ms. Pearlyn Chia
 * Ms. Ong Ting Kai
 
-**Band Director:**<br> Mr Md Faizal Othman<br><br>
-**Assistant Band Director:** <br>Mr Steven Phua
+**Conductors:**<br> Mr Md Faizal Othman<br>
+Mr Steven Phua
 
-### **Photos**
+### **Photos / Videos**
 
 <img height="auto" width="700" src="/images/CCA/Concert%20Band/band%2001.JPG"><br>
 <img src="/images/CCA/Concert%20Band/band%2005.jpg"><br>
 <img src="/images/CCA/Concert%20Band/band%2003.jpg"><br>
 <img src="/images/CCA/Concert%20Band/band%2004.jpg"><br>
 <img height="auto" width="800" src="/images/CCA/Concert%20Band/band%2002.JPG"><br>
-<iframe width="500" height="380" src="https://www.youtube.com/embed/Otjb4IvJyBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div style="text-align:center">
+<iframe width="500" height="380" src="https://www.youtube.com/embed/Otjb4IvJyBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
