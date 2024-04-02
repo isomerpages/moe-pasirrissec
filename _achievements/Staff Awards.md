@@ -34,8 +34,8 @@ variant: markdown
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">2016</label><div>  
 	<h3>2016</h3>
+<img src="/images/2016staff.png">
 
-![](/images/2016staff.png)
 </div></li>
 
 <li><input type="checkbox" id="accordion2">  
