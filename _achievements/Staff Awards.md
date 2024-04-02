@@ -54,21 +54,17 @@ variant: markdown
 | 9 | Mdm Mariamah Mohd Yusoff | Outstanding History Teacher Award 2015 |
 | 10 | Mdm Sumrah Bte Chuni | Innergy Award (Silver) 2015 |
 | 11 | Mr Koh Bing Qin | Innergy Award (Silver) 2015 |
- 
-<b>Inspiring Teacher of English Award</b>
+
+<b>Inspiring Teacher of English Award</b><br>
 <p>
 Congratulations to Mr Mong Kok Thong, our HOD ICT for receiving the Inspiring Teacher of English Award! The certificate and trophy was presented to the 9 recipients and their Principals by Senior Minister of State Indranee Rajah at a ceremony in National Museum. Thank you Mr Mong for being a great English teacher!
-</p>
-![](/images/mr%20mong.jpg)
-
-<b>OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2014 WINNERS</b>
+</p><br>
+<img src="/images/mr%20mong.jpg">
+<br>
+<b>OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2014 WINNERS</b><br>
 <p>
-Mohamed Ashiq Bin Mohamed Elias inspires and motivates his students to develop a strong value system and a deep sense of moral courage. To help his students learn, Ashiq uses a range of innovative pedagogies in the classroom. For example, he performs magic tricks to pique their interest in Physics, and uses the iPod in the teaching of science practicals.
-
-As a Discipline Master, Ashiq plays a key role in leading the discipline committee to create a positive learning environment for the students. He holds his students to high standards of discipline as he believes that self-discipline is one of the keys to any accomplishment in life. While being firm and strict, he generously gives his time and attention to his students, and has made a positive impact on their lives. He finds deep satisfaction in seeing his students change for the better and scale greater heights.
-
-Ashiq believes that teachers need to be learners as well, and is an advocate of professional development. He seeks out developmental opportunities for himself and is also actively involved in the professional growth of his colleagues. As the Level Science Coordinator, Ashiq encourages his fellow teachers to share good teaching strategies and practices, and this has improved the quality of teaching and learning for the teachers.
-	
-For his drive and commitment in bringing out the best in his students and his peers, Mohamed Ashiq Bin Mohamed Elias is one of the winners of the Outstanding Youth in Education Award 2014.
-	</p>
+Mohamed Ashiq Bin Mohamed Elias inspires and motivates his students to develop a strong value system and a deep sense of moral courage. To help his students learn, Ashiq uses a range of innovative pedagogies in the classroom. For example, he performs magic tricks to pique their interest in Physics, and uses the iPod in the teaching of science practicals.</p><br>
+<p>As a Discipline Master, Ashiq plays a key role in leading the discipline committee to create a positive learning environment for the students. He holds his students to high standards of discipline as he believes that self-discipline is one of the keys to any accomplishment in life. While being firm and strict, he generously gives his time and attention to his students, and has made a positive impact on their lives. He finds deep satisfaction in seeing his students change for the better and scale greater heights.</p><br>
+<p>Ashiq believes that teachers need to be learners as well, and is an advocate of professional development. He seeks out developmental opportunities for himself and is also actively involved in the professional growth of his colleagues. As the Level Science Coordinator, Ashiq encourages his fellow teachers to share good teaching strategies and practices, and this has improved the quality of teaching and learning for the teachers.</p><br>
+<p>For his drive and commitment in bringing out the best in his students and his peers, Mohamed Ashiq Bin Mohamed Elias is one of the winners of the Outstanding Youth in Education Award 2014. </p><br>
 </div></li></ul>
