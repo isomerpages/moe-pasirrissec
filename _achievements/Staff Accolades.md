@@ -37,7 +37,7 @@ Ms Siti Radilah Binte Ahmad Sidek<br>Mdm Wong Jie Lin<br>Ms Wong Yun Yi<br>Mdm Z
 
 <table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mdm Lee Beng Choo<br>Mr Victor So Kwee Soon</td><td>National Day Awards <br><br>The Commendation Medal</td></tr><tr>
 <td>2</td><td>Mdm Hairunisa Binte Hosnin<br>Mr Leong Whye Meng Kelvin<br>Mr Albert Neo Chin Lee</td><td>National Day Awards<br><br>Long Service Medal</td></tr>  
-	<tr><td>3</td><td>Ms Hannah Lum Wan Ling (Innovator SgLDC/SLS CG)<br>Ms Lee Wei Wei (Innovator SgLDC/SLS CG)<br>Ms Mavis Ho Min Yu (Innovator SgLDC/SLS CG)<br>Mr Mohd Amin Bin Kadir (Innovator)</td><td>AST Academy Awards for PD (Associate)</td></tr>
+	<tr><td>3</td><td>Ms Hannah Lum Wan Ling (Innovator; SgLDC/SLS CG)<br>Ms Lee Wei Wei (Innovator; SgLDC/SLS CG)<br>Ms Mavis Ho Min Yu (Innovator; SgLDC/SLS CG)<br>Mr Mohd Amin Bin Kadir (Innovator)</td><td>AST Academy Awards for PD (Associate)</td></tr>
 	<tr><td>4</td><td>Mr Muhammad Omarali bin Zulkiflee<br>Ms Kimberlyn Lee<br>Ms Shayne Ong Chi Ying<br>Mr Abdul Halim bin Mohamed Udori<br>Mr Wilfred Teo Yu Wen<br>Mr Cheng Song Fong<br>Ms Nadirah binte Jamallodin<br>Ms Salsabila binte Ishak</td><td>Teachers' Day Awards<br><br>Caring Teacher Award</td></tr>  
 	<tr><td>5</td><td>Mdm Siti Mariam binte Hashim<br>Mr Chang Hock Boon<br>Mr Ng Boon Tiong<br>Ms Ang Shi Ting Cecilia<br>Mr So Kwee Soon</td><td>NIE Caring Teacher Award</td></tr>  
 	<tr><td>6</td><td>5 Gold &amp; <br>17 Silver</td><td>MOE Service Excellence Award
