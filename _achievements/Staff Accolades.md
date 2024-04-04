@@ -81,13 +81,13 @@ Ms Siti Radilah Binte Ahmad Sidek<br>Mdm Wong Jie Lin<br>Ms Wong Yun Yi<br>Mdm Z
 <li><input type="checkbox" id="accordion6">  
 <label for="accordion6">2015</label><div>  
 	<br>
-6767<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mdm Mariamah<br>Ms Leong Su Juen</td><td>Associate of Academy Teachers Award</td></tr>
+676767<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mdm Mariamah<br>Ms Leong Su Juen</td><td>Associate of Academy Teachers Award</td></tr>
 	<tr><td>2</td><td>Mr Mohd Amin Kadir</td><td>Singapore Police Force Service Medal</td></tr>
 		<tr><td>3</td><td>Mr Hosea Lee</td><td>Overall Best Trainee (NCDCC)</td></tr>
 			<tr><td>4</td><td>Mrs Hilda Thong</td><td>National Day Honours 2015<br>The National Day Public Administration Medal (Bronze)</td></tr>
 	<tr><td>5</td><td>Mdm Sarifah Tamsir<br>Miss Cindy Soh Sock Kheng<br>Mdm Wong Yoke Ung<br></td><td>Long Service Medals</td></tr>
-		<tr><td></td><td>Mdm Mariamah Mohd Yusoff</td><td>Outstanding History Teacher Award</td></tr>
-			<tr><td></td><td>Mdm Sumrah Bte Chuni<br>Mr Koh Bing Qin</td><td>Innergy Award (Silver) 2015 </td></tr>
+	<tr><td></td><td>Mdm Mariamah Mohd Yusoff</td><td>Outstanding History Teacher Award</td></tr>
+	<tr><td></td><td>Mdm Sumrah Bte Chuni<br>Mr Koh Bing Qin</td><td>Innergy Award (Silver) 2015 </td></tr>
 </tbody></table>
 <br><b>Inspiring Teacher of English Award</b><br>
 <p>
