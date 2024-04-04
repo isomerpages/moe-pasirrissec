@@ -9,4 +9,4 @@ The Co-Curriculum is an integral part of the Pasirian Experience. Pasir Ris Seco
 
 The wide range of [Co-Curricular Activities (CCA)](/cca/co-curricular-activities/), consisting of 17 different clubs from 4 different CCA groups such as Performing Arts Groups, Sports Groups, Uniformed Groups and Clubs and Society ensures that we can cater to students' varied interests and strengths. 
 
-**Character and Citizenship Education (CCE)**, on the other hand, is conducted across multiple platforms, focusing on key areas such as Cyber Wellness (CW), Education and Career Guidance (ECG), National Education (NE) and Values-In-Action (VIA).
+[Character and Citizenship Education (CCE)](/holistic-education/the-co-curriculum/character-and-citizenship-education), on the other hand, is conducted across multiple platforms, focusing on key areas such as Cyber Wellness (CW), Education and Career Guidance (ECG), National Education (NE) and Values-In-Action (VIA).
