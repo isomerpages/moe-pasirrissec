@@ -35,7 +35,14 @@ Ms Siti Radilah Binte Ahmad Sidek<br>Mdm Wong Jie Lin<br>Ms Wong Yun Yi<br>Mdm Z
 </tbody></table>
 
 ### 2022
+
+<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mr Mohd Amin Bin Kadir</td><td>National Day Awards <br><br>The Commendation Medal</td></tr><tr><td>2</td><td>Mdm Tan Kwee Choo</td><td>National Day Awards<br><br>The Efficiency Medal</td></tr>  
+	<tr><td>3</td><td>Mdm Loy Lin Li Lynn<br>Mr Ng Tze Keen Daniel<br>Mr Abdul Halim Bin Udori<br>Ms Jiang Wei Yeow Jaslin</td><td>National Day Awards<br><br>The Long Service Medal</td></tr>  
+</tbody></table>
+
 ![](/images/Achievements/Staff%20Accolades/2022_staff%20accolades.png)
+
+
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1">2021</label><div>  
