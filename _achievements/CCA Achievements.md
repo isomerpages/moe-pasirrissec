@@ -436,28 +436,38 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<h3><strong>2019</strong></h3>
+
+<ul class="jekyllcodex_accordion">
+
+<li><input type="checkbox" id="accordion1">  
+<label for="accordion1">2019</label>  
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca2019.png">
-</div>
-<h3><strong>2018</strong></h3>
+</div></li>
+
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2">2018</label>  
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca2018.png">
-</div>
-<h3>** 2017**</h3>
+</div></li>
+
+<li><input type="checkbox" id="accordion3">  
+<label for="accordion3">2017</label>  
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca2017.png">
-</div>
-<h3><strong>2016</strong></h3>
+</div></li>
+	
+<li><input type="checkbox" id="accordion4">  
+<label for="accordion4">2016</label>  
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca2016.png">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca20162.png">
-</div>
-<h3><strong>2015</strong></h3>
+</div></div></li>
+
+<li><input type="checkbox" id="accordion5">  
+<label for="accordion5">2015</label>  
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca2015.png">
-</div>
-<p></p>
+
+</div></li></ul>
