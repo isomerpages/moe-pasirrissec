@@ -26,8 +26,7 @@ Mr Mohd Amin Bin Kadir<br>Mdm Salmia Binte Anuar<br>Mr Sanusi B Idris<br>Mdm Sar
 Mdm Anmilia Bte Anwar Datt<br>Mr Lokhman Haris Bin Abdul Karem<br>Ms Ng Mei Ling<br>Mdm Rubi'ah Binte Massuan<br>Mdm Sharifah Maimunah Bte Syed Mansoor<br>
 Ms Siti Radilah Binte Ahmad Sidek<br>Mdm Wong Jie Lin<br>Ms Wong Yun Yi<br>Mdm Zulaiha Bte Osman
 		</td><td>MOE Service Excellence Awards</td></tr>
-	<tr><td>11</td><td><u>Silver Award - Reimagine Test Tube Washing in Science Labs</u><br><br>(Ms Chua Wei Tian, Mr Mohamed Ali Bin Yunos, Mdm Tan Kwee Choo, Ms Khairunnisa Binte Rahmat)<br>
-
+	<tr><td>11</td><td><u>Silver Award - Reimagine Test Tube Washing in Science Labs</u><br><br>(Ms Chua Wei Tian, Mr Mohamed Ali Bin Yunos, Mdm Tan Kwee Choo, Ms Khairunnisa Binte Rahmat)<br><br>
 <u>Silver Award - Customized motorized trolley</u>
 <br><br>
 (Mr Mohd Amin Bin Kadir, Mr Sanusi B Idris, Mdm Salmia Bte Anuar, Ms Dian Mayasari Binte Mohamed Tahir, Mr Seah Kok Thuan)
@@ -36,8 +35,9 @@ Ms Siti Radilah Binte Ahmad Sidek<br>Mdm Wong Jie Lin<br>Ms Wong Yun Yi<br>Mdm Z
 
 ### 2022
 
-<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mr Mohd Amin Bin Kadir</td><td>National Day Awards <br><br>The Commendation Medal</td></tr><tr><td>2</td><td>Mdm Tan Kwee Choo</td><td>National Day Awards<br><br>The Efficiency Medal</td></tr>  
-	<tr><td>3</td><td>Mdm Loy Lin Li Lynn<br>Mr Ng Tze Keen Daniel<br>Mr Abdul Halim Bin Udori<br>Ms Jiang Wei Yeow Jaslin</td><td>National Day Awards<br><br>The Long Service Medal</td></tr>  
+<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mdm Lee Beng Choo<br>Mr Victor So Kwee Soon</td><td>National Day Awards <br><br>The Commendation Medal</td></tr><tr>
+<td>2</td><td>Mdm Hairunisa Binte Hosnin<br>Mr Leong Whye Meng Kelvin<br>Mr Albert Neo Chin Lee</td><td>National Day Awards<br><br>Long Service Medal</td></tr>  
+	<tr><td>3</td><td>Ms Hannah Lum Wan Ling (Innovator SgLDC/SLS CG)<br>Ms Lee Wei Wei (Innovator SgLDC/SLS CG)<br>Ms Mavis Ho Min Yu (Innovator SgLDC/SLS CG)<br>Mr Mohd Amin Bin Kadir (Innovator)</td><td>AST Academy Awards for PD (Associate)l</td></tr>  
 </tbody></table>
 
 ![](/images/Achievements/Staff%20Accolades/2022_staff%20accolades.png)
