@@ -6,8 +6,7 @@ variant: markdown
 ---
 ### 2023
  
-<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Co-Curriculur Activity/Student</th><th>Programme/Competition/Award</th></tr><tr><td>1</td><td>Aesthetics CCA Groups</td><td>Singapore Youth Art Presentation Festival<br><br>Concert Band - Certificate of Distinction<br>Chinese Orchestra - Certificate of Distinction<br>Choir - Certificate of Distinction<br>English Drama- Certificate of Distinction<br>Modern Dance - Certificate of Accomplishment</td></tr>
-	<tr><td>2</td><td>NPCC</td><td>SPF-NPCC Badge Award<br><br>SI (NPCC)- Su Jing Ning Janelle<br>SSGT (NPCC) - Aw En Zi Charlotte<br>SGT (NPCC) - Rebekah Wee Yong Yi</td></tr> </tbody></table>
+<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Co-Curriculur Activity/Student</th><th>Programme/Competition/Award</th></tr><tr><td>1</td><td>Aesthetics CCA Groups</td><td>Singapore Youth Art Presentation Festival<br><br>Concert Band - Certificate of Distinction<br>Chinese Orchestra - Certificate of Distinction<br>Choir - Certificate of Distinction<br>English Drama- Certificate of Distinction<br>Modern Dance - Certificate of Accomplishment</td></tr><tr><td>2</td><td>NPCC</td><td>SPF-NPCC Badge Award<br><br>SI (NPCC)- Su Jing Ning Janelle<br>SSGT (NPCC) - Aw En Zi Charlotte<br>SGT (NPCC) - Rebekah Wee Yong Yi</td></tr> </tbody></table>
 
 ### 2022
 
@@ -18,113 +17,18 @@ variant: markdown
 ### 2021
 
 <table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Co-Curriculur Activity/Student</th><th>Programme/Competition/Award</th></tr>
-  <tr><td>1</td><td>NCC</td><td>NCC Outstanding Cadet Award<br><li>Elijah Lau Jia Jin (4E6)</li><li>Anston Sieow Wei Cong (4A2)</li></td></tr>
- <tr><td>2</td><td>NCDCC</td><td>SPF-NCDCC Award<br><li>Leong Wee Kwok Ray (4E6)</li><li>Ng Jun Jie, Raymus (4E6)</li></td></tr>
+	<tr><td>1</td><td>NCC</td><td>NCC Outstanding Cadet Award<br><br>- Elijah Lau Jia Jin (4E6)<br>- Anston Sieow Wei Cong (4A2)</td></tr>
+	<tr><td>2</td><td>NCDCC</td><td>SPF-NCDCC Award<br><br>- Leong Wee Kwok Ray (4E6)<br>- Ng Jun Jie, Raymus (4E6)</td></tr>
+	<tr><td>3</td><td>NPCC</td><td>SPF-NPCC Badge Award<br><br>- Adiba Jamshed Puyyakara (4E6)*<br>- Lee Jia Jing (4E4)<br>-Nur Hidayah Binte Johar (4E3)<br><br><i>*selected to be valedictorian for SPF-NPCC Award Ceremony</i></td></tr>
+	<tr><td>5</td><td>Malay Dance</td><td>Accomplishment</td></tr>
+	<tr><td>6</td><td>Concert Band</td><td>Distinction</td></tr>
+	<tr><td>7</td><td>Chinese Orchestra</td><td>Accomplishment</td></tr>
+	<tr><td>8</td><td>English Drama</td><td>Distinction</td></tr>
+</tbody></table>
+
+### 2020
 
 
-
-<tr><td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NCDCC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>SPF-NCDCC Award</em></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Leong Wee Kwok Ray (4E6)</p>
-</li>
-<li>
-<p>Ng Jun Jie, Raymus (4E6)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NPCC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>SPF-NPCC Badge Award</em></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Adiba Jamshed Puyyakara (4E6)*</p>
-</li>
-<li>
-<p>Lee Jia Jing (4E4)</p>
-</li>
-<li>
-<p>Nur Hidayah Binte Johar (4E3)</p>
-<p></p>
-<p><strong>*selected to be valedictorian for SPF-NPCC Award Ceremony</strong>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Malay Dance</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>ACCOMPLISHMENT</em></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Concert Band</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>DISTINCTION</em></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Chinese Orchestra</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>ACCOMPLISHMENT</em></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>English Drama</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>DISTINCTION</em></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3><strong>2020</strong></h3>
 <table>
 <tbody>
 <tr>
