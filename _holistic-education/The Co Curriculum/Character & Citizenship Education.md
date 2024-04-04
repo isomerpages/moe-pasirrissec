@@ -1,6 +1,6 @@
 ---
 title: Character & Citizenship Education
-permalink: /holistic-education/The-Co-Curriculum/Character-and-Citizenship-Education/
+permalink: /holistic-education/the-co-curriculum/character-and-citizenship-education/
 description: ""
 third_nav_title: The Co Curriculum
 variant: markdown

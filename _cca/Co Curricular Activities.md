@@ -1,6 +1,6 @@
 ---
 title: Co Curricular Activities
-permalink: /cca/Co-Curricular-Activities/
+permalink: /cca/co-curricular-activities/
 description: ""
 variant: markdown
 ---
