@@ -6,9 +6,12 @@ variant: markdown
 ---
 ### 2023
  
-<table><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mr Mohd Amin Bin Kadir</td><td>National Day Awards <br><br>The Commendation Medal</td></tr><tr><td>2</td><td>Mdm Tan Kwee Choo</td><td>National Day Awards<br><br>The Efficiency Medal</td></tr>  
+<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mr Mohd Amin Bin Kadir</td><td>National Day Awards <br><br>The Commendation Medal</td></tr><tr><td>2</td><td>Mdm Tan Kwee Choo</td><td>National Day Awards<br><br>The Efficiency Medal</td></tr>  
 	<tr><td>3</td><td>Mdm Loy Lin Li Lynn<br>Mr Ng Tze Keen Daniel<br>Mr Abdul Halim Bin Udori<br>Ms Jiang Wei Yeow Jaslin</td><td>National Day Awards<br><br>The Long Service Medal</td></tr>  
 	<tr><td>4</td><td>Mohd Amin Bin Kadir<br>Mdm Hazwani Binte Abdul Wahid
+</td><td>National Day Awards<br><br>COVID-19 Resilience Medal</td></tr>  
+	<tr><td>5</td><td>Ms Shayne Ong Chi Ying<br>Mr Muhammad Omarali Bin Zulkiflee<br>Mr Chiang Shu Lee<br>
+Mdm Shahilla d/o K Balakrishnan<br>Mr Wilfred Teo Yu Wen
 </td><td>National Day Awards<br><br>The Efficiency Medal</td></tr>  
 </tbody></table>
 
