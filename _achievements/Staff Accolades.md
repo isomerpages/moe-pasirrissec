@@ -46,8 +46,10 @@ Ms Siti Radilah Binte Ahmad Sidek<br>Mdm Wong Jie Lin<br>Ms Wong Yun Yi<br>Mdm Z
 
 ### 2021
 
-<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mr Muhammad Omarali Bin Zulkiflee<br>Mr Ng Boon Tiong<br>Mdm Ng Ai Hoon<br>Mdm Nur Nadiah bte Adanan<br>Mr Matthew Ng Kai Wen<br>Ms June Ho Wei Wei<br>Ms Sabrina Ho<br>Ms Ng Mei Ling<br>Mr Zulkifle bin Mohamed Saat<br>Ms Parvin Bibi Marican<br>Mr Jonathan Chan Aik Beng<br>Mr Albert Neo Chin Lee</td><td>Teachers' Day Award<br><br>Caring Teacher Award</td></tr><tr>
-	</tr></tbody></table>
+<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mr Muhammad Omarali Bin Zulkiflee<br>Mr Ng Boon Tiong<br>Mdm Ng Ai Hoon<br>Mdm Nur Nadiah bte Adanan<br>Mr Matthew Ng Kai Wen<br>Ms June Ho Wei Wei<br>Ms Sabrina Ho<br>Ms Ng Mei Ling<br>Mr Zulkifli bin Mohamed Saat<br>Ms Parvin Bibi Marican<br>Mr Jonathan Chan Aik Beng<br>Mr Albert Neo Chin Lee</td><td>Teachers' Day Award<br><br>Caring Teacher Award</td></tr>
+	<tr><td>2</td><td>Ms Yuan Pin<br>Mr Kevin Teo Tze Yong<br>Mrs Shahilla Raj<br></td><td>Teachers' Day Award<br><br>Inspiring Teacher Award</td></tr> 	
+		<tr><td>3</td><td>Mdm Sarifah Tamsir<br>Ms Leong Su Juen<br>Ms Jasmine Peh<br></td><td>AST Academy Award (Associate)</td></tr> 	
+</tbody></table>
 
 
 <ul class="jekyllcodex_accordion">
