@@ -60,6 +60,7 @@ variant: markdown
 <label for="accordion4">2016</label>  
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca2016.png">
+<br>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca20162.png">
 </div></div></li>
