@@ -6,18 +6,13 @@ variant: markdown
 ---
 ### 2023
  
-<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Co-Curriculur Activity/Student</th><th>Programme/Competition/Award</th></tr><tr><td>1</td><td>Aesthetics CCA Groups</td><td>Singapore Youth Art Presentation Festival<li>Concert Band - Certificate of Distinction</li><li>Chinese Orchestra - Certificate of Distinction</li><li>Choir - Certificate of Distinction</li><li>English Drama- Certificate of Distinction</li><li>Modern Dance - Certificate of Accomplishment</li></td></tr>
-	<tr><td>2</td><td>NPCC</td><td>SPF-NPCC Badge Award<br><li>SI (NPCC) Su Jing Ning Janelle</li><li>SSGT (NPCC) Aw En Zi Charlotte</li><li>SGT (NPCC) Rebekah Wee Yong Yi</li></td></tr> </tbody></table>
+<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Co-Curriculur Activity/Student</th><th>Programme/Competition/Award</th></tr><tr><td>1</td><td>Aesthetics CCA Groups</td><td>Singapore Youth Art Presentation Festival<br><br>Concert Band - Certificate of Distinction<br>Chinese Orchestra - Certificate of Distinction<br>Choir - Certificate of Distinction<br>English Drama- Certificate of Distinction<br>Modern Dance - Certificate of Accomplishment</td></tr>
+	<tr><td>2</td><td>NPCC</td><td>SPF-NPCC Badge Award<br><br>SI (NPCC)- Su Jing Ning Janelle<br>SSGT (NPCC) - Aw En Zi Charlotte<br>SGT (NPCC) - Rebekah Wee Yong Yi</td></tr> </tbody></table>
 
 ### 2022
 
-VolleyballOthers<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Co-Curriculur Activity/Student</th><th>Programme/Competition/Award</th></tr>
-  <tr><td>1</td><td>NCC</td><td>Boys Unit Recognition Award<br><li>Distinction<br><br>Girls Unit Recognition Award
-</li><li>Distinction</li></td></tr> 
-	<tr><td>2</td><td>NCDCC</td><td>Unit Overall Proficiency Award<br><li>Gold Award</li></td></tr> 
-	<tr><td>3</td><td>NPCC</td><td>Unit Overall Proficiency Award<br><li>Gold Award</li></td></tr>
-	<tr><td>4</td><td></td><td>East Zone 'C' Division Volleyball Championship<br><li>3rd Place</li></td></tr> 
-		<tr><td>5</td><td></td><td>Campus Legend Secondary School Edition Season 3<br><li>3rd Place</li></td></tr> 
+<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Co-Curriculur Activity/Student</th><th>Programme/Competition/Award</th></tr><tr><td>1</td><td>NCC</td><td>Boys Unit Recognition Award<br><br>- Distinction<br><br>Girls Unit Recognition Award
+<br><br>- Distinction</td></tr><tr><td>2</td><td>NCDCC</td><td>Unit Overall Proficiency Award<br><br>- Gold Award</td></tr><tr><td>3</td><td>NPCC</td><td>Unit Overall Proficiency Award<br><br>-Gold Award</td></tr><tr><td>4</td><td>Volleyball</td><td>East Zone 'C' Division Volleyball Championship<br><br>- 3rd Place</td></tr><tr><td>5</td><td>Others</td><td>Campus Legend Secondary School Edition Season 3<br><br>- 3rd Place</td></tr> 
 </tbody></table>
 
 ### 2021
