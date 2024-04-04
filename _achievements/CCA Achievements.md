@@ -4,214 +4,31 @@ permalink: /achievements/cca-achievements/
 description: ""
 variant: markdown
 ---
-<h3><strong>2023</strong></h3>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>No</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Co-Curriculur Activity / Student</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Programme / Competition / Award</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Aesthetics CCA Groups</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Singapore Youth Art Presentation Festival 2023</strong> 
-<br>- <strong>Concert Band</strong> Certificate of Distinction
-<br>- <strong>Chinese Orchestra</strong> Certificate of Distinction
-<br>- <strong>Choir</strong> Certificate of Distinction
-<br>- <strong>English Drama</strong> Certificate of Distinction
-<br>- <strong>Modern Dance</strong> Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NPCC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SPF-NPCC Badge Award 2023</strong> 
-<br>- SI (NPCC) Su Jing Ning Janelle
-<br>- SSGT (NPCC) Aw En Zi Charlotte
-<br>- SGT (NPCC) Rebekah Wee Yong Yi</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3><strong>2022</strong></h3>
-<p></p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>No</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Co-Curriculur Activity / Student</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Programme / Competition / Award</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NCC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Boys Unit Recognition Award</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Distinction</p>
-</li>
-</ul>
-<p></p>
-<p><strong>Girls Unit Recognition Award</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Distinction</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NCDCC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Unit Overall Proficiency Award</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Gold Award</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NPCC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Unit Overall Proficiency Award</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Gold Award</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Volleyball</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>East Zone 'C' Division Volleyball Championship</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>3rd Place</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Others</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Campus Legend Secondary School Edition Season 3</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>3rd Place</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<h3><strong>2021</strong></h3>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>No</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Co-Curriculur Activity / Student</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Programme / Competition / Award</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NCC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>NCC Outstanding Cadet Award</em></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Elijah Lau Jia Jin (4E6)</p>
-</li>
-<li>
-<p>Anston Sieow Wei Cong (4A2)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+### 2023
+ 
+<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Co-Curriculur Activity/Student</th><th>Programme/Competition/Award</th></tr><tr><td>1</td><td>Aesthetics CCA Groups</td><td>Singapore Youth Art Presentation Festival<li>Concert Band - Certificate of Distinction</li><li>Chinese Orchestra - Certificate of Distinction</li><li>Choir - Certificate of Distinction</li><li>English Drama- Certificate of Distinction</li><li>Modern Dance - Certificate of Accomplishment</li></td></tr>
+	<tr><td>2</td><td>NPCC</td><td>SPF-NPCC Badge Award<br><li>SI (NPCC) Su Jing Ning Janelle</li><li>SSGT (NPCC) Aw En Zi Charlotte</li><li>SGT (NPCC) Rebekah Wee Yong Yi</li></td></tr> </tbody></table>
+
+### 2022
+
+VolleyballOthers<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Co-Curriculur Activity/Student</th><th>Programme/Competition/Award</th></tr>
+  <tr><td>1</td><td>NCC</td><td>Boys Unit Recognition Award<br><li>Distinction<br><br>Girls Unit Recognition Award
+</li><li>Distinction</li></td></tr> 
+	<tr><td>2</td><td>NCDCC</td><td>Unit Overall Proficiency Award<br><li>Gold Award</li></td></tr> 
+	<tr><td>3</td><td>NPCC</td><td>Unit Overall Proficiency Award<br><li>Gold Award</li></td></tr>
+	<tr><td>4</td><td></td><td>East Zone 'C' Division Volleyball Championship<br><li>3rd Place</li></td></tr> 
+		<tr><td>5</td><td></td><td>Campus Legend Secondary School Edition Season 3<br><li>3rd Place</li></td></tr> 
+</tbody></table>
+
+### 2021
+
+<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Co-Curriculur Activity/Student</th><th>Programme/Competition/Award</th></tr>
+  <tr><td>1</td><td>NCC</td><td>NCC Outstanding Cadet Award<br><li>Elijah Lau Jia Jin (4E6)</li><li>Anston Sieow Wei Cong (4A2)</li></td></tr>
+ <tr><td>2</td><td>NCDCC</td><td>SPF-NCDCC Award<br><li>Leong Wee Kwok Ray (4E6)</li><li>Ng Jun Jie, Raymus (4E6)</li></td></tr>
+
+
+
+<tr><td rowspan="1" colspan="1">
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
