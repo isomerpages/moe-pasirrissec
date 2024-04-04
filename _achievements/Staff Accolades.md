@@ -50,41 +50,36 @@ Ms Siti Radilah Binte Ahmad Sidek<br>Mdm Wong Jie Lin<br>Ms Wong Yun Yi<br>Mdm Z
 	<tr><td>2</td><td>Ms Yuan Pin<br>Mr Kevin Teo Tze Yong<br>Mrs Shahilla Raj<br></td><td>Teachers' Day Award<br><br>Inspiring Teacher Award</td></tr> 	
 		<tr><td>3</td><td>Mdm Sarifah Tamsir<br>Ms Leong Su Juen<br>Ms Jasmine Peh<br></td><td>AST Academy Award (Associate)</td></tr> 	
 </tbody></table>
-
-
+<br>
 <ul class="jekyllcodex_accordion">
-<li><input type="checkbox" id="accordion1">  
-<label for="accordion1">2021</label><div>  
-<img src="/images/2021staff.png">
-</div></li>
 
-<li><input type="checkbox" id="accordion2">  
-<label for="accordion2">2020</label><div>  
+<li><input type="checkbox" id="accordion1">  
+<label for="accordion1">2020</label><div>  
 	<img src="/images/2020staff.png">
 	</div></li>
 
-<li><input type="checkbox" id="accordion3">  
-<label for="accordion3">2019</label><div>  
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2">2019</label><div>  
 	<img src="/images/2019staff.png">
 	</div></li>
 
-<li><input type="checkbox" id="accordion4">  
-<label for="accordion4">2018</label><div>  
+<li><input type="checkbox" id="accordion3">  
+<label for="accordion3">2018</label><div>  
 	<img src="/images/2018staff.png">
 	</div></li>
 	
-<li><input type="checkbox" id="accordion5">  
-<label for="accordion5">2017</label><div>  
+<li><input type="checkbox" id="accordion4">  
+<label for="accordion4">2017</label><div>  
 <img src="/images/2017staff.png">
 </div>
 
-</li><li><input type="checkbox" id="accordion6">  
-<label for="accordion6">2016</label><div>  
+</li><li><input type="checkbox" id="accordion5">  
+<label for="accordion5">2016</label><div>  
 <img src="/images/2016staff.png">
 </div></li>
 
-<li><input type="checkbox" id="accordion7">  
-<label for="accordion7">2015</label><div>  
+<li><input type="checkbox" id="accordion6">  
+<label for="accordion6">2015</label><div>  
 
 | No | Staff | Award|
 | -------- | -------- | -------- |
