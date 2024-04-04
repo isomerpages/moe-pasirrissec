@@ -86,8 +86,8 @@ Ms Siti Radilah Binte Ahmad Sidek<br>Mdm Wong Jie Lin<br>Ms Wong Yun Yi<br>Mdm Z
 		<tr><td>3</td><td>Mr Hosea Lee</td><td>Overall Best Trainee (NCDCC)</td></tr>
 			<tr><td>4</td><td>Mrs Hilda Thong</td><td>National Day Honours 2015<br>The National Day Public Administration Medal (Bronze)</td></tr>
 	<tr><td>5</td><td>Mdm Sarifah Tamsir<br>Miss Cindy Soh Sock Kheng<br>Mdm Wong Yoke Ung<br></td><td>Long Service Medals</td></tr>
-	<tr><td></td><td>Mdm Mariamah Mohd Yusoff</td><td>Outstanding History Teacher Award</td></tr>
-	<tr><td></td><td>Mdm Sumrah Bte Chuni<br>Mr Koh Bing Qin</td><td>Innergy Award (Silver) 2015 </td></tr>
+	<tr><td>6</td><td>Mdm Mariamah Mohd Yusoff</td><td>Outstanding History Teacher Award</td></tr>
+	<tr><td>7</td><td>Mdm Sumrah Bte Chuni<br>Mr Koh Bing Qin</td><td>Innergy Award (Silver) 2015 </td></tr>
 </tbody></table>
 <br><b>Inspiring Teacher of English Award</b><br>
 <p>
