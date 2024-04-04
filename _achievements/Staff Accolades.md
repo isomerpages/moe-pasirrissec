@@ -4,7 +4,37 @@ permalink: /achievements/staff-accolades/
 description: ""
 variant: markdown
 ---
-## 2022
+### 2023
+  
+&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+	&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;<table><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mr Mohd Amin Bin Kadir</td><td>National Day Awards <br><br>The Commendation Medal</td></tr><tr><td>2</td><td>Mdm Tan Kwee Choo</td><td>National Day Awards<br><br>The Efficiency Medal</td></tr>  
+	<tr><td>3</td><td>Mdm Loy Lin Li Lynn<br>Mr Ng Tze Keen Daniel<br>Mr Abdul Halim Bin Udori<br>Ms Jiang Wei Yeow Jaslin</td><td>National Day Awards<br><br>The Long Service Medal</td></tr>  
+	<tr><td>4</td><td>Mohd Amin Bin Kadir<br>Mdm Hazwani Binte Abdul Wahid
+</td><td>National Day Awards<br><br>The Efficiency Medal</td></tr>  
+</tbody></table>
+
+### 2022
 ![](/images/Achievements/Staff%20Accolades/2022_staff%20accolades.png)
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1">  
