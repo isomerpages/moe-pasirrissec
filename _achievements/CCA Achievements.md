@@ -28,130 +28,13 @@ variant: markdown
 
 ### 2020
 
-
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>No</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Co-Curriculur Activity / Student</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Programme / Competition / Award</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NCC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>Oustanding Cadet Award</em></strong>
-</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Damien Ng (4E4)</p>
-</li>
-<li>
-<p>Koo Kai Yuan Clarissa (4E3)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NCDCC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>SCDF-NCDCC Award</em></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Nur Syazana Binte Hazlin Noor (4A1)</p>
-</li>
-<li>
-<p>Lim Xin Yi Charlene (4E5)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NCDCC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>Best Unit Cadet Award</em></strong>
-</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Nur Syazana Binte Hazlin Noor(4A1)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NPCC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>SPF-NPCC Badge Award</em></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>You Chu Mei (4E4)</p>
-</li>
-<li>
-<p>Muhammad Azfar Bin Muhammad Faudzan (4E3)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NPCC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>Best Unit Cadet</em></strong>
-</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>You Chu Mei (4E4)</p>
-</li>
-<li>
-<p>Muhammad Azfar Bin Muhammad Faudzan (4E3)</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Co-Curriculur Activity/Student</th><th>Programme/Competition/Award</th></tr>
+	<tr><td>1</td><td>NCC</td><td>NCC Outstanding Cadet Award<br><br>- Damien Ng (4E4)<br>- Koo Kai Yuan Clarissa (4E3)</td></tr>
+	<tr><td>2</td><td>NCDCC</td><td>SPF-NCDCC Award<br><br>- Nur Syazana Binte Hazlin Noor (4A1)<br>- Lim Xin Yi Charlene (4E5))</td></tr>
+	<tr><td>3</td><td>NCDCC</td><td>Best Unit Cadet Award<br><br>-Nur Syazana Binte Hazlin Noor(4A1)<br></td></tr>
+	<tr><td>4</td><td>NPCC</td><td>SPF-NPCC Badge Award<br><br>-You Chu Mei (4E4)<br>-Muhammad Azfar Bin Muhammad Faudzan (4E3)</td></tr>
+	<tr><td>5</td><td>NPCC</td><td>Best Unit Cadet<br><br>-You Chu Mei (4E4)<br>-Muhammad Azfar Bin Muhammad Faudzan (4E3)</td></tr>
+</tbody></table>
 
 <ul class="jekyllcodex_accordion">
 
