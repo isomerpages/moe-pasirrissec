@@ -80,21 +80,15 @@ Ms Siti Radilah Binte Ahmad Sidek<br>Mdm Wong Jie Lin<br>Ms Wong Yun Yi<br>Mdm Z
 
 <li><input type="checkbox" id="accordion6">  
 <label for="accordion6">2015</label><div>  
-
-| No | Staff | Award|
-| -------- | -------- | -------- |
-| 1     | Mdm Mariamah | Associate of Academy of Singapore Teachers Award 2015 |
-| 2     | Ms Leong Su Juen | Associate of Academy of Singapore Teachers Award 2015 |
-| 3 | Mr Mohd Amin Kadir | Singapore Police Force Service Medal |
-| 4 | Mr Hosea Lee | Overall Best Trainee (NCDCC) |
-| 5 | Mrs Hilda Thong | National Day Honours 2015 The National Day Public Administration Medal (Bronze) |
-| 6 | Mdm Sarifah Tamsir | Long Service Medals |
-| 7 | Miss Cindy Soh Sock Kheng | Long Service Medals |
-| 8 | Mdm Wong Yoke Ung | Long Service Medals |
-| 9 | Mdm Mariamah Mohd Yusoff | Outstanding History Teacher Award 2015 |
-| 10 | Mdm Sumrah Bte Chuni | Innergy Award (Silver) 2015 |
-| 11 | Mr Koh Bing Qin | Innergy Award (Silver) 2015 |
-
+	<br>
+67<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mdm Mariamah<br>Ms Leong Su Juen</td><td>Associate of Academy Teachers Award</td></tr>
+	<tr><td>2</td><td>Mr Mohd Amin Kadir</td><td>Singapore Police Force Service Medal</td></tr>
+		<tr><td>3</td><td>Mr Hosea Lee</td><td>Overall Best Trainee (NCDCC)</td></tr>
+			<tr><td>4</td><td>Mrs Hilda Thong</td><td>National Day Honours 2015<br>The National Day Public Administration Medal (Bronze)</td></tr>
+	<tr><td>5</td><td>Mdm Sarifah Tamsir<br>Miss Cindy Soh Sock Kheng<br>Mdm Wong Yoke Ung<br></td><td>Long Service Medals</td></tr>
+		<tr><td></td><td>Mdm Mariamah Mohd Yusoff</td><td>Outstanding History Teacher Award</td></tr>
+			<tr><td></td><td>Mdm Sumrah Bte Chuni<br>Mr Koh Bing Qin</td><td>Innergy Award (Silver) 2015 </td></tr>
+</tbody></table>
 <br><b>Inspiring Teacher of English Award</b><br>
 <p>
 Congratulations to Mr Mong Kok Thong, our HOD ICT for receiving the Inspiring Teacher of English Award! The certificate and trophy was presented to the 9 recipients and their Principals by Senior Minister of State Indranee Rajah at a ceremony in National Museum. Thank you Mr Mong for being a great English teacher!
