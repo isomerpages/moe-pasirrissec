@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 #### Collection of School Graduation Certificate (SGC) for 2023 Cohort
-Students from 2023 Sec 4 Express chohorts may collect their SGC from the school General Office during office hours.
+Students from 2023 Sec 4 Express cohorts may collect their SGC from the school General Office during office hours.
 
 #### PRSS Newsflash
 
