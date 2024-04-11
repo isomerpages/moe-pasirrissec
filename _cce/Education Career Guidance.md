@@ -171,8 +171,8 @@ Post-Sec education pathway talks
 <h5>Pathway for Students through GCE 'NT' Level</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pathway%20N(T)%20Level.png">
-</div>
-<h5><strong>More Information:</strong></h5>
+</div><br>
+<strong>More Information:</strong><br>
 https://www.moe.gov.sg/post-secondary/admissions<br>
 <br>
 <div class="isomer-image-wrapper">
@@ -230,16 +230,15 @@ Regular talks and workshops are conducted by our ECG Counsellor to help students
 
 PRSS alumni were invited back to share their personal educational journeys
 and career experiences with their junior.
-
 <table><tbody><tr>
-<td><img style="width: 100%" height="auto" width="100%" src=""></td><td><img src=""></td></tr></tbody></table>
-
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_03.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_04.png"></td></tr></tbody></table>
 
 <h5>Applied Learning Modules (ApLM)</h5>
 
 All sec 3 NA and NT students were enrolled in ApLM@ITE to attend an ITE workshop of their choice. This year, they were given a choice of 4 different workshops to choose from. This allowed them to find out more about various ITE courses that they may be interested in.
-<table><tbody><tr>
-<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_01.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_02.png"></td></tr></tbody></table>
+<figure><table><tbody><tr>
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_01.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_02.png"></td></tr></tbody></table><figcaption>Beauty Artistry at ITE College East</figcaption></figure>
+
 
 <h5>Learning Journeys to Jurong Island</h5>
 
