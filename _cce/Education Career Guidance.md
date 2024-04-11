@@ -124,16 +124,16 @@ self and explore possible career clusters</p>
 <br>opportunities.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Main focus:</strong>
+<p><strong>Main focus:</strong> 
 <br>Development of important career skills and attributes&nbsp;
 <br>
-<br><strong>ECG lessons:</strong>
+<br><strong>ECG lessons:</strong> 
 <br>Why Career Starts With a T
 <br>A Face In the Crowd</p>
 <p>Plan Know Do</p>
 <p>10 Years from Now
 <br>&nbsp;
-<br><strong>Key Programmes:</strong>
+<br><strong>Key Programmes:</strong> 
 <br>ITE and Polytechnic Experience
 <br>Programme</p>
 <p>Poly Advanced Elective Modules
@@ -214,19 +214,20 @@ Guidance e-portal at https://www.myskillsfuture.sg/secondary</p>
 <img style="width:25%" height="auto" width="100%" src="/images/QR%20COde%202.png">
 </div>
 <h3>ECG Counsellor</h3>
-<p>Our ECG Counsellor is stationed at the ECG counselling room every Thursday
+<p>Our ECG Counsellor is stationed at the ECG counselling room every Thursdays
 to provide support to students (individually or in small groups) and guide
 students who may need additional help to make informed decisions on post-secondary
 education and career options.</p>
 <p>Parents or students who would like to explore more about subject choices,
 enquire about post-secondary education options or find out more about their
 career interests, strengths and passions, can have a chat with our school’s
-ECG Counsellor every Thursdays.</p>
+ECG Counsellor every Thursdays.&nbsp;</p>
 <p><strong>Appointments can be made via email (<a href="mailto:mohammed_syahril_samsudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_syahril_samsudin@schools.gov.sg</a>) or through the QR code below:</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/QR%20COde%203.png">
-</div>
+<p></p>
+<p><strong><a href="https://go.gov.sg/ecgbookingprss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecgbookingprss</a></strong>
+</p>
+<p></p>
 <h3>ECG Talks / Workshops</h3>
 <p>Regular talks and workshops are conducted by our ECG Counsellor to help
 students better chart their post-secondary educational pathways so as to
@@ -236,13 +237,15 @@ work towards an industry of their choice.</p>
 </div>
 <h3>Career Awareness Day</h3>
 <p>PRSS alumni were invited back to share their personal educational journeys
-and career experiences with their juniors.</p>
+and career experiences with their junior.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Career%20Awareness%20(1).png">
 </div>
 <h5>Learning Journeys to Jurong Island</h5>
 <p>As part of the STEAM Carnival, selected students were given the rare opportunity
 to visit Jurong Island to learn more about the petrol-chemical industry.</p>
+<p></p>
+<p></p>
 <h5>STEAM Carnival Career VR Expo</h5>
 <p>During the STEAM carnival, all sec 3 students got to explore various STEAM
 related careers using virtual reality sets to give them a more immersive
