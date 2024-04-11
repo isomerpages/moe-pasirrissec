@@ -212,7 +212,7 @@ career interests, strengths and passions, can have a chat with our school’s
 ECG Counsellor every Thursdays.
 
 <strong>Appointments can be made via email (<a href="mailto:mohammed_syahril_samsudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_syahril_samsudin@schools.gov.sg</a>) or through the QR code below:</strong>
-<div class="isomer-image-wrapper"><img style="width: 20%" height="auto" width="20%" alt="" src="/images/CCE/ECG/ECG_Counsellor_Booking_QR_Code.png"><br>
+<div class="isomer-image-wrapper"><img style="width: 25%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ECG_Counsellor_Booking_QR_Code.png"><br>
 <strong><a href="https://go.gov.sg/ecgbookingprss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecgbookingprss</a></strong>
 </div>
 
@@ -228,10 +228,16 @@ Regular talks and workshops are conducted by our ECG Counsellor to help students
 
 PRSS alumni were invited back to share their personal educational journeys
 and career experiences with their junior.
+  <div>
+<div style="”width:30%”"><img src="/images/CCE/ECG/Career_Awareness_Day_2024_01.png"><div style="”width:30%”"><img src="/images/CCE/ECG/Career_Awareness_Day_2024_02.png">
+	</div>
 
+<h5>Applied Learning Modules (ApLM)</h5>
 
+All sec 3 NA and NT students were enrolled in ApLM@ITE to attend an ITE workshop of their choice. This year, they were given a choice of 4 different workshops to choose from. This allowed them to find out more about various ITE courses that they may be interested in.
 
 <h5>Learning Journeys to Jurong Island</h5>
+
 As part of the STEAM Carnival, selected students were given the rare opportunity
 to visit Jurong Island to learn more about the petrol-chemical industry.
 
@@ -251,4 +257,4 @@ to find out more about polytechnic courses of their choice.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ceg_2023_01b.png">
 </div>
-<p></p>
+<p></p></div></div>
