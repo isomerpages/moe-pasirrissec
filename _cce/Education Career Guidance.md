@@ -232,11 +232,14 @@ PRSS alumni were invited back to share their personal educational journeys
 and career experiences with their junior.
 
 <table><tbody><tr>
-<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_01.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_02.png"></td></tr></tbody></table>
+<td><img style="width: 100%" height="auto" width="100%" src=""></td><td><img src=""></td></tr></tbody></table>
+
 
 <h5>Applied Learning Modules (ApLM)</h5>
 
 All sec 3 NA and NT students were enrolled in ApLM@ITE to attend an ITE workshop of their choice. This year, they were given a choice of 4 different workshops to choose from. This allowed them to find out more about various ITE courses that they may be interested in.
+<table><tbody><tr>
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_01.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_02.png"></td></tr></tbody></table>
 
 <h5>Learning Journeys to Jurong Island</h5>
 
