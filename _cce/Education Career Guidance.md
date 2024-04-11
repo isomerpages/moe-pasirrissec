@@ -168,7 +168,7 @@ Post-Sec education pathway talks
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pathway%20N(A)%20Level.png">
 </div>
-<h4>Pathway for Students through GCE 'NT' Level</h4>
+<h5>Pathway for Students through GCE 'NT' Level</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pathway%20N(T)%20Level.png">
 </div>
@@ -212,27 +212,24 @@ career interests, strengths and passions, can have a chat with our school’s
 ECG Counsellor every Thursdays.
 
 <strong>Appointments can be made via email (<a href="mailto:mohammed_syahril_samsudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_syahril_samsudin@schools.gov.sg</a>) or through the QR code below:</strong>
-
+<div class="isomer-image-wrapper"><img style="width: 20%" height="auto" width="20%" alt="" src="/images/CCE/ECG/ECG_Counsellor_Booking_QR_Code.png"><br>
 <strong><a href="https://go.gov.sg/ecgbookingprss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecgbookingprss</a></strong>
-
+</div>
 
 <h3>ECG Talks / Workshops</h3>
 
-Regular talks and workshops are conducted by our ECG Counsellor to help
-students better chart their post-secondary educational pathways so as to
-work towards an industry of their choice.
+Regular talks and workshops are conducted by our ECG Counsellor to help students better chart their post-secondary educational pathways so as to work towards an industry of their choice.
 
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG%20Talk.png">
 </div>
 
 <h3>Career Awareness Day</h3>
+
 PRSS alumni were invited back to share their personal educational journeys
 and career experiences with their junior.
 
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Career%20Awareness%20(1).png">
-</div>
+
 
 <h5>Learning Journeys to Jurong Island</h5>
 As part of the STEAM Carnival, selected students were given the rare opportunity
