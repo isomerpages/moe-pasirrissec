@@ -228,9 +228,13 @@ Regular talks and workshops are conducted by our ECG Counsellor to help students
 
 PRSS alumni were invited back to share their personal educational journeys
 and career experiences with their junior.
-  <div>
-<div style="”width:30%”"><img src="/images/CCE/ECG/Career_Awareness_Day_2024_01.png"><div style="”width:30%”"><img src="/images/CCE/ECG/Career_Awareness_Day_2024_02.png">
-	</div>
+	
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<table><tbody><tr>
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_01.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_02.png"></td></tr></tbody></table>
 
 <h5>Applied Learning Modules (ApLM)</h5>
 
@@ -257,4 +261,4 @@ to find out more about polytechnic courses of their choice.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ceg_2023_01b.png">
 </div>
-<p></p></div></div>
+<p></p>
