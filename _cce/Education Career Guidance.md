@@ -178,7 +178,7 @@ https://www.moe.gov.sg/post-secondary/admissions<br>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/CCE/ECG/ceg_2023_07.png">
 </div>
-<h4><strong>MySkillsFuture Student Portal - Support for Our Students</strong></h4>
+<h4>MySkillsFuture Student Portal - Support for Our Students</h4>
 
 “What do you want to be when you grow up?”<br>
 
@@ -212,9 +212,11 @@ career interests, strengths and passions, can have a chat with our school’s
 ECG Counsellor every Thursdays.
 
 <strong>Appointments can be made via email (<a href="mailto:mohammed_syahril_samsudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_syahril_samsudin@schools.gov.sg</a>) or through the QR code below:</strong>
-<div class="isomer-image-wrapper"><img style="width: 25%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ECG_Counsellor_Booking_QR_Code.png"><br>
+
+<div class="isomer-image-wrapper"><img style="width: 25%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ECG_Counsellor_Booking_QR_Code_2024.png">
+<center>
 <strong><a href="https://go.gov.sg/ecgbookingprss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecgbookingprss</a></strong>
-</div>
+</center></div>
 
 <h3>ECG Talks / Workshops</h3>
 
@@ -228,11 +230,7 @@ Regular talks and workshops are conducted by our ECG Counsellor to help students
 
 PRSS alumni were invited back to share their personal educational journeys
 and career experiences with their junior.
-	
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
 <table><tbody><tr>
 <td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_01.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_02.png"></td></tr></tbody></table>
 
