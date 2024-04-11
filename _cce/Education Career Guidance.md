@@ -40,12 +40,10 @@ decisions on post-sec education and career</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Secondary 1</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Column 2</p>
-</th>
+<td rowspan="1" colspan="2">
+<p><strong>Secondary 1</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -71,6 +69,113 @@ decisions on post-sec education and career</p>
 <p>Career Interests Profiling and self-discovery</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Secondary 2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Where am I going?&nbsp;</p>
+<p>(Career Awareness)</p>
+<p>&nbsp;</p>
+<p>Pasirians are to make informed choice of education and career direction
+that will align with their interests, strengths and passion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Main Focus</strong>
+</p>
+<p>Initial stage of career aspiration&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>ECG lessons:</strong>
+</p>
+<p>I Have A Dream</p>
+<p>My Skills Quest</p>
+<p>Connecting With Others To Dream</p>
+<p>&nbsp;</p>
+<p><strong>Key Programmes:</strong>
+</p>
+<p>Use of RIASEC code</p>
+<p>MySkillsFuture online&nbsp;portal, Career Decision Wheel to&nbsp;discover
+self and explore possible career clusters</p>
+<p>Sec 3 Subject Combination talks</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Where am I going?
+<br>(Career Exploration)
+<br>
+<br>Pasirians are to explore
+<br>possible education and career
+<br>&nbsp;pathways through ITE /
+<br>&nbsp;Polytechnic / JC experiences
+<br>and/or work experiences
+<br>opportunities.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Main focus:</strong>
+<br>Development of important career skills and attributes&nbsp;
+<br>
+<br><strong>ECG lessons:</strong>
+<br>Why Career Starts With a T
+<br>A Face In the Crowd</p>
+<p>Plan Know Do</p>
+<p>10 Years from Now
+<br>&nbsp;
+<br><strong>Key Programmes:</strong>
+<br>ITE and Polytechnic Experience
+<br>Programme</p>
+<p>Poly Advanced Elective Modules
+<br>&nbsp;ITE Elective Modules
+<br>Work Experience Programme&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Secondary 4/5</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>How do I get there?
+<br>(Career Planning)<strong>&nbsp;<br><br></strong>Pasirians are to plan
+and work
+<br>towards possible education and
+<br>career pathways as they gear
+<br>&nbsp;up for their national examinations
+<br>in their graduating year.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Main focus:<br></strong>Making decision on Post-Secondary Options&nbsp;
+<br>
+<br><strong>ECG lessons:&nbsp;<br></strong>Ink It Not Just Think It</p>
+<p>The Future Starts Now</p>
+<p>Connecting the Dots</p>
+<p>Its All in the Presentation</p>
+<p>My Vision, My Future</p>
+<p>I Can Do All Things</p>
+<p>Hope in Action!</p>
+<p><strong><br>Key Programmes:</strong>
+</p>
+<p><strong><br></strong>ECG small group consultation</p>
+<p>Direct School Admission to JC,
+<br>ITE / Poly&nbsp;Early Admission Exercise</p>
+<p>Career Awareness Day</p>
+<p>Post-Sec education pathway talks</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Post-Secondary School Education Pathways</h4>
@@ -86,12 +191,12 @@ decisions on post-sec education and career</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pathway%20N(T)%20Level.png">
 </div>
-<h5>More Information:</h5>
+<h5><strong>More Information:</strong></h5>
 <p>https://www.moe.gov.sg/post-secondary/admissions</p>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/CCE/ECG/ceg_2023_07.png">
 </div>
-<h4>MySkillsFuture Student Portal - Support for Our Students</h4>
+<h4><strong>MySkillsFuture Student Portal - Support for Our Students</strong></h4>
 <p>“What do you want to be when you grow up?”</p>
 <p>Choosing one's education or career path is one of the most important yet
 difficult decisions to make. Students need to be able to make well-informed
