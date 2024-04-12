@@ -44,7 +44,7 @@ decisions on post-sec education and career</p>
 
 <table>
 <tbody>
-<tr><td rowspan="1" colspan="2">
+<tr style="background-color:gold"><td rowspan="1" colspan="2">
 <strong>Secondary 1</strong>
 </td></tr>
 <tr><td rowspan="1" colspan="1">
@@ -65,7 +65,7 @@ Rediscovering
 Career Interests Profiling and self-discovery
 </td></tr>
 
-<tr>
+<tr style="background-color:gold">
 <td rowspan="1" colspan="2">
 <strong>Secondary 2</strong>
 </td></tr>
@@ -94,7 +94,7 @@ self and explore possible career clusters
 Sec 3 Subject Combination talks
 </td></tr>
 
-<tr>
+<tr style="background-color:gold">
 <td rowspan="1" colspan="1">
 <strong>Secondary 3</strong>
 </td>
@@ -126,7 +126,7 @@ ITE Elective Modules<br>
 Work Experience Programme<br>
 </td></tr>
 
-<tr><td rowspan="1" colspan="2">
+<tr style="background-color:gold"><td rowspan="1" colspan="2">
 <strong>Secondary 4/5</strong>
 </td></tr>
 
