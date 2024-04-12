@@ -44,10 +44,10 @@ Schools commemorate&nbsp;Racial&nbsp;Harmony&nbsp;Day&nbsp;(RHD) on 21 July each
 
 [<img src="/images/CyberWellness.png" style="width:33%;float:left">](/cce/Cyber-Wellness)
 
-[<img src="/images/ECG.png" style="width:33%">](/cce/Education-Career-Guidance)
+[<img src="/images/ECG.png" style="width:33%">](/cce/education-career-guidance)
 
-[<img src="/images/NE.png" style="width:33%;float:left">](/cce/National-Education-NE)
+[<img src="/images/NE.png" style="width:33%;float:left">](/cce/national-education)
 
 [<img src="/images/SexualityEducation.png" style="width:33%;float:left">](/cce/sexuality-education)
 
-[<img src="/images/VIA.png" style="width:33%">](/cce/Values-In-Action-VIA)
+[<img src="/images/VIA.png" style="width:33%">](/cce/values-in-action)
