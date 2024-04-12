@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Secondary 1 Breakfast Session with Parents
+
+Please click [here](/files/Information%20for%20Parents/2024_Sec_1_Breakfast_with_Parents_12_AprSec_1_Breakfast_with_Parents_12_Apr) to view the Sec 1 Breakfast Session with Parents slides.
+
 #### Collection of School Graduation Certificate (SGC) for 2023 Cohort
 Students from 2023 Sec 4 Express cohorts may collect their SGC from the school General Office during office hours.
 

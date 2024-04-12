@@ -1,7 +1,8 @@
 ---
-title: National Education (NE)
-permalink: /cce/National-Education-NE/
+title: National Education
+permalink: /cce/national-education/
 description: ""
+variant: tiptap
 ---
 #### FUTURE-ORIENTED CITIZENSHIP
 

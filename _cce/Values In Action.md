@@ -1,7 +1,8 @@
 ---
-title: Values In Action (VIA)
-permalink: /cce/Values-In-Action-VIA/
+title: Values In Action
+permalink: /cce/values-in-action/
 description: ""
+variant: tiptap
 ---
 ### Values In Action @ PRSS
 
