@@ -240,7 +240,11 @@ All sec 3 NA and NT students were enrolled in ApLM@ITE to attend an ITE workshop
 <td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_01.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_02.png"></td></tr></tbody></table><figcaption>Beauty Artistry at ITE College East</figcaption></figure>
 
 <figure><table><tbody><tr>
-<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_05.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_05.png"></td></tr></tbody></table><figcaption>Drone Racer at ITE College East</figcaption></figure>
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_05.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_06.png"></td></tr></tbody></table><figcaption>Drone Racer at ITE College East</figcaption></figure>
+
+<figure><table><tbody><tr>
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_07.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_08.png"></td></tr></tbody></table><figcaption>Mobile Robot in Mechatronics at ITE College West </figcaption></figure>
+
 <h5>Learning Journeys to Jurong Island</h5>
 
 As part of the STEAM Carnival, selected students were given the rare opportunity
