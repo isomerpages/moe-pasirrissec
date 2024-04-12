@@ -245,6 +245,20 @@ All sec 3 NA and NT students were enrolled in ApLM@ITE to attend an ITE workshop
 <figure><table><tbody><tr>
 <td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_07.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_08.png"></td></tr></tbody></table><figcaption>Mobile Robot in Mechatronics at ITE College West </figcaption></figure>
 
+<figure><table><tbody><tr>
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_09.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_10.png"></td></tr></tbody></table><figcaption>Digital Marketing at ITE College West</figcaption></figure>
+
+In addition to ApLM@ITE, selected sec 3 express students were also enrolled in ApLM@Poly in 2024.  By participating in this programme, they get to find out more about the education in Polytechnics.
+
+<figure><table><tbody><tr>
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_11.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_12.png"></td></tr></tbody></table><figcaption>Chemistry in Action at Nanyang Polytechnic</figcaption></figure>
+
+<figure><table><tbody><tr>
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_13.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_14.png"></td></tr></tbody></table><figcaption>Creative Modelling at Singapore Polytechnic</figcaption></figure>
+
+<figure><table><tbody><tr>
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_15.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_16.png"></td></tr></tbody></table><figcaption>Product Design &amp; Development at Singapore Polytechnic </figcaption></figure>
+
 <h5>Learning Journeys to Jurong Island</h5>
 
 As part of the STEAM Carnival, selected students were given the rare opportunity
