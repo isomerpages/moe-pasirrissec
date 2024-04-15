@@ -2,9 +2,9 @@ collections:
   dsa-e-open-house:
     output: true
     order:
+      - Principal's Welcome Message.md
+      - Campus Tour.md
+      - Our Pasirian Experience.md
       - DSA Talent Areas.md
       - FAQ & Enquiries.md
-      - Our Pasirian Experience.md
-      - Campus Tour.md
-      - Principal's Welcome Message.md
       - DSA eOpen House.md
