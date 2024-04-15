@@ -1,0 +1,4 @@
+collections:
+  dsa-e-open-house:
+    output: true
+    order: []
