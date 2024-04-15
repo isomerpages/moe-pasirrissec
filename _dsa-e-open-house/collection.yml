@@ -1,4 +1,5 @@
 collections:
   dsa-e-open-house:
     output: true
-    order: []
+    order:
+      - DSA eOpen House.md
