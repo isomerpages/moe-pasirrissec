@@ -1,0 +1,5 @@
+collections:
+  e-open-house:
+    output: true
+    order:
+      - PRSS Open House 2023.md

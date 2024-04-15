@@ -1,6 +1,6 @@
 ---
-title: DSA Virtual Booth
-permalink: /dsa2024/
+title: DSA eOpen House
+permalink: /dsa/
 variant: tiptap
 description: ""
 ---
