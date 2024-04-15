@@ -2,4 +2,5 @@ collections:
   dsa-e-open-house:
     output: true
     order:
+      - Principal's Welcome Message.md
       - DSA eOpen House.md
