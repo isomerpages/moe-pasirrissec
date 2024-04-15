@@ -2,5 +2,6 @@ collections:
   dsa-e-open-house:
     output: true
     order:
+      - Campus Tour.md
       - Principal's Welcome Message.md
       - DSA eOpen House.md
