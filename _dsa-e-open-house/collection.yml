@@ -2,6 +2,7 @@ collections:
   dsa-e-open-house:
     output: true
     order:
+      - DSA Talent Areas.md
       - FAQ & Enquiries.md
       - Our Pasirian Experience.md
       - Campus Tour.md
