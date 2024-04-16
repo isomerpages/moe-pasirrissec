@@ -1,6 +1,6 @@
 ---
 title: The Co Curriculum
-permalink: /holistic-education/The-Co-Curriculum/The-Co-Curriculum/
+permalink: /holistic-education/the-co-curriculum/the-co-curriculum/
 description: ""
 third_nav_title: The Co Curriculum
 variant: markdown

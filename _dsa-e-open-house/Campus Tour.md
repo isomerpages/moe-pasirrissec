@@ -1,6 +1,6 @@
 ---
 title: Campus Tour
-permalink: /e-open-house/Campus-Tour/
+permalink: /e-open-house/campus-tour/
 description: ""
 variant: markdown
 ---

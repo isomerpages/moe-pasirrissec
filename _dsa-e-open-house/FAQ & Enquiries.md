@@ -1,6 +1,6 @@
 ---
 title: FAQ & Enquiries
-permalink: /e-open-house/FAQ-and-Enquiries/
+permalink: /e-open-house/faq-and-enquiries/
 description: ""
 variant: markdown
 ---

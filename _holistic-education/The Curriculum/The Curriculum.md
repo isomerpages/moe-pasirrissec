@@ -1,6 +1,6 @@
 ---
 title: The Curriculum
-permalink: /holistic-education/The-Curriculum/The-Curriculum/
+permalink: /holistic-education/the-curriculum/the-curriculum/
 description: ""
 third_nav_title: The Curriculum
 variant: markdown

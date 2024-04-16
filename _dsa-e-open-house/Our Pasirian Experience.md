@@ -1,6 +1,6 @@
 ---
 title: Our Pasirian Experience
-permalink: /e-open-house/Our-Pasirian-Experience/
+permalink: /e-open-house/our-pasirian-experience/
 description: ""
 variant: markdown
 ---

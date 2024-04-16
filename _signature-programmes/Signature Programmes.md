@@ -1,6 +1,6 @@
 ---
 title: Signature Programmes
-permalink: /signature-programmes/Signature-Programmes/
+permalink: /signature-programmes/signature-programmes/
 description: ""
 variant: markdown
 ---
