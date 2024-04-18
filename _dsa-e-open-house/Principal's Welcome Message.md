@@ -19,7 +19,7 @@ The school’s 2 distinctive programmes namely L**LP in Music and the performing
 
 A holistic and balanced education is what we advocate at PRSS.  Students can choose from a range of CCAs from Sports, Uniformed Groups, Performing Arts and Clubs. Fostering the joy of learning and preparing our students well for the future with the requisite skills, knowledge, values, dispositions and competencies,  is aligned with our vision of growing ‘Confident Learners, Caring and Resilient Citizens’.  
 
-Do visit our website and enjoy the many short presentations we have created for visitors to our e-Open House.
+Do visit our [website](/dsa) and enjoy the many short presentations we have created for visitors to our e-Open House.
 
 Thank You and Best Wishes to our P6s
 
