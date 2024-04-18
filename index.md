@@ -18,8 +18,7 @@ sections:
   - infopic:
       title: PRSS DSA E Open House 2024
       id: infopic
-      description: Come back to know more about our DSA Talent Areas in Pasir Ris
-        Secondary School.
+      description: Come back to know more about our DSA Talent Areas in PRSS
       image: /images/DSA/PRSS_DSA_E_Open_House_2024.jpg
       subtitle: COMING SOON!
   - infopic:
