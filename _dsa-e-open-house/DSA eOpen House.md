@@ -4,12 +4,10 @@ permalink: /dsa/
 variant: markdown
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
+<p></p><div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/PRSS_DSA_E_Open_House_2024.jpg">
 </div>
-<br>
-<table>
+<p></p><table>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -55,13 +53,14 @@ description: ""
 <div class="isomer-image-wrapper">
 <a href="/holistic-education/the-co-curriculum/the-co-curriculum/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/7.png">
 </a></div><a href="/holistic-education/the-co-curriculum/the-co-curriculum/">
-
+</a></td><th rowspan="1" colspan="1">
 <p></p>
-</a></td>
+<div class="isomer-image-wrapper">
+<a href="/e-open-house/faq-and-enquiries/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/8.png">
+</a></div>
+</th>
+
+
 </tr>
 </tbody>
 </table>
-<p></p>
-
-
-<p></p>
