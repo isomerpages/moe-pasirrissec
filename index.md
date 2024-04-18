@@ -16,9 +16,9 @@ sections:
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
   - infopic:
-      title: PRSS DSA E Open House 2024
+      title: PRSS DSA e-Open House
       id: infopic
-      description: Come back to know more about our DSA Talent Areas in PRSS
+      description: Come back to know more about our DSA Talent Areas in PRSS.
       image: /images/DSA/Open_House_Banner_2024_Resize.png
       subtitle: COMING SOON!
       alt: DSA E Open House 2024 Banner
