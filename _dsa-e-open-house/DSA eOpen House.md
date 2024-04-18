@@ -55,12 +55,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <a href="/holistic-education/the-co-curriculum/the-co-curriculum/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/7.png">
 </a></div><a href="/holistic-education/the-co-curriculum/the-co-curriculum/">
-</a></td>
-<td rowspan="1" colspan="1">
-	
-	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/8.png">
+
 <p></p>
-</td>
+</a></td>
 </tr>
 </tbody>
 </table>
