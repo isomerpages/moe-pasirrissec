@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <p></p><div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/PRSS_DSA_E_Open_House_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/Open_House_Banner_2024_Resize.png">
 </div>
 <p></p><table>
 <tbody>
