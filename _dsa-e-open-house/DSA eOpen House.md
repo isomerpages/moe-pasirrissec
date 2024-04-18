@@ -1,7 +1,7 @@
 ---
 title: DSA eOpen House
 permalink: /dsa/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p></p>
@@ -20,29 +20,29 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/2.png">
-</div>
-</th>
+<a href="/e-open-house/principals-welcome-message"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/2.png">
+</a></div><a href="/e-open-house/principals-welcome-message">
+</a></th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/3.png">
-</div>
-</th>
+<a href="/e-open-house/campus-tour"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/3.png">
+</a></div><a href="/e-open-house/campus-tour">
+</a></th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/4.png">
-</div>
-</th>
+<a href="/e-open-house/our-pasirian-experience"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/4.png">
+</a></div><a href="/e-open-house/our-pasirian-experience">
+</a></th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/5.png">
-</div>
-</td>
+<a href="/signature-programmes/signature-programmes"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/5.png">
+</a></div><a href="/signature-programmes/signature-programmes">
+</a></td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -62,7 +62,6 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA.gif">
-</div>
+
+
 <p></p>
