@@ -16,14 +16,9 @@ sections:
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
   - infopic:
-      title: Live Engagement
-      subtitle: Sec 1 2024 registration
+      title: PRSS DSA E Open House 2024
       id: infopic
-      description: With School Leaders & Key Personnel
-      button: Sec 1 registration portal
-      url: /2024-secondary-1-registration/
-      image: /images/Sec 1 Registration/2023_Sec_1_Registration_Welcome_Page.png
-      alt: Image alt text
+      description: Coming soon!
   - infopic:
       title: PRSS Campus Tour
       description: Click the link below for a 360° tour of the school
