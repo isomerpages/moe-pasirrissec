@@ -6,9 +6,10 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E Open house/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/PRSS_DSA_E_Open_House_2024.jpg">
 </div>
-<table>
+<br>
+<table style="background-color:#96DED1;">
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
