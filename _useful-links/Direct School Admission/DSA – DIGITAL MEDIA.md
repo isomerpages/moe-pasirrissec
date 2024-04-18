@@ -13,7 +13,7 @@ In our lower secondary integrated project work, you will also be able to work on
   
 If you have a keen interest and talent for Coding, Makers Movement, Robotics, Videography, or Photography, we invite you to join our Pasirian family.
 
-![](/images/DSA/Digital_Media.jpg)
+![](/images/DSA/Digital_Media_Resize.png)
 #### **Digital Media Talent Area**
 
 | DSA Main Category | DSA Talent Area | 
