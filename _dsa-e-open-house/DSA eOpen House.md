@@ -39,28 +39,26 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<a href="/signature-programmes/signature-programmes"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/5.png">
+<a href="/holistic-education/the-curriculum/the-curriculum/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/5.png">
 </a></div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<a href="/holistic-education/the-curriculum/the-curriculum/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/6.png">
-</a></div><a href="/holistic-education/the-curriculum/the-curriculum/">
-</a></td>
+<a href="/holistic-education/the-co-curriculum/the-co-curriculum/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/6.png">
+</a></div>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<a href="/holistic-education/the-co-curriculum/the-co-curriculum/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/7.png">
-</a></div><a href="/holistic-education/the-co-curriculum/the-co-curriculum/">
-</a></td><th rowspan="1" colspan="1">
+<a href="/e-open-house/dsa-talent-areas/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/7.png">
+</a></div>
+</td><th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <a href="/e-open-house/faq-and-enquiries/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/8.png">
 </a></div>
 </th>
-
-
 </tr>
 </tbody>
 </table>
