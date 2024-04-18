@@ -26,4 +26,3 @@ Thank You and Best Wishes to our P6s
 **Mrs Grace Chua**<br>
 **Principal**<br>
 **Pasir Ris Secondary School**
-
