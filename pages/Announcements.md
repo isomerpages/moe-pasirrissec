@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 24th April Blended Learning Timetable
+
+Please click [here](/files/Announcements/2024/24th_April_2024_BL_TT_V1_Classes.pdf) to view the timetable.
+
 #### Collection of School Graduation Certificate (SGC) for 2023 Cohort
 Students from 2023 Sec 4 Exp and Sec 5NT cohorts may collect their SGC from the school General Office during office hours.
 
