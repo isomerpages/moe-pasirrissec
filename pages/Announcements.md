@@ -4,7 +4,7 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### Blended Learning (BL) Time Table for 24th April
+#### 24th April Blended Learning Timetable
 
 Please click to view the timetable.
 
