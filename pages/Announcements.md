@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Blended Learning (BL) Time Table for 24th April
+
+Please click to view the timetable.
+
 #### Collection of School Graduation Certificate (SGC) for 2023 Cohort
 Students from 2023 Sec 4 Exp and Sec 5NT cohorts may collect their SGC from the school General Office during office hours.
 
