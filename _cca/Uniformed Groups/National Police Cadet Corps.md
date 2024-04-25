@@ -81,7 +81,7 @@ UNIT OVERALL PROFICENCY AWARD - DISTINCTION (2022)
 * Ms Desiree Oh 
 * Mr Zachary Koh
 
-### **Photos**
+### **Photos / Videos**
 
 ![](/images/CCA/NPCC/npcc%2001.jpg)
 
