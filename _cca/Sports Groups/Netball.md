@@ -50,6 +50,10 @@ Coach Faizah who also trains the Back2Netball team at the Singapore Netball Club
   
 ### **Photos / Videos**
 
+![](/images/CCA/Netball/Netball_02_2024.jpg)
+
+![](/images/CCA/Netball/Netball_01_2024.jpg)
+
 ![](/images/Zoom%20Training.jpeg)
 <center>Zoom Training</center>
 
