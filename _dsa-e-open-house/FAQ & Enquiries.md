@@ -4,7 +4,7 @@ permalink: /e-open-house/faq-and-enquiries/
 description: ""
 variant: markdown
 ---
-If you have further inquiries, please click [here](http://gg.gg/eOH_enquiries).  
+If you have further enquiries, please click [here](http://gg.gg/eOH_enquiries).  
 
 
 | FAQ 2023 |  |  |
