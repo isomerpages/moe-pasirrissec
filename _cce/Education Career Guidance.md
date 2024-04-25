@@ -84,13 +84,12 @@ Initial stage of career aspiration
 I Have A Dream<br>
 My Skills Quest<br>
 Connecting With Others To Dream
-
-<strong>Key Programmes:</strong>
-
-Use of RIASEC code
+<br><br>
+<strong>Key Programmes:</strong><br>
+Use of RIASEC code<br>
 MySkillsFuture online portal, Career Decision Wheel to discover
-self and explore possible career clusters
-Sec 3 Subject Combination talks
+self and explore possible career clusters<br>
+Sec 3 Subject Combination talks<br>
 </td></tr>
 
 <tr style="background-color:gold">
@@ -102,22 +101,20 @@ Sec 3 Subject Combination talks
 <td rowspan="1" colspan="1">
 Where am I going?<br>
 (Career Exploration)
-
-	
+<br><br>
 Pasirians are to explore possible education and career pathways through ITE / Polytechnic / JC experiences and/or work experiences opportunities.
 </td>
 	
 <td rowspan="1" colspan="1">
 <strong>Main focus:</strong> 
 <br>Development of important career skills and attributes
-<br>
-
+<br><br>
 <strong>ECG lessons:</strong><br>
 Why Career Starts With a T<br>
-A Face In the Crowd&lt;
-Plan Know Do
-10 Years from Now
-<br>
+A Face In the Crowd<br>
+Plan Know Do<br>
+10 Years from Now<br>
+<br><br>
 <strong>Key Programmes:</strong><br>
 ITE and Polytechnic Experience Programme<br>
 Poly Advanced Elective Modules<br>
