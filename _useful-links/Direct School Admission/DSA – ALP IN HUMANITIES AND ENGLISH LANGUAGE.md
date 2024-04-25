@@ -26,5 +26,4 @@ If you have an interest and passion for learning more about Broadcast Journalism
 | Language and Humanities| Humanities | 
 | Language and Humanities| English Language |
 
-#### More details will be published soon!
-
+#### More details on the DSA application and shortlisting criteria will be published soon!
