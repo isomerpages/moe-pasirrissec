@@ -48,7 +48,7 @@ Every year is an exciting year for PRSS Choir, with an array of meaningful activ
 **Conductor**<br>
 Mr. Terrence Toh
 
-### **Photos/Videos**
+### **Photos / Videos**
 
 ![](/images/CCA/Choir/Choir_Grid_01.jpg)
 <center>
