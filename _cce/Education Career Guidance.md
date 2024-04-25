@@ -182,7 +182,7 @@ difficult decisions to make. Students need to be able to make well-informed
 choices by talking to their parents, home teachers, subject teachers and/or
 school ECG counsellor about their education and career aspirations. They
 can also explore and gather information via the MOE Education and Career
-Guidance e-portal at https://www.myskillsfuture.sg/secondary
+Guidance e-portal at [www.myskillsfuture.gov.sg](https://www.myskillsfuture.gov.sg/content/portal/en/index.html)
 
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/My%20Skills%20Future.png">
