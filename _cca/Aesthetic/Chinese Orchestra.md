@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### **About us**
 
-Where Music **CO**nquers
+#### Where Music **CO**nquers
 
 Pasir Ris Secondary School Chinese Orchestra (PRSSCO) is committed to developing Pasirians into confident and independent learners who are motivated to always put their best foot forward. PRSSCO advocates care for each other and teamwork and discipline are crucial values of an orchestra.
 
@@ -68,8 +68,13 @@ Mr Chin Yen Choong
 <iframe width="560" height="315" src="https://www.youtube.com/embed/juMno1qq2Ys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> </center>
 
 ![](/images/CO%20Photo%203.png)
+
 ![](/images/CO%202.jpeg)
+
 ![](/images/co.png)
+
 ![](/images/co2.png)
+
 ![](/images/IMG-20220903-WA0011.jpeg)
+
 ![](/images/co3.png)
