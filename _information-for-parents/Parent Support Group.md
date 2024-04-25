@@ -45,7 +45,7 @@ We look forward to your support. Your involvement in school activities will enha
 CHAIRPERSON : Mr Wong Yew Kong, Edwin
 VICE CHAIRPERSON : Mr Intekhab
 
-#### **Photos / Videos**
+#### **PHOTOS**
 ![](/images/PSG%20EXCO%202019.png)
 <center><i>
 PRSS PSG EXCO<br>
