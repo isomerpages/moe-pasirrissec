@@ -20,4 +20,4 @@ If you have a keen interest and talent for Coding, Makers Movement, Robotics, Vi
 | -------- | -------- | 
 | Science, Technology, Engineering and Mathematics | Digital Media | 
 
-#### More details will be published soon!
+#### More details on the DSA application and shortlisting criteria will be published soon!

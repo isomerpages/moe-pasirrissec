@@ -114,7 +114,7 @@ Why Career Starts With a T<br>
 A Face In the Crowd<br>
 Plan Know Do<br>
 10 Years from Now<br>
-<br><br>
+<br>
 <strong>Key Programmes:</strong><br>
 ITE and Polytechnic Experience Programme<br>
 Poly Advanced Elective Modules<br>
@@ -145,7 +145,7 @@ Its All in the Presentation<br>
 My Vision, My Future<br>
 I Can Do All Things<br>
 Hope in Action!<br>
-<br><br>
+<br>
 <strong>Key Programmes:</strong><br>
 ECG small group consultation<br>
 Direct School Admission to JC<br>
@@ -188,7 +188,7 @@ Guidance e-portal at https://www.myskillsfuture.sg/secondary
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/My%20Skills%20Future.png">
 </div>
 <p><strong>More Information:</strong> 
-<br><a href="https://www.myskillfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillfuture.gov.sg/content/student/en/secondary.html</a>
+<br><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/QR%20COde%202.png">
