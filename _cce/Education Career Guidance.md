@@ -136,7 +136,7 @@ Pasirians are to plan and work towards possible education and career pathways as
 <td rowspan="1" colspan="1">
 <strong>Main focus:</strong><br>
 Making decision on Post-Secondary Options
-
+<br><br>
 <strong>ECG lessons:</strong><br>
 Ink It Not Just Think It<br>
 The Future Starts Now<br>
@@ -145,14 +145,13 @@ Its All in the Presentation<br>
 My Vision, My Future<br>
 I Can Do All Things<br>
 Hope in Action!<br>
-	
+<br><br>
 <strong>Key Programmes:</strong><br>
 ECG small group consultation<br>
 Direct School Admission to JC<br>
 ITE / Poly Early Admission Exercise<br>
 Career Awareness Day<br>
 Post-Sec education pathway talks
-	
 </td></tr></tbody></table>
 
 <h4>Post-Secondary School Education Pathways</h4>
@@ -259,7 +258,7 @@ In addition to ApLM@ITE, selected sec 3 express students were also enrolled in A
 
 As part of the STEAM Carnival, selected students were given the rare opportunity
 to visit Jurong Island to learn more about the petrol-chemical industry.
-
+![](/images/CCE/ECG/learning_journey_jurong_island_2024.jpg)
 
 <h5>STEAM Carnival Career VR Expo</h5>
 <p>During the STEAM carnival, all sec 3 students got to explore various STEAM
@@ -269,10 +268,7 @@ experience of the various tech-related jobs.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ceg_2023_02.png">
 </div>
 <h5>Learning Journeys to Temasek Polytechnic</h5>
-<p>As part of Camp Conquest and Camp Quest, all graduating students had the
-opportunity to visit the different schools of Temasek Polytechnics. Students
-embarked on a tailor made Learning Journey to a school of their interest
-to find out more about polytechnic courses of their choice.</p>
+<p>As part of Camp Conquest and Camp Quest, all graduating students had the opportunity to visit the different schools of Temasek Polytechnics. Students embarked on a tailor made Learning Journey to a school of their interest to find out more about polytechnic courses of their choice.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ceg_2023_01b.png">
 </div>
