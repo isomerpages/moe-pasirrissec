@@ -34,7 +34,7 @@ This famous quote was often shared by members of our Parent Support Group Exco. 
 |  | Mrs Petra Tan | 
 |  | Mdm Khadijah Karim | 
 
-Please click the [Registration Form](https://forms.gle/TYmVaAcWKN3BqHzQ6) PSG in 2024 or scan the QR code below.
+Please click [here](https://forms.gle/TYmVaAcWKN3BqHzQ6) to register for PSG in 2024 or scan the QR code below.
 
 <img style="width:35%" height="auto" width="100%" src="/images/ECG_2024_1.png">
 
@@ -42,7 +42,7 @@ We look forward to your support. Your involvement in school activities will enha
 
 #### **DADS FOR LIFE EXCO**
 
-CHAIRPERSON : Mr Wong Yew Kong, Edwin
+CHAIRPERSON : Mr Wong Yew Kong, Edwin<br>
 VICE CHAIRPERSON : Mr Intekhab
 
 #### **PHOTOS**
