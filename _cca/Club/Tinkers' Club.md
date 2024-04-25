@@ -28,16 +28,17 @@ At Tinkers Club, students learn about crafting and coding. As we live in an IT s
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday  | 2.30pm - 6.00pm | Thinkers' Club Room (Makerspace) |
-| Thursday | 2.30pm - 6.00pm | Thinkers' Club Room (Makerspace) |
+| Tuesday  | 3.30pm - 6.00pm | Tinkers' Club Room |
+| Thursday | 3.30pm - 6.00pm | Tinkers' Club Room |
 
 ### **Teachers-in-charge**
 
 * Mr. Wilfred Teo (OIC)
 * Mr. Noor Rahman Saini (2IC)  
 * Ms. Maryam bte Anuar
+* Mohamed Ali Yunos (STEM Instructor)
 
-### **Photos**
+### **Photos / Videos**
 
 <img src="/images/SAFMC.jpeg" style="width:50%;float:left"><img src="/images/Crafts%20at%20tinkers.jpeg" style="width:50%"><img src="/images/RoboticsCoding.jpeg" style="width:50%;float:left"><img src="/images/ArtsCraft.jpeg" style="width:50%">
 
