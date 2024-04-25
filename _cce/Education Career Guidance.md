@@ -56,11 +56,11 @@ Pasirians are to develop self-awareness and positive work ethics.<p></p>
 <td rowspan="1" colspan="1">
 <strong>Main Focus</strong><br>
 Discover of one’s values, interests, personalities, skills
-	
+<br><br>	
 <strong>ECG lessons:</strong><br>
 Aspiring Towards the Me I Want to Be
-Rediscovering 
-
+Rediscovering  Me
+<br><br>
 <strong>Key Programmes:</strong><br>
 Career Interests Profiling and self-discovery
 </td></tr>
@@ -73,14 +73,13 @@ Career Interests Profiling and self-discovery
 <td rowspan="1" colspan="1">
 Where am I going?<br>
 (Career Awareness)
-
-Pasirians are to make informed choice of education and career direction
-that will align with their interests, strengths and passion.
+<br><br>
+Pasirians are to make informed choice of education and career direction that will align with their interests, strengths and passion.
 </td>
 <td rowspan="1" colspan="1">
 <strong>Main Focus</strong><br>
 Initial stage of career aspiration
-
+<br><br>
 <strong>ECG lessons:</strong><br>
 I Have A Dream<br>
 My Skills Quest<br>
@@ -118,7 +117,7 @@ Why Career Starts With a T<br>
 A Face In the Crowd&lt;
 Plan Know Do
 10 Years from Now
-
+<br>
 <strong>Key Programmes:</strong><br>
 ITE and Polytechnic Experience Programme<br>
 Poly Advanced Elective Modules<br>
