@@ -4,12 +4,14 @@ permalink: /e-open-house/faq-and-enquiries/
 description: ""
 variant: markdown
 ---
+## Frequently Asked Questions
+
 If you have further enquiries, please click [here](http://gg.gg/eOH_enquiries).  
 
 
 | FAQ 2023 |  |  |
 | -------- | -------- | -------- |
-|Please click [here](/files/FAQS\faqs%20eopen%20house%202023.pdf) to view the FAQs.  |     |    |
+| Please click [here](/files/FAQS\faqs%20eopen%20house%202023.pdf) to view the FAQs.  |     |    |
 
 | FAQ 2022 |  |  |
 | -------- | -------- | -------- |
