@@ -36,7 +36,7 @@ This famous quote was often shared by members of our Parent Support Group Exco. 
 
 Please click the [Registration Form](https://forms.gle/TYmVaAcWKN3BqHzQ6) PSG in 2024 or scan the QR code below.
 
-<img height="100" width="100" src="/images/ECG_2024_1.png">
+<img style="width:35%" height="auto" width="100%" src="/images/ECG_2024_1.png">
 
 We look forward to your support. Your involvement in school activities will enhance the educational experiences of our students and strengthen parent-child bonding. 
 
@@ -45,6 +45,7 @@ We look forward to your support. Your involvement in school activities will enha
 CHAIRPERSON : Mr Wong Yew Kong, Edwin
 VICE CHAIRPERSON : Mr Intekhab
 
+#### **Photos / Videos**
 ![](/images/PSG%20EXCO%202019.png)
 <center><i>
 PRSS PSG EXCO<br>
