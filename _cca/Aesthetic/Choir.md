@@ -7,7 +7,9 @@ variant: markdown
 ---
 ### **About us**
 
-The Pasir Ris Secondary School (PRSS) Choir aims to foster a family of choristers with exemplary character and musicianship, who is self-directed to achieve high standards of performance whilst celebrates cultural diversity. With our motto of **“Many Voices, One Harmony”**, PRSS Choir prides herself by working together as a family where no member is left behind. We believe in deepening one’s values, developing one's self-confidence and honing one's leadership skills. These qualities reflect the school’s belief in the importance of developing confident and well-rounded individuals as they contribute actively to the music culture in school. 
+#### **Many Voices, One Harmony**
+
+The Pasir Ris Secondary School Choir aims to foster a family of choristers with exemplary character and musicianship, who is self-directed to achieve high standards of performance whilst celebrates cultural diversity. With our motto of **“Many Voices, One Harmony”**, PRSS Choir prides herself by working together as a family where no member is left behind. We believe in deepening one’s values, developing one's self-confidence and honing one's leadership skills. These qualities reflect the school’s belief in the importance of developing confident and well-rounded individuals as they contribute actively to the music culture in school. 
 
 In 2010, PRSS Choir found new direction, transitioning from a SSA (Female) Choir to SATB (Mixed-Gender) Choir under the baton of Mr. Terrence Toh. Over time, PRSS Choir grew from strength to strength, culminating in the attainment of her first Singapore Youth Festival (SYF) Gold Award as an SATB Choir in 2011. Subsequently, in 2013, PRSS Choir was awarded a Certificate of Distinction in the biennial SYF Arts Presentation, a feat repeated in 2015, 2017 and 2019, establishing herself as a Performing Arts group with immense potential and promise. With ample opportunities and a rich diversity of learning experiences created for every member, both locally and overseas over the years, PRSS Choir hopes to bring out the best in every member, apart from discovering their musical talents and developing an appreciation for music.
 
@@ -46,7 +48,7 @@ Every year is an exciting year for PRSS Choir, with an array of meaningful activ
 **Conductor**<br>
 Mr. Terrence Toh
 
-### **Photos/Videos**
+### **Photos / Videos**
 
 ![](/images/CCA/Choir/Choir_Grid_01.jpg)
 <center>
@@ -58,4 +60,5 @@ Mr. Terrence Toh
 ![](/images/Choir%20Photo%203.jpeg)
 ![](/images/Choir%20Photo%204.jpeg)
 ![](/images/Choir%20Photo%205.jpeg)
+
 ![](/images/Choir%20Photo_6.png)
