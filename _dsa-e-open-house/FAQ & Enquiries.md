@@ -6,8 +6,6 @@ variant: markdown
 ---
 ## Frequently Asked Questions
 
-If you have further enquiries, please click [here](http://gg.gg/eOH_enquiries).  
-
 
 | FAQ 2023 |  |  |
 | -------- | -------- | -------- |
@@ -22,3 +20,6 @@ If you have further enquiries, please click [here](http://gg.gg/eOH_enquiries).
 | -------- | -------- | -------- |
 | Please click [here](/files/e-Open%20House%202021%20Nov_FAQs.pdf) to view the FAQs.  |     |    |
 |Please click [here](/files/e-Open%20House%202021%20Nov_Collated%20FAQs%20from%20online%20engagement%20session%2026%20Nov.pdf) to view other FAQs from our Open House (year-end) in 2021.  |     |    |
+
+## Contact Us
+If you have further enquiries, please click [here](http://gg.gg/eOH_enquiries).  
