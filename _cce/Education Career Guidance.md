@@ -188,7 +188,7 @@ Guidance e-portal at https://www.myskillsfuture.sg/secondary
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/My%20Skills%20Future.png">
 </div>
 <p><strong>More Information:</strong> 
-<br><a href="https://www.myskillfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillfuture.gov.sg/content/student/en/secondary.html</a>
+<br><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/QR%20COde%202.png">
