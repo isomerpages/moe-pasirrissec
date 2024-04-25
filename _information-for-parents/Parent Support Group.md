@@ -4,7 +4,7 @@ permalink: /useful-links/Information-for-Parents/Parent-Support-Group/
 description: ""
 variant: markdown
 ---
-##### Coming together is a beginning. Keeping together is progress. Working together is success. - Henry Ford
+##### **Coming together is a beginning. Keeping together is progress. Working together is success. - Henry Ford**
 
 This famous quote was often shared by members of our Parent Support Group Exco. It goes well with our Partnership Framework of fostering synergistic partnership for win-win outcomes.
 
