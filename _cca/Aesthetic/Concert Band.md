@@ -31,13 +31,13 @@ The Concert Band, led by 2 well-respected conductors, has a dynamic programme to
 
 ### **Schedule**
 
-##### Combined Practice
+##### **Combined Practice**
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Monday &amp; Thursday | 3.30pm - 6.30pm | Band Room |
+| Monday &amp; Thursday | 3.15pm - 6.30pm | Band Room |
 
-##### Sectionals Practice
+##### **Sectionals Practice**
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
@@ -51,7 +51,8 @@ The Concert Band, led by 2 well-respected conductors, has a dynamic programme to
 * Ms. Pearlyn Chia
 * Ms. Ong Ting Kai
 
-**Conductors:**<br> Mr Md Faizal Othman<br>
+#### **Conductors**
+Mr Md Faizal Othman<br>
 Mr Steven Phua
 
 ### **Photos / Videos**
