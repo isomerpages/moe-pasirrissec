@@ -89,5 +89,5 @@ in a supportive environment, we invite you to join our Pasirian family.</p>
 </tr>
 </tbody>
 </table>
-<h4>More details will be published soon!</h4>
+<h4>More details on the DSA application and shortlisting criteria will be published soon!</h4>
 <p></p>
