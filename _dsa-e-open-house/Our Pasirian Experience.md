@@ -4,8 +4,11 @@ permalink: /e-open-house/our-pasirian-experience/
 description: ""
 variant: markdown
 ---
+<div style="text-align:center">
+	
 ### **SCHOOL CORPORATE VIDEO**
 
+<div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GOF8jI49lWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 ### **STUDENTS' EXPERIENCE**
@@ -41,4 +44,4 @@ With pride and joy let us sing
 Let truth and sincerity come right from your heart  
 These and other thoughts we gladly bring  
 To Pasir Ris right from the start  
-To Pasir Ris right from the start
+To Pasir Ris right from the start</div></div>
