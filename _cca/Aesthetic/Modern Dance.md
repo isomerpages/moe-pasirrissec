@@ -7,9 +7,7 @@ variant: markdown
 ---
 ### **About us**
 
-#### PRSS Dance
-
-**Crafted with sincerity. Choreographed with technical prowess. Performed with purpose.**
+#### **Crafted with sincerity. Choreographed with technical prowess. Performed with purpose.**
 
 You call it **Dance**. We call it **Life!**
 
