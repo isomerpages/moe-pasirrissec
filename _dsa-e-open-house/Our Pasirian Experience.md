@@ -22,27 +22,30 @@ Find out more [here](/about-us/Our-Partners/Alumni/).
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OXW8GQrnhn4" height="315" width="560"></iframe></div>
 
 ### **SCHOOL SONG**
+
 <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pzvipntESGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pzvipntESGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 
-With pride and joy let us sing  
-Let truth and sincerity come right from your heart  
-These and other thoughts we gladly bring  
-To Pasir Ris right from the start  
-
-There's care and service we offer  
-Give kindness to everyone and grudging to none  
-These and other deeds to you we proffer  
-Realizing the best from everyone  
-  
-Have pride in self and concern for others  
-But never from the good to stray away  
-  
-With pride and joy let us sing  
-Let truth and sincerity come right from your heart  
-These and other thoughts we gladly bring  
-To Pasir Ris right from the start  
+<p align="center">
+With pride and joy let us sing<br>  
+Let truth and sincerity come right from your heart<br>  
+These and other thoughts we gladly bring<br>  
+To Pasir Ris right from the start<br>  
+</p>
+<p align="center">
+There's care and service we offer<br>  
+Give kindness to everyone and grudging to none<br>  
+These and other deeds to you we proffer<br>  
+Realizing the best from everyone<br>  
+</p>  
+<p align="center">
+Have pride in self and concern for others<br>  
+But never from the good to stray away<br>  
+</p>  
+<p align="center">	
+With pride and joy let us sing<br>  
+Let truth and sincerity come right from your heart<br>  
+These and other thoughts we gladly bring<br>  
+To Pasir Ris right from the start<br>  
 To Pasir Ris right from the start
-<p></p>
-</div>
+</p>
