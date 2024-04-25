@@ -269,7 +269,6 @@ experience of the various tech-related jobs.</p>
 </div>
 <h5>Learning Journeys to Temasek Polytechnic</h5>
 <p>As part of Camp Conquest and Camp Quest, all graduating students had the opportunity to visit the different schools of Temasek Polytechnics. Students embarked on a tailor made Learning Journey to a school of their interest to find out more about polytechnic courses of their choice.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ceg_2023_01b.png">
-</div>
+
+
 <p></p>
