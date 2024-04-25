@@ -56,11 +56,11 @@ Pasirians are to develop self-awareness and positive work ethics.<p></p>
 <td rowspan="1" colspan="1">
 <strong>Main Focus</strong><br>
 Discover of one’s values, interests, personalities, skills
-	
+<br><br>	
 <strong>ECG lessons:</strong><br>
 Aspiring Towards the Me I Want to Be
-Rediscovering 
-
+Rediscovering  Me
+<br><br>
 <strong>Key Programmes:</strong><br>
 Career Interests Profiling and self-discovery
 </td></tr>
@@ -73,25 +73,23 @@ Career Interests Profiling and self-discovery
 <td rowspan="1" colspan="1">
 Where am I going?<br>
 (Career Awareness)
-
-Pasirians are to make informed choice of education and career direction
-that will align with their interests, strengths and passion.
+<br><br>
+Pasirians are to make informed choice of education and career direction that will align with their interests, strengths and passion.
 </td>
 <td rowspan="1" colspan="1">
 <strong>Main Focus</strong><br>
 Initial stage of career aspiration
-
+<br><br>
 <strong>ECG lessons:</strong><br>
 I Have A Dream<br>
 My Skills Quest<br>
 Connecting With Others To Dream
-
-<strong>Key Programmes:</strong>
-
-Use of RIASEC code
+<br><br>
+<strong>Key Programmes:</strong><br>
+Use of RIASEC code<br>
 MySkillsFuture online portal, Career Decision Wheel to discover
-self and explore possible career clusters
-Sec 3 Subject Combination talks
+self and explore possible career clusters<br>
+Sec 3 Subject Combination talks<br>
 </td></tr>
 
 <tr style="background-color:gold">
@@ -103,22 +101,20 @@ Sec 3 Subject Combination talks
 <td rowspan="1" colspan="1">
 Where am I going?<br>
 (Career Exploration)
-
-	
+<br><br>
 Pasirians are to explore possible education and career pathways through ITE / Polytechnic / JC experiences and/or work experiences opportunities.
 </td>
 	
 <td rowspan="1" colspan="1">
 <strong>Main focus:</strong> 
 <br>Development of important career skills and attributes
-<br>
-
+<br><br>
 <strong>ECG lessons:</strong><br>
 Why Career Starts With a T<br>
-A Face In the Crowd&lt;
-Plan Know Do
-10 Years from Now
-
+A Face In the Crowd<br>
+Plan Know Do<br>
+10 Years from Now<br>
+<br><br>
 <strong>Key Programmes:</strong><br>
 ITE and Polytechnic Experience Programme<br>
 Poly Advanced Elective Modules<br>
@@ -132,15 +128,15 @@ Work Experience Programme<br>
 
 <tr><td rowspan="1" colspan="1">
 How do I get there?<br>
-(Career Planning)<br>
-	
+(Career Planning)
+<br><br>
 Pasirians are to plan and work towards possible education and career pathways as they gear up for their national examinations in their graduating year.
 </td>
 
 <td rowspan="1" colspan="1">
 <strong>Main focus:</strong><br>
 Making decision on Post-Secondary Options
-
+<br><br>
 <strong>ECG lessons:</strong><br>
 Ink It Not Just Think It<br>
 The Future Starts Now<br>
@@ -149,14 +145,13 @@ Its All in the Presentation<br>
 My Vision, My Future<br>
 I Can Do All Things<br>
 Hope in Action!<br>
-	
+<br><br>
 <strong>Key Programmes:</strong><br>
 ECG small group consultation<br>
 Direct School Admission to JC<br>
 ITE / Poly Early Admission Exercise<br>
 Career Awareness Day<br>
 Post-Sec education pathway talks
-	
 </td></tr></tbody></table>
 
 <h4>Post-Secondary School Education Pathways</h4>
@@ -263,7 +258,7 @@ In addition to ApLM@ITE, selected sec 3 express students were also enrolled in A
 
 As part of the STEAM Carnival, selected students were given the rare opportunity
 to visit Jurong Island to learn more about the petrol-chemical industry.
-
+![](/images/CCE/ECG/learning_journey_jurong_island_2024.jpg)
 
 <h5>STEAM Carnival Career VR Expo</h5>
 <p>During the STEAM carnival, all sec 3 students got to explore various STEAM
@@ -272,12 +267,9 @@ experience of the various tech-related jobs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ceg_2023_02.png">
 </div>
+
 <h5>Learning Journeys to Temasek Polytechnic</h5>
-<p>As part of Camp Conquest and Camp Quest, all graduating students had the
-opportunity to visit the different schools of Temasek Polytechnics. Students
-embarked on a tailor made Learning Journey to a school of their interest
-to find out more about polytechnic courses of their choice.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ceg_2023_01b.png">
-</div>
-<p></p>
+<p>As part of Camp Conquest and Camp Quest, all graduating students had the opportunity to visit the different schools of Temasek Polytechnics. Students embarked on a tailor made Learning Journey to a school of their interest to find out more about polytechnic courses of their choice.</p>
+<br>
+<img src="/images/CCE/ECG/Learning_Journey_Temasek_Poly_2024.jpg"><br>
+<img src="/images/CCE/ECG/Learning_Journey_Temasek_Poly_02_2024.jpg">
