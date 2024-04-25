@@ -38,12 +38,13 @@ variant: markdown
 
 ### **Teachers-in-charge**
 
-| Boys Team | Girls Team| 
+|  | | 
 | -------- | -------- | 
-| Mr Andy Law (IC) | Ms Wang Xiangkun | 
-| Mr Chang Hock Boon (2IC)  |  | 
-| Mr Mohamed Riffai bin Maidin  |  |
-| Albert Neo (from Jun) |  |
+| Mr Andy Law  |  | 
+| Mr Chang Hock Boon  |  | 
+| Mdm Wang Xiangkun  |  | 
+| Mr Mohamed Riffaii bin Maidin  |  |
+| Mr Liu Shucun (From Jun) |  |
 
 ### **Coach**
 
