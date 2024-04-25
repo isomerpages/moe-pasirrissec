@@ -128,8 +128,8 @@ Work Experience Programme<br>
 
 <tr><td rowspan="1" colspan="1">
 How do I get there?<br>
-(Career Planning)<br>
-	
+(Career Planning)
+<br><br>
 Pasirians are to plan and work towards possible education and career pathways as they gear up for their national examinations in their graduating year.
 </td>
 
