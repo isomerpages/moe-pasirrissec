@@ -44,6 +44,8 @@ Participation in NSG 'B' Division Badminton Championships 2024 (East Zone)
 
 ### **Photos / Videos**
 
+![](/images/CCA/Badminton/Badminton_01_2024.jpg)
+![](/images/CCA/Badminton/Badminton_02_2024.jpg)
 ![](/images/CCA/Badminton/badminton%2001.jpg)
 ![](/images/CCA/Badminton/badminton%2002.jpg)
 ![](/images/CCA/Badminton/badminton%2003.jpg)
