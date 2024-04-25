@@ -273,4 +273,3 @@ experience of the various tech-related jobs.</p>
 <br>
 <img src="/images/CCE/ECG/Learning_Journey_Temasek_Poly_2024.jpg"><br>
 <img src="/images/CCE/ECG/Learning_Journey_Temasek_Poly_02_2024.jpg">
-
