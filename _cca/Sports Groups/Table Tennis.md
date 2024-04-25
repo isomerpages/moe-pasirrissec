@@ -40,7 +40,7 @@ Participated in National School Games 2023
 
 Mr Colin Wee Sheng Rong
 
-### **Photos**
+### **Photos / Videos**
 
 ![](/images/CCA/Table%20Tennis/table%20tennis%2001.JPG)
 

@@ -23,6 +23,8 @@ A storm has been brewing in a teacup for the past two years during COVID-19. The
 
 ### **Highlights**
 
+2024 B Div Netball girls National School Games started early in Term 1. Before the team could even meet up for a good team warm up we found ourselves right in a game! Despite our girls sustaining injuries, the team fought on with grit and grace. Our match to qualify for the second round was so close. Although the girls had to make many last minute changes in their playing positions due to unforeseen circumcumstances, they stood up for the occasion and played excellently.
+
 Besides the annual NSG for B and C Division, we are also participating in the School Challenge League. Hence, during CCA we get to spar with other schools in mini-competitions.
 
 ### **Achievements**
@@ -46,15 +48,17 @@ We are helping out our neighbouring Yumin Primary school to have friendly matche
 
 Coach Faizah who also trains the Back2Netball team at the Singapore Netball Club
   
-### **Photos**
+### **Photos / Videos**
+
+![](/images/CCA/Netball/Netball_02_2024.jpg)
+
+![](/images/CCA/Netball/Netball_01_2024.jpg)
 
 ![](/images/Zoom%20Training.jpeg)
 <center>Zoom Training</center>
 
 ![](/images/Zoom%20Bonding.jpeg)
 <center>Zoom Bonding</center>
-
-
 
 ![](/images/Team%201.jpeg)
 

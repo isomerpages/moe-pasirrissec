@@ -38,24 +38,21 @@ variant: markdown
 
 ### **Teachers-in-charge**
 
-| Boys Team | Girls Team| 
-| -------- | -------- | 
-| Mr Andy Law (IC) | Ms Wang Xiangkun | 
-| Mr Chang Hock Boon (2IC)  |  | 
-| Mr Mohamed Riffai bin Maidin  |  |
-| Albert Neo (from Jun) |  |
+* Mr Andy Law 
+* Mr Chang Hock Boon 
+* Mdm Wang Xiangkun
+* Mr Mohamed Riffaii bin Maidin
+* Mr Liu Shucun (From Jun)
 
 ### **Coach**
 
 Mr Ryan Ling 
 
-### **Photos**
+### **Photos / Videos**
 
 ![](/images/CCA/Volleyball/volleyball%2001.jpg)
 
 ![](/images/CCA/Volleyball/volleyball%2002.jpeg)
-
-
 
 ![](/images/CCA/Volleyball/volleyball%2004.jpg)
 
