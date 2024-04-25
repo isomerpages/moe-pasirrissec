@@ -23,4 +23,4 @@ If you have the passion and talent for Football or Volleyball, we invite you to 
 |Sports &amp; Games|<a href="/cca/Sports-and-Games/Volleyball/">Volleyball </a>|Boys &amp; Girls|
 
 
-#### More details will be published soon!
+#### More details on the DSA application and shortlisting criteria will be published soon!
