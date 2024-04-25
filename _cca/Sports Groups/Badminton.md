@@ -21,6 +21,8 @@ In 2022, both boys' teams participated in the East Zone B and C Divisions Badmin
 
 In 2023, the team participated in the East Zone B Division Badminton Tournament of the National School Games. Some of the players also participated in the Papago Badminton Carnival 2023.
 
+Participation in NSG 'B' Division Badminton Championships 2024 (East Zone)
+
 ### **Schedule**
 
 | Training Days | Time | Venue |
@@ -42,7 +44,6 @@ In 2023, the team participated in the East Zone B Division Badminton Tournament 
 
 ### **Photos / Videos**
 
-![](/images/CCA/Badminton/badminton%2005.jpg)
 ![](/images/CCA/Badminton/badminton%2001.jpg)
 ![](/images/CCA/Badminton/badminton%2002.jpg)
 ![](/images/CCA/Badminton/badminton%2003.jpg)
