@@ -12,7 +12,9 @@ In Camp Oneiric, we are sure that the Secondary Ones will enjoy and have a memor
 
 Camp Oneiric offers plenty of opportunities for our students to step beyond their comfort zones and become independent and confident learners. Some of the highlights from this camp include making the dream catcher, Kin Ball, Amazing Race, Aesthetic Induction program, and music-making sessions. These activities will establish stronger bonds between classmates and their teachers.
 
-![](/images/Signature%20Programmes/Level%20Camps/Sec_1_Camp_Oneiric_Collage.jpg)
+![](/images/Signature%20Programmes/Level%20Camps/sec_1_camp_oneiric_collage%2001%202024.jpg)
+
+![](/images/Signature%20Programmes/Level%20Camps/Sec_1_Camp_Oneiric_Collage_02_2024.jpg)
 
 #### **Sec 2 - Camp Spark**
 
@@ -29,6 +31,7 @@ Through the camp, students will develop a positive mindset as they learn to over
 </div>
 
 ![](/images/Signature%20Programmes/Level%20Camps/Level_Camp_Sec_2_2024.jpg)
+
 #### **Sec 3 - Camp Metamorphosis**
 
 The Secondary 3 level camp, entitled “Camp Metamorphosis”, aims to develop identity and provide transitional support as students move to a new class in secondary 3. The activities were designed to help them ease into the new environment and provide opportunities to build friendships with cohort peers and cultivate a stronger sense of belonging to the school.  
