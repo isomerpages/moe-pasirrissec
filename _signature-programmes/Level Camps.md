@@ -12,6 +12,9 @@ In Camp Oneiric, we are sure that the Secondary Ones will enjoy and have a memor
 
 Camp Oneiric offers plenty of opportunities for our students to step beyond their comfort zones and become independent and confident learners. Some of the highlights from this camp include making the dream catcher, Kin Ball, Amazing Race, Aesthetic Induction program, and music-making sessions. These activities will establish stronger bonds between classmates and their teachers.
 
+![](/images/Signature%20Programmes/Level%20Camps/sec_1_camp_oneiric_collage%2001%202024.jpg)
+![](/images/Signature%20Programmes/Level%20Camps/Sec_1_Camp_Oneiric_Collage_02_2024.jpg)
+
 #### **Sec 2 - Camp Spark**
 
 At Camp Spark, students will discover their interests and strengths and develop their socio-emotional competencies through venturing out of their comfort zone and working with others.
@@ -25,6 +28,8 @@ Through the camp, students will develop a positive mindset as they learn to over
 <div style="text-align:center">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/AEGEg6JSCx8?si=AXtLN_Q04nBQbshh" height="315" width="560"></iframe>
 </div>
+
+![](/images/Signature%20Programmes/Level%20Camps/sec_2%20camp%20spark%202024.jpg)
 
 #### **Sec 3 - Camp Metamorphosis**
 
