@@ -26,6 +26,7 @@ Through the camp, students will develop a positive mindset as they learn to over
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/AEGEg6JSCx8?si=AXtLN_Q04nBQbshh" height="315" width="560"></iframe>
 </div>
 
+![](/images/Signature%20Programmes/Level%20Camps/Level_Camp_Sec_2_2024.jpg)
 #### **Sec 3 - Camp Metamorphosis**
 
 The Secondary 3 level camp, entitled “Camp Metamorphosis”, aims to develop identity and provide transitional support as students move to a new class in secondary 3. The activities were designed to help them ease into the new environment and provide opportunities to build friendships with cohort peers and cultivate a stronger sense of belonging to the school.  
