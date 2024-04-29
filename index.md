@@ -18,10 +18,10 @@ sections:
   - infopic:
       title: PRSS DSA e-Open House
       id: infopic
-      description: Come back to know more about our DSA Talent Areas in PRSS.
       image: /images/DSA/Open_House_Banner_2024_Resize.png
-      subtitle: COMING SOON!
       alt: DSA E Open House 2024 Banner
+      url: https://www.pasirrissec.moe.edu.sg/dsa/
+      button: Find out more
   - infopic:
       title: PRSS Campus Tour
       description: Click the link below for a 360° tour of the school
