@@ -7,6 +7,8 @@ variant: markdown
 ### Frequently Asked Questions
 <br>
 
+<table style="width:100%"><tbody><tr style="background-color:gold"><th>FAQ 2024</th></tr><tr><td>Please click <a href="/files/FAQS\faqs%20eopen%20house%202023.pdf">here</a> to view the FAQs</td></tr></tbody></table>
+
 <table style="width:100%"><tbody><tr style="background-color:gold"><th>FAQ 2023</th></tr><tr><td>Please click <a href="/files/FAQS\faqs%20eopen%20house%202023.pdf">here</a> to view the FAQs</td></tr></tbody></table>
 	
 <table style="width:100%"><tbody><tr style="background-color:gold"><th>FAQ 2022</th></tr><tr><td>Please click <a href="/files/FAQs_e-Open%20House%202022Nov%20_9%20Nov%2022.pdf">here</a> to view the FAQs</td></tr>
