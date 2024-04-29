@@ -22,6 +22,9 @@ sections:
       alt: DSA E Open House 2024 Banner
       url: https://www.pasirrissec.moe.edu.sg/dsa/
       button: Find out more
+      description: PRSS warmly invites all Primary 6 students and parents to our DSA
+        e-Open House from 29 April to 3 June 2024!
+      subtitle: ANNOUNCEMENTS
   - infopic:
       title: PRSS Campus Tour
       description: Click the link below for a 360° tour of the school
