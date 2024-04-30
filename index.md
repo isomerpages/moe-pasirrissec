@@ -32,4 +32,12 @@ sections:
       url: https://go.gov.sg/prsscampustour
       image: /images/E Open house/2023 campus tour (resized).png
       alt: PRSS Campus Tour
+  - infopic:
+      title: The Pursuit
+      id: infopic
+      description: >
+        Our PRSS Performing Arts will be perfoming a musical showcase on 2nd May
+        at Victoria Theatre! 
+      image: /images/the pursuit poster.jpg
+      alt: Image alt text
 ---
