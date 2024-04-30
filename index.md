@@ -26,18 +26,17 @@ sections:
         e-Open House from 29 April to 3 June 2024!
       subtitle: ANNOUNCEMENTS
   - infopic:
+      title: The Pursuit
+      id: infopic
+      description: Our PRSS Performing Arts will be perfoming a musical showcase on
+        2nd May at Victoria Theatre!
+      image: /images/the pursuit poster.jpg
+      alt: Image alt text
+  - infopic:
       title: PRSS Campus Tour
       description: Click the link below for a 360° tour of the school
       button: Campus Tour
       url: https://go.gov.sg/prsscampustour
       image: /images/E Open house/2023 campus tour (resized).png
       alt: PRSS Campus Tour
-  - infopic:
-      title: The Pursuit
-      id: infopic
-      description: >
-        Our PRSS Performing Arts will be perfoming a musical showcase on 2nd May
-        at Victoria Theatre! 
-      image: /images/the pursuit poster.jpg
-      alt: Image alt text
 ---
