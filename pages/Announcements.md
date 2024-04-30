@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 3rd May Blended Learning
+
+Please click [here](/files/Announcements/3rd_May_2024_BL_TT_V1_Classes.pdf) to view the timetable.
+
 #### 24th April Blended Learning Timetable
 
 Please click [here](/files/Announcements/2024/24th_April_2024_BL_TT_V1_Classes.pdf) to view the timetable.
