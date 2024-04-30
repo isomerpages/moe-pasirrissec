@@ -26,10 +26,10 @@ sections:
         e-Open House from 29 April to 3 June 2024!
       subtitle: ANNOUNCEMENTS
   - infopic:
-      title: The Pursuit
+      title: "Pasir Ris Secondary Musical Showcase: The Pursuit"
       id: infopic
-      description: Our PRSS Performing Arts will be perfoming a musical showcase on
-        2nd May at Victoria Theatre!
+      description: "Our PRSS Performing Arts presents a musical showcase on 2nd May at
+        Victoria Theatre! "
       image: /images/the pursuit poster.jpg
       alt: Image alt text
   - infopic:
