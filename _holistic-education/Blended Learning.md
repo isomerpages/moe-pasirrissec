@@ -4,12 +4,12 @@ permalink: /holistic-education/Blended-Learning/
 description: ""
 variant: markdown
 ---
-#### **Blended Learning (BL) Updates**
+#### **Blended Learning**
 
-Blended Learning days will continue to be implemented in Term 2 and the BL days for all cohorts are on 27 Mar, 24 Apr and 8 May.
-<br>
-<br>
+Blended Learning days will continue to be implemented in Term 2 and the BL days for all cohorts are on 27 Mar, 24 Apr and 8 May. 
 
+Please look out on the Announcements for more details.
+<br>
 <ul class="jekyllcodex_accordion">
 	
 <li><input type="checkbox" id="accordion1">  
