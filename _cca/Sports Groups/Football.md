@@ -40,11 +40,11 @@ NSG Football Championships C Division League 1 (Top 8)
 
 * Mr Abdul Halim (OIC)
 * Mr Desmond Ng (2IC)
-* Advisor: Mr Amir HMS
+* Advisor: Mr Robert Lee
 
 ### **Coach**
 
-Mr Aliff Shafaein Safiee
+Mr Adam
 
 ### **Photos / Videos**
 
