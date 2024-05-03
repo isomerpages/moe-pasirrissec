@@ -50,8 +50,6 @@ Mr Adam
 
 ![](/images/CCA/Football/Football_2024.jpg)
 
-![](/images/20220422_072741.jpeg)
+![](/images/CCA/Football/SoccerSlide1.png) 
 
-![](/images/football2.png)
-
-![](/images/football3.png)
+![](/images/CCA/Football/SoccerSlide2.png)
