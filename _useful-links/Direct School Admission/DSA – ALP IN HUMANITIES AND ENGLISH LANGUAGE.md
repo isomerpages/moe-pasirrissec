@@ -118,7 +118,7 @@ a short performance task outlining the solutions to an authentic problem.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>For all applicants who are not studying in MOE mainstream primary schools,
-please refer to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
+please refer to&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
 </li>
 <li>
 <p>International Students may apply but must take part in and fulfil the
@@ -131,7 +131,7 @@ test to be successful in DSA.&nbsp;</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2024, 11am
 to 3 Jun 2024, 3pm. For more details, please refer to MOE website –&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;</p>
+<a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Certified true copies of certificates / documentary proof for the non-school
@@ -169,8 +169,8 @@ final.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Application through the centralised DSA-Sec Portal
-<br>Mainstream students:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
-<br>Non-mainstream students:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+<br>Mainstream students:&nbsp;<a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a> 
+<br>Non-mainstream students:&nbsp;<a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
