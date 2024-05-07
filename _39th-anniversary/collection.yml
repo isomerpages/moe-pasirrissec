@@ -1,4 +1,5 @@
 collections:
   39th-anniversary:
     output: true
-    order: []
+    order:
+      - Launch of 39 Stories.md
