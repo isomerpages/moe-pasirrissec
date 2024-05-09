@@ -2,7 +2,7 @@ collections:
   subject-combination:
     output: true
     order:
-      - Education Career Guidance.md
       - Subject Combination.md
       - Considerations in choosing a subject combination.md
+      - Education Career Guidance.md
       - Frequently Asked Questions.md
