@@ -1,0 +1,4 @@
+collections:
+  subject-combination:
+    output: true
+    order: []
