@@ -63,95 +63,21 @@ tudents reading Elective Geography (O-Level) will NOT cover Clusters 4 and 5.&nb
  
 <p>Go to the <a href="#section-1">top</a></p>
 
-<h3 id="section-6">Principles of Accounts</h3><p>Principles of Accounts is offered as an elective subject at Secondary Three and examinable at the GCE O-Level and N(A)-Level.<br><br>Principles of Accounts is designed to &nbsp;designed to teach age-appropriate and relevant accounting knowledge, skills and values. In addition, students will understand how businesses use accounting and non-accounting information to make decisions. Through the subject, they will acquire transferrable skills that they can apply in their daily lives.</p>
+<h3 id="section-6">Principles of Accounts</h3><p>Principles of Accounts is offered as an elective subject at Secondary Three and examinable at the GCE O-Level and N(A)-Level.<br><br>Principles of Accounts is designed to &nbsp;designed to teach age-appropriate and relevant accounting knowledge, skills and values. In addition, students will understand how businesses use accounting and non-accounting information to make decisions. Through the subject, they will acquire transferrable skills that they can apply in their daily lives.</p><br>
+<b>Student Outcomes</b><br><p>The syllabus intends to develop in students the knowledge and skills to prepare, communicate and use both accounting information and non-accounting information related to the business to make decisions. <br><br> The subject aims to first equip students with the basic knowledge and skills on how to prepare and present accounting information and communicate them in a useful manner that can be understood by others.<br><br>Students will be able to understand </p><li>what business decisions are</li><li>how decisions are made using accounting information</li><li>the limitations of relying only on accounting information; and</li><li>the consideration of non-accounting business-related information.</li>
 
-<b>Student Outcomes</b>
+<p>Students will be able to develop knowledge and understanding of: </p><li>role of accountants and the ethical values desired in the people who prepare the information</li><li>purpose of accounting as providing accounting information to support and facilitate decision-making</li><li>consideration of accounting and non-accounting information in decision-making</li><li>use of financial ratios for evaluation of profitability, liquidity and efficiency of inventory management and trade receivables management</li><li>basic forms of business entities</li><li>elements of the financial statements as representation of business activities and how they are presented on Financial Statements</li><li>principles underlying accounting as a measurement system</li><li>accounting information system and accounting cycle, and the double-entry recording method in maintaining records of business activities</li><li>internal controls to ensure accuracy of information.</li>
 
-The syllabus intends to develop in students the knowledge and skills to prepare, communicate and use both accounting information and non-accounting information related to the business to make decisions
+<p>Students will be able to develop the skills of: </p><li>applying the double entry system of recording business transactions</li><li> synthesis and presentation skills in the preparation of accounting information in a suitable form</li><li>analytical skill in interpreting financial statements and analysing the effects of business transactions and accounting adjustments on financial statements</li><li>evaluative skill in evaluating businesses for their profitability, liquidity and efficiency of inventory and trade receivables management using financial information and ratios</li><li>decision-making skill in evaluating choices using both accounting and non-accounting information.</li>
+<br>
+<b>Relevant Courses in Poly</b><br>
+<br> 
+Diploma in Accountancy<br>
+Diploma in International Business<br>
+Diploma in Bank and Finance<br>
+Diploma in Business Studies<br>
+Diploma in Business Information Technology<br>
+Diploma in Tourism and Resort Management<br>
+Diploma International Logistic and Supply Chain Management<br>
 
-  
-
-The subject aims to first equip students with the basic knowledge and skills on how to prepare and present accounting information and communicate them in a useful manner that can be understood by others.
-
-Students will be able to understand&nbsp;
-
-• what business decisions are
-
-• how decisions are made using accounting information
-
-• the limitations of relying only on accounting information; and
-
-• the consideration of non-accounting business-related information.
-
-  
-
-  
-
-Students will be able to develop knowledge and understanding of:
-
-• role of accountants and the ethical values desired in the people who prepare the information
-
-• purpose of accounting as providing accounting information to support and facilitate decision-making
-
-• consideration of accounting and non-accounting information in decision-making
-
-• use of financial ratios for evaluation of profitability, liquidity and efficiency of inventory management&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;and trade receivables management
-
-• basic forms of business entities
-
-• elements of the financial statements as representation of business activities and how they are&nbsp;
-
-&nbsp;&nbsp;presented on Financial Statements
-
-• principles underlying accounting as a measurement system
-
-• accounting information system and accounting cycle, and the double-entry recording method in&nbsp;
-
-&nbsp;&nbsp;maintaining records of business activities
-
-• internal controls to ensure accuracy of information.
-
-  
-
-  
-
-Students will be able to develop the skills of:
-
-• applying the double entry system of recording business transactions
-
-• synthesis and presentation skills in the preparation of accounting information in a suitable form
-
-• analytical skill in interpreting financial statements and analysing the effects of business&nbsp;
-
-&nbsp;&nbsp;transactions and accounting adjustments on financial statements
-
-• evaluative skill in evaluating businesses for their profitability, liquidity and efficiency of inventory&nbsp;
-
-&nbsp;&nbsp;and trade receivables management using financial information and ratios
-
-• decision-making skill in evaluating choices using both accounting and non-accounting information.
-
-  
-
-Relevant Courses in Poly
-
-  
-
-Diploma in Accountancy
-
-Diploma in International Business
-
-Diploma in Bank and Finance
-
-Diploma in Business Studies
-
-Diploma in Business Information Technology
-
-Diploma in Tourism and Resort Management
-
-Diploma International Logistic and Supply Chain Management
-
-**
-
+<b>Assessment Criteria for POA</b>
