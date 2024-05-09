@@ -22,21 +22,21 @@ educational institutions.&nbsp;</p>
 sound decision with regards to the subject combination to pursue and is
 organised in the following manner:&nbsp;</p>
 <p></p>
-<ol>
-<li>
-<p>Considerations in choosing a subject combination&nbsp;</p>
-</li>
-<li>
-<p>Subject combinations available at PRSS</p>
-</li>
-<li>
-<p>Allocation of Subject combinations</p>
-</li>
-<li>
-<p>Education and Career Guidance (ECG)</p>
-</li>
-<li>
-<p>Frequently Asked Questions</p>
-</li>
-</ol>
+<p>&lt;li&gt;&lt;input id="accordion1" type="checkbox"&gt;&nbsp;</p>
+<p>&lt;label for="accordion1"&gt;Considerations in choosing a subject combination&lt;/label&gt;&lt;div&gt;&nbsp;</p>
+<p>&lt;br&gt;</p>
+<p>&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;&nbsp;</p>
+<p>&lt;li&gt;&lt;input id="accordion2" type="checkbox"&gt;&nbsp;</p>
+<p>&lt;label for="accordion2"&gt;Subject combinations available at PRSS&lt;/label&gt;&lt;div&gt;&nbsp;</p>
+<p>&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;</p>
+<p>&lt;li&gt;&lt;input id="accordion2" type="checkbox"&gt;&nbsp;</p>
+<p>&lt;label for="accordion2"&gt;Subject combinations available at PRSS&lt;/label&gt;&lt;div&gt;&nbsp;</p>
+<p>&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;</p>
+<p>&lt;li&gt;&lt;input id="accordion3" type="checkbox"&gt;&nbsp;</p>
+<p>&lt;label for="accordion3"&gt;Education and Career Guidance (ECG)&lt;/label&gt;&lt;div&gt;&nbsp;</p>
+<p>&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;</p>
+<p>&lt;li&gt;&lt;input id="accordion4" type="checkbox"&gt;&nbsp;</p>
+<p>&lt;label for="accordion4"&gt;Frequently Asked Questions&lt;/label&gt;&lt;div&gt;&nbsp;</p>
+<p>&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;</p>
+<p></p>
 <p></p>
