@@ -153,8 +153,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
 <h3 id="section-9">Design and Technology</h3><p>
 Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
 
-1.  Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.
-    
+1.  Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.  
 2.  Possess a caring heart and willing desire to improve the quality of life through thoughtful and practical design solutions.
     
 3.  Develop curiosity and drive to seek out how things work in the real world.
