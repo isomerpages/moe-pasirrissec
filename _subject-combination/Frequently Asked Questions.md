@@ -35,12 +35,9 @@ description: ""
 <div><p>No, polytechnic admission only requires English language (or another L1 e.g. Higher Mother Tongue), 2 relevant subjects and 2 other best subjects. For engineering courses, the relevant subjects must include the Mathematics and Science subjects, depending on the choice of study. The Mathematics subject could be either Elementary Mathematics or Additional Mathematics, whichever has a better grade. The same criteria apply for JC. Additional Mathematics is recommended if the student wants to pursue Science Stream in JC.&nbsp; For the latest admission requirements, do refer to the respective tertiary institution websites.</p></div></li>
 
 <li><input type="checkbox" id="accordion7">&nbsp;
-<label for="accordion7"><b>Q7. What should I consider when choosing between combined Science and Pure Science subjects?</b></label><div><p>Students are encouraged to opt for pure sciences if: </p></div></li><li>they would like to pursue science or science-related courses in the polytechnics or junior colleges.</li><li>they are considering Engineering or science-related careers.</li><li>they enjoy the depth and breadth of pure science subjects.</li><p></p>
-<p>Students who are:<br>
-</p><li>able to see relationship e.g., interpret data and graphs.<br>
-</li><li>focused, precise and detailed.</li><li>able to visualise and make connections to real-life applications.</li><p></p>
+<label for="accordion7">Q7. What should I consider when choosing between combined Science and Pure Science subjects?</label><div><p>Students are encouraged to opt for pure sciences if: </p></div></li><li>they would like to pursue science or science-related courses in the polytechnics or junior colleges.</li><li>they are considering Engineering or science-related careers.</li><li>they enjoy the depth and breadth of pure science subjects.</li><p></p><br><p>Students who are:<br></p><li>able to see relationship e.g., interpret data and graphs</li><br><li>focused, precise and detailed.</li><br><li>able to visualise and make connections to real-life applications.</li><p></p>
 
-<li><input type="checkbox" id="accordion8">&nbsp;
+<li><input type="checkbox" id="accordion8">
 <label for="accordion8">Q8. Will I be able to meet the requirements of polytechnic courses if I do not read O-Level pure sciences?</label><div><p>Students are required to take at least one science subject. Pure Sciences are not prerequisites to pursue polytechnic courses including Engineering / Life Science courses.</p></div></li>
 
 <li><input type="checkbox" id="accordion9">&nbsp;
@@ -55,4 +52,3 @@ description: ""
 <label for="accordion12">Q12. Can my child take additional GCE level subject as a private candidate?</label><div><p>In any given year, a candidate can only sit for GCE level examinations as either a school or private candidate. As such, it is not possible for your child/ward to offer additional subjects as a private candidate.</p></div></li>
 	
 </ul>
-	
