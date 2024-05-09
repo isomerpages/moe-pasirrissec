@@ -95,3 +95,14 @@ Diploma International Logistic and Supply Chain Management<br>
 <p>The table below shows the difference between Mathematics and Additional Mathematics:</p>
 
 <b>Requirements to take up Additional Mathematics at Sec 3:</b><li>Good performance in marks</li><li>Express: A good pass in Sec 2 Mathematics</li><li>Algebra proficiency</li><li>Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential</li>
+
+<b>Implication on admission requirement for post-secondary studies</b>
+<br><br>
+<b>Junior College</b><br>
+<li>Students taking science course will likely take up H2 Mathematics and taking Additional Mathematics in upper secondary education will prepare the students adequately</li><li>  Students taking art course will likely take up H1 Mathematics and taking Mathematics only will prepare the students adequately</li><li>Individual JCs set their own admission requirements</li>
+<br>
+<b>Polytechnic</b><br>
+<li>Admission requirements are course – dependent</li><li>O-Level Mathematics would be adequate</li>
+<br>
+<b>Assessment Criteria for Additional Mathematics for Express and Normal Academic</b>
+   
