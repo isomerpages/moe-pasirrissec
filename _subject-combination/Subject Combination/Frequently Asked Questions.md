@@ -49,6 +49,10 @@ We strongly encourage parents to discuss with your child/ward on his/her interes
 </p>
 <li><input type="checkbox" id="accordion2">  
 	<label for="accordion2"><b>Q6. Is Additional Mathematics a compulsory subject for admission into JC or polytechnic?</b></label></li>
+<p>No, polytechnic admission only requires English language (or another L1 e.g. Higher Mother Tongue), 2 relevant subjects and 2 other best subjects. For engineering courses, the relevant subjects must include the Mathematics and Science subjects, depending on the choice of study. The Mathematics subject could be either Elementary Mathematics or Additional Mathematics, whichever has a better grade. The same criteria apply for JC. Additional Mathematics is recommended if the student wants to pursue Science Stream in JC.&nbsp; For the latest admission requirements, do refer to the respective tertiary institution websites.</p>
+	
+<li><input type="checkbox" id="accordion3">  
+	<label for="accordion3"><b>Q7. What should I consider when choosing between combined Science and Pure Science subjects?</b></label></li>
 <p>
 Students are encouraged to opt for pure sciences if:&nbsp;
 </p><li>they would like to pursue science or science-related courses in the polytechnics or junior colleges.
@@ -57,8 +61,27 @@ Students are encouraged to opt for pure sciences if:&nbsp;
 <p>Students who are:<br>
 </p><li>able to see relationship e.g., interpret data and graphs.
 </li><li>focused, precise and detailed.
-</li><li>able to visualise and make connections to real-life applications.
-	</li><p></p>
+</li><li>able to visualise and make connections to real-life applications.<br>
+</li><p></p>
 	
-	
+<li><input type="checkbox" id="accordion4">  
+	<label for="accordion4"><b>Q8. Will I be able to meet the requirements of polytechnic courses if I do not read O-Level pure sciences?</b></label></li>
+<p>Students are required to take at least one science subject. Pure Sciences are not prerequisites to pursue polytechnic courses including Engineering / Life Science courses.</p>
+
+<li><input type="checkbox" id="accordion5">  
+	<label for="accordion5"><b>Q9. Does the order of the subject combination matter?</b></label></li>
+<p>Yes, it matters. Students are advised to order their options according to their strengths and preference.</p>
+
+<li><input type="checkbox" id="accordion6">  
+	<label for="accordion6"><b>Q10. I am interested in doing Medicine in NUS / NTU.&nbsp; Do I need to take Biology and the other 2 pure sciences in secondary school?</b></label></li>
+<p>To do Medicine in NUS (Yong Loo Lin School of Medicine) / NTU (Lee Kong Chian School of Medicine), a student is required to have a good H2 pass in Chemistry and a good H2 pass in either Biology or Physics at A-Level. This means that students need to do well in Chemistry and either Biology or Physics at O-Level in order to continue to pursue these subjects at A-Level.&nbsp;Please refer to the university websites for more information on the subject prerequisites.</p>
+
+<li><input type="checkbox" id="accordion7">  
+	<label for="accordion7"><b>Q11. If my child is not doing well in Secondary 3, can he/she change subjects in Secondary 4?</b></label></li>
+<p>The school has in place an ECG curriculum that seeks to help your child choose the right subject combinations. However, if students are not coping well with a particular subject at the end of Sec 3, appropriate ECG advice will be given by the school to help students make the necessary changes to pursue what they want at the post-secondary education institutes (PSEI).</p>
+
+<li><input type="checkbox" id="accordion8">  
+	<label for="accordion8"><b>Q12. Can my child take additional GCE level subject as a private candidate?</b></label></li>
+<p>In any given year, a candidate can only sit for GCE level examinations as either a school or private candidate. As such, it is not possible for your child/ward to offer additional subjects as a private candidate.</p>
+
 <ul></ul></ul>
