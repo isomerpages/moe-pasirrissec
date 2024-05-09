@@ -7,7 +7,7 @@ third_nav_title: Subject Combinations Available
 ---
 <br>
 
-<a href="#section-1">Literature in English</a> | <a href="#section-2">Humanities</a>| <a href="#section-3">Social Studies</a> | <a href="#section-4">History</a> | <a href="#section-5">Geography</a> |
+<a href="#section-1">Literature in English</a> | <a href="#section-2">Humanities</a>| <a href="#section-3">Social Studies</a> | <a href="#section-4">History</a> | <a href="#section-5">Geography</a> | <a href="#section-6">Principles of Accounts</a> |
 	
 <h3 id="section-1">Literature in English</h3><p>“Literature makes us better thinkers. It moves us to see the multi-sidedness of situations and therefore expands the breath of our own visions, moving us towards dreams and solutions we might not otherwise have imagined.” – Judith Langer, Envisioning Literature</p><p>Literature is essentially the study of human relationships and how we, as human beings, need to understand and work together to create a better place to live rather than exist. To be concise, it is how to understand humans better. It affords us PERSPECTIVES about architecture, about politics, about family, about all that is about humans, their living, their endeavours, their success, their tragedy, and most of all, the fragility of Life. It is a challenging discipline because it is about OUR opinion and not just the opinion of the writer.</p>
 <p>In this discipline, students learn to appreciate words and their power from the texts which range from classics, such as Shakespeare to modern works. Students read and respond to a variety of literary texts from the genres of prose, poetry and drama. The greatest value of Literature is that it promotes empathy as it develops in the student a greater understanding of the human condition. </p>
@@ -62,3 +62,96 @@ tudents reading Elective Geography (O-Level) will NOT cover Clusters 4 and 5.&nb
 </p><p>We offer Pure Humanities \[History, Geography\] and Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compulsory for ALL Express and Normal (Academic) students. The following table shows a summary of the O and N-Level Assessment components.</p>
  
 <p>Go to the <a href="#section-1">top</a></p>
+
+<h3 id="section-6">Principles of Accounts</h3><p>Principles of Accounts is offered as an elective subject at Secondary Three and examinable at the GCE O-Level and N(A)-Level.<br><br>Principles of Accounts is designed to &nbsp;designed to teach age-appropriate and relevant accounting knowledge, skills and values. In addition, students will understand how businesses use accounting and non-accounting information to make decisions. Through the subject, they will acquire transferrable skills that they can apply in their daily lives.</p>
+
+<b>Student Outcomes</b>
+
+The syllabus intends to develop in students the knowledge and skills to prepare, communicate and use both accounting information and non-accounting information related to the business to make decisions
+
+  
+
+The subject aims to first equip students with the basic knowledge and skills on how to prepare and present accounting information and communicate them in a useful manner that can be understood by others.
+
+Students will be able to understand&nbsp;
+
+• what business decisions are
+
+• how decisions are made using accounting information
+
+• the limitations of relying only on accounting information; and
+
+• the consideration of non-accounting business-related information.
+
+  
+
+  
+
+Students will be able to develop knowledge and understanding of:
+
+• role of accountants and the ethical values desired in the people who prepare the information
+
+• purpose of accounting as providing accounting information to support and facilitate decision-making
+
+• consideration of accounting and non-accounting information in decision-making
+
+• use of financial ratios for evaluation of profitability, liquidity and efficiency of inventory management&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;and trade receivables management
+
+• basic forms of business entities
+
+• elements of the financial statements as representation of business activities and how they are&nbsp;
+
+&nbsp;&nbsp;presented on Financial Statements
+
+• principles underlying accounting as a measurement system
+
+• accounting information system and accounting cycle, and the double-entry recording method in&nbsp;
+
+&nbsp;&nbsp;maintaining records of business activities
+
+• internal controls to ensure accuracy of information.
+
+  
+
+  
+
+Students will be able to develop the skills of:
+
+• applying the double entry system of recording business transactions
+
+• synthesis and presentation skills in the preparation of accounting information in a suitable form
+
+• analytical skill in interpreting financial statements and analysing the effects of business&nbsp;
+
+&nbsp;&nbsp;transactions and accounting adjustments on financial statements
+
+• evaluative skill in evaluating businesses for their profitability, liquidity and efficiency of inventory&nbsp;
+
+&nbsp;&nbsp;and trade receivables management using financial information and ratios
+
+• decision-making skill in evaluating choices using both accounting and non-accounting information.
+
+  
+
+Relevant Courses in Poly
+
+  
+
+Diploma in Accountancy
+
+Diploma in International Business
+
+Diploma in Bank and Finance
+
+Diploma in Business Studies
+
+Diploma in Business Information Technology
+
+Diploma in Tourism and Resort Management
+
+Diploma International Logistic and Supply Chain Management
+
+**
+
