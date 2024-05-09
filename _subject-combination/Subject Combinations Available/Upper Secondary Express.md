@@ -7,7 +7,7 @@ third_nav_title: Subject Combinations Available
 ---
 <br>
 
-<a href="#section-1">Literature in English</a> | <a href="#section-2">Humanities</a>| <a href="#section-3">Social Studies</a> | <a href="#section-4">History</a> | <a href="#section-5">Geography</a> | <a href="#section-6">Principles of Accounts</a> |
+<a href="#section-1">Literature in English</a> | <a href="#section-2">Humanities</a>| <a href="#section-3">Social Studies</a> | <a href="#section-4">History</a> | <a href="#section-5">Geography</a> | <a href="#section-6">Principles of Accounts</a> | <a href="#section-7">Additional Mathematics</a> |
 	
 <h3 id="section-1">Literature in English</h3><p>“Literature makes us better thinkers. It moves us to see the multi-sidedness of situations and therefore expands the breath of our own visions, moving us towards dreams and solutions we might not otherwise have imagined.” – Judith Langer, Envisioning Literature</p><p>Literature is essentially the study of human relationships and how we, as human beings, need to understand and work together to create a better place to live rather than exist. To be concise, it is how to understand humans better. It affords us PERSPECTIVES about architecture, about politics, about family, about all that is about humans, their living, their endeavours, their success, their tragedy, and most of all, the fragility of Life. It is a challenging discipline because it is about OUR opinion and not just the opinion of the writer.</p>
 <p>In this discipline, students learn to appreciate words and their power from the texts which range from classics, such as Shakespeare to modern works. Students read and respond to a variety of literary texts from the genres of prose, poetry and drama. The greatest value of Literature is that it promotes empathy as it develops in the student a greater understanding of the human condition. </p>
@@ -81,3 +81,17 @@ Diploma in Tourism and Resort Management<br>
 Diploma International Logistic and Supply Chain Management<br>
 
 <b>Assessment Criteria for POA</b>
+
+
+<p>Go to the <a href="#section-1">top</a></p>
+
+<h3 id="section-7">Additional Mathematics</h3><p>The syllabus prepares students adequately for A-Level H2 Mathematics, where a strong foundation in algebraic manipulation skills and mathematical reasoning skills are required. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strands, important mathematical processes such as reasoning, communication and application (including the use of models) are also emphasised and assessed. The O-Level Additional Mathematics syllabus assumes knowledge of O-Level Mathematics</p>
+
+
+<p>At Secondary 3, students from the express courses who are interested in mathematics and are more mathematically inclined can take up Additional Mathematics which provides greater breadth and depth of coverage of mathematics topics. The Additional Mathematics syllabuses introduce students to Calculus and Trigonometry besides extending the learning in Algebra and Geometry from the O-Level Mathematics syllabus. Students are also engaged in writing proofs in Geometry in Additional Mathematics.</p>
+
+<p>The O-Level Additional Mathematics syllabus aims to enable students who have an aptitude and interest in mathematics to: </p><li>acquire mathematical concepts and skills for higher studies in mathematics and to support&nbsp;learning in the other subjects, with emphasis in the sciences, but not limited to the&nbsp;sciences</li><li> develop thinking, reasoning, communication, application and metacognitive skills through&nbsp;a mathematical approach to problem-solving</li><li>connect ideas within mathematics and between mathematics and the sciences through&nbsp;applications of mathematics; and </li><li>appreciate the abstract nature and power of mathematics</li>
+<br>
+<p>The table below shows the difference between Mathematics and Additional Mathematics:</p>
+
+<b>Requirements to take up Additional Mathematics at Sec 3:</b><li>Good performance in marks</li><li>Express: A good pass in Sec 2 Mathematics</li><li>Algebra proficiency</li><li>Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential</li>
