@@ -4,7 +4,7 @@ permalink: /considerations-in-choosing-a-subject-combination/
 variant: markdown
 description: ""
 ---
-### **How to choose a subject combination?**
+### How to choose a subject combination?
 
 ##### STEP 1: Explore interest areas and find out about your child’s aspirations
 
