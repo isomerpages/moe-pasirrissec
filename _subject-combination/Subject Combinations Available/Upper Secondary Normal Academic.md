@@ -107,7 +107,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
 
 *   Good performance in marks&nbsp;
 	*   NA: A good pass in N(A) Mathematics&nbsp;
-*   Algebra proficiency&nbsp;
+*   Algebra proficiency
 *   Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential
     
 <b>Implication on admission requirement for post-secondary studies</b>
