@@ -21,7 +21,8 @@ educational institutions.&nbsp;</p>
 <p>This site pulls together various resources which would help you make a
 sound decision with regards to the subject combination to pursue and is
 organised in the following manner:&nbsp;</p>
-<p></p>
+<p>&lt;div&gt;</p>
+<p>&lt;ul class="jekyllcodex_accordion"&gt;</p>
 <p>&lt;li&gt;&lt;input id="accordion1" type="checkbox"&gt;&nbsp;</p>
 <p>&lt;label for="accordion1"&gt;Considerations in choosing a subject combination&lt;/label&gt;&lt;div&gt;&nbsp;</p>
 <p>&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;&nbsp;</p>
