@@ -6,10 +6,10 @@ description: ""
 ---
 ### Frequent Asked Questions
 
-##### Streaming Procedures
+<h4>Streaming Procedures</h4>	
 
 <ul class="jekyllcodex_accordion">
-	
+
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1">Q: Can a student change his/her option after he/she has selected the option?</label><div>
 <p>Students can log in to Allears to change his/her options before the deadline on <b>4 Nov 2024 at 11.59 p.m</b>. The latest option saved in the database would be used for the streaming exercise.</p></div></li>
@@ -21,7 +21,9 @@ description: ""
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">Q: Who can I contact should I need further clarifications?</label><div><p>You can contact the HOD of Humanities Mr Sim Keng Yam at sim_keng_yam@moe.edu.sg (mailto:sim_keng_yang@moe.edu.sg) respectively, or contact us at 65010800.
 	</p></div></li>
-
+	
+<h4>Subject Choices</h4>	
+	
 <li><input type="checkbox" id="accordion4">  
 <label for="accordion4">Q: Under what circumstances will my child/ward not get the subject combination of his/her choice?</label><div><p>Other than not meeting the pre-requisite criteria for subject/s within the subject combination of his/her choice, your child/ward may not get the subject combination of his/her choice due to the following reasons:<br><br>(i) Insufficient student interest in a subject to start a class (ie. <b>minimum class size of 8 students)</b><br><br>(ii) Lack of resources to fully meet the demands of the subject (for example, lack of teachers)<br><br>(iii) The maximum enrolment capacity is met for elective subjects using special facilities i.e. Art, Design &amp; Technology (D&amp;T).
 </p></div></li>
@@ -34,7 +36,7 @@ description: ""
 <label for="accordion6">Q: Is Additional Mathematics a compulsory subject for admission into JC or polytechnic?</label>
 <div><p>No, polytechnic admission only requires English language (or another L1 e.g. Higher Mother Tongue), 2 relevant subjects and 2 other best subjects. For engineering courses, the relevant subjects must include the Mathematics and Science subjects, depending on the choice of study. The Mathematics subject could be either Elementary Mathematics or Additional Mathematics, whichever has a better grade. The same criteria apply for JC. Additional Mathematics is recommended if the student wants to pursue Science Stream in JC.&nbsp; For the latest admission requirements, do refer to the respective tertiary institution websites.</p></div></li>
 
-<li><input type="checkbox" id="accordion7">&nbsp;
+<li><input type="checkbox" id="accordion7">
 <label for="accordion7">Q: What should I consider when choosing between combined Science and Pure Science subjects?</label><div><p>Students are encouraged to opt for pure sciences if: </p></div></li><li>they would like to pursue science or science-related courses in the polytechnics or junior colleges.</li><li>they are considering Engineering or science-related careers.</li><li>they enjoy the depth and breadth of pure science subjects.</li><p></p><br><p>Students who are:<br></p><li>able to see relationship e.g., interpret data and graphs</li><br><li>focused, precise and detailed.</li><br><li>able to visualise and make connections to real-life applications.</li><p></p>
 
 <li><input type="checkbox" id="accordion8">
