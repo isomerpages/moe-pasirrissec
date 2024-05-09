@@ -2,6 +2,7 @@ collections:
   subject-combination:
     output: true
     order:
+      - Frequently Asked Questions.md
       - Home/Education and Career Guidance.md
       - Home/Considerations in choosing a subject combination.md
       - Home/.keep
