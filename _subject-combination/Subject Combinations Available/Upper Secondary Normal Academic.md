@@ -150,5 +150,25 @@ The table below shows the difference between Mathematics and Additional Mathemat
 	
 </p><p>Go to the <a href="#section-1">top</a></p>
 
+<h3 id="section-9">Design and Technology</h3><p>
+Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
 
+1.  Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.
+    
+2.  Possess a caring heart and willing desire to improve the quality of life through thoughtful and practical design solutions.
+    
+3.  Develop curiosity and drive to seek out how things work in the real world.
+    
+4.  Communicate confidently their design solutions through doodling and/or sketching and 3D manipulation of material.
+    
+5.  Develop strong critical and creative thinking by exploring many unusual and interesting ideas in response to a given design context and need.
+    
+<b>Assessment Criteria for Design &amp; Technology [O-Level and N-Level]</b>
+
+The assessment objectives of the subject can be found at SEAB website under the syllabus document as follow:
+
+7059 - GCE O-Level D&amp;T<br>
+7055 - GCE N-Level D&amp;T
+	
+</p><p>Go to the <a href="#section-1">top</a></p>
 </li>
