@@ -5,9 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Subject Combinations Available
 ---
-#### **Introduction to Upper Secondary Subjects (Normal Academic)**
-
-<a href="#section-1">   </a> 
+<a href="#section-1"></a><h4 id="section-1">Introduction to Upper Secondary Subjects (Normal Academic)</h4>
 <br><a href="#section-2">Humanities</a> 
 <br><a href="#section-3">Social Studies</a>
 <br><a href="#section-4">Elective History</a>
