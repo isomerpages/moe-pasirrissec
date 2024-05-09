@@ -2,8 +2,8 @@ collections:
   subject-combination:
     output: true
     order:
-      - Subject Combination/Education and Career Guidance.md
-      - Subject Combination/Frequently Asked Questions.md
-      - Subject Combination/Considerations in choosing a subject combination.md
-      - Subject Combination/.keep
+      - Home/Education and Career Guidance.md
+      - Home/Frequently Asked Questions.md
+      - Home/Considerations in choosing a subject combination.md
+      - Home/.keep
       - Subject Combination.md
