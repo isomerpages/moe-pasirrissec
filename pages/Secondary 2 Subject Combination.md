@@ -24,7 +24,6 @@ organised in the following manner:&nbsp;</p>
 <p></p>
 <p>&lt;li&gt;&lt;input id="accordion1" type="checkbox"&gt;&nbsp;</p>
 <p>&lt;label for="accordion1"&gt;Considerations in choosing a subject combination&lt;/label&gt;&lt;div&gt;&nbsp;</p>
-<p>&lt;br&gt;</p>
 <p>&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;&nbsp;</p>
 <p>&lt;li&gt;&lt;input id="accordion2" type="checkbox"&gt;&nbsp;</p>
 <p>&lt;label for="accordion2"&gt;Subject combinations available at PRSS&lt;/label&gt;&lt;div&gt;&nbsp;</p>
