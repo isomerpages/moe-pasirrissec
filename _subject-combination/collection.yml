@@ -2,7 +2,7 @@ collections:
   subject-combination:
     output: true
     order:
-      - Subject Combination.md
+      - Home.md
       - Considerations in choosing a subject combination.md
       - Allocations of Subject Combinations.md
       - Education Career Guidance.md
