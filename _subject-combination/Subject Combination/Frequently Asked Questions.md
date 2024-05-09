@@ -5,10 +5,12 @@ variant: markdown
 description: ""
 third_nav_title: Subject Combination
 ---
+### Frequent Asked Questions
+
+##### <u>Streaming Procedures</u>
+<br>
 <ul class="jekyllcodex_accordion">
- 
-<strong><u>Streaming Procedures</u></strong>
-	
+
 <li><input type="checkbox" id="accordion1">  
 	<label for="accordion1"><b>Q1. Can a student change his/her option after he/she has selected the option?</b></label></li>
 <p>
@@ -34,6 +36,29 @@ Other than not meeting the pre-requisite criteria for subject/s within the subje
 (i) Insufficient student interest in a subject to start a class (ie. <b>minimum class size of 8 students)</b><br><br>
 (ii) Lack of resources to fully meet the demands of the subject (for example, lack of teachers)<br><br>
 (iii) The maximum enrolment capacity is met for elective subjects using special facilities i.e. Art, Design &amp; Technology (D&amp;T).
-</p></li>
+</p></li></ul>
 
+##### <u>Subject Choices</u>
+<br>
+<ul class="jekyllcodex_accordion">
+
+<li><input type="checkbox" id="accordion1">  
+	<label for="accordion1"><b>Q5. My child is unsure of which combination would benefit her in the future. Should he/she go to a JC/Poly/ITE? What should she do?</b></label></li>
+<p>	
+We strongly encourage parents to discuss with your child/ward on his/her interests, learning styles and explore possible tertiary options. Your child/ward may see the Home Teachers or the Education and Career Guidance officer, Mr Mohammed Syahril Bin Samsudin whom he/she can make an appointment with to explore his/her possible options.&nbsp;Mr Syahril is on-site in Pasir Ris Secondary School on Mondays and Thursdays during term time.
+</p>
+<li><input type="checkbox" id="accordion2">  
+	<label for="accordion2"><b>Q6. Is Additional Mathematics a compulsory subject for admission into JC or polytechnic?</b></label></li>
+<p>
+Students are encouraged to opt for pure sciences if:&nbsp;
+</p><li>they would like to pursue science or science-related courses in the polytechnics or junior colleges.
+</li><li>they are considering Engineering or science-related careers.
+</li><li>they enjoy the depth and breadth of pure science subjects.</li><p></p>
+<p>Students who are:<br>
+</p><li>able to see relationship e.g., interpret data and graphs.
+</li><li>focused, precise and detailed.
+</li><li>able to visualise and make connections to real-life applications.
+	</li><p></p>
+	
+	
 <ul></ul></ul>
