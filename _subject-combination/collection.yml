@@ -2,9 +2,9 @@ collections:
   subject-combination:
     output: true
     order:
-      - Subject Combinations available at PRSS.md
       - Home.md
       - Considerations in choosing a subject combination.md
+      - Subject Combinations available at PRSS.md
       - Allocations of Subject Combinations.md
       - Education Career Guidance.md
       - Frequently Asked Questions.md
