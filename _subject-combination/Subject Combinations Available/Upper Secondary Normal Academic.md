@@ -151,8 +151,4 @@ The table below shows the difference between Mathematics and Additional Mathemat
 </p><p>Go to the <a href="#section-1">top</a></p>
 
 
-															
-															
-															
-															
-															</li>
+</li>
