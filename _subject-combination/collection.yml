@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Subject Combination.md
-      - Frequently Asked Questions/.keep
       - Considerations in choosing a subject combination.md
