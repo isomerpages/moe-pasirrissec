@@ -2,6 +2,7 @@ collections:
   subject-combination:
     output: true
     order:
+      - Subject Combination/Frequently Asked Questions.md
       - Subject Combination/Considerations in choosing a subject combination.md
       - Subject Combination/.keep
       - Subject Combination.md
