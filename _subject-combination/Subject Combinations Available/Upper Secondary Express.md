@@ -110,3 +110,28 @@ Diploma International Logistic and Supply Chain Management<br>
 <h3 id="section-8">Sciences</h3><p>We offer Pure Sciences [Physics, Chemistry, Biology] and Combined Science [Science (Physics, Chemistry) and Science (Chemistry, Biology)]. The following table shows a summary of the O-Level Assessment criteria.<br><br> Pure Science subjects are relatively demanding in terms of breadth and depth compared to combined Science. For pure science, students need to be&nbsp;passionate about the subject, be analytical and enjoy in-depth learning. For instance, students need to study and understand relationships e.g., interpret data and graphs and be focused, precise and detailed in their reasoning. <br><br>We would like to encourage our students to take Physics and Chemistry or Science (Physics, Chemistry) as these subjects are meant to lay a strong foundation for science at the secondary level. However, students who are excited to further explore the fascinating study of life (e.g. curious to find out how our bodies work and how plants function) may consider reading Biology or Science (Biology). A good command of the English Language is essential for students who are interested in taking Biology as the subject involves a lot of writing.<br><br>Students should consider their learning ability, interest and aspiration when choosing subjects. It is important for students to do well in the Sciences if he/she wishes to qualify for a Science Course in JC. Although the Pure Sciences give students a strong foundation in the learning of science, they are not a prerequisite to any of the science-related courses in the polytechnics. It is useful to note that courses such as applied sciences, engineering and media and design in the polytechnics require Science as a relevant subject, but these need not be Pure Sciences.</p>
 
 <p>Go to the <a href="#section-1">top</a></p>
+
+<h3 id="section-9">Art</h3><p>Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.&nbsp;<br><br>Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.&nbsp;<br><br>The production of Art requires a rigorous process of information analysis. In interpreting Art, students need to synthesise perception, information about the artwork and their own experiences.&nbsp;<br><br>In addition, students will be exposed to a diverse range of local, regional and global art and cultures through engaging with artworks, art making and arts professions. This will develop in students a lifelong appreciation and enjoyment of art. </p>
+
+**Assessment Criteria for Art**
+
+* The coursework assessment allows for:
+
+*   Candidates’ personal interpretation and response to their chosen themes
+    
+*   Candidates’ engagement in art making and inquiry process;&nbsp;
+    
+*   Candidates’ may choose any suitable craft type to present their Final Artwork; and
+    
+*   Candidates’ visual and aesthetic awareness.&nbsp;
+      
+\# The drawing and painting assessment allows for:
+
+*   Candidates’ personal expression and response to their chosen themes using drawing and paint media;
+    
+*   Candidates’ inquiry and interpretation of their chosen theme;&nbsp;
+    
+*   Candidates’ can only present their Final Artwork in a drawing and/or painting medium; and&nbsp;
+    
+*   Candidates’ visual and aesthetic awareness.
+	
