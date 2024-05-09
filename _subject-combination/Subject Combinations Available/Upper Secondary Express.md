@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Subject Combinations Available
 ---
-<br>
+<a href="#section-9"><h5>Introduction to Upper Secondary Subjects (Express)</h5></a>
 
 <a href="#section-1">Literature in English</a>
 <br><a href="#section-2">Humanities</a> <br> <a href="#section-3">Social Studies</a>
@@ -13,7 +13,8 @@ third_nav_title: Subject Combinations Available
 <br><a href="#section-5">Geography</a>
 <br><a href="#section-6">Principles of Accounts</a>
 <br><a href="#section-7">Additional Mathematics</a> 
-<br><a href="#section-8">Sciences</a> 
+<br><a href="#section-8">Sciences</a>
+<br><a href="#section-9">Arts</a>
 
 <h3 id="section-1">Literature in English</h3><p>“Literature makes us better thinkers. It moves us to see the multi-sidedness of situations and therefore expands the breath of our own visions, moving us towards dreams and solutions we might not otherwise have imagined.” – Judith Langer, Envisioning Literature</p><p>Literature is essentially the study of human relationships and how we, as human beings, need to understand and work together to create a better place to live rather than exist. To be concise, it is how to understand humans better. It affords us PERSPECTIVES about architecture, about politics, about family, about all that is about humans, their living, their endeavours, their success, their tragedy, and most of all, the fragility of Life. It is a challenging discipline because it is about OUR opinion and not just the opinion of the writer.</p>
 <p>In this discipline, students learn to appreciate words and their power from the texts which range from classics, such as Shakespeare to modern works. Students read and respond to a variety of literary texts from the genres of prose, poetry and drama. The greatest value of Literature is that it promotes empathy as it develops in the student a greater understanding of the human condition. </p>
@@ -131,7 +132,11 @@ Diploma International Logistic and Supply Chain Management<br>
     
 *   Candidates’ inquiry and interpretation of their chosen theme;&nbsp;
     
-*   Candidates’ can only present their Final Artwork in a drawing and/or painting medium; and&nbsp;
+*   Candidates’ can only present their Final Artwork in a drawing and/or painting medium; and
     
 *   Candidates’ visual and aesthetic awareness.
-	
+
+**Educational pathways for students who would like to pursue a career in Art.**
+
+<p>Go to the <a href="#section-1">top</a></p>
+
