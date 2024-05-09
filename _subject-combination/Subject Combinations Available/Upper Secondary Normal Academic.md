@@ -35,5 +35,66 @@ third_nav_title: Subject Combinations Available
 
 We offer Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compulsory for ALL Express and Normal (Academic) students. The following table shows a summary of the N(A)-Level Assessment components.
 	
-<p>Go to the <a href="#section-1">top</a>
-	</p></li>
+<p>Go to the <a href="#section-1">top</a></p>
+	
+<h3 id="section-4">Principles of Accounts</h3><p>Principles of Accounts is offered as an elective subject at Secondary Three and examinable at the GCE N(A)-Level.<br><br>Principles of Accounts is designed to &nbsp;designed to teach age-appropriate and relevant accounting knowledge, skills and values. In addition, students will understand how businesses use accounting and non-accounting information to make decisions. Through the subject, they will acquire transferrable skills that they can apply in their daily lives.</p>
+
+<b>Student Outcomes</b>
+<p>
+The syllabus intends to develop in students the knowledge and skills to prepare, communicate and use both accounting information and non-accounting information related to the business to make decisions<br><br>The subject aims to first equip students with the basic knowledge and skills on how to prepare and present accounting information and communicate them in a useful manner that can be understood by others.<br><br>Students will be able to understand&nbsp;
+
+• what business decisions are
+
+• how decisions are made using accounting information
+
+• the limitations of relying only on accounting information; and
+
+• the consideration of non-accounting business-related information.
+</p><p>Students will be able to develop knowledge and understanding of:
+
+• role of accountants and the ethical values desired in the people who prepare the information
+
+• purpose of accounting as providing accounting information to support and facilitate decision-making
+
+• consideration of accounting and non-accounting information in decision-making
+
+• use of financial ratios for evaluation of profitability, liquidity and efficiency of inventory management&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;and trade receivables management
+
+• basic forms of business entities
+
+• elements of the financial statements as representation of business activities and how they are&nbsp;
+
+&nbsp;&nbsp;presented on Financial Statements
+
+• principles underlying accounting as a measurement system
+
+• accounting information system and accounting cycle, and the double-entry recording method in&nbsp;maintaining records of business activities
+
+• internal controls to ensure accuracy of information.
+  
+Students will be able to develop the skills of:
+
+• applying the double entry system of recording business transactions
+
+• synthesis and presentation skills in the preparation of accounting information in a suitable form
+
+• analytical skill in interpreting financial statements and analysing the effects of business&nbsp;transactions and accounting adjustments on financial statements
+
+• evaluative skill in evaluating businesses for their profitability, liquidity and efficiency of inventory&nbsp;and trade receivables management using financial information and ratios
+
+• decision-making skill in evaluating choices using both accounting and non-accounting information.
+
+<b>Relevant Courses in Poly</b>
+
+Diploma in Accountancy<br>
+Diploma in International Business<br>
+Diploma in Bank and Finance<br>
+Diploma in Business Studies<br>
+Diploma in Business Information Technology<br>
+Diploma in Tourism and Resort Management<br>
+Diploma International Logistic and Supply Chain Management
+
+</p><p>Go to the <a href="#section-1">top</a></p>
+</li>
