@@ -28,7 +28,7 @@ So why should your child take up Pure Literature?
 
 <h4>Assessment Criteria for Literature in English</h4> 
 
-<p>Go to the <a href="#section-11">top</a></p>
+<p>Go to the <a href="#section-1">top</a></p>
 
 <h3 id="section-2">Humanities</h3><p>Upper Secondary students must read at least one Humanities subject. If the student is reading only one Humanities subject, he MUST take ‘Humanities’, comprising a compulsory Social Studies component (SS) and an Elective component. In PRSS, the options for the Elective component are Elective History (EHist), Elective Geography (EGeo) and Elective Literature (Elit).</p>
 <p>
