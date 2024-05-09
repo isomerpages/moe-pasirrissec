@@ -1,4 +1,5 @@
 collections:
   subject-combination:
     output: true
-    order: []
+    order:
+      - Subject Combination.md
