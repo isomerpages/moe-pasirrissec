@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Subject Combinations Available/.keep
-      - Subject Combinations available at PRSS.md
       - Home.md
       - Considerations in choosing a subject combination.md
       - Allocations of Subject Combinations.md
