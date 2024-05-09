@@ -35,7 +35,8 @@ organised in the following manner:&nbsp;</p>
 <p>Education and Career Guidance</p>
 </li>
 <li>
-<p>Frequently Asked Questions</p>
+<p><a href="/frequently-asked-questions/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>
+</p>
 </li>
 </ol>
 <p></p>
