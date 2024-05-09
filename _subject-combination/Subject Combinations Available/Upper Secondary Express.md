@@ -21,15 +21,18 @@ So why should your child take up Pure Literature?
 
 <h4>Assessment Criteria for Literature in English</h4> 
 
+<p>Go to the <a href="#section-1">top</a></p>
+
 <h3 id="section-2">Humanities</h3><p>Upper Secondary students must read at least one Humanities subject. If the student is reading only one Humanities subject, he MUST take ‘Humanities’, comprising a compulsory Social Studies component (SS) and an Elective component. In PRSS, the options for the Elective component are Elective History (EHist), Elective Geography (EGeo) and Elective Literature (Elit).</p>
 <p>
 Express students may opt to read an additional Pure Humanities subject which is not his or her Elective component in the compulsory Humanities subject. For example, a student who is reading Humanities (SS/History) can choose to read Pure Geography or English Literature. He is not allowed to read Pure History as this would overlap with the Elective History which he is already reading.</p>
-<p></p> 
+
+<p>Go to the <a href="#section-1">top</a></p>
 
 <h3 id="section-3">Social Studies</h3><p>Social Studies is the compulsory half of the Humanities subject.</p>
 <p>
 At the heart of the Social Studies Curriculum is the preparation of students to be citizens of tomorrow by helping them to better understand the interconnectedness of Singapore and the world they live in, and appreciate the complexities of the human world. Drawing on aspects of society that are of meaning and interest to the students, Social Studies seeks to ignite students’ curiosity to inquire into real-world issues that concern their lives. Through inquiry and authentic learning experiences, Social Studies helps students to attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives. Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world they live in, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.</p> 
-
+<p>Go to the <a href="#section-1">top</a></p>
 <h3 id="section-4">History</h3><p>History education in Singapore seeks to develop in students an appreciation of past human experiences, critical awareness of the nature of historical knowledge, and the ability to make connections between the past and present.<br><br>In recent years, there has been greater cognizance that historical content and concepts as well as the accompanying historical skills, are important. These lie at the heart of thinking critically about the nature of historical knowledge, which is essential to make better sense of the past. History also plays a critical role in developing students’ own identities through an understanding of history at the personal, national and international levels. The learning of history should spark their curiosity and inspire them with the beliefs, decisions and dilemmas of people in the past. Through historical inquiry, students pose questions about the present by engaging with the past and thus draw connections between both.<br><br>The Upper Secondary History syllabuses seek to enable students to be effective citizens and participants in the 21st century. To achieve this, students need to understand how the present world system came into being, and the inter-connectedness of nation-states and peoples. The curriculum also seek to examine the key forces and developments which have shaped international history in the 19th and 20th centuries. Through this syllabus, history students will understand not just concepts such as balance of power, hegemony, geopolitics and nationalism, but also acquire historical thinking skills.</p>
 <p>
 Pure History students will cover the syllabus in greater depth, comprising the following units:&nbsp;
