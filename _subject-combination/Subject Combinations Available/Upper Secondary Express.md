@@ -105,4 +105,5 @@ Diploma International Logistic and Supply Chain Management<br>
 <li>Admission requirements are course – dependent</li><li>O-Level Mathematics would be adequate</li>
 <br>
 <b>Assessment Criteria for Additional Mathematics for Express and Normal Academic</b>
-   
+
+<p>Go to the <a href="#section-1">top</a></p>
