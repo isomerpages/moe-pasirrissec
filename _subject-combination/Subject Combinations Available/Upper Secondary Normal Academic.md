@@ -37,6 +37,4 @@ third_nav_title: Subject Combinations Available
 We offer Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compulsory for ALL Express and Normal (Academic) students. The following table shows a summary of the N(A)-Level Assessment components.
 	
 <p>Go to the <a href="#section-1">top</a>
-	
-
 	</p></li>
