@@ -11,16 +11,15 @@ description: ""
 <ul class="jekyllcodex_accordion">
 
 <li><input type="checkbox" id="accordion1">  
-<label for="accordion1">Q: Can a student change his/her option after he/she has selected the option?</label><div>
+<label for="accordion1"><b>Can a student change his/her option after he/she has selected the option?</b></label><div>
 <p>Students can log in to Allears to change his/her options before the deadline on <b>4 Nov 2024 at 11.59 p.m</b>. The latest option saved in the database would be used for the streaming exercise.</p></div></li>
 	
 <li><input type="checkbox" id="accordion2">  
-<label for="accordion2">Q: If my child / ward is not allocated the combination/ elective of his/her choice, can we appeal?</label><div><p>Yes. The appeal can be conducted online from <b>11 – 14 Nov 2024, 0900h</b> once the streaming results are released.
+<label for="accordion2"><b>If my child / ward is not allocated the combination/ elective of his/her choice, can we appeal?</b></label><div><p>Yes. The appeal can be conducted online from <b>11 – 14 Nov 2024, 0900h</b> once the streaming results are released.
 	</p></div></li>
 	
 <li><input type="checkbox" id="accordion3">  
-<label for="accordion3">Q: Who can I contact should I need further clarifications?</label><div><p>You can contact the HOD of Humanities Mr Sim Keng Yam at sim_keng_yam@moe.edu.sg (mailto:sim_keng_yang@moe.edu.sg) respectively, or contact us at 65010800.
-	</p></div></li>
+	<label for="accordion3"><b>Who can I contact should I need further clarifications?</b></label><div><p>You can contact the HOD of Humanities <a href="mailto:sim_keng_yang@moe.edu.sg">Mr Sim Keng Yam </a> respectively, or contact us at 6501 0800.</p></div></li>
 	
 <h4>Subject Choices</h4>	
 	
