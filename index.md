@@ -26,7 +26,7 @@ sections:
         e-Open House from 29 April to 3 June 2024!
       subtitle: ANNOUNCEMENTS
   - infopic:
-      title: "Pasir Ris Secondary School present: The Pursuit"
+      title: "Pasir Ris Secondary School presents: The Pursuit"
       id: infopic
       description: PRSS Performing Arts will be performing their musical showcase on
         2nd May 2024 at Victoria Theatre Singapore!
