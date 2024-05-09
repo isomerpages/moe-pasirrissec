@@ -92,7 +92,7 @@ Diploma International Logistic and Supply Chain Management
 
 </p><p>Go to the <a href="#section-1">top</a></p>
 
-1. <h3 id="section-7">Additional Mathematics</h3><p>The syllabus intends to prepare students adequately for O-Level Additional Mathematics. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strands, important mathematical processes such as reasoning, communication and application (including the use of models) are also emphasised and assessed.<br><br>
+<h3 id="section-7">Additional Mathematics</h3><p>The syllabus intends to prepare students adequately for O-Level Additional Mathematics. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strands, important mathematical processes such as reasoning, communication and application (including the use of models) are also emphasised and assessed.<br><br>
 At Secondary 3, students from the express Normal (Academic) courses who are interested in mathematics and are more mathematically inclined can take up Additional Mathematics which provides greater breadth and depth of coverage of mathematics topics. The Additional Mathematics syllabuses introduce students to Calculus and Trigonometry besides extending the learning in Algebra and Geometry from the N-Level Mathematics syllabus.&nbsp;<br><br>The N(A)-Level Additional Mathematics syllabus aims to enable students who have an aptitude and interest in mathematics to:
 
 *   acquire mathematical concepts and skills for higher studies in mathematics and to support learning in the other subjects, with emphasis in the sciences, but not limited to the sciences;
@@ -125,4 +125,34 @@ The table below shows the difference between Mathematics and Additional Mathemat
   
 <b>Assessment Criteria for Additional Mathematics for Normal Academic</b>
 	
-</p><p>Go to the <a href="#section-1">top</a></p></li>
+</p><p>Go to the <a href="#section-1">top</a></p>
+
+<h3 id="section-8">Art</h3><p>Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.&nbsp;<br><br>Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.&nbsp;<br><br>The production of Art requires a rigorous process of information analysis. In interpreting Art, students need to synthesise perception, information about the artwork and their own experiences.&nbsp;<br><br>In addition, students will be exposed to a diverse range of local, regional and global art and cultures through engaging with artworks, art making and arts professions. This will develop in students a lifelong appreciation and enjoyment of art.
+
+<b>Assessment Criteria for Art</b>
+
+	
+\*The coursework assessment allows for:
+	
+*   Candidates’ personal interpretation and response to their chosen themes
+*   Candidates’ engagement in art making and inquiry process;&nbsp; 
+*   Candidates’ may choose any suitable craft type to present their Final Artwork; and
+*   Candidates’ visual and aesthetic awareness.&nbsp;
+    
+\# The drawing and painting assessment allows for:
+
+*   Candidates’ personal expression and response to their chosen themes using drawing and paint media;
+*   Candidates’ inquiry and interpretation of their chosen theme;&nbsp;
+*   Candidates’ can only present their Final Artwork in a drawing and/or painting medium; and&nbsp;
+*   Candidates’ visual and aesthetic awareness.&nbsp;
+
+<b>Educational pathways for students who would like to pursue a career in Art.</b>
+	
+</p><p>Go to the <a href="#section-1">top</a></p>
+
+
+															
+															
+															
+															
+															</li>
