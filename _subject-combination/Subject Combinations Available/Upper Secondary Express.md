@@ -5,3 +5,45 @@ variant: markdown
 description: ""
 third_nav_title: Subject Combinations Available
 ---
+   <br>
+
+<a href="#section-1">Literature in English</a> | <a href="#section-2">Humanities</a>| <a href="#section-3">Social Studies</a><br> | <a href="#section-4">History</a><br> 
+	
+<h3 id="section-1">Literature in English</h3><p>“Literature makes us better thinkers. It moves us to see the multi-sidedness of situations and therefore expands the breath of our own visions, moving us towards dreams and solutions we might not otherwise have imagined.” – Judith Langer, Envisioning Literature</p><p>Literature is essentially the study of human relationships and how we, as human beings, need to understand and work together to create a better place to live rather than exist. To be concise, it is how to understand humans better. It affords us PERSPECTIVES about architecture, about politics, about family, about all that is about humans, their living, their endeavours, their success, their tragedy, and most of all, the fragility of Life. It is a challenging discipline because it is about OUR opinion and not just the opinion of the writer.</p>
+<p>In this discipline, students learn to appreciate words and their power from the texts which range from classics, such as Shakespeare to modern works. Students read and respond to a variety of literary texts from the genres of prose, poetry and drama. The greatest value of Literature is that it promotes empathy as it develops in the student a greater understanding of the human condition. </p>
+<p>The student, if he/she decides to opt for this subject, sits for a 2-year programme from Sec 3 to Sec 4. They will read two set texts - one play and one novel and study a variety of poetry texts from Singapore writers as well as international ones. </p>
+<p>
+So why should your child take up Pure Literature?
+
+</p><li>Students develop a sense of individuality and creativity as they form their own opinions about issues in the texts.</li>
+<li>Students develop the skills to convince others of their perspectives and interpretations, based on sound reasoning with evidence.</li>
+<li>Students learn to appreciate that life is not always clear-cut, in black and white. It prepares them for the ambiguities of life and to take uncertainties in their stride. </li>
+<li>Students explore texts that give them many opportunities to discuss and reassess their own values and beliefs. These act as a compass in life as they grow up.</li>
+
+<h4>Assessment Criteria for Literature in English</h4> 
+
+<h3 id="section-2">Humanities</h3><p>Upper Secondary students must read at least one Humanities subject. If the student is reading only one Humanities subject, he MUST take ‘Humanities’, comprising a compulsory Social Studies component (SS) and an Elective component. In PRSS, the options for the Elective component are Elective History (EHist), Elective Geography (EGeo) and Elective Literature (Elit).</p>
+<p>
+Express students may opt to read an additional Pure Humanities subject which is not his or her Elective component in the compulsory Humanities subject. For example, a student who is reading Humanities (SS/History) can choose to read Pure Geography or English Literature. He is not allowed to read Pure History as this would overlap with the Elective History which he is already reading.</p>
+<p></p> 
+
+<h3 id="section-3">Social Studies</h3><p>Social Studies is the compulsory half of the Humanities subject.</p>
+<p>
+At the heart of the Social Studies Curriculum is the preparation of students to be citizens of tomorrow by helping them to better understand the interconnectedness of Singapore and the world they live in, and appreciate the complexities of the human world. Drawing on aspects of society that are of meaning and interest to the students, Social Studies seeks to ignite students’ curiosity to inquire into real-world issues that concern their lives. Through inquiry and authentic learning experiences, Social Studies helps students to attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives. Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world they live in, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.</p> 
+
+
+**
+
+History education in Singapore seeks to develop in students an appreciation of past human experiences, critical awareness of the nature of historical knowledge, and the ability to make connections between the past and present.
+
+In recent years, there has been greater cognizance that historical content and concepts as well as the accompanying historical skills, are important. These lie at the heart of thinking critically about the nature of historical knowledge, which is essential to make better sense of the past. History also plays a critical role in developing students’ own identities through an understanding of history at the personal, national and international levels. The learning of history should spark their curiosity and inspire them with the beliefs, decisions and dilemmas of people in the past. Through historical inquiry, students pose questions about the present by engaging with the past and thus draw connections between both.&nbsp;
+
+The Upper Secondary History syllabuses seek to enable students to be effective citizens and participants in the 21st century. To achieve this, students need to understand how the present world system came into being, and the inter-connectedness of nation-states and peoples. The curriculum also seek to examine the key forces and developments which have shaped international history in the 19th and 20th centuries. Through this syllabus, history students will understand not just concepts such as balance of power, hegemony, geopolitics and nationalism, but also acquire historical thinking skills.<p></p>
+
+ <p>Go to the <a href="#section-1">top</a></p> 
+
+
+
+
+
+
