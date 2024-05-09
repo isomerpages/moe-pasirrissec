@@ -13,7 +13,8 @@ third_nav_title: Subject Combinations Available
 <br><a href="#section-5">Geography</a>
 <br><a href="#section-6">Principles of Accounts</a>
 <br><a href="#section-7">Additional Mathematics</a> 
-	
+<br><a href="#section-8">Sciences</a> 
+
 <h3 id="section-1">Literature in English</h3><p>“Literature makes us better thinkers. It moves us to see the multi-sidedness of situations and therefore expands the breath of our own visions, moving us towards dreams and solutions we might not otherwise have imagined.” – Judith Langer, Envisioning Literature</p><p>Literature is essentially the study of human relationships and how we, as human beings, need to understand and work together to create a better place to live rather than exist. To be concise, it is how to understand humans better. It affords us PERSPECTIVES about architecture, about politics, about family, about all that is about humans, their living, their endeavours, their success, their tragedy, and most of all, the fragility of Life. It is a challenging discipline because it is about OUR opinion and not just the opinion of the writer.</p>
 <p>In this discipline, students learn to appreciate words and their power from the texts which range from classics, such as Shakespeare to modern works. Students read and respond to a variety of literary texts from the genres of prose, poetry and drama. The greatest value of Literature is that it promotes empathy as it develops in the student a greater understanding of the human condition. </p>
 <p>The student, if he/she decides to opt for this subject, sits for a 2-year programme from Sec 3 to Sec 4. They will read two set texts - one play and one novel and study a variety of poetry texts from Singapore writers as well as international ones. </p>
@@ -47,24 +48,18 @@ Pure History students will cover the syllabus in greater depth, comprising the f
 1.  Extension of European control in Southeast Asia and challenges to European dominance, 1870s - 1942
 2.  Developments in the post-World War II world: The Cold War and decolonisation in Southeast Asia, 1940s - 1991
     
-</p><p>Students reading Elective History will only cover the following unit:&nbsp;
+</p><p>Students reading Elective History will only cover the following unit: 
 
-1.  &nbsp;The Making of the 20th Century Modern World, 1910s–1991.
+1.  The Making of the 20th Century Modern World, 1910s–1991.
   
  </p><p>Go to the <a href="#section-1">top</a></p>
  
- <h3 id="section-5">Geography</h3><p>Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment. <br><br>Generally, in both Pure Geography and Elective Geography, students will be taught skills of gathering and analysing information to understand and explain physical and human phenomena, and other contemporary environmental and social issues that occur in different places and cultures by </p><li>interpreting and recognising patterns in geographical data and deduce relationships</li><li>organise and present geographic information in a coherent way</li><li>analyse, evaluate and synthesise geographical data to make informed and sound decisions.</li><p></p><br><p>The objective is to develop an inquiring mind to seek answers to issues affecting our lives and the world we live in, and prepared students for their roles as informed citizens in the 21st century and most importantly, inculcate an awareness of appropriate attitudes and values that promotes a positive geographical future; one that ensures the sustainability of our resources, people, country, and planet.<br><br> Pure Geography students will cover the syllabus in greater depth, comprising all the following:
-
-	
-	**
-
-tudents reading Elective Geography (O-Level) will NOT cover Clusters 4 and 5.&nbsp;&nbsp;
-
+ <h3 id="section-5">Geography</h3><p>Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment. <br><br>Generally, in both Pure Geography and Elective Geography, students will be taught skills of gathering and analysing information to understand and explain physical and human phenomena, and other contemporary environmental and social issues that occur in different places and cultures by </p><li>interpreting and recognising patterns in geographical data and deduce relationships</li><li>organise and present geographic information in a coherent way</li><li>analyse, evaluate and synthesise geographical data to make informed and sound decisions.</li><p></p><br><p>The objective is to develop an inquiring mind to seek answers to issues affecting our lives and the world we live in, and prepared students for their roles as informed citizens in the 21st century and most importantly, inculcate an awareness of appropriate attitudes and values that promotes a positive geographical future; one that ensures the sustainability of our resources, people, country, and planet.<br><br> Pure Geography students will cover the syllabus in greater depth, comprising all the following:</p><li>Students reading Elective Geography (O-Level) will NOT cover Clusters 4 and 5.</li>
   
 
 <b>Assessment Criteria for Humanities</b>&nbsp;
 
-</p><p>We offer Pure Humanities \[History, Geography\] and Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compulsory for ALL Express and Normal (Academic) students. The following table shows a summary of the O and N-Level Assessment components.</p>
+<p></p><p>We offer Pure Humanities \[History, Geography\] and Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compulsory for ALL Express and Normal (Academic) students. The following table shows a summary of the O and N-Level Assessment components.</p>
  
 <p>Go to the <a href="#section-1">top</a></p>
 
@@ -86,7 +81,6 @@ Diploma in Tourism and Resort Management<br>
 Diploma International Logistic and Supply Chain Management<br>
 
 <b>Assessment Criteria for POA</b>
-
 
 <p>Go to the <a href="#section-1">top</a></p>
 
@@ -110,5 +104,9 @@ Diploma International Logistic and Supply Chain Management<br>
 <li>Admission requirements are course – dependent</li><li>O-Level Mathematics would be adequate</li>
 <br>
 <b>Assessment Criteria for Additional Mathematics for Express and Normal Academic</b>
+
+<p>Go to the <a href="#section-1">top</a></p>
+
+<h3 id="section-8">Sciences</h3><p>We offer Pure Sciences [Physics, Chemistry, Biology] and Combined Science [Science (Physics, Chemistry) and Science (Chemistry, Biology)]. The following table shows a summary of the O-Level Assessment criteria.<br><br> Pure Science subjects are relatively demanding in terms of breadth and depth compared to combined Science. For pure science, students need to be&nbsp;passionate about the subject, be analytical and enjoy in-depth learning. For instance, students need to study and understand relationships e.g., interpret data and graphs and be focused, precise and detailed in their reasoning. <br><br>We would like to encourage our students to take Physics and Chemistry or Science (Physics, Chemistry) as these subjects are meant to lay a strong foundation for science at the secondary level. However, students who are excited to further explore the fascinating study of life (e.g. curious to find out how our bodies work and how plants function) may consider reading Biology or Science (Biology). A good command of the English Language is essential for students who are interested in taking Biology as the subject involves a lot of writing.<br><br>Students should consider their learning ability, interest and aspiration when choosing subjects. It is important for students to do well in the Sciences if he/she wishes to qualify for a Science Course in JC. Although the Pure Sciences give students a strong foundation in the learning of science, they are not a prerequisite to any of the science-related courses in the polytechnics. It is useful to note that courses such as applied sciences, engineering and media and design in the polytechnics require Science as a relevant subject, but these need not be Pure Sciences.</p>
 
 <p>Go to the <a href="#section-1">top</a></p>
