@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Subject Combinations Available
 ---
-<a href="#section-9"><h5>Introduction to Upper Secondary Subjects (Express)</h5></a>
+<a href="#section-11"><h5>Introduction to Upper Secondary Subjects (Express)</h5></a>
 
 <a href="#section-1">Literature in English</a>
 <br><a href="#section-2">Humanities</a> <br> <a href="#section-3">Social Studies</a>
@@ -14,7 +14,8 @@ third_nav_title: Subject Combinations Available
 <br><a href="#section-6">Principles of Accounts</a>
 <br><a href="#section-7">Additional Mathematics</a> 
 <br><a href="#section-8">Sciences</a>
-<br><a href="#section-9">Arts</a>
+<br><a href="#section-9">Art</a>
+<br><a href="#section-10">Design &amp; Technology</a>
 
 <h3 id="section-1">Literature in English</h3><p>“Literature makes us better thinkers. It moves us to see the multi-sidedness of situations and therefore expands the breath of our own visions, moving us towards dreams and solutions we might not otherwise have imagined.” – Judith Langer, Envisioning Literature</p><p>Literature is essentially the study of human relationships and how we, as human beings, need to understand and work together to create a better place to live rather than exist. To be concise, it is how to understand humans better. It affords us PERSPECTIVES about architecture, about politics, about family, about all that is about humans, their living, their endeavours, their success, their tragedy, and most of all, the fragility of Life. It is a challenging discipline because it is about OUR opinion and not just the opinion of the writer.</p>
 <p>In this discipline, students learn to appreciate words and their power from the texts which range from classics, such as Shakespeare to modern works. Students read and respond to a variety of literary texts from the genres of prose, poetry and drama. The greatest value of Literature is that it promotes empathy as it develops in the student a greater understanding of the human condition. </p>
@@ -28,19 +29,19 @@ So why should your child take up Pure Literature?
 
 <h4>Assessment Criteria for Literature in English</h4> 
 
-<p>Go to the <a href="#section-1">top</a></p>
+<p>Go to the <a href="#section-11">top</a></p>
 
 <h3 id="section-2">Humanities</h3><p>Upper Secondary students must read at least one Humanities subject. If the student is reading only one Humanities subject, he MUST take ‘Humanities’, comprising a compulsory Social Studies component (SS) and an Elective component. In PRSS, the options for the Elective component are Elective History (EHist), Elective Geography (EGeo) and Elective Literature (Elit).</p>
 <p>
 Express students may opt to read an additional Pure Humanities subject which is not his or her Elective component in the compulsory Humanities subject. For example, a student who is reading Humanities (SS/History) can choose to read Pure Geography or English Literature. He is not allowed to read Pure History as this would overlap with the Elective History which he is already reading.</p>
 
-<p>Go to the <a href="#section-1">top</a></p>
+<p>Go to the <a href="#section-11">top</a></p>
 
 <h3 id="section-3">Social Studies</h3><p>Social Studies is the compulsory half of the Humanities subject.</p>
 <p>
 At the heart of the Social Studies Curriculum is the preparation of students to be citizens of tomorrow by helping them to better understand the interconnectedness of Singapore and the world they live in, and appreciate the complexities of the human world. Drawing on aspects of society that are of meaning and interest to the students, Social Studies seeks to ignite students’ curiosity to inquire into real-world issues that concern their lives. Through inquiry and authentic learning experiences, Social Studies helps students to attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives. Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world they live in, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.</p> 
 
-<p>Go to the <a href="#section-1">top</a></p>
+<p>Go to the <a href="#section-11">top</a></p>
 
 <h3 id="section-4">History</h3><p>History education in Singapore seeks to develop in students an appreciation of past human experiences, critical awareness of the nature of historical knowledge, and the ability to make connections between the past and present.<br><br>In recent years, there has been greater cognizance that historical content and concepts as well as the accompanying historical skills, are important. These lie at the heart of thinking critically about the nature of historical knowledge, which is essential to make better sense of the past. History also plays a critical role in developing students’ own identities through an understanding of history at the personal, national and international levels. The learning of history should spark their curiosity and inspire them with the beliefs, decisions and dilemmas of people in the past. Through historical inquiry, students pose questions about the present by engaging with the past and thus draw connections between both.<br><br>The Upper Secondary History syllabuses seek to enable students to be effective citizens and participants in the 21st century. To achieve this, students need to understand how the present world system came into being, and the inter-connectedness of nation-states and peoples. The curriculum also seek to examine the key forces and developments which have shaped international history in the 19th and 20th centuries. Through this syllabus, history students will understand not just concepts such as balance of power, hegemony, geopolitics and nationalism, but also acquire historical thinking skills.</p>
 <p>
@@ -53,7 +54,7 @@ Pure History students will cover the syllabus in greater depth, comprising the f
 
 1.  The Making of the 20th Century Modern World, 1910s–1991.
   
- </p><p>Go to the <a href="#section-1">top</a></p>
+ </p><p>Go to the <a href="#section-11">top</a></p>
  
  <h3 id="section-5">Geography</h3><p>Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment. <br><br>Generally, in both Pure Geography and Elective Geography, students will be taught skills of gathering and analysing information to understand and explain physical and human phenomena, and other contemporary environmental and social issues that occur in different places and cultures by </p><li>interpreting and recognising patterns in geographical data and deduce relationships</li><li>organise and present geographic information in a coherent way</li><li>analyse, evaluate and synthesise geographical data to make informed and sound decisions.</li><p></p><br><p>The objective is to develop an inquiring mind to seek answers to issues affecting our lives and the world we live in, and prepared students for their roles as informed citizens in the 21st century and most importantly, inculcate an awareness of appropriate attitudes and values that promotes a positive geographical future; one that ensures the sustainability of our resources, people, country, and planet.<br><br> Pure Geography students will cover the syllabus in greater depth, comprising all the following:</p><li>Students reading Elective Geography (O-Level) will NOT cover Clusters 4 and 5.</li>
   
@@ -62,7 +63,7 @@ Pure History students will cover the syllabus in greater depth, comprising the f
 
 <p></p><p>We offer Pure Humanities \[History, Geography\] and Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compulsory for ALL Express and Normal (Academic) students. The following table shows a summary of the O and N-Level Assessment components.</p>
  
-<p>Go to the <a href="#section-1">top</a></p>
+<p>Go to the <a href="#section-11">top</a></p>
 
 <h3 id="section-6">Principles of Accounts</h3><p>Principles of Accounts is offered as an elective subject at Secondary Three and examinable at the GCE O-Level and N(A)-Level.<br><br>Principles of Accounts is designed to &nbsp;designed to teach age-appropriate and relevant accounting knowledge, skills and values. In addition, students will understand how businesses use accounting and non-accounting information to make decisions. Through the subject, they will acquire transferrable skills that they can apply in their daily lives.</p><br>
 <b>Student Outcomes</b><br><p>The syllabus intends to develop in students the knowledge and skills to prepare, communicate and use both accounting information and non-accounting information related to the business to make decisions. <br><br> The subject aims to first equip students with the basic knowledge and skills on how to prepare and present accounting information and communicate them in a useful manner that can be understood by others.<br><br>Students will be able to understand </p><li>what business decisions are</li><li>how decisions are made using accounting information</li><li>the limitations of relying only on accounting information; and</li><li>the consideration of non-accounting business-related information.</li>
@@ -83,7 +84,7 @@ Diploma International Logistic and Supply Chain Management<br>
 
 <b>Assessment Criteria for POA</b>
 
-<p>Go to the <a href="#section-1">top</a></p>
+<p>Go to the <a href="#section-11">top</a></p>
 
 <h3 id="section-7">Additional Mathematics</h3><p>The syllabus prepares students adequately for A-Level H2 Mathematics, where a strong foundation in algebraic manipulation skills and mathematical reasoning skills are required. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strands, important mathematical processes such as reasoning, communication and application (including the use of models) are also emphasised and assessed. The O-Level Additional Mathematics syllabus assumes knowledge of O-Level Mathematics</p>
 
@@ -106,11 +107,11 @@ Diploma International Logistic and Supply Chain Management<br>
 <br>
 <b>Assessment Criteria for Additional Mathematics for Express and Normal Academic</b>
 
-<p>Go to the <a href="#section-1">top</a></p>
+<p>Go to the <a href="#section-11">top</a></p>
 
 <h3 id="section-8">Sciences</h3><p>We offer Pure Sciences [Physics, Chemistry, Biology] and Combined Science [Science (Physics, Chemistry) and Science (Chemistry, Biology)]. The following table shows a summary of the O-Level Assessment criteria.<br><br> Pure Science subjects are relatively demanding in terms of breadth and depth compared to combined Science. For pure science, students need to be&nbsp;passionate about the subject, be analytical and enjoy in-depth learning. For instance, students need to study and understand relationships e.g., interpret data and graphs and be focused, precise and detailed in their reasoning. <br><br>We would like to encourage our students to take Physics and Chemistry or Science (Physics, Chemistry) as these subjects are meant to lay a strong foundation for science at the secondary level. However, students who are excited to further explore the fascinating study of life (e.g. curious to find out how our bodies work and how plants function) may consider reading Biology or Science (Biology). A good command of the English Language is essential for students who are interested in taking Biology as the subject involves a lot of writing.<br><br>Students should consider their learning ability, interest and aspiration when choosing subjects. It is important for students to do well in the Sciences if he/she wishes to qualify for a Science Course in JC. Although the Pure Sciences give students a strong foundation in the learning of science, they are not a prerequisite to any of the science-related courses in the polytechnics. It is useful to note that courses such as applied sciences, engineering and media and design in the polytechnics require Science as a relevant subject, but these need not be Pure Sciences.</p>
 
-<p>Go to the <a href="#section-1">top</a></p>
+<p>Go to the <a href="#section-11">top</a></p>
 
 <h3 id="section-9">Art</h3><p>Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.&nbsp;<br><br>Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.&nbsp;<br><br>The production of Art requires a rigorous process of information analysis. In interpreting Art, students need to synthesise perception, information about the artwork and their own experiences.&nbsp;<br><br>In addition, students will be exposed to a diverse range of local, regional and global art and cultures through engaging with artworks, art making and arts professions. This will develop in students a lifelong appreciation and enjoyment of art. </p>
 
@@ -138,5 +139,38 @@ Diploma International Logistic and Supply Chain Management<br>
 
 **Educational pathways for students who would like to pursue a career in Art.**
 
-<p>Go to the <a href="#section-1">top</a></p>
+<p>Go to the <a href="#section-11">top</a></p>
 
+<h3 id="section-10">Design &amp; Technology</h3><p>Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
+
+1.  Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.
+    
+2.  Possess a caring heart and willing desire to improve the quality of life through thoughtful and practical design solutions.
+    
+3.  Develop curiosity and drive to seek out how things work in the real world.
+    
+4.  Communicate confidently their design solutions through doodling and/or sketching and 3D manipulation of material.
+    
+5.  Develop strong critical and creative thinking by exploring many unusual and interesting ideas in response to a given design context and need.
+</p>    
+
+<b>Assessment Criteria for Design &amp; Technology (O-Level and NA-Level)</b>
+
+The assessment objectives of the subject can be found at SEAB website under the syllabus document as follow:
+
+7059 - GCE O-Level D&amp;T<br>
+7055 - GCE NA-Level D&amp;T
+	
+
+
+\* The written paper will be design-centric. Question 1 requires knowledge application of the design process. Questions 2 - 4 requires knowledge application of the Technology topics and these include Structure (O-Level syllabus only), Mechanism and Electronics
+
+\# The design project is an individual coursework-based examination. The examination will be conducted over 22 weeks from the question paper release, excluding school holidays. Candidates are required to work on a design and prototyping project based on the examination question.&nbsp; The design project will comprise of two components:
+
+\(a)  The Design journal - a real time document that reflects the candidate’s attempt at managing his/her personal design process. Mock-up(s) and resulting prototype are to be submitted as part of the journal. A3 sheets are to be used and the journals need to be securely fastened. 
+
+\(b)  Presentation Board - use to communicate succinctly the proposed design solution in relation to the design brief and design specifications. It should show the functional and aesthetic details using appropriate graphical skills to highlight the practicality and appropriateness of the proposed design solution. Two A2 boards (single-side) are to be submitted as part of the presentation board.
+    
+<b>Educational pathways for D&amp;T students who would like to pursue a career in related fields</b>
+
+<p>Go to the <a href="#section-11">top</a></p>
