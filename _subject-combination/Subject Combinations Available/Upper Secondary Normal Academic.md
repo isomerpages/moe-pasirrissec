@@ -91,4 +91,56 @@ Diploma in Tourism and Resort Management<br>
 Diploma International Logistic and Supply Chain Management
 
 </p><p>Go to the <a href="#section-1">top</a></p>
-</li>
+
+<h3 id="section-4">Additional Mathematics</h3><p>The syllabus intends to prepare students adequately for O-Level Additional Mathematics. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strands, important mathematical processes such as reasoning, communication and application (including the use of models) are also emphasised and assessed.<br><br>
+At Secondary 3, students from the express Normal (Academic) courses who are interested in mathematics and are more mathematically inclined can take up Additional Mathematics which provides greater breadth and depth of coverage of mathematics topics. The Additional Mathematics syllabuses introduce students to Calculus and Trigonometry besides extending the learning in Algebra and Geometry from the N-Level Mathematics syllabus.&nbsp;<br><br>The N(A)-Level Additional Mathematics syllabus aims to enable students who have an aptitude and interest in mathematics to:
+
+*   acquire mathematical concepts and skills for higher studies in mathematics and to support learning in the other subjects, with emphasis in the sciences, but not limited to the sciences;
+    
+*   develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem-solving;
+
+*   connect ideas within mathematics and between mathematics and the sciences through applications of mathematics; and appreciate the abstract nature and power of mathematics.
+    
+The table below shows the difference between Mathematics and Additional Mathematics:
+
+<b>Requirements to take up Additional Mathematics at Sec 3:</b>
+
+*   Good performance in marks&nbsp;
+	*   NA: A good pass in N(A) Mathematics&nbsp;
+*   Algebra proficiency&nbsp;
+*   Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential
+    
+
+  
+
+Implication on admission requirement for post-secondary studies
+
+Junior College
+
+*   Students taking science course will likely take up H2 Mathematics and taking Additional Mathematics in upper secondary education will prepare the students adequately
+    
+*   Students taking art course will likely take up H1 Mathematics and taking Mathematics only will prepare the students adequately
+    
+*   Individual JCs set their own admission requirements
+    
+
+  
+
+Polytechnic
+
+*   Admission requirements are course – dependent
+    
+*   O-Level Mathematics would be adequate
+    
+
+  
+  
+  
+  
+  
+  
+  
+  
+Assessment Criteria for Additional Mathematics for Normal Academic**
+	
+</p><p>Go to the <a href="#section-1">top</a></p></li>
