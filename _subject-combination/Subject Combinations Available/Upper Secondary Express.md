@@ -7,7 +7,7 @@ third_nav_title: Subject Combinations Available
 ---
 <br>
 
-<a href="#section-1">Literature in English</a> | <a href="#section-2">Humanities</a>| <a href="#section-3">Social Studies</a> | <a href="#section-4">History</a> | <a href="#section-5">Geography</a>
+<a href="#section-1">Literature in English</a> | <a href="#section-2">Humanities</a>| <a href="#section-3">Social Studies</a> | <a href="#section-4">History</a> | <a href="#section-5">Geography</a> |
 	
 <h3 id="section-1">Literature in English</h3><p>“Literature makes us better thinkers. It moves us to see the multi-sidedness of situations and therefore expands the breath of our own visions, moving us towards dreams and solutions we might not otherwise have imagined.” – Judith Langer, Envisioning Literature</p><p>Literature is essentially the study of human relationships and how we, as human beings, need to understand and work together to create a better place to live rather than exist. To be concise, it is how to understand humans better. It affords us PERSPECTIVES about architecture, about politics, about family, about all that is about humans, their living, their endeavours, their success, their tragedy, and most of all, the fragility of Life. It is a challenging discipline because it is about OUR opinion and not just the opinion of the writer.</p>
 <p>In this discipline, students learn to appreciate words and their power from the texts which range from classics, such as Shakespeare to modern works. Students read and respond to a variety of literary texts from the genres of prose, poetry and drama. The greatest value of Literature is that it promotes empathy as it develops in the student a greater understanding of the human condition. </p>
@@ -62,4 +62,3 @@ tudents reading Elective Geography (O-Level) will NOT cover Clusters 4 and 5.&nb
 </p><p>We offer Pure Humanities \[History, Geography\] and Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compulsory for ALL Express and Normal (Academic) students. The following table shows a summary of the O and N-Level Assessment components.</p>
  
 <p>Go to the <a href="#section-1">top</a></p>
- 
