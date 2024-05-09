@@ -2,5 +2,6 @@ collections:
   subject-combination:
     output: true
     order:
+      - Subject Combination/Considerations in choosing a subject combination.md
       - Subject Combination/.keep
       - Subject Combination.md
