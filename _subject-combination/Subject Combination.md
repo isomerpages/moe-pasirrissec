@@ -32,7 +32,8 @@ organised in the following manner:&nbsp;</p>
 <p>Allocation of Subject combinations</p>
 </li>
 <li>
-<p>Education and Career Guidance</p>
+<p><a href="/education-career-guidance/" rel="noopener noreferrer nofollow" target="_blank">Education Career Guidance</a>
+</p>
 </li>
 <li>
 <p><a href="/frequently-asked-questions/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>
