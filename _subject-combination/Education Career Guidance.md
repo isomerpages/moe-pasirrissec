@@ -4,7 +4,7 @@ permalink: /education-career-guidance/
 variant: markdown
 description: ""
 ---
-#### A Guide for Parents in Education and Career Guidance
+### A Guide for Parents in Education and Career Guidance
 
 All parents want the best for their children and hope that they find happiness and purpose in life. It is important to recognise that you can play a significant role in the decisions your child makes for his or her life, especially at this crucial juncture.
 
