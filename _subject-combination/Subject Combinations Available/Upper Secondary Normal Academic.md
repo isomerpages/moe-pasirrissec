@@ -110,37 +110,19 @@ The table below shows the difference between Mathematics and Additional Mathemat
 *   Algebra proficiency&nbsp;
 *   Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential
     
+<b>Implication on admission requirement for post-secondary studies</b>
 
-  
-
-Implication on admission requirement for post-secondary studies
-
-Junior College
+<b>Junior College</b>
 
 *   Students taking science course will likely take up H2 Mathematics and taking Additional Mathematics in upper secondary education will prepare the students adequately
-    
 *   Students taking art course will likely take up H1 Mathematics and taking Mathematics only will prepare the students adequately
-    
 *   Individual JCs set their own admission requirements
-    
 
-  
-
-Polytechnic
+	<b>Polytechnic</b>
 
 *   Admission requirements are course – dependent
-    
 *   O-Level Mathematics would be adequate
-    
-
   
-  
-  
-  
-  
-  
-  
-  
-Assessment Criteria for Additional Mathematics for Normal Academic**
+<b>Assessment Criteria for Additional Mathematics for Normal Academic</b>
 	
 </p><p>Go to the <a href="#section-1">top</a></p></li>
