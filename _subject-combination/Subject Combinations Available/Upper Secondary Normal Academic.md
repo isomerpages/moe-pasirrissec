@@ -11,11 +11,10 @@ third_nav_title: Subject Combinations Available
 <br> <a href="#section-2">Social Studies</a>
 <br><a href="#section-3">Elective History</a>
 <br><a href="#section-3">Elective Geography</a>
-<br><a href="#section-6">Principles of Accounts</a>
-<br><a href="#section-7">Additional Mathematics</a> 
-<br><a href="#section-8">Sciences</a>
-<br><a href="#section-9">Art</a>
-<br><a href="#section-10">Design &amp; Technology</a>
+<br><a href="#section-4">Principles of Accounts</a>
+<br><a href="#section-5">Additional Mathematics</a> 
+<br><a href="#section-6">Art</a>
+<br><a href="#section-7">Design &amp; Technology</a>
 
 <h3 id="section-1">Humanities</h3><p>Upper Secondary students must read at least one Humanities subject. If the student is reading only one Humanities subject, he MUST take ‘Humanities’, comprising a compulsory Social Studies component (SS) and an Elective component. In PRSS, the options for the Elective component are Elective History (EHist) and Elective Geography (EGeo).</p>
 	
@@ -31,7 +30,13 @@ third_nav_title: Subject Combinations Available
 	
 </p><p>Go to the <a href="#section-1">top</a>
 	
-</p><h3 id="section-4">Elective Geography</h3><p>Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment.&nbsp;<br><br>Generally, in both Pure Geography and Elective Geography, students will be taught skills of gathering and analysing information to understand and explain physical and human phenomena, and other contemporary environmental and social issues that occur in different places and cultures by </p><li>interpreting and recognising patterns in geographical data and deduce relationships&nbsp;</li><li>organise and present geographic information in a coherent way</li><li>analyse, evaluate and synthesise geographical data to make informed and sound decisions.<br><br> The objective is to develop an inquiring mind to seek answers to issues affecting our lives and the world we live in, and prepared students for their roles as informed citizens in the 21st century and most importantly, inculcate an awareness of appropriate attitudes and values that promotes a positive geographical future; one that ensures the sustainability of our resources, people, country, and planet.
+</p><h3 id="section-4">Elective Geography</h3><p>Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment.&nbsp;<br><br>Generally, in both Pure Geography and Elective Geography, students will be taught skills of gathering and analysing information to understand and explain physical and human phenomena, and other contemporary environmental and social issues that occur in different places and cultures by </p><li>interpreting and recognising patterns in geographical data and deduce relationships&nbsp;</li><li>organise and present geographic information in a coherent way</li><li>analyse, evaluate and synthesise geographical data to make informed and sound decisions.<br><br> The objective is to develop an inquiring mind to seek answers to issues affecting our lives and the world we live in, and prepared students for their roles as informed citizens in the 21st century and most importantly, inculcate an awareness of appropriate attitudes and values that promotes a positive geographical future; one that ensures the sustainability of our resources, people, country, and planet.<br><br>Geography students will cover the syllabus as follows:
+	
+<b>Assessment Criteria for Humanities</b>  
+
+We offer Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compulsory for ALL Express and Normal (Academic) students. The following table shows a summary of the N(A)-Level Assessment components.
 	
 <p>Go to the <a href="#section-1">top</a>
-</p></li>
+	
+
+	</p></li>
