@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Subject Combinations Available
 ---
-#### **Introduction to Upper Secondary Subjects (Express)**
+#### **Introduction to Upper Secondary Subjects (Normal Academic)**
 
 <a href="#section-1">Humanities</a><br>
 <a href="#section-2">Social Studies</a><br>
