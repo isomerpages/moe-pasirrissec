@@ -306,9 +306,12 @@ The assessment objectives of the subject can be found at SEAB website under the 
 
 **Educational pathways for D&amp;T students who would like to pursue a career in related fields**
 
-| Column 1 | Column 2 | 
+| Name of courses/ programme | What the course/programme entails | 
 | -------- | -------- | 
-| Text     | Text     | 
+| Nitec in Product Design<br><br><br><br><br><br><br>Nitec in Space Design | For Nitec in Product Design, students will learn the fundamental skills in the creation and design of consumer goods such as consumer electronics, furniture and lifestyle goods. <br><br>For Nitec in Space design, students will learn to explore and transform both 2D and/or 3D ordinary interior spaces into conducive environment to learn, work and play. | 
+| Nitect in Medical Manufacturing Technology<br><br><br><br><br><br><br>Nitec in Automotive Technology | For Nitec in Medical Manufacturing Technology, students will learn about designing body parts such as knee joints, bone screws, dental implants and so on as to bring mobility and hope back to the affected patients. <br><br>For Nitec in Automobile Technology (light vehicles), students will learn to diagnose, service, repair and maintain modern computer-equipped light vehicles ranging from saloon cars to sports utility vehicles, multi-purpose vehicles and light utility vans | 
+| Diploma in Product Design &amp; Industrial Design | Text     | 
+| Interior Design,<br>BA (Hons) from SIT<br>BS (Architecture and Sustainable Design) from SUTD<br>BA (Industrial Design) (Hons) from NUS<br>Bachelor of Fine Arts in Product Design from NTU | Text     | 
 
 
 Go to the <a href="#section-1">top</a>
