@@ -16,7 +16,7 @@ third_nav_title: Subject Combinations Available
 <a href="#section-7">Art</a><br>
 <a href="#section-8">Design &amp; Technology</a> 
 
-<h3 id="section-2">Humanities</h3>
+<h3 id="section-1">Humanities</h3>
 
 Upper Secondary students must read at least one Humanities subject. If the student is reading only one Humanities subject, he MUST take ‘Humanities’, comprising a compulsory Social Studies component (SS) and an Elective component. In PRSS, the options for the Elective component are Elective History (EHist) and Elective Geography (EGeo).
 
@@ -28,7 +28,7 @@ Upper Secondary students must read at least one Humanities subject. If the stude
 	
 Go to the <a href="#section-1">top</a>
 
-<h3 id="section-3">Social Studies</h3>
+<h3 id="section-2">Social Studies</h3>
 
 Social Studies is the compulsory half of the Humanities subject.
 
@@ -36,7 +36,7 @@ At the heart of the Social Studies Curriculum is the preparation of students to 
 
 Go to the <a href="#section-1">top</a>
 
-<h3 id="section-4">Elective History</h3><p>History education in Singapore seeks to develop in students an appreciation of past human experiences, critical awareness of the nature of historical knowledge, and the ability to make connections between the past and present.
+<h3 id="section-3">Elective History</h3><p>History education in Singapore seeks to develop in students an appreciation of past human experiences, critical awareness of the nature of historical knowledge, and the ability to make connections between the past and present.
 	
 In recent years, there has been greater cognizance that historical content and concepts as well as the accompanying historical skills, are important. These lie at the heart of thinking critically about the nature of historical knowledge, which is essential to make better sense of the past. History also plays a critical role in developing students’ own identities through an understanding of history at the personal, national and international levels. The learning of history should spark their curiosity and inspire them with the beliefs, decisions and dilemmas of people in the past. Through historical inquiry, students pose questions about the present by engaging with the past and thus draw connections between both.
 	
@@ -48,7 +48,7 @@ Students reading Elective History will only cover the following unit:
 	
 Go to the <a href="#section-1">top</a>
 
-</p><h3 id="section-5">Elective Geography</h3>
+</p><h3 id="section-4">Elective Geography</h3>
 
 Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment.
 
@@ -111,8 +111,8 @@ Students will be able to develop the skills of:
 
 * applying the double entry system of recording business transactions
 * synthesis and presentation skills in the preparation of accounting information in a suitable form
-* analytical skill in interpreting financial statements and analysing the effects of business&nbsp;transactions and accounting adjustments on financial statements
-* evaluative skill in evaluating businesses for their profitability, liquidity and efficiency of inventory&nbsp;and trade receivables management using financial information and ratios
+* analytical skill in interpreting financial statements and analysing the effects of business transactions and accounting adjustments on financial statements
+* evaluative skill in evaluating businesses for their profitability, liquidity and efficiency of inventory and trade receivables management using financial information and ratios
 * decision-making skill in evaluating choices using both accounting and non-accounting information.
 
 **Relevant Courses in Poly**
