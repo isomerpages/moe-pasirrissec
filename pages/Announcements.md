@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Secondary 2 Breakfast Session with Parents
+
+Please click&nbsp;[here](/files/2024_Sec_2_Breakfast_with_Parents_10_May__Reduced_size_.pdf)&nbsp;to view the Sec 2 Breakfast Session with Parents slides
+
 #### 8th May Blended Learning Timetable
 
 Please click [here](/files/Announcements/8th_May_2024_BL_TT_V1_Classes.pdf) to view the timetable.
