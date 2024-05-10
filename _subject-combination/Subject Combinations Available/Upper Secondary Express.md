@@ -119,15 +119,47 @@ We offer Pure Humanities \[History, Geography\] and Humanities (SS/Hist, SS/Geog
  
 Go to the <a href="#section-1">top</a>
 
-<h3 id="section-6">Principles of Accounts</h3><p>Principles of Accounts is offered as an elective subject at Secondary Three and examinable at the GCE O-Level and N(A)-Level.<br><br>Principles of Accounts is designed to &nbsp;designed to teach age-appropriate and relevant accounting knowledge, skills and values. In addition, students will understand how businesses use accounting and non-accounting information to make decisions. Through the subject, they will acquire transferrable skills that they can apply in their daily lives.</p><br>
-<b>Student Outcomes</b><br><p>The syllabus intends to develop in students the knowledge and skills to prepare, communicate and use both accounting information and non-accounting information related to the business to make decisions. <br><br> The subject aims to first equip students with the basic knowledge and skills on how to prepare and present accounting information and communicate them in a useful manner that can be understood by others.<br><br>Students will be able to understand </p><li>what business decisions are</li><li>how decisions are made using accounting information</li><li>the limitations of relying only on accounting information; and</li><li>the consideration of non-accounting business-related information.</li>
+<h3 id="section-6">Principles of Accounts</h3>
 
-<p>Students will be able to develop knowledge and understanding of: </p><li>role of accountants and the ethical values desired in the people who prepare the information</li><li>purpose of accounting as providing accounting information to support and facilitate decision-making</li><li>consideration of accounting and non-accounting information in decision-making</li><li>use of financial ratios for evaluation of profitability, liquidity and efficiency of inventory management and trade receivables management</li><li>basic forms of business entities</li><li>elements of the financial statements as representation of business activities and how they are presented on Financial Statements</li><li>principles underlying accounting as a measurement system</li><li>accounting information system and accounting cycle, and the double-entry recording method in maintaining records of business activities</li><li>internal controls to ensure accuracy of information.</li>
+Principles of Accounts is offered as an elective subject at Secondary Three and examinable at the GCE O-Level and N(A)-Level.
 
-<p>Students will be able to develop the skills of: </p><li>applying the double entry system of recording business transactions</li><li> synthesis and presentation skills in the preparation of accounting information in a suitable form</li><li>analytical skill in interpreting financial statements and analysing the effects of business transactions and accounting adjustments on financial statements</li><li>evaluative skill in evaluating businesses for their profitability, liquidity and efficiency of inventory and trade receivables management using financial information and ratios</li><li>decision-making skill in evaluating choices using both accounting and non-accounting information.</li>
-<br>
-<b>Relevant Courses in Poly</b><br>
-<br> 
+Principles of Accounts is designed to designed to teach age-appropriate and relevant accounting knowledge, skills and values. In addition, students will understand how businesses use accounting and non-accounting information to make decisions. Through the subject, they will acquire transferrable skills that they can apply in their daily lives.
+
+**Student Outcomes**
+
+The syllabus intends to develop in students the knowledge and skills to prepare, communicate and use both accounting information and non-accounting information related to the business to make decisions. 
+
+The subject aims to first equip students with the basic knowledge and skills on how to prepare and present accounting information and communicate them in a useful manner that can be understood by others.
+
+Students will be able to understand 
+
+* what business decisions are
+* how decisions are made using accounting information
+* the limitations of relying only on accounting information; and
+* the consideration of non-accounting business-related information.
+
+Students will be able to develop knowledge and understanding of: 
+
+* role of accountants and the ethical values desired in the people who prepare the information
+* purpose of accounting as providing accounting information to support and facilitate decision-making
+* consideration of accounting and non-accounting information in decision-making
+* use of financial ratios for evaluation of profitability, liquidity and efficiency of inventory management and trade receivables management
+* basic forms of business entities
+* elements of the financial statements as representation of business activities and how they are presented on Financial Statements
+* principles underlying accounting as a measurement system
+* accounting information system and accounting cycle, and the double-entry recording method in maintaining records of business activities
+* internal controls to ensure accuracy of information.
+
+Students will be able to develop the skills of: 
+
+* apply the double entry system of recording business transactions
+* synthesis and presentation skills in the preparation of accounting information in a suitable form
+* analytical skill in interpreting financial statements and analysing the effects of business transactions and accounting adjustments on financial statements
+* evaluative skill in evaluating businesses for their profitability, liquidity and efficiency of inventory and trade receivables management using financial information and ratios
+* decision-making skill in evaluating choices using both accounting and non-accounting information.
+
+**Relevant Courses in Poly**
+
 Diploma in Accountancy<br>
 Diploma in International Business<br>
 Diploma in Bank and Finance<br>
@@ -136,27 +168,48 @@ Diploma in Business Information Technology<br>
 Diploma in Tourism and Resort Management<br>
 Diploma International Logistic and Supply Chain Management<br>
 
-<b>Assessment Criteria for POA</b>
+**Assessment Criteria for POA**
 
-<p>Go to the <a href="#section-1">top</a></p>
+(To be upload soon)
 
-<h3 id="section-7">Additional Mathematics</h3><p>The syllabus prepares students adequately for A-Level H2 Mathematics, where a strong foundation in algebraic manipulation skills and mathematical reasoning skills are required. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strands, important mathematical processes such as reasoning, communication and application (including the use of models) are also emphasised and assessed. The O-Level Additional Mathematics syllabus assumes knowledge of O-Level Mathematics</p>
+Go to the <a href="#section-1">top</a>
+
+<h3 id="section-7">Additional Mathematics</h3>
+
+The syllabus prepares students adequately for A-Level H2 Mathematics, where a strong foundation in algebraic manipulation skills and mathematical reasoning skills are required. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strands, important mathematical processes such as reasoning, communication and application (including the use of models) are also emphasised and assessed. The O-Level Additional Mathematics syllabus assumes knowledge of O-Level Mathematics
+
+(To upload soon)
+
+At Secondary 3, students from the express courses who are interested in mathematics and are more mathematically inclined can take up Additional Mathematics which provides greater breadth and depth of coverage of mathematics topics. The Additional Mathematics syllabuses introduce students to Calculus and Trigonometry besides extending the learning in Algebra and Geometry from the O-Level Mathematics syllabus. Students are also engaged in writing proofs in Geometry in Additional Mathematics.
+
+The O-Level Additional Mathematics syllabus aims to enable students who have an aptitude and interest in mathematics to: 
+
+* acquire mathematical concepts and skills for higher studies in mathematics and to support learning in the other subjects, with emphasis in the sciences, but not limited to the sciences
+* develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem-solving
+* connect ideas within mathematics and between mathematics and the sciences through applications of mathematics; and 
+* appreciate the abstract nature and power of mathematics
+
+The table below shows the difference between Mathematics and Additional Mathematics:
 
 
-<p>At Secondary 3, students from the express courses who are interested in mathematics and are more mathematically inclined can take up Additional Mathematics which provides greater breadth and depth of coverage of mathematics topics. The Additional Mathematics syllabuses introduce students to Calculus and Trigonometry besides extending the learning in Algebra and Geometry from the O-Level Mathematics syllabus. Students are also engaged in writing proofs in Geometry in Additional Mathematics.</p>
 
-<p>The O-Level Additional Mathematics syllabus aims to enable students who have an aptitude and interest in mathematics to: </p><li>acquire mathematical concepts and skills for higher studies in mathematics and to support&nbsp;learning in the other subjects, with emphasis in the sciences, but not limited to the&nbsp;sciences</li><li> develop thinking, reasoning, communication, application and metacognitive skills through&nbsp;a mathematical approach to problem-solving</li><li>connect ideas within mathematics and between mathematics and the sciences through&nbsp;applications of mathematics; and </li><li>appreciate the abstract nature and power of mathematics</li>
-<br>
-<p>The table below shows the difference between Mathematics and Additional Mathematics:</p>
+**Requirements to take up Additional Mathematics at Sec 3:**
 
-<b>Requirements to take up Additional Mathematics at Sec 3:</b><li>Good performance in marks</li><li>Express: A good pass in Sec 2 Mathematics</li><li>Algebra proficiency</li><li>Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential</li>
+* Good performance in marks
+	* Express: A good pass in Sec 2 Mathematics
+* Algebra proficiency
+* Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential
 
-<b>Implication on admission requirement for post-secondary studies</b>
-<br><br>
-<b>Junior College</b><br>
-<li>Students taking science course will likely take up H2 Mathematics and taking Additional Mathematics in upper secondary education will prepare the students adequately</li><li>  Students taking art course will likely take up H1 Mathematics and taking Mathematics only will prepare the students adequately</li><li>Individual JCs set their own admission requirements</li>
-<br>
-<b>Polytechnic</b><br>
+**Implication on admission requirement for post-secondary studies**
+
+**Junior College**
+
+* Students taking science course will likely take up H2 Mathematics and taking Additional Mathematics in upper secondary education will prepare the students adequately
+* Students taking art course will likely take up H1 Mathematics and taking Mathematics only will prepare the students adequately
+* Individual JCs set their own admission requirements
+
+**Polytechnic**
+
 <li>Admission requirements are course – dependent</li><li>O-Level Mathematics would be adequate</li>
 <br>
 <b>Assessment Criteria for Additional Mathematics for Express and Normal Academic</b>
