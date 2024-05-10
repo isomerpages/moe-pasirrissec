@@ -177,7 +177,9 @@ The table below shows the difference between Mathematics and Additional Mathemat
 
 Go to the <a href="#section-1">top</a>
 
-<h3 id="section-7">Art</h3><p>Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.
+<h3 id="section-7">Art</h3>
+
+Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.
 	
 Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.
 
@@ -192,9 +194,9 @@ In addition, students will be exposed to a diverse range of local, regional and 
 \*The coursework assessment allows for:
 	
 *   Candidates’ personal interpretation and response to their chosen themes
-*   Candidates’ engagement in art making and inquiry process;&nbsp; 
+*   Candidates’ engagement in art making and inquiry process;
 *   Candidates’ may choose any suitable craft type to present their Final Artwork; and
-*   Candidates’ visual and aesthetic awareness.&nbsp;
+*   Candidates’ visual and aesthetic awareness.
     
 \# The drawing and painting assessment allows for:
 
@@ -205,11 +207,12 @@ In addition, students will be exposed to a diverse range of local, regional and 
 
 **Educational pathways for students who would like to pursue a career in Art.**
 	
+(To be upload soon)	
 	
-	
-</p><p>Go to the <a href="#section-1">top</a></p>
+Go to the <a href="#section-1">top</a>
 
-<h3 id="section-8">Design and Technology</h3><p>
+<h3 id="section-8">Design and Technology</h3>
+
 Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
 
 1. Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.  
@@ -225,7 +228,7 @@ The assessment objectives of the subject can be found at SEAB website under the 
 7059 - GCE O-Level D&amp;T<br>
 7055 - GCE N-Level D&amp;T
 	
-
+(To be upload soon)
 
 \* The written paper will be design-centric. Question 1 requires knowledge application of the design process. Questions 2 - 4 requires knowledge application of the Technology topics and these include Structure (O-Level syllabus only), Mechanism and Electronics
 
@@ -236,7 +239,13 @@ The assessment objectives of the subject can be found at SEAB website under the 
 \(B) Presentation Board - use to communicate succinctly the proposed design solution in relation to the design brief and design specifications. It should show the functional and aesthetic details using appropriate graphical skills to highlight the practicality and appropriateness of the proposed design solution. Two A2 boards (single-side) are to be submitted as part of the presentation board
 
 **Educational pathways for D&amp;T students who would like to pursue a career in related fields.**
-	
+
+| Name of courses/ programme | What the course/programme entails | 
+| -------- | -------- | 
+| Nitec in Product Design<br><br>Nitec in Space Design | For Nitec in Product Design, students will learn the fundamental skills in the creation and design of consumer goods such as consumer electronics, furniture and lifestyle goods.<br>For Nitec in Space design, students will learn to explore and transform both 2D and/or 3D ordinary interior spaces into conducive environment to learn, work and play. | | Nitect in Medical Manufacturing Technology<br><br>Nitec in Automotive Technology  | For Nitec in Medical Manufacturing Technology, students will learn about designing body parts such as knee joints, bone screws, dental implants and so on as to bring mobility and hope back to the affected patients.<br>For Nitec in Automobile Technology (light vehicles), students will learn to diagnose, service, repair and maintain modern computer-equipped light vehicles ranging from saloon cars to sports utility vehicles, multi-purpose vehicles and light utility vans | 
+| Diploma in Product Design &amp; Industrial Design  | Text     | 
+| Interior Design<br> BA (Hons) from SIT<br>BS (Architecture and Sustainable Design) from SUTD<br>BA (Industrial Design) (Hons) from NUS<br>Bachelor of Fine Arts in Product Design from NTU | Text     | 
+
 **These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology.&nbsp;**
 
 *   Applications Developer &amp; Engineer
@@ -246,4 +255,4 @@ The assessment objectives of the subject can be found at SEAB website under the 
 *   Architectural Drafters / 3D Animators
 *   Brand / Packaging designers
 
-</p><p>Go to the <a href="#section-1">top</a></p>
+<p></p><p>Go to the <a href="#section-1">top</a></p>
