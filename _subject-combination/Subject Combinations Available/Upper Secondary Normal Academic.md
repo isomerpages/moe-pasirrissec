@@ -30,16 +30,32 @@ third_nav_title: Subject Combinations Available
 
 <p>Go to the <a href="#section-1">top</a></p>
 
-<h3 id="section-4">Elective History</h3><p>History education in Singapore seeks to develop in students an appreciation of past human experiences, critical awareness of the nature of historical knowledge, and the ability to make connections between the past and present.<br><br>In recent years, there has been greater cognizance that historical content and concepts as well as the accompanying historical skills, are important. These lie at the heart of thinking critically about the nature of historical knowledge, which is essential to make better sense of the past. History also plays a critical role in developing students’ own identities through an understanding of history at the personal, national and international levels. The learning of history should spark their curiosity and inspire them with the beliefs, decisions and dilemmas of people in the past. Through historical inquiry, students pose questions about the present by engaging with the past and thus draw connections between both.&nbsp;<br><br>The Upper Secondary History syllabuses seek to enable students to be effective citizens and participants in the 21st century. To achieve this, students need to understand how the present world system came into being, and the inter-connectedness of nation-states and peoples. The curriculum also seek to examine the key forces and developments which have shaped international history in the 19th and 20th centuries. Through this syllabus, history students will understand not just concepts such as balance of power, hegemony, geopolitics and nationalism, but also acquire historical thinking skills.<br><br>Students reading Elective History will only cover the following unit:&nbsp;
+<h3 id="section-4">Elective History</h3><p>History education in Singapore seeks to develop in students an appreciation of past human experiences, critical awareness of the nature of historical knowledge, and the ability to make connections between the past and present.
+	
+In recent years, there has been greater cognizance that historical content and concepts as well as the accompanying historical skills, are important. These lie at the heart of thinking critically about the nature of historical knowledge, which is essential to make better sense of the past. History also plays a critical role in developing students’ own identities through an understanding of history at the personal, national and international levels. The learning of history should spark their curiosity and inspire them with the beliefs, decisions and dilemmas of people in the past. Through historical inquiry, students pose questions about the present by engaging with the past and thus draw connections between both.
+	
+The Upper Secondary History syllabuses seek to enable students to be effective citizens and participants in the 21st century. To achieve this, students need to understand how the present world system came into being, and the inter-connectedness of nation-states and peoples. The curriculum also seek to examine the key forces and developments which have shaped international history in the 19th and 20th centuries. Through this syllabus, history students will understand not just concepts such as balance of power, hegemony, geopolitics and nationalism, but also acquire historical thinking skills.
+	
+Students reading Elective History will only cover the following unit:
 
-1.  &nbsp;The Making of the 20th Century Modern World, 1910s–1991.
+1.  The Making of the 20th Century Modern World, 1910s–1991.
 	
 </p><p>Go to the <a href="#section-1">top</a></p>
 
-<h3 id="section-5">Elective Geography</h3><p>Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment.&nbsp;<br><br>Generally, in both Pure Geography and Elective Geography, students will be taught skills of gathering and analysing information to understand and explain physical and human phenomena, and other contemporary environmental and social issues that occur in different places and cultures by </p><li>interpreting and recognising patterns in geographical data and deduce relationships&nbsp;</li><li>organise and present geographic information in a coherent way</li><li>analyse, evaluate and synthesise geographical data to make informed and sound decisions.<br><br> The objective is to develop an inquiring mind to seek answers to issues affecting our lives and the world we live in, and prepared students for their roles as informed citizens in the 21st century and most importantly, inculcate an awareness of appropriate attitudes and values that promotes a positive geographical future; one that ensures the sustainability of our resources, people, country, and planet.<br><br>Geography students will cover the syllabus as follows:
+<h3 id="section-5">Elective Geography</h3><p>Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment.
+
+Generally, in both Pure Geography and Elective Geography, students will be taught skills of gathering and analysing information to understand and explain physical and human phenomena, and other contemporary environmental and social issues that occur in different places and cultures by 
+	
+* interpreting and recognising patterns in geographical data and deduce relationships
+* organise and present geographic information in a coherent way
+* analyse, evaluate and synthesise geographical data to make informed and sound decisions.
+	
+The objective is to develop an inquiring mind to seek answers to issues affecting our lives and the world we live in, and prepared students for their roles as informed citizens in the 21st century and most importantly, inculcate an awareness of appropriate attitudes and values that promotes a positive geographical future; one that ensures the sustainability of our resources, people, country, and planet.
+	
+Geography students will cover the syllabus as follows:
 	
 <b>Assessment Criteria for Humanities</b>  
-<p>
+</p><p>
 We offer Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compulsory for ALL Express and Normal (Academic) students. The following table shows a summary of the N(A)-Level Assessment components.</p>
 	
 <p>Go to the <a href="#section-1">top</a></p>
@@ -210,4 +226,3 @@ The assessment objectives of the subject can be found at SEAB website under the 
 *   Brand / Packaging designers
 
 </p><p>Go to the <a href="#section-1">top</a></p>
-</li>
