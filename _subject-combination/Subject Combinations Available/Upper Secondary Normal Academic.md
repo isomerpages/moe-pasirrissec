@@ -134,10 +134,17 @@ The table below shows the difference between Mathematics and Additional Mathemat
 	
 </p><p>Go to the <a href="#section-1">top</a></p>
 
-<h3 id="section-7">Art</h3><p>Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.&nbsp;<br><br>Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.&nbsp;<br><br>The production of Art requires a rigorous process of information analysis. In interpreting Art, students need to synthesise perception, information about the artwork and their own experiences.&nbsp;<br><br>In addition, students will be exposed to a diverse range of local, regional and global art and cultures through engaging with artworks, art making and arts professions. This will develop in students a lifelong appreciation and enjoyment of art.
+<h3 id="section-7">Art</h3><p>Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.
+	
+Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.
 
-<b>Assessment Criteria for Art</b>
+The production of Art requires a rigorous process of information analysis. In interpreting Art, students need to synthesise perception, information about the artwork and their own experiences.
+	
+In addition, students will be exposed to a diverse range of local, regional and global art and cultures through engaging with artworks, art making and arts professions. This will develop in students a lifelong appreciation and enjoyment of art.
 
+**Assessment Criteria for Art**
+	
+(To be upload soon)
 	
 \*The coursework assessment allows for:
 	
@@ -149,32 +156,33 @@ The table below shows the difference between Mathematics and Additional Mathemat
 \# The drawing and painting assessment allows for:
 
 *   Candidates’ personal expression and response to their chosen themes using drawing and paint media;
-*   Candidates’ inquiry and interpretation of their chosen theme;&nbsp;
-*   Candidates’ can only present their Final Artwork in a drawing and/or painting medium; and&nbsp;
-*   Candidates’ visual and aesthetic awareness.&nbsp;
+*   Candidates’ inquiry and interpretation of their chosen theme;
+*   Candidates’ can only present their Final Artwork in a drawing and/or painting medium; and
+*   Candidates’ visual and aesthetic awareness.
 
-<b>Educational pathways for students who would like to pursue a career in Art.</b>
+**Educational pathways for students who would like to pursue a career in Art.**
+	
+	
 	
 </p><p>Go to the <a href="#section-1">top</a></p>
 
 <h3 id="section-8">Design and Technology</h3><p>
 Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
 
-1.  Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.  
+1. Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.  
 2.  Possess a caring heart and willing desire to improve the quality of life through thoughtful and practical design solutions.
-    
-3.  Develop curiosity and drive to seek out how things work in the real world.
-    
+3.  Develop curiosity and drive to seek out how things work in the real world.   
 4.  Communicate confidently their design solutions through doodling and/or sketching and 3D manipulation of material.
-    
 5.  Develop strong critical and creative thinking by exploring many unusual and interesting ideas in response to a given design context and need.
     
-<b>Assessment Criteria for Design &amp; Technology [O-Level and N-Level]</b>
+**Assessment Criteria for Design &amp; Technology [O-Level and N-Level]**
 
 The assessment objectives of the subject can be found at SEAB website under the syllabus document as follow:
 
 7059 - GCE O-Level D&amp;T<br>
 7055 - GCE N-Level D&amp;T
+	
+
 
 \* The written paper will be design-centric. Question 1 requires knowledge application of the design process. Questions 2 - 4 requires knowledge application of the Technology topics and these include Structure (O-Level syllabus only), Mechanism and Electronics
 
@@ -184,8 +192,16 @@ The assessment objectives of the subject can be found at SEAB website under the 
 
 \(B) Presentation Board - use to communicate succinctly the proposed design solution in relation to the design brief and design specifications. It should show the functional and aesthetic details using appropriate graphical skills to highlight the practicality and appropriateness of the proposed design solution. Two A2 boards (single-side) are to be submitted as part of the presentation board
 
-<b>Educational pathways for D&amp;T students who would like to pursue a career in related fields.</b>
+**Educational pathways for D&amp;T students who would like to pursue a career in related fields.**
+	
+**These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology.&nbsp;**
+
+*   Applications Developer &amp; Engineer
+*   Design / Electronics / Chemical / Mechanical Engineers
+*   Equipment Research &amp; Design Engineer
+*   Systems Designers / Analysts
+*   Architectural Drafters / 3D Animators
+*   Brand / Packaging designers
 
 </p><p>Go to the <a href="#section-1">top</a></p>
-	
-	</li>
+</li>
