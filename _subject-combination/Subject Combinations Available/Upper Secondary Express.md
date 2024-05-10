@@ -277,27 +277,24 @@ In addition, students will be exposed to a diverse range of local, regional and 
 
 Go to the <a href="#section-1">top</a>
 
-<h3 id="section-10">Design &amp; Technology</h3><p>Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
+<h3 id="section-10">Design &amp; Technology</h3>
+
+Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
 
 1.  Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.
-    
 2.  Possess a caring heart and willing desire to improve the quality of life through thoughtful and practical design solutions.
-    
-3.  Develop curiosity and drive to seek out how things work in the real world.
-    
-4.  Communicate confidently their design solutions through doodling and/or sketching and 3D manipulation of material.
-    
+3.  Develop curiosity and drive to seek out how things work in the real world.  
+4.  Communicate confidently their design solutions through doodling and/or sketching and 3D manipulation of material. 
 5.  Develop strong critical and creative thinking by exploring many unusual and interesting ideas in response to a given design context and need.
-</p>    
 
-<b>Assessment Criteria for Design &amp; Technology (O-Level and NA-Level)</b>
+**Assessment Criteria for Design &amp; Technology (O-Level and NA-Level)**
 
 The assessment objectives of the subject can be found at SEAB website under the syllabus document as follow:
 
 7059 - GCE O-Level D&amp;T<br>
 7055 - GCE NA-Level D&amp;T
 	
-
+(To be upload soon)
 
 \* The written paper will be design-centric. Question 1 requires knowledge application of the design process. Questions 2 - 4 requires knowledge application of the Technology topics and these include Structure (O-Level syllabus only), Mechanism and Electronics
 
@@ -306,7 +303,12 @@ The assessment objectives of the subject can be found at SEAB website under the 
 \(a)  The Design journal - a real time document that reflects the candidate’s attempt at managing his/her personal design process. Mock-up(s) and resulting prototype are to be submitted as part of the journal. A3 sheets are to be used and the journals need to be securely fastened. 
 
 \(b)  Presentation Board - use to communicate succinctly the proposed design solution in relation to the design brief and design specifications. It should show the functional and aesthetic details using appropriate graphical skills to highlight the practicality and appropriateness of the proposed design solution. Two A2 boards (single-side) are to be submitted as part of the presentation board.
-    
-<b>Educational pathways for D&amp;T students who would like to pursue a career in related fields</b>
 
-<p>Go to the <a href="#section-1">top</a></p>
+**Educational pathways for D&amp;T students who would like to pursue a career in related fields**
+
+| Column 1 | Column 2 | 
+| -------- | -------- | 
+| Text     | Text     | 
+
+
+Go to the <a href="#section-1">top</a>
