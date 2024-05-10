@@ -16,7 +16,7 @@ third_nav_title: Subject Combinations Available
 <a href="#section-7">Art</a><br>
 <a href="#section-8">Design &amp; Technology</a> 
 
-<h3 id="section-2">Humanities</h3>
+<h3 id="section-1">Humanities</h3>
 
 Upper Secondary students must read at least one Humanities subject. If the student is reading only one Humanities subject, he MUST take ‘Humanities’, comprising a compulsory Social Studies component (SS) and an Elective component. In PRSS, the options for the Elective component are Elective History (EHist) and Elective Geography (EGeo).
 
@@ -25,10 +25,9 @@ Upper Secondary students must read at least one Humanities subject. If the stude
 | 1  | Humanities 2125 (Social Studies &amp; Elective Geography) | 
 | 2 | Humanities 2273 (Social Studies &amp; Elective History) | 
 
-	
 Go to the <a href="#section-1">top</a>
 
-<h3 id="section-3">Social Studies</h3>
+<h3 id="section-2">Social Studies</h3>
 
 Social Studies is the compulsory half of the Humanities subject.
 
@@ -36,7 +35,7 @@ At the heart of the Social Studies Curriculum is the preparation of students to 
 
 Go to the <a href="#section-1">top</a>
 
-<h3 id="section-4">Elective History</h3><p>History education in Singapore seeks to develop in students an appreciation of past human experiences, critical awareness of the nature of historical knowledge, and the ability to make connections between the past and present.
+<h3 id="section-3">Elective History</h3><p>History education in Singapore seeks to develop in students an appreciation of past human experiences, critical awareness of the nature of historical knowledge, and the ability to make connections between the past and present.
 	
 In recent years, there has been greater cognizance that historical content and concepts as well as the accompanying historical skills, are important. These lie at the heart of thinking critically about the nature of historical knowledge, which is essential to make better sense of the past. History also plays a critical role in developing students’ own identities through an understanding of history at the personal, national and international levels. The learning of history should spark their curiosity and inspire them with the beliefs, decisions and dilemmas of people in the past. Through historical inquiry, students pose questions about the present by engaging with the past and thus draw connections between both.
 	
@@ -48,7 +47,7 @@ Students reading Elective History will only cover the following unit:
 	
 Go to the <a href="#section-1">top</a>
 
-</p><h3 id="section-5">Elective Geography</h3>
+</p><h3 id="section-4">Elective Geography</h3>
 
 Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment.
 
@@ -64,9 +63,9 @@ Geography students will cover the syllabus as follows:
 
 | Cluster 1 | Geography in Everyday Life | 
 | -------- | -------- | 
-| Topics    | (1)Thinking Geographically<br>(2)Sustainable Development<br>(3)Geographical Methods | 
+| Topics    | (1) Thinking Geographically<br>(2) Sustainable Development<br>(3) Geographical Methods | 
 | **Cluster 2** | **Climate** | 
-| Topics    | (1)Weather and Climate<br>(2)Climate Change<br>(3)Climate Action | 
+| Topics    | (1) Weather and Climate<br>(2) Climate Change<br>(3) Climate Action | 
 	
 **Assessment Criteria for Humanities**
 
@@ -111,8 +110,8 @@ Students will be able to develop the skills of:
 
 * applying the double entry system of recording business transactions
 * synthesis and presentation skills in the preparation of accounting information in a suitable form
-* analytical skill in interpreting financial statements and analysing the effects of business&nbsp;transactions and accounting adjustments on financial statements
-* evaluative skill in evaluating businesses for their profitability, liquidity and efficiency of inventory&nbsp;and trade receivables management using financial information and ratios
+* analytical skill in interpreting financial statements and analysing the effects of business transactions and accounting adjustments on financial statements
+* evaluative skill in evaluating businesses for their profitability, liquidity and efficiency of inventory and trade receivables management using financial information and ratios
 * decision-making skill in evaluating choices using both accounting and non-accounting information.
 
 **Relevant Courses in Poly**
@@ -240,12 +239,12 @@ The assessment objectives of the subject can be found at SEAB website under the 
 
 **Educational pathways for D&amp;T students who would like to pursue a career in related fields.**
 
-| Name of courses/ programme | What the course/programme entails | 
+| Name of courses/ programme | What the course/ programme entails | 
 | -------- | -------- | 
-| Nitec in Product Design<br><br>Nitec in Space Design | For Nitec in Product Design, students will learn the fundamental skills in the creation and design of consumer goods such as consumer electronics, furniture and lifestyle goods.<br>For Nitec in Space design, students will learn to explore and transform both 2D and/or 3D ordinary interior spaces into conducive environment to learn, work and play. | 
-| Nitect in Medical Manufacturing Technology<br><br>Nitec in Automotive Technology  | For Nitec in Medical Manufacturing Technology, students will learn about designing body parts such as knee joints, bone screws, dental implants and so on as to bring mobility and hope back to the affected patients.<br>For Nitec in Automobile Technology (light vehicles), students will learn to diagnose, service, repair and maintain modern computer-equipped light vehicles ranging from saloon cars to sports utility vehicles, multi-purpose vehicles and light utility vans | 
+| Nitec in Product Design<br><br>Nitec in Space Design | For Nitec in Product Design, students will learn the fundamental skills in the creation and design of consumer goods such as consumer electronics, furniture and lifestyle goods.<br><br>For Nitec in Space design, students will learn to explore and transform both 2D and/or 3D ordinary interior spaces into conducive environment to learn, work and play. | 
+| Nitect in Medical Manufacturing Technology<br><br>Nitec in Automotive Technology  | For Nitec in Medical Manufacturing Technology, students will learn about designing body parts such as knee joints, bone screws, dental implants and so on as to bring mobility and hope back to the affected patients.<br><br>For Nitec in Automobile Technology (light vehicles), students will learn to diagnose, service, repair and maintain modern computer-equipped light vehicles ranging from saloon cars to sports utility vehicles, multi-purpose vehicles and light utility vans | 
 | Diploma in Product Design &amp; Industrial Design  | Students will work in diverse fields such as consumer electronics, medical products, furniture design, packaging design, transportation design, product merchandising, object/craft design and more.  | 
-| Interior Design<br> BA (Hons) from SIT<br>BS (Architecture and Sustainable Design) from SUTD<br>BA (Industrial Design) (Hons) from NUS<br>Bachelor of Fine Arts in Product Design from NTU | Most of the courses are 4-year undergraduate honours programmes. They adopted a 3-pronged approach:<br>1.  Design Thinking: Out-of-box innovation strategies and investigative methods are used to discover new ideas and unmet needs.<br>   2.  Multi-Disciplinary Aptitudes: behavioural sciences, social economics, business strategy, engineering and technology knowledge develop entrepreneurial strategic thinking and holistic problem solving skills.<br>3.  Artistic sensibility: training of imagination, taste and craft-like ability to give pleasing and appropriate aesthetics and emotion to ideas, through traditional and 2D/3D digital means, so that solutions are both functional and desirable. | 
+| Interior Design<br> BA (Hons) from SIT<br>BS (Architecture and Sustainable Design) from SUTD<br>BA (Industrial Design) (Hons) from NUS<br>Bachelor of Fine Arts in Product Design from NTU | Most of the courses are 4-year undergraduate honours programmes. They adopted a 3-pronged approach:<br><br>1.  Design Thinking: Out-of-box innovation strategies and investigative methods are used to discover new ideas and unmet needs.<br><br>2.  Multi-Disciplinary Aptitudes: behavioural sciences, social economics, business strategy, engineering and technology knowledge develop entrepreneurial strategic thinking and holistic problem solving skills.<br><br>3.  Artistic sensibility: training of imagination, taste and craft-like ability to give pleasing and appropriate aesthetics and emotion to ideas, through traditional and 2D/3D digital means, so that solutions are both functional and desirable. | 
 
 **These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology.**
 
