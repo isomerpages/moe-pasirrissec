@@ -191,7 +191,11 @@ The O-Level Additional Mathematics syllabus aims to enable students who have an 
 
 The table below shows the difference between Mathematics and Additional Mathematics:
 
-
+| Mathematics | Additional Mathematics | 
+| -------- | -------- | 
+| Relates easily to real life e.g., interest rates, speed, time, area etc. | More abstract e.g., Proofs, Binomial Expansion, maximum/minimum areas etc   | 
+| Questions involving direct application of formula<br>More direct questions e.g., find gradient of a straight line | Questions require more analysis and making connections across topics e.g., gradient is given in the form of an expression in x, find the equation of curve | 
+| Similar to Sec 2 Mathematics<br>Proficiency in Algebra is an advantage | Build on the foundation in Sec 2 Mathematics<br>Proficiency in Algebra is essential and important | 
 
 **Requirements to take up Additional Mathematics at Sec 3:**
 
@@ -210,15 +214,28 @@ The table below shows the difference between Mathematics and Additional Mathemat
 
 **Polytechnic**
 
-<li>Admission requirements are course – dependent</li><li>O-Level Mathematics would be adequate</li>
-<br>
-<b>Assessment Criteria for Additional Mathematics for Express and Normal Academic</b>
+* Admission requirements are course – dependent
+* O-Level Mathematics would be adequate
 
-<p>Go to the <a href="#section-1">top</a></p>
+**Assessment Criteria for Additional Mathematics for Express and Normal Academic**
 
-<h3 id="section-8">Sciences</h3><p>We offer Pure Sciences [Physics, Chemistry, Biology] and Combined Science [Science (Physics, Chemistry) and Science (Chemistry, Biology)]. The following table shows a summary of the O-Level Assessment criteria.<br><br> Pure Science subjects are relatively demanding in terms of breadth and depth compared to combined Science. For pure science, students need to be&nbsp;passionate about the subject, be analytical and enjoy in-depth learning. For instance, students need to study and understand relationships e.g., interpret data and graphs and be focused, precise and detailed in their reasoning. <br><br>We would like to encourage our students to take Physics and Chemistry or Science (Physics, Chemistry) as these subjects are meant to lay a strong foundation for science at the secondary level. However, students who are excited to further explore the fascinating study of life (e.g. curious to find out how our bodies work and how plants function) may consider reading Biology or Science (Biology). A good command of the English Language is essential for students who are interested in taking Biology as the subject involves a lot of writing.<br><br>Students should consider their learning ability, interest and aspiration when choosing subjects. It is important for students to do well in the Sciences if he/she wishes to qualify for a Science Course in JC. Although the Pure Sciences give students a strong foundation in the learning of science, they are not a prerequisite to any of the science-related courses in the polytechnics. It is useful to note that courses such as applied sciences, engineering and media and design in the polytechnics require Science as a relevant subject, but these need not be Pure Sciences.</p>
+(To be upload soon)
 
-<p>Go to the <a href="#section-1">top</a></p>
+Go to the <a href="#section-1">top</a>
+
+<h3 id="section-8">Sciences</h3>
+
+We offer Pure Sciences [Physics, Chemistry, Biology] and Combined Science [Science (Physics, Chemistry) and Science (Chemistry, Biology)]. The following table shows a summary of the O-Level Assessment criteria.
+
+Pure Science subjects are relatively demanding in terms of breadth and depth compared to combined Science. For pure science, students need to be passionate about the subject, be analytical and enjoy in-depth learning. For instance, students need to study and understand relationships e.g., interpret data and graphs and be focused, precise and detailed in their reasoning. 
+
+We would like to encourage our students to take Physics and Chemistry or Science (Physics, Chemistry) as these subjects are meant to lay a strong foundation for science at the secondary level. However, students who are excited to further explore the fascinating study of life (e.g. curious to find out how our bodies work and how plants function) may consider reading Biology or Science (Biology). A good command of the English Language is essential for students who are interested in taking Biology as the subject involves a lot of writing.
+
+Students should consider their learning ability, interest and aspiration when choosing subjects. It is important for students to do well in the Sciences if he/she wishes to qualify for a Science Course in JC. Although the Pure Sciences give students a strong foundation in the learning of science, they are not a prerequisite to any of the science-related courses in the polytechnics. It is useful to note that courses such as applied sciences, engineering and media and design in the polytechnics require Science as a relevant subject, but these need not be Pure Sciences.
+
+
+Go to the <a href="#section-1">top</a>
+	
 
 <h3 id="section-9">Art</h3><p>Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.&nbsp;<br><br>Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.&nbsp;<br><br>The production of Art requires a rigorous process of information analysis. In interpreting Art, students need to synthesise perception, information about the artwork and their own experiences.&nbsp;<br><br>In addition, students will be exposed to a diverse range of local, regional and global art and cultures through engaging with artworks, art making and arts professions. This will develop in students a lifelong appreciation and enjoyment of art. </p>
 
