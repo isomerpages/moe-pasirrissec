@@ -24,11 +24,11 @@ third_nav_title: Subject Combinations Available
 | 2 | Humanities 2273 (Social Studies &amp; Elective History) | 
 
 	
-<p>Go to the <a href="#section-1">top</a></p>
+Go to the <a href="#section-1">top</a>
 
 <h3 id="section-3">Social Studies</h3><p>Social Studies is the compulsory half of the Humanities subject.<br><br>At the heart of the Social Studies Curriculum is the preparation of students to be citizens of tomorrow by helping them to better understand the interconnectedness of Singapore and the world they live in, and appreciate the complexities of the human world. Drawing on aspects of society that are of meaning and interest to the students, Social Studies seeks to ignite students’ curiosity to inquire into real-world issues that concern their lives. Through inquiry and authentic learning experiences, Social Studies helps students to attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives. Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world they live in, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.</p>
 
-<p>Go to the <a href="#section-1">top</a></p>
+Go to the <a href="#section-1">top</a>
 
 <h3 id="section-4">Elective History</h3><p>History education in Singapore seeks to develop in students an appreciation of past human experiences, critical awareness of the nature of historical knowledge, and the ability to make connections between the past and present.
 	
@@ -56,9 +56,9 @@ Geography students will cover the syllabus as follows:
 
 | Cluster 1 | Geography in Everyday Life | 
 | -------- | -------- | 
-| Topics    | (1) &nbsp;Thinking Geographically<br>(2) &nbsp;Sustainable Development<br>(3)&nbsp; Geographical Methods | 
+| Topics    | (1)Thinking Geographically<br>(2)Sustainable Development<br>(3)Geographical Methods | 
 | **Cluster 2** | **Climate** | 
-| Topics    | (1) &nbsp;Weather and Climate<br>(2) &nbsp;Climate Change<br>(3)&nbsp; Climate Action | 
+| Topics    | (1)Weather and Climate<br>(2)Climate Change<br>(3)Climate Action | 
 	
 **Assessment Criteria for Humanities**
 
@@ -66,58 +66,46 @@ We offer Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compuls
 	
 (To upload soon)
 	
-</p><p>Go to the <a href="#section-1">top</a></p>
+Go to the <a href="#section-1">top</a>
 	
-<h3 id="section-5">Principles of Accounts</h3><p>Principles of Accounts is offered as an elective subject at Secondary Three and examinable at the GCE N(A)-Level.<br><br>Principles of Accounts is designed to &nbsp;designed to teach age-appropriate and relevant accounting knowledge, skills and values. In addition, students will understand how businesses use accounting and non-accounting information to make decisions. Through the subject, they will acquire transferrable skills that they can apply in their daily lives.</p>
+</p><h3 id="section-5">Principles of Accounts</h3><p>Principles of Accounts is offered as an elective subject at Secondary Three and examinable at the GCE N(A)-Level.
 
-<b>Student Outcomes</b>
-<p>
-The syllabus intends to develop in students the knowledge and skills to prepare, communicate and use both accounting information and non-accounting information related to the business to make decisions<br><br>The subject aims to first equip students with the basic knowledge and skills on how to prepare and present accounting information and communicate them in a useful manner that can be understood by others.<br><br>Students will be able to understand&nbsp;
+Principles of Accounts is designed to designed to teach age-appropriate and relevant accounting knowledge, skills and values. In addition, students will understand how businesses use accounting and non-accounting information to make decisions. Through the subject, they will acquire transferrable skills that they can apply in their daily lives.
+
+**Student Outcomes**
+
+The syllabus intends to develop in students the knowledge and skills to prepare, communicate and use both accounting information and non-accounting information related to the business to make decisions.
+
+The subject aims to first equip students with the basic knowledge and skills on how to prepare and present accounting information and communicate them in a useful manner that can be understood by others.
+	
+Students will be able to understand
 
 • what business decisions are
-
 • how decisions are made using accounting information
-
 • the limitations of relying only on accounting information; and
-
 • the consideration of non-accounting business-related information.
-</p><p>Students will be able to develop knowledge and understanding of:
+	
+Students will be able to develop knowledge and understanding of:
 
 • role of accountants and the ethical values desired in the people who prepare the information
-
 • purpose of accounting as providing accounting information to support and facilitate decision-making
-
 • consideration of accounting and non-accounting information in decision-making
-
-• use of financial ratios for evaluation of profitability, liquidity and efficiency of inventory management&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;and trade receivables management
-
+• use of financial ratios for evaluation of profitability, liquidity and efficiency of inventory management and trade receivables management
 • basic forms of business entities
-
-• elements of the financial statements as representation of business activities and how they are&nbsp;
-
-&nbsp;&nbsp;presented on Financial Statements
-
+• elements of the financial statements as representation of business activities and how they are presented on Financial Statements
 • principles underlying accounting as a measurement system
-
 • accounting information system and accounting cycle, and the double-entry recording method in&nbsp;maintaining records of business activities
-
 • internal controls to ensure accuracy of information.
   
 Students will be able to develop the skills of:
 
 • applying the double entry system of recording business transactions
-
 • synthesis and presentation skills in the preparation of accounting information in a suitable form
-
 • analytical skill in interpreting financial statements and analysing the effects of business&nbsp;transactions and accounting adjustments on financial statements
-
 • evaluative skill in evaluating businesses for their profitability, liquidity and efficiency of inventory&nbsp;and trade receivables management using financial information and ratios
-
 • decision-making skill in evaluating choices using both accounting and non-accounting information.
 
-<b>Relevant Courses in Poly</b>
+**Relevant Courses in Poly**
 
 Diploma in Accountancy<br>
 Diploma in International Business<br>
@@ -127,9 +115,13 @@ Diploma in Business Information Technology<br>
 Diploma in Tourism and Resort Management<br>
 Diploma International Logistic and Supply Chain Management
 
-</p><p>Go to the <a href="#section-1">top</a></p>
+**Assessment Criteria for POA**
+	
+(To be upload soon)
 
-<h3 id="section-6">Additional Mathematics</h3><p>The syllabus intends to prepare students adequately for O-Level Additional Mathematics. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strands, important mathematical processes such as reasoning, communication and application (including the use of models) are also emphasised and assessed.<br><br>
+Go to the <a href="#section-1">top</a>
+
+</p><h3 id="section-6">Additional Mathematics</h3><p>The syllabus intends to prepare students adequately for O-Level Additional Mathematics. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strands, important mathematical processes such as reasoning, communication and application (including the use of models) are also emphasised and assessed.<br><br>
 At Secondary 3, students from the express Normal (Academic) courses who are interested in mathematics and are more mathematically inclined can take up Additional Mathematics which provides greater breadth and depth of coverage of mathematics topics. The Additional Mathematics syllabuses introduce students to Calculus and Trigonometry besides extending the learning in Algebra and Geometry from the N-Level Mathematics syllabus.&nbsp;<br><br>The N(A)-Level Additional Mathematics syllabus aims to enable students who have an aptitude and interest in mathematics to:
 
 *   acquire mathematical concepts and skills for higher studies in mathematics and to support learning in the other subjects, with emphasis in the sciences, but not limited to the sciences;
