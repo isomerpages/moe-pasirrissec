@@ -227,43 +227,55 @@ Go to the <a href="#section-1">top</a>
 
 We offer Pure Sciences [Physics, Chemistry, Biology] and Combined Science [Science (Physics, Chemistry) and Science (Chemistry, Biology)]. The following table shows a summary of the O-Level Assessment criteria.
 
+(To upload soon)
+
 Pure Science subjects are relatively demanding in terms of breadth and depth compared to combined Science. For pure science, students need to be passionate about the subject, be analytical and enjoy in-depth learning. For instance, students need to study and understand relationships e.g., interpret data and graphs and be focused, precise and detailed in their reasoning. 
 
 We would like to encourage our students to take Physics and Chemistry or Science (Physics, Chemistry) as these subjects are meant to lay a strong foundation for science at the secondary level. However, students who are excited to further explore the fascinating study of life (e.g. curious to find out how our bodies work and how plants function) may consider reading Biology or Science (Biology). A good command of the English Language is essential for students who are interested in taking Biology as the subject involves a lot of writing.
 
 Students should consider their learning ability, interest and aspiration when choosing subjects. It is important for students to do well in the Sciences if he/she wishes to qualify for a Science Course in JC. Although the Pure Sciences give students a strong foundation in the learning of science, they are not a prerequisite to any of the science-related courses in the polytechnics. It is useful to note that courses such as applied sciences, engineering and media and design in the polytechnics require Science as a relevant subject, but these need not be Pure Sciences.
 
-
 Go to the <a href="#section-1">top</a>
 	
+<h3 id="section-9">Art</h3>
 
-<h3 id="section-9">Art</h3><p>Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.&nbsp;<br><br>Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.&nbsp;<br><br>The production of Art requires a rigorous process of information analysis. In interpreting Art, students need to synthesise perception, information about the artwork and their own experiences.&nbsp;<br><br>In addition, students will be exposed to a diverse range of local, regional and global art and cultures through engaging with artworks, art making and arts professions. This will develop in students a lifelong appreciation and enjoyment of art. </p>
+Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.
+
+Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.
+
+The production of Art requires a rigorous process of information analysis. In interpreting Art, students need to synthesise perception, information about the artwork and their own experiences.
+
+In addition, students will be exposed to a diverse range of local, regional and global art and cultures through engaging with artworks, art making and arts professions. This will develop in students a lifelong appreciation and enjoyment of art. 
 
 **Assessment Criteria for Art**
 
-* The coursework assessment allows for:
+(To upload soon)
+
+\*The coursework assessment allows for:
 
 *   Candidates’ personal interpretation and response to their chosen themes
-    
-*   Candidates’ engagement in art making and inquiry process;&nbsp;
-    
+*   Candidates’ engagement in art making and inquiry process;
 *   Candidates’ may choose any suitable craft type to present their Final Artwork; and
-    
-*   Candidates’ visual and aesthetic awareness.&nbsp;
+*   Candidates’ visual and aesthetic awareness.
       
 \# The drawing and painting assessment allows for:
 
 *   Candidates’ personal expression and response to their chosen themes using drawing and paint media;
-    
-*   Candidates’ inquiry and interpretation of their chosen theme;&nbsp;
-    
+*   Candidates’ inquiry and interpretation of their chosen theme;
 *   Candidates’ can only present their Final Artwork in a drawing and/or painting medium; and
-    
 *   Candidates’ visual and aesthetic awareness.
 
 **Educational pathways for students who would like to pursue a career in Art.**
 
-<p>Go to the <a href="#section-1">top</a></p>
+| Name of courses/ programme | What the course/programme entails | 
+| -------- | -------- | 
+| NAFA Art programmes | Students are able to build a solid foundation while nurturing their creative attitudes and critical thinking skills. Students are able to gain broader perspectives, develop problem-solving skills and learn about social responsibility. | 
+| School of design | There are a wide range of course which allows students to further their studies in Art depending on their interest. They are able to choose from product design course, interior/architectural design, digital/filmmaking and apparel design or merchandising. These courses allows them to learn the skills acquired in the individual industry and beneficial for their future career path. | 
+| Nanyang Poly’s School of Design (SDN) | There are four diploma courses which focus on building a strong design foundation and inspiring you to make the world a better place for everyone through excellence in design. It is a studio-based approach to learning and project-based curriculum is modelled after a real-world environment where students will work on actual projects, pitch their ideas to industry experts and see their designs come to life.| 
+| LASALLE College of the Arts | Students will learn how their passion and love for the arts can be turned into a passport for entry into a promising career in the growing creative industries. | 
+| Republic Poly School of Technology for the Arts  | Students will learn how to balance your creativity with a keen aesthetic eye and core technical skills, combined with arts expertise for a successful career in the arts. | 
+
+Go to the <a href="#section-1">top</a>
 
 <h3 id="section-10">Design &amp; Technology</h3><p>Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
 
