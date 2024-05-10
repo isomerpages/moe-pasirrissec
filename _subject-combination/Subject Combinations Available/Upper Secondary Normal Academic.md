@@ -25,7 +25,6 @@ Upper Secondary students must read at least one Humanities subject. If the stude
 | 1  | Humanities 2125 (Social Studies &amp; Elective Geography) | 
 | 2 | Humanities 2273 (Social Studies &amp; Elective History) | 
 
-	
 Go to the <a href="#section-1">top</a>
 
 <h3 id="section-2">Social Studies</h3>
