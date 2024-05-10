@@ -151,30 +151,31 @@ The table below shows the difference between Mathematics and Additional Mathemat
 | Questions involving direct application of formula <br>More direct questions e.g., find gradient of a straight line  | Questions require more analysis and making connections across topics e.g., gradient is given in the form of an expression in x, find the equation of curve  | 
 | Similar to Sec 2 Mathematics <br>Proficiency in Algebra is an advantage  | Build on the foundation in Sec 2 Mathematics<br>Proficiency in Algebra is essential and important | 
 
-
 **Requirements to take up Additional Mathematics at Sec 3:**
 
-*   Good performance in marks&nbsp;
-	*   NA: A good pass in N(A) Mathematics&nbsp;
+*   Good performance in marks
+	*   NA: A good pass in N(A) Mathematics
 *   Algebra proficiency
 *   Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential
     
-<b>Implication on admission requirement for post-secondary studies</b>
+**Implication on admission requirement for post-secondary studies**
 
-<b>Junior College</b>
+**Junior College**
 
 *   Students taking science course will likely take up H2 Mathematics and taking Additional Mathematics in upper secondary education will prepare the students adequately
 *   Students taking art course will likely take up H1 Mathematics and taking Mathematics only will prepare the students adequately
 *   Individual JCs set their own admission requirements
 
-	<b>Polytechnic</b>
+**Polytechnic**
 
 *   Admission requirements are course – dependent
 *   O-Level Mathematics would be adequate
   
-<b>Assessment Criteria for Additional Mathematics for Normal Academic</b>
-	
-<p></p><p>Go to the <a href="#section-1">top</a></p>
+**Assessment Criteria for Additional Mathematics for Normal Academic**
+
+(To be upload soon)
+
+Go to the <a href="#section-1">top</a>
 
 <h3 id="section-7">Art</h3><p>Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.
 	
