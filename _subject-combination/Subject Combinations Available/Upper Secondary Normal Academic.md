@@ -16,7 +16,9 @@ third_nav_title: Subject Combinations Available
 <a href="#section-7">Art</a><br>
 <a href="#section-8">Design &amp; Technology</a> 
 
-<h3 id="section-2">Humanities</h3><p>Upper Secondary students must read at least one Humanities subject. If the student is reading only one Humanities subject, he MUST take ‘Humanities’, comprising a compulsory Social Studies component (SS) and an Elective component. In PRSS, the options for the Elective component are Elective History (EHist) and Elective Geography (EGeo).</p>
+<h3 id="section-2">Humanities</h3>
+
+Upper Secondary students must read at least one Humanities subject. If the student is reading only one Humanities subject, he MUST take ‘Humanities’, comprising a compulsory Social Studies component (SS) and an Elective component. In PRSS, the options for the Elective component are Elective History (EHist) and Elective Geography (EGeo).
 
 | Choices available <br>(N-Level) | Humanities <br> (Compulsory) |
 | -------- | -------- |
@@ -26,7 +28,11 @@ third_nav_title: Subject Combinations Available
 	
 Go to the <a href="#section-1">top</a>
 
-<h3 id="section-3">Social Studies</h3><p>Social Studies is the compulsory half of the Humanities subject.<br><br>At the heart of the Social Studies Curriculum is the preparation of students to be citizens of tomorrow by helping them to better understand the interconnectedness of Singapore and the world they live in, and appreciate the complexities of the human world. Drawing on aspects of society that are of meaning and interest to the students, Social Studies seeks to ignite students’ curiosity to inquire into real-world issues that concern their lives. Through inquiry and authentic learning experiences, Social Studies helps students to attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives. Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world they live in, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.</p>
+<h3 id="section-3">Social Studies</h3>
+
+Social Studies is the compulsory half of the Humanities subject.
+
+At the heart of the Social Studies Curriculum is the preparation of students to be citizens of tomorrow by helping them to better understand the interconnectedness of Singapore and the world they live in, and appreciate the complexities of the human world. Drawing on aspects of society that are of meaning and interest to the students, Social Studies seeks to ignite students’ curiosity to inquire into real-world issues that concern their lives. Through inquiry and authentic learning experiences, Social Studies helps students to attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives. Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world they live in, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.
 
 Go to the <a href="#section-1">top</a>
 
@@ -40,9 +46,11 @@ Students reading Elective History will only cover the following unit:
 
 1.  The Making of the 20th Century Modern World, 1910s–1991.
 	
-</p><p>Go to the <a href="#section-1">top</a></p>
+Go to the <a href="#section-1">top</a>
 
-<h3 id="section-5">Elective Geography</h3><p>Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment.
+</p><h3 id="section-5">Elective Geography</h3>
+
+Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment.
 
 Generally, in both Pure Geography and Elective Geography, students will be taught skills of gathering and analysing information to understand and explain physical and human phenomena, and other contemporary environmental and social issues that occur in different places and cultures by 
 	
@@ -68,7 +76,9 @@ We offer Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compuls
 	
 Go to the <a href="#section-1">top</a>
 	
-</p><h3 id="section-5">Principles of Accounts</h3><p>Principles of Accounts is offered as an elective subject at Secondary Three and examinable at the GCE N(A)-Level.
+<h3 id="section-5">Principles of Accounts</h3>
+
+Principles of Accounts is offered as an elective subject at Secondary Three and examinable at the GCE N(A)-Level.
 
 Principles of Accounts is designed to designed to teach age-appropriate and relevant accounting knowledge, skills and values. In addition, students will understand how businesses use accounting and non-accounting information to make decisions. Through the subject, they will acquire transferrable skills that they can apply in their daily lives.
 
@@ -80,30 +90,30 @@ The subject aims to first equip students with the basic knowledge and skills on 
 	
 Students will be able to understand
 
-• what business decisions are
-• how decisions are made using accounting information
-• the limitations of relying only on accounting information; and
-• the consideration of non-accounting business-related information.
+* what business decisions are
+* how decisions are made using accounting information
+* the limitations of relying only on accounting information; and
+* the consideration of non-accounting business-related information.
 	
 Students will be able to develop knowledge and understanding of:
 
-• role of accountants and the ethical values desired in the people who prepare the information
-• purpose of accounting as providing accounting information to support and facilitate decision-making
-• consideration of accounting and non-accounting information in decision-making
-• use of financial ratios for evaluation of profitability, liquidity and efficiency of inventory management and trade receivables management
-• basic forms of business entities
-• elements of the financial statements as representation of business activities and how they are presented on Financial Statements
-• principles underlying accounting as a measurement system
-• accounting information system and accounting cycle, and the double-entry recording method in&nbsp;maintaining records of business activities
-• internal controls to ensure accuracy of information.
+* role of accountants and the ethical values desired in the people who prepare the information
+* purpose of accounting as providing accounting information to support and facilitate decision-making
+* consideration of accounting and non-accounting information in decision-making
+* use of financial ratios for evaluation of profitability, liquidity and efficiency of inventory management and trade receivables management
+* basic forms of business entities
+* elements of the financial statements as representation of business activities and how they are presented on Financial Statements
+* principles underlying accounting as a measurement system
+* accounting information system and accounting cycle, and the double-entry recording method in&nbsp;maintaining records of business activities
+* internal controls to ensure accuracy of information.
   
 Students will be able to develop the skills of:
 
-• applying the double entry system of recording business transactions
-• synthesis and presentation skills in the preparation of accounting information in a suitable form
-• analytical skill in interpreting financial statements and analysing the effects of business&nbsp;transactions and accounting adjustments on financial statements
-• evaluative skill in evaluating businesses for their profitability, liquidity and efficiency of inventory&nbsp;and trade receivables management using financial information and ratios
-• decision-making skill in evaluating choices using both accounting and non-accounting information.
+* applying the double entry system of recording business transactions
+* synthesis and presentation skills in the preparation of accounting information in a suitable form
+* analytical skill in interpreting financial statements and analysing the effects of business&nbsp;transactions and accounting adjustments on financial statements
+* evaluative skill in evaluating businesses for their profitability, liquidity and efficiency of inventory&nbsp;and trade receivables management using financial information and ratios
+* decision-making skill in evaluating choices using both accounting and non-accounting information.
 
 **Relevant Courses in Poly**
 
@@ -121,18 +131,28 @@ Diploma International Logistic and Supply Chain Management
 
 Go to the <a href="#section-1">top</a>
 
-</p><h3 id="section-6">Additional Mathematics</h3><p>The syllabus intends to prepare students adequately for O-Level Additional Mathematics. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strands, important mathematical processes such as reasoning, communication and application (including the use of models) are also emphasised and assessed.<br><br>
-At Secondary 3, students from the express Normal (Academic) courses who are interested in mathematics and are more mathematically inclined can take up Additional Mathematics which provides greater breadth and depth of coverage of mathematics topics. The Additional Mathematics syllabuses introduce students to Calculus and Trigonometry besides extending the learning in Algebra and Geometry from the N-Level Mathematics syllabus.&nbsp;<br><br>The N(A)-Level Additional Mathematics syllabus aims to enable students who have an aptitude and interest in mathematics to:
+<h3 id="section-6">Additional Mathematics</h3>
 
-*   acquire mathematical concepts and skills for higher studies in mathematics and to support learning in the other subjects, with emphasis in the sciences, but not limited to the sciences;
-    
-*   develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem-solving;
+The syllabus intends to prepare students adequately for O-Level Additional Mathematics. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strands, important mathematical processes such as reasoning, communication and application (including the use of models) are also emphasised and assessed.
 
-*   connect ideas within mathematics and between mathematics and the sciences through applications of mathematics; and appreciate the abstract nature and power of mathematics.
+At Secondary 3, students from the express Normal (Academic) courses who are interested in mathematics and are more mathematically inclined can take up Additional Mathematics which provides greater breadth and depth of coverage of mathematics topics. The Additional Mathematics syllabuses introduce students to Calculus and Trigonometry besides extending the learning in Algebra and Geometry from the N-Level Mathematics syllabus.
+
+The N(A)-Level Additional Mathematics syllabus aims to enable students who have an aptitude and interest in mathematics to:
+
+* acquire mathematical concepts and skills for higher studies in mathematics and to support learning in the other subjects, with emphasis in the sciences, but not limited to the sciences;
+* develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem-solving;
+*  connect ideas within mathematics and between mathematics and the sciences through applications of mathematics; and appreciate the abstract nature and power of mathematics.
     
 The table below shows the difference between Mathematics and Additional Mathematics:
 
-<b>Requirements to take up Additional Mathematics at Sec 3:</b>
+| Mathematics | Additional Mathematics | 
+| -------- | -------- | 
+| Relates easily to real life e.g., interest rates, speed, time, area etc.  | More abstract e.g., Proofs, Binomial Expansion, maximum/minimum areas etc. | 
+| Questions involving direct application of formula <br>More direct questions e.g., find gradient of a straight line  | Questions require more analysis and making connections across topics e.g., gradient is given in the form of an expression in x, find the equation of curve  | 
+| Similar to Sec 2 Mathematics <br>Proficiency in Algebra is an advantage  | Build on the foundation in Sec 2 Mathematics<br>Proficiency in Algebra is essential and important | 
+
+
+**Requirements to take up Additional Mathematics at Sec 3:**
 
 *   Good performance in marks&nbsp;
 	*   NA: A good pass in N(A) Mathematics&nbsp;
@@ -154,7 +174,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
   
 <b>Assessment Criteria for Additional Mathematics for Normal Academic</b>
 	
-</p><p>Go to the <a href="#section-1">top</a></p>
+<p></p><p>Go to the <a href="#section-1">top</a></p>
 
 <h3 id="section-7">Art</h3><p>Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.
 	
