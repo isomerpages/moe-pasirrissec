@@ -63,9 +63,9 @@ Geography students will cover the syllabus as follows:
 
 | Cluster 1 | Geography in Everyday Life | 
 | -------- | -------- | 
-| Topics    | (1)Thinking Geographically<br>(2)Sustainable Development<br>(3)Geographical Methods | 
+| Topics    | (1) Thinking Geographically<br>(2) Sustainable Development<br>(3) Geographical Methods | 
 | **Cluster 2** | **Climate** | 
-| Topics    | (1)Weather and Climate<br>(2)Climate Change<br>(3)Climate Action | 
+| Topics    | (1) Weather and Climate<br>(2) Climate Change<br>(3) Climate Action | 
 	
 **Assessment Criteria for Humanities**
 
