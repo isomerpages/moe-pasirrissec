@@ -20,7 +20,7 @@ third_nav_title: Subject Combinations Available
 
 | Choices available <br>(N-Level) | Humanities <br> (Compulsory) |
 | -------- | -------- |
-| 1  | Humanities 2125 (Social Studies &amp; Elective Geography) |  
+| 1  | Humanities 2125 (Social Studies &amp; Elective Geography) | 
 | 2 | Humanities 2273 (Social Studies &amp; Elective History) | 
 
 	
@@ -53,12 +53,20 @@ Generally, in both Pure Geography and Elective Geography, students will be taugh
 The objective is to develop an inquiring mind to seek answers to issues affecting our lives and the world we live in, and prepared students for their roles as informed citizens in the 21st century and most importantly, inculcate an awareness of appropriate attitudes and values that promotes a positive geographical future; one that ensures the sustainability of our resources, people, country, and planet.
 	
 Geography students will cover the syllabus as follows:
+
+| Cluster 1 | Geography in Everyday Life | 
+| -------- | -------- | 
+| Topics    | (1) &nbsp;Thinking Geographically<br>(2) &nbsp;Sustainable Development<br>(3)&nbsp; Geographical Methods | 
+| **Cluster 2** | **Climate** | 
+| Topics    | (1) &nbsp;Weather and Climate<br>(2) &nbsp;Climate Change<br>(3)&nbsp; Climate Action | 
 	
-<b>Assessment Criteria for Humanities</b>  
-</p><p>
-We offer Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compulsory for ALL Express and Normal (Academic) students. The following table shows a summary of the N(A)-Level Assessment components.</p>
+**Assessment Criteria for Humanities**
+
+We offer Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compulsory for ALL Express and Normal (Academic) students. The following table shows a summary of the N(A)-Level Assessment components.
 	
-<p>Go to the <a href="#section-1">top</a></p>
+(To upload soon)
+	
+</p><p>Go to the <a href="#section-1">top</a></p>
 	
 <h3 id="section-5">Principles of Accounts</h3><p>Principles of Accounts is offered as an elective subject at Secondary Three and examinable at the GCE N(A)-Level.<br><br>Principles of Accounts is designed to &nbsp;designed to teach age-appropriate and relevant accounting knowledge, skills and values. In addition, students will understand how businesses use accounting and non-accounting information to make decisions. Through the subject, they will acquire transferrable skills that they can apply in their daily lives.</p>
 
