@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### Secondary 2 Breakfast Session with Parents
 
-Please click&nbsp;[here](/files/2024_Sec_2_Breakfast_with_Parents_10_May__Reduced_size_.pdf)&nbsp;to view the Sec 2 Breakfast Session with Parents slides
+Please click [here](/files/2024_Sec_2_Breakfast_with_Parents_10_May__Reduced_size_.pdf) to view the Sec 2 Breakfast Session with Parents slides.
 
 #### 8th May Blended Learning Timetable
 
