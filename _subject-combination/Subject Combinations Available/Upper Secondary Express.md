@@ -310,8 +310,16 @@ The assessment objectives of the subject can be found at SEAB website under the 
 | -------- | -------- | 
 | Nitec in Product Design<br><br><br><br><br><br><br>Nitec in Space Design | For Nitec in Product Design, students will learn the fundamental skills in the creation and design of consumer goods such as consumer electronics, furniture and lifestyle goods. <br><br>For Nitec in Space design, students will learn to explore and transform both 2D and/or 3D ordinary interior spaces into conducive environment to learn, work and play. | 
 | Nitect in Medical Manufacturing Technology<br><br><br><br><br><br><br>Nitec in Automotive Technology | For Nitec in Medical Manufacturing Technology, students will learn about designing body parts such as knee joints, bone screws, dental implants and so on as to bring mobility and hope back to the affected patients. <br><br>For Nitec in Automobile Technology (light vehicles), students will learn to diagnose, service, repair and maintain modern computer-equipped light vehicles ranging from saloon cars to sports utility vehicles, multi-purpose vehicles and light utility vans | 
-| Diploma in Product Design &amp; Industrial Design | Text     | 
-| Interior Design,<br>BA (Hons) from SIT<br>BS (Architecture and Sustainable Design) from SUTD<br>BA (Industrial Design) (Hons) from NUS<br>Bachelor of Fine Arts in Product Design from NTU | Text     | 
+| Diploma in Product Design &amp; Industrial Design | Students will work in diverse fields such as consumer electronics, medical products, furniture design, packaging design, transportation design, product merchandising, object/craft design and more  | 
+| Interior Design,<br>BA (Hons) from SIT<br>BS (Architecture and Sustainable Design) from SUTD<br>BA (Industrial Design) (Hons) from NUS<br>Bachelor of Fine Arts in Product Design from NTU | Most of the courses are 4-year undergraduate honours programmes. They adopted a 3-pronged approach: <br>1.  Design Thinking: Out-of-box innovation strategies and investigative methods are used to discover new ideas and unmet needs.<br>2.  Multi-Disciplinary Aptitudes: behavioural sciences, social economics, business strategy, engineering and technology knowledge develop entrepreneurial strategic thinking and holistic problem solving skills.<br>3.  Artistic sensibility: training of imagination, taste and craft-like ability to give pleasing and appropriate aesthetics and emotion to ideas, through traditional and 2D/3D digital means, so that solutions are both functional and desirable. | 
 
+**These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology.**
+
+*   Applications Developer &amp; Engineer 
+*   Design / Electronics / Chemical / Mechanical Engineers 
+*   Equipment Research &amp; Design Engineer
+*   Systems Designers / Analysts    
+*   Architectural Drafters / 3D Animators    
+*   Brand / Packaging designers
 
 Go to the <a href="#section-1">top</a>
