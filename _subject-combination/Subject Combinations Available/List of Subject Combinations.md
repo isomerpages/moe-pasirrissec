@@ -44,9 +44,9 @@ So why should your child take up Pure Literature?
 
 (To be upload soon)
 
-<br><br>
+<br>
 Go to the <a href="#section-1">top</a>
-<br><br>
+<br>
 	
 <h3 id="section-2">Humanities</h3>
 
@@ -54,12 +54,26 @@ Upper Secondary students must read at least one Humanities subject. If the stude
 <br><br>
 Express students may opt to read an additional Pure Humanities subject which is not his or her Elective component in the compulsory Humanities subject. For example, a student who is reading Humanities (SS/History) can choose to read Pure Geography or English Literature. He is not allowed to read Pure History as this would overlap with the Elective History which he is already reading.
 <br><br>
-| Choices<br>available<br>(O-Level) | Humanities<br>(Compulsory) | Additional Pure Humanities courses offered in PRSS |
-| -------- | -------- | -------- |
-| 1  | Humanities (Social Studies &amp; Elective Geography) | Pure History or English Literature |
-| 2  | Humanities (Social Studies &amp; Elective Geography) | Pure Geography or English Literature |
 
-**\*only advisable for students strong in all 3 subjects; English, Geography and History, in lower secondary*
+<table border="1px solid black" style="width:100%">
+  <tbody><tr>
+    <th>Choices<br>available<br>(O-Level)</th>
+    <th>Humanities<br>(Compulsory)</th>
+    <th>Additional Pure Humanities courses offered in PRSS</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Humanities (Social Studies &amp; Elective Geography) </td>
+    <td>Pure History or English Literature</td>
+  </tr>
+	  <tr>
+    <td>2</td>
+    <td>Humanities (Social Studies &amp; Elective Geography)</td>
+    <td>Pure Geography or English Literature</td>
+  </tr>
+	</tbody></table>	
+
+<b><i>*only advisable for students strong in all 3 subjects; English, Geography and History, in lower secondary</i></b>
 
 Go to the <a href="#section-1">top</a><p></p>
 
