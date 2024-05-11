@@ -91,7 +91,7 @@ The foundational business knowledge includes the knowledge and understanding of 
 
 The landscape of business is constantly evolving due to economic, demographic and technological change. Having an enterprising mindset prepares students for an evolving employment landscape, where employees are expected to seek continuous improvement to meet new challenges and demands. The ability to propose better ways of marketing and how to improve customer relations help to add value to a business. The disposition and mindset to contribute and improve oneself help to develop students as active contributors to society.&nbsp;
 
-**3. Decision-making skills&nbsp;**
+**3. Decision-making skills**
 
 Businesses and their employees have to make decisions on marketing and customer relations to grow the business. The syllabus provides opportunities for students to learn the process of gathering the information necessary to make a reasoned recommendation, so as to enhance the customer experience for a real-world business. Sound decision-making skills are transferable and beneficial to students’ future area of study and work.
 
