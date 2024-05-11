@@ -5,6 +5,16 @@ variant: tiptap
 description: ""
 third_nav_title: Subject Combinations Available
 ---
+<p>Introduction to Upper Secondary Subjects (Normal Academic)</p>
+<p>&lt;a href="#section-1"&gt;Humanities&lt;/a&gt;&lt;br&gt;</p>
+<p>&lt;a href="#section-2"&gt;Social Studies&lt;/a&gt;&lt;br&gt;</p>
+<p>&lt;a href="#section-3"&gt;Elective History&lt;/a&gt;&lt;br&gt;</p>
+<p>&lt;a href="#section-4"&gt;Elective Geography&lt;/a&gt;&lt;br&gt;</p>
+<p>&lt;a href="#section-5"&gt;Principles of Accounts&lt;/a&gt;&lt;br&gt;</p>
+<p>&lt;a href="#section-6"&gt;Additional Mathematics&lt;/a&gt;&lt;br&gt;</p>
+<p>&lt;a href="#section-7"&gt;Art&lt;/a&gt;&lt;br&gt;</p>
+<p>&lt;a href="#section-8"&gt;Design &amp;amp; Technology&lt;/a&gt;</p>
+<p>&lt;h3 id="section-1"&gt;Art&lt;/h3&gt;</p>
 <p>Art inspires self-confidence in students, helping them develop critical,
 imaginative and creative thinking and process skills for both life and
 work. The study of Art helps provide a foundation for understanding and
@@ -20,6 +30,8 @@ about the artwork and their own experiences.&nbsp;</p>
 and global art and cultures through engaging with artworks, art making
 and arts professions. This will develop in students a lifelong appreciation
 and enjoyment of art.</p>
-<p>
-<br>
-</p>
+<p></p>
+<p></p>
+<p>Go to the &lt;a href="#section-1"&gt;top&lt;/a&gt;</p>
+<p></p>
+<p></p>
