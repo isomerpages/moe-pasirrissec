@@ -34,13 +34,14 @@ In this discipline, students learn to appreciate words and their power from the 
 The student, if he/she decides to opt for this subject, sits for a 2-year programme from Sec 3 to Sec 4. They will read two set texts - one play and one novel and study a variety of poetry texts from Singapore writers as well as international ones. 
 <br><br>
 So why should your child take up Pure Literature?
-<br><br>
-</div></li><li>Students develop a sense of individuality and creativity as they form their own opinions about issues in the texts.</li>
+<br>
+<ul>	
+<li>Students develop a sense of individuality and creativity as they form their own opinions about issues in the texts.</li>
 <li>Students develop the skills to convince others of their perspectives and interpretations, based on sound reasoning with evidence.</li>
 <li>Students learn to appreciate that life is not always clear-cut, in black and white. It prepares them for the ambiguities of life and to take uncertainties in their stride.</li>
-<li>Students explore texts that give them many opportunities to discuss and reassess their own values and beliefs. These act as a compass in life as they grow up.</li>
-<br><br>
-<h4>Assessment Criteria for Literature in English</h4>
+<li>Students explore texts that give them many opportunities to discuss and reassess their own values and beliefs. These act as a compass in life as they grow up.</li></ul>
+
+<b>Assessment Criteria for Literature in English</b>
 
 (To be upload soon)
 
@@ -416,4 +417,4 @@ Design and Technology is a subject that aims to nurture children to possess impo
 Go to the <a href="#section-1">top</a>
 <br><br>
 
-<p></p></ul></ul>
+<p></p></ul></div></li></ul>
