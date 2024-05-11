@@ -69,27 +69,27 @@ Go to the <a href="#section-1">top</a>
 
 <h3 id="section-3">Elements of Business Skills</h3>
 
-This subject is an introduction to business through an understanding of business activities, focusing on basic marketing and customer relations, in the context of Singapore. The subject intends to provide students with opportunities to develop transferable employability skills and knowledge in the service industry, namely the Travel and Tourism, Hospitality, and Retail industries, which continue to offer employment opportunities accessible to the students.&nbsp;
+This subject is an introduction to business through an understanding of business activities, focusing on basic marketing and customer relations, in the context of Singapore. The subject intends to provide students with opportunities to develop transferable employability skills and knowledge in the service industry, namely the Travel and Tourism, Hospitality, and Retail industries, which continue to offer employment opportunities accessible to the students.
 
-The subject provides students with the foundational knowledge and skills for further studies in institutes of higher learning and the awareness of prospects of a career in the service industry. In the Elements of Business Skills (EBS) syllabus framework shown below, the basic concepts of marketing and customer relations are at the core of the EBS syllabus. The middle ring represents the outcomes of the syllabus, namely foundational business knowledge, decision-making skills and an enterprising mindset. The outer ring defines the scope of the syllabus within the Travel and Tourism, Hospitality, and Retail industries.&nbsp;
+The subject provides students with the foundational knowledge and skills for further studies in institutes of higher learning and the awareness of prospects of a career in the service industry. In the Elements of Business Skills (EBS) syllabus framework shown below, the basic concepts of marketing and customer relations are at the core of the EBS syllabus. The middle ring represents the outcomes of the syllabus, namely foundational business knowledge, decision-making skills and an enterprising mindset. The outer ring defines the scope of the syllabus within the Travel and Tourism, Hospitality, and Retail industries.
 
 **FEATURES OF THE CURRICULUM**
 
 **1. Foundational business knowledge**
 
-The foundational business knowledge includes the knowledge and understanding of the three units of the syllabus: Understanding business activities, Basic marketing and Customer relations.&nbsp;
+The foundational business knowledge includes the knowledge and understanding of the three units of the syllabus: Understanding business activities, Basic marketing and Customer relations.
 
 **Unit 1:** Understanding business activities This unit helps students to understand the purpose of a business and the various types of businesses in the Travel and Tourism, Hospitality, and Retail industries. Impact of competition and trends on the businesses, and careers in these industries, are also examined to develop an understanding of the challenges and opportunities presented.
 
-**Unit 2:** Understanding basic marketing This unit helps students to understand the basics of marketing and how businesses meet the needs and wants of customers. This includes the use of market survey to gather information about target customers, and the marketing process to reach out to them.&nbsp;
+**Unit 2:** Understanding basic marketing This unit helps students to understand the basics of marketing and how businesses meet the needs and wants of customers. This includes the use of market survey to gather information about target customers, and the marketing process to reach out to them.
 
-**Unit 3:** Understanding customer relations This unit helps students to understand the need to provide quality service to customers and the importance of effective communication in building customer relations. Students will learn how to provide customer service in different interactions with customers.&nbsp;
+**Unit 3:** Understanding customer relations This unit helps students to understand the need to provide quality service to customers and the importance of effective communication in building customer relations. Students will learn how to provide customer service in different interactions with customers.
 
-**Unit 4:** Business investigation This unit helps students to understand the process and skills needed to carry out an investigation for a business to improve its marketing mix so as to enhance its customers’ experience. Students will select, interpret, analyse and evaluate information and apply business knowledge to propose innovative and reasoned recommendation.&nbsp;
+**Unit 4:** Business investigation This unit helps students to understand the process and skills needed to carry out an investigation for a business to improve its marketing mix so as to enhance its customers’ experience. Students will select, interpret, analyse and evaluate information and apply business knowledge to propose innovative and reasoned recommendation.
 
 **2. Enterprising mindset**
 
-The landscape of business is constantly evolving due to economic, demographic and technological change. Having an enterprising mindset prepares students for an evolving employment landscape, where employees are expected to seek continuous improvement to meet new challenges and demands. The ability to propose better ways of marketing and how to improve customer relations help to add value to a business. The disposition and mindset to contribute and improve oneself help to develop students as active contributors to society.&nbsp;
+The landscape of business is constantly evolving due to economic, demographic and technological change. Having an enterprising mindset prepares students for an evolving employment landscape, where employees are expected to seek continuous improvement to meet new challenges and demands. The ability to propose better ways of marketing and how to improve customer relations help to add value to a business. The disposition and mindset to contribute and improve oneself help to develop students as active contributors to society.
 
 **3. Decision-making skills**
 
@@ -97,7 +97,7 @@ Businesses and their employees have to make decisions on marketing and customer 
 
 **4. 21st Century Competencies**
 
-The syllabus is aligned to the 21st Century Competencies framework. Students will develop an awareness of the business landscape in Singapore, and the need to innovate to embrace the opportunities and challenges posed by changing customers’ expectations and technological advancement. This awareness will help students to be more effective in contributing to society when they join the workforce. A deeper understanding of the needs and wants of different people will help students to develop social cultural awareness, and the skills to work collaboratively with people from diverse backgrounds. Learning how to communicate with customers will help students to apply communication skills in an authentic setting.&nbsp;
+The syllabus is aligned to the 21st Century Competencies framework. Students will develop an awareness of the business landscape in Singapore, and the need to innovate to embrace the opportunities and challenges posed by changing customers’ expectations and technological advancement. This awareness will help students to be more effective in contributing to society when they join the workforce. A deeper understanding of the needs and wants of different people will help students to develop social cultural awareness, and the skills to work collaboratively with people from diverse backgrounds. Learning how to communicate with customers will help students to apply communication skills in an authentic setting.
 
 The skills in business investigation will enable students to connect business concepts and content with real world contexts. The fostering of an enterprising mindset in the business investigation process provides opportunities for students to think critically and to develop well-reasoned decisions about how to improve an authentic business. The students will also learn to manage and use information responsibly to aid their business investigation, which will serve them well in their future study and work.
 
