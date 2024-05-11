@@ -416,6 +416,4 @@ Design and Technology is a subject that aims to nurture children to possess impo
 Go to the <a href="#section-1">top</a>
 <br><br>
 	
-<p></p>
-	
-</ul></ul>
+<p></p></ul></ul>
