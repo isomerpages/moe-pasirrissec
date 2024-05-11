@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Subject Combinations Available
 ---
 #### **Introduction to Upper Secondary Subjects (Normal Technical)**
-
+<a href="#section-4"></a><br>
 <a href="#section-1">Art</a><br>
 <a href="#section-2">Design &amp; Technology</a><br>
 <a href="#section-3">Elements of Business Skills</a><br>
@@ -31,7 +31,7 @@ In addition, students will be exposed to a diverse range of local, regional and 
 | -------- | -------- | 
 | ITE Central School of Design and Media | Students are able to apply, pursue and build-up art and design related skills like Architectural Technology, Interior and Exhibition Design, Fashion Apparel Production &amp; Design, Video Production, Digital Animation, Product Design and Visual Communication. Students can further pursue their interests in related polytechnic or art school courses. <br>Students will have the advantage in applying their time-based project management skills to these courses. | 
 
-Go to the <a href="#section-1">top</a>
+Go to the <a href="#section-4">top</a>
 
 <h3 id="section-2">Design &amp; Technology</h3>
 
