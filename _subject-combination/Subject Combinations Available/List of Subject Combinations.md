@@ -26,32 +26,34 @@ third_nav_title: Subject Combinations Available
 <h3 id="section-1">Literature in English</h3>
 
 “Literature makes us better thinkers. It moves us to see the multi-sidedness of situations and therefore expands the breath of our own visions, moving us towards dreams and solutions we might not otherwise have imagined.” – Judith Langer, Envisioning Literature
-
+<br><br>
 Literature is essentially the study of human relationships and how we, as human beings, need to understand and work together to create a better place to live rather than exist. To be concise, it is how to understand humans better. It affords us PERSPECTIVES about architecture, about politics, about family, about all that is about humans, their living, their endeavours, their success, their tragedy, and most of all, the fragility of Life. It is a challenging discipline because it is about OUR opinion and not just the opinion of the writer.
-
+<br><br>
 In this discipline, students learn to appreciate words and their power from the texts which range from classics, such as Shakespeare to modern works. Students read and respond to a variety of literary texts from the genres of prose, poetry and drama. The greatest value of Literature is that it promotes empathy as it develops in the student a greater understanding of the human condition.
-
+<br><br>
 The student, if he/she decides to opt for this subject, sits for a 2-year programme from Sec 3 to Sec 4. They will read two set texts - one play and one novel and study a variety of poetry texts from Singapore writers as well as international ones. 
-
+<br><br>
 So why should your child take up Pure Literature?
-
-* Students develop a sense of individuality and creativity as they form their own opinions about issues in the texts.
-* Students develop the skills to convince others of their perspectives and interpretations, based on sound reasoning with evidence.
-* Students learn to appreciate that life is not always clear-cut, in black and white. It prepares them for the ambiguities of life and to take uncertainties in their stride. 
-* Students explore texts that give them many opportunities to discuss and reassess their own values and beliefs. These act as a compass in life as they grow up.
-
+<br><br>
+</div></li><li>Students develop a sense of individuality and creativity as they form their own opinions about issues in the texts.</li>
+<li>Students develop the skills to convince others of their perspectives and interpretations, based on sound reasoning with evidence.</li>
+<li>Students learn to appreciate that life is not always clear-cut, in black and white. It prepares them for the ambiguities of life and to take uncertainties in their stride.</li>
+<li>Students explore texts that give them many opportunities to discuss and reassess their own values and beliefs. These act as a compass in life as they grow up.</li>
+<br><br>
 <h4>Assessment Criteria for Literature in English</h4>
 
 (To be upload soon)
 
+<br><br>
 Go to the <a href="#section-1">top</a>
-
+<br><br>
+	
 <h3 id="section-2">Humanities</h3>
 
 Upper Secondary students must read at least one Humanities subject. If the student is reading only one Humanities subject, he MUST take ‘Humanities’, comprising a compulsory Social Studies component (SS) and an Elective component. In PRSS, the options for the Elective component are Elective History (EHist), Elective Geography (EGeo) and Elective Literature (Elit).
-
+<br><br>
 Express students may opt to read an additional Pure Humanities subject which is not his or her Elective component in the compulsory Humanities subject. For example, a student who is reading Humanities (SS/History) can choose to read Pure Geography or English Literature. He is not allowed to read Pure History as this would overlap with the Elective History which he is already reading.
-
+<br><br>
 | Choices<br>available<br>(O-Level) | Humanities<br>(Compulsory) | Additional Pure Humanities courses offered in PRSS |
 | -------- | -------- | -------- |
 | 1  | Humanities (Social Studies &amp; Elective Geography) | Pure History or English Literature |
@@ -328,6 +330,6 @@ The assessment objectives of the subject can be found at SEAB website under the 
 *   Brand / Packaging designers
 
 	
-<p></p></div></li>
+<p></p>
 	
 </ul>
