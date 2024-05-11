@@ -30,7 +30,8 @@ organised in the following manner:&nbsp;</p>
 </p>
 </li>
 <li>
-<p>Allocation of Subject combinations</p>
+<p><a href="/allocations-of-subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">Allocation of Subject combinations</a>
+</p>
 </li>
 <li>
 <p><a href="/education-career-guidance/" rel="noopener noreferrer nofollow" target="_blank">Education Career Guidance</a>
