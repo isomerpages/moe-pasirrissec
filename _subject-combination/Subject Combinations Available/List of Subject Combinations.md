@@ -224,6 +224,7 @@ Students will be able to develop the skills of:
 <li>analytical skill in interpreting financial statements and analysing the effects of business transactions and accounting adjustments on financial statements</li>
 <li>evaluative skill in evaluating businesses for their profitability, liquidity and efficiency of inventory and trade receivables management using financial information and ratios</li>
 <li>decision-making skill in evaluating choices using both accounting and non-accounting information.</li>
+	</ul>
 <br>
 	<b>Relevant Courses in Poly</b>
 <br><br>
@@ -417,4 +418,4 @@ Design and Technology is a subject that aims to nurture children to possess impo
 Go to the <a href="#section-1">top</a>
 <br><br>
 
-<p></p></ul></div></li></ul>
+<p></p></div></li></ul>
