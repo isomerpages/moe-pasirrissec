@@ -26,7 +26,8 @@ organised in the following manner:&nbsp;</p>
 <p>Considerations in choosing a subject combination&nbsp;</p>
 </li>
 <li>
-<p>Subject combinations available at PRSS</p>
+<p><a href="/list-of-subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">Subject combinations available at PRSS</a>
+</p>
 </li>
 <li>
 <p>Allocation of Subject combinations</p>
