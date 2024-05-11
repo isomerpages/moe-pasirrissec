@@ -30,20 +30,6 @@ In addition, students will be exposed to a diverse range of local, regional and 
  
  (To be upload soon)
  
- \* The art task assessment allows for:
-
-*   Candidates’ personal interpretation and response to the given theme.
-*   Candidates’ engagement in art inquiry, investigation and development process during the 5 weeks period;&nbsp;
-*   Candidates’ may then choose any suitable quick drying or dry medium in a 3 hour examination format to complete a 2 dimensional A3 final artwork; and
-*   Candidates’ visual and aesthetic awareness.&nbsp;
-
-\# The portfolio assessment allows for:
-
-*   Candidates’ personal expression and response to their own self-directed theme and projects;
-*   Candidates’ investigation, interpretation and development of their 18 weeks projects,&nbsp; documented on their preparatory studies;&nbsp;
-*   Candidates’ are required to present&nbsp; 3 Final Artworks - a Digital journal and Art and Design (1 Fine Art &amp; 1 Design) work submission.
-*   Candidates’ visual and aesthetic awareness.
-
 **Educational pathways for students who would like to pursue a career in Art &amp; Design.**
 
 | Name of courses/ programme | What the course/programme entails | 
