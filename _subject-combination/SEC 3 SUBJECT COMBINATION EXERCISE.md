@@ -1,5 +1,5 @@
 ---
-title: Home
+title: SEC 3 SUBJECT COMBINATION EXERCISE
 permalink: /subject-combination/
 variant: markdown
 description: ""
@@ -26,10 +26,12 @@ organised in the following manner:&nbsp;</p>
 <p>Considerations in choosing a subject combination&nbsp;</p>
 </li>
 <li>
-<p>Subject combinations available at PRSS</p>
+<p><a href="/list-of-subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">Subject combinations available at PRSS</a>
+</p>
 </li>
 <li>
-<p>Allocation of Subject combinations</p>
+<p><a href="/allocations-of-subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">Allocation of Subject combinations</a>
+</p>
 </li>
 <li>
 <p><a href="/education-career-guidance/" rel="noopener noreferrer nofollow" target="_blank">Education Career Guidance</a>

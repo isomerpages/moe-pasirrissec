@@ -2,11 +2,13 @@ collections:
   subject-combination:
     output: true
     order:
-      - Home.md
+      - SEC 3 SUBJECT COMBINATION EXERCISE.md
       - Considerations in choosing a subject combination.md
+      - Subject Combinations Available/List of Subject Combinations.md
       - Subject Combinations Available/.keep
       - Subject Combinations Available/Upper Secondary Express.md
       - Subject Combinations Available/Upper Secondary Normal Academic.md
+      - Subject Combinations Available/Upper Secondary Normal Technical.md
       - Allocations of Subject Combinations.md
       - Education Career Guidance.md
       - Frequently Asked Questions.md
