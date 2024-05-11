@@ -9,7 +9,7 @@ third_nav_title: Subject Combinations Available
 
 <a href="#section-1">Art</a><br>
 <a href="#section-2">Design &amp; Technology</a><br>
-<a href="#section-3"></a>Elements of Business Skills<br>
+<a href="#section-3">Elements of Business Skills</a><br>
 
 <h3 id="section-1">Art</h3>
 
