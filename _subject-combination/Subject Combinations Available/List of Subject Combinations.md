@@ -10,7 +10,7 @@ third_nav_title: Subject Combinations Available
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1"><b>Upper Secondary Express</b></label><div>
 <p>
-	</p><h4><strong>Introduction to Upper Secondary Subjects (Express)</strong></h4>
+</p><h4><strong>Introduction to Upper Secondary Subjects (Express)</strong></h4>
 
 <a href="#section-1">Literature in English</a><br>
 <a href="#section-2">Humanities</a><br> 
@@ -415,5 +415,5 @@ Design and Technology is a subject that aims to nurture children to possess impo
 </ul>	
 Go to the <a href="#section-1">top</a>
 <br><br>
-	
+
 <p></p></ul></ul>
