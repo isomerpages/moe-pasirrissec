@@ -95,7 +95,7 @@ The landscape of business is constantly evolving due to economic, demographic an
 
 Businesses and their employees have to make decisions on marketing and customer relations to grow the business. The syllabus provides opportunities for students to learn the process of gathering the information necessary to make a reasoned recommendation, so as to enhance the customer experience for a real-world business. Sound decision-making skills are transferable and beneficial to students’ future area of study and work.
 
-**4. 21st Century Competencies&nbsp;**
+**4. 21st Century Competencies**
 
 The syllabus is aligned to the 21st Century Competencies framework. Students will develop an awareness of the business landscape in Singapore, and the need to innovate to embrace the opportunities and challenges posed by changing customers’ expectations and technological advancement. This awareness will help students to be more effective in contributing to society when they join the workforce. A deeper understanding of the needs and wants of different people will help students to develop social cultural awareness, and the skills to work collaboratively with people from diverse backgrounds. Learning how to communicate with customers will help students to apply communication skills in an authentic setting.&nbsp;
 
