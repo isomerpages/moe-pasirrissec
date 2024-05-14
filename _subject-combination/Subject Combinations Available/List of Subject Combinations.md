@@ -437,10 +437,37 @@ Go to the <a href="#section-1">top</a>
 <h3 id="section-1">Humanities</h3>
 
 Upper Secondary students must read at least one Humanities subject. If the student is reading only one Humanities subject, he MUST take ‘Humanities’, comprising a compulsory Social Studies component (SS) and an Elective component. In PRSS, the options for the Elective component are Elective History (EHist) and Elective Geography (EGeo).
+<br>
+<table border="1px solid black" style="width:100%">
+  <tbody><tr>
+    <th>Choices available</th>
+    <th>Humanities<br>(Compulsory)</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Humanities 2125 (Social Studies &amp; Elective Geography)</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Humanities 2273 (Social Studies &amp; Elective History)</td>
+  </tr>
+	</tbody></table>
 
+<br><br>
+Go to the <a href="#section-1">top</a>
+<br><br>
 	
+<h3 id="section-2">Social Studies</h3>
 	
-| Choices available <br><br><a href="#section-1">top</a><h3 id="section-2">Social Studies</h3><br><br><br><br><a href="#section-1">top</a><br><br><h3 id="section-3">Elective History</h3><p>
+Social Studies is the compulsory half of the Humanities subject.&nbsp;
+<br><br>
+At the heart of the Social Studies Curriculum is the preparation of students to be citizens of tomorrow by helping them to better understand the interconnectedness of Singapore and the world they live in, and appreciate the complexities of the human world. Drawing on aspects of society that are of meaning and interest to the students, Social Studies seeks to ignite students’ curiosity to inquire into real-world issues that concern their lives. Through inquiry and authentic learning experiences, Social Studies helps students to attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives. Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world they live in, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.
+
+<br><br>
+<a href="#section-1">top</a>
+<br><br>
+	
+<h3 id="section-3">Elective History</h3>
 	
 History education in Singapore seeks to develop in students an appreciation of past human experiences, critical awareness of the nature of historical knowledge, and the ability to make connections between the past and present.
 <br><br>
@@ -450,14 +477,26 @@ The Upper Secondary History syllabuses seek to enable students to be effective c
 <br><br>
 Students reading Elective History will only cover the following unit:
 <br><br>
-	</p><ol><li>The Making of the 20th Century Modern World, 1910s–1991.</li></ol><br><br><a href="#section-1">top</a><br><br><h3 id="section-4">Elective Geography</h3><br><br><br><br><ul>
+<ol>
+<li>The Making of the 20th Century Modern World, 1910s–1991.</li>
+</ol>
+	
+<br><br>
+<a href="#section-1">top</a>
+<br><br>
+	
+<h3 id="section-4">Elective Geography</h3>
+	
+<ul>
 <li>interpreting and recognising patterns in geographical data and deduce relationships</li>
 <li>organise and present geographic information in a coherent way</li>
 <li>analyse, evaluate and synthesise geographical data to make informed and sound decisions.</li>
-</ul><br><br>inte	
+</ul>
+<br><br>
 The objective is to develop an inquiring mind to seek answers to issues affecting our lives and the world we live in, and prepared students for their roles as informed citizens in the 21st century and most importantly, inculcate an awareness of appropriate attitudes and values that promotes a positive geographical future; one that ensures the sustainability of our resources, people, country, and planet.
-	
+<br><br>	
 Geography students will cover the syllabus as follows:
+<br><br>
 
 | Cluster 1 | Geography in Everyday Life | 
 | -------- | -------- | 
