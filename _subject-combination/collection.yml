@@ -2,7 +2,7 @@ collections:
   subject-combination:
     output: true
     order:
-      - SEC 3 SUBJECT COMBINATION EXERCISE.md
+      - Sec 3 Subject Combination Exercise.md
       - Considerations in choosing a subject combination.md
       - Subject Combinations Available/List of Subject Combinations.md
       - Subject Combinations Available/.keep
