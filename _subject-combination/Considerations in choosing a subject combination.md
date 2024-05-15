@@ -200,10 +200,10 @@ At upper secondary level, your child/ward will have to offer a set of compulsory
 <br><br>
 
 <a href="/upper-secondary-express/">3 Express Subjects</a><br>
-3 Normal Academic Subjects<br>
+	<a href="/upper-secondary-normal-academic/">3 Normal Academic Subjects</a><br>
 3 Normal Technical Subjects<br>
 <a href="/upper-secondary-express/">3 Express Subject Combinations for 2025</a><br>
-3 Normal Academic Combinations for 2025<br>
+	<a href="/upper-secondary-normal-academic/">3 Normal Academic Combinations for 2025</a><br>
 3 Normal Technical Combinations for 2025<br>
 <br><br>
 	
