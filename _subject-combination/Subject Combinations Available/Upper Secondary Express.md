@@ -276,13 +276,13 @@ The table below shows the difference between Mathematics and Additional Mathemat
     <td>Build on the foundation in Sec 2 Mathematics<br>Proficiency in Algebra is essential and important </td>
   </tr>
 		</tbody></table>
-
+<br>
 <b>Requirements to take up Additional Mathematics at Sec 3:</b>
-
+<br><br>
 (To upload soon)
-
+<br><br>
 <b>Implication on admission requirement for post-secondary studies</b>
-
+<br>
 <b>Junior College</b>
 <br>
 	<ul>
@@ -301,7 +301,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
 <br><br>
 (To be upload soon)
 <br><br>
-Go to the <a href="#section-1">top</a>
+Go to the <a href="#">top</a>
 
 <h3 id="section-8">Sciences</h3>
 
@@ -315,7 +315,7 @@ We would like to encourage our students to take Physics and Chemistry or Science
 <br><br>
 Students should consider their learning ability, interest and aspiration when choosing subjects. It is important for students to do well in the Sciences if he/she wishes to qualify for a Science Course in JC. Although the Pure Sciences give students a strong foundation in the learning of science, they are not a prerequisite to any of the science-related courses in the polytechnics. It is useful to note that courses such as applied sciences, engineering and media and design in the polytechnics require Science as a relevant subject, but these need not be Pure Sciences.
 <br><br>
-Go to the <a href="#section-1">top</a>
+Go to the <a href="#">top</a>
 <br><br>
 	
 <h3 id="section-9">Art</h3>
@@ -360,12 +360,13 @@ In addition, students will be exposed to a diverse range of local, regional and 
   </tr>
 	</tbody></table>
 <br><br>
-Go to the <a href="#section-1">top</a>
+Go to the <a href="#">top</a>
 <br><br>
+	
 <h3 id="section-10">Design &amp; Technology</h3>
 
 Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
-<br><br>
+<br>
 	<ol>
 <li>Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.</li>
 <li>Possess a caring heart and willing desire to improve the quality of life through thoughtful and practical design solutions.</li>
