@@ -102,7 +102,7 @@ Help your child/ward understand what post-secondary pathways available by using 
 		</tr>
 		 <tr>
 		<td><b>3. O-Level Option:</b></td>
-    <td>1 year in Tampines Secondary School towards an O-levels Certification<br><i>Pathway: O-levels (1 year) &gt; Polytechnic or JC (2-3 years) &gt; University (3-4 years)</i></td>
+    <td>1 year in Pasir Ris Secondary School towards an O-levels Certification<br><i>Pathway: O-levels (1 year) &gt; Polytechnic or JC (2-3 years) &gt; University (3-4 years)</i></td>
 		</tr>
 		 <tr>
 		<td><b>4. NFP Option:</b></td>
