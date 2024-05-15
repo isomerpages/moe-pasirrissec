@@ -380,19 +380,7 @@ Go to the <a href="#">top</a>
 		<td>Principle Of Accounts</td>
 	  <td>Additional Mathematics</td>
   </tr>
-		<tr>
-    <td>E</td>
-		<td>English Language</td>
-		<td>Mother Tongue/<br>Higher Mother Tongue</td>
-		<td>Mathematics</td>
-    <td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
-		<td>Additional Mathematics</td>
-		<td>Chemistry</td>
-	 <td>PHYSICS<br><b>or</b><br>BIOLOGY</td>
-	 <td># PURE GEOG<br><b>or</b><br>Pure&nbsp;HIST<br><b>or</b><br>Pure LIT</td>
-    <td></td>
-  </tr>
-	</tbody></table>	
+</tbody></table>	
 <br><br>
 * The allocation of subject combination will be based on students’ academic performance in EMSH1B2 (overall aggregate of English Language, Mathematics, Science, Best Humanities Subject and two other best subjects) and aptitude, subjected to the availability of school resources.&nbsp;Subject Combinations with less than 15 students may not be eventually implemented. To qualify for Combination C and D, students need to achieve a good pass in Sec 2 Maths.
 <p></p></div></li>
