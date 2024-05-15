@@ -62,27 +62,27 @@ Help your child/ward understand what post-secondary pathways available by using 
     <th colspan="2"><h5><b>I) Post Secondary Pathways &amp; Information (Express)</b></h5></th>
   </tr>
   <tr>
-		<td><b>1. Junior College Option:</b></td>
+		<td><b>1</b></td><td><b>Junior College Option:</b></td>
     <td>2-3 years in a Junior college or Millenia Institute towards an A-levels certification <br><i> Pathway: Junior College &amp; Institute&nbsp; (2-3 years) &gt; University (3-4 years)</i></td>
 		</tr>
 		<tr>
-		<td><b>2. Polytechnic Option:</b></td>
+			<td><b>2</b></td><td><b>Polytechnic Option:</b></td>
    <td>3 years in a Polytechnic towards a specialised Diploma <br><i>Pathway: Polytechnic (3yrs) &gt; University (3-4yrs)</i></td>
 		</tr>
 		<tr>
-			<td><b>3. Institute of Technical Education (ITE) Option:</b></td>
+			<td><b>3</b></td><td><b>Institute of Technical Education (ITE) Option:</b></td>
    <td>2 years in ITE towards a Higher Nitec Certification <br><i>Pathway: ITE Higher Nitec (2 years) &gt; Polytechnic (3 years)  &gt; University (3-4 years)</i></td>
 		</tr>
 	<tr>
-		<td><b>4. Nanyang Academy of Fine Arts (NAFA) Option:</b></td>
+		<td><b>4</b></td><td><b>Nanyang Academy of Fine Arts (NAFA) Option:</b></td>
    <td>3 years in NAFA towards an Arts, Media or related Diploma <br><i>Pathway: Laselle or NAFA Diploma Programme (3 years) &gt; NAFA Degree Programme (3-4 years)</i></td>
 	</tr>
 			<tr>
-		<td><b>5. Laselle Option:</b></td>
+		<td><b>5</b></td><td><b>Laselle Option:</b></td>
    <td>3 years in Laselle towards an Arts, Media or related Diploma<br><i>Pathway: Laselle Diploma Programme (3yrs) &gt; Laselle Degree Programme (3-4 years)</i></td>
 	</tr>
 		<tr>
-			<td><b>6. Polytechnic Early Admission Exercise Option:</b></td>
+			<td><b>6</b></td><td><b>Polytechnic Early Admission Exercise Option:</b></td>
    <td>3 years in a Polytechnic towards a specialised Diploma<br><i>Pathway: Polytechnic (3yrs) &gt; University (3-4yrs)</i></td>
 	</tr>
 		<tr>
