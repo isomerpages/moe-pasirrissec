@@ -9,8 +9,7 @@ third_nav_title: Subject Combinations Available
 	
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1"><b>Introduction to Upper Secondary Subjects (Normal Academic)</b></label><div>
-<p>
-
+<p><br>	
 <a href="#section-1">Humanities</a><br>
 <a href="#section-2">Social Studies</a><br>
 <a href="#section-3">Elective History</a><br>
@@ -23,7 +22,7 @@ third_nav_title: Subject Combinations Available
 </p><h3 id="section-1">Humanities</h3>
 
 Upper Secondary students must read at least one Humanities subject. If the student is reading only one Humanities subject, he MUST take ‘Humanities’, comprising a compulsory Social Studies component (SS) and an Elective component. In PRSS, the options for the Elective component are Elective History (EHist) and Elective Geography (EGeo).
-<br>
+<br><br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Choices available</th>
@@ -61,11 +60,8 @@ In recent years, there has been greater cognizance that historical content and c
 The Upper Secondary History syllabuses seek to enable students to be effective citizens and participants in the 21st century. To achieve this, students need to understand how the present world system came into being, and the inter-connectedness of nation-states and peoples. The curriculum also seek to examine the key forces and developments which have shaped international history in the 19th and 20th centuries. Through this syllabus, history students will understand not just concepts such as balance of power, hegemony, geopolitics and nationalism, but also acquire historical thinking skills.
 <br><br>
 Students reading Elective History will only cover the following unit:
-<br><br>
-<ol>
-<li>The Making of the 20th Century Modern World, 1910s–1991.</li>
-</ol>
-	
+<br>
+<ol><li>The Making of the 20th Century Modern World, 1910s–1991.</li></ol>	
 <br><br>
 Go to the<a href="#">top</a>
 <br>
