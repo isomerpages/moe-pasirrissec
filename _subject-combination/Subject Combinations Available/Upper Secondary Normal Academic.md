@@ -62,7 +62,7 @@ The Upper Secondary History syllabuses seek to enable students to be effective c
 Students reading Elective History will only cover the following unit:
 <br>
 <ol><li>The Making of the 20th Century Modern World, 1910s–1991.</li></ol>	
-<br><br>
+<br>
 Go to the <a href="#">top</a>
 <br>
 	
