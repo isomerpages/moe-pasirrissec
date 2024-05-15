@@ -499,9 +499,9 @@ Science (Biology / Chemistry)</td>
 <br><br>
 * Options D and E, will be offered to students in the top 25% for EMSH1B2. A good pass in the relevant lower secondary subjects is required to read pure humanities, pure sciences and additional mathematics. Allocations of the above are based on students’ academic performance in EMSH1B2 and aptitude, subjected to the availability of school resources. Subject Combination with less than 15 students may not be implemented.
 <br><br>
-\# Pure Geography students will have to read History elective, and vice-versa for Pure History students in Option B and E.
+# Pure Geography students will have to read History elective, and vice-versa for Pure History students in Option B and E.
 <br><br>
-\## EMSH1B2 stands for overall aggregate of English Language, Mathematics, Science, Best Humanities Subject and two other best subjects.
+## EMSH1B2 stands for overall aggregate of English Language, Mathematics, Science, Best Humanities Subject and two other best subjects.
 	
 <p></p></div></li>
 </ul>
