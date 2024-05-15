@@ -98,7 +98,7 @@ Help your child/ward understand what post-secondary pathways available by using 
 		</tr>
 		 <tr>
 		<td><b>2. DPP Option:</b></td>
-    <td>Direct Entry Scheme to Polytechnic Programme (DPP)- 2 years in ITE towards a Higher Nitec certification<br><i>Pathway: ITE Higher Nitec (2 years) &gt; Polytechnic (3 years)  &gt; University (3-4 years) </i></td>
+    <td>Direct Entry Scheme to Polytechnic Programme (DPP) - 2 years in ITE towards a Higher Nitec certification<br><i>Pathway: ITE Higher Nitec (2 years) &gt; Polytechnic (3 years)  &gt; University (3-4 years) </i></td>
 		</tr>
 		 <tr>
 		<td><b>3. O-Level Option:</b></td>
