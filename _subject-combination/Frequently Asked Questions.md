@@ -19,7 +19,7 @@ description: ""
 	</p></div></li>
 	
 <li><input type="checkbox" id="accordion3">  
-	<label for="accordion3"><b>Who can I contact should I need further clarifications?</b></label><div><p>You can contact the HOD of Humanities <a href="mailto:sim_keng_yang@moe.edu.sg">Mr Sim Keng Yam </a> respectively, or contact us at 6501 0800.</p></div></li>
+	<label for="accordion3"><b>Who can I contact should I need further clarifications?</b></label><div><p>You can contact the HOD of Humanities <a href="mailto:sim_keng_yang@moe.edu.sg">Mr Sim Keng Yam</a>  respectively, or contact us at 6501 0800.</p></div></li>
 	
 <h4>Subject Choices</h4>	
 	
