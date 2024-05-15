@@ -334,6 +334,74 @@ Go to the <a href="#">top</a>
 <p></p></ul></ol></ol></div></li>
 
 <li><input type="checkbox" id="accordion2">  
-<label for="accordion2"><b>Introduction to Upper Secondary Subjects (Normal Academic)</b></label><div>
+<label for="accordion2"><b>3NA Subject Combinations for 2025</b></label><div>
 <p>
-</p></div></li>
+</p><h5><b>Pasir Ris Secondary School - Sec 3N (A) Subject Combinations for 2025</b></h5><br>	
+	
+<table border="1px solid black" style="width:50%">
+  <tbody><tr>
+    <th>Option</th>
+    <th>1</th>
+		<th>2</th>
+		<th>3</th>
+		<th>4</th>
+		<th>5</th>
+		<th>6</th>
+		<th>7</th>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td>English Language</td>
+		<td>Mother Tongue</td>
+		<td>Mathematics</td>
+		<td>Social Studies<br>+<br>Elective History</td>
+		<td>Science (Physics / Chemistry)</td>
+		<td>ART<br><b>or</b><br>D&amp;T</td>
+		<td style="background-color:lightgrey"></td>
+  </tr>
+	  <tr>
+    <td>B</td>
+		<td>English Language</td>
+    <td>Mother Tongue</td>
+    <td>Mathematics</td>
+		<td>Social Studies<br>+<br>Elective Geography</td>
+		<td>Science (Physics / Chemistry)</td>
+		<td>ART<br><b>or</b><br>D&amp;T</td>
+	  <td style="background-color:lightgrey"></td>
+  </tr>
+		<tr>
+    <td>C</td>
+		<td>English Language</td>
+		<td>Mother Tongue</td>
+		<td>Mathematics</td>
+		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
+    <td>Science (Physics / Chemistry)</td>
+		<td>Principle Of Accounts<br><b>or</b><br>Additional Mathematics</td>
+		<td style="background-color:lightgrey"></td>
+  </tr>
+		<tr>
+    <td>D</td>
+		<td>English Language</td>
+		<td>Mother Tongue/<br>Higher Mother Tongue</td>
+		<td>Mathematics</td>
+		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
+		<td>Science (Physics / Chemistry)</td>
+		<td>Principle Of Accounts</td>
+	  <td>Additional Mathematics</td>
+  </tr>
+		<tr>
+    <td>E</td>
+		<td>English Language</td>
+		<td>Mother Tongue/<br>Higher Mother Tongue</td>
+		<td>Mathematics</td>
+    <td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
+		<td>Additional Mathematics</td>
+		<td>Chemistry</td>
+	 <td>PHYSICS<br><b>or</b><br>BIOLOGY</td>
+	 <td># PURE GEOG<br><b>or</b><br>Pure&nbsp;HIST<br><b>or</b><br>Pure LIT</td>
+    <td></td>
+  </tr>
+	</tbody></table>	
+<br><br>
+* The allocation of subject combination will be based on students’ academic performance in EMSH1B2 (overall aggregate of English Language, Mathematics, Science, Best Humanities Subject and two other best subjects) and aptitude, subjected to the availability of school resources.&nbsp;Subject Combinations with less than 15 students may not be eventually implemented. To qualify for Combination C and D, students need to achieve a good pass in Sec 2 Maths.
+<p></p></div></li>
