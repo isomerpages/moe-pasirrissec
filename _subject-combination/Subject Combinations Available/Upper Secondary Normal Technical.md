@@ -5,27 +5,30 @@ variant: markdown
 description: ""
 third_nav_title: Subject Combinations Available
 ---
-#### **Introduction to Upper Secondary Subjects (Normal Technical)**
-<a href="#section-4"></a><br>
+<ul class="jekyllcodex_accordion">
+
+<li><input type="checkbox" id="accordion1">  
+<label for="accordion1"><b>Introduction to Upper Secondary Subjects (Normal Technical)</b></label><div>
+<p>
 <a href="#section-1">Art</a><br>
-<a href="#section-2">Design &amp; Technology</a><br>
+<a href="#section-2">Design &amp; Technology</a><br> 
 <a href="#section-3">Elements of Business Skills</a><br>
 
-<h3 id="section-1">Art</h3>
+</p><h3 id="section-1">Art</h3>
 
 Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.
-
+<br><br>
 Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.
-
+<br><br>
 The production of Art requires a rigorous process of information analysis. In interpreting Art, students need to synthesise perception, information about the artwork and their own experiences.
-
+<br><br>
 In addition, students will be exposed to a diverse range of local, regional and global art and cultures through engaging with artworks, art making and arts professions. This will develop in students a lifelong appreciation and enjoyment of art.
-
- **6128 – Assessment Criteria for Art**
- 
- (To be upload soon)
- 
-**Educational pathways for students who would like to pursue a career in Art &amp; Design.**
+<br><br>
+<b>6128 – Assessment Criteria for Art</b>
+<br><br> 
+(To be upload soon)
+<br><br> 
+<b>Educational pathways for students who would like to pursue a career in Art &amp; Design.</b>
 
 | Name of courses/ programme | What the course/programme entails | 
 | -------- | -------- | 
@@ -105,4 +108,4 @@ The skills in business investigation will enable students to connect business co
 
 (To be upload soon)
 
-Go to the <a href="#section-1">top</a>
+Go to the <a href="#section-1">top</a></div></li></ul>
