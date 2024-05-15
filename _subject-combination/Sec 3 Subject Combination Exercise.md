@@ -16,8 +16,8 @@ All subject combinations offered are carefully curated to help pave the way for 
 
 This site pulls together various resources which would help you make a sound decision with regards to the subject combination to pursue and is organised in the following manner:
 
-1. <a href="/considerations-in-choosing-a-subject-combination/" rel="noopener noreferrer nofollow" target="_blank">Considerations in choosing a subject combination</a>
-2. <a href="/list-of-subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">Subject combinations available at PRSS</a>
-3. <a href="/allocations-of-subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">Allocation of Subject combinations</a>
-4. <a href="/education-career-guidance/" rel="noopener noreferrer nofollow" target="_blank">Education Career Guidance</a>
-5. <a href="/frequently-asked-questions/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>
+1. <a href="/considerations-in-choosing-a-subject-combination/">Considerations in choosing a subject combination</a>
+2. <a href="/list-of-subject-combinations/">Subject combinations available at PRSS</a>
+3. <a href="/allocations-of-subject-combinations/">Allocation of Subject combinations</a>
+4. <a href="/education-career-guidance/">Education Career Guidance</a>
+5. <a href="/frequently-asked-questions/">Frequently Asked Questions</a>
