@@ -422,6 +422,7 @@ Go to the <a href="#section-1">top</a>
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1"><b>3E Subject Combinations for 2025</b></label><div>
 <p>
+</p><h5><b>Pasir Ris Secondary School - Sec 3E Subject Combinations for 2025</b></h5><br>	
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Option</th>
@@ -444,7 +445,7 @@ Go to the <a href="#section-1">top</a>
 		<td>Science (Physics / Chemistry)<br><b>or</b><br> 
 Science (Biology / Chemistry)</td>
 		<td>ART<br><b>or</b><br>D&amp;T</td>
-		<td></td>
+		<td style="background-color:lightgrey"></td>
   </tr>
 	  <tr>
     <td>B</td>
@@ -456,7 +457,7 @@ Science (Biology / Chemistry)</td>
 		<td>Science (Physics / Chemistry)<br><b>or</b><br> 
 Science (Biology / Chemistry)</td>
 		<td># PURE GEOG<br><b>or</b><br>Pure&nbsp; HIST<br><b>or</b><br>Pure LIT</td>
-	  <td></td>
+	  <td style="background-color:lightgrey"></td>
   </tr>
 		<tr>
     <td>C</td>
@@ -467,7 +468,7 @@ Science (Biology / Chemistry)</td>
 		<td>Additional Mathematics</td>
 		<td>CHEMISTRY</td>
 	  <td>PHYSICS<br><b>or</b><br>BIOLOGY</td>
-    <td></td>
+    <td style="background-color:lightgrey"></td>
   </tr>
 		<tr>
     <td>D</td>
@@ -502,5 +503,5 @@ Science (Biology / Chemistry)</td>
 
 \## EMSH1B2 stands for overall aggregate of English Language, Mathematics, Science, Best Humanities Subject and two other best subjects.
 	
-</p></div></li>
+<p></p></div></li>
 </ul>
