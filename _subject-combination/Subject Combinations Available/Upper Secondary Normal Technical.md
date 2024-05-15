@@ -34,7 +34,7 @@ In addition, students will be exposed to a diverse range of local, regional and 
 | -------- | -------- | 
 | ITE Central School of Design and Media | Students are able to apply, pursue and build-up art and design related skills like Architectural Technology, Interior and Exhibition Design, Fashion Apparel Production &amp; Design, Video Production, Digital Animation, Product Design and Visual Communication. Students can further pursue their interests in related polytechnic or art school courses. <br>Students will have the advantage in applying their time-based project management skills to these courses. | 
 
-<br>
+<br><br>
 Go to the <a href="#">top</a>
 <br>
 	
