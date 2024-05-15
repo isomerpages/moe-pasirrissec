@@ -48,9 +48,8 @@ Go to the <a href="#">top</a>
 Social Studies is the compulsory half of the Humanities subject.
 <br><br>
 At the heart of the Social Studies Curriculum is the preparation of students to be citizens of tomorrow by helping them to better understand the interconnectedness of Singapore and the world they live in, and appreciate the complexities of the human world. Drawing on aspects of society that are of meaning and interest to the students, Social Studies seeks to ignite students’ curiosity to inquire into real-world issues that concern their lives. Through inquiry and authentic learning experiences, Social Studies helps students to attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives. Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world they live in, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.
-	
 <br><br>
-<a href="#">top</a>
+Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-3">Elective History</h3>
@@ -72,7 +71,7 @@ Go to the<a href="#">top</a>
 <br>
 	
 <h3 id="section-4">Elective Geography</h3>
-	
+<br>	
 <ul>
 <li>interpreting and recognising patterns in geographical data and deduce relationships</li>
 <li>organise and present geographic information in a coherent way</li>
@@ -108,7 +107,6 @@ Geography students will cover the syllabus as follows:
 We offer Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compulsory for ALL Express and Normal (Academic) students. The following table shows a summary of the N(A)-Level Assessment components.
 <br><br>	
 (To upload soon)
-	
 <br><br>	
 Go to the <a href="#">top</a>
 <br>
@@ -130,10 +128,9 @@ Students will be able to understand
 <li>what business decisions are</li>
 <li>how decisions are made using accounting information</li>
 <li>the limitations of relying only on accounting information; and</li>
-	<li>the consideration of non-accounting business-related information.</li></ul>
-<br><br>	
+	<li>the consideration of non-accounting business-related information.</li></ul><br>	
 Students will be able to develop knowledge and understanding of:
-<br><br>
+<br>
 <ul>
 <li>role of accountants and the ethical values desired in the people who prepare the information</li>
 <li>purpose of accounting as providing accounting information to support and facilitate decision-making</li>
@@ -144,7 +141,7 @@ Students will be able to develop knowledge and understanding of:
 <li>principles underlying accounting as a measurement system</li>
 <li>accounting information system and accounting cycle, and the double-entry recording method in maintaining records of business activities</li>
 <li>internal controls to ensure accuracy of information.</li>
-	</ul><br>  
+	</ul><br>
 Students will be able to develop the skills of:
 <br>
 <ul>
