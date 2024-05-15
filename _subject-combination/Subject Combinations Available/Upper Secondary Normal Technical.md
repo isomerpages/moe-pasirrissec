@@ -124,6 +124,7 @@ Go to the <a href="#">top</a>
 <label for="accordion2"><b>3N(T) Subject Combination for 2025</b></label><div>
 <p>	
 </p><h4>Pasir Ris Secondary School - Sec 3N(T) Subject Combination for 2025</h4>
+<br><br>
 <table border="1px solid black" style="width:50%">
   <tbody><tr>
     <th>Combination</th>
