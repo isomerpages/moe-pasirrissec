@@ -193,7 +193,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
     <th colspan="2"><h5>3 Normal Technical</h5></th>
   </tr>
  <tr>
-	 <td>1</td><td><a href="https://www.ite.edu.sg/courses/full-time-courses/nitec"> ITE (Nitec &amp; 3yr Higher Nitec)</a></td>
+	 <td>1</td><td><a href="https://www.ite.edu.sg/courses/full-time-courses/nitec">ITE (Nitec &amp; 3yr Higher Nitec)</a></td>
 </tr></tbody></table>	 
 <br>
 <h4>STEP 4: Select Subject Combinations which include the relevant elective subjects</h4>
