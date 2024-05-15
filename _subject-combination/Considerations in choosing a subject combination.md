@@ -146,8 +146,8 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 9. <a href="https://jpjc.moe.edu.sg/">JURONG PIONEER JUNIOR COLLEGE<br>
 			10. </a><a href="http://www.standrewsjc.moe.edu.sg/">ST. ANDREWS JUNIOR COLLEGE</a><br>
 11. <a href="http://www.temasekjc.moe.edu.sg/">TEMASEK JUNIOR COLLEGE</a><br>
-12. VICTORIA JUNIOR COLLEGE<br>
-13. YISHUN INNOVA JUNIOR COLLEGE<br>
+			12. <a href="https://victoriajc.moe.edu.sg/">VICTORIA JUNIOR COLLEGE</a><br>
+			13. <a href="https://yijc.moe.edu.sg/">YISHUN INNOVA JUNIOR COLLEGE</a><br>
 </td>
  </tr><tr>
     <td colspan="2">b) <a href="https://www.moe.gov.sg/coursefinder?journey=Polytechnics">Polytechnics</a></td>
