@@ -7,9 +7,8 @@ description: ""
 <ul class="jekyllcodex_accordion">
 
 <li><input type="checkbox" id="accordion1">  
-<label for="accordion1"><b>Upper Secondary Express</b></label><div>
+<label for="accordion1"><b>Introduction to Upper Secondary Subjects (Express)</b></label><div>
 <p>
-</p><h4><strong>Introduction to Upper Secondary Subjects (Express)</strong></h4>
 
 <a href="#section-1">Literature in English</a><br>
 <a href="#section-2">Humanities</a><br> 
@@ -22,7 +21,7 @@ description: ""
 <a href="#section-9">Art</a><br>
 <a href="#section-10">Design &amp; Technology</a>
 
-<h3 id="section-1">Literature in English</h3>
+</p><h3 id="section-1">Literature in English</h3>
 
 “Literature makes us better thinkers. It moves us to see the multi-sidedness of situations and therefore expands the breath of our own visions, moving us towards dreams and solutions we might not otherwise have imagined.” – Judith Langer, Envisioning Literature
 <br><br>
@@ -45,7 +44,7 @@ So why should your child take up Pure Literature?
 (To be upload soon)
 
 <br>
-Go to the <a href="#section-1">top</a>
+Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-2">Humanities</h3>
@@ -742,4 +741,13 @@ Design and Technology is a subject that aims to nurture children to possess impo
 </ul>	
 <br><br>	
 Go to the <a href="#section-1">top</a>
-<br></ol></ol></div></li></ul>
+<br></ol></ol>
+<p></p></div></li>
+	
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2"><b>Introduction to Upper Secondary Subjects (Express)</b></label><div>
+<p>
+</p><h4><strong>Introduction to Upper Secondary Subjects (Express)</strong></h4>
+
+
+</div></li></ul>
