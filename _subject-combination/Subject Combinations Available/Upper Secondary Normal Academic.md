@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Subject Combinations Available
 ---
+<ul class="jekyllcodex_accordion">
+	
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2"><b>Introduction to Upper Secondary Subjects (Normal Academic)</b></label><div>
 <p>
@@ -405,3 +407,4 @@ Go to the <a href="#">top</a>
 <br><br>
 * The allocation of subject combination will be based on students’ academic performance in EMSH1B2 (overall aggregate of English Language, Mathematics, Science, Best Humanities Subject and two other best subjects) and aptitude, subjected to the availability of school resources.&nbsp;Subject Combinations with less than 15 students may not be eventually implemented. To qualify for Combination C and D, students need to achieve a good pass in Sec 2 Maths.
 <p></p></div></li>
+</ul>
