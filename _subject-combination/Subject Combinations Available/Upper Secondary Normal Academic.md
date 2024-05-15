@@ -279,8 +279,8 @@ Design and Technology is a subject that aims to nurture children to possess impo
 <li>Develop curiosity and drive to seek out how things work in the real world.</li>   
 <li>Communicate confidently their design solutions through doodling and/or sketching and 3D manipulation of material.</li>
 <li>Develop strong critical and creative thinking by exploring many unusual and interesting ideas in response to a given design context and need.</li><ol>
+<br>	
 <b>Assessment Criteria for Design &amp; Technology [O-Level and N-Level]</b>
-	
 <br><br>
 (To be upload soon)
 <br><br>
@@ -309,7 +309,7 @@ Design and Technology is a subject that aims to nurture children to possess impo
   </tr>
 	</tbody></table>		
 <br>
-<b>These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology.</b>
+<b>These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology</b>
 <br>	
 <ul>
 <li>Applications Developer &amp; Engineer</li>
