@@ -94,7 +94,7 @@ Help your child/ward understand what post-secondary pathways available by using 
   </tr>
   <tr>
 		<td><b>1. PFP Option:</b></td>
-    <td>1 year Polytechnic Foundation Programme (PFP) before embarking on a 3 years diploma course<br><i>Pathway: PFP ( 1year) &gt; Polytechnic (3 years) &gt; University (3-4 years)</i></td>
+    <td>1 year Polytechnic Foundation Programme (PFP) before embarking on a 3 years diploma course<br><i>Pathway: PFP (1 year) &gt; Polytechnic (3 years) &gt; University (3-4 years)</i></td>
 		</tr>
 		 <tr>
 		<td><b>2. DPP Option:</b></td>
