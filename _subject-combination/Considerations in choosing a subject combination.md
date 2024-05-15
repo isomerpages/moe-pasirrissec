@@ -128,40 +128,70 @@ Help your child/ward understand what post-secondary pathways available by using 
 <br><br>	
 Identify the courses and find out the pre-requisite subjects that are compulsory for the post-secondary courses your child/ward is interested in.  Pre-requisite subjects refer to subjects that must have been taken at upper secondary level which are required for the post-secondary courses. For your convenience, we have curated the links to the relevant institutions below.
 <br><br>	
-<h5><b>3 Express</b></h5>
-	
-a) Junior Colleges &amp; Institute<br><br>
-<ol>
-	<li>ANDERSON SERANGOOON JUNIOR COLLEGE</li>
-	<li>ANGLO-CHINESE JUNIOR COLLEGE</li> 
-  <li>CATHOLIC JUNIOR COLLEGE</li>
-  <li>HWA CHONG INSTITUTION (JUNIOR COLLEGE)</li>
-  <li>TAMPINES MERIDIAN JUNIOR COLLEGE</li>
- <li>MILLENNIA INSTITUTE</li>
- <li>NANYANG JUNIOR COLLEGE</li>
- <li>NATIONAL JUNIOR COLLEGE</li>
- <li>JURONG PIONEER JUNIOR COLLEGE</li>
- <li>ST. ANDREWS JUNIOR COLLEGE</li>
- <li>TEMASEK JUNIOR COLLEGE</li>
- <li>VICTORIA JUNIOR COLLEGE</li>
-<li>YISHUN INNOVA JUNIOR COLLEGE</li>
-	</ol><br>
-b) Polytechnics<br>
-c) ITE (Higher Nitec)<br>
-d) NAFA<br>
-e) Lasalle<br>
-f) Polytechnic EAE<br>
-f) Junior College DSA<br>
-
-3 NA
-1. Polytechnic Foundation Programme (PFP)
-2. Direct Entry Scheme to Polytechnic Programme (DPP)
-3. Pasir Ris Secondary School 
-4. NAFA Foundation Programme (NFP)
-
-3NT
-
-1. ITE (Nitec &amp; 3yr Higher Nitec)
+<table border="1px solid black" style="width:100%">
+  <tbody><tr>
+    <th colspan="2"><h5><b>3 Express</b></h5></th>
+  </tr>
+  <tr>
+    <td>a) Junior Colleges &amp; Institute</td>
+		<td>1. ANDERSON SERANGOOON JUNIOR COLLEGE<br>
+2. ANGLO-CHINESE JUNIOR COLLEGE<br> 
+3. CATHOLIC JUNIOR COLLEGE<br>
+4. HWA CHONG INSTITUTION (JUNIOR COLLEGE)<br>
+5. TAMPINES MERIDIAN JUNIOR COLLEGE<br>
+6. MILLENNIA INSTITUTE<br>
+7. NANYANG JUNIOR COLLEGE<br>
+8. NATIONAL JUNIOR COLLEGE<br>
+9. JURONG PIONEER JUNIOR COLLEGE<br>
+10. ST. ANDREWS JUNIOR COLLEGE<br>
+11. TEMASEK JUNIOR COLLEGE<br>
+12. VICTORIA JUNIOR COLLEGE<br>
+13. YISHUN INNOVA JUNIOR COLLEGE<br>
+</td>
+ </tr><tr>
+    <td colspan="2">b) <a href="https://www.moe.gov.sg/coursefinder?journey=Polytechnics">Polytechnics</a></td>
+	  <td></td>
+		</tr><tr>	
+		<td colspan="2">c) <a href="https://www.ite.edu.sg/courses/full-time-courses/higher-nitec">ITE (Higher Nitec)</a></td>
+		</tr>
+		<tr>		
+	<td colspan="2">d) <a href="https://www.nafa.edu.sg/NAFA">NAFA</a></td>
+		</tr>
+		<tr>		
+	<td colspan="2">e) <a href="https://www.lasalle.edu.sg/Lasalle">Lasalle</a></td>
+		</tr>
+			<tr>		
+		<td colspan="2">f) <a href="https://www.moe.gov.sg/post-secondary/admissions/pol">Polytechnic EAE</a></td>
+		</tr>
+		<tr>		
+		<td colspan="2">g) <a href="https://www.moe.gov.sg/post-secondary/admissions/dsaJunior">Junior College DSA</a></td>
+		</tr>
+</tbody></table>
+<br>
+<table border="1px solid black" style="width:100%">
+  <tbody><tr>
+    <th colspan="2"><h5><b>3 Normal Academic</b></h5></th>
+  </tr>
+ <tr>
+    <td colspan="2">1.<a href="https://pfp.polytechnic.edu.sg/PFP/pfp\_introduction.html"> Polytechnic Foundation Programme (PFP)</a></td>
+		</tr><tr>		
+		<td colspan="2">2. <a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme">Direct Entry Scheme to Polytechnic Programme (DPP)</a></td>
+		</tr>
+		<tr>		
+		<td colspan="2">3. <a href="https://www.pasirissec.moe.edu.sg/">Pasir Ris Secondary School</a></td>
+		</tr>
+		<tr>		
+		<td colspan="2">4. <a href="https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/NAFA">Foundation Programme (NFP)</a></td>
+	</tr></tbody></table>
+<br><br>
+<table border="1px solid black" style="width:100%">
+  <tbody><tr>
+    <th colspan="2"><h5><b>3 Normal Technical</b></h5></th>
+  </tr>
+ <tr>
+    <td colspan="2">1. <a href="https://www.ite.edu.sg/courses/full-time-courses/nitec"> ITE (Nitec &amp; 3yr Higher Nitec)</a></td>
+</tr></tbody></table>	 
+<br><br>
 
 <h4><b>STEP 4: Select Subject Combinations which include the relevant elective subjects</b></h4>
 <br><br>
