@@ -4,7 +4,7 @@ permalink: /allocations-of-subject-combinations/
 variant: markdown
 description: ""
 ---
-#### **Guiding Principles for allocation of Subject Combinations**
+#### Guiding Principles for allocation of Subject Combinations
 
 **1.  Evidence of demonstrated aptitude and ability**
     
