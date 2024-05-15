@@ -37,7 +37,7 @@ description: ""
 
 <li><input type="checkbox" id="accordion7">
 <label for="accordion7"><b>What should I consider when choosing between combined Science and Pure Science subjects?</b></label>
-<div><p>Students are encouraged to opt for pure sciences if: <br><br></p></div></li><li>they would like to pursue science or science-related courses in the polytechnics or junior colleges.</li><li>they are considering Engineering or science-related careers.</li><li>they enjoy the depth and breadth of pure science subjects.<br><br>Students who are:<br><br></li><li>able to see relationship e.g., interpret data and graphs</li><li>focused, precise and detailed.</li><li>able to visualise and make connections to real-life applications.</li><p></p>
+<div><p>Students are encouraged to opt for pure sciences if: <br><br>i) they would like to pursue science or science-related courses in the polytechnics or junior colleges.<br> ii) they are considering Engineering or science-related careers.<br> iii) they enjoy the depth and breadth of pure science subjects.<br><br>Students who are:<br><br>i) able to see relationship e.g., interpret data and graphs<br>ii) focused, precise and detailed.<br>iii) able to visualise and make connections to real-life applications.</p></div></li><p></p>
 
 <li><input type="checkbox" id="accordion8">
 <label for="accordion8"><b>Will I be able to meet the requirements of polytechnic courses if I do not read O-Level pure sciences?</b></label><div><p>Students are required to take at least one science subject. Pure Sciences are not prerequisites to pursue polytechnic courses including Engineering / Life Science courses.</p></div></li>
