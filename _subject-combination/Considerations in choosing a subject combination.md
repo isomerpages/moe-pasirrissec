@@ -24,9 +24,9 @@ Students must meet the criteria for lateral transfer to be transferred to a more
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2"><b>A Guide to choosing Subject Combinations</b></label><div>
 <p>
-</p><h4><b>How to choose a subject combination?</b></h4>
+</p><h4>How to choose a subject combination?</h4>
 
-<h5><b>STEP 1: Explore interest areas and find out about your child’s aspirations</b></h5>
+<h5>STEP 1: Explore interest areas and find out about your child’s aspirations</h5>
 Discuss with your child/ward his/her interest areas and aspirations. The following resources would help your child understand herself/himself and gain an insight into the diverse range of careers and jobs available to you.
 <br><br>	
 <table border="1px solid black" style="width:100%">
@@ -52,7 +52,7 @@ Discuss with your child/ward his/her interest areas and aspirations. The followi
   </tr>
 	</tbody></table>	
 
-<h5><b>STEP 2: Identify the most appropriate post-secondary education pathway</b></h5>
+<h5>STEP 2: Identify the most appropriate post-secondary education pathway</h5>
 Once you have identified an interest area or career path which you would like to pursue, you can start to explore the various post-secondary education options &amp; pathways that are relevant. 
 <br><br>
 Help your child/ward understand what post-secondary pathways available by using the following resources:  
@@ -126,7 +126,8 @@ Help your child/ward understand what post-secondary pathways available by using 
 <br>
 <i>* New 3-Year Higher Nitec: ITE has introduced a new 3-year Higher Nitec full-time programme from Academic Year 2022. Streamlining the current Nitec and Higher Nitec curricula, this new option allows students to attain a Higher Nitec qualification directly, in only three years instead of the current four years. Normal (Academic) and Normal (Technical) students can apply for this new 3-year Higher Nitec programme.</i>
 <br><br>
-<h4><b>STEP 3: Identify Relevant Courses and their Pre-requisite Subjects in the selected pathway</b></h4>
+	
+<h4>STEP 3: Identify Relevant Courses and their Pre-requisite Subjects in the selected pathway</h4>
 Identify the courses and find out the pre-requisite subjects that are compulsory for the post-secondary courses your child/ward is interested in.  Pre-requisite subjects refer to subjects that must have been taken at upper secondary level which are required for the post-secondary courses. For your convenience, we have curated the links to the relevant institutions below.
 <br><br>	
 <table border="1px solid black" style="width:100%">
