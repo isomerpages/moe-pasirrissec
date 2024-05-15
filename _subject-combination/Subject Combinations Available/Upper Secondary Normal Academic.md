@@ -63,7 +63,7 @@ Students reading Elective History will only cover the following unit:
 <br>
 <ol><li>The Making of the 20th Century Modern World, 1910s–1991.</li></ol>	
 <br><br>
-Go to the<a href="#">top</a>
+Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-4">Elective Geography</h3>
