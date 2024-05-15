@@ -41,10 +41,9 @@ So why should your child take up Pure Literature?
 <li>Students explore texts that give them many opportunities to discuss and reassess their own values and beliefs. These act as a compass in life as they grow up.</li></ul>
 
 <b>Assessment Criteria for Literature in English</b>
-
+<br><br>
 (To be upload soon)
-
-<br>
+<br><br>
 Go to the <a href="#">top</a>
 <br>
 	
@@ -75,19 +74,19 @@ Express students may opt to read an additional Pure Humanities subject which is 
 
 <b><i>*only advisable for students strong in all 3 subjects; English, Geography and History, in lower secondary</i></b>
 	
-<br>
-Go to the <a href="#section-1">top</a><p></p>
-<br>
+<br><br>
+Go to the <a href="#">top</a><p></p>
+<br><br>
 	
 <h3 id="section-3">Social Studies</h3>
 
 Social Studies is the <b>compulsory</b> half of the Humanities subject.
 <br><br>
 At the heart of the Social Studies Curriculum is the preparation of students to be citizens of tomorrow by helping them to better understand the <b>interconnectedness of Singapore and the world they live in</b>, and appreciate <b>the complexities of the human world</b>. Drawing on aspects of society that are of meaning and interest to the students, Social Studies seeks to ignite students’ curiosity to <b>inquire into real-world issues that concern their lives</b>. Through inquiry and authentic learning experiences, Social Studies helps students to attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives. Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world they live in, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.
-
-<br>
-Go to the <a href="#section-1">top</a>
-<br>
+	
+<br><br>
+Go to the <a href="#">top</a>
+<br><br>
 	
 <h3 id="section-4">History</h3>
 
@@ -109,9 +108,9 @@ Students reading Elective History will only cover the following unit:
 <ol>
 <li>1.  The Making of the 20th Century Modern World, 1910s–1991.</li>
 	</ol>	
-<br>	
-Go to the <a href="#section-1">top</a>
 <br>
+Go to the <a href="#">top</a>
+<br><br>
 	
 <h3 id="section-5">Geography</h3>
 
@@ -124,7 +123,7 @@ Generally, in both Pure Geography and Elective Geography, students will be taugh
 	</li><li>organise and present geographic information in a coherent way</li>
 	<li>analyse, evaluate and synthesise geographical data to make informed and sound decisions.</li>
 	</ul>
-<br><br>
+<br>
 The objective is to develop an inquiring mind to seek answers to issues affecting our lives and the world we live in, and prepared students for their roles as informed citizens in the 21st century and most importantly, inculcate an awareness of appropriate attitudes and values that promotes a positive geographical future; one that ensures the sustainability of our resources, people, country, and planet.
 <br><br>
 Pure Geography students will cover the syllabus in greater depth, comprising all the following:
@@ -137,21 +136,21 @@ Pure Geography students will cover the syllabus in greater depth, comprising all
   </tr>
   <tr>
     <td>Topics</td>
-    <td>(1)Thinking Geographically<br>(2)Sustainable Development<br>(3)Geographical Methods </td>
+    <td>(1) Thinking Geographically<br>(2) Sustainable Development<br>(3) Geographical Methods </td>
   </tr><tr>
     <th>Cluster 2</th>
     <th>Tourism</th>
   </tr>
 		<tr>
  <td>Topics</td>
-    <td>(1)Tourism Activity<br>(2)Tourism Development<br>(3)Sustainable Tourism Development</td>
+    <td>(1) Tourism Activity<br>(2) Tourism Development<br>(3) Sustainable Tourism Development</td>
   </tr><tr>
     <th>Cluster 3</th>
     <th>Climate</th>
   </tr>
 		<tr>
  <td>Topics</td>
-    <td>(1)Weather and Climate<br>(2)Climate Change<br>(3)Climate Action</td>
+    <td>(1) Weather and Climate<br>(2) Climate Change<br>(3) Climate Action</td>
   </tr>	
 	<tr>
     <th>Cluster 4</th>
@@ -159,7 +158,7 @@ Pure Geography students will cover the syllabus in greater depth, comprising all
   </tr>
 	<tr>
  <td>Topics</td>
-    <td>(1)Plate Tectonics<br>(2) Earthquakes and Volcanoes<br>(3)Disaster Risk Management</td>
+    <td>(1) Plate Tectonics<br>(2) Earthquakes and Volcanoes<br>(3) Disaster Risk Management</td>
   </tr>
 			<tr>
     <th>Cluster 5</th>
@@ -167,17 +166,17 @@ Pure Geography students will cover the syllabus in greater depth, comprising all
   </tr>
 	<tr>
  <td>Topics</td>
-    <td>(1)Small Island City-State<br>(2)Opportunities and Challenges<br>(3)Sustainable and Resilient Singapore</td>
+    <td>(1) Small Island City-State<br>(2) Opportunities and Challenges<br>(3) Sustainable and Resilient Singapore</td>
   </tr>
 </tbody></table>		
-<br><br>
+<br>
 Students reading Elective Geography (O-Level) will NOT cover Clusters 4 and 5.
 <br><br>
 <b>Assessment Criteria for Humanities</b>
 <br><br>
 (To be upload soon)
 <br><br>
-Go to the <a href="#section-1">top</a>
+Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-6">Principles of Accounts</h3>
