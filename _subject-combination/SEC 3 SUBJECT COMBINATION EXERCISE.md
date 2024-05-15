@@ -21,26 +21,8 @@ educational institutions.&nbsp;</p>
 <p>This site pulls together various resources which would help you make a
 sound decision with regards to the subject combination to pursue and is
 organised in the following manner:&nbsp;</p>
-<ol>
-<li>
-<p>Considerations in choosing a subject combination&nbsp;</p>
-</li>
-<li>
-<p><a href="/list-of-subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">Subject combinations available at PRSS</a>
-</p>
-</li>
-<li>
-<p><a href="/allocations-of-subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">Allocation of Subject combinations</a>
-</p>
-</li>
-<li>
-<p><a href="/education-career-guidance/" rel="noopener noreferrer nofollow" target="_blank">Education Career Guidance</a>
-</p>
-</li>
-<li>
-<p><a href="/frequently-asked-questions/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>
-</p>
-</li>
-</ol>
-<p></p>
-<p></p>
+<ol><li><p><a href="/considerations-in-choosing-a-subject-combination/" rel="noopener noreferrer nofollow" target="_blank">Considerations in choosing a subject combination</a></p></li>
+<li><p><a href="/list-of-subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">Subject combinations available at PRSS</a></p></li>
+<li><p><a href="/allocations-of-subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">Allocation of Subject combinations</a></p></li>
+<li><p><a href="/education-career-guidance/" rel="noopener noreferrer nofollow" target="_blank">Education Career Guidance</a></p></li>
+<li><p><a href="/frequently-asked-questions/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a></p></li></ol>
