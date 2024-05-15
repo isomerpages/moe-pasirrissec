@@ -141,7 +141,7 @@ Go to the <a href="#">top</a>
 		<td>Mathematics</td>
 		<td>Computer Applications</td>
 		<td>Science</td>
-		<td>Art<br><b>or</b><br>Design Technology<b>or</b><br>Elements of Business Studies (EBS)</td>
+		<td>Art<br><b>or</b><br>Design Technology<br><b>or</b><br>Elements of Business Studies (EBS)</td>
   </tr>
 </tbody></table>		
 <br>
