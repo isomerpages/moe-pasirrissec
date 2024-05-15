@@ -59,7 +59,7 @@ Help your child/ward understand what post-secondary pathways available by using 
 <br><br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th colspan="2"><h5><b>I) Post Secondary Pathways &amp; Information (Express)</b></h5></th>
+    <th colspan="2"><h5>I) Post Secondary Pathways &amp; Information (Express)</h5></th>
   </tr>
   <tr>
 		<td><b>1</b></td><td><b>Junior College Option:</b></td>
