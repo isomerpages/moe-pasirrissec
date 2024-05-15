@@ -34,23 +34,26 @@ In addition, students will be exposed to a diverse range of local, regional and 
 | -------- | -------- | 
 | ITE Central School of Design and Media | Students are able to apply, pursue and build-up art and design related skills like Architectural Technology, Interior and Exhibition Design, Fashion Apparel Production &amp; Design, Video Production, Digital Animation, Product Design and Visual Communication. Students can further pursue their interests in related polytechnic or art school courses. <br>Students will have the advantage in applying their time-based project management skills to these courses. | 
 
-Go to the <a href="#section-1">top</a>
-
+<br>
+Go to the <a href="#">top</a>
+<br>
+	
 <h3 id="section-2">Design &amp; Technology</h3>
 
 Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
-
-1.  Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.   
-2.  Possess a caring heart and willing desire to improve the quality of life through thoughtful and practical design solutions.
-3.  Develop curiosity and drive to seek out how things work in the real world.    
-4.  Communicate confidently their design solutions through doodling and/or sketching and 3D manipulation of material.   
-5.  Develop strong critical and creative thinking by exploring many unusual and interesting ideas in response to a given design context and need.
-
-**Assessment Criteria for Design &amp; Technology**
-
+<br>
+<ul>	
+<li>Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.</li>   
+<li>Possess a caring heart and willing desire to improve the quality of life through thoughtful and practical design solutions.
+</li><li>Develop curiosity and drive to seek out how things work in the real world.</li>    
+<li>Communicate confidently their design solutions through doodling and/or sketching and 3D manipulation of material.</li>   
+<li>Develop strong critical and creative thinking by exploring many unusual and interesting ideas in response to a given design context and need.</li>
+</ul>
+<b>Assessment Criteria for Design &amp; Technology</b>
+<br><br>
 (To be upload soon)
-
-**Educational pathways for D&amp;T students who would like to pursue a career in related fields.**
+<br><br>
+<b>Educational pathways for D&amp;T students who would like to pursue a career in related fields.</b>
 
 | Name of courses/ programme | What the course/programme entails | 
 | -------- | -------- |
@@ -59,53 +62,61 @@ Design and Technology is a subject that aims to nurture children to possess impo
 | Diploma in Product Design &amp; Industrial Design | Students will work in diverse fields such as consumer electronics, medical products, furniture design, packaging design, transportation design, product merchandising, object/craft design and more. |
 | Interior Design, BA (Hons) from SIT<br>BS (Architecture and Sustainable Design) from SUTD<br>BA (Industrial Design) (Hons) from NUS<br>Bachelor of Fine Arts in Product Design from NTU | Most of the courses are 4-year undergraduate honours programmes. They adopted a 3-pronged approach: <br><br>1.  Design Thinking: Out-of-box innovation strategies and investigative methods are used to discover new ideas and unmet needs.<br><br>2.  Multi-Disciplinary Aptitudes: behavioural sciences, social economics, business strategy, engineering and technology knowledge develop entrepreneurial strategic thinking and holistic problem solving skills.<br><br>3.  Artistic sensibility: training of imagination, taste and craft-like ability to give pleasing and appropriate aesthetics and emotion to ideas, through traditional and 2D/3D digital means, so that solutions are both functional and desirable. |
 
-**These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology**
-
-* Applications Developer &amp; Engineer
-* Design / Electronics / Chemical / Mechanical Engineers
-* Equipment Research &amp; Design Engineer
-* Systems Designers / Analysts
-* Architectural Drafters / 3D Animators
-* Brand / Packaging designers 
-
-Go to the <a href="#section-1">top</a>
-
+<br><br>
+<b>These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology</b>
+<br>
+<ul>
+<li>Applications Developer &amp; Engineer</li>
+<li>Design / Electronics / Chemical / Mechanical Engineers</li>
+<li>Equipment Research &amp; Design Engineer</li>
+<li>Systems Designers / Analysts</li>
+<li>Architectural Drafters / 3D Animators</li>
+<li>Brand / Packaging designers</li> 
+</ul>
+<br>
+Go to the <a href="#">top</a>
+<br>
+	
 <h3 id="section-3">Elements of Business Skills</h3>
 
 This subject is an introduction to business through an understanding of business activities, focusing on basic marketing and customer relations, in the context of Singapore. The subject intends to provide students with opportunities to develop transferable employability skills and knowledge in the service industry, namely the Travel and Tourism, Hospitality, and Retail industries, which continue to offer employment opportunities accessible to the students.
-
+<br><br>
 The subject provides students with the foundational knowledge and skills for further studies in institutes of higher learning and the awareness of prospects of a career in the service industry. In the Elements of Business Skills (EBS) syllabus framework shown below, the basic concepts of marketing and customer relations are at the core of the EBS syllabus. The middle ring represents the outcomes of the syllabus, namely foundational business knowledge, decision-making skills and an enterprising mindset. The outer ring defines the scope of the syllabus within the Travel and Tourism, Hospitality, and Retail industries.
-
-**FEATURES OF THE CURRICULUM**
-
-**1. Foundational business knowledge**
-
+<br><br>
+<b>FEATURES OF THE CURRICULUM</b>
+<br>
+<ol>
+<li><b>Foundational business knowledge</b></li>
+	
 The foundational business knowledge includes the knowledge and understanding of the three units of the syllabus: Understanding business activities, Basic marketing and Customer relations.
-
-**Unit 1:** Understanding business activities This unit helps students to understand the purpose of a business and the various types of businesses in the Travel and Tourism, Hospitality, and Retail industries. Impact of competition and trends on the businesses, and careers in these industries, are also examined to develop an understanding of the challenges and opportunities presented.
-
-**Unit 2:** Understanding basic marketing This unit helps students to understand the basics of marketing and how businesses meet the needs and wants of customers. This includes the use of market survey to gather information about target customers, and the marketing process to reach out to them.
-
-**Unit 3:** Understanding customer relations This unit helps students to understand the need to provide quality service to customers and the importance of effective communication in building customer relations. Students will learn how to provide customer service in different interactions with customers.
-
-**Unit 4:** Business investigation This unit helps students to understand the process and skills needed to carry out an investigation for a business to improve its marketing mix so as to enhance its customers’ experience. Students will select, interpret, analyse and evaluate information and apply business knowledge to propose innovative and reasoned recommendation.
-
-**2. Enterprising mindset**
-
+<br><br>
+<b>Unit 1:</b> Understanding business activities This unit helps students to understand the purpose of a business and the various types of businesses in the Travel and Tourism, Hospitality, and Retail industries. Impact of competition and trends on the businesses, and careers in these industries, are also examined to develop an understanding of the challenges and opportunities presented.
+<br><br>	
+<b>Unit 2:</b>Understanding basic marketing This unit helps students to understand the basics of marketing and how businesses meet the needs and wants of customers. This includes the use of market survey to gather information about target customers, and the marketing process to reach out to them.
+<br><br>	
+<b>Unit 3:</b>Understanding customer relations This unit helps students to understand the need to provide quality service to customers and the importance of effective communication in building customer relations. Students will learn how to provide customer service in different interactions with customers.
+<br><br>	
+<b>Unit 4:</b> Business investigation This unit helps students to understand the process and skills needed to carry out an investigation for a business to improve its marketing mix so as to enhance its customers’ experience. Students will select, interpret, analyse and evaluate information and apply business knowledge to propose innovative and reasoned recommendation.
+<br><br>	
+	<li><b>Enterprising mindset</b></li>
+<br>
 The landscape of business is constantly evolving due to economic, demographic and technological change. Having an enterprising mindset prepares students for an evolving employment landscape, where employees are expected to seek continuous improvement to meet new challenges and demands. The ability to propose better ways of marketing and how to improve customer relations help to add value to a business. The disposition and mindset to contribute and improve oneself help to develop students as active contributors to society.
-
-**3. Decision-making skills**
-
+<br><br>	
+<li><b>3. Decision-making skills</b></li>
+<br>
 Businesses and their employees have to make decisions on marketing and customer relations to grow the business. The syllabus provides opportunities for students to learn the process of gathering the information necessary to make a reasoned recommendation, so as to enhance the customer experience for a real-world business. Sound decision-making skills are transferable and beneficial to students’ future area of study and work.
-
-**4. 21st Century Competencies**
-
+<br><br>	
+<li><b>4. 21st Century Competencies</b></li>
+<br>
 The syllabus is aligned to the 21st Century Competencies framework. Students will develop an awareness of the business landscape in Singapore, and the need to innovate to embrace the opportunities and challenges posed by changing customers’ expectations and technological advancement. This awareness will help students to be more effective in contributing to society when they join the workforce. A deeper understanding of the needs and wants of different people will help students to develop social cultural awareness, and the skills to work collaboratively with people from diverse backgrounds. Learning how to communicate with customers will help students to apply communication skills in an authentic setting.
-
+<br><br>
 The skills in business investigation will enable students to connect business concepts and content with real world contexts. The fostering of an enterprising mindset in the business investigation process provides opportunities for students to think critically and to develop well-reasoned decisions about how to improve an authentic business. The students will also learn to manage and use information responsibly to aid their business investigation, which will serve them well in their future study and work.
-
-**ASSESSMENT MODE:**
-
+<br><br>
+<b>ASSESSMENT MODE:</b>
+<br><br>
 (To be upload soon)
-
-Go to the <a href="#section-1">top</a></div></li></ul>
+<br><br>
+Go to the <a href="#">top</a>
+<br>	
+<p></p></ol></div></li>
+</ul>
