@@ -140,12 +140,12 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 			3. <a href="https://cjc.moe.edu.sg/">CATHOLIC JUNIOR COLLEGE</a><br>
 			4. <a href="http://www.hwachong.edu.sg/">HWA CHONG INSTITUTION (JUNIOR COLLEGE)</a><br>
 			5. <a href="https://tmjc.moe.edu.sg/">TAMPINES MERIDIAN JUNIOR COLLEGE</a><br>
-6. MILLENNIA INSTITUTE<br>
-7. NANYANG JUNIOR COLLEGE<br>
-8. NATIONAL JUNIOR COLLEGE<br>
-9. JURONG PIONEER JUNIOR COLLEGE<br>
-10. ST. ANDREWS JUNIOR COLLEGE<br>
-11. TEMASEK JUNIOR COLLEGE<br>
+			6. <a href="http://www.millenniainstitute.moe.edu.sg/">MILLENNIA INSTITUTE</a><br>
+			7. <a href="http://nanyangjc.moe.edu.sg/">NANYANG JUNIOR COLLEGE</a><br>
+			8. <a href="http://nationaljc.moe.edu.sg/">NATIONAL JUNIOR COLLEGE</a><br>
+9. <a href="https://jpjc.moe.edu.sg/">JURONG PIONEER JUNIOR COLLEGE<br>
+			10. </a><a href="http://www.standrewsjc.moe.edu.sg/">ST. ANDREWS JUNIOR COLLEGE</a><br>
+11. <a href="http://www.temasekjc.moe.edu.sg/">TEMASEK JUNIOR COLLEGE</a><br>
 12. VICTORIA JUNIOR COLLEGE<br>
 13. YISHUN INNOVA JUNIOR COLLEGE<br>
 </td>
