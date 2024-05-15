@@ -39,43 +39,56 @@ Discuss with your child/ward his/her interest areas and aspirations. The followi
     <td><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html">My Skillsfuture Portal</a></td>
     <td>A one-stop platform to help your child understand herself/himself, interests and strengths. Your child can also explore various education and career pathways.</td>
   </tr>
-	  <tr>
-    <td>Topics</td>
-    <td></td>
-    <td></td>
+	<tr>
+  <td><a href="https://discover.nyc.gov.sg/Day-in-the-LifeDay"> Day in the Life (nyc.gov.sg)</a></td>
+    <td>A website to check out bite-sized videos and information about the day in the life of more than 80 professionals.</td>
+  </tr>
+		<tr><td>On my way, Know it all<br> <a href="https://discover.nyc.gov.sg/"> Home (nyc.gov.sg)</a>
+				</td>
+      <td>Lesser known facts, handy tips and answers to common questions about Careers in Singapore. This is a chance to explore the growing list of job roles in Singapore, to get an in-depth idea of what different jobs entail.</td>
+  </tr>
+			<tr><td><a href="(https://www.moe.gov.sg/post-secondary/admissions/jae">MOE Joint Admissions Exercise (JAE) </a>
+				</td>
+      <td></td>
   </tr>
 	</tbody></table>	
 
-Resource
-Brief Description
-My Skillsfuture Portal:(https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html)
-A one-stop platform to understand yourself, interests and strengths. You can also explore various education and career pathways.
-Day in the Life Day in the Life (nyc.gov.sg)
-A website to check out bite-sized videos and information about the day in the life of more than 80 professionals.
-On my way, Know it all Home (nyc.gov.sg)
-Lesser known facts, handy tips and answers to common questions about Careers in Singapore. This is a chance to explore the growing list of job roles in Singapore, to get an in-depth idea of what different jobs entail.
-Joint Admissions Exercise (JAE) | MOE
-
 <b>STEP 2: Identify the most appropriate post-secondary education pathway</b>
-
+<br><br>
 Once you have identified an interest area or career path which you would like to pursue, you can start to explore the various post-secondary education options &amp; pathways that are relevant. 
+<br><br>
 Help your child/ward understand what post-secondary pathways available by using the following resources:  
+<br><br>
+<h5><b>I) Post Secondary Pathways &amp; Information (Express)</b></h5>
+<br>
+<table border="1px solid black" style="width:100%">
+  <tbody><tr>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+		<td><b>1. Junior College Option:</b></td>
+    <td>2-3 years in a Junior college or Millenia Institute towards an A-levels certification <br><i> Pathway: Junior College &amp; Institute&nbsp; (2-3 years) &gt; University (3-4 years)</i></td>
+		</tr>
+		<tr>
+		<td><b>2. Polytechnic Option:</b></td>
+   <td>3 years in a Polytechnic towards a specialised Diploma <br><i>Pathway: Polytechnic (3yrs) &gt; University (3-4yrs)</i></td>
+		</tr>
+		<tr>
+			<td><b>3. Institute of Technical Education (ITE) Option:</b></td>
+   <td>2 years in ITE towards a Higher Nitec Certification <br><i>Pathway: ITE Higher Nitec (2 years) &gt; Polytechnic (3 years)  &gt; University (3-4 years)</i></td>
+		</tr>
+	<tr>
+		<td><b>4. Nanyang Academy of Fine Arts (NAFA) Option:</b></td>
+   <td>3 years in NAFA towards an Arts, Media or related Diploma <br><i>Pathway: Laselle or NAFA Diploma Programme (3 years) &gt; NAFA Degree Programme (3-4 years)</i></td>
+	</tr>
+		<tr>
+			<td><b>6. Polytechnic Early Admission Exercise Option:</b></td>
+   <td>3 years in a Polytechnic towards a specialised Diploma<br><i>Pathway: Polytechnic (3yrs) &gt; University (3-4yrs)</i></td>
+	</tr>
+		<tr>
+	</tr></tbody></table>
 
-**I) Post Secondary Pathways &amp; Information (Express)**
-<ul>
-	1. <b>Junior College Option:</b> 2-3 years in a Junior college or Millenia Institute towards an A-levels certification
-Pathway: Junior College &amp; Institute  (2-3 years) &gt;University (3-4 years)<br><br>
-	2. <b>Polytechnic Option:</b> 3 years in a Polytechnic towards a specialised Diploma
-Pathway: Polytechnic (3yrs) &gt; University (3-4yrs)<br><br>
-	3. <b>Institute of Technical Education (ITE) Option:</b> 2 years in ITE towards a Higher Nitec Certification
-Pathway: ITE Higher Nitec (2 years) &gt; Polytechnic (3 years)  &gt; University (3-4 years)<br><br>
-	4. <b>Nanyang Academy of Fine Arts (NAFA) Option:</b> 3 years in NAFA towards an Arts, Media or related Diploma
-Pathway: Laselle or NAFA Diploma Programme (3 years) &gt; NAFA Degree Programme (3-4 years)<br><br>
-	5. <b>Laselle Option:</b> 3 years in Laselle towards an Arts, Media or related Diploma
-Pathway: Laselle Diploma Programme (3yrs) &gt; Laselle Degree Programme (3-4 years)<br><br>
-	6. <b>Polytechnic Early Admission Exercise Option:</b> 3 years in a Polytechnic towards a specialised Diploma
-Pathway: Polytechnic (3yrs) &gt; University (3-4yrs) 
-</ul>
 
 **II) Post Secondary Pathways &amp; Information (NA)**
 	
