@@ -417,4 +417,12 @@ Design and Technology is a subject that aims to nurture children to possess impo
 Go to the <a href="#section-1">top</a>
 <br><br>
 
-<p></p></div></li></ul>
+<p></p></div></li>
+	
+<li><input type="checkbox" id="accordion1">  
+<label for="accordion1"><b>3E Subject Combinations for 2025</b></label><div>
+<p>
+	
+	
+</p></div></li>
+</ul>
