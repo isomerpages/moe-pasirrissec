@@ -77,7 +77,7 @@ Go to the<a href="#">top</a>
 The objective is to develop an inquiring mind to seek answers to issues affecting our lives and the world we live in, and prepared students for their roles as informed citizens in the 21st century and most importantly, inculcate an awareness of appropriate attitudes and values that promotes a positive geographical future; one that ensures the sustainability of our resources, people, country, and planet.
 <br><br>	
 Geography students will cover the syllabus as follows:
-<br>
+<br><br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Cluster 1</th>
@@ -97,7 +97,7 @@ Geography students will cover the syllabus as follows:
     <td></td>
   </tr>
 	</tbody></table>	
-	
+<br>	
 <b>Assessment Criteria for Humanities</b>
 <br><br>
 We offer Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compulsory for ALL Express and Normal (Academic) students. The following table shows a summary of the N(A)-Level Assessment components.
@@ -124,9 +124,9 @@ Students will be able to understand
 <li>what business decisions are</li>
 <li>how decisions are made using accounting information</li>
 <li>the limitations of relying only on accounting information; and</li>
-	<li>the consideration of non-accounting business-related information.</li></ul><br>	
+	<li>the consideration of non-accounting business-related information.</li>
+</ul><br>
 Students will be able to develop knowledge and understanding of:
-<br>
 <ul>
 <li>role of accountants and the ethical values desired in the people who prepare the information</li>
 <li>purpose of accounting as providing accounting information to support and facilitate decision-making</li>
@@ -139,7 +139,6 @@ Students will be able to develop knowledge and understanding of:
 <li>internal controls to ensure accuracy of information.</li>
 	</ul><br>
 Students will be able to develop the skills of:
-<br>
 <ul>
 <li>applying the double entry system of recording business transactions</li>
 <li>synthesis and presentation skills in the preparation of accounting information in a suitable form</li>
@@ -175,7 +174,7 @@ The N(A)-Level Additional Mathematics syllabus aims to enable students who have 
 <li>acquire mathematical concepts and skills for higher studies in mathematics and to support learning in the other subjects, with emphasis in the sciences, but not limited to the sciences;</li>
 <li>develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem-solving;</li>
 <li>connect ideas within mathematics and between mathematics and the sciences through applications of mathematics; and appreciate the abstract nature and power of mathematics.</li>
-</ul><br>   
+</ul> 
 The table below shows the difference between Mathematics and Additional Mathematics:
 <br><br>
 <table border="1px solid black" style="width:100%">
@@ -196,10 +195,11 @@ The table below shows the difference between Mathematics and Additional Mathemat
     <td>Build on the foundation in Sec 2 Mathematics<br>Proficiency in Algebra is essential and important </td>
   </tr>
 		</tbody></table>
+<br>
 <b>Requirements to take up Additional Mathematics at Sec 3:</b>
 <ul>
 	<li>Good performance in marks</li>
-		<li>NA: A good pass in N(A) Mathematics</li>
+			<li>NA: A good pass in N(A) Mathematics</li>
 	<li>Algebra proficiency</li>
   <li>Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential</li></ul>
 <br>    
@@ -239,7 +239,7 @@ In addition, students will be exposed to a diverse range of local, regional and 
 (To be upload soon)
 <br><br>
 <b>Educational pathways for students who would like to pursue a career in Art.</b>
-<br>
+<br><br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Name of courses/ programme</th>
@@ -279,14 +279,13 @@ Design and Technology is a subject that aims to nurture children to possess impo
 <li>Develop curiosity and drive to seek out how things work in the real world.</li>   
 <li>Communicate confidently their design solutions through doodling and/or sketching and 3D manipulation of material.</li>
 <li>Develop strong critical and creative thinking by exploring many unusual and interesting ideas in response to a given design context and need.</li><ol>
-<br>    
 <b>Assessment Criteria for Design &amp; Technology [O-Level and N-Level]</b>
 	
 <br><br>
 (To be upload soon)
 <br><br>
 <b>Educational pathways for D&amp;T students who would like to pursue a career in related fields.</b>
-<br>	
+<br><br>	
 	<table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Name of courses/ programme</th>
