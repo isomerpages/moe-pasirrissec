@@ -331,6 +331,9 @@ Design and Technology is a subject that aims to nurture children to possess impo
 <br>
 Go to the <a href="#">top</a>
 <br>
-<p></p></ul></ol></ol></div></li>	
+<p></p></ul></ol></ol></div></li>
 
-	
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2"><b>Introduction to Upper Secondary Subjects (Normal Academic)</b></label><div>
+<p>
+</p></div></li>
