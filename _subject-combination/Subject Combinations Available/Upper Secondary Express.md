@@ -10,7 +10,6 @@ third_nav_title: Subject Combinations Available
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1"><b>Introduction to Upper Secondary Subjects (Express)</b></label><div>
 <p>
-
 <a href="#section-1">Literature in English</a><br>
 <a href="#section-2">Humanities</a><br> 
 <a href="#section-3">Social Studies</a><br>
