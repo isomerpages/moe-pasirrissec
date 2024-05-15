@@ -27,9 +27,8 @@ Students must meet the criteria for lateral transfer to be transferred to a more
 </p><h4><b>How to choose a subject combination?</b></h4>
 
 <h5><b>STEP 1: Explore interest areas and find out about your child’s aspirations</b></h5>
-<br><br>
 Discuss with your child/ward his/her interest areas and aspirations. The following resources would help you discover about yourself and gain an insight into the diverse range of careers and jobs available to you. 
-<br>	
+<br><br>	
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Resource</th>
@@ -54,7 +53,6 @@ Discuss with your child/ward his/her interest areas and aspirations. The followi
 	</tbody></table>	
 
 <h5><b>STEP 2: Identify the most appropriate post-secondary education pathway</b></h5>
-<br><br>
 Once you have identified an interest area or career path which you would like to pursue, you can start to explore the various post-secondary education options &amp; pathways that are relevant. 
 <br><br>
 Help your child/ward understand what post-secondary pathways available by using the following resources:  
@@ -121,11 +119,10 @@ Help your child/ward understand what post-secondary pathways available by using 
     <td>3 years in ITE towards a Higher Nitec Certification<br><i>Pathway: ITE Higher Nitec (3 years) &gt; Polytechnic (3 years)  &gt; University (3-4 years)</i></td>
 		</tr>	
 	</tbody></table>
-
+<br>
 <i>* New 3-Year Higher Nitec: ITE has introduced a new 3-year Higher Nitec full-time programme from Academic Year 2022. Streamlining the current Nitec and Higher Nitec curricula, this new option allows students to attain a Higher Nitec qualification directly, in only three years instead of the current four years. Normal (Academic) and Normal (Technical) students can apply for this new 3-year Higher Nitec programme.</i>
 <br><br>
 <h4><b>STEP 3: Identify Relevant Courses and their Pre-requisite Subjects in the selected pathway</b></h4>
-<br><br>	
 Identify the courses and find out the pre-requisite subjects that are compulsory for the post-secondary courses your child/ward is interested in.  Pre-requisite subjects refer to subjects that must have been taken at upper secondary level which are required for the post-secondary courses. For your convenience, we have curated the links to the relevant institutions below.
 <br><br>	
 <table border="1px solid black" style="width:100%">
@@ -183,7 +180,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 		<tr>		
 		<td colspan="2">4. <a href="https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/NAFA">Foundation Programme (NFP)</a></td>
 	</tr></tbody></table>
-<br><br>
+<br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th colspan="2"><h5><b>3 Normal Technical</b></h5></th>
@@ -194,7 +191,6 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 <br><br>
 
 <h4><b>STEP 4: Select Subject Combinations which include the relevant elective subjects</b></h4>
-<br><br>
 At upper secondary level, your child/ward will have to offer a set of compulsory subjects. In addition to these, your child/ward may choose between 1-3 elective subjects. Based on the courses and prerequisite subjects shortlisted in Step 3, identify the relevant Subject Combinations.  You can click the links below to view the Subject Combinations available and find out more about the subjects.
 <br><br>
 3 Express Subject Combinations for 2025
@@ -205,7 +201,6 @@ At upper secondary level, your child/ward will have to offer a set of compulsory
 3 Normal Technical Subjects
 <br><br>
 	<h4><b>STEP 5: Submit online application (Links to be created nearer to the exercise)</b></h4>
-<br><br>
 a) View instructions for online subject combination selection here. Submit your four subject combination options here.<br><br>
 b) Parents need to acknowledge, by submitting a signed copy of the selected subject combinations here or via the QR code by Nov 2023
 <p></p></div></li></ul>
