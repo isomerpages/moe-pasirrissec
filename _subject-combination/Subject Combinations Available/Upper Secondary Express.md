@@ -423,7 +423,7 @@ Go to the <a href="#section-1">top</a>
 <label for="accordion2"><b>3E Subject Combinations for 2025</b></label><div>
 <p>
 </p><h5><b>Pasir Ris Secondary School - Sec 3E Subject Combinations for 2025</b></h5><br>	
-<table border="1px solid black" style="width:100%">
+<table border="1px solid black" style="width:50%">
   <tbody><tr>
     <th>Option</th>
     <th>1</th>
