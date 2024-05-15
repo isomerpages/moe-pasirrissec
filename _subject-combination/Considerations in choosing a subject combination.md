@@ -132,7 +132,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 <br><br>	
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th colspan="2"><h5><b>3 Express</b></h5></th>
+    <th colspan="2"><h5>3 Express</h5></th>
   </tr>
   <tr>
     <td>a) Junior Colleges &amp; Institute</td>
@@ -172,41 +172,40 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 <br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th colspan="2"><h5><b>3 Normal Academic</b></h5></th>
+    <th colspan="2"><h5>3 Normal Academic</h5></th>
   </tr>
  <tr>
-    <td colspan="2">1.<a href="https://pfp.polytechnic.edu.sg/PFP/pfp\_introduction.html"> Polytechnic Foundation Programme (PFP)</a></td>
+	 <td>1</td>
+	 <td><a href="https://pfp.polytechnic.edu.sg/PFP/pfp\_introduction.html"> Polytechnic Foundation Programme (PFP)</a></td>
 		</tr><tr>		
-		<td colspan="2">2. <a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme">Direct Entry Scheme to Polytechnic Programme (DPP)</a></td>
+		<td>2</td>
+		<td><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme">Direct Entry Scheme to Polytechnic Programme (DPP)</a></td>
 		</tr>
 		<tr>		
-		<td colspan="2">3. <a href="https://www.pasirissec.moe.edu.sg/">Pasir Ris Secondary School</a></td>
+			<td>3</td><td><a href="https://www.pasirissec.moe.edu.sg/">Pasir Ris Secondary School</a></td>
 		</tr>
 		<tr>		
-		<td colspan="2">4. <a href="https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/NAFA">Foundation Programme (NFP)</a></td>
+		<td>4</td><td><a href="https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/NAFA">Foundation Programme (NFP)</a></td>
 	</tr></tbody></table>
 <br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th colspan="2"><h5><b>3 Normal Technical</b></h5></th>
+    <th colspan="2"><h5>3 Normal Technical</h5></th>
   </tr>
  <tr>
-    <td colspan="2">1. <a href="https://www.ite.edu.sg/courses/full-time-courses/nitec"> ITE (Nitec &amp; 3yr Higher Nitec)</a></td>
+	 <td>1</td><td><a href="https://www.ite.edu.sg/courses/full-time-courses/nitec"> ITE (Nitec &amp; 3yr Higher Nitec)</a></td>
 </tr></tbody></table>	 
-<br><br>
-
+<br>
 <h4>STEP 4: Select Subject Combinations which include the relevant elective subjects</h4>
 At upper secondary level, your child/ward will have to offer a set of compulsory subjects. In addition to these, your child/ward may choose between 1-3 elective subjects. Based on the courses and prerequisite subjects shortlisted in Step 3, identify the relevant Subject Combinations.  You can click the links below to view the Subject Combinations available and find out more about the subjects.
 <br><br>
-
 <a href="/upper-secondary-express/">3 Express Subjects</a><br>
-	<a href="/upper-secondary-normal-academic/">3 Normal Academic Subjects</a><br>
-3 Normal Technical Subjects<br>
+<a href="/upper-secondary-normal-academic/">3 Normal Academic Subjects</a><br>
+<a href="/upper-secondary-normal-technical/">3 Normal Technical Subjects</a><br>
 <a href="/upper-secondary-express/">3 Express Subject Combinations for 2025</a><br>
-	<a href="/upper-secondary-normal-academic/">3 Normal Academic Combinations for 2025</a><br>
-3 Normal Technical Combinations for 2025<br>
-<br><br>
-	
+<a href="/upper-secondary-normal-academic/">3 Normal Academic Combinations for 2025</a><br>
+<a href="/upper-secondary-normal-technical/">3 Normal Technical Combinations for 2025</a>
+<br>
 <h4>STEP 5: Submit online application (Links to be created nearer to the exercise)</h4>
 a) View instructions for online subject combination selection here. Submit your four subject combination options here.<br><br>
 b) Parents need to acknowledge, by submitting a signed copy of the selected subject combinations here or via the QR code by Nov 2023
