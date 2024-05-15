@@ -9,11 +9,11 @@ description: ""
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1"><b>MOE Promotion Criteria</b></label><div>
 <p>
-</p><h5><b>MOE Promotion Criteria</b></h5>
+</p><h5>MOE Promotion Criteria</h5>
 All students must meet the promotion criteria to be promoted to Secondary 3 in order to take part in the Subject Combination Exercise.
 <br><br>
 (To be upload soon)	
-<h5><b>MOE Criteria for Lateral Transfer to a more demanding stream</b></h5>
+<h5>MOE Criteria for Lateral Transfer to a more demanding stream</h5>
 
 Students must meet the criteria for lateral transfer to be transferred to a more demanding stream.
 <br><br>
