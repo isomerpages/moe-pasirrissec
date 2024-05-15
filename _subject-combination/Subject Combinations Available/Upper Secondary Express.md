@@ -76,7 +76,7 @@ Express students may opt to read an additional Pure Humanities subject which is 
 	
 <br><br>
 Go to the <a href="#">top</a><p></p>
-<br><br>
+<br>
 	
 <h3 id="section-3">Social Studies</h3>
 
@@ -86,7 +86,7 @@ At the heart of the Social Studies Curriculum is the preparation of students to 
 	
 <br><br>
 Go to the <a href="#">top</a>
-<br><br>
+<br>
 	
 <h3 id="section-4">History</h3>
 
@@ -110,7 +110,7 @@ Students reading Elective History will only cover the following unit:
 	</ol>	
 <br>
 Go to the <a href="#">top</a>
-<br><br>
+<br>
 	
 <h3 id="section-5">Geography</h3>
 
@@ -238,8 +238,8 @@ Diploma International Logistic and Supply Chain Management<br>
 <br><br>
 (To be upload soon)
 <br><br>
-Go to the <a href="#section-1">top</a>
-
+Go to the <a href="#">top</a>
+<br>
 <h3 id="section-7">Additional Mathematics</h3>
 
 The syllabus prepares students adequately for A-Level H2 Mathematics, where a strong foundation in algebraic manipulation skills and mathematical reasoning skills are required. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strands, important mathematical processes such as reasoning, communication and application (including the use of models) are also emphasised and assessed. The O-Level Additional Mathematics syllabus assumes knowledge of O-Level Mathematics
@@ -302,7 +302,8 @@ The table below shows the difference between Mathematics and Additional Mathemat
 (To be upload soon)
 <br><br>
 Go to the <a href="#">top</a>
-
+<br>
+	
 <h3 id="section-8">Sciences</h3>
 
 We offer Pure Sciences [Physics, Chemistry, Biology] and Combined Science [Science (Physics, Chemistry) and Science (Chemistry, Biology)]. The following table shows a summary of the O-Level Assessment criteria.
@@ -316,7 +317,7 @@ We would like to encourage our students to take Physics and Chemistry or Science
 Students should consider their learning ability, interest and aspiration when choosing subjects. It is important for students to do well in the Sciences if he/she wishes to qualify for a Science Course in JC. Although the Pure Sciences give students a strong foundation in the learning of science, they are not a prerequisite to any of the science-related courses in the polytechnics. It is useful to note that courses such as applied sciences, engineering and media and design in the polytechnics require Science as a relevant subject, but these need not be Pure Sciences.
 <br><br>
 Go to the <a href="#">top</a>
-<br><br>
+<br>
 	
 <h3 id="section-9">Art</h3>
 
@@ -361,7 +362,7 @@ In addition, students will be exposed to a diverse range of local, regional and 
 	</tbody></table>
 <br><br>
 Go to the <a href="#">top</a>
-<br><br>
+<br>
 	
 <h3 id="section-10">Design &amp; Technology</h3>
 
