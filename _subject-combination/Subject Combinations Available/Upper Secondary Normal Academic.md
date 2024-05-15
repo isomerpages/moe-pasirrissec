@@ -149,9 +149,9 @@ Students will be able to develop the skills of:
 <li>synthesis and presentation skills in the preparation of accounting information in a suitable form</li>
 <li>analytical skill in interpreting financial statements and analysing the effects of business transactions and accounting adjustments on financial statements</li>
 <li>evaluative skill in evaluating businesses for their profitability, liquidity and efficiency of inventory and trade receivables management using financial information and ratios</li><li>decision-making skill in evaluating choices using both accounting and non-accounting information.</li>
-</ul><br>
+</ul>
 <b>Relevant Courses in Poly</b>
-<br>
+<br><br>
 Diploma in Accountancy<br>
 Diploma in International Business<br>
 Diploma in Bank and Finance<br>
@@ -160,11 +160,9 @@ Diploma in Business Information Technology<br>
 Diploma in Tourism and Resort Management<br>
 Diploma International Logistic and Supply Chain Management
 <br><br>
-	
 <b>Assessment Criteria for POA</b>
 <br><br>
 (To be upload soon)
-	
 <br><br>
 Go to the <a href="#">top</a>
 <br>
@@ -225,8 +223,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
 </ul>
 	<b>Assessment Criteria for Additional Mathematics for Normal Academic</b>
 <br><br>	
-(To be upload soon)
-	
+(To be upload soon)	
 <br><br>
 Go to the <a href="#">top</a>
 <br>
@@ -326,11 +323,11 @@ Design and Technology is a subject that aims to nurture children to possess impo
 <li>Systems Designers / Analysts</li> 
 <li>Architectural Drafters / 3D Animators</li>
 <li>Brand / Packaging designers</li>
-	
+	</ul>	
 <br>
 Go to the <a href="#">top</a>
 <br>
-<p></p></ul></ol></ol></div></li>
+<p></p></ol></ol></div></li>
 
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2"><b>3NA Subject Combinations for 2025</b></label><div>
