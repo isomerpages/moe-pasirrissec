@@ -27,7 +27,7 @@ Students must meet the criteria for lateral transfer to be transferred to a more
 </p><h4><b>How to choose a subject combination?</b></h4>
 
 <h5><b>STEP 1: Explore interest areas and find out about your child’s aspirations</b></h5>
-Discuss with your child/ward his/her interest areas and aspirations. The following resources would help you discover about yourself and gain an insight into the diverse range of careers and jobs available to you. 
+Discuss with your child/ward his/her interest areas and aspirations. The following resources would help your child understand herself/himself and gain an insight into the diverse range of careers and jobs available to you.
 <br><br>	
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
