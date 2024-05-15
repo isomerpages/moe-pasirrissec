@@ -4,6 +4,7 @@ permalink: /subject-combination/
 variant: markdown
 description: ""
 ---
+### Overview
 <p>Sec 3 Subject Combination Exercise provides students with the opportunity
 to choose a subject combination they would like to pursue at the Upper
 Secondary levels (in addition to the compulsory subjects they are required
