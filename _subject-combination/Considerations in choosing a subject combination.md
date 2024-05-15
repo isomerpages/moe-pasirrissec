@@ -156,10 +156,10 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 		<td colspan="2">c) <a href="https://www.ite.edu.sg/courses/full-time-courses/higher-nitec">ITE (Higher Nitec)</a></td>
 		</tr>
 		<tr>		
-	<td colspan="2">d) <a href="https://www.nafa.edu.sg/NAFA">NAFA</a></td>
+	<td colspan="2">d) <a href="https://www.nafa.edu.sg/NAFA">Nanyang Academic of Fine Arts (NAFA)</a></td>
 		</tr>
 		<tr>		
-	<td colspan="2">e) <a href="https://www.lasalle.edu.sg/Lasalle">Lasalle</a></td>
+	<td colspan="2">e) <a href="https://www.lasalle.edu.sg/Lasalle">LASELLE College of Arts</a></td>
 		</tr>
 			<tr>		
 		<td colspan="2">f) <a href="https://www.moe.gov.sg/post-secondary/admissions/pol">Polytechnic EAE</a></td>
