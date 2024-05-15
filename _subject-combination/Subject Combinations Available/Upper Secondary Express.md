@@ -422,7 +422,63 @@ Go to the <a href="#section-1">top</a>
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1"><b>3E Subject Combinations for 2025</b></label><div>
 <p>
-	
+<table border="1px solid black" style="width:100%">
+  <tbody><tr>
+    <th>Option</th>
+    <th>1</th>
+		<th>2</th>
+		<th>3</th>
+		<th>4</th>
+		<th>5</th>
+		<th>6</th>
+		<th>7</th>
+		<th>8</th>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td>English Language</td>
+		<td>Mother Tongue/<br>Higher Mother Tongue</td>
+		<td>Mathematics</td>
+		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
+		<td>Principle Of Accounts<br><b>or</b><br>Additional Mathematics</td>
+  </tr>
+	  <tr>
+    <td>B</td>
+		<td>English Language</td>
+    <td>Mother Tongue/<br>Higher Mother Tongue</td>
+    <td>Mathematics</td>
+		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
+		<td>Principle Of Accounts<br><b>or</b><br>Additional Mathematics</td>
+  </tr>
+		<tr>
+    <td>C</td>
+		<td>English Language</td>
+		<td>Mother Tongue/<br>Higher Mother Tongue</td>
+		<td>Mathematics</td>
+		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
+		<td>Additional Mathematics</td>
+    <td></td>
+  </tr>
+		<tr>
+    <td>D</td>
+		<td>English Language</td>
+		<td>Mother Tongue/<br>Higher Mother Tongue</td>
+		<td>Mathematics</td>
+		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
+		<td>Additional Mathematics</td>
+    <td></td>
+    <td></td>
+  </tr>
+		<tr>
+    <td>E</td>
+		<td>English Language</td>
+		<td>Mother Tongue/<br>Higher Mother Tongue</td>
+		<td>Mathematics</td>
+    <td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
+		<td>Additional Mathematics</td>
+    <td></td>
+  </tr>
+	</tbody></table>	
 	
 </p></div></li>
 </ul>
