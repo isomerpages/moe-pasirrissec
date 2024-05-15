@@ -29,7 +29,22 @@ Students must meet the criteria for lateral transfer to be transferred to a more
 <b>STEP 1: Explore interest areas and find out about your child’s aspirations</b>
 <br><br>
 Discuss with your child/ward his/her interest areas and aspirations. The following resources would help you discover about yourself and gain an insight into the diverse range of careers and jobs available to you. 
-
+<br>	
+<table border="1px solid black" style="width:100%">
+  <tbody><tr>
+    <th>Resource</th>
+    <th>Brief Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html">My Skillsfuture Portal</a></td>
+    <td>A one-stop platform to help your child understand herself/himself, interests and strengths. Your child can also explore various education and career pathways.</td>
+  </tr>
+	  <tr>
+    <td>Topics</td>
+    <td></td>
+    <td></td>
+  </tr>
+	</tbody></table>	
 
 Resource
 Brief Description
