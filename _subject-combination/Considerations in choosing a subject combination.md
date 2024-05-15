@@ -4,11 +4,32 @@ permalink: /considerations-in-choosing-a-subject-combination/
 variant: markdown
 description: ""
 ---
-### How to choose a subject combination?
+<ul class="jekyllcodex_accordion">
 
-##### STEP 1: Explore interest areas and find out about your child’s aspirations
+<li><input type="checkbox" id="accordion1">  
+<label for="accordion1"><b>MOE Promotion Criteria</b></label><div>
+<p>
+</p><h5><b>MOE Promotion Criteria</b></h5>
+All students must meet the promotion criteria to be promoted to Secondary 3 in order to take part in the Subject Combination Exercise.
+<br><br>
+(To be upload soon)	
+<h5><b>MOE Criteria for Lateral Transfer to a more demanding stream</b></h5>
 
+Students must meet the criteria for lateral transfer to be transferred to a more demanding stream.
+<br><br>
+(To be upload soon)
+
+<p></p></div></li>
+
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2"><b>A Guide to choosing Subject Combinations</b></label><div>
+<p>
+</p><h5><b>How to choose a subject combination?</b></h5>
+
+<b>STEP 1: Explore interest areas and find out about your child’s aspirations</b>
+<br><br>
 Discuss with your child/ward his/her interest areas and aspirations. The following resources would help you discover about yourself and gain an insight into the diverse range of careers and jobs available to you. 
+
 
 Resource
 Brief Description
@@ -20,7 +41,7 @@ On my way, Know it all Home (nyc.gov.sg)
 Lesser known facts, handy tips and answers to common questions about Careers in Singapore. This is a chance to explore the growing list of job roles in Singapore, to get an in-depth idea of what different jobs entail.
 Joint Admissions Exercise (JAE) | MOE
 
-##### STEP 2: Identify the most appropriate post-secondary education pathway
+<b>STEP 2: Identify the most appropriate post-secondary education pathway</b>
 
 Once you have identified an interest area or career path which you would like to pursue, you can start to explore the various post-secondary education options &amp; pathways that are relevant. 
 Help your child/ward understand what post-secondary pathways available by using the following resources:  
@@ -106,4 +127,4 @@ At upper secondary level, your child/ward will have to offer a set of compulsory
 
 STEP 5: Submit online application (Links to be created nearer to the exercise)
 a) View instructions for online subject combination selection here. Submit your four subject combination options here.
-b) Parents need to acknowledge, by submitting a signed copy of the selected subject combinations here or via the QR code by Nov 2023
+b) Parents need to acknowledge, by submitting a signed copy of the selected subject combinations here or via the QR code by Nov 2023</div></li></ul>
