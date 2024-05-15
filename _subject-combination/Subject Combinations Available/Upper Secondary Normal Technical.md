@@ -29,11 +29,17 @@ In addition, students will be exposed to a diverse range of local, regional and 
 (To be upload soon)
 <br><br> 
 <b>Educational pathways for students who would like to pursue a career in Art &amp; Design.</b>
-
-| Name of courses/ programme | What the course/programme entails | 
-| -------- | -------- | 
-| ITE Central School of Design and Media | Students are able to apply, pursue and build-up art and design related skills like Architectural Technology, Interior and Exhibition Design, Fashion Apparel Production &amp; Design, Video Production, Digital Animation, Product Design and Visual Communication. Students can further pursue their interests in related polytechnic or art school courses. <br>Students will have the advantage in applying their time-based project management skills to these courses. | 
-
+<br><br>	
+<table border="1px solid black" style="width:100%">
+  <tbody><tr>
+    <th>Name of courses/ programme</th>
+    <th>What the course/programme entails</th>
+  </tr>
+  <tr>
+    <td>ITE Central School of Design and Media</td>
+    <td>Students are able to apply, pursue and build-up art and design related skills like Architectural Technology, Interior and Exhibition Design, Fashion Apparel Production &amp; Design, Video Production, Digital Animation, Product Design and Visual Communication. Students can further pursue their interests in related polytechnic or art school courses. <br>Students will have the advantage in applying their time-based project management skills to these courses.</td>
+  </tr>
+</tbody></table>
 <br><br>
 Go to the <a href="#">top</a>
 <br>
