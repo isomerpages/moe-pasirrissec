@@ -197,14 +197,14 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 <h4><b>STEP 4: Select Subject Combinations which include the relevant elective subjects</b></h4>
 At upper secondary level, your child/ward will have to offer a set of compulsory subjects. In addition to these, your child/ward may choose between 1-3 elective subjects. Based on the courses and prerequisite subjects shortlisted in Step 3, identify the relevant Subject Combinations.  You can click the links below to view the Subject Combinations available and find out more about the subjects.
 <br><br>
-3 Express Subject Combinations for 2025
-3 Normal Academic Combinations for 2025
-3 Normal Technical Combinations for 2025
-3 Express Subjects
-3 Normal Academic Subjects
-3 Normal Technical Subjects
+3 Express Subject Combinations for 2025<br>
+3 Normal Academic Combinations for 2025<br>
+3 Normal Technical Combinations for 2025<br>
+3 Express Subjects<br>
+3 Normal Academic Subjects<br>
+3 Normal Technical Subjects<br>
 <br><br>
-	<h4><b>STEP 5: Submit online application (Links to be created nearer to the exercise)</b></h4>
+<h4><b>STEP 5: Submit online application (Links to be created nearer to the exercise)</b></h4>
 a) View instructions for online subject combination selection here. Submit your four subject combination options here.<br><br>
 b) Parents need to acknowledge, by submitting a signed copy of the selected subject combinations here or via the QR code by Nov 2023
 <p></p></div></li></ul>
