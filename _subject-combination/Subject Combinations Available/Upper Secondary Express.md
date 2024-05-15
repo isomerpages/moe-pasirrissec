@@ -441,6 +441,10 @@ Go to the <a href="#section-1">top</a>
 		<td>Mathematics</td>
 		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
 		<td>Principle Of Accounts<br><b>or</b><br>Additional Mathematics</td>
+		<td>Science (Physics / Chemistry)<br><b>or</b><br> 
+Science (Biology / Chemistry)</td>
+		<td>ART<br><b>or</b><br>D&amp;T</td>
+		<td></td>
   </tr>
 	  <tr>
     <td>B</td>
@@ -449,6 +453,10 @@ Go to the <a href="#section-1">top</a>
     <td>Mathematics</td>
 		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
 		<td>Principle Of Accounts<br><b>or</b><br>Additional Mathematics</td>
+		<td>Science (Physics / Chemistry)<br><b>or</b><br> 
+Science (Biology / Chemistry)</td>
+		<td># PURE GEOG<br><b>or</b><br>Pure&nbsp; HIST<br><b>or</b><br>Pure LIT</td>
+	  <td></td>
   </tr>
 		<tr>
     <td>C</td>
@@ -457,6 +465,8 @@ Go to the <a href="#section-1">top</a>
 		<td>Mathematics</td>
 		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
 		<td>Additional Mathematics</td>
+		<td>CHEMISTRY</td>
+	  <td>PHYSICS<br><b>or</b><br>BIOLOGY</td>
     <td></td>
   </tr>
 		<tr>
@@ -466,6 +476,9 @@ Go to the <a href="#section-1">top</a>
 		<td>Mathematics</td>
 		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
 		<td>Additional Mathematics</td>
+		<td>CHEMISTRY</td>
+	  <td>PHYSICS</td>
+	  <td>BIOLOGY</td>
     <td></td>
     <td></td>
   </tr>
@@ -476,6 +489,9 @@ Go to the <a href="#section-1">top</a>
 		<td>Mathematics</td>
     <td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
 		<td>Additional Mathematics</td>
+		<td>Chemistry</td>
+	 <td>PHYSICS<br><b>or</b><br>BIOLOGY</td>
+	 <td># PURE GEOG<br><b>or</b><br>Pure&nbsp;HIST<br><b>or</b><br>Pure LIT</td>
     <td></td>
   </tr>
 	</tbody></table>	
