@@ -10,7 +10,7 @@ description: ""
     
 	a. Secondary 2 Overall Results (NA/Exp) – EMSHB2
 
-			EL + Maths + Sci+ 1 Hum (Hist/Geog/Lit) + B2 (2  other best subjects from Art/DT/FCE/MTL/HMTL)
+	      EL + Maths + Sci+ 1 Hum (Hist/Geog/Lit) + B2 (2  other best subjects from Art/DT/FCE/MTL/HMTL)
 
 	b. Secondary 2 Overall Subject Results - e.g. 65% overall in History for Pure History
   
