@@ -59,7 +59,7 @@ Help your child/ward understand what post-secondary pathways available by using 
 <br><br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th colspan="2"><h5>I) Post Secondary Pathways &amp; Information (Express)</h5></th>
+    <th colspan="3"><h5>I) Post Secondary Pathways &amp; Information (Express)</h5></th>
   </tr>
   <tr>
 		<td><b>1</b></td><td><b>Junior College Option:</b></td>
@@ -90,36 +90,36 @@ Help your child/ward understand what post-secondary pathways available by using 
 <br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-		<th colspan="2"><h5><b>II) Post Secondary Pathways &amp; Information (NA)</b></h5></th>
+		<th colspan="3"><h5>II) Post Secondary Pathways &amp; Information (NA)</h5></th>
   </tr>
   <tr>
-		<td><b>1. PFP Option:</b></td>
+		<td><b>1</b></td><td><b>PFP Option:</b></td>
     <td>1 year Polytechnic Foundation Programme (PFP) before embarking on a 3 years diploma course<br><i>Pathway: PFP (1 year) &gt; Polytechnic (3 years) &gt; University (3-4 years)</i></td>
 		</tr>
 		 <tr>
-		<td><b>2. DPP Option:</b></td>
+			 <td><b>2</b></td><td><b>DPP Option:</b></td>
     <td>Direct Entry Scheme to Polytechnic Programme (DPP) - 2 years in ITE towards a Higher Nitec certification<br><i>Pathway: ITE Higher Nitec (2 years) &gt; Polytechnic (3 years)  &gt; University (3-4 years) </i></td>
 		</tr>
 		 <tr>
-		<td><b>3. O-Level Option:</b></td>
+			<td><b>3</b></td><td><b>O-Level Option:</b></td>
     <td>1 year in Pasir Ris Secondary School towards an O-levels Certification<br><i>Pathway: O-levels (1 year) &gt; Polytechnic or JC (2-3 years) &gt; University (3-4 years)</i></td>
 		</tr>
 		 <tr>
-		<td><b>4. NFP Option:</b></td>
+			 <td><b>4</b></td><td><b>NFP Option:</b></td>
     <td>1 year NAFA Foundation Programme (NFP) before embarking on a 3 years Arts diploma course.<br><i>Pathway: NFP (1 year) &gt; NAFA Diploma Course (3 years) &gt; NAFA Degree Programme (3-4 years)</i></td>
 		</tr>
 	</tbody></table>
 <br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th colspan="2"><h5><b>III Post Secondary Pathways &amp; Information (NT)</b></h5></th>
+    <th colspan="3"><h5>III) Post Secondary Pathways &amp; Information (NT)</h5></th>
   </tr>
   <tr>
-		<td><b>1. ITE Nitec:</b></td>
+		<td><b>1</b></td><td><b>ITE Nitec:</b></td>
     <td>4 years in ITE towards a Higher Nitec Certification<br><i>Pathway: ITE Nitec (2 years) &gt; ITE Higher Nitec (2 years) &gt; Polytechnic (3 years)  &gt; University (3-4 years)</i></td>
 		</tr>
 		 <tr>
-		<td><b>2. ITE Higher Nitec*</b></td>
+			 <td><b>2</b></td><td><b>ITE Higher Nitec*</b></td>
     <td>3 years in ITE towards a Higher Nitec Certification<br><i>Pathway: ITE Higher Nitec (3 years) &gt; Polytechnic (3 years)  &gt; University (3-4 years)</i></td>
 		</tr>	
 	</tbody></table>
