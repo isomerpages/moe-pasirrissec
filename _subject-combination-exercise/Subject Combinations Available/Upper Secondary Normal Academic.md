@@ -29,11 +29,11 @@ Upper Secondary students must read at least one Humanities subject. If the stude
     <th>Humanities<br>(Compulsory)</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td style="text-align:center">1</td>
     <td>Humanities 2125 (Social Studies &amp; Elective Geography)</td>
   </tr>
   <tr>
-    <td>2</td>
+    <td style="text-align:center">2</td>
     <td>Humanities 2273 (Social Studies &amp; Elective History)</td>
   </tr>
 	</tbody></table>
