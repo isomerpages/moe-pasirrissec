@@ -23,7 +23,6 @@ third_nav_title: Subject Combinations Available
 <a href="#section-10">Design &amp; Technology</a>
 
 </p><h3 id="section-1">Literature in English</h3>
-
 “Literature makes us better thinkers. It moves us to see the multi-sidedness of situations and therefore expands the breath of our own visions, moving us towards dreams and solutions we might not otherwise have imagined.” – Judith Langer, Envisioning Literature
 <br><br>
 Literature is essentially the study of human relationships and how we, as human beings, need to understand and work together to create a better place to live rather than exist. To be concise, it is how to understand humans better. It affords us PERSPECTIVES about architecture, about politics, about family, about all that is about humans, their living, their endeavours, their success, their tragedy, and most of all, the fragility of Life. It is a challenging discipline because it is about OUR opinion and not just the opinion of the writer.
