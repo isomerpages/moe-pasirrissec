@@ -10,12 +10,12 @@ third_nav_title: Subject Combinations Available
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1"><b>Introduction to Upper Secondary Subjects (Normal Technical)</b></label><div>
 <p>
+<br>
 <a href="#section-1">Art</a><br>
 <a href="#section-2">Design &amp; Technology</a><br> 
 <a href="#section-3">Elements of Business Skills</a><br>
 
 </p><h3 id="section-1">Art</h3>
-
 Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.
 <br><br>
 Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.
@@ -45,16 +45,15 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-2">Design &amp; Technology</h3>
-
 Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
 <br>
-<ul>	
+<ol style="a">
 <li>Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.</li>   
 <li>Possess a caring heart and willing desire to improve the quality of life through thoughtful and practical design solutions.
 </li><li>Develop curiosity and drive to seek out how things work in the real world.</li>    
 <li>Communicate confidently their design solutions through doodling and/or sketching and 3D manipulation of material.</li>   
 <li>Develop strong critical and creative thinking by exploring many unusual and interesting ideas in response to a given design context and need.</li>
-</ul>
+</ol>
 <b>Assessment Criteria for Design &amp; Technology</b>
 <br><br>
 (To be upload soon)
@@ -72,11 +71,11 @@ Design and Technology is a subject that aims to nurture children to possess impo
   </tr>
 		  <tr>
     <td>Nitect in Medical Manufacturing Technology <br><br>Nitec in Automotive Technology</td>
-    <td>For Nitec in Medical Manufacturing Technology, students will learn about designing body parts such as knee joints, bone screws, dental implants and so on as to to bring mobility and hope back to the affected patients. <br>For Nitec in Automobile Technology (light vehicles), students will learn to diagnose, service, repair and maintain modern computer-equipped light vehicles ranging from saloon cars to sports utility vehicles, multi-purpose vehicles and light utility vans</td>
+    <td>For Nitec in Medical Manufacturing Technology, students will learn about designing body parts such as knee joints, bone screws, dental implants and so on as to to bring mobility and hope back to the affected patients. <br>For Nitec in Automobile Technology (light vehicles), students will learn to diagnose, service, repair and maintain modern computer-equipped light vehicles ranging from saloon cars to sports utility vehicles, multi-purpose vehicles and light utility vans.</td>
   </tr>
 		  <tr>
     <td>Diploma in Product Design &amp; Industrial Design</td>
-    <td>Students will work in diverse fields such as consumer electronics, medical products, furniture design, packaging design, transportation design, product merchandising, object/craft design and more</td>
+    <td>Students will work in diverse fields such as consumer electronics, medical products, furniture design, packaging design, transportation design, product merchandising, object/craft design and more.</td>
   </tr>
 			  <tr>
     <td> Interior Design, BA (Hons) from SIT<br>BS (Architecture and Sustainable Design) from SUTD<br>BA (Industrial Design) (Hons) from NUS<br>Bachelor of Fine Arts in Product Design from NTU</td>
@@ -98,7 +97,6 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-3">Elements of Business Skills</h3>
-
 This subject is an introduction to business through an understanding of business activities, focusing on basic marketing and customer relations, in the context of Singapore. The subject intends to provide students with opportunities to develop transferable employability skills and knowledge in the service industry, namely the Travel and Tourism, Hospitality, and Retail industries, which continue to offer employment opportunities accessible to the students.
 <br><br>
 The subject provides students with the foundational knowledge and skills for further studies in institutes of higher learning and the awareness of prospects of a career in the service industry. In the Elements of Business Skills (EBS) syllabus framework shown below, the basic concepts of marketing and customer relations are at the core of the EBS syllabus. The middle ring represents the outcomes of the syllabus, namely foundational business knowledge, decision-making skills and an enterprising mindset. The outer ring defines the scope of the syllabus within the Travel and Tourism, Hospitality, and Retail industries.
@@ -147,13 +145,13 @@ Go to the <a href="#">top</a>
 <br><br>
 <table border="1px solid black" style="width:50%">
   <tbody><tr>
-    <th>Combination</th>
-    <th>1</th>
-		<th>2</th>
-		<th>3</th>
-		<th>4</th>
-		<th>5</th>
-		<th>6</th>
+    <th style="text-align:center">Combination</th>
+    <th style="text-align:center">1</th>
+		<th style="text-align:center">2</th>
+		<th style="text-align:center">3</th>
+		<th style="text-align:center">4</th>
+		<th style="text-align:center">5</th>
+		<th style="text-align:center">6</th>
   </tr>
   <tr>
     <td>3T7</td>
@@ -162,7 +160,7 @@ Go to the <a href="#">top</a>
 		<td>Mathematics</td>
 		<td>Computer Applications</td>
 		<td>Science</td>
-		<td>Art<br><b>or</b><br>Design Technology<br><b>or</b><br>Elements of Business Studies (EBS)</td>
+		<td style="text-align:center">Art<br><b>or</b><br>Design Technology<br><b>or</b><br>Elements of Business Studies (EBS)</td>
   </tr>
 </tbody></table>		
 <br>

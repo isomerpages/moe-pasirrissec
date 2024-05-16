@@ -20,20 +20,19 @@ third_nav_title: Subject Combinations Available
 <a href="#section-8">Design &amp; Technology</a> 
 
 </p><h3 id="section-1">Humanities</h3>
-
 Upper Secondary students must read at least one Humanities subject. If the student is reading only one Humanities subject, he MUST take ‘Humanities’, comprising a compulsory Social Studies component (SS) and an Elective component. In PRSS, the options for the Elective component are Elective History (EHist) and Elective Geography (EGeo).
 <br><br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th>Choices available</th>
-    <th>Humanities (Compulsory)</th>
+    <th style="text-align:center">Choices available<br>(N-Level)</th>
+    <th style="text-align:center">Humanities<br>(Compulsory)</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td style="text-align:center">1</td>
     <td>Humanities 2125 (Social Studies &amp; Elective Geography)</td>
   </tr>
   <tr>
-    <td>2</td>
+    <td style="text-align:center">2</td>
     <td>Humanities 2273 (Social Studies &amp; Elective History)</td>
   </tr>
 	</tbody></table>
@@ -43,16 +42,14 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-2">Social Studies</h3>
-	
 Social Studies is the compulsory half of the Humanities subject.
 <br><br>
-At the heart of the Social Studies Curriculum is the preparation of students to be citizens of tomorrow by helping them to better understand the interconnectedness of Singapore and the world they live in, and appreciate the complexities of the human world. Drawing on aspects of society that are of meaning and interest to the students, Social Studies seeks to ignite students’ curiosity to inquire into real-world issues that concern their lives. Through inquiry and authentic learning experiences, Social Studies helps students to attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives. Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world they live in, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.
+At the heart of the Social Studies Curriculum is the preparation of students to be citizens of tomorrow by helping them to better understand the <b>interconnectedness of Singapore and the world they live in</b>, and appreciate <b>the complexities of the human world</b>. Drawing on aspects of society that are of meaning and interest to the students, Social Studies seeks to ignite students’ curiosity to <b>inquire into real-world issues that concern their lives</b>. Through inquiry and authentic learning experiences, Social Studies helps students to attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives. Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world they live in, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.
 <br><br>
 Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-3">Elective History</h3>
-	
 History education in Singapore seeks to develop in students an appreciation of past human experiences, critical awareness of the nature of historical knowledge, and the ability to make connections between the past and present.
 <br><br>
 In recent years, there has been greater cognizance that historical content and concepts as well as the accompanying historical skills, are important. These lie at the heart of thinking critically about the nature of historical knowledge, which is essential to make better sense of the past. History also plays a critical role in developing students’ own identities through an understanding of history at the personal, national and international levels. The learning of history should spark their curiosity and inspire them with the beliefs, decisions and dilemmas of people in the past. Through historical inquiry, students pose questions about the present by engaging with the past and thus draw connections between both.
@@ -67,13 +64,15 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-4">Elective Geography</h3>
-<br>	
+Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment.&nbsp;
+<br><br>
+Generally, in both Pure Geography and Elective Geography, students will be taught skills of gathering and analysing information to understand and explain physical and human phenomena, and other contemporary environmental and social issues that occur in different places and cultures by
+<br>
 <ul>
 <li>interpreting and recognising patterns in geographical data and deduce relationships</li>
 <li>organise and present geographic information in a coherent way</li>
 <li>analyse, evaluate and synthesise geographical data to make informed and sound decisions.</li>
 </ul>
-
 The objective is to develop an inquiring mind to seek answers to issues affecting our lives and the world we live in, and prepared students for their roles as informed citizens in the 21st century and most importantly, inculcate an awareness of appropriate attitudes and values that promotes a positive geographical future; one that ensures the sustainability of our resources, people, country, and planet.
 <br><br>	
 Geography students will cover the syllabus as follows:
@@ -108,7 +107,6 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-5">Principles of Accounts</h3>
-
 Principles of Accounts is offered as an elective subject at Secondary Three and examinable at the GCE N(A)-Level.
 <br><br>
 Principles of Accounts is designed to designed to teach age-appropriate and relevant accounting knowledge, skills and values. In addition, students will understand how businesses use accounting and non-accounting information to make decisions. Through the subject, they will acquire transferrable skills that they can apply in their daily lives.
@@ -163,9 +161,10 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-6">Additional Mathematics</h3>
-
 The syllabus intends to prepare students adequately for O-Level Additional Mathematics. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strands, important mathematical processes such as reasoning, communication and application (including the use of models) are also emphasised and assessed.
-<br><br>
+<br>
+<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Additional_Mathematics_Concepts.png">
+<br>
 At Secondary 3, students from the express Normal (Academic) courses who are interested in mathematics and are more mathematically inclined can take up Additional Mathematics which provides greater breadth and depth of coverage of mathematics topics. The Additional Mathematics syllabuses introduce students to Calculus and Trigonometry besides extending the learning in Algebra and Geometry from the N-Level Mathematics syllabus.
 <br><br>
 The N(A)-Level Additional Mathematics syllabus aims to enable students who have an aptitude and interest in mathematics to:
@@ -199,7 +198,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
 <b>Requirements to take up Additional Mathematics at Sec 3:</b>
 <ul>
 	<li>Good performance in marks</li>
-			<li>NA: A good pass in N(A) Mathematics</li>
+	<ul><li>NA: A good pass in N(A) Mathematics</li></ul>
 	<li>Algebra proficiency</li>
   <li>Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential</li></ul>
 <b>Implication on admission requirement for post-secondary studies</b>
@@ -224,7 +223,6 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-7">Art</h3>
-
 Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.
 <br><br>	
 Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.
@@ -249,11 +247,11 @@ In addition, students will be exposed to a diverse range of local, regional and 
     <td>Students are able to build a solid foundation while nurturing their creative attitudes and critical thinking skills. Students are able to gain broader perspectives, develop problem-solving skills and learn about social responsibility.</td>
   </tr>
   <tr>
-    <td>School of design</td>
+    <td>Temasek Poly School of design</td>
     <td>There are a wide range of course which allows students to further their studies in Art depending on their interest. They are able to choose from product design course, interior/architectural design, digital/filmmaking and apparel design or merchandising. These courses allows them to learn the skills acquired in the individual industry and beneficial for their future career path.</td>
   </tr>		
   <tr>
-    <td>Nanyang Poly’s School of Design (SDN</td>
+    <td>Nanyang Poly’s School of Design (SDN)</td>
     <td>There are four diploma courses which focus on building a strong design foundation and inspiring you to make the world a better place for everyone through excellence in design. It is a studio-based approach to learning and project-based curriculum is modelled after a real-world environment where students will work on actual projects, pitch their ideas to industry experts and see their designs come to life</td>
   </tr>
  <tr>
@@ -270,10 +268,9 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-8">Design and Technology</h3>
-
 Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
 <br><br>
-<ol>
+<ol type="a">
 <li>Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.</li>  
 <li>Possess a caring heart and willing desire to improve the quality of life through thoughtful and practical design solutions.</li>
 <li>Develop curiosity and drive to seek out how things work in the real world.</li>   
@@ -298,11 +295,11 @@ Design and Technology is a subject that aims to nurture children to possess impo
   </tr>
 		 <tr>
     <td>Nitect in Medical Manufacturing Technology<br><br>Nitec in Automotive Technology</td>
-    <td>For Nitec in Medical Manufacturing Technology, students will learn about designing body parts such as knee joints, bone screws, dental implants and so on as to bring mobility and hope back to the affected patients. <br><br>For Nitec in Automobile Technology (light vehicles), students will learn to diagnose, service, repair and maintain modern computer-equipped light vehicles ranging from saloon cars to sports utility vehicles, multi-purpose vehicles and light utility vans</td>
+    <td>For Nitec in Medical Manufacturing Technology, students will learn about designing body parts such as knee joints, bone screws, dental implants and so on as to bring mobility and hope back to the affected patients. <br><br>For Nitec in Automobile Technology (light vehicles), students will learn to diagnose, service, repair and maintain modern computer-equipped light vehicles ranging from saloon cars to sports utility vehicles, multi-purpose vehicles and light utility vans.</td>
   </tr>
 		 <tr>
     <td>Diploma in Product Design &amp; Industrial Design</td>
-    <td>Students will work in diverse fields such as consumer electronics, medical products, furniture design, packaging design, transportation design, product merchandising, object/craft design and more</td>
+    <td>Students will work in diverse fields such as consumer electronics, medical products, furniture design, packaging design, transportation design, product merchandising, object/craft design and more.</td>
   </tr>
 		 <tr>
     <td>Interior Design,<br>BA (Hons) from SIT<br>BS (Architecture and Sustainable Design) from SUTD<br>BA (Industrial Design) (Hons) from NUS<br>Bachelor of Fine Arts in Product Design from NTU</td>
@@ -332,23 +329,23 @@ Go to the <a href="#">top</a>
 	
 <table border="1px solid black" style="width:50%">
   <tbody><tr>
-    <th>Option</th>
-    <th>1</th>
-		<th>2</th>
-		<th>3</th>
-		<th>4</th>
-		<th>5</th>
-		<th>6</th>
-		<th>7</th>
+    <th style="text-align:center">Option</th>
+    <th style="text-align:center">1</th>
+		<th style="text-align:center">2</th>
+		<th style="text-align:center">3</th>
+		<th style="text-align:center">4</th>
+		<th style="text-align:center">5</th>
+		<th style="text-align:center">6</th>
+		<th style="text-align:center">7</th>
   </tr>
   <tr>
     <td>A</td>
     <td>English Language</td>
 		<td>Mother Tongue</td>
 		<td>Mathematics</td>
-		<td>Social Studies<br>+<br>Elective History</td>
-		<td>Science (Physics / Chemistry)</td>
-		<td>ART<br><b>or</b><br>D&amp;T</td>
+		<td style="text-align:center">Social Studies<br>+<br>Elective History</td>
+		<td style="text-align:center">Science (Physics / Chemistry)</td>
+		<td style="text-align:center">ART<br><b>or</b><br>D&amp;T</td>
 		<td style="background-color:lightgrey"></td>
   </tr>
 	  <tr>
@@ -356,9 +353,9 @@ Go to the <a href="#">top</a>
 		<td>English Language</td>
     <td>Mother Tongue</td>
     <td>Mathematics</td>
-		<td>Social Studies<br>+<br>Elective Geography</td>
-		<td>Science (Physics / Chemistry)</td>
-		<td>ART<br><b>or</b><br>D&amp;T</td>
+		<td style="text-align:center">Social Studies<br>+<br>Elective Geography</td>
+		<td style="text-align:center">Science (Physics / Chemistry)</td>
+		<td style="text-align:center">ART<br><b>or</b><br>D&amp;T</td>
 	  <td style="background-color:lightgrey"></td>
   </tr>
 		<tr>
@@ -366,9 +363,9 @@ Go to the <a href="#">top</a>
 		<td>English Language</td>
 		<td>Mother Tongue</td>
 		<td>Mathematics</td>
-		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
-    <td>Science (Physics / Chemistry)</td>
-		<td>Principle Of Accounts<br><b>or</b><br>Additional Mathematics</td>
+		<td style="text-align:center">Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
+    <td style="text-align:center">Science (Physics / Chemistry)</td>
+		<td style="text-align:center">Principle Of Accounts<br><b>or</b><br>Additional Mathematics</td>
 		<td style="background-color:lightgrey"></td>
   </tr>
 		<tr>
@@ -376,9 +373,9 @@ Go to the <a href="#">top</a>
 		<td>English Language</td>
 		<td>Mother Tongue/<br>Higher Mother Tongue</td>
 		<td>Mathematics</td>
-		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
-		<td>Science (Physics / Chemistry)</td>
-		<td>Principle Of Accounts</td>
+		<td style="text-align:center">Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
+		<td style="text-align:center">Science (Physics / Chemistry)</td>
+		<td style="text-align:center">Principle Of Accounts</td>
 	  <td>Additional Mathematics</td>
   </tr>
 </tbody></table>	
