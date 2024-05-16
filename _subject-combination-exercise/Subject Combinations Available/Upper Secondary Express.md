@@ -38,7 +38,6 @@ So why should your child take up Pure Literature?
 <li>Students develop the skills to convince others of their perspectives and interpretations, based on sound reasoning with evidence.</li>
 <li>Students learn to appreciate that life is not always clear-cut, in black and white. It prepares them for the ambiguities of life and to take uncertainties in their stride.</li>
 <li>Students explore texts that give them many opportunities to discuss and reassess their own values and beliefs. These act as a compass in life as they grow up.</li></ul>
-
 <b>Assessment Criteria for Literature in English</b>
 <br><br>
 (To be upload soon)
