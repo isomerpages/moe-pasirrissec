@@ -67,13 +67,12 @@ Go to the <a href="#">top</a>
 Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment.&nbsp;
 <br><br>
 Generally, in both Pure Geography and Elective Geography, students will be taught skills of gathering and analysing information to understand and explain physical and human phenomena, and other contemporary environmental and social issues that occur in different places and cultures by
-<br><br>
+<br>
 <ul>
 <li>interpreting and recognising patterns in geographical data and deduce relationships</li>
 <li>organise and present geographic information in a coherent way</li>
 <li>analyse, evaluate and synthesise geographical data to make informed and sound decisions.</li>
 </ul>
-
 The objective is to develop an inquiring mind to seek answers to issues affecting our lives and the world we live in, and prepared students for their roles as informed citizens in the 21st century and most importantly, inculcate an awareness of appropriate attitudes and values that promotes a positive geographical future; one that ensures the sustainability of our resources, people, country, and planet.
 <br><br>	
 Geography students will cover the syllabus as follows:
@@ -108,7 +107,6 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-5">Principles of Accounts</h3>
-
 Principles of Accounts is offered as an elective subject at Secondary Three and examinable at the GCE N(A)-Level.
 <br><br>
 Principles of Accounts is designed to designed to teach age-appropriate and relevant accounting knowledge, skills and values. In addition, students will understand how businesses use accounting and non-accounting information to make decisions. Through the subject, they will acquire transferrable skills that they can apply in their daily lives.
@@ -163,9 +161,10 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-6">Additional Mathematics</h3>
-
 The syllabus intends to prepare students adequately for O-Level Additional Mathematics. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strands, important mathematical processes such as reasoning, communication and application (including the use of models) are also emphasised and assessed.
-<br><br>
+<br>
+<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Additional_Mathematics_Concepts.png">
+<br>
 At Secondary 3, students from the express Normal (Academic) courses who are interested in mathematics and are more mathematically inclined can take up Additional Mathematics which provides greater breadth and depth of coverage of mathematics topics. The Additional Mathematics syllabuses introduce students to Calculus and Trigonometry besides extending the learning in Algebra and Geometry from the N-Level Mathematics syllabus.
 <br><br>
 The N(A)-Level Additional Mathematics syllabus aims to enable students who have an aptitude and interest in mathematics to:
