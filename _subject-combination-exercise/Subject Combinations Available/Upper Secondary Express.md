@@ -50,10 +50,9 @@ Upper Secondary students must read at least one Humanities subject. If the stude
 <br><br>
 Express students may opt to read an additional Pure Humanities subject which is not his or her Elective component in the compulsory Humanities subject. For example, a student who is reading Humanities (SS/History) can choose to read Pure Geography or English Literature. He is not allowed to read Pure History as this would overlap with the Elective History which he is already reading.
 <br><br>
-
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th>Choices<br>available<br>(O-Level)</th>
+    <th>Choices<br>available <br>(O-Level)</th>
     <th>Humanities<br>(Compulsory)</th>
     <th>Additional Pure Humanities courses offered in PRSS</th>
   </tr>
