@@ -57,12 +57,12 @@ Express students may opt to read an additional Pure Humanities subject which is 
     <th>Additional Pure Humanities courses offered in PRSS</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td style="text-align:center">1</td>
     <td>Humanities (Social Studies &amp; Elective Geography) </td>
     <td>Pure History or English Literature</td>
   </tr>
 	  <tr>
-    <td>2</td>
+    <td style="text-align:center">2</td>
     <td>Humanities (Social Studies &amp; Elective Geography)</td>
     <td>Pure Geography or English Literature</td>
   </tr>
