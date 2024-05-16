@@ -295,11 +295,11 @@ Design and Technology is a subject that aims to nurture children to possess impo
   </tr>
 		 <tr>
     <td>Nitect in Medical Manufacturing Technology<br><br>Nitec in Automotive Technology</td>
-    <td>For Nitec in Medical Manufacturing Technology, students will learn about designing body parts such as knee joints, bone screws, dental implants and so on as to bring mobility and hope back to the affected patients. <br><br>For Nitec in Automobile Technology (light vehicles), students will learn to diagnose, service, repair and maintain modern computer-equipped light vehicles ranging from saloon cars to sports utility vehicles, multi-purpose vehicles and light utility vans</td>
+    <td>For Nitec in Medical Manufacturing Technology, students will learn about designing body parts such as knee joints, bone screws, dental implants and so on as to bring mobility and hope back to the affected patients. <br><br>For Nitec in Automobile Technology (light vehicles), students will learn to diagnose, service, repair and maintain modern computer-equipped light vehicles ranging from saloon cars to sports utility vehicles, multi-purpose vehicles and light utility vans.</td>
   </tr>
 		 <tr>
     <td>Diploma in Product Design &amp; Industrial Design</td>
-    <td>Students will work in diverse fields such as consumer electronics, medical products, furniture design, packaging design, transportation design, product merchandising, object/craft design and more</td>
+    <td>Students will work in diverse fields such as consumer electronics, medical products, furniture design, packaging design, transportation design, product merchandising, object/craft design and more.</td>
   </tr>
 		 <tr>
     <td>Interior Design,<br>BA (Hons) from SIT<br>BS (Architecture and Sustainable Design) from SUTD<br>BA (Industrial Design) (Hons) from NUS<br>Bachelor of Fine Arts in Product Design from NTU</td>
