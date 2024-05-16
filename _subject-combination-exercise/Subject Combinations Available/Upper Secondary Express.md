@@ -310,7 +310,6 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-9">Art</h3>
-
 Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.
 <br><br>
 Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.
