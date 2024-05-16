@@ -413,7 +413,7 @@ Go to the <a href="#">top</a>
 <p>
 </p><h5><b>Pasir Ris Secondary School - Sec 3E Subject Combinations for 2025</b></h5><br>	
 <table border="1px solid black" style="width:50%">
-  <tbody><tr>
+  <tbody><tr style="background-color:#3CB371">
     <th style="text-align:center">Option</th>
     <th style="text-align:center">1</th>
 		<th style="text-align:center">2</th>
