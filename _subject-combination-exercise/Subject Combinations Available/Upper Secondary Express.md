@@ -160,7 +160,7 @@ Pure Geography students will cover the syllabus in greater depth, comprising all
   </tr>
 </tbody></table>		
 <br>
-Students reading Elective Geography (O-Level) will NOT cover Clusters 4 and 5.
+	Students reading Elective Geography (O-Level) will <u>NOT</u> cover Clusters 4 and 5.
 <br><br>
 <b>Assessment Criteria for Humanities</b>
 <br><br>
@@ -170,7 +170,6 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-6">Principles of Accounts</h3>
-
 Principles of Accounts is offered as an elective subject at Secondary Three and examinable at the GCE O-Level and N(A)-Level.
 <br><br>
 Principles of Accounts is designed to designed to teach age-appropriate and relevant accounting knowledge, skills and values. In addition, students will understand how businesses use accounting and non-accounting information to make decisions. Through the subject, they will acquire transferrable skills that they can apply in their daily lives.
