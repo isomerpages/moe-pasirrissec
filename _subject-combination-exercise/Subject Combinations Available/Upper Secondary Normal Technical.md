@@ -145,13 +145,13 @@ Go to the <a href="#">top</a>
 <br><br>
 <table border="1px solid black" style="width:50%">
   <tbody><tr>
-    <th>Combination</th>
-    <th>1</th>
-		<th>2</th>
-		<th>3</th>
-		<th>4</th>
-		<th>5</th>
-		<th>6</th>
+    <th style="text-align:center">Combination</th>
+    <th style="text-align:center">1</th>
+		<th style="text-align:center">2</th>
+		<th style="text-align:center">3</th>
+		<th style="text-align:center">4</th>
+		<th style="text-align:center">5</th>
+		<th style="text-align:center">6</th>
   </tr>
   <tr>
     <td>3T7</td>
@@ -160,7 +160,7 @@ Go to the <a href="#">top</a>
 		<td>Mathematics</td>
 		<td>Computer Applications</td>
 		<td>Science</td>
-		<td>Art<br><b>or</b><br>Design Technology<br><b>or</b><br>Elements of Business Studies (EBS)</td>
+		<td style="text-align:center">Art<br><b>or</b><br>Design Technology<br><b>or</b><br>Elements of Business Studies (EBS)</td>
   </tr>
 </tbody></table>		
 <br>
