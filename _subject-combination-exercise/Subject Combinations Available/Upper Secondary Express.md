@@ -267,7 +267,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
 <br><br>
 <ul>
 <li>Good performance in marks</li>
-    <li>NA: A good pass in N(A) Mathematics</li>
+	<ul><li>NA: A good pass in N(A) Mathematics</li></ul>
 <li>Algebra proficiency</li>
 <li>Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential</li>
 </ul><br>
