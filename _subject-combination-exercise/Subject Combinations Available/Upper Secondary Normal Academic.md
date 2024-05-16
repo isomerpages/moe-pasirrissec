@@ -25,7 +25,7 @@ Upper Secondary students must read at least one Humanities subject. If the stude
 <br><br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th>Choices available</th>
+    <th>Choices available<br>(N-Level)</th>
     <th>Humanities (Compulsory)</th>
   </tr>
   <tr>
