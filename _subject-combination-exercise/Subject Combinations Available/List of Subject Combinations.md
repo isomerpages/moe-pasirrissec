@@ -5,9 +5,12 @@ variant: markdown
 description: ""
 third_nav_title: Subject Combinations Available
 ---
-<a href="/upper-secondary-express/">3 Express Subjects</a><br>
-<a href="/upper-secondary-normal-academic/">3 Normal Academic Subjects</a><br>
-<a href="/upper-secondary-normal-technical/">3 Normal Technical Subjects</a><br>
-
-
-
+<table border="1px solid black" style="width:100%">
+  <tbody><tr>
+    <th colspan="3"><h5>List of Subject Combinations</h5></th>
+  </tr>
+    <tr>
+    <td><center><a href="/upper-secondary-express/">Secondary 3 Express </a></center></td>
+		<td><center><a href="/upper-secondary-express/">Secondary 3 Normal Academic</a></center></td>
+		<td><center><a href="/upper-secondary-normal-technical/">Secondary 3 Normal Technical</a></center></td>
+		</tr></tbody></table>
