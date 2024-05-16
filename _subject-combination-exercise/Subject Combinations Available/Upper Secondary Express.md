@@ -414,24 +414,24 @@ Go to the <a href="#">top</a>
 </p><h5><b>Pasir Ris Secondary School - Sec 3E Subject Combinations for 2025</b></h5><br>	
 <table border="1px solid black" style="width:50%">
   <tbody><tr>
-    <th>Option</th>
-    <th>1</th>
-		<th>2</th>
-		<th>3</th>
-		<th>4</th>
-		<th>5</th>
-		<th>6</th>
-		<th>7</th>
-		<th>8</th>
+    <th style="text-align:center">Option</th>
+    <th style="text-align:center">1</th>
+		<th style="text-align:center">2</th>
+		<th style="text-align:center">3</th>
+		<th style="text-align:center">4</th>
+		<th style="text-align:center">5</th>
+		<th style="text-align:center">6</th>
+		<th style="text-align:center">7</th>
+		<th style="text-align:center">8</th>
   </tr>
   <tr>
     <td>A</td>
     <td>English Language</td>
 		<td>Mother Tongue/<br>Higher Mother Tongue</td>
 		<td>Mathematics</td>
-		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
-		<td>Principle Of Accounts<br><b>or</b><br>Additional Mathematics</td>
-		<td>Science (Physics / Chemistry)<br><b>or</b><br> 
+		<td style="text-align:center">Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
+		<td style="text-align:center">Principle Of Accounts<br><b>or</b><br>Additional Mathematics</td>
+		<td style="text-align:center">Science (Physics / Chemistry)<br><b>or</b><br> 
 Science (Biology / Chemistry)</td>
 		<td>ART<br><b>or</b><br>D&amp;T</td>
 		<td style="background-color:lightgrey"></td>
@@ -441,11 +441,11 @@ Science (Biology / Chemistry)</td>
 		<td>English Language</td>
     <td>Mother Tongue/<br>Higher Mother Tongue</td>
     <td>Mathematics</td>
-		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
-		<td>Principle Of Accounts<br><b>or</b><br>Additional Mathematics</td>
+		<td style="text-align:center">Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
+		<td style="text-align:center">Principle Of Accounts<br><b>or</b><br>Additional Mathematics</td>
 		<td>Science (Physics / Chemistry)<br><b>or</b><br> 
 Science (Biology / Chemistry)</td>
-		<td># PURE GEOG<br><b>or</b><br>Pure&nbsp; HIST<br><b>or</b><br>Pure LIT</td>
+		<td style="text-align:center">#PURE GEOG<br><b>or</b><br>Pure HIST<br><b>or</b><br>Pure LIT</td>
 	  <td style="background-color:lightgrey"></td>
   </tr>
 		<tr>
@@ -453,10 +453,10 @@ Science (Biology / Chemistry)</td>
 		<td>English Language</td>
 		<td>Mother Tongue/<br>Higher Mother Tongue</td>
 		<td>Mathematics</td>
-		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
+		<td style="text-align:center">Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
 		<td>Additional Mathematics</td>
 		<td>CHEMISTRY</td>
-	  <td>PHYSICS<br><b>or</b><br>BIOLOGY</td>
+	  <td style="text-align:center">PHYSICS<br><b>or</b><br>BIOLOGY</td>
     <td style="background-color:lightgrey"></td>
   </tr>
 		<tr>
@@ -464,7 +464,7 @@ Science (Biology / Chemistry)</td>
 		<td>English Language</td>
 		<td>Mother Tongue/<br>Higher Mother Tongue</td>
 		<td>Mathematics</td>
-		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
+		<td style="text-align:center">Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
 		<td>Additional Mathematics</td>
 		<td>CHEMISTRY</td>
 	  <td>PHYSICS</td>
@@ -477,11 +477,11 @@ Science (Biology / Chemistry)</td>
 		<td>English Language</td>
 		<td>Mother Tongue/<br>Higher Mother Tongue</td>
 		<td>Mathematics</td>
-    <td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
+    <td style="text-align:center">Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
 		<td>Additional Mathematics</td>
 		<td>Chemistry</td>
-	 <td>PHYSICS<br><b>or</b><br>BIOLOGY</td>
-	 <td># PURE GEOG<br><b>or</b><br>Pure&nbsp;HIST<br><b>or</b><br>Pure LIT</td>
+	 <td style="text-align:center">PHYSICS<br><b>or</b><br>BIOLOGY</td>
+	 <td style="text-align:center">#PURE GEOG<br><b>or</b><br>Pure HIST<br><b>or</b><br>Pure LIT</td>
     <td></td>
   </tr>
 	</tbody></table>	
