@@ -363,9 +363,9 @@ Go to the <a href="#">top</a>
 		<td>English Language</td>
 		<td>Mother Tongue</td>
 		<td>Mathematics</td>
-		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
-    <td>Science (Physics / Chemistry)</td>
-		<td>Principle Of Accounts<br><b>or</b><br>Additional Mathematics</td>
+		<td style="text-align:center">Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
+    <td style="text-align:center">Science (Physics / Chemistry)</td>
+		<td style="text-align:center">Principle Of Accounts<br><b>or</b><br>Additional Mathematics</td>
 		<td style="background-color:lightgrey"></td>
   </tr>
 		<tr>
@@ -373,9 +373,9 @@ Go to the <a href="#">top</a>
 		<td>English Language</td>
 		<td>Mother Tongue/<br>Higher Mother Tongue</td>
 		<td>Mathematics</td>
-		<td>Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
-		<td>Science (Physics / Chemistry)</td>
-		<td>Principle Of Accounts</td>
+		<td style="text-align:center">Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
+		<td style="text-align:center">Science (Physics / Chemistry)</td>
+		<td style="text-align:center">Principle Of Accounts</td>
 	  <td>Additional Mathematics</td>
   </tr>
 </tbody></table>	
