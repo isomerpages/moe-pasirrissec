@@ -329,23 +329,23 @@ Go to the <a href="#">top</a>
 	
 <table border="1px solid black" style="width:50%">
   <tbody><tr>
-    <th>Option</th>
-    <th>1</th>
-		<th>2</th>
-		<th>3</th>
-		<th>4</th>
-		<th>5</th>
-		<th>6</th>
-		<th>7</th>
+    <th style="text-align:center">Option</th>
+    <th style="text-align:center">1</th>
+		<th style="text-align:center">2</th>
+		<th style="text-align:center">3</th>
+		<th style="text-align:center">4</th>
+		<th style="text-align:center">5</th>
+		<th style="text-align:center">6</th>
+		<th style="text-align:center">7</th>
   </tr>
   <tr>
     <td>A</td>
     <td>English Language</td>
 		<td>Mother Tongue</td>
 		<td>Mathematics</td>
-		<td>Social Studies<br>+<br>Elective History</td>
-		<td>Science (Physics / Chemistry)</td>
-		<td>ART<br><b>or</b><br>D&amp;T</td>
+		<td style="text-align:center">Social Studies<br>+<br>Elective History</td>
+		<td style="text-align:center">Science (Physics / Chemistry)</td>
+		<td style="text-align:center">ART<br><b>or</b><br>D&amp;T</td>
 		<td style="background-color:lightgrey"></td>
   </tr>
 	  <tr>
