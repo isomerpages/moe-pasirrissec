@@ -223,7 +223,6 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-7">Art</h3>
-
 Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.
 <br><br>	
 Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.
@@ -248,7 +247,7 @@ In addition, students will be exposed to a diverse range of local, regional and 
     <td>Students are able to build a solid foundation while nurturing their creative attitudes and critical thinking skills. Students are able to gain broader perspectives, develop problem-solving skills and learn about social responsibility.</td>
   </tr>
   <tr>
-    <td>School of design</td>
+    <td>Temasek Poly School of design</td>
     <td>There are a wide range of course which allows students to further their studies in Art depending on their interest. They are able to choose from product design course, interior/architectural design, digital/filmmaking and apparel design or merchandising. These courses allows them to learn the skills acquired in the individual industry and beneficial for their future career path.</td>
   </tr>		
   <tr>
