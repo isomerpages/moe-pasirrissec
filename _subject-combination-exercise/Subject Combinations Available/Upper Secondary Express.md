@@ -234,7 +234,7 @@ Go to the <a href="#">top</a>
 
 The syllabus prepares students adequately for A-Level H2 Mathematics, where a strong foundation in algebraic manipulation skills and mathematical reasoning skills are required. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strands, important mathematical processes such as reasoning, communication and application (including the use of models) are also emphasised and assessed. The O-Level Additional Mathematics syllabus assumes knowledge of O-Level Mathematics
 <br><br>
-(To upload soon)
+<img width="100%" src="/images/Sec%203%20Subject%20Combi%20Exercise/Additional_Mathematics_Concepts.png">
 <br><br>
 At Secondary 3, students from the express courses who are interested in mathematics and are more mathematically inclined can take up Additional Mathematics which provides greater breadth and depth of coverage of mathematics topics. The Additional Mathematics syllabuses introduce students to Calculus and Trigonometry besides extending the learning in Algebra and Geometry from the O-Level Mathematics syllabus. Students are also engaged in writing proofs in Geometry in Additional Mathematics.
 <br><br>
