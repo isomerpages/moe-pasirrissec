@@ -29,6 +29,7 @@ description: ""
 
 <li><input type="checkbox" id="accordion5">
 <label for="accordion5"><b>My child is unsure of which combination would benefit her in the future. Should he/she go to a JC/Poly/ITE? What should she do?</b></label><div><p>We strongly encourage parents to discuss with your child/ward on his/her interests, learning styles and explore possible tertiary options. Your child/ward may see the Home Teachers or the Education and Career Guidance officer, Mr Mohammed Syahril Bin Samsudin whom he/she can make an appointment with to explore his/her possible options. Mr Syahril is on-site in Pasir Ris Secondary School on Mondays and Thursdays during term time.
+	<img src="">
 </p></div></li>	
 
 <li><input type="checkbox" id="accordion6">
