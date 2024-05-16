@@ -144,9 +144,9 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 			6. <a href="http://www.millenniainstitute.moe.edu.sg/">MILLENNIA INSTITUTE</a><br>
 			7. <a href="http://nanyangjc.moe.edu.sg/">NANYANG JUNIOR COLLEGE</a><br>
 			8. <a href="http://nationaljc.moe.edu.sg/">NATIONAL JUNIOR COLLEGE</a><br>
-9. <a href="https://jpjc.moe.edu.sg/">JURONG PIONEER JUNIOR COLLEGE<br>
-			10. </a><a href="http://www.standrewsjc.moe.edu.sg/">ST. ANDREWS JUNIOR COLLEGE</a><br>
-11. <a href="http://www.temasekjc.moe.edu.sg/">TEMASEK JUNIOR COLLEGE</a><br>
+			9. <a href="https://jpjc.moe.edu.sg/">JURONG PIONEER JUNIOR COLLEGE</a><br>
+			10.<a href="http://www.standrewsjc.moe.edu.sg/">ST. ANDREWS JUNIOR COLLEGE</a><br>
+			11. <a href="http://www.temasekjc.moe.edu.sg/">TEMASEK JUNIOR COLLEGE</a><br>
 			12. <a href="https://victoriajc.moe.edu.sg/">VICTORIA JUNIOR COLLEGE</a><br>
 			13. <a href="https://yijc.moe.edu.sg/">YISHUN INNOVA JUNIOR COLLEGE</a><br>
 </td>
