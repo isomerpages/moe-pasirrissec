@@ -353,9 +353,9 @@ Go to the <a href="#">top</a>
 		<td>English Language</td>
     <td>Mother Tongue</td>
     <td>Mathematics</td>
-		<td>Social Studies<br>+<br>Elective Geography</td>
-		<td>Science (Physics / Chemistry)</td>
-		<td>ART<br><b>or</b><br>D&amp;T</td>
+		<td style="text-align:center">Social Studies<br>+<br>Elective Geography</td>
+		<td style="text-align:center">Science (Physics / Chemistry)</td>
+		<td style="text-align:center">ART<br><b>or</b><br>D&amp;T</td>
 	  <td style="background-color:lightgrey"></td>
   </tr>
 		<tr>
