@@ -1,5 +1,5 @@
 collections:
-  subject-combination:
+  subject-combination-exercise:
     output: true
     order:
       - Sec 3 Subject Combination Exercise.md
