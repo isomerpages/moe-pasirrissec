@@ -193,8 +193,10 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
     <th colspan="2"><h5>3 Normal Technical</h5></th>
   </tr>
  <tr>
-	 <td>1</td><td><a href="https://www.ite.edu.sg/courses/full-time-courses/nitec">ITE (Nitec &amp; 3yr Higher Nitec)</a></td>
-</tr></tbody></table>	 
+	 <td>1</td>
+	 <td><a href="https://www.ite.edu.sg/courses/full-time-courses/nitec">ITE (Nitec &amp; 3yr Higher Nitec)</a></td>
+</tr>
+	</tbody></table>	 
 <br>
 <h4>STEP 4: Select Subject Combinations which include the relevant elective subjects</h4>
 At upper secondary level, your child/ward will have to offer a set of compulsory subjects. In addition to these, your child/ward may choose between 1-3 elective subjects. Based on the courses and prerequisite subjects shortlisted in Step 3, identify the relevant Subject Combinations.  You can click the links below to view the Subject Combinations available and find out more about the subjects.
