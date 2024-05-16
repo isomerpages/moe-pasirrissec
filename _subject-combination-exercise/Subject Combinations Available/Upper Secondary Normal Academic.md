@@ -26,7 +26,7 @@ Upper Secondary students must read at least one Humanities subject. If the stude
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Choices available</th>
-    <th>Humanities<br>(Compulsory)</th>
+    <th>Humanities (Compulsory)</th>
   </tr>
   <tr>
     <td>1</td>
@@ -272,12 +272,14 @@ Go to the <a href="#">top</a>
 <h3 id="section-8">Design and Technology</h3>
 
 Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
-<br><br><ol>
+<br><br>
+<ol>
 <li>Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.</li>  
 <li>Possess a caring heart and willing desire to improve the quality of life through thoughtful and practical design solutions.</li>
 <li>Develop curiosity and drive to seek out how things work in the real world.</li>   
 <li>Communicate confidently their design solutions through doodling and/or sketching and 3D manipulation of material.</li>
-<li>Develop strong critical and creative thinking by exploring many unusual and interesting ideas in response to a given design context and need.</li><ol>
+<li>Develop strong critical and creative thinking by exploring many unusual and interesting ideas in response to a given design context and need.</li>
+</ol>
 <br><br>	
 <b>Assessment Criteria for Design &amp; Technology [O-Level and N-Level]</b>
 <br><br>
@@ -321,7 +323,7 @@ Design and Technology is a subject that aims to nurture children to possess impo
 <br>
 Go to the <a href="#">top</a>
 <br>
-<p></p></ol></ol></div></li>
+<p></p></div></li>
 
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2"><b>3NA Subject Combinations for 2025</b></label><div>

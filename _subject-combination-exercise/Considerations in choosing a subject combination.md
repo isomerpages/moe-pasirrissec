@@ -144,9 +144,9 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 			6. <a href="http://www.millenniainstitute.moe.edu.sg/">MILLENNIA INSTITUTE</a><br>
 			7. <a href="http://nanyangjc.moe.edu.sg/">NANYANG JUNIOR COLLEGE</a><br>
 			8. <a href="http://nationaljc.moe.edu.sg/">NATIONAL JUNIOR COLLEGE</a><br>
-9. <a href="https://jpjc.moe.edu.sg/">JURONG PIONEER JUNIOR COLLEGE<br>
-			10. </a><a href="http://www.standrewsjc.moe.edu.sg/">ST. ANDREWS JUNIOR COLLEGE</a><br>
-11. <a href="http://www.temasekjc.moe.edu.sg/">TEMASEK JUNIOR COLLEGE</a><br>
+			9. <a href="https://jpjc.moe.edu.sg/">JURONG PIONEER JUNIOR COLLEGE</a><br>
+			10. <a href="http://www.standrewsjc.moe.edu.sg/">ST. ANDREWS JUNIOR COLLEGE</a><br>
+			11. <a href="http://www.temasekjc.moe.edu.sg/">TEMASEK JUNIOR COLLEGE</a><br>
 			12. <a href="https://victoriajc.moe.edu.sg/">VICTORIA JUNIOR COLLEGE</a><br>
 			13. <a href="https://yijc.moe.edu.sg/">YISHUN INNOVA JUNIOR COLLEGE</a><br>
 </td>
@@ -193,8 +193,10 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
     <th colspan="2"><h5>3 Normal Technical</h5></th>
   </tr>
  <tr>
-	 <td>1</td><td><a href="https://www.ite.edu.sg/courses/full-time-courses/nitec">ITE (Nitec &amp; 3yr Higher Nitec)</a></td>
-</tr></tbody></table>	 
+	 <td>1</td>
+	 <td><a href="https://www.ite.edu.sg/courses/full-time-courses/nitec">ITE (Nitec &amp; 3yr Higher Nitec)</a></td>
+</tr>
+	</tbody></table>	 
 <br>
 <h4>STEP 4: Select Subject Combinations which include the relevant elective subjects</h4>
 At upper secondary level, your child/ward will have to offer a set of compulsory subjects. In addition to these, your child/ward may choose between 1-3 elective subjects. Based on the courses and prerequisite subjects shortlisted in Step 3, identify the relevant Subject Combinations.  You can click the links below to view the Subject Combinations available and find out more about the subjects.
