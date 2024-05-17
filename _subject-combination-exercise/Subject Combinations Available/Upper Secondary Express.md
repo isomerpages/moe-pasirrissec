@@ -479,7 +479,7 @@ Science (Biology / Chemistry)</td>
 		<td>Mathematics</td>
     <td style="text-align:center">Social Studies<br>+<br>Elective Geography<br><b>or</b><br>Elective History</td>
 		<td>Additional Mathematics</td>
-		<td>Chemistry</td>
+		<td>CHEMISTRY</td>
 	 <td style="text-align:center">PHYSICS<br><b>or</b><br>BIOLOGY</td>
 	 <td style="text-align:center">#PURE GEOG<br><b>or</b><br>Pure HIST<br><b>or</b><br>Pure LIT</td>
     <td></td>
