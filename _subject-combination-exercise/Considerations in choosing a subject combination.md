@@ -39,7 +39,7 @@ Discuss with your child/ward his/her interest areas and aspirations. The followi
     <td>A one-stop platform to help your child understand herself/himself, interests and strengths. Your child can also explore various education and career pathways.</td>
   </tr>
 	<tr>
-  <td><a href="https://discover.nyc.gov.sg/Day-in-the-LifeDay">Day in the Life</a></td>
+  <td><a href="https://discover.nyc.gov.sg/Day-in-the-Life">Day in the Life</a></td>
     <td>A website to check out bite-sized videos and information about the day in the life of more than 80 professionals.</td>
   </tr>
 		<tr><td>On my way, Know it all<br> <a href="https://discover.nyc.gov.sg/"> Home (nyc.gov.sg)</a>
