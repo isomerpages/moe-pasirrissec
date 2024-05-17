@@ -78,7 +78,7 @@ Help your child/ward understand what post-secondary pathways available by using 
    <td>3 years in NAFA towards an Arts, Media or related Diploma <br><i>Pathway: Laselle or NAFA Diploma Programme (3 years) &gt; NAFA Degree Programme (3-4 years)</i></td>
 	</tr>
 			<tr>
-		<td><b>5</b></td><td><b>Laselle Option:</b></td>
+		<td><b>5</b></td><td><b>LASELLE Option:</b></td>
    <td>3 years in Laselle towards an Arts, Media or related Diploma<br><i>Pathway: Laselle Diploma Programme (3yrs) &gt; Laselle Degree Programme (3-4 years)</i></td>
 	</tr>
 		<tr>
