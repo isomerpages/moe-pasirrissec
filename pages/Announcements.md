@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Secondary 4 and 5 Breakfast Session with Parents
+
+Please click [here](/files/Information%20for%20Parents/2024_Sec_4_Breakfast_with_Parents_17_May.pdf) to view the Sec 2 Breakfast Session with Parents slides.
+
 #### Secondary 2 Breakfast Session with Parents
 
 Please click [here](/files/2024_Sec_2_Breakfast_with_Parents_10_May__Reduced_size_.pdf) to view the Sec 2 Breakfast Session with Parents slides.
