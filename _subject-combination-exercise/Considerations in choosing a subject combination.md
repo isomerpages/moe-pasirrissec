@@ -39,14 +39,14 @@ Discuss with your child/ward his/her interest areas and aspirations. The followi
     <td>A one-stop platform to help your child understand herself/himself, interests and strengths. Your child can also explore various education and career pathways.</td>
   </tr>
 	<tr>
-  <td><a href="https://discover.nyc.gov.sg/Day-in-the-LifeDay">Day in the Life</a></td>
+  <td><a href="https://discover.nyc.gov.sg/Day-in-the-Life">Day in the Life</a></td>
     <td>A website to check out bite-sized videos and information about the day in the life of more than 80 professionals.</td>
   </tr>
 		<tr><td>On my way, Know it all<br> <a href="https://discover.nyc.gov.sg/"> Home (nyc.gov.sg)</a>
 				</td>
       <td>Lesser known facts, handy tips and answers to common questions about Careers in Singapore. This is a chance to explore the growing list of job roles in Singapore, to get an in-depth idea of what different jobs entail.</td>
   </tr>
-			<tr><td><a href="(https://www.moe.gov.sg/post-secondary/admissions/jae">Joint Admissions Exercise (JAE) </a>
+			<tr><td><a href="https://www.moe.gov.sg/post-secondary/admissions/jae">Joint Admissions Exercise (JAE) </a>
 				</td>
       <td>Contains essential information on JAE, such as an overview of the JAE process and timeline (the key stages and respective dates/periods).</td>
   </tr>
@@ -78,7 +78,7 @@ Help your child/ward understand what post-secondary pathways available by using 
    <td>3 years in NAFA towards an Arts, Media or related Diploma <br><i>Pathway: Laselle or NAFA Diploma Programme (3 years) &gt; NAFA Degree Programme (3-4 years)</i></td>
 	</tr>
 			<tr>
-		<td><b>5</b></td><td><b>Laselle Option:</b></td>
+		<td><b>5</b></td><td><b>LASELLE Option:</b></td>
    <td>3 years in Laselle towards an Arts, Media or related Diploma<br><i>Pathway: Laselle Diploma Programme (3yrs) &gt; Laselle Degree Programme (3-4 years)</i></td>
 	</tr>
 		<tr>
@@ -137,9 +137,9 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
   <tr>
     <td>a) Junior Colleges &amp; Institute</td>
 		<td>1. <a href="https://asrjc.moe.edu.sg/">ANDERSON SERANGOOON JUNIOR COLLEGE</a><br>
-			2. <a href="https://acjc.moe.edu.sg/ANGLO-CHINESE">ANGLO-CHINESE JUNIOR COLLEGE</a><br> 
+			2. <a href="https://www.acjc.moe.edu.sg/">ANGLO-CHINESE JUNIOR COLLEGE</a><br> 
 			3. <a href="https://cjc.moe.edu.sg/">CATHOLIC JUNIOR COLLEGE</a><br>
-			4. <a href="http://www.hwachong.edu.sg/">HWA CHONG INSTITUTION (JUNIOR COLLEGE)</a><br>
+			4. <a href="https://www.hci.edu.sg/">HWA CHONG INSTITUTION (JUNIOR COLLEGE)</a><br>
 			5. <a href="https://tmjc.moe.edu.sg/">TAMPINES MERIDIAN JUNIOR COLLEGE</a><br>
 			6. <a href="http://www.millenniainstitute.moe.edu.sg/">MILLENNIA INSTITUTE</a><br>
 			7. <a href="http://nanyangjc.moe.edu.sg/">NANYANG JUNIOR COLLEGE</a><br>
@@ -160,13 +160,13 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 	<td colspan="2">d) <a href="https://www.nafa.edu.sg/">Nanyang Academic of Fine Arts (NAFA)</a></td>
 		</tr>
 		<tr>		
-	<td colspan="2">e) <a href="https://www.lasalle.edu.sg/Lasalle">LASELLE College of Arts</a></td>
+	<td colspan="2">e) <a href="https://www.lasalle.edu.sg/">LASELLE College of Arts</a></td>
 		</tr>
 			<tr>		
-		<td colspan="2">f) <a href="https://www.moe.gov.sg/post-secondary/admissions/pol">Polytechnic EAE</a></td>
+		<td colspan="2">f) <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">Polytechnic EAE</a></td>
 		</tr>
 		<tr>		
-		<td colspan="2">g) <a href="https://www.moe.gov.sg/post-secondary/admissions/dsaJunior">Junior College DSA</a></td>
+		<td colspan="2">g) <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa">DSA for Junior Colleges (DSA-JC)</a></td>
 		</tr>
 </tbody></table>
 <br>
@@ -176,7 +176,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
   </tr>
  <tr>
 	 <td>1</td>
-	 <td><a href="https://pfp.polytechnic.edu.sg/PFP/pfp\_introduction.html"> Polytechnic Foundation Programme (PFP)</a></td>
+	 <td><a href="https://pfp.polytechnic.edu.sg/PFP/index.html"> Polytechnic Foundation Programme (PFP)</a></td>
 		</tr><tr>		
 		<td>2</td>
 		<td><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme">Direct Entry Scheme to Polytechnic Programme (DPP)</a></td>
@@ -210,5 +210,5 @@ At upper secondary level, your child/ward will have to offer a set of compulsory
 <br>
 <h4>STEP 5: Submit online application (Links to be created nearer to the exercise)</h4>
 a) View instructions for online subject combination selection here. Submit your four subject combination options here.<br><br>
-b) Parents need to acknowledge, by submitting a signed copy of the selected subject combinations here or via the QR code by Nov 2023
+b) Parents need to acknowledge, by submitting a signed copy of the selected subject combinations here or via the QR code by Nov 2024.
 <p></p></div></li></ul>
