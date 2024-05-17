@@ -137,7 +137,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
   <tr>
     <td>a) Junior Colleges &amp; Institute</td>
 		<td>1. <a href="https://asrjc.moe.edu.sg/">ANDERSON SERANGOOON JUNIOR COLLEGE</a><br>
-			2. <a href="https://acjc.moe.edu.sg/ANGLO-CHINESE">ANGLO-CHINESE JUNIOR COLLEGE</a><br> 
+			2. <a href="https://www.acjc.moe.edu.sg/">ANGLO-CHINESE JUNIOR COLLEGE</a><br> 
 			3. <a href="https://cjc.moe.edu.sg/">CATHOLIC JUNIOR COLLEGE</a><br>
 			4. <a href="https://www.hci.edu.sg/">HWA CHONG INSTITUTION (JUNIOR COLLEGE)</a><br>
 			5. <a href="https://tmjc.moe.edu.sg/">TAMPINES MERIDIAN JUNIOR COLLEGE</a><br>
