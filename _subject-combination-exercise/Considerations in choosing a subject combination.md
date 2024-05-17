@@ -176,7 +176,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
   </tr>
  <tr>
 	 <td>1</td>
-	 <td><a href="https://pfp.polytechnic.edu.sg/PFP/index.htmll"> Polytechnic Foundation Programme (PFP)</a></td>
+	 <td><a href="https://pfp.polytechnic.edu.sg/PFP/index.html"> Polytechnic Foundation Programme (PFP)</a></td>
 		</tr><tr>		
 		<td>2</td>
 		<td><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme">Direct Entry Scheme to Polytechnic Programme (DPP)</a></td>
