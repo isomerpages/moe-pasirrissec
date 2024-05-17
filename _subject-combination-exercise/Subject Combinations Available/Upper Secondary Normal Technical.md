@@ -144,7 +144,7 @@ Go to the <a href="#">top</a>
 </p><h4>Pasir Ris Secondary School - Sec 3N(T) Subject Combination for 2025</h4>
 <br><br>
 <table border="1px solid black" style="width:50%">
-  <tbody><tr>
+  <tbody><tr style="background-color:#3CB371">
     <th style="text-align:center">Combination</th>
     <th style="text-align:center">1</th>
 		<th style="text-align:center">2</th>

@@ -52,9 +52,9 @@ Express students may opt to read an additional Pure Humanities subject which is 
 <br><br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th>Choices<br>available <br>(O-Level)</th>
-    <th>Humanities<br>(Compulsory)</th>
-    <th>Additional Pure Humanities courses offered in PRSS</th>
+    <th style="text-align:center">Choices<br>available <br>(O-Level)</th>
+    <th style="text-align:center">Humanities<br>(Compulsory)</th>
+    <th style="text-align:center">Additional Pure Humanities courses offered in PRSS</th>
   </tr>
   <tr>
     <td style="text-align:center">1</td>
@@ -413,7 +413,7 @@ Go to the <a href="#">top</a>
 <p>
 </p><h5><b>Pasir Ris Secondary School - Sec 3E Subject Combinations for 2025</b></h5><br>	
 <table border="1px solid black" style="width:50%">
-  <tbody><tr>
+  <tbody><tr style="background-color:#3CB371">
     <th style="text-align:center">Option</th>
     <th style="text-align:center">1</th>
 		<th style="text-align:center">2</th>
