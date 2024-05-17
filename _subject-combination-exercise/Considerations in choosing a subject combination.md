@@ -160,7 +160,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 	<td colspan="2">d) <a href="https://www.nafa.edu.sg/">Nanyang Academic of Fine Arts (NAFA)</a></td>
 		</tr>
 		<tr>		
-	<td colspan="2">e) <a href="https://www.lasalle.edu.sg/Lasalle">LASELLE College of Arts</a></td>
+	<td colspan="2">e) <a href="https://www.lasalle.edu.sg/">LASELLE College of Arts</a></td>
 		</tr>
 			<tr>		
 		<td colspan="2">f) <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">Polytechnic EAE</a></td>
