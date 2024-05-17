@@ -163,10 +163,10 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 	<td colspan="2">e) <a href="https://www.lasalle.edu.sg/Lasalle">LASELLE College of Arts</a></td>
 		</tr>
 			<tr>		
-		<td colspan="2">f) <a href="https://www.moe.gov.sg/post-secondary/admissions/pol">Polytechnic EAE</a></td>
+		<td colspan="2">f) <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">Polytechnic EAE</a></td>
 		</tr>
 		<tr>		
-		<td colspan="2">g) <a href="https://www.moe.gov.sg/post-secondary/admissions/dsaJunior">Junior College DSA</a></td>
+		<td colspan="2">g) <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa">DSA for Junior Colleges (DSA-JC)</a></td>
 		</tr>
 </tbody></table>
 <br>
