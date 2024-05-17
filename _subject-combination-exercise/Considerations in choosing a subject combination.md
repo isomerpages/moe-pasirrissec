@@ -46,7 +46,7 @@ Discuss with your child/ward his/her interest areas and aspirations. The followi
 				</td>
       <td>Lesser known facts, handy tips and answers to common questions about Careers in Singapore. This is a chance to explore the growing list of job roles in Singapore, to get an in-depth idea of what different jobs entail.</td>
   </tr>
-			<tr><td><a href="(https://www.moe.gov.sg/post-secondary/admissions/jae">Joint Admissions Exercise (JAE) </a>
+			<tr><td><a href="https://www.moe.gov.sg/post-secondary/admissions/jae">Joint Admissions Exercise (JAE) </a>
 				</td>
       <td>Contains essential information on JAE, such as an overview of the JAE process and timeline (the key stages and respective dates/periods).</td>
   </tr>
