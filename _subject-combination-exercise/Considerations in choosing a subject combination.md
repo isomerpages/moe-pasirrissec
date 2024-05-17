@@ -83,7 +83,7 @@ Help your child/ward understand what post-secondary pathways available by using 
 	</tr>
 		<tr>
 			<td><b>6</b></td><td><b>Polytechnic Early Admission Exercise Option:</b></td>
-   <td>3 years in a Polytechnic towards a specialised Diploma<br><i>Pathway: Polytechnic (3 years) &gt; University (3-4yrs)</i></td>
+   <td>3 years in a Polytechnic towards a specialised Diploma<br><i>Pathway: Polytechnic (3 years) &gt; University (3-4 years)</i></td>
 	</tr>
 		<tr>
 	</tr></tbody></table>
