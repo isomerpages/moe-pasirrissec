@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### Secondary 3 Breakfast Session with Parents
 
-Please click [here](/files/Information%20for%20Parents/2024_Sec_4_Breakfast_with_Parents_17_May.pdf) to view the Sec 3 Breakfast Session with Parents slides.
+Please click [here](/files/Sec_3_Parents_Breakfast_Session_2024.pdf) to view the Sec 3 Breakfast Session with Parents slides.
 
 #### Secondary 4 and 5 Breakfast Session with Parents
 
