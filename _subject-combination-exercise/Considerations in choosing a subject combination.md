@@ -39,7 +39,7 @@ Students must meet the criteria for lateral transfer to be transferred to a more
 </p><h4>How to choose a subject combination?</h4>
 
 <h5>STEP 1: Explore interest areas and find out about your child’s aspirations</h5>
-Discuss with your child/ward his/her interest areas and aspirations. The following resources would help your child understand herself/himself and gain an insight into the diverse range of careers and jobs available to you.
+Discuss with your child/ward his/her interest areas and aspirations. The following resources would help your child understand herself/himself and gain an insight into the diverse range of careers and jobs available.
 <br><br>	
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
@@ -71,7 +71,7 @@ Help your child/ward understand what post-secondary pathways available by using 
 <br><br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th colspan="3"><h5>I) Post Secondary Pathways &amp; Information (Express)</h5></th>
+    <th colspan="3"><h5>I. Post Secondary Pathways &amp; Information (Express)</h5></th>
   </tr>
   <tr>
 		<td><b>1</b></td><td><b>Junior College Option:</b></td>
@@ -102,7 +102,7 @@ Help your child/ward understand what post-secondary pathways available by using 
 <br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-		<th colspan="3"><h5>II) Post Secondary Pathways &amp; Information (Normal Academic)</h5></th>
+		<th colspan="3"><h5>II. Post Secondary Pathways &amp; Information (Normal Academic)</h5></th>
   </tr>
   <tr>
 		<td><b>1</b></td><td><b>PFP Option:</b></td>
@@ -124,7 +124,7 @@ Help your child/ward understand what post-secondary pathways available by using 
 <br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th colspan="3"><h5>III) Post Secondary Pathways &amp; Information (Normal Technical)</h5></th>
+    <th colspan="3"><h5>III. Post Secondary Pathways &amp; Information (Normal Technical)</h5></th>
   </tr>
   <tr>
 		<td><b>1</b></td><td><b>ITE Nitec:</b></td>
@@ -144,10 +144,10 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 <br><br>	
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th colspan="2"><h5>3 Express</h5></th>
+    <th colspan="2"><h5>Express Course</h5></th>
   </tr>
   <tr>
-    <td>a) Junior Colleges &amp; Institute</td>
+    <td>a. Junior Colleges &amp; Institute</td>
 		<td>1. <a href="https://asrjc.moe.edu.sg/">ANDERSON SERANGOOON JUNIOR COLLEGE</a><br>
 			2. <a href="https://www.acjc.moe.edu.sg/">ANGLO-CHINESE JUNIOR COLLEGE</a><br> 
 			3. <a href="https://cjc.moe.edu.sg/">CATHOLIC JUNIOR COLLEGE</a><br>
@@ -163,46 +163,46 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 			13. <a href="https://yijc.moe.edu.sg/">YISHUN INNOVA JUNIOR COLLEGE</a><br>
 </td>
  </tr><tr>
-    <td colspan="2">b) <a href="https://www.moe.gov.sg/coursefinder?journey=Polytechnics">Polytechnics</a></td>
+    <td colspan="2">b. <a href="https://www.moe.gov.sg/coursefinder?journey=Polytechnics">Polytechnics</a></td>
 	  <td></td>
 		</tr><tr>	
-		<td colspan="2">c) <a href="https://www.ite.edu.sg/courses/full-time-courses/higher-nitec">ITE (Higher Nitec)</a></td>
+		<td colspan="2">c. <a href="https://www.ite.edu.sg/courses/full-time-courses/higher-nitec">ITE (Higher Nitec)</a></td>
 		</tr>
 		<tr>		
-	<td colspan="2">d) <a href="https://www.nafa.edu.sg/">Nanyang Academic of Fine Arts (NAFA)</a></td>
+	<td colspan="2">d. <a href="https://www.nafa.edu.sg/">Nanyang Academic of Fine Arts (NAFA)</a></td>
 		</tr>
 		<tr>		
-	<td colspan="2">e) <a href="https://www.lasalle.edu.sg/">LASELLE College of Arts</a></td>
+	<td colspan="2">e. <a href="https://www.lasalle.edu.sg/">LASELLE College of Arts</a></td>
 		</tr>
 			<tr>		
-		<td colspan="2">f) <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">Polytechnic EAE</a></td>
+		<td colspan="2">f. <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">Polytechnic EAE</a></td>
 		</tr>
 		<tr>		
-		<td colspan="2">g) <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa">DSA for Junior Colleges (DSA-JC)</a></td>
+		<td colspan="2">g. <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa">DSA for Junior Colleges (DSA-JC)</a></td>
 		</tr>
 </tbody></table>
 <br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th colspan="2"><h5>3 Normal Academic</h5></th>
+    <th colspan="2"><h5>Normal Academic Course</h5></th>
   </tr>
  <tr>
-	 <td>1</td>
+	 <td>a.</td>
 	 <td><a href="https://pfp.polytechnic.edu.sg/PFP/index.html"> Polytechnic Foundation Programme (PFP)</a></td>
 		</tr><tr>		
-		<td>2</td>
+		<td>b.</td>
 		<td><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme">Direct Entry Scheme to Polytechnic Programme (DPP)</a></td>
 		</tr>
 		<tr>		
-			<td>3</td><td><a href="https://www.pasirissec.moe.edu.sg/">Pasir Ris Secondary School</a></td>
+			<td>c.</td><td><a href="https://www.pasirissec.moe.edu.sg/">Pasir Ris Secondary School</a></td>
 		</tr>
 		<tr>		
-		<td>4</td><td><a href="https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/NAFA">Foundation Programme (NFP)</a></td>
+		<td>d.</td><td><a href="https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/NAFA">Foundation Programme (NFP)</a></td>
 	</tr></tbody></table>
 <br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th colspan="2"><h5>3 Normal Technical</h5></th>
+    <th colspan="2"><h5>Normal Technical Course</h5></th>
   </tr>
  <tr>
 	 <td>1</td>
