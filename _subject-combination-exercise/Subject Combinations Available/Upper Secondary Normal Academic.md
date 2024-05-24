@@ -8,7 +8,7 @@ third_nav_title: Subject Combinations Available
 <ul class="jekyllcodex_accordion">
 	
 <li><input type="checkbox" id="accordion1">  
-<label for="accordion1"><b>Introduction to Upper Secondary Subjects (Normal Academic)</b></label><div>
+<label for="accordion1"><b>Information to Upper Secondary Elective Subjects (Normal Academic)</b></label><div>
 <p><br>	
 <a href="#section-1">Humanities</a><br>
 <a href="#section-2">Social Studies</a><br>
@@ -155,7 +155,7 @@ Diploma International Logistic and Supply Chain Management
 <br><br>
 <b>Assessment Criteria for POA</b>
 <br><br>
-(To be upload soon)
+	<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_POA_NA.png">
 <br><br>
 Go to the <a href="#">top</a>
 <br>
