@@ -382,8 +382,8 @@ The assessment objectives of the subject can be found at SEAB website under the 
 <br>
 7059 - GCE O-Level D&amp;T<br>
 7055 - GCE NA-Level D&amp;T
-
-
+<br><img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Design___Tech.png">
+<br>
 *The written paper will be design-centric. Question 1 requires knowledge application of the design process. Questions 2 - 4 requires knowledge application of the Technology topics and these include Structure (O-Level syllabus only), Mechanism and Electronics
 <br><br>
 #The design project is an individual coursework-based examination. The examination will be conducted over 22 weeks from the question paper release, excluding school holidays. Candidates are required to work on a design and prototyping project based on the examination question.&nbsp; The design project will comprise of two components:
