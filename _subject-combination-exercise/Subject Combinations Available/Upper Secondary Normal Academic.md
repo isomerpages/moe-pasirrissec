@@ -123,7 +123,7 @@ Students will be able to understand
 <li>how decisions are made using accounting information</li>
 <li>the limitations of relying only on accounting information; and</li>
 	<li>the consideration of non-accounting business-related information.</li>
-</ul><br>
+</ul>
 Students will be able to develop knowledge and understanding of:
 <ul>
 <li>role of accountants and the ethical values desired in the people who prepare the information</li>
@@ -135,7 +135,7 @@ Students will be able to develop knowledge and understanding of:
 <li>principles underlying accounting as a measurement system</li>
 <li>accounting information system and accounting cycle, and the double-entry recording method in maintaining records of business activities</li>
 <li>internal controls to ensure accuracy of information.</li>
-	</ul><br>
+	</ul>
 Students will be able to develop the skills of:
 <ul>
 <li>applying the double entry system of recording business transactions</li>
@@ -156,7 +156,7 @@ Diploma International Logistic and Supply Chain Management
 <b>Assessment Criteria for POA</b>
 <br><br>
 <img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_POA_NA.png">
-<br><br>
+<br>
 Go to the <a href="#">top</a>
 <br>
 	
@@ -218,7 +218,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
 	<b>Assessment Criteria for Additional Mathematics for Normal Academic</b>
 <br><br>
 <img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Additional_Maths_NA.png">
-<br><br>
+<br>
 Go to the <a href="#">top</a>
 <br>
 	
@@ -232,7 +232,7 @@ The production of Art requires a rigorous process of information analysis. In in
 In addition, students will be exposed to a diverse range of local, regional and global art and cultures through engaging with artworks, art making and arts professions. This will develop in students a lifelong appreciation and enjoyment of art.
 <br><br>
 <b>Assessment Criteria for Art</b>
-<br><br>	
+<br>
 	<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Art_NA.png">
 <br>
 *The coursework assessment allows for:
@@ -281,7 +281,7 @@ Go to the <a href="#">top</a>
 	
 <h3 id="section-8">Design and Technology</h3>
 Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
-<br><br>
+<br>
 <ol type="a">
 <li>Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.</li>  
 <li>Possess a caring heart and willing desire to improve the quality of life through thoughtful and practical design solutions.</li>
@@ -289,13 +289,12 @@ Design and Technology is a subject that aims to nurture children to possess impo
 <li>Communicate confidently their design solutions through doodling and/or sketching and 3D manipulation of material.</li>
 <li>Develop strong critical and creative thinking by exploring many unusual and interesting ideas in response to a given design context and need.</li>
 </ol>
-<br><br>	
 <b>Assessment Criteria for Design &amp; Technology [O-Level and N-Level]</b>
 <br><br>
 The assessment objectives of the subject can be found at SEAB website under the syllabus document as follow:
-<br>
+<br><br>
 7059 - GCE O-Level D&amp;T<br>
-7055 - GCE N-Level D&amp;T<br>
+7055 - GCE N-Level D&amp;T<br><br>
 <img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Design___Tech_NA.png">
 <br>
 *The written paper will be design-centric. Question 1 requires knowledge application of the design process. Questions 2 - 4 requires knowledge application of the Technology topics and these include Structure (O-Level syllabus only), Mechanism and Electronics
@@ -304,7 +303,6 @@ The assessment objectives of the subject can be found at SEAB website under the 
 <ol><li>	
 The Design journal - a real time document that reflects the candidate’s attempt at managing his/her personal design process. Mock-up(s) and resulting prototype are to be submitted as part of the journal. A3 sheets are to be used and the journals need to be securely fastened.</li>
 <li>Presentation Board - use to communicate succinctly the proposed design solution in relation to the design brief and design specifications. It should show the functional and aesthetic details using appropriate graphical skills to highlight the practicality and appropriateness of the proposed design solution. Two A2 boards (single-side) are to be submitted as part of the presentation board.</li></ol>
-<br>
 <b>Educational pathways for D&amp;T students who would like to pursue a career in related fields.</b>
 <br><br>	
 	<table border="1px solid black" style="width:100%">
@@ -340,7 +338,6 @@ The Design journal - a real time document that reflects the candidate’s attemp
 <li>Architectural Drafters / 3D Animators</li>
 <li>Brand / Packaging designers</li>
 	</ul>	
-<br>
 Go to the <a href="#">top</a>
 <br>
 <p></p></div></li>
