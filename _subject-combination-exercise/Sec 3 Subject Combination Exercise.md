@@ -6,7 +6,7 @@ description: ""
 ---
 ### Overview
 
-Sec 3 Subject Combination Exercise provides students with the opportunity to choose a subject combination they would like to pursue at the Upper Secondary levels (in addition to the compulsory subjects they are required to take), based on academic merit and interest in subjects offered.
+Sec 3 Subject Combination Exercise provides students with the opportunity to choose a subject combination they would like to pursue at the Upper Secondary levels (in addition to the compulsory subjects they are required to take), based on academic merit first and interest in subjects offered.
 
 This facilitates a deeper study in preferred subjects, preparing students for post-secondary education in JCs, Polytechnics, and ITEs. Hence, students should make their choices based on their aptitude, interest, career considerations, learning styles and dispositions.
 
