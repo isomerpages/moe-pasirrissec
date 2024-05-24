@@ -8,7 +8,7 @@ third_nav_title: Subject Combinations Available
 <ul class="jekyllcodex_accordion">
 	
 <li><input type="checkbox" id="accordion1">  
-<label for="accordion1"><b>Introduction to Upper Secondary Subjects (Normal Academic)</b></label><div>
+<label for="accordion1"><b>Information to Upper Secondary Elective Subjects (Normal Academic)</b></label><div>
 <p><br>	
 <a href="#section-1">Humanities</a><br>
 <a href="#section-2">Social Studies</a><br>
@@ -64,7 +64,7 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-4">Elective Geography</h3>
-Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment.&nbsp;
+Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment.
 <br><br>
 Generally, in both Pure Geography and Elective Geography, students will be taught skills of gathering and analysing information to understand and explain physical and human phenomena, and other contemporary environmental and social issues that occur in different places and cultures by
 <br>
@@ -155,7 +155,7 @@ Diploma International Logistic and Supply Chain Management
 <br><br>
 <b>Assessment Criteria for POA</b>
 <br><br>
-(To be upload soon)
+<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_POA_NA.png">
 <br><br>
 Go to the <a href="#">top</a>
 <br>
@@ -216,8 +216,8 @@ The table below shows the difference between Mathematics and Additional Mathemat
 <li>O-Level Mathematics would be adequate</li>
 </ul>
 	<b>Assessment Criteria for Additional Mathematics for Normal Academic</b>
-<br><br>	
-(To be upload soon)	
+<br><br>
+<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Additional_Maths_NA.png">
 <br><br>
 Go to the <a href="#">top</a>
 <br>
@@ -233,8 +233,20 @@ In addition, students will be exposed to a diverse range of local, regional and 
 <br><br>
 <b>Assessment Criteria for Art</b>
 <br><br>	
-(To be upload soon)
-<br><br>
+	<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Art_NA.png">
+<br>
+*The coursework assessment allows for:
+<ul><li>Candidates’ personal interpretation and response to their chosen themes</li>
+<li>Candidates’ engagement in art making and inquiry process; </li>
+<li>Candidates’ may choose any suitable craft type to present their Final Artwork; and</li>
+<li>Candidates’ visual and aesthetic awareness. </li></ul>
+
+#The drawing and painting assessment allows for:
+<ul><li>
+Candidates’ personal expression and response to their chosen themes using drawing and paint media;</li>
+			<li>Candidates’ inquiry and interpretation of their chosen theme; </li>
+			<li>Candidates’ can only present their Final Artwork in a drawing and/or painting medium; and </li>
+			<li>Candidates’ visual and aesthetic awareness. </li></ul>
 <b>Educational pathways for students who would like to pursue a career in Art.</b>
 <br><br>
 <table border="1px solid black" style="width:100%">
@@ -280,8 +292,19 @@ Design and Technology is a subject that aims to nurture children to possess impo
 <br><br>	
 <b>Assessment Criteria for Design &amp; Technology [O-Level and N-Level]</b>
 <br><br>
-(To be upload soon)
-<br><br>
+The assessment objectives of the subject can be found at SEAB website under the syllabus document as follow:
+<br>
+7059 - GCE O-Level D&amp;T<br>
+7055 - GCE N-Level D&amp;T<br>
+<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Design___Tech_NA.png">
+<br>
+*The written paper will be design-centric. Question 1 requires knowledge application of the design process. Questions 2 - 4 requires knowledge application of the Technology topics and these include Structure (O-Level syllabus only), Mechanism and Electronics
+<br><br>	
+# The design project is an individual coursework-based examination. The examination will be conducted over 22 weeks from the question paper release, excluding school holidays. Candidates are required to work on a design and prototyping project based on the examination question.  The design project will comprise of two components:
+<ol><li>	
+The Design journal - a real time document that reflects the candidate’s attempt at managing his/her personal design process. Mock-up(s) and resulting prototype are to be submitted as part of the journal. A3 sheets are to be used and the journals need to be securely fastened.</li>
+<li>Presentation Board - use to communicate succinctly the proposed design solution in relation to the design brief and design specifications. It should show the functional and aesthetic details using appropriate graphical skills to highlight the practicality and appropriateness of the proposed design solution. Two A2 boards (single-side) are to be submitted as part of the presentation board.</li></ol>
+<br>
 <b>Educational pathways for D&amp;T students who would like to pursue a career in related fields.</b>
 <br><br>	
 	<table border="1px solid black" style="width:100%">
