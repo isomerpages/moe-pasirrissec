@@ -64,7 +64,7 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-4">Elective Geography</h3>
-Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment.&nbsp;
+Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment.
 <br><br>
 Generally, in both Pure Geography and Elective Geography, students will be taught skills of gathering and analysing information to understand and explain physical and human phenomena, and other contemporary environmental and social issues that occur in different places and cultures by
 <br>
@@ -155,7 +155,7 @@ Diploma International Logistic and Supply Chain Management
 <br><br>
 <b>Assessment Criteria for POA</b>
 <br><br>
-	<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_POA_NA.png">
+<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_POA_NA.png">
 <br><br>
 Go to the <a href="#">top</a>
 <br>
@@ -216,8 +216,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
 <li>O-Level Mathematics would be adequate</li>
 </ul>
 	<b>Assessment Criteria for Additional Mathematics for Normal Academic</b>
-<br><br>	
-(To be upload soon)	
+<br><br>	<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Additional_Maths_NA.png">
 <br><br>
 Go to the <a href="#">top</a>
 <br>
