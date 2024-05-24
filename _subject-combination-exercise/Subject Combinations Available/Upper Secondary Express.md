@@ -225,7 +225,7 @@ Diploma International Logistic and Supply Chain Management<br>
 <br>
 	<b>Assessment Criteria for POA</b>
 <br><br>
-(To be upload soon)
+	<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_POA.png">
 <br><br>
 Go to the <a href="#">top</a>
 <br>
