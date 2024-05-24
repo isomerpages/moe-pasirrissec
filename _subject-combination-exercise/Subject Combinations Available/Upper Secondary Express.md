@@ -298,7 +298,7 @@ Go to the <a href="#">top</a>
 
 We offer Pure Sciences [Physics, Chemistry, Biology] and Combined Science [Science (Physics, Chemistry) and Science (Chemistry, Biology)]. The following table shows a summary of the O-Level Assessment criteria.
 <br><br>
-(To upload soon)
+<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Components_for_Sciences.png">
 <br><br>
 Pure Science subjects are relatively demanding in terms of breadth and depth compared to combined Science. For pure science, students need to be passionate about the subject, be analytical and enjoy in-depth learning. For instance, students need to study and understand relationships e.g., interpret data and graphs and be focused, precise and detailed in their reasoning. 
 <br><br>
