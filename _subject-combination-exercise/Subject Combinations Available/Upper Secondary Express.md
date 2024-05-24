@@ -320,7 +320,23 @@ In addition, students will be exposed to a diverse range of local, regional and 
 <br><br>
 <b>Assessment Criteria for Art</b>
 <br><br>
-(To upload soon)
+	<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Art.png"><br>
+	
+*The art task assessment allows for:
+	<ul><li>Candidates’ personal interpretation and response to their chosen themes</li>
+		<li>Candidates’ engagement in art making and inquiry process;&nbsp;</li>
+		<li>Candidates’ may choose any suitable craft type to present their Final Artwork; and</li>
+		<li>Candidates’ visual and aesthetic awareness. </li>
+		
+
+
+\# The portfolio assessment allows for:
+
+*   Candidates’ personal expression and response to their own self-directed theme and projects;
+*   Candidates’ investigation, interpretation and development of their 18 weeks projects,&nbsp; documented on their preparatory studies;&nbsp;
+*   Candidates’ are required to present&nbsp; 3 Final Artworks - a Digital journal and Art and Design (1 Fine Art &amp; 1 Design) work submission.
+*   Candidates’ visual and aesthetic awareness.
+
 <br><br>
 <b>Educational pathways for students who would like to pursue a career in Art.</b>
 <table border="1px solid black" style="width:100%">
@@ -406,7 +422,7 @@ Design and Technology is a subject that aims to nurture children to possess impo
 Go to the <a href="#">top</a>
 <br><br>
 
-<p></p></div></li>
+<p></p></ul></div></li>
 	
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2"><b>3E Subject Combinations for 2025</b></label><div>
