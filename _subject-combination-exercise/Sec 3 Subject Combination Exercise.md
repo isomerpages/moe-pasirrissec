@@ -95,10 +95,49 @@ exercise</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><u>Last Day of School</u>
+</p>
+<p>25 Oct</p>
+<p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>Issuing of letter for Subject Combination exercise </u></strong>and
+report books.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 Oct&nbsp; – 1 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Online Subject Combination exercise</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>08 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Release of Streaming Results @ 0800h via Allears platform</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11-13 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Appeal (Online) via Allears platform - <strong><u>Closes at 9am on 13 Nov</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Release of Appeal Results</p>
 </td>
 </tr>
 </tbody>
