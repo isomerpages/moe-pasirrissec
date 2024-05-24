@@ -89,7 +89,8 @@ organised in the following manner:</p>
 <p>Post exam activities (Oct)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Briefing to Sec 2 students with regards to on-line Subject Combination
+exercise</p>
 </td>
 </tr>
 <tr>
