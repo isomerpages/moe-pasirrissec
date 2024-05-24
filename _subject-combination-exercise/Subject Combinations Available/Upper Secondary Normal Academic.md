@@ -123,7 +123,7 @@ Students will be able to understand
 <li>how decisions are made using accounting information</li>
 <li>the limitations of relying only on accounting information; and</li>
 	<li>the consideration of non-accounting business-related information.</li>
-</ul><br>
+</ul>
 Students will be able to develop knowledge and understanding of:
 <ul>
 <li>role of accountants and the ethical values desired in the people who prepare the information</li>
@@ -135,7 +135,7 @@ Students will be able to develop knowledge and understanding of:
 <li>principles underlying accounting as a measurement system</li>
 <li>accounting information system and accounting cycle, and the double-entry recording method in maintaining records of business activities</li>
 <li>internal controls to ensure accuracy of information.</li>
-	</ul><br>
+	</ul>
 Students will be able to develop the skills of:
 <ul>
 <li>applying the double entry system of recording business transactions</li>
@@ -156,7 +156,7 @@ Diploma International Logistic and Supply Chain Management
 <b>Assessment Criteria for POA</b>
 <br><br>
 <img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_POA_NA.png">
-<br><br>
+<br>
 Go to the <a href="#">top</a>
 <br>
 	
