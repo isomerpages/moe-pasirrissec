@@ -8,7 +8,7 @@ third_nav_title: Subject Combinations Available
 <ul class="jekyllcodex_accordion">
 
 <li><input type="checkbox" id="accordion1">  
-<label for="accordion1"><b>Introduction to Upper Secondary Subjects (Express)</b></label><div>
+<label for="accordion1"><b>Information to Upper Secondary Elective Subjects (Express)</b></label><div>
 <p>
 <br>
 <a href="#section-1">Literature in English</a><br>
@@ -40,7 +40,7 @@ So why should your child take up Pure Literature?
 <li>Students explore texts that give them many opportunities to discuss and reassess their own values and beliefs. These act as a compass in life as they grow up.</li></ul>
 <b>Assessment Criteria for Literature in English</b>
 <br><br>
-(To be upload soon)
+<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Literature_in_English.png">
 <br><br>
 Go to the <a href="#">top</a>
 <br>
@@ -164,7 +164,7 @@ Pure Geography students will cover the syllabus in greater depth, comprising all
 <br><br>
 <b>Assessment Criteria for Humanities</b>
 <br><br>
-(To be upload soon)
+We offer Pure Humanities [History, Geography] and Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compulsory for ALL Express and Normal (Academic) students. The following table shows a summary of the O and N-Level Assessment components.
 <br><br>
 Go to the <a href="#">top</a>
 <br>
@@ -225,7 +225,7 @@ Diploma International Logistic and Supply Chain Management<br>
 <br>
 	<b>Assessment Criteria for POA</b>
 <br><br>
-(To be upload soon)
+	<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_POA.png">
 <br><br>
 Go to the <a href="#">top</a>
 <br>
@@ -289,7 +289,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
 	
 <b>Assessment Criteria for Additional Mathematics for Express and Normal Academic</b>
 <br><br>
-(To be upload soon)
+<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Additional_Maths.png">
 <br><br>
 Go to the <a href="#">top</a>
 <br>
@@ -298,7 +298,7 @@ Go to the <a href="#">top</a>
 
 We offer Pure Sciences [Physics, Chemistry, Biology] and Combined Science [Science (Physics, Chemistry) and Science (Chemistry, Biology)]. The following table shows a summary of the O-Level Assessment criteria.
 <br><br>
-(To upload soon)
+<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Components_for_Sciences.png">
 <br><br>
 Pure Science subjects are relatively demanding in terms of breadth and depth compared to combined Science. For pure science, students need to be passionate about the subject, be analytical and enjoy in-depth learning. For instance, students need to study and understand relationships e.g., interpret data and graphs and be focused, precise and detailed in their reasoning. 
 <br><br>
@@ -320,7 +320,19 @@ In addition, students will be exposed to a diverse range of local, regional and 
 <br><br>
 <b>Assessment Criteria for Art</b>
 <br><br>
-(To upload soon)
+	<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Art.png">
+<br><br>
+* The coursework assessment allows for:
+	<ul><li>Candidates’ personal interpretation and response to their chosen themes</li>
+		<li>Candidates’ engagement in art making and inquiry process;</li>
+		<li>Candidates’ may choose any suitable craft type to present their Final Artwork; and</li>
+		<li>Candidates’ visual and aesthetic awareness. </li></ul>
+		
+#The drawing and painting assessment allows for:
+<ul><li> Candidates’ personal expression and response to their chosen themes using drawing and paint media;</li>    
+<li>Candidates’ inquiry and interpretation of their chosen theme;&nbsp;</li>
+<li>Candidates’ can only present their Final Artwork in a drawing and/or painting medium; and&nbsp;</li>
+<li> Candidates’ visual and aesthetic awareness.</li>
 <br><br>
 <b>Educational pathways for students who would like to pursue a career in Art.</b>
 <table border="1px solid black" style="width:100%">
@@ -364,11 +376,21 @@ Design and Technology is a subject that aims to nurture children to possess impo
 <li>Develop strong critical and creative thinking by exploring many unusual and interesting ideas in response to a given design context and need.</li>
 	</ol>
 <br>
-		<b>Assessment Criteria for Design &amp; Technology (O-Level and NA-Level)</b>
+<b>Assessment Criteria for Design &amp; Technology (O-Level and NA-Level)</b>
 <br><br>
-(To be upload soon)
+The assessment objectives of the subject can be found at SEAB website under the syllabus document as follow:
+<br>
+7059 - GCE O-Level D&amp;T<br>
+7055 - GCE NA-Level D&amp;T
+<br><img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Design___Tech.png">
+<br>
+*The written paper will be design-centric. Question 1 requires knowledge application of the design process. Questions 2 - 4 requires knowledge application of the Technology topics and these include Structure (O-Level syllabus only), Mechanism and Electronics
 <br><br>
-
+#The design project is an individual coursework-based examination. The examination will be conducted over 22 weeks from the question paper release, excluding school holidays. Candidates are required to work on a design and prototyping project based on the examination question.&nbsp; The design project will comprise of two components:
+<br>
+<ol><li>The Design journal - a real time document that reflects the candidate’s attempt at managing his/her personal design process. Mock-up(s) and resulting prototype are to be submitted as part of the journal. A3 sheets are to be used and the journals need to be securely fastened.</li>
+<li>Presentation Board - use to communicate succinctly the proposed design solution in relation to the design brief and design specifications. It should show the functional and aesthetic details using appropriate graphical skills to highlight the practicality and appropriateness of the proposed design solution. Two A2 boards (single-side) are to be submitted as part of the presentation board.</li></ol>
+<br><br>
 <b>Educational pathways for D&amp;T students who would like to pursue a career in related fields</b>
 <br>
 	<table border="1px solid black" style="width:100%">
@@ -406,7 +428,7 @@ Design and Technology is a subject that aims to nurture children to possess impo
 Go to the <a href="#">top</a>
 <br><br>
 
-<p></p></div></li>
+<p></p></ul></div></li>
 	
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2"><b>3E Subject Combinations for 2025</b></label><div>
