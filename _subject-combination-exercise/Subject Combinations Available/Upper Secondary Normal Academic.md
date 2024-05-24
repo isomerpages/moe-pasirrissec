@@ -218,7 +218,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
 	<b>Assessment Criteria for Additional Mathematics for Normal Academic</b>
 <br><br>
 <img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Additional_Maths_NA.png">
-<br><br>
+<br>
 Go to the <a href="#">top</a>
 <br>
 	
