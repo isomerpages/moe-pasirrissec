@@ -216,7 +216,8 @@ The table below shows the difference between Mathematics and Additional Mathemat
 <li>O-Level Mathematics would be adequate</li>
 </ul>
 	<b>Assessment Criteria for Additional Mathematics for Normal Academic</b>
-<br><br>	<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Additional_Maths_NA.png">
+<br><br>
+<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Additional_Maths_NA.png">
 <br><br>
 Go to the <a href="#">top</a>
 <br>
@@ -232,8 +233,20 @@ In addition, students will be exposed to a diverse range of local, regional and 
 <br><br>
 <b>Assessment Criteria for Art</b>
 <br><br>	
-(To be upload soon)
-<br><br>
+	<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Art_NA.png">
+<br>
+*The coursework assessment allows for:
+<ul><li>Candidates’ personal interpretation and response to their chosen themes</li>
+<li>Candidates’ engagement in art making and inquiry process; </li>
+<li>Candidates’ may choose any suitable craft type to present their Final Artwork; and</li>
+<li>Candidates’ visual and aesthetic awareness. </li></ul>
+
+#The drawing and painting assessment allows for:
+<ul><li>
+Candidates’ personal expression and response to their chosen themes using drawing and paint media;</li>
+			<li>Candidates’ inquiry and interpretation of their chosen theme; </li>
+			<li>Candidates’ can only present their Final Artwork in a drawing and/or painting medium; and </li>
+			<li>Candidates’ visual and aesthetic awareness. </li></ul>
 <b>Educational pathways for students who would like to pursue a career in Art.</b>
 <br><br>
 <table border="1px solid black" style="width:100%">
