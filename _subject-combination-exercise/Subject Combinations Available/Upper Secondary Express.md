@@ -164,7 +164,7 @@ Pure Geography students will cover the syllabus in greater depth, comprising all
 <br><br>
 <b>Assessment Criteria for Humanities</b>
 <br><br>
-(To be upload soon)
+We offer Pure Humanities [History, Geography] and Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compulsory for ALL Express and Normal (Academic) students. The following table shows a summary of the O and N-Level Assessment components.
 <br><br>
 Go to the <a href="#">top</a>
 <br>
