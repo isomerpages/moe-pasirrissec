@@ -142,4 +142,5 @@ report books.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><em>*Dates may be subject to changes. Please check back regularly for updates.</em>
+</p>
