@@ -292,8 +292,19 @@ Design and Technology is a subject that aims to nurture children to possess impo
 <br><br>	
 <b>Assessment Criteria for Design &amp; Technology [O-Level and N-Level]</b>
 <br><br>
-(To be upload soon)
-<br><br>
+The assessment objectives of the subject can be found at SEAB website under the syllabus document as follow:
+<br>
+7059 - GCE O-Level D&amp;T<br>
+7055 - GCE N-Level D&amp;T<br>
+<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Design___Tech_NA.png">
+<br>
+*The written paper will be design-centric. Question 1 requires knowledge application of the design process. Questions 2 - 4 requires knowledge application of the Technology topics and these include Structure (O-Level syllabus only), Mechanism and Electronics
+<br><br>	
+# The design project is an individual coursework-based examination. The examination will be conducted over 22 weeks from the question paper release, excluding school holidays. Candidates are required to work on a design and prototyping project based on the examination question.  The design project will comprise of two components:
+<ol><li>	
+The Design journal - a real time document that reflects the candidate’s attempt at managing his/her personal design process. Mock-up(s) and resulting prototype are to be submitted as part of the journal. A3 sheets are to be used and the journals need to be securely fastened.</li>
+<li>Presentation Board - use to communicate succinctly the proposed design solution in relation to the design brief and design specifications. It should show the functional and aesthetic details using appropriate graphical skills to highlight the practicality and appropriateness of the proposed design solution. Two A2 boards (single-side) are to be submitted as part of the presentation board.</li></ol>
+<br>
 <b>Educational pathways for D&amp;T students who would like to pursue a career in related fields.</b>
 <br><br>	
 	<table border="1px solid black" style="width:100%">
