@@ -40,7 +40,7 @@ So why should your child take up Pure Literature?
 <li>Students explore texts that give them many opportunities to discuss and reassess their own values and beliefs. These act as a compass in life as they grow up.</li></ul>
 <b>Assessment Criteria for Literature in English</b>
 <br><br>
-(To be upload soon)
+<img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Literature_in_English.png">
 <br><br>
 Go to the <a href="#">top</a>
 <br>
