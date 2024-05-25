@@ -84,7 +84,7 @@ Geography students will cover the syllabus as follows:
   </tr>
   <tr>
     <td>Topics</td>
-    <td>(1) Thinking Geographically<br>(2) Sustainable Development<br>(3) Geographical Methods</td>
+    <td>1. Thinking Geographically<br>2. Sustainable Development<br>3. Geographical Methods</td>
   </tr>
 	  <tr>
 			<td><b>Cluster 2</b></td>
@@ -92,7 +92,7 @@ Geography students will cover the syllabus as follows:
   </tr>
 		<tr>
     <td>Topics</td>
-    <td>(1) Weather and Climate<br>(2) Climate Change<br>(3) Climate Action</td>
+    <td>1. Weather and Climate<br>2. Climate Change<br>3. Climate Action</td>
     <td></td>
   </tr>
 	</tbody></table>	
