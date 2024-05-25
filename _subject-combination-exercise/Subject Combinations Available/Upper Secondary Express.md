@@ -107,13 +107,12 @@ Go to the <a href="#">top</a>
 Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment. 
 <br><br>
 Generally, in both Pure Geography and Elective Geography, students will be taught skills of gathering and analysing information to understand and explain physical and human phenomena, and other contemporary environmental and social issues that occur in different places and cultures by 
-<br><br>
+<br>
 <ul>
 	<li>interpreting and recognising patterns in geographical data and deduce relationships
 	</li><li>organise and present geographic information in a coherent way</li>
 	<li>analyse, evaluate and synthesise geographical data to make informed and sound decisions.</li>
 	</ul>
-<br>
 The objective is to develop an inquiring mind to seek answers to issues affecting our lives and the world we live in, and prepared students for their roles as informed citizens in the 21st century and most importantly, inculcate an awareness of appropriate attitudes and values that promotes a positive geographical future; one that ensures the sustainability of our resources, people, country, and planet.
 <br><br>
 Pure Geography students will cover the syllabus in greater depth, comprising all the following:
