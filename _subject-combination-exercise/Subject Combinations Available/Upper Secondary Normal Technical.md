@@ -38,8 +38,7 @@ In addition, students will be exposed to a diverse range of local, regional and 
 <ul><li>Candidates’ personal expression and response to their own self-directed theme and projects;</li>
 <li>Candidates’ investigation, interpretation and development of their 18 weeks projects, documented on their preparatory studies;</li>   
 <li>Candidates’ are required to present 3 Final Artworks - a Digital journal and Art and Design (1 Fine Art &amp; 1 Design) work submission.</li>    
-<li>Candidates’ visual and aesthetic awareness.</li> 
-<br>	
+	<li>Candidates’ visual and aesthetic awareness.</li></ul>
 <b>Educational pathways for students who would like to pursue a career in Art &amp; Design.</b>
 <br><br>	
 <table border="1px solid black" style="width:100%">
@@ -160,7 +159,7 @@ The assessment comprises two compulsory papers. Paper 1 is a written paper and P
 <br>
 Go to the <a href="#">top</a>
 <br>	
-<p></p></ol></ul></div></li>
+<p></p></ol></div></li></ul>
 	
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2"><b>3N(T) Subject Combination for 2025</b></label><div>
@@ -190,4 +189,3 @@ Go to the <a href="#">top</a>
 <br>
 * The allocation of subject combination will be based on students’ overall academic performance, aptitude, the number of available vacancies for the subjects and availability of school resources. Subject Combination with less than 15 students may not be eventually implemented.	
 <p></p></div></li>	
-</ul>
