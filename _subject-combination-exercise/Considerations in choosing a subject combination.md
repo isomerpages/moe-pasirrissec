@@ -23,7 +23,7 @@ Students must meet the criteria for lateral transfer to be transferred to a more
 <p></p></div></li>
 
 <li><input type="checkbox" id="accordion2">  
-<label for="accordion2"><b>A Guide to choosing Subject Combinations</b></label><div>
+<label for="accordion2"><b>Guide to choosing Subject Combinations</b></label><div>
 <p>
 </p><h4>How to choose a subject combination?</h4>
 
