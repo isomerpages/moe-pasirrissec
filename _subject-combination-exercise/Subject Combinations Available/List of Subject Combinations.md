@@ -7,7 +7,7 @@ third_nav_title: Subject Combinations Available
 ---
 <table border="1px solid black" style="width:100%">
   <tbody>
-		<tr><td><center><h5 id="section1"><b>Secondary 3 Express</b></h5></center></td></tr></tbody></table>
+		<tr><td><center><h5 id="section-1"><b>Secondary 3 Express</b></h5></center></td></tr></tbody></table>
 
 Pasir Ris Secondary School - Sec 3E Subject Combinations for 2025
 
