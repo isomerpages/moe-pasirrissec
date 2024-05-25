@@ -8,7 +8,7 @@ third_nav_title: Subject Combinations Available
 <ul class="jekyllcodex_accordion">
 
 <li><input type="checkbox" id="accordion1">  
-<label for="accordion1"><b>Information to Upper Secondary Elective Subjects (Express)</b></label><div>
+<label for="accordion1"><b>Information on Upper Secondary Elective Subjects (Express)</b></label><div>
 <p>
 <br>
 <a href="#section-1">Literature in English</a><br>
@@ -330,7 +330,7 @@ In addition, students will be exposed to a diverse range of local, regional and 
 <ul><li> Candidates’ personal expression and response to their chosen themes using drawing and paint media;</li>    
 <li>Candidates’ inquiry and interpretation of their chosen theme;&nbsp;</li>
 <li>Candidates’ can only present their Final Artwork in a drawing and/or painting medium; and&nbsp;</li>
-	<li> Candidates’ visual and aesthetic awareness.</li></ul><b>Educational pathways for students who would like to pursue a career in Art.</b>
+	<li> Candidates’ visual and aesthetic awareness.</li></ul><b>Educational pathways for students who would like to pursue a career in Art</b>
 	<br><br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>

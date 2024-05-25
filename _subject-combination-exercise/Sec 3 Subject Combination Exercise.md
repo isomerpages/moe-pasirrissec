@@ -44,7 +44,7 @@ organised in the following manner:</p>
 </p>
 </li>
 </ol>
-<h3>Sec 2 Subject Combination Exercise (2024) - Important dates</h3>
+<h3>Important dates for 2024 Sec 2 Subject Combination Exercise </h3>
 <p></p>
 
 <table border="1px solid black" style="width:100%">
@@ -80,13 +80,9 @@ organised in the following manner:</p>
 				<td>08 Nov</td>
 				<td>Release of Streaming Results @ 0800h via Allears platform</td>
 	</tr>
-			<tr>
-				<td>11 Nov - <br>13 Nov</td>
-				<td>Appeal (Online) via Allears platform - <b><u>Closes at 9am on 13 Nov</u></b></td>
-	</tr>
-				<tr>
-				<td>18 Nov</td>
-				<td>Release of Appeal Results</td>
-	</tr>
-	</tbody></table><br>
-<i>*Dates may be subject to changes. Please check back regularly for updates</i>
+			<tr><td>11 Nov - <br>13 Nov</td>
+				<td>Appeal (Online) via Allears platform - <b><u>Closes at 9am on 13 Nov</u></b></td></tr>
+				<tr><td>18 Nov</td>
+				<td>Release of Appeal Results</td></tr>
+	</tbody></table>
+<i>*Dates may be subject to changes. Please check back regulary for updates</i>
