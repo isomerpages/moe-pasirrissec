@@ -46,94 +46,47 @@ organised in the following manner:</p>
 </ol>
 <h3>Sec 2 Subject Combination Exercise (2024) - Important dates</h3>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-</tr><tr>
-<td rowspan="1" colspan="1">
-<p>24 May 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Combination Microsite launched</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13 July (Saturday)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ECG Zoom Talk for parents by ECG Counsellor (via Zoom)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 July (Assembly period)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject combination briefing for all sec 2 classes + Q&amp;A</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Post exam activities (Oct)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Briefing to Sec 2 students with regards to on-line Subject Combination
-exercise</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><u>Last Day of School</u>
-</p>
-<p>25 Oct</p>
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Issuing of letter for Subject Combination exercise </u></strong>and
-report books.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>29 Oct&nbsp; – 1 Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Online Subject Combination exercise</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>08 Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Release of Streaming Results @ 0800h via Allears platform</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11-13 Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Appeal (Online) via Allears platform - <strong><u>Closes at 9am on 13 Nov</u></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18 Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Release of Appeal Results</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><em>*Dates may be subject to changes. Please check back regularly for updates.</em>
-</p>
+
+<table border="1px solid black" style="width:100%">
+  <tbody><tr>
+    <th>Date/Period</th>
+		<th>Description of Activity</th>
+  </tr>
+  <tr>
+    <td>24 May</td>
+		<td>Subject Combination Microsite launched</td>
+	</tr>
+		 <tr>
+    <td>13 July <br>(Saturday)</td>
+		<td>ECG Zoom Talk for parents by ECG Counsellor (via Zoom)</td>
+	</tr>
+			 <tr>
+    <td>30 July <br>(Assembly period)</td>
+		<td>Subject combination briefing for all sec 2 classes + Q&amp;A</td>
+	</tr>
+		<tr>
+    <td>Post exam activities <br>(Oct)</td>
+		<td>Briefing to Sec 2 students with regards to on-line Subject Combination exercise</td>
+	</tr>
+			<tr>
+				<td>25 Oct<br><u>Last Day of School</u></td>
+				<td><u><b>Issuing of letter for Subject Combination exercise</b></u> and report books.</td>
+	</tr>
+		<tr>
+				<td>29 Oct – <br>1 Nov</td>
+				<td>Online Subject Combination exercise</td>
+	</tr>
+		<tr>
+				<td>08 Nov</td>
+				<td>Release of Streaming Results @ 0800h via Allears platform</td>
+	</tr>
+			<tr>
+				<td>11 Nov - <br>13 Nov</td>
+				<td>Appeal (Online) via Allears platform - <b><u>Closes at 9am on 13 Nov</u></b></td>
+	</tr>
+				<tr>
+				<td>18 Nov</td>
+				<td>Release of Appeal Results</td>
+	</tr>
+	</tbody></table><br>
+<i>*Dates may be subject to changes. Please check back regularly for updates</i>
