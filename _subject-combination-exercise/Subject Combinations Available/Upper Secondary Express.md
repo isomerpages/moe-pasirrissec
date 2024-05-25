@@ -97,7 +97,7 @@ Pure History students will cover the syllabus in greater depth, comprising the f
 Students reading Elective History will only cover the following unit: 
 <br>
 <ol>
-<li>1.  The Making of the 20th Century Modern World, 1910s–1991.</li>
+<li>The Making of the 20th Century Modern World, 1910s–1991.</li>
 	</ol>	
 <br>
 Go to the <a href="#">top</a>
