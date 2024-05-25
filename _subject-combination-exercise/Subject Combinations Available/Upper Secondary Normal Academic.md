@@ -246,7 +246,7 @@ Candidates’ personal expression and response to their chosen themes using draw
 			<li>Candidates’ inquiry and interpretation of their chosen theme; </li>
 			<li>Candidates’ can only present their Final Artwork in a drawing and/or painting medium; and </li>
 			<li>Candidates’ visual and aesthetic awareness. </li></ul>
-<b>Educational pathways for students who would like to pursue a career in Art.</b>
+<b>Educational pathways for students who would like to pursue a career in Art</b>
 <br><br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
