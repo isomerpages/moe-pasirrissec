@@ -8,7 +8,7 @@ third_nav_title: Subject Combinations Available
 <ul class="jekyllcodex_accordion">
 	
 <li><input type="checkbox" id="accordion1">  
-<label for="accordion1"><b>Information to Upper Secondary Elective Subjects (Normal Academic)</b></label><div>
+<label for="accordion1"><b>Information on Upper Secondary Elective Subjects (Normal Academic)</b></label><div>
 <p><br>	
 <a href="#section-1">Humanities</a><br>
 <a href="#section-2">Social Studies</a><br>
