@@ -89,4 +89,4 @@ organised in the following manner:</p>
 				<td>Release of Appeal Results</td>
 	</tr>
 	</tbody></table>
-<i>*Dates may be subject to changes. Please check back regularly for updates</i>
+<i>*Dates may be subject to changes. Please check back regulary for updates</i>
