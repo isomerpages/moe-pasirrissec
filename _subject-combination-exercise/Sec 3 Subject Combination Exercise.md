@@ -88,5 +88,5 @@ organised in the following manner:</p>
 				<td>18 Nov</td>
 				<td>Release of Appeal Results</td>
 	</tr>
-	</tbody></table><br>
+	</tbody></table>
 <i>*Dates may be subject to changes. Please check back regularly for updates</i>
