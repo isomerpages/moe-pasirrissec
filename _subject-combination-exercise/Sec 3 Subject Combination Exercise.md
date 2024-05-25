@@ -44,8 +44,8 @@ organised in the following manner:</p>
 </p>
 </li>
 </ol>
-<p><strong>Sec 2 Subject Combination Exercise (2024) - Important dates</strong>
-</p>
+<h3>Sec 2 Subject Combination Exercise (2024) - Important dates</h3>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -53,14 +53,7 @@ organised in the following manner:</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
+</tr><tr>
 <td rowspan="1" colspan="1">
 <p>24 May 2024</p>
 </td>
