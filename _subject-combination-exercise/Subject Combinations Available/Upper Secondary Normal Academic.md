@@ -288,7 +288,7 @@ Design and Technology is a subject that aims to nurture children to possess impo
 <li>Communicate confidently their design solutions through doodling and/or sketching and 3D manipulation of material.</li>
 <li>Develop strong critical and creative thinking by exploring many unusual and interesting ideas in response to a given design context and need.</li>
 </ol>
-<b>Assessment Criteria for Design &amp; Technology [O-Level and N-Level]</b>
+<b>Assessment Criteria for Design &amp; Technology (O-Level and N-Level)</b>
 <br><br>
 The assessment objectives of the subject can be found at SEAB website under the syllabus document as follow:
 <br><br>
