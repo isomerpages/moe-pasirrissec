@@ -156,31 +156,3 @@ Go to the <a href="#">top</a>
 <br>	
 <p></p></ol></div></li></ul>
 	
-<li><input type="checkbox" id="accordion2">  
-<label for="accordion2"><b>3N(T) Subject Combination for 2025</b></label><div>
-<p>	
-</p><h4>Pasir Ris Secondary School - Sec 3N(T) Subject Combination for 2025</h4>
-<br><br>
-<table border="1px solid black" style="width:50%">
-  <tbody><tr style="background-color:#3CB371">
-    <th style="text-align:center">Combination</th>
-    <th style="text-align:center">1</th>
-		<th style="text-align:center">2</th>
-		<th style="text-align:center">3</th>
-		<th style="text-align:center">4</th>
-		<th style="text-align:center">5</th>
-		<th style="text-align:center">6</th>
-  </tr>
-  <tr>
-    <td>3T7</td>
-    <td>English Language</td>
-		<td>Mother Tongue</td>
-		<td>Mathematics</td>
-		<td>Computer Applications</td>
-		<td>Science</td>
-		<td style="text-align:center">Art<br><b>or</b><br>Design Technology<br><b>or</b><br>Elements of Business Studies (EBS)</td>
-  </tr>
-</tbody></table>		
-<br>
-* The allocation of subject combination will be based on students’ overall academic performance, aptitude, the number of available vacancies for the subjects and availability of school resources. Subject Combination with less than 15 students may not be eventually implemented.	
-<p></p></div></li>
