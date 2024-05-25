@@ -216,9 +216,9 @@ At upper secondary level, your child/ward will have to offer a set of compulsory
 <a href="/upper-secondary-express/">3 Express Subjects</a><br>
 <a href="/upper-secondary-normal-academic/">3 Normal Academic Subjects</a><br>
 <a href="/upper-secondary-normal-technical/">3 Normal Technical Subjects</a><br>
-<a href="/upper-secondary-express/">3 Express Subject Combinations for 2025</a><br>
-<a href="/upper-secondary-normal-academic/">3 Normal Academic Combinations for 2025</a><br>
-<a href="/upper-secondary-normal-technical/">3 Normal Technical Combinations for 2025</a>
+<a href="/list-of-subject-combinations/">3 Express Subject Combinations for 2025</a><br>
+<a href="/list-of-subject-combinations/">3 Normal Academic Combinations for 2025</a><br>
+<a href="/list-of-subject-combinations/">3 Normal Technical Combinations for 2025</a>
 <br>
 <h4>STEP 5: Submit online application (Links to be created nearer to the exercise)</h4>
 a) View instructions for online subject combination selection here. Submit your four subject combination options here.<br><br>
