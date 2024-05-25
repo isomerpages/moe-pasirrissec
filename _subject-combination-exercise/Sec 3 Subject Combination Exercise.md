@@ -80,13 +80,9 @@ organised in the following manner:</p>
 				<td>08 Nov</td>
 				<td>Release of Streaming Results @ 0800h via Allears platform</td>
 	</tr>
-			<tr>
-				<td>11 Nov - <br>13 Nov</td>
-				<td>Appeal (Online) via Allears platform - <b><u>Closes at 9am on 13 Nov</u></b></td>
-	</tr>
-				<tr>
-				<td>18 Nov</td>
-				<td>Release of Appeal Results</td>
-	</tr>
+			<tr><td>11 Nov - <br>13 Nov</td>
+				<td>Appeal (Online) via Allears platform - <b><u>Closes at 9am on 13 Nov</u></b></td></tr>
+				<tr><td>18 Nov</td>
+				<td>Release of Appeal Results</td></tr>
 	</tbody></table>
 <i>*Dates may be subject to changes. Please check back regulary for updates</i>
