@@ -125,7 +125,6 @@ The subject provides students with the foundational knowledge and skills for fur
 <br>
 <ol>
 <li><b>Foundational business knowledge</b></li>
-	
 The foundational business knowledge includes the knowledge and understanding of the three units of the syllabus: Understanding business activities, Basic marketing and Customer relations.
 <br><br>
 <b>Unit 1:</b> Understanding business activities This unit helps students to understand the purpose of a business and the various types of businesses in the Travel and Tourism, Hospitality, and Retail industries. Impact of competition and trends on the businesses, and careers in these industries, are also examined to develop an understanding of the challenges and opportunities presented.
@@ -137,19 +136,16 @@ The foundational business knowledge includes the knowledge and understanding of 
 <b>Unit 4:</b> Business investigation This unit helps students to understand the process and skills needed to carry out an investigation for a business to improve its marketing mix so as to enhance its customers’ experience. Students will select, interpret, analyse and evaluate information and apply business knowledge to propose innovative and reasoned recommendation.
 <br><br>	
 	<li><b>Enterprising mindset</b></li>
-<br>
 The landscape of business is constantly evolving due to economic, demographic and technological change. Having an enterprising mindset prepares students for an evolving employment landscape, where employees are expected to seek continuous improvement to meet new challenges and demands. The ability to propose better ways of marketing and how to improve customer relations help to add value to a business. The disposition and mindset to contribute and improve oneself help to develop students as active contributors to society.
 <br><br>	
 <li><b>Decision-making skills</b></li>
-<br>
 Businesses and their employees have to make decisions on marketing and customer relations to grow the business. The syllabus provides opportunities for students to learn the process of gathering the information necessary to make a reasoned recommendation, so as to enhance the customer experience for a real-world business. Sound decision-making skills are transferable and beneficial to students’ future area of study and work.
 <br><br>	
 <li><b>21st Century Competencies</b></li>
-<br>
 The syllabus is aligned to the 21st Century Competencies framework. Students will develop an awareness of the business landscape in Singapore, and the need to innovate to embrace the opportunities and challenges posed by changing customers’ expectations and technological advancement. This awareness will help students to be more effective in contributing to society when they join the workforce. A deeper understanding of the needs and wants of different people will help students to develop social cultural awareness, and the skills to work collaboratively with people from diverse backgrounds. Learning how to communicate with customers will help students to apply communication skills in an authentic setting.
 <br><br>
 The skills in business investigation will enable students to connect business concepts and content with real world contexts. The fostering of an enterprising mindset in the business investigation process provides opportunities for students to think critically and to develop well-reasoned decisions about how to improve an authentic business. The students will also learn to manage and use information responsibly to aid their business investigation, which will serve them well in their future study and work.
-
+<br><br>
 <b>ASSESSMENT Criteria:</b>
 <br><br>
 The assessment comprises two compulsory papers. Paper 1 is a written paper and Paper 2 takes the form of a coursework.
