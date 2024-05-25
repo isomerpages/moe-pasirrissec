@@ -44,7 +44,7 @@ organised in the following manner:</p>
 </p>
 </li>
 </ol>
-<h3>Sec 2 Subject Combination Exercise (2024) - Important dates</h3>
+<h3>Important dates for 2024 Sec 2 Subject Combination Exercise </h3>
 <p></p>
 
 <table border="1px solid black" style="width:100%">
