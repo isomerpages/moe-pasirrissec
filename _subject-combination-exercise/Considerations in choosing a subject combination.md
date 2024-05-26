@@ -184,7 +184,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 		</tr>
 		<tr>		
 		<td>4.</td><td><a href="https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/">Nanyang Academy of Fine Arts Foundation Programme (NFP)</a></td>
-	</tr></tbody></table>
+	</tr></tbody></table><br>
 Please note that students who are keen to proceed to ITE can also consider participating in the ITE Early Admission Exercise Option (ITE EAE) which is an aptitude-based admissions exercise to a Nitec or Higher Nitec course.
 <br><br>
 <table border="1px solid black" style="width:100%">
@@ -198,7 +198,7 @@ Please note that students who are keen to proceed to ITE can also consider parti
 	 <td>2</td>
 	 <td><a href="https://www.ite.edu.sg/courses/full-time-courses/nitec">Institute of Technical Education</a> (Nitec &amp; Higher Nitec courses)
 </td></tr>
-	</tbody></table>	 
+	</tbody></table><br>	 
 Please note that students who are keen to proceed to ITE can also consider participating in the ITE Early Admission Exercise Option (ITE EAE) which is an aptitude-based admissions exercise to a Nitec or Higher Nitec course.
 <br><br>
 <h4>STEP 4: Select Subject Combinations which include the relevant elective subjects</h4>
