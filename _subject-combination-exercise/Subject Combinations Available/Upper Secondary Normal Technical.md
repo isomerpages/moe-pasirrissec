@@ -103,7 +103,7 @@ The assessment objectives of the subject can be found at SEAB website under the 
  </tr>
 </tbody></table>
 <br>
-<b>These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology</b>
+<b>These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology.</b>
 <br>
 <ul>
 <li>Applications Developer &amp; Engineer</li>
