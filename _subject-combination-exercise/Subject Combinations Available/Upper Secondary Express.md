@@ -355,7 +355,7 @@ In addition, students will be exposed to a diverse range of local, regional and 
   </tr>
 		 <tr>
     <td>Republic Poly<br>School of Technology for the Arts</td>
-    <td>Students will learn how to balance your creativity with a keen aesthetic eye and core technical skills, combined with arts expertise for a successful career in the arts.</td>
+    <td>Students will learn how to balance their creativity with a keen aesthetic eye and core technical skills, combined with arts expertise for a successful career in the arts.</td>
   </tr>
 	</tbody></table>
 <br>
