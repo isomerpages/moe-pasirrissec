@@ -200,7 +200,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
 	<ul><li>Normal Academic: A good pass in N(A) Mathematics</li></ul>
 	<li>Algebra proficiency</li>
   <li>Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential</li></ul>
-<b>Implication on admission requirement for post-secondary studies</b>
+	<b><u>Implication on admission requirement for post-secondary studies</u></b>
 <br><br>
 <b>Junior College</b>
 <br>
