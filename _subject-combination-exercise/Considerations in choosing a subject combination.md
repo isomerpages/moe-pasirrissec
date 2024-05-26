@@ -136,82 +136,87 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
     <th colspan="2"><h5>Express Course</h5></th>
   </tr>
   <tr>
-    <td>a. Junior Colleges &amp; Institute</td>
+    <td>a. Junior Colleges &amp; Millennia Institute<br>(A Level Courses)</td>
 		<td>1. <a href="https://asrjc.moe.edu.sg/">ANDERSON SERANGOOON JUNIOR COLLEGE</a><br>
 			2. <a href="https://www.acjc.moe.edu.sg/">ANGLO-CHINESE JUNIOR COLLEGE</a><br> 
 			3. <a href="https://cjc.moe.edu.sg/">CATHOLIC JUNIOR COLLEGE</a><br>
 			4. <a href="https://www.hci.edu.sg/">HWA CHONG INSTITUTION (JUNIOR COLLEGE)</a><br>
 			5. <a href="https://tmjc.moe.edu.sg/">TAMPINES MERIDIAN JUNIOR COLLEGE</a><br>
-			6. <a href="http://www.millenniainstitute.moe.edu.sg/">MILLENNIA INSTITUTE</a><br>
-			7. <a href="http://nanyangjc.moe.edu.sg/">NANYANG JUNIOR COLLEGE</a><br>
-			8. <a href="http://nationaljc.moe.edu.sg/">NATIONAL JUNIOR COLLEGE</a><br>
-			9. <a href="https://jpjc.moe.edu.sg/">JURONG PIONEER JUNIOR COLLEGE</a><br>
-			10. <a href="http://www.standrewsjc.moe.edu.sg/">ST. ANDREWS JUNIOR COLLEGE</a><br>
-			11. <a href="http://www.temasekjc.moe.edu.sg/">TEMASEK JUNIOR COLLEGE</a><br>
-			12. <a href="https://victoriajc.moe.edu.sg/">VICTORIA JUNIOR COLLEGE</a><br>
-			13. <a href="https://yijc.moe.edu.sg/">YISHUN INNOVA JUNIOR COLLEGE</a><br>
+			6. <a href="http://nanyangjc.moe.edu.sg/">NANYANG JUNIOR COLLEGE</a><br>
+			7. <a href="http://nationaljc.moe.edu.sg/">NATIONAL JUNIOR COLLEGE</a><br>
+			8. <a href="https://jpjc.moe.edu.sg/">JURONG PIONEER JUNIOR COLLEGE</a><br>
+			9. <a href="http://www.standrewsjc.moe.edu.sg/">ST. ANDREWS JUNIOR COLLEGE</a><br>
+			10. <a href="http://www.temasekjc.moe.edu.sg/">TEMASEK JUNIOR COLLEGE</a><br>
+			11. <a href="https://victoriajc.moe.edu.sg/">VICTORIA JUNIOR COLLEGE</a><br>
+			12. <a href="https://yijc.moe.edu.sg/">YISHUN INNOVA JUNIOR COLLEGE</a><br>
+			13. <a href="http://www.millenniainstitute.moe.edu.sg/">MILLENNIA INSTITUTE</a>
 </td>
+<td>Please note that students who are keen to proceed to junior colleges can also consider participating in the Direct School Admission for junior colleges <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa">DSA-JC</a></td>
  </tr><tr>
-    <td colspan="2">b. <a href="https://www.moe.gov.sg/coursefinder?journey=Polytechnics">Polytechnics</a></td>
+    <td colspan="2">b. <a href="https://www.moe.gov.sg/coursefinder?journey=Polytechnics">Polytechnics<br></a>(Diploma Courses)</td>
 	  <td></td>
-		</tr><tr>	
-		<td colspan="2">c. <a href="https://www.ite.edu.sg/courses/full-time-courses/higher-nitec">ITE (Higher Nitec)</a></td>
+		<td>Please note that students who are keen to proceed to polytechnics can also consider participating in the <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">Polytechnic Early Admission Exercise (Poly-EAE)</a>
+		</td></tr><tr>	
+		<td colspan="2">c. <a href="https://www.ite.edu.sg/courses/full-time-courses/higher-nitec">Institute of Technical Education</a><br>(Higher Nitec courses)</td>
+		<td></td>
+		<td>Please note that students who are keen to proceed to ITE can also consider participating in the <u>ITE Early Admission Exercise Option (ITE EAE)</u> which is an aptitude-based admissions exercise to a Nitec or Higher Nitec course</td>
 		</tr>
 		<tr>		
 	<td colspan="2">d. <a href="https://www.nafa.edu.sg/">Nanyang Academic of Fine Arts (NAFA)</a></td>
 		</tr>
 		<tr>		
 	<td colspan="2">e. <a href="https://www.lasalle.edu.sg/">LASELLE College of Arts</a></td>
-		</tr>
-			<tr>		
-		<td colspan="2">f. <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">Polytechnic EAE</a></td>
-		</tr>
-		<tr>		
-		<td colspan="2">g. <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa">DSA for Junior Colleges (DSA-JC)</a></td>
-		</tr>
-</tbody></table>
+</tr></tbody></table>
 <br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th colspan="2"><h5>Normal Academic Course</h5></th>
   </tr>
  <tr>
-	 <td>a.</td>
+	 <td>1.</td>
 	 <td><a href="https://pfp.polytechnic.edu.sg/PFP/index.html"> Polytechnic Foundation Programme (PFP)</a></td>
 		</tr><tr>		
-		<td>b.</td>
+		<td>2.</td>
 		<td><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme">Direct Entry Scheme to Polytechnic Programme (DPP)</a></td>
 		</tr>
 		<tr>		
-			<td>c.</td><td><a href="https://www.pasirissec.moe.edu.sg/">Pasir Ris Secondary School</a></td>
+			<td>3.</td><td><a href="https://www.pasirissec.moe.edu.sg/">Pasir Ris Secondary School</a></td>
 		</tr>
 		<tr>		
-		<td>d.</td><td><a href="https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/NAFA">Foundation Programme (NFP)</a></td>
+		<td>4.</td><td><a href="https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/">Nanyang Academy of Fine Arts Foundation Programme (NFP)</a></td>
 	</tr></tbody></table>
-<br>
+Please note that students who are keen to proceed to ITE can also consider participating in the ITE Early Admission Exercise Option (ITE EAE) which is an aptitude-based admissions exercise to a Nitec or Higher Nitec course.
+<br><br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th colspan="2"><h5>Normal Technical Course</h5></th>
   </tr>
  <tr>
 	 <td>1</td>
-	 <td><a href="https://www.ite.edu.sg/courses/full-time-courses/nitec">ITE (Nitec &amp; 3yr Higher Nitec)</a></td>
-</tr>
+	 <td><a href="https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise">Institute of Technical Education&nbsp;Early Admission Exercise</a> (Nitec &amp; 3 year Higher Nitec courses)</td>
+		</tr><tr>
+	 <td>2</td>
+	 <td><a href="https://www.ite.edu.sg/courses/full-time-courses/nitec">Institute of Technical Education</a> (Nitec &amp; Higher Nitec courses)
+</td></tr>
 	</tbody></table>	 
-<br>
+Please note that students who are keen to proceed to ITE can also consider participating in the ITE Early Admission Exercise Option (ITE EAE) which is an aptitude-based admissions exercise to a Nitec or Higher Nitec course.
+<br><br>
 <h4>STEP 4: Select Subject Combinations which include the relevant elective subjects</h4>
 At upper secondary level, your child/ward will have to offer a set of compulsory subjects. In addition to these, your child/ward may choose between 1-3 elective subjects. Based on the courses and prerequisite subjects shortlisted in Step 3, identify the relevant Subject Combinations.  You can click the links below to view the Subject Combinations available and find out more about the subjects.
 <br><br>
-<a href="/upper-secondary-express/">3 Express Subjects</a><br>
-<a href="/upper-secondary-normal-academic/">3 Normal Academic Subjects</a><br>
-<a href="/upper-secondary-normal-technical/">3 Normal Technical Subjects</a><br><br>
-<a href="/list-of-subject-combinations.html#section-1">3 Express Subject Combinations for 2025</a><br>
-<a href="/list-of-subject-combinations.html#section-2">3 Normal Academic Combinations for 2025</a><br>
-<a href="/list-of-subject-combinations.html#section-3">3 Normal Technical Combinations for 2025</a>
+<a href="/list-of-subject-combinations.html#section-1">Sec 3 Express Subject Combinations for 2025</a><br>
+<a href="/upper-secondary-express/">Information on Sec 3 Express Elective Subjects</a>
+<br><br>
+<a href="/list-of-subject-combinations.html#section-2">Sec 3 Normal (Academic) Combinations for 2025</a><br>
+<a href="/upper-secondary-normal-academic/">Information on Sec 3 Normal (Academic) Elective Subjects</a>
+<br><br>  
+<a href="/list-of-subject-combinations.html#section-3">Sec 3 Normal (Technical) Combinations for 2025</a><br>
+<a href="/upper-secondary-normal-technical/">Information on Sec 3 Normal (Technical) Elective Subjects</a>
+ <br><br>
+	
+<h4>STEP 5: Submit online application<br>(Links to be created nearer to the exercise)</h4>
+	<ol><li>View instructions for online subject combination selection here.</li>
+<li>Submit your four subject combination options here.</li>
+<li>Parents need to acknowledge, by submitting a signed copy of the selected subject combinations here or via the QR code by Nov 2024.</li></ol>
 <br>
-<h4>STEP 5: Submit online application</h4>
-<ol><li>View instructions for online subject combination selection here*. Submit your four subject combination options here*.</li>
-<li>Parents need to acknowledge, by submitting a signed copy of the selected subject combinations here* or via the QR code by Nov 2024.</li></ol>
-<br>
-<i>*Links will be inserted when nearer to the exercise</i>
 <p></p></div></li></ul>

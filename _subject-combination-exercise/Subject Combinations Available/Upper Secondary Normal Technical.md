@@ -56,7 +56,7 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-2">Design &amp; Technology</h3>
-Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
+Design and Technology is a subject that aims to nurture students to possess important sets of learning dispositions as follow:
 <br>
 <ol style="a">
 <li>Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.</li>   
@@ -86,11 +86,11 @@ The assessment objectives of the subject can be found at SEAB website under the 
     <th>What the course/programme entails</th>
   </tr>
   <tr>
-    <td>Nitec in Product Design <br><br> Nitec in Space Design</td>
+    <td>Nitec in Product Design<br>Nitec in Space Design</td>
     <td>For Nitec in Product Design, students will learn the fundamental skills in the creation and design of consumer goods such as consumer electronics, furniture and lifestyle goods.<br>For Nitec in Space design, students will learn to explore and transform both 2D and/or 3D ordinary interior spaces into conducive environment to learn, work and play.</td>
   </tr>
 		  <tr>
-    <td>Nitect in Medical Manufacturing Technology <br><br>Nitec in Automotive Technology</td>
+    <td>Nitec in Medical Manufacturing Technology<br>Nitec in Automotive Technology</td>
     <td>For Nitec in Medical Manufacturing Technology, students will learn about designing body parts such as knee joints, bone screws, dental implants and so on as to to bring mobility and hope back to the affected patients. <br>For Nitec in Automobile Technology (light vehicles), students will learn to diagnose, service, repair and maintain modern computer-equipped light vehicles ranging from saloon cars to sports utility vehicles, multi-purpose vehicles and light utility vans.</td>
   </tr>
 		  <tr>
@@ -98,12 +98,12 @@ The assessment objectives of the subject can be found at SEAB website under the 
     <td>Students will work in diverse fields such as consumer electronics, medical products, furniture design, packaging design, transportation design, product merchandising, object/craft design and more.</td>
   </tr>
 			  <tr>
-    <td> Interior Design, BA (Hons) from SIT<br>BS (Architecture and Sustainable Design) from SUTD<br>BA (Industrial Design) (Hons) from NUS<br>Bachelor of Fine Arts in Product Design from NTU</td>
+    <td>Bachelor of Arts (Hons) in Interior Design from SIT<br><br>Bachelor of Science in&nbsp;Architecture and Sustainable Design from SUTD<br><br>Bachelor of Arts (Hons) in Industrial Design from NUS<br><br>Bachelor of Fine Arts in Product Design from NTU</td>
     <td>Most of the courses are 4-year undergraduate honours programmes. They adopted a 3-pronged approach:<br><br>1.  Design Thinking: Out-of-box innovation strategies and investigative methods are used to discover new ideas and unmet needs.<br><br>2.  Multi-Disciplinary Aptitudes: behavioural sciences, social economics, business strategy, engineering and technology knowledge develop entrepreneurial strategic thinking and holistic problem solving skills.<br><br>3.  Artistic sensibility: training of imagination, taste and craft-like ability to give pleasing and appropriate aesthetics and emotion to ideas, through traditional and 2D/3D digital means, so that solutions are both functional and desirable.</td>
  </tr>
 </tbody></table>
 <br>
-<b>These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology</b>
+<b>These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology.</b>
 <br>
 <ul>
 <li>Applications Developer &amp; Engineer</li>

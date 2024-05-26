@@ -33,7 +33,7 @@ Upper Secondary students must read at least one Humanities subject. If the stude
   </tr>
   <tr>
     <td style="text-align:center">2</td>
-    <td>Humanities 2126 (Social Studies &amp; Elective History)</td>
+    <td>Humanities 2273 (Social Studies &amp; Elective History)</td>
   </tr>
 	</tbody></table>
 
@@ -41,7 +41,7 @@ Upper Secondary students must read at least one Humanities subject. If the stude
 Go to the <a href="#">top</a>
 <br>
 	
-<h3 id="section-2">Social Studies</h3>
+<h3 id="section-2">Social Studies - Compulsory</h3>
 Social Studies is the compulsory half of the Humanities subject.
 <br><br>
 At the heart of the Social Studies Curriculum is the preparation of students to be citizens of tomorrow by helping them to better understand the <b>interconnectedness of Singapore and the world they live in</b>, and appreciate <b>the complexities of the human world</b>. Drawing on aspects of society that are of meaning and interest to the students, Social Studies seeks to ignite students’ curiosity to <b>inquire into real-world issues that concern their lives</b>. Through inquiry and authentic learning experiences, Social Studies helps students to attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives. Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world they live in, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.
@@ -150,7 +150,7 @@ Diploma in Bank and Finance<br>
 Diploma in Business Studies<br>
 Diploma in Business Information Technology<br>
 Diploma in Tourism and Resort Management<br>
-Diploma International Logistic and Supply Chain Management
+Diploma in International Logistic and Supply Chain Management
 <br><br>
 <b>Assessment Criteria for POA</b>
 <br><br>
@@ -182,7 +182,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
   </tr>
   <tr>
     <td>Relates easily to real life e.g., interest rates, speed, time, area etc.</td>
-    <td>More abstract e.g., Proofs, Binomial Expansion, maximum/minimum areas etc  </td>
+    <td>More abstract e.g., Proofs, Binomial Expansion, maximum/minimum areas etc.</td>
   </tr>
 		  <tr>
     <td>Questions involving direct application of formula<br>More direct questions e.g., find gradient of a straight line </td>
@@ -197,10 +197,10 @@ The table below shows the difference between Mathematics and Additional Mathemat
 <b>Requirements to take up Additional Mathematics at Sec 3:</b>
 <ul>
 	<li>Good performance in marks</li>
-	<ul><li>NA: A good pass in N(A) Mathematics</li></ul>
+	<ul><li>Normal Academic: A good pass in N(A) Mathematics</li></ul>
 	<li>Algebra proficiency</li>
   <li>Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential</li></ul>
-<b>Implication on admission requirement for post-secondary studies</b>
+	<b><u>Implication on admission requirement for post-secondary studies</u></b>
 <br><br>
 <b>Junior College</b>
 <br>
@@ -258,20 +258,20 @@ Candidates’ personal expression and response to their chosen themes using draw
     <td>Students are able to build a solid foundation while nurturing their creative attitudes and critical thinking skills. Students are able to gain broader perspectives, develop problem-solving skills and learn about social responsibility.</td>
   </tr>
   <tr>
-    <td>Temasek Poly School of design</td>
-    <td>There are a wide range of course which allows students to further their studies in Art depending on their interest. They are able to choose from product design course, interior/architectural design, digital/filmmaking and apparel design or merchandising. These courses allows them to learn the skills acquired in the individual industry and beneficial for their future career path.</td>
+    <td>Temasek Poly<br>School of design</td>
+    <td>There are a wide range of courses which allows students to further their studies in Art depending on their interest. They are able to choose from product design course, interior/architectural design, digital/filmmaking and apparel design or merchandising. These courses allows them to learn the skills acquired in the individual industry and beneficial for their future career path.</td>
   </tr>		
   <tr>
-    <td>Nanyang Poly’s School of Design (SDN)</td>
-    <td>There are four diploma courses which focus on building a strong design foundation and inspiring you to make the world a better place for everyone through excellence in design. It is a studio-based approach to learning and project-based curriculum is modelled after a real-world environment where students will work on actual projects, pitch their ideas to industry experts and see their designs come to life</td>
+    <td>Nanyang Poly<br>School of Design</td>
+    <td>There are four diploma courses which focus on building a strong design foundation and inspiring students to make the world a better place for everyone through excellence in design. It is a studio-based approach to learning and project-based curriculum is modelled after a real-world environment where students will work on actual projects, pitch their ideas to industry experts and see their designs come to life.</td>
   </tr>
  <tr>
     <td>LASALLE College of the Arts</td>
     <td>Students will learn how their passion and love for the arts can be turned into a passport for entry into a promising career in the growing creative industries.</td>
   </tr>
 		 <tr>
-    <td>Republic Poly School of Technology for the Arts</td>
-    <td>Students will learn how to balance your creativity with a keen aesthetic eye and core technical skills, combined with arts expertise for a successful career in the arts.</td>
+    <td>Republic Poly<br>School of Technology for the Arts</td>
+    <td>Students will learn how to balance their creativity with a keen aesthetic eye and core technical skills, combined with arts expertise for a successful career in the arts.</td>
   </tr>
 	</tbody></table>
 <br>
@@ -279,7 +279,7 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-8">Design and Technology</h3>
-Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
+Design and Technology is a subject that aims to nurture students to possess important sets of learning dispositions as follow:
 <br>
 <ol type="a">
 <li>Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.</li>  
@@ -315,7 +315,7 @@ The Design journal - a real time document that reflects the candidate’s attemp
     <td>For Nitec in Product Design, students will learn the fundamental skills in the creation and design of consumer goods such as consumer electronics, furniture and lifestyle goods. <br><br>For Nitec in Space design, students will learn to explore and transform both 2D and/or 3D ordinary interior spaces into conducive environment to learn, work and play.</td>
   </tr>
 		 <tr>
-    <td>Nitect in Medical Manufacturing Technology<br><br>Nitec in Automotive Technology</td>
+    <td>Nitec in Medical Manufacturing Technology<br><br>Nitec in Automotive Technology</td>
     <td>For Nitec in Medical Manufacturing Technology, students will learn about designing body parts such as knee joints, bone screws, dental implants and so on as to bring mobility and hope back to the affected patients. <br><br>For Nitec in Automobile Technology (light vehicles), students will learn to diagnose, service, repair and maintain modern computer-equipped light vehicles ranging from saloon cars to sports utility vehicles, multi-purpose vehicles and light utility vans.</td>
   </tr>
 		 <tr>
@@ -328,7 +328,7 @@ The Design journal - a real time document that reflects the candidate’s attemp
   </tr>
 	</tbody></table>		
 <br>
-<b>These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology</b>
+<b>These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology.</b>
 <br>	
 <ul>
 <li>Applications Developer &amp; Engineer</li>
