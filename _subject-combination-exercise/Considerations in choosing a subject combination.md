@@ -194,7 +194,10 @@ Please note that students who are keen to proceed to ITE can also consider parti
  <tr>
 	 <td>1</td>
 	 <td><a href="https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise">Institute of Technical Education&nbsp;Early Admission Exercise</a> (Nitec &amp; 3 year Higher Nitec courses)</td>
-</tr>
+		</tr><tr>
+	 <td>2</td>
+	 <td><a href="https://www.ite.edu.sg/courses/full-time-courses/nitec">Institute of Technical Education</a> (Nitec &amp; Higher Nitec courses)
+</td></tr>
 	</tbody></table>	 
 <br>
 <h4>STEP 4: Select Subject Combinations which include the relevant elective subjects</h4>
