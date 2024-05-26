@@ -263,7 +263,7 @@ Candidates’ personal expression and response to their chosen themes using draw
   </tr>		
   <tr>
     <td>Nanyang Poly<br>School of Design (SDN)</td>
-    <td>There are four diploma courses which focus on building a strong design foundation and inspiring you to make the world a better place for everyone through excellence in design. It is a studio-based approach to learning and project-based curriculum is modelled after a real-world environment where students will work on actual projects, pitch their ideas to industry experts and see their designs come to life</td>
+    <td>There are four diploma courses which focus on building a strong design foundation and inspiring students to make the world a better place for everyone through excellence in design. It is a studio-based approach to learning and project-based curriculum is modelled after a real-world environment where students will work on actual projects, pitch their ideas to industry experts and see their designs come to life</td>
   </tr>
  <tr>
     <td>LASALLE College of the Arts</td>
@@ -279,7 +279,7 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-8">Design and Technology</h3>
-Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
+Design and Technology is a subject that aims to nurture students to possess important sets of learning dispositions as follow:
 <br>
 <ol type="a">
 <li>Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.</li>  
