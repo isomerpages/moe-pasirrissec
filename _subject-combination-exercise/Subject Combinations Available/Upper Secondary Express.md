@@ -363,7 +363,7 @@ Go to the <a href="#">top</a>
 <br>
 	
 <h3 id="section-10">Design &amp; Technology</h3>
-Design and Technology is a subject that aims to nurture children to possess important sets of learning dispositions as follow:
+Design and Technology is a subject that aims to nurture students to possess important sets of learning dispositions as follow:
 <br>
 	<ol style="a">
 <li>Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.</li>
