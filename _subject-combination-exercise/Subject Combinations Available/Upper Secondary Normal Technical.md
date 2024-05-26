@@ -98,7 +98,7 @@ The assessment objectives of the subject can be found at SEAB website under the 
     <td>Students will work in diverse fields such as consumer electronics, medical products, furniture design, packaging design, transportation design, product merchandising, object/craft design and more.</td>
   </tr>
 			  <tr>
-    <td> Interior Design, BA (Hons) from SIT<br>BS (Architecture and Sustainable Design) from SUTD<br>BA (Industrial Design) (Hons) from NUS<br>Bachelor of Fine Arts in Product Design from NTU</td>
+    <td>Bachelor of Arts (Hons) in Interior Design from SIT<br><br>Bachelor of Science in&nbsp;Architecture and Sustainable Design from SUTD<br><br>Bachelor of Arts (Hons) in Industrial Design from NUS<br><br>Bachelor of Fine Arts in Product Design from NTU</td>
     <td>Most of the courses are 4-year undergraduate honours programmes. They adopted a 3-pronged approach:<br><br>1.  Design Thinking: Out-of-box innovation strategies and investigative methods are used to discover new ideas and unmet needs.<br><br>2.  Multi-Disciplinary Aptitudes: behavioural sciences, social economics, business strategy, engineering and technology knowledge develop entrepreneurial strategic thinking and holistic problem solving skills.<br><br>3.  Artistic sensibility: training of imagination, taste and craft-like ability to give pleasing and appropriate aesthetics and emotion to ideas, through traditional and 2D/3D digital means, so that solutions are both functional and desirable.</td>
  </tr>
 </tbody></table>
