@@ -136,7 +136,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
     <th colspan="2"><h5>Express Course</h5></th>
   </tr>
   <tr>
-    <td>a. Junior Colleges &amp; Institute</td>
+    <td>a. Junior Colleges &amp; Millennia Institute<br>(A Level Courses)</td>
 		<td>1. <a href="https://asrjc.moe.edu.sg/">ANDERSON SERANGOOON JUNIOR COLLEGE</a><br>
 			2. <a href="https://www.acjc.moe.edu.sg/">ANGLO-CHINESE JUNIOR COLLEGE</a><br> 
 			3. <a href="https://cjc.moe.edu.sg/">CATHOLIC JUNIOR COLLEGE</a><br>
