@@ -315,7 +315,7 @@ The Design journal - a real time document that reflects the candidate’s attemp
     <td>For Nitec in Product Design, students will learn the fundamental skills in the creation and design of consumer goods such as consumer electronics, furniture and lifestyle goods. <br><br>For Nitec in Space design, students will learn to explore and transform both 2D and/or 3D ordinary interior spaces into conducive environment to learn, work and play.</td>
   </tr>
 		 <tr>
-    <td>Nitect in Medical Manufacturing Technology<br><br>Nitec in Automotive Technology</td>
+    <td>Nitec in Medical Manufacturing Technology<br><br>Nitec in Automotive Technology</td>
     <td>For Nitec in Medical Manufacturing Technology, students will learn about designing body parts such as knee joints, bone screws, dental implants and so on as to bring mobility and hope back to the affected patients. <br><br>For Nitec in Automobile Technology (light vehicles), students will learn to diagnose, service, repair and maintain modern computer-equipped light vehicles ranging from saloon cars to sports utility vehicles, multi-purpose vehicles and light utility vans.</td>
   </tr>
 		 <tr>
