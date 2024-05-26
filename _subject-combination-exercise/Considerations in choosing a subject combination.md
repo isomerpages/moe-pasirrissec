@@ -166,40 +166,34 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 		</tr>
 		<tr>		
 	<td colspan="2">e. <a href="https://www.lasalle.edu.sg/">LASELLE College of Arts</a></td>
-		</tr>
-			<tr>		
-		<td colspan="2">f. <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">Polytechnic EAE</a></td>
-		</tr>
-		<tr>		
-		<td colspan="2">g. <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa">DSA for Junior Colleges (DSA-JC)</a></td>
-		</tr>
-</tbody></table>
+</tr></tbody></table>
 <br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th colspan="2"><h5>Normal Academic Course</h5></th>
   </tr>
  <tr>
-	 <td>a.</td>
+	 <td>1.</td>
 	 <td><a href="https://pfp.polytechnic.edu.sg/PFP/index.html"> Polytechnic Foundation Programme (PFP)</a></td>
 		</tr><tr>		
-		<td>b.</td>
+		<td>2.</td>
 		<td><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme">Direct Entry Scheme to Polytechnic Programme (DPP)</a></td>
 		</tr>
 		<tr>		
-			<td>c.</td><td><a href="https://www.pasirissec.moe.edu.sg/">Pasir Ris Secondary School</a></td>
+			<td>3.</td><td><a href="https://www.pasirissec.moe.edu.sg/">Pasir Ris Secondary School</a></td>
 		</tr>
 		<tr>		
-		<td>d.</td><td><a href="https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/NAFA">Foundation Programme (NFP)</a></td>
+		<td>4.</td><td><a href="https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/">Nanyang Academy of Fine Arts Foundation Programme (NFP)</a></td>
 	</tr></tbody></table>
-<br>
+Please note that students who are keen to proceed to ITE can also consider participating in the ITE Early Admission Exercise Option (ITE EAE) which is an aptitude-based admissions exercise to a Nitec or Higher Nitec course.
+<br><br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th colspan="2"><h5>Normal Technical Course</h5></th>
   </tr>
  <tr>
 	 <td>1</td>
-	 <td><a href="https://www.ite.edu.sg/courses/full-time-courses/nitec">ITE (Nitec &amp; 3yr Higher Nitec)</a></td>
+	 <td><a href="https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise">Institute of Technical Education&nbsp;Early Admission Exercise</a> (Nitec &amp; 3 year Higher Nitec courses)</td>
 </tr>
 	</tbody></table>	 
 <br>
