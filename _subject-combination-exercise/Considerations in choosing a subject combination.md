@@ -199,7 +199,8 @@ Please note that students who are keen to proceed to ITE can also consider parti
 	 <td><a href="https://www.ite.edu.sg/courses/full-time-courses/nitec">Institute of Technical Education</a> (Nitec &amp; Higher Nitec courses)
 </td></tr>
 	</tbody></table>	 
-<br>
+Please note that students who are keen to proceed to ITE can also consider participating in the ITE Early Admission Exercise Option (ITE EAE) which is an aptitude-based admissions exercise to a Nitec or Higher Nitec course.
+<br><br>
 <h4>STEP 4: Select Subject Combinations which include the relevant elective subjects</h4>
 At upper secondary level, your child/ward will have to offer a set of compulsory subjects. In addition to these, your child/ward may choose between 1-3 elective subjects. Based on the courses and prerequisite subjects shortlisted in Step 3, identify the relevant Subject Combinations.  You can click the links below to view the Subject Combinations available and find out more about the subjects.
 <br><br>
