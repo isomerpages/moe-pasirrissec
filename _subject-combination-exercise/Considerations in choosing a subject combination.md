@@ -155,7 +155,9 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
  </tr><tr>
     <td colspan="2">b. <a href="https://www.moe.gov.sg/coursefinder?journey=Polytechnics">Polytechnics</a></td>
 	  <td></td>
-		</tr><tr>	
+		<td>Please note that students who are keen to proceed to polytechnics can also consider participating in the <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">Polytechnic Early Admission Exercise (Poly-EAE)</a>
+
+		</td></tr><tr>	
 		<td colspan="2">c. <a href="https://www.ite.edu.sg/courses/full-time-courses/higher-nitec">ITE (Higher Nitec)</a></td>
 		</tr>
 		<tr>		
