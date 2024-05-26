@@ -197,7 +197,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
 <b>Requirements to take up Additional Mathematics at Sec 3:</b>
 <ul>
 	<li>Good performance in marks</li>
-	<ul><li>NA: A good pass in N(A) Mathematics</li></ul>
+	<ul><li>Normal Academic: A good pass in N(A) Mathematics</li></ul>
 	<li>Algebra proficiency</li>
   <li>Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential</li></ul>
 <b>Implication on admission requirement for post-secondary studies</b>
