@@ -133,7 +133,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 <br><br>	
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th colspan="2"><h5>Express Course</h5></th>
+    <th colspan="3"><h5>Express Course</h5></th>
   </tr>
   <tr>
     <td>a. Junior Colleges &amp; Millennia Institute<br>(A Level Courses)</td>
@@ -153,20 +153,24 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 </td>
 <td>Please note that students who are keen to proceed to junior colleges can also consider participating in the Direct School Admission for junior colleges <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa">DSA-JC</a></td>
  </tr><tr>
-    <td colspan="2">b. <a href="https://www.moe.gov.sg/coursefinder?journey=Polytechnics">Polytechnics<br></a>(Diploma Courses)</td>
+    <td colspan="3">b. <a href="https://www.moe.gov.sg/coursefinder?journey=Polytechnics">Polytechnics<br></a>(Diploma Courses)</td>
 	  <td></td>
 		<td>Please note that students who are keen to proceed to polytechnics can also consider participating in the <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">Polytechnic Early Admission Exercise (Poly-EAE)</a>
 		</td></tr><tr>	
-		<td colspan="2">c. <a href="https://www.ite.edu.sg/courses/full-time-courses/higher-nitec">Institute of Technical Education</a><br>(Higher Nitec courses)</td>
+		<td colspan="3">c. <a href="https://www.ite.edu.sg/courses/full-time-courses/higher-nitec">Institute of Technical Education</a><br>(Higher Nitec courses)</td>
 		<td></td>
 		<td>Please note that students who are keen to proceed to ITE can also consider participating in the <u>ITE Early Admission Exercise Option (ITE EAE)</u> which is an aptitude-based admissions exercise to a Nitec or Higher Nitec course</td>
 		</tr>
 		<tr>		
-	<td colspan="2">d. <a href="https://www.nafa.edu.sg/">Nanyang Academic of Fine Arts (NAFA)</a></td>
+	<td colspan="3">d. <a href="https://www.nafa.edu.sg/">Nanyang Academic of Fine Arts (NAFA)</a></td>
+			<td> </td>
+			<td> </td>
 		</tr>
 		<tr>		
-	<td colspan="2">e. <a href="https://www.lasalle.edu.sg/">LASELLE College of Arts</a></td>
-</tr></tbody></table>
+	<td colspan="3">e. <a href="https://www.lasalle.edu.sg/">LASELLE College of Arts</a></td>
+			<td> </td>
+			<td> </td>
+			</tr></tbody></table>
 <br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
