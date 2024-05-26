@@ -153,12 +153,13 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 </td>
 <td>Please note that students who are keen to proceed to junior colleges can also consider participating in the Direct School Admission for junior colleges <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa">DSA-JC</a></td>
  </tr><tr>
-    <td colspan="2">b. <a href="https://www.moe.gov.sg/coursefinder?journey=Polytechnics">Polytechnics</a></td>
+    <td colspan="2">b. <a href="https://www.moe.gov.sg/coursefinder?journey=Polytechnics">Polytechnics<br></a>(Diploma Courses)</td>
 	  <td></td>
 		<td>Please note that students who are keen to proceed to polytechnics can also consider participating in the <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">Polytechnic Early Admission Exercise (Poly-EAE)</a>
-
 		</td></tr><tr>	
-		<td colspan="2">c. <a href="https://www.ite.edu.sg/courses/full-time-courses/higher-nitec">ITE (Higher Nitec)</a></td>
+		<td colspan="2">c. <a href="https://www.ite.edu.sg/courses/full-time-courses/higher-nitec">Institute of Technical Education</a><br>(Higher Nitec courses)</td>
+		<td></td>
+		<td>Please note that students who are keen to proceed to ITE can also consider participating in the <u>ITE Early Admission Exercise Option (ITE EAE)</u> which is an aptitude-based admissions exercise to a Nitec or Higher Nitec course</td>
 		</tr>
 		<tr>		
 	<td colspan="2">d. <a href="https://www.nafa.edu.sg/">Nanyang Academic of Fine Arts (NAFA)</a></td>
