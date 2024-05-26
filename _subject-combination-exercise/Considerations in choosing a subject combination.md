@@ -18,7 +18,7 @@ Students must meet the criteria for lateral transfer to be transferred to a more
 <h4>2. Guide to choosing Subject Combinations</h4>
 <p>
 </p><h5>How to choose a subject combination?</h5>
-
+<br>
 <ul class="jekyllcodex_accordion">
 
 <li><input type="checkbox" id="accordion1">  
@@ -145,7 +145,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 			6. <a href="http://nanyangjc.moe.edu.sg/">NANYANG Junior College</a><br>
 			7. <a href="http://nationaljc.moe.edu.sg/">NATIONAL Junior College</a><br>
 			8. <a href="https://jpjc.moe.edu.sg/">JURONG PIONEER Junior College</a><br>
-			9. <a href="http://www.standrewsjc.moe.edu.sg/">ST. ANDREWS Junior College</a><br>
+			9. <a href="http://www.standrewsjc.moe.edu.sg/">ST ANDREWS Junior College</a><br>
 			10. <a href="http://www.temasekjc.moe.edu.sg/">TEMASEK Junior College</a><br>
 			11. <a href="https://victoriajc.moe.edu.sg/">VICTORIA Junior College</a><br>
 			12. <a href="https://yijc.moe.edu.sg/">YISHUN INNOVA Junior College</a><br>
