@@ -270,8 +270,8 @@ Candidates’ personal expression and response to their chosen themes using draw
     <td>Students will learn how their passion and love for the arts can be turned into a passport for entry into a promising career in the growing creative industries.</td>
   </tr>
 		 <tr>
-    <td>Republic Poly School of Technology for the Arts</td>
-    <td>Students will learn how to balance your creativity with a keen aesthetic eye and core technical skills, combined with arts expertise for a successful career in the arts.</td>
+    <td>Republic Poly<br>School of Technology for the Arts</td>
+    <td>Students will learn how to balance their creativity with a keen aesthetic eye and core technical skills, combined with arts expertise for a successful career in the arts.</td>
   </tr>
 	</tbody></table>
 <br>
