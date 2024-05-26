@@ -258,7 +258,7 @@ Candidates’ personal expression and response to their chosen themes using draw
     <td>Students are able to build a solid foundation while nurturing their creative attitudes and critical thinking skills. Students are able to gain broader perspectives, develop problem-solving skills and learn about social responsibility.</td>
   </tr>
   <tr>
-    <td>Temasek Poly School of design</td>
+    <td>Temasek Poly<br>School of design</td>
     <td>There are a wide range of course which allows students to further their studies in Art depending on their interest. They are able to choose from product design course, interior/architectural design, digital/filmmaking and apparel design or merchandising. These courses allows them to learn the skills acquired in the individual industry and beneficial for their future career path.</td>
   </tr>		
   <tr>
