@@ -210,7 +210,7 @@ At upper secondary level, your child/ward will have to offer a set of compulsory
 <a href="/list-of-subject-combinations.html#section-2">Sec 3 Normal (Academic) Combinations for 2025</a><br>
 <a href="/upper-secondary-normal-academic/">Information on Sec 3 Normal (Academic) Elective Subjects</a>
 <br><br>  
-<a href="/list-of-subject-combinations.html#section-3">Sec 3 Normal (Technical) Combinations for 2025</a>
+<a href="/list-of-subject-combinations.html#section-3">Sec 3 Normal (Technical) Combinations for 2025</a><br>
 <a href="/upper-secondary-normal-technical/">Information on Sec 3 Normal (Technical) Elective Subjects</a>
  <br><br>
 	
