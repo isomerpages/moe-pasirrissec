@@ -4,12 +4,7 @@ permalink: /considerations-in-choosing-a-subject-combination/
 variant: markdown
 description: ""
 ---
-<ul class="jekyllcodex_accordion">
-
-<li><input type="checkbox" id="accordion1">  
-<label for="accordion1"><b>MOE Promotion Criteria</b></label><div>
-<p>
-</p><h5>MOE Promotion Criteria</h5>
+<h4>1. MOE Promotion Criteria</h4>
 All students must meet the promotion criteria to be promoted to Secondary 3 in order to take part in the Subject Combination Exercise.
 <br><br>
 <table style="border:none;border-collapse:collapse;"><colgroup><col width="127"><col width="497"></colgroup><tbody><tr style="height:26.25pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Stream</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Criteria for Promotion</span></p></td></tr><tr style="height:57.25pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2 Normal (Technical)</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">A pass in </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2</span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> subjects, one of which should be </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">English Language </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">or </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mathematics</span></p></td></tr><tr style="height:57.25pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2 Normal (Academic)</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">A pass in </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">English Language </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">and </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2</span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> other subjects </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">OR</span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> A pass in </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">4</span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> subjects&nbsp;</span></p></td></tr><tr style="height:57.25pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2 Express</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">A pass in </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">English Language </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">AND</span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> a minimum of </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">50% for the average </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">of all subjects combined</span></p></td></tr></tbody></table>
@@ -20,14 +15,15 @@ Students must meet the criteria for lateral transfer to be transferred to a more
 <br><br>
 <table style="border:none;border-collapse:collapse;"><colgroup><col width="82"><col width="111"><col width="431"></colgroup><tbody><tr style="height:46.5pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Stream</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Lateral Transfer to</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Criteria for Lateral Transfer</span></p></td></tr><tr style="height:66pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Sec 2NA</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Sec 3E</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">More than </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">70% or higher </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">in the </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">average for all subjects </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">and </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">deemed to be able to cope </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">with the Express Course</span></p></td></tr><tr style="height:69pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Sec 2NT</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Sec 2NA</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">More than </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">70% or higher </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">in the </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">average for all subjects </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">and </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">deemed to be able to cope </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">with the Normal (Academic) Course</span></p></td></tr></tbody></table>
 
-<p></p></div></li>
-
-<li><input type="checkbox" id="accordion2">  
-<label for="accordion2"><b>Guide to choosing Subject Combinations</b></label><div>
+<h4>2. Guide to choosing Subject Combinations</h4>
 <p>
-</p><h4>How to choose a subject combination?</h4>
+</p><h5>How to choose a subject combination?</h5>
+<br>
+<ul class="jekyllcodex_accordion">
 
-<h5>STEP 1: Explore interest areas and find out about your child’s aspirations</h5>
+<li><input type="checkbox" id="accordion1">  
+<label for="accordion1">Step 1: Explore interest areas and find out about your child’s aspirations</label><div>
+
 Discuss with your child/ward his/her interest areas and aspirations. The following resources would help your child understand herself/himself and gain an insight into the diverse range of careers and jobs available.
 <br><br>	
 <table border="1px solid black" style="width:100%">
@@ -52,8 +48,10 @@ Discuss with your child/ward his/her interest areas and aspirations. The followi
       <td>Contains essential information on JAE, such as an overview of the JAE process and timeline (the key stages and respective dates/periods).</td>
   </tr>
 	</tbody></table>	
-
-<h5>STEP 2: Identify the most appropriate post-secondary education pathway</h5>
+	</div></li>
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2">Step 2: Identify the most appropriate post-secondary education pathway</label><div>
+	
 Once you have identified an interest area or career path which you would like to pursue, you can start to explore the various post-secondary education options &amp; pathways that are relevant. 
 <br><br>
 Help your child/ward understand what post-secondary pathways available by using the following resources:  
@@ -127,8 +125,10 @@ Help your child/ward understand what post-secondary pathways available by using 
 <br>
 <i>* New 3-Year Higher Nitec: ITE has introduced a new 3-year Higher Nitec full-time programme from Academic Year 2022. Streamlining the current Nitec and Higher Nitec curricula, this new option allows students to attain a Higher Nitec qualification directly, in only three years instead of the current four years. Normal (Academic) and Normal (Technical) students can apply for this new 3-year Higher Nitec programme.</i>
 <br><br>
-	
-<h4>STEP 3: Identify Relevant Courses and their Pre-requisite Subjects in the selected pathway</h4>
+	</div></li>
+	<li><input type="checkbox" id="accordion3">  
+<label for="accordion3">Step 3: Identify Relevant Courses and their Pre-requisite Subjects in the selected pathway</label><div>
+
 Identify the courses and find out the pre-requisite subjects that are compulsory for the post-secondary courses your child/ward is interested in.  Pre-requisite subjects refer to subjects that must have been taken at upper secondary level which are required for the post-secondary courses. For your convenience, we have curated the links to the relevant institutions below.
 <br><br>	
 <table border="1px solid black" style="width:100%">
@@ -136,37 +136,41 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
     <th colspan="2"><h5>Express Course</h5></th>
   </tr>
   <tr>
-    <td>a. Junior Colleges &amp; Millennia Institute<br>(A Level Courses)</td>
-		<td>1. <a href="https://asrjc.moe.edu.sg/">ANDERSON SERANGOOON JUNIOR COLLEGE</a><br>
-			2. <a href="https://www.acjc.moe.edu.sg/">ANGLO-CHINESE JUNIOR COLLEGE</a><br> 
-			3. <a href="https://cjc.moe.edu.sg/">CATHOLIC JUNIOR COLLEGE</a><br>
-			4. <a href="https://www.hci.edu.sg/">HWA CHONG INSTITUTION (JUNIOR COLLEGE)</a><br>
-			5. <a href="https://tmjc.moe.edu.sg/">TAMPINES MERIDIAN JUNIOR COLLEGE</a><br>
-			6. <a href="http://nanyangjc.moe.edu.sg/">NANYANG JUNIOR COLLEGE</a><br>
-			7. <a href="http://nationaljc.moe.edu.sg/">NATIONAL JUNIOR COLLEGE</a><br>
-			8. <a href="https://jpjc.moe.edu.sg/">JURONG PIONEER JUNIOR COLLEGE</a><br>
-			9. <a href="http://www.standrewsjc.moe.edu.sg/">ST. ANDREWS JUNIOR COLLEGE</a><br>
-			10. <a href="http://www.temasekjc.moe.edu.sg/">TEMASEK JUNIOR COLLEGE</a><br>
-			11. <a href="https://victoriajc.moe.edu.sg/">VICTORIA JUNIOR COLLEGE</a><br>
-			12. <a href="https://yijc.moe.edu.sg/">YISHUN INNOVA JUNIOR COLLEGE</a><br>
-			13. <a href="http://www.millenniainstitute.moe.edu.sg/">MILLENNIA INSTITUTE</a>
-</td>
-<td>Please note that students who are keen to proceed to junior colleges can also consider participating in the Direct School Admission for junior colleges <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa">DSA-JC</a></td>
- </tr><tr>
-    <td colspan="2">b. <a href="https://www.moe.gov.sg/coursefinder?journey=Polytechnics">Polytechnics<br></a>(Diploma Courses)</td>
+    <td colspan="3">a. Junior Colleges &amp; Millennia Institute<br>(A Level Courses)</td>
+		<td>1. <a href="https://asrjc.moe.edu.sg/">ANDERSON SERANGOON Junior College</a><br>
+			2. <a href="https://www.acjc.moe.edu.sg/">ANGLO-CHINESE Junior College</a><br> 
+			3. <a href="https://cjc.moe.edu.sg/">CATHOLIC Junior College</a><br>
+			4. <a href="https://www.hci.edu.sg/">HWA CHONG INSTITUTION (Junior College)</a><br>
+			5. <a href="https://tmjc.moe.edu.sg/">TAMPINES MERIDIAN Junior College</a><br>
+			6. <a href="http://nanyangjc.moe.edu.sg/">NANYANG Junior College</a><br>
+			7. <a href="http://nationaljc.moe.edu.sg/">NATIONAL Junior College</a><br>
+			8. <a href="https://jpjc.moe.edu.sg/">JURONG PIONEER Junior College</a><br>
+			9. <a href="http://www.standrewsjc.moe.edu.sg/">ST ANDREWS Junior College</a><br>
+			10. <a href="http://www.temasekjc.moe.edu.sg/">TEMASEK Junior College</a><br>
+			11. <a href="https://victoriajc.moe.edu.sg/">VICTORIA Junior College</a><br>
+			12. <a href="https://yijc.moe.edu.sg/">YISHUN INNOVA Junior College</a><br>
+			13. <a href="http://www.millenniainstitute.moe.edu.sg/">MILLENNIA Institute</a><br></td>
+		<td>Please note that students who are keen to proceed to junior colleges can also consider participating in the <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa">Direct School Admission for Junior Colleges (DSA-JC)</a></td>
+ </tr>
+		<tr>
+    <td colspan="3">b. <a href="https://www.moe.gov.sg/coursefinder?journey=Polytechnics">Polytechnics<br></a>(Diploma Courses)</td>
 	  <td></td>
 		<td>Please note that students who are keen to proceed to polytechnics can also consider participating in the <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">Polytechnic Early Admission Exercise (Poly-EAE)</a>
 		</td></tr><tr>	
-		<td colspan="2">c. <a href="https://www.ite.edu.sg/courses/full-time-courses/higher-nitec">Institute of Technical Education</a><br>(Higher Nitec courses)</td>
+		<td colspan="3">c. <a href="https://www.ite.edu.sg/courses/full-time-courses/higher-nitec">Institute of Technical Education</a><br>(Higher Nitec courses)</td>
 		<td></td>
-		<td>Please note that students who are keen to proceed to ITE can also consider participating in the <u>ITE Early Admission Exercise Option (ITE EAE)</u> which is an aptitude-based admissions exercise to a Nitec or Higher Nitec course</td>
+		<td>Please note that students who are keen to proceed to ITE can also consider participating in the <a href="https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise">ITE Early Admission Exercise Option (ITE EAE)</a> which is an aptitude-based admissions exercise to a Nitec or Higher Nitec course</td>
 		</tr>
 		<tr>		
-	<td colspan="2">d. <a href="https://www.nafa.edu.sg/">Nanyang Academic of Fine Arts (NAFA)</a></td>
+	<td colspan="3">d. <a href="https://www.nafa.edu.sg/">Nanyang Academic of Fine Arts (NAFA)</a></td>
+			<td> </td>
+			<td> </td>
 		</tr>
 		<tr>		
-	<td colspan="2">e. <a href="https://www.lasalle.edu.sg/">LASELLE College of Arts</a></td>
-</tr></tbody></table>
+	<td colspan="3">e. <a href="https://www.lasalle.edu.sg/">LASELLE College of Arts</a></td>
+			<td> </td>
+			<td> </td>
+			</tr></tbody></table>
 <br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
@@ -184,7 +188,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 		</tr>
 		<tr>		
 		<td>4.</td><td><a href="https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/">Nanyang Academy of Fine Arts Foundation Programme (NFP)</a></td>
-	</tr></tbody></table>
+	</tr></tbody></table><br>
 Please note that students who are keen to proceed to ITE can also consider participating in the ITE Early Admission Exercise Option (ITE EAE) which is an aptitude-based admissions exercise to a Nitec or Higher Nitec course.
 <br><br>
 <table border="1px solid black" style="width:100%">
@@ -199,9 +203,10 @@ Please note that students who are keen to proceed to ITE can also consider parti
 	 <td><a href="https://www.ite.edu.sg/courses/full-time-courses/nitec">Institute of Technical Education</a> (Nitec &amp; Higher Nitec courses)
 </td></tr>
 	</tbody></table>	 
-Please note that students who are keen to proceed to ITE can also consider participating in the ITE Early Admission Exercise Option (ITE EAE) which is an aptitude-based admissions exercise to a Nitec or Higher Nitec course.
-<br><br>
-<h4>STEP 4: Select Subject Combinations which include the relevant elective subjects</h4>
+	</div></li>
+	<li><input type="checkbox" id="accordion4">  
+<label for="accordion4">Step 4: Select Subject Combinations which include the relevant elective subjects</label><div>
+
 At upper secondary level, your child/ward will have to offer a set of compulsory subjects. In addition to these, your child/ward may choose between 1-3 elective subjects. Based on the courses and prerequisite subjects shortlisted in Step 3, identify the relevant Subject Combinations.  You can click the links below to view the Subject Combinations available and find out more about the subjects.
 <br><br>
 <a href="/list-of-subject-combinations.html#section-1">Sec 3 Express Subject Combinations for 2025</a><br>
@@ -213,10 +218,15 @@ At upper secondary level, your child/ward will have to offer a set of compulsory
 <a href="/list-of-subject-combinations.html#section-3">Sec 3 Normal (Technical) Combinations for 2025</a><br>
 <a href="/upper-secondary-normal-technical/">Information on Sec 3 Normal (Technical) Elective Subjects</a>
  <br><br>
-	
-<h4>STEP 5: Submit online application<br>(Links to be created nearer to the exercise)</h4>
-	<ol><li>View instructions for online subject combination selection here.</li>
+		</div></li>
+	<li><input type="checkbox" id="accordion5">  
+<label for="accordion5">Step 5: Submit online application (Links to be created nearer to the exercise)</label><div>
+		
+<ol><li>View instructions for online subject combination selection here.</li>
 <li>Submit your four subject combination options here.</li>
 <li>Parents need to acknowledge, by submitting a signed copy of the selected subject combinations here or via the QR code by Nov 2024.</li></ol>
 <br>
-<p></p></div></li></ul>
+		
+</div></li></ul>	
+		
+<p></p>
