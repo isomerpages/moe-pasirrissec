@@ -182,7 +182,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
   </tr>
   <tr>
     <td>Relates easily to real life e.g., interest rates, speed, time, area etc.</td>
-    <td>More abstract e.g., Proofs, Binomial Expansion, maximum/minimum areas etc  </td>
+    <td>More abstract e.g., Proofs, Binomial Expansion, maximum/minimum areas etc.</td>
   </tr>
 		  <tr>
     <td>Questions involving direct application of formula<br>More direct questions e.g., find gradient of a straight line </td>
