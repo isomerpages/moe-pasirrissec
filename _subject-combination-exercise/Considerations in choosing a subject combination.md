@@ -49,8 +49,8 @@ Discuss with your child/ward his/her interest areas and aspirations. The followi
   </tr>
 	</tbody></table>	
 	</div></li>
-<li><input type="checkbox" id="accordion1">  
-<label for="accordion1"><b>STEP 2: Identify the most appropriate post-secondary education pathway</b></label><div>
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2"><b>STEP 2: Identify the most appropriate post-secondary education pathway</b></label><div>
 	
 Once you have identified an interest area or career path which you would like to pursue, you can start to explore the various post-secondary education options &amp; pathways that are relevant. 
 <br><br>
@@ -125,13 +125,15 @@ Help your child/ward understand what post-secondary pathways available by using 
 <br>
 <i>* New 3-Year Higher Nitec: ITE has introduced a new 3-year Higher Nitec full-time programme from Academic Year 2022. Streamlining the current Nitec and Higher Nitec curricula, this new option allows students to attain a Higher Nitec qualification directly, in only three years instead of the current four years. Normal (Academic) and Normal (Technical) students can apply for this new 3-year Higher Nitec programme.</i>
 <br><br>
-	
-<h4>STEP 3: Identify Relevant Courses and their Pre-requisite Subjects in the selected pathway</h4>
+	</div></li>
+	<li><input type="checkbox" id="accordion3">  
+<label for="accordion3"><b>STEP 3: Identify Relevant Courses and their Pre-requisite Subjects in the selected pathway</b></label><div>
+
 Identify the courses and find out the pre-requisite subjects that are compulsory for the post-secondary courses your child/ward is interested in.  Pre-requisite subjects refer to subjects that must have been taken at upper secondary level which are required for the post-secondary courses. For your convenience, we have curated the links to the relevant institutions below.
 <br><br>	
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th colspan="3"><h5>Express Course</h5></th>
+    <th colspan="2"><h5>Express Course</h5></th>
   </tr>
   <tr>
     <td colspan="3">a. Junior Colleges &amp; Millennia Institute<br>(A Level Courses)</td>
@@ -201,9 +203,10 @@ Please note that students who are keen to proceed to ITE can also consider parti
 	 <td><a href="https://www.ite.edu.sg/courses/full-time-courses/nitec">Institute of Technical Education</a> (Nitec &amp; Higher Nitec courses)
 </td></tr>
 	</tbody></table>	 
+	</div></li>
+	<li><input type="checkbox" id="accordion4">  
+<label for="accordion4"><b>STEP 4: Select Subject Combinations which include the relevant elective subjects</b></label><div>
 
-<br><br>
-<h4>STEP 4: Select Subject Combinations which include the relevant elective subjects</h4>
 At upper secondary level, your child/ward will have to offer a set of compulsory subjects. In addition to these, your child/ward may choose between 1-3 elective subjects. Based on the courses and prerequisite subjects shortlisted in Step 3, identify the relevant Subject Combinations.  You can click the links below to view the Subject Combinations available and find out more about the subjects.
 <br><br>
 <a href="/list-of-subject-combinations.html#section-1">Sec 3 Express Subject Combinations for 2025</a><br>
@@ -215,9 +218,11 @@ At upper secondary level, your child/ward will have to offer a set of compulsory
 <a href="/list-of-subject-combinations.html#section-3">Sec 3 Normal (Technical) Combinations for 2025</a><br>
 <a href="/upper-secondary-normal-technical/">Information on Sec 3 Normal (Technical) Elective Subjects</a>
  <br><br>
-	
-<h4>STEP 5: Submit online application<br>(Links to be created nearer to the exercise)</h4>
-	<ol><li>View instructions for online subject combination selection here.</li>
+		</div></li>
+	<li><input type="checkbox" id="accordion5">  
+<label for="accordion5"><b>STEP 5: Submit online application(Links to be created nearer to the exercise)</b></label><div>
+		
+<ol><li>View instructions for online subject combination selection here.</li>
 <li>Submit your four subject combination options here.</li>
 <li>Parents need to acknowledge, by submitting a signed copy of the selected subject combinations here or via the QR code by Nov 2024.</li></ol>
 <br>
