@@ -249,7 +249,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
   </tr>
   <tr>
     <td>Relates easily to real life e.g., interest rates, speed, time, area etc.</td>
-    <td>More abstract e.g., Proofs, Binomial Expansion, maximum/minimum areas etc  </td>
+    <td>More abstract e.g., Proofs, Binomial Expansion, maximum/minimum areas etc.</td>
   </tr>
 		  <tr>
     <td>Questions involving direct application of formula<br>More direct questions e.g., find gradient of a straight line </td>
@@ -261,11 +261,11 @@ The table below shows the difference between Mathematics and Additional Mathemat
   </tr>
 		</tbody></table>
 <br>
-<b>Requirements to take up Additional Mathematics at Sec 3:</b>
+	<b><u>Requirements to take up Additional Mathematics at Sec 3:</u></b>
 <br><br>
 <ul>
 <li>Good performance in marks</li>
-	<ul><li>NA: A good pass in N(A) Mathematics</li></ul>
+	<ul><li>Express: A good pass in Sec 2 Mathematics</li></ul>
 <li>Algebra proficiency</li>
 <li>Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential</li>
 </ul><br>
