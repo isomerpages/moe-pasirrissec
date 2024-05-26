@@ -41,7 +41,7 @@ Upper Secondary students must read at least one Humanities subject. If the stude
 Go to the <a href="#">top</a>
 <br>
 	
-<h3 id="section-2">Social Studies</h3>
+<h3 id="section-2">Social Studies - Compulsory</h3>
 Social Studies is the compulsory half of the Humanities subject.
 <br><br>
 At the heart of the Social Studies Curriculum is the preparation of students to be citizens of tomorrow by helping them to better understand the <b>interconnectedness of Singapore and the world they live in</b>, and appreciate <b>the complexities of the human world</b>. Drawing on aspects of society that are of meaning and interest to the students, Social Studies seeks to ignite students’ curiosity to <b>inquire into real-world issues that concern their lives</b>. Through inquiry and authentic learning experiences, Social Studies helps students to attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives. Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world they live in, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.
