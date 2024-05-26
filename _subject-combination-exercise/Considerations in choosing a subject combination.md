@@ -149,10 +149,10 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 			10. <a href="http://www.temasekjc.moe.edu.sg/">TEMASEK JUNIOR COLLEGE</a><br>
 			11. <a href="https://victoriajc.moe.edu.sg/">VICTORIA JUNIOR COLLEGE</a><br>
 			12. <a href="https://yijc.moe.edu.sg/">YISHUN INNOVA JUNIOR COLLEGE</a><br>
-			13. <a href="http://www.millenniainstitute.moe.edu.sg/">MILLENNIA INSTITUTE</a>
-</td>
-<td>Please note that students who are keen to proceed to junior colleges can also consider participating in the Direct School Admission for junior colleges <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa">DSA-JC</a></td>
- </tr><tr>
+			13. <a href="http://www.millenniainstitute.moe.edu.sg/">MILLENNIA INSTITUTE</a><br></td>
+		<td>Please note that students who are keen to proceed to junior colleges can also consider participating in the <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa">Direct School Admission for Junior Colleges (DSA-JC)</a></td>
+ </tr>
+		<tr>
     <td colspan="3">b. <a href="https://www.moe.gov.sg/coursefinder?journey=Polytechnics">Polytechnics<br></a>(Diploma Courses)</td>
 	  <td></td>
 		<td>Please note that students who are keen to proceed to polytechnics can also consider participating in the <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">Polytechnic Early Admission Exercise (Poly-EAE)</a>
