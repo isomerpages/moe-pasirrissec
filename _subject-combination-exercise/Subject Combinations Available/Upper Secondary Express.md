@@ -346,15 +346,15 @@ In addition, students will be exposed to a diverse range of local, regional and 
     <td>There are a wide range of course which allows students to further their studies in Art depending on their interest. They are able to choose from product design course, interior/architectural design, digital/filmmaking and apparel design or merchandising. These courses allows them to learn the skills acquired in the individual industry and beneficial for their future career path.</td>
   </tr>		
   <tr>
-    <td>Nanyang Poly’s School of Design (SDN)</td>
-    <td>There are four diploma courses which focus on building a strong design foundation and inspiring you to make the world a better place for everyone through excellence in design. It is a studio-based approach to learning and project-based curriculum is modelled after a real-world environment where students will work on actual projects, pitch their ideas to industry experts and see their designs come to life</td>
+    <td>Nanyang Poly<br>School of Design (SDN)</td>
+    <td>There are four diploma courses which focus on building a strong design foundation and inspiring you to make the world a better place for everyone through excellence in design. It is a studio-based approach to learning and project-based curriculum is modelled after a real-world environment where students will work on actual projects, pitch their ideas to industry experts and see their designs come to life.</td>
   </tr>
  <tr>
     <td>LASALLE College of the Arts</td>
     <td>Students will learn how their passion and love for the arts can be turned into a passport for entry into a promising career in the growing creative industries.</td>
   </tr>
 		 <tr>
-    <td>Republic Poly School of Technology for the Arts</td>
+    <td>Republic Poly<br>School of Technology for the Arts</td>
     <td>Students will learn how to balance your creativity with a keen aesthetic eye and core technical skills, combined with arts expertise for a successful career in the arts.</td>
   </tr>
 	</tbody></table>
