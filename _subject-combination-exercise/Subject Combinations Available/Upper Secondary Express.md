@@ -269,7 +269,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
 <li>Algebra proficiency</li>
 <li>Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential</li>
 </ul><br>
-<b>Implication on admission requirement for post-secondary studies</b>
+	<b><u>Implication on admission requirement for post-secondary studies</u></b>
 <br><br>
 <b>Junior College</b>
 <br>
