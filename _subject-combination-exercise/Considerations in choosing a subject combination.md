@@ -159,7 +159,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 		</td></tr><tr>	
 		<td colspan="3">c. <a href="https://www.ite.edu.sg/courses/full-time-courses/higher-nitec">Institute of Technical Education</a><br>(Higher Nitec courses)</td>
 		<td></td>
-		<td>Please note that students who are keen to proceed to ITE can also consider participating in the <u>ITE Early Admission Exercise Option (ITE EAE)</u> which is an aptitude-based admissions exercise to a Nitec or Higher Nitec course</td>
+		<td>Please note that students who are keen to proceed to ITE can also consider participating in the <a href="https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise">ITE Early Admission Exercise Option (ITE EAE)</a> which is an aptitude-based admissions exercise to a Nitec or Higher Nitec course</td>
 		</tr>
 		<tr>		
 	<td colspan="3">d. <a href="https://www.nafa.edu.sg/">Nanyang Academic of Fine Arts (NAFA)</a></td>
