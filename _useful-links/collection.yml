@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Sec 3 Subject Combination Ex/.keep
       - Subject Combination Exercise.md
       - Direct School Admission/.keep
       - Direct School Admission/Direct School Admission.md
