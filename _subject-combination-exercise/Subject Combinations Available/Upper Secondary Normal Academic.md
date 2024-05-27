@@ -337,4 +337,3 @@ The Design journal - a real time document that reflects the candidate’s attemp
 	</ul>	
 Go to the <a href="#">top</a>
 <br>
-<p></p>
