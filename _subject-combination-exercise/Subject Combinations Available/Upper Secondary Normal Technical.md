@@ -12,7 +12,7 @@ third_nav_title: Subject Combinations Available
 <a href="#section-2">Design &amp; Technology</a><br> 
 <a href="#section-3">Elements of Business Skills</a><br>
 
-<p></p><h4 id="section-1">Art</h4>
+<h4 id="section-1">Art</h4>
 Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.
 <br><br>
 Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.
