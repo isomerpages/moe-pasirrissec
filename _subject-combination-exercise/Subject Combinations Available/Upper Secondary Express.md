@@ -356,7 +356,7 @@ In addition, students will be exposed to a diverse range of local, regional and 
     <td>Students will learn how to balance their creativity with a keen aesthetic eye and core technical skills, combined with arts expertise for a successful career in the arts.</td>
   </tr>
 </tbody></table>
-<br>
+
 Go to the <a href="#">top</a>
 <br>
 	
