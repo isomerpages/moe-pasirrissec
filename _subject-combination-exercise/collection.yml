@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Subject Combinations Available/.keep
-      - Subject Combinations Available/Upper Secondary Express.md
       - Subject Combinations Available/Upper Secondary Normal Academic.md
       - Subject Combinations Available/Upper Secondary Normal Technical.md
