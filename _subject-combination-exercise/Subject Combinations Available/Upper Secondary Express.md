@@ -19,7 +19,8 @@ third_nav_title: Subject Combinations Available
 <a href="#section-10">Design &amp; Technology</a>
 
 
-Go back to <a href="/subject-combination/">Subject Combination Homepage</a>
+Click <a href="/subject-combination.html#back">here</a> to return
+
 
 <p></p><h4 id="section-1">Literature in English</h4>
 “Literature makes us better thinkers. It moves us to see the multi-sidedness of situations and therefore expands the breath of our own visions, moving us towards dreams and solutions we might not otherwise have imagined.” – Judith Langer, <i>Envisioning Literature</i>
