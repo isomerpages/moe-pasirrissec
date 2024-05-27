@@ -22,7 +22,7 @@ Students must meet the criteria for lateral transfer to be transferred to a more
 <ul class="jekyllcodex_accordion">
 
 <li><input type="checkbox" id="accordion1">  
-<label for="accordion1">Step 1: Explore interest areas and find out about your child’s aspirations</label><div>
+	<label for="accordion1"><b>Step 1:</b> Explore interest areas and find out about your child’s aspirations</label><div>
 
 Discuss with your child/ward his/her interest areas and aspirations. The following resources would help your child understand herself/himself and gain an insight into the diverse range of careers and jobs available.
 <br><br>	
@@ -50,7 +50,7 @@ Discuss with your child/ward his/her interest areas and aspirations. The followi
 	</tbody></table>	
 	</div></li>
 <li><input type="checkbox" id="accordion2">  
-<label for="accordion2">Step 2: Identify the most appropriate post-secondary education pathway</label><div>
+	<label for="accordion2"><b>Step 2:</b> Identify the most appropriate post-secondary education pathway</label><div>
 	
 Once you have identified an interest area or career path which you would like to pursue, you can start to explore the various post-secondary education options &amp; pathways that are relevant. 
 <br><br>
@@ -127,7 +127,7 @@ Help your child/ward understand what post-secondary pathways available by using 
 <br><br>
 	</div></li>
 	<li><input type="checkbox" id="accordion3">  
-<label for="accordion3">Step 3: Identify Relevant Courses and their Pre-requisite Subjects in the selected pathway</label><div>
+		<label for="accordion3"><b>Step 3:</b> Identify Relevant Courses and their Pre-requisite Subjects in the selected pathway</label><div>
 
 Identify the courses and find out the pre-requisite subjects that are compulsory for the post-secondary courses your child/ward is interested in.  Pre-requisite subjects refer to subjects that must have been taken at upper secondary level which are required for the post-secondary courses. For your convenience, we have curated the links to the relevant institutions below.
 <br><br>	
@@ -205,7 +205,7 @@ Please note that students who are keen to proceed to ITE can also consider parti
 	</tbody></table>	 
 	</div></li>
 	<li><input type="checkbox" id="accordion4">  
-<label for="accordion4">Step 4: Select Subject Combinations which include the relevant elective subjects</label><div>
+		<label for="accordion4"><b>Step 4:</b> Select Subject Combinations which include the relevant elective subjects</label><div>
 
 At upper secondary level, your child/ward will have to offer a set of compulsory subjects. In addition to these, your child/ward may choose between 1-3 elective subjects. Based on the courses and prerequisite subjects shortlisted in Step 3, identify the relevant Subject Combinations.  You can click the links below to view the Subject Combinations available and find out more about the subjects.
 <br><br>
@@ -220,7 +220,7 @@ At upper secondary level, your child/ward will have to offer a set of compulsory
  <br><br>
 		</div></li>
 	<li><input type="checkbox" id="accordion5">  
-<label for="accordion5">Step 5: Submit online application (Links to be created nearer to the exercise)</label><div>
+		<label for="accordion5"><b>Step 5:</b> Submit online application (Links to be created nearer to the exercise)</label><div>
 		
 <ol><li>View instructions for online subject combination selection here.</li>
 <li>Submit your four subject combination options here.</li>
