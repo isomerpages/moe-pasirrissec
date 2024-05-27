@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Subject Combinations Available/.keep
-      - Subject Combinations Available/Upper Secondary Express.md
       - Subject Combination Exercise/.keep
       - Subject Combination Exercise/Sec 3 Subject Combination Exercise.md
       - Subject Combination Exercise/Considerations in choosing a subject
