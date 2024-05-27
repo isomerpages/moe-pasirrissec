@@ -66,7 +66,7 @@ Express students may opt to read an additional Pure Humanities subject which is 
 <br>
 <b><i>*only advisable for students strong in <u>all</u> 3 subjects; English, Geography and History, in lower secondary</i></b>
 <br><br>
-Go to the <a href="#">top</a><p></p>
+Go to the <a href="#">top</a>
 <br>
 	
 <h4 id="section-3">Social Studies</h4>
