@@ -184,7 +184,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 		<td><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme">Direct Entry Scheme to Polytechnic Programme (DPP)</a></td>
 		</tr>
 		<tr>		
-			<td>3.</td><td><a href="https://www.pasirissec.moe.edu.sg/">Pasir Ris Secondary School</a></td>
+			<td>3.</td><td><a href="https://www.pasirissec.moe.edu.sg/">GCE O level at Pasir Ris Secondary School</a></td>
 		</tr>
 		<tr>		
 		<td>4.</td><td><a href="https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/">Nanyang Academy of Fine Arts Foundation Programme (NFP)</a></td>
@@ -214,7 +214,7 @@ At upper secondary level, your child/ward will have to offer a set of compulsory
 <br><br>
 <a href="/list-of-subject-combinations.html#section-2">Sec 3 Normal (Academic) Combinations for 2025</a><br>
 <a href="/upper-secondary-normal-academic/">Information on Sec 3 Normal (Academic) Elective Subjects</a>
-<br><br>  
+<br><br> 
 <a href="/list-of-subject-combinations.html#section-3">Sec 3 Normal (Technical) Combinations for 2025</a><br>
 <a href="/upper-secondary-normal-technical/">Information on Sec 3 Normal (Technical) Elective Subjects</a>
  <br><br>
