@@ -171,7 +171,7 @@ The N(A)-Level Additional Mathematics syllabus aims to enable students who have 
 <li>connect ideas within mathematics and between mathematics and the sciences through applications of mathematics; and appreciate the abstract nature and power of mathematics.</li>
 </ul> 
 The table below shows the difference between Mathematics and Additional Mathematics:
-<br><br>
+<br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Mathematics</th>
