@@ -211,7 +211,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
 <li>Admission requirements are course – dependent</li>
 <li>O-Level Mathematics would be adequate</li>
 </ul>
-	<b>Assessment Criteria for Additional Mathematics for Normal Academic</b>
+<b>Assessment Criteria for Additional Mathematics for Normal Academic</b>
 <br><br>
 <img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Additional_Maths_NA.png">
 <br>
