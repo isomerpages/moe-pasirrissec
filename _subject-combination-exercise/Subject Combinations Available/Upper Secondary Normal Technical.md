@@ -76,7 +76,7 @@ The assessment objectives of the subject can be found at SEAB website under the 
 <ol type="a"><li>The Design journal - a real time document that reflects the candidate’s attempt at managing his/her personal design process. Mock-up(s) and resulting prototype are to be submitted as part of the journal. A3 sheets are to be used and the journals need to be securely fastened.</li>
 <li>Presentation Board - use to communicate succinctly the proposed design solution in relation to the design brief and design specifications. It should show the functional and aesthetic details using appropriate graphical skills to highlight the practicality and appropriateness of the proposed design solution. Two A2 boards (single-side) are to be submitted as part of the presentation board.</li></ol> 
 <h5>Educational pathways for D&amp;T students who would like to pursue a career in related fields</h5>
-<br><br>	
+<br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Name of courses/ programme</th>
@@ -101,7 +101,6 @@ The assessment objectives of the subject can be found at SEAB website under the 
 </tbody></table>
 <br>
 <h5>These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology.</h5>
-<br>
 <ul>
 <li>Applications Developer &amp; Engineer</li>
 <li>Design / Electronics / Chemical / Mechanical Engineers</li>
@@ -119,7 +118,6 @@ This subject is an introduction to business through an understanding of business
 The subject provides students with the foundational knowledge and skills for further studies in institutes of higher learning and the awareness of prospects of a career in the service industry. In the Elements of Business Skills (EBS) syllabus framework shown below, the basic concepts of marketing and customer relations are at the core of the EBS syllabus. The middle ring represents the outcomes of the syllabus, namely foundational business knowledge, decision-making skills and an enterprising mindset. The outer ring defines the scope of the syllabus within the Travel and Tourism, Hospitality, and Retail industries.
 <br><br>
 <h5>FEATURES OF THE CURRICULUM</h5>
-<br>
 <ol>
 <li><b>Foundational business knowledge</b></li>
 The foundational business knowledge includes the knowledge and understanding of the three units of the syllabus: Understanding business activities, Basic marketing and Customer relations.
