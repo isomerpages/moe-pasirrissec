@@ -73,7 +73,7 @@ Generally, in both Pure Geography and Elective Geography, students will be taugh
 The objective is to develop an inquiring mind to seek answers to issues affecting our lives and the world we live in, and prepared students for their roles as informed citizens in the 21st century and most importantly, inculcate an awareness of appropriate attitudes and values that promotes a positive geographical future; one that ensures the sustainability of our resources, people, country, and planet.
 <br><br>	
 Geography students will cover the syllabus as follows:
-<br><br>
+<br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Cluster 1</th>
