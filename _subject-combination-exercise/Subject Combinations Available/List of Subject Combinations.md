@@ -14,4 +14,4 @@ third_nav_title: Subject Combinations Available
 <a href="/files/Subject%20Combination%20Exercise/3N_T__Subject_Combination_for_2025.pdf">Secondary 3 Normal Technical </a><br>
 <a href="/upper-secondary-normal-technical/">Information on Sec 3 Normal (Technical) Elective Subjects</a>
  <br><br>
- Go back to <a href="/subject-combination/">Subject Combination page</a>
+ Go back to <a href="/subject-combination/">Subject Combination Homepage</a>
