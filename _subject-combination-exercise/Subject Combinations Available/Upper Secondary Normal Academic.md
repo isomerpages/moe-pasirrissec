@@ -5,11 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Subject Combinations Available
 ---
-<ul class="jekyllcodex_accordion">
-	
-<li><input type="checkbox" id="accordion1">  
-<label for="accordion1"><b>Information on Upper Secondary Elective Subjects (Normal Academic)</b></label><div>
-<p><br>	
+<h3>Information on Upper Secondary Elective Subjects (Normal Academic)</h3>
+<br>	
 <a href="#section-1">Humanities</a><br>
 <a href="#section-2">Social Studies</a><br>
 <a href="#section-3">Elective History</a><br>
@@ -19,7 +16,7 @@ third_nav_title: Subject Combinations Available
 <a href="#section-7">Art</a><br>
 <a href="#section-8">Design &amp; Technology</a> 
 
-</p><h3 id="section-1">Humanities</h3>
+<p></p><h4 id="section-1">Humanities</h4>
 Upper Secondary students must read at least one Humanities subject. If the student is reading only one Humanities subject, he MUST take ‘Humanities’, comprising a compulsory Social Studies component (SS) and an Elective component. In PRSS, the options for the Elective component are Elective History (EHist) and Elective Geography (EGeo).
 <br><br>
 <table border="1px solid black" style="width:100%">
@@ -41,7 +38,7 @@ Upper Secondary students must read at least one Humanities subject. If the stude
 Go to the <a href="#">top</a>
 <br>
 	
-<h3 id="section-2">Social Studies - Compulsory</h3>
+<h4 id="section-2">Social Studies - Compulsory</h4>
 Social Studies is the compulsory half of the Humanities subject.
 <br><br>
 At the heart of the Social Studies Curriculum is the preparation of students to be citizens of tomorrow by helping them to better understand the <b>interconnectedness of Singapore and the world they live in</b>, and appreciate <b>the complexities of the human world</b>. Drawing on aspects of society that are of meaning and interest to the students, Social Studies seeks to ignite students’ curiosity to <b>inquire into real-world issues that concern their lives</b>. Through inquiry and authentic learning experiences, Social Studies helps students to attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives. Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world they live in, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.
@@ -49,7 +46,7 @@ At the heart of the Social Studies Curriculum is the preparation of students to 
 Go to the <a href="#">top</a>
 <br>
 	
-<h3 id="section-3">Elective History</h3>
+<h4 id="section-3">Elective History</h4>
 History education in Singapore seeks to develop in students an appreciation of past human experiences, critical awareness of the nature of historical knowledge, and the ability to make connections between the past and present.
 <br><br>
 In recent years, there has been greater cognizance that historical content and concepts as well as the accompanying historical skills, are important. These lie at the heart of thinking critically about the nature of historical knowledge, which is essential to make better sense of the past. History also plays a critical role in developing students’ own identities through an understanding of history at the personal, national and international levels. The learning of history should spark their curiosity and inspire them with the beliefs, decisions and dilemmas of people in the past. Through historical inquiry, students pose questions about the present by engaging with the past and thus draw connections between both.
@@ -63,7 +60,7 @@ Students reading Elective History will only cover the following unit:
 Go to the <a href="#">top</a>
 <br>
 	
-<h3 id="section-4">Elective Geography</h3>
+<h4 id="section-4">Elective Geography</h4>
 Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment.
 <br><br>
 Generally, in both Pure Geography and Elective Geography, students will be taught skills of gathering and analysing information to understand and explain physical and human phenomena, and other contemporary environmental and social issues that occur in different places and cultures by
@@ -76,7 +73,7 @@ Generally, in both Pure Geography and Elective Geography, students will be taugh
 The objective is to develop an inquiring mind to seek answers to issues affecting our lives and the world we live in, and prepared students for their roles as informed citizens in the 21st century and most importantly, inculcate an awareness of appropriate attitudes and values that promotes a positive geographical future; one that ensures the sustainability of our resources, people, country, and planet.
 <br><br>	
 Geography students will cover the syllabus as follows:
-<br><br>
+<br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Cluster 1</th>
@@ -96,7 +93,7 @@ Geography students will cover the syllabus as follows:
     <td></td>
   </tr>
 	</tbody></table>	
-<br>	
+
 <b>Assessment Criteria for Humanities</b>
 <br><br>
 We offer Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compulsory for ALL Express and Normal (Academic) students. The following table shows a summary of the N(A)-Level Assessment components.
@@ -105,7 +102,7 @@ We offer Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compuls
 Go to the <a href="#">top</a>
 <br>
 	
-<h3 id="section-5">Principles of Accounts</h3>
+<h4 id="section-5">Principles of Accounts</h4>
 Principles of Accounts is offered as an elective subject at Secondary Three and examinable at the GCE N(A)-Level.
 <br><br>
 Principles of Accounts is designed to designed to teach age-appropriate and relevant accounting knowledge, skills and values. In addition, students will understand how businesses use accounting and non-accounting information to make decisions. Through the subject, they will acquire transferrable skills that they can apply in their daily lives.
@@ -159,7 +156,7 @@ Diploma in International Logistic and Supply Chain Management
 Go to the <a href="#">top</a>
 <br>
 	
-<h3 id="section-6">Additional Mathematics</h3>
+<h4 id="section-6">Additional Mathematics</h4>
 The syllabus intends to prepare students adequately for O-Level Additional Mathematics. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strands, important mathematical processes such as reasoning, communication and application (including the use of models) are also emphasised and assessed.
 <br>
 <img src="/images/Sec%203%20Subject%20Combi%20Exercise/Additional_Mathematics_Concepts.png">
@@ -200,7 +197,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
 	<ul><li>Normal Academic: A good pass in N(A) Mathematics</li></ul>
 	<li>Algebra proficiency</li>
   <li>Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential</li></ul>
-	<b><u>Implication on admission requirement for post-secondary studies</u></b>
+<b><u>Implication on admission requirement for post-secondary studies</u></b>
 <br><br>
 <b>Junior College</b>
 <br>
@@ -214,14 +211,14 @@ The table below shows the difference between Mathematics and Additional Mathemat
 <li>Admission requirements are course – dependent</li>
 <li>O-Level Mathematics would be adequate</li>
 </ul>
-	<b>Assessment Criteria for Additional Mathematics for Normal Academic</b>
+<b>Assessment Criteria for Additional Mathematics for Normal Academic</b>
 <br><br>
 <img src="/images/Sec%203%20Subject%20Combi%20Exercise/Assessment_Criteria_for_Additional_Maths_NA.png">
 <br>
 Go to the <a href="#">top</a>
 <br>
 	
-<h3 id="section-7">Art</h3>
+<h4 id="section-7">Art</h4>
 Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.
 <br><br>	
 Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.
@@ -231,7 +228,7 @@ The production of Art requires a rigorous process of information analysis. In in
 In addition, students will be exposed to a diverse range of local, regional and global art and cultures through engaging with artworks, art making and arts professions. This will develop in students a lifelong appreciation and enjoyment of art.
 <br><br>
 <b>Assessment Criteria for Art</b>
-<br><br>
+<br>
 <table style="border:none;border-collapse:collapse;"><colgroup><col width="79"><col width="153"><col width="165"><col width="88"><col width="110"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Paper</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Description</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Examination Duration</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Weighting</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Requirement</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Paper 1 *&nbsp;</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Coursework&nbsp;</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">7 Months&nbsp;</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">60%&nbsp;</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Compulsory</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Paper 2 #</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Drawing and Painting</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">3 hours</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">40%&nbsp;</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Compulsory</span></p></td></tr></tbody></table>
 <br>
 *The coursework assessment allows for:
@@ -246,8 +243,8 @@ Candidates’ personal expression and response to their chosen themes using draw
 			<li>Candidates’ inquiry and interpretation of their chosen theme; </li>
 			<li>Candidates’ can only present their Final Artwork in a drawing and/or painting medium; and </li>
 			<li>Candidates’ visual and aesthetic awareness. </li></ul>
-<b>Educational pathways for students who would like to pursue a career in Art</b>
-<br><br>
+<h5>Educational pathways for students who would like to pursue a career in Art</h5>
+
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Name of courses/ programme</th>
@@ -278,7 +275,7 @@ Candidates’ personal expression and response to their chosen themes using draw
 Go to the <a href="#">top</a>
 <br>
 	
-<h3 id="section-8">Design and Technology</h3>
+<h4 id="section-8">Design and Technology</h4>
 Design and Technology is a subject that aims to nurture students to possess important sets of learning dispositions as follow:
 <br>
 <ol type="a">
@@ -299,23 +296,23 @@ The assessment objectives of the subject can be found at SEAB website under the 
 <br>
 *The written paper will be design-centric. Question 1 requires knowledge application of the design process. Questions 2 - 4 requires knowledge application of the Technology topics and these include Structure (O-Level syllabus only), Mechanism and Electronics
 <br><br>	
-# The design project is an individual coursework-based examination. The examination will be conducted over 22 weeks from the question paper release, excluding school holidays. Candidates are required to work on a design and prototyping project based on the examination question.  The design project will comprise of two components:
+#The design project is an individual coursework-based examination. The examination will be conducted over 22 weeks from the question paper release, excluding school holidays. Candidates are required to work on a design and prototyping project based on the examination question.  The design project will comprise of two components:
 <ol><li>	
 The Design journal - a real time document that reflects the candidate’s attempt at managing his/her personal design process. Mock-up(s) and resulting prototype are to be submitted as part of the journal. A3 sheets are to be used and the journals need to be securely fastened.</li>
 <li>Presentation Board - use to communicate succinctly the proposed design solution in relation to the design brief and design specifications. It should show the functional and aesthetic details using appropriate graphical skills to highlight the practicality and appropriateness of the proposed design solution. Two A2 boards (single-side) are to be submitted as part of the presentation board.</li></ol>
-<b>Educational pathways for D&amp;T students who would like to pursue a career in related fields</b>
-<br><br>	
-	<table border="1px solid black" style="width:100%">
+<h5>Educational pathways for D&amp;T students who would like to pursue a career in related fields</h5>
+
+<table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Name of courses/ programme</th>
     <th>What the course/programme entails</th>
   </tr>
   <tr>
-    <td>Nitec in Product Design<br><br>Nitec in Space Design</td>
+    <td>Nitec in Product Design<br><br><br>Nitec in Space Design</td>
     <td>For Nitec in Product Design, students will learn the fundamental skills in the creation and design of consumer goods such as consumer electronics, furniture and lifestyle goods. <br><br>For Nitec in Space design, students will learn to explore and transform both 2D and/or 3D ordinary interior spaces into conducive environment to learn, work and play.</td>
   </tr>
 		 <tr>
-    <td>Nitec in Medical Manufacturing Technology<br><br>Nitec in Automotive Technology</td>
+    <td>Nitec in Medical Manufacturing Technology<br><br><br>Nitec in Automotive Technology</td>
     <td>For Nitec in Medical Manufacturing Technology, students will learn about designing body parts such as knee joints, bone screws, dental implants and so on as to bring mobility and hope back to the affected patients. <br><br>For Nitec in Automobile Technology (light vehicles), students will learn to diagnose, service, repair and maintain modern computer-equipped light vehicles ranging from saloon cars to sports utility vehicles, multi-purpose vehicles and light utility vans.</td>
   </tr>
 		 <tr>
@@ -326,10 +323,10 @@ The Design journal - a real time document that reflects the candidate’s attemp
     <td>Interior Design,<br>BA (Hons) from SIT<br>BS (Architecture and Sustainable Design) from SUTD<br>BA (Industrial Design) (Hons) from NUS<br>Bachelor of Fine Arts in Product Design from NTU</td>
     <td>Most of the courses are 4-year undergraduate honours programmes. They adopted a 3-pronged approach: <br><br>1.  Design Thinking: Out-of-box innovation strategies and investigative methods are used to discover new ideas and unmet needs.<br><br>2.  Multi-Disciplinary Aptitudes: behavioural sciences, social economics, business strategy, engineering and technology knowledge develop entrepreneurial strategic thinking and holistic problem solving skills.<br><br>3.  Artistic sensibility: training of imagination, taste and craft-like ability to give pleasing and appropriate aesthetics and emotion to ideas, through traditional and 2D/3D digital means, so that solutions are both functional and desirable.</td>
   </tr>
-	</tbody></table>		
-<br>
-<b>These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology.</b>
-<br>	
+</tbody></table>		
+
+<h5>These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology.</h5>
+
 <ul>
 <li>Applications Developer &amp; Engineer</li>
 <li>Design / Electronics / Chemical / Mechanical Engineers</li>
@@ -340,6 +337,3 @@ The Design journal - a real time document that reflects the candidate’s attemp
 	</ul>	
 Go to the <a href="#">top</a>
 <br>
-<p></p></div></li>
-
-</ul>
