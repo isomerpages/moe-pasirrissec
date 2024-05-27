@@ -2,7 +2,6 @@ collections:
   subject-combination-exercise:
     output: true
     order:
-      - Considerations in choosing a subject combination.md
       - Subject Combinations Available/List of Subject Combinations.md
       - Subject Combinations Available/.keep
       - Subject Combinations Available/Upper Secondary Express.md
