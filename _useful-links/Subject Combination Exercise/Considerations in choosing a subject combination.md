@@ -213,10 +213,10 @@ At upper secondary level, your child/ward will have to offer a set of compulsory
 <br><br><a href="/list-of-subject-combinations.html#section-1">Sec 3 Express Subject Combinations for 2025</a><br>
 <a href="/upper-secondary-express/">Information on Sec 3 Express Elective Subjects</a>
 <br><br>
-<a href="/files/Subject%20Combination%20Exercise/3N_A__Subject_Combination_for_2025.pdf">Secondary 3 Normal Academic</a><br>
+<a href="/list-of-subject-combinations.html#section-2">Sec 3 Normal (Academic) Combinations for 2025</a><br>
 <a href="/upper-secondary-normal-academic/">Information on Sec 3 Normal (Academic) Elective Subjects</a>
 <br><br> 
-<a href="/files/Subject%20Combination%20Exercise/3N_T__Subject_Combination_for_2025.pdf">Secondary 3 Normal Technical</a><br>
+<a href="/list-of-subject-combinations.html#section-3">Sec 3 Normal (Technical) Combinations for 2025</a><br>
 <a href="/upper-secondary-normal-technical/">Information on Sec 3 Normal (Technical) Elective Subjects</a>
  <br><br>
 		</div></li>
