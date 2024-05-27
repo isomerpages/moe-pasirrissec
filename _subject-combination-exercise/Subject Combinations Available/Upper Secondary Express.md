@@ -237,7 +237,7 @@ The O-Level Additional Mathematics syllabus aims to enable students who have an 
 <li>appreciate the abstract nature and power of mathematics</li>
 </ul>
 The table below shows the difference between Mathematics and Additional Mathematics:
-<br><br>
+<br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Mathematics</th>
