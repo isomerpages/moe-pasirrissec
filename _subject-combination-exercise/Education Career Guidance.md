@@ -21,3 +21,6 @@ Below are 7 ways you can be more involved in your child’s education and career
 | 7   | Model Lifelong Learning | Demonstrate how you continually strive towards excellence through knowledge and experience. Show your child that learning does not happen only in school, but throughout life. |
 
 *Extracted from “Nurturing Dreams – Guiding Our children for their Future” –[https://www.schoolbag.edu.sg/story/guiding-our-children-for-the-future](https://www.schoolbag.edu.sg/story/guiding-our-children-for-the-future).*
+
+We strongly encourage parents to discuss with your child/ward on his/her interests, learning styles and explore possible tertiary options. Your child/ward may see the Home Teachers or the Education and Career Guidance officer, Mr Mohammed Syahril Bin Samsudin whom he/she can make an appointment with to explore his/her possible options. Mr Syahril is on-site in Pasir Ris Secondary School on Mondays and Thursdays during term time.
+<img width="100%" src="/images/Sec%203%20Subject%20Combi%20Exercise/QR_code_for_ECG_counsellor.png">
