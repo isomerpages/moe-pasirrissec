@@ -2,4 +2,5 @@ collections:
   subject-combination-exercise:
     output: true
     order:
+      - Subject Combinations Available/Upper Secondary Normal Technical.md
       - Subject Combinations Available/.keep
