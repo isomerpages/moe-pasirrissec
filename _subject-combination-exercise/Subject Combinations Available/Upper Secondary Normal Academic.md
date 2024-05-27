@@ -93,7 +93,7 @@ Geography students will cover the syllabus as follows:
     <td></td>
   </tr>
 	</tbody></table>	
-<br>	
+
 <b>Assessment Criteria for Humanities</b>
 <br><br>
 We offer Humanities (SS/Hist, SS/Geog). Humanities (SS/Hist, SS/Geog) is compulsory for ALL Express and Normal (Academic) students. The following table shows a summary of the N(A)-Level Assessment components.
