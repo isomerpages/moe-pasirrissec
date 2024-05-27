@@ -256,8 +256,8 @@ The table below shows the difference between Mathematics and Additional Mathemat
     <td>Build on the foundation in Sec 2 Mathematics<br>Proficiency in Algebra is essential and important </td>
   </tr>
 </tbody></table>
-<br>
-	<b><u>Requirements to take up Additional Mathematics at Sec 3:</u></b>
+
+<b><u>Requirements to take up Additional Mathematics at Sec 3:</u></b>
 <br><br>
 <ul>
 <li>Good performance in marks</li>
