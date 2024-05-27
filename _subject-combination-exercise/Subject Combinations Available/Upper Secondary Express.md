@@ -188,7 +188,7 @@ Students will be able to understand
 	</ul>
 Students will be able to develop knowledge and understanding of: 
 <br>
-	<ul>
+<ul>
 <li>role of accountants and the ethical values desired in the people who prepare the information</li>
 <li>purpose of accounting as providing accounting information to support and facilitate decision-making</li>
 <li>consideration of accounting and non-accounting information in decision-making</li>
@@ -198,7 +198,7 @@ Students will be able to develop knowledge and understanding of:
 <li>principles underlying accounting as a measurement system</li>
 <li>accounting information system and accounting cycle, and the double-entry recording method in maintaining records of business activities</li>
 <li>internal controls to ensure accuracy of information.</li>
-	</ul>
+</ul>
 Students will be able to develop the skills of: 
 <br>
 <ul>
@@ -207,7 +207,7 @@ Students will be able to develop the skills of:
 <li>analytical skill in interpreting financial statements and analysing the effects of business transactions and accounting adjustments on financial statements</li>
 <li>evaluative skill in evaluating businesses for their profitability, liquidity and efficiency of inventory and trade receivables management using financial information and ratios</li>
 <li>decision-making skill in evaluating choices using both accounting and non-accounting information.</li>
-	</ul>
+</ul>
 <b>Relevant Courses in Poly</b>
 <br><br>
 Diploma in Accountancy<br>
