@@ -4,6 +4,13 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Launch of Subject Combination Microsite
+
+The Sec 3 Subject Combination 2025 allows students to choose subject combinations based on academic merit and interest. The microsite serves as a one-stop resource for students and parents, providing details on subject combinations, eligibility criteria, post-secondary education pathways, and the Subject Allocation Exercise timeline.
+
+You may access the [link](/subject-combination/)&nbsp;to find out more.
+
+
 #### Secondary 3 Breakfast Session with Parents
 
 Please click [here](/files/Sec_3_Parents_Breakfast_Session_2024.pdf) to view the Sec 3 Breakfast Session with Parents slides.
