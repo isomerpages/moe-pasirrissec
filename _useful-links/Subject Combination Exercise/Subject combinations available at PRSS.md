@@ -7,7 +7,7 @@ third_nav_title: Subject Combination Exercise
 ---
 <table border="1px solid black" style="width:100%">
 <tbody><tr>
-<th><h5>Secondary 3 Express</h5></th>
+	<th><h5><center>Secondary 3 Express</center></h5></th>
 </tr></tbody></table>
 <b>Pasir Ris Secondary School - Sec 3E Subject Combinations for 2025</b>
 <br><br>
@@ -21,7 +21,7 @@ third_nav_title: Subject Combination Exercise
 <br><br>		
 <table border="1px solid black" style="width:100%">
 <tbody><tr>
-<th><h5>Secondary 3 Normal Academic</h5></th>
+<th><h5><center>Secondary 3 Normal Academic</center></h5></th>
 </tr></tbody></table>
 <b>Pasir Ris Secondary School - Sec 3N(A) Subject Combination for 2025</b>
 <br><br>
@@ -33,7 +33,7 @@ Subject Combinations with less than 15 students may not be eventually implemente
 <br><br>
 <table border="1px solid black" style="width:100%">
 <tbody><tr>
-<th><h5>Secondary 3 Normal Technical</h5></th>
+<th><h5><center>Secondary 3 Normal Technical</center></h5></th>
 </tr></tbody></table>
 <b>Pasir Ris Secondary School - Sec 3N(T) Subject Combination for 2025</b>
 <br><br>
