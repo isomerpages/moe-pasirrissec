@@ -155,7 +155,7 @@ Pure Geography students will cover the syllabus in greater depth, comprising all
     <td>1.  Small Island City-State<br>2. Opportunities and Challenges<br>3. Sustainable and Resilient Singapore</td>
   </tr>
 </tbody></table>		
-<br>
+
 Students reading Elective Geography (O-Level) will <u>NOT</u> cover Clusters 4 and 5.
 <br><br>
 <b>Assessment Criteria for Humanities</b>
