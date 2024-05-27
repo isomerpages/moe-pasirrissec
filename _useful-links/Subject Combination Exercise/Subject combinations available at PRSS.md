@@ -20,7 +20,7 @@ third_nav_title: Subject Combination Exercise
 
 \## EMSH1B2 stands for overall aggregate of English Language, Mathematics, Science, Best Humanities Subject and two other best subjects.
 <br><br>		
-<div name="section-2" id="section-12">
+<div name="section-2" id="section-2">
 <table border="1px solid black" style="width:100%">
 <tbody><tr>
 <th><h5><center>Secondary 3 Normal Academic</center></h5></th>
