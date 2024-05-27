@@ -231,15 +231,15 @@ At Secondary 3, students from the express courses who are interested in mathemat
 <br><br>
 The O-Level Additional Mathematics syllabus aims to enable students who have an aptitude and interest in mathematics to: 
 <br>
-	<ul>
+<ul>
 <li>acquire mathematical concepts and skills for higher studies in mathematics and to support learning in the other subjects, with emphasis in the sciences, but not limited to the sciences</li>
 <li>develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem-solving</li>
 <li>connect ideas within mathematics and between mathematics and the sciences through applications of mathematics; and </li>
-		<li>appreciate the abstract nature and power of mathematics</li>
-	</ul>
+<li>appreciate the abstract nature and power of mathematics</li>
+</ul>
 The table below shows the difference between Mathematics and Additional Mathematics:
 <br><br>
-	<table border="1px solid black" style="width:100%">
+<table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Mathematics</th>
     <th>Additional Mathematics</th>
@@ -256,7 +256,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
     <td>Similar to Sec 2 Mathematics<br>Proficiency in Algebra is an advantage</td>
     <td>Build on the foundation in Sec 2 Mathematics<br>Proficiency in Algebra is essential and important </td>
   </tr>
-		</tbody></table>
+</tbody></table>
 <br>
 	<b><u>Requirements to take up Additional Mathematics at Sec 3:</u></b>
 <br><br>
@@ -270,11 +270,11 @@ The table below shows the difference between Mathematics and Additional Mathemat
 <br><br>
 <b>Junior College</b>
 <br>
-	<ul>
+<ul>
 <li>Students taking science course will likely take up H2 Mathematics and taking Additional Mathematics in upper secondary education will prepare the students adequately</li>
 <li>Students taking art course will likely take up H1 Mathematics and taking Mathematics only will prepare the students adequately</li>
 <li>Individual JCs set their own admission requirements</li>
-	</ul>
+</ul>
 
 <b>Polytechnic</b>
 <ul>
