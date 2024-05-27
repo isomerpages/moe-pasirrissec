@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Subject Combination Exercise/Upper Secondary Normal Technical.md
       - Subject Combination Exercise/Upper Secondary Normal Academic.md
       - Subject Combination Exercise/Upper Secondary Express.md
       - Subject Combination Exercise/List of Subject Combinations.md
