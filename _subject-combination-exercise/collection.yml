@@ -2,7 +2,6 @@ collections:
   subject-combination-exercise:
     output: true
     order:
-      - Subject Combinations Available/List of Subject Combinations.md
       - Subject Combinations Available/Upper Secondary Express.md
       - Subject Combinations Available/Upper Secondary Normal Academic.md
       - Subject Combinations Available/Upper Secondary Normal Technical.md
