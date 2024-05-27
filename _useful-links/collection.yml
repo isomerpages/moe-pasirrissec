@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Subject Combinations Available/.keep
       - Subject Combination Exercise/.keep
       - Subject Combination Exercise/Sec 3 Subject Combination Exercise.md
       - Subject Combination Exercise/Considerations in choosing a subject
