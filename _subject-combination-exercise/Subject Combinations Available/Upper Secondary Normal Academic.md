@@ -16,7 +16,8 @@ third_nav_title: Subject Combinations Available
 <a href="#section-7">Art</a><br>
 <a href="#section-8">Design &amp; Technology</a>
 
-Go back to <a href="/subject-combination/">Subject Combination Homepage</a> 
+Go back to <a href="/list-of-subject-combinations/">prev</a> |
+Go back to <a href="/subject-combination/">Subject Combination Homepage</a> | 
 
 <p></p><h4 id="section-1">Humanities</h4>
 Upper Secondary students must read at least one Humanities subject. If the student is reading only one Humanities subject, he MUST take ‘Humanities’, comprising a compulsory Social Studies component (SS) and an Elective component. In PRSS, the options for the Elective component are Elective History (EHist) and Elective Geography (EGeo).
