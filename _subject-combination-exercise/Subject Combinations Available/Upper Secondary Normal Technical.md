@@ -116,7 +116,7 @@ Go to the <a href="#">top</a>
 This subject is an introduction to business through an understanding of business activities, focusing on basic marketing and customer relations, in the context of Singapore. The subject intends to provide students with opportunities to develop transferable employability skills and knowledge in the service industry, namely the Travel and Tourism, Hospitality, and Retail industries, which continue to offer employment opportunities accessible to the students.
 <br><br>
 The subject provides students with the foundational knowledge and skills for further studies in institutes of higher learning and the awareness of prospects of a career in the service industry. In the Elements of Business Skills (EBS) syllabus framework shown below, the basic concepts of marketing and customer relations are at the core of the EBS syllabus. The middle ring represents the outcomes of the syllabus, namely foundational business knowledge, decision-making skills and an enterprising mindset. The outer ring defines the scope of the syllabus within the Travel and Tourism, Hospitality, and Retail industries.
-<br><br>
+<br>
 <h5>FEATURES OF THE CURRICULUM</h5>
 <ol>
 <li><b>Foundational business knowledge</b></li>
