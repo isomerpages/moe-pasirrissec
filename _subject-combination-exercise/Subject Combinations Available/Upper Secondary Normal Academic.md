@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Subject Combinations Available
 ---
 <h3>Information on Upper Secondary Elective Subjects (Normal Academic)</h3>
-<br>	
+
 <a href="#section-1">Humanities</a><br>
 <a href="#section-2">Social Studies</a><br>
 <a href="#section-3">Elective History</a><br>
@@ -16,7 +16,6 @@ third_nav_title: Subject Combinations Available
 <a href="#section-7">Art</a><br>
 <a href="#section-8">Design &amp; Technology</a>
 
-Go back to <a href="/list-of-subject-combinations/">prev</a> |
 Go back to <a href="/subject-combination/">Subject Combination Homepage</a> | 
 
 <p></p><h4 id="section-1">Humanities</h4>
