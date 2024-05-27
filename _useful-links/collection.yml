@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Subject Combination Exercise/Frequently Asked Questions.md
       - Subject Combination Exercise/Allocations of Subject Combinations.md
       - Subject Combination Exercise/Considerations in choosing a subject
         combination.md
