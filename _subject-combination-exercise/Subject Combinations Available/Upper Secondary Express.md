@@ -364,13 +364,14 @@ Go to the <a href="#">top</a>
 <h4 id="section-10">Design &amp; Technology</h4>
 Design and Technology is a subject that aims to nurture students to possess important sets of learning dispositions as follow:
 <br>
-	<ol style="a">
+<ol style="a">
 <li>Comfortable to deal with uncertainties and complexities in an ambiguous and volatile world.</li>
 <li>Possess a caring heart and willing desire to improve the quality of life through thoughtful and practical design solutions.</li>
 <li>Develop curiosity and drive to seek out how things work in the real world.</li>
 <li>Communicate confidently their design solutions through doodling and/or sketching and 3D manipulation of material.</li>
 <li>Develop strong critical and creative thinking by exploring many unusual and interesting ideas in response to a given design context and need.</li>
-	</ol>
+</ol>
+
 <b>Assessment Criteria for Design &amp; Technology (O-Level and NA-Level)</b>
 <br><br>
 The assessment objectives of the subject can be found at SEAB website under the syllabus document as follow:
@@ -387,8 +388,8 @@ The assessment objectives of the subject can be found at SEAB website under the 
 <li>Presentation Board - use to communicate succinctly the proposed design solution in relation to the design brief and design specifications. It should show the functional and aesthetic details using appropriate graphical skills to highlight the practicality and appropriateness of the proposed design solution. Two A2 boards (single-side) are to be submitted as part of the presentation board.</li></ol>
 <br>
 <h5>Educational pathways for D&amp;T students who would like to pursue a career in related fields</h5>
-<br><br>
-	<table border="1px solid black" style="width:100%">
+<br>
+<table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Name of courses/ programme</th>
     <th>What the course/programme entails</th>
@@ -409,8 +410,8 @@ The assessment objectives of the subject can be found at SEAB website under the 
     <td>Interior Design,<br>BA (Hons) from SIT<br>BS (Architecture and Sustainable Design) from SUTD<br>BA (Industrial Design) (Hons) from NUS<br>Bachelor of Fine Arts in Product Design from NTU</td>
     <td>Most of the courses are 4-year undergraduate honours programmes. They adopted a 3-pronged approach: <br><br>1.  Design Thinking: Out-of-box innovation strategies and investigative methods are used to discover new ideas and unmet needs.<br><br>2.  Multi-Disciplinary Aptitudes: behavioural sciences, social economics, business strategy, engineering and technology knowledge develop entrepreneurial strategic thinking and holistic problem solving skills.<br><br>3.  Artistic sensibility: training of imagination, taste and craft-like ability to give pleasing and appropriate aesthetics and emotion to ideas, through traditional and 2D/3D digital means, so that solutions are both functional and desirable.</td>
   </tr>
-	</tbody></table>
-	<br>
+</tbody></table>
+<br>
 <h5>These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology.</h5>
 <ul>
 <li>Applications Developer &amp; Engineer</li>
