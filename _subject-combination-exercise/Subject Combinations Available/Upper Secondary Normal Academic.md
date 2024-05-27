@@ -326,7 +326,7 @@ The Design journal - a real time document that reflects the candidate’s attemp
 </tbody></table>		
 <br>
 <h5>These are the relevant occupations for students who would like to pursue a career in S.T.E.M. via Design and Technology.</h5>
-<br>	
+
 <ul>
 <li>Applications Developer &amp; Engineer</li>
 <li>Design / Electronics / Chemical / Mechanical Engineers</li>
