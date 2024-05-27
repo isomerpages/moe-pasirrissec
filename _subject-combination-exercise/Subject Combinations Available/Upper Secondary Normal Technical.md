@@ -5,17 +5,14 @@ variant: markdown
 description: ""
 third_nav_title: Subject Combinations Available
 ---
-<ul class="jekyllcodex_accordion">
+<h3>Information on Upper Secondary Elective Subjects (Normal Technical)</h3>
 
-<li><input type="checkbox" id="accordion1">  
-<label for="accordion1"><b>Information on Upper Secondary Elective Subjects (Normal Technical)</b></label><div>
-<p>
 <br>
 <a href="#section-1">Art</a><br>
 <a href="#section-2">Design &amp; Technology</a><br> 
 <a href="#section-3">Elements of Business Skills</a><br>
 
-</p><h3 id="section-1">Art</h3>
+<p></p><h4 id="section-1">Art</h4>
 Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.
 <br><br>
 Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.
@@ -55,7 +52,7 @@ In addition, students will be exposed to a diverse range of local, regional and 
 Go to the <a href="#">top</a>
 <br>
 	
-<h3 id="section-2">Design &amp; Technology</h3>
+<h4 id="section-2">Design &amp; Technology</h4>
 Design and Technology is a subject that aims to nurture students to possess important sets of learning dispositions as follow:
 <br>
 <ol style="a">
@@ -86,11 +83,11 @@ The assessment objectives of the subject can be found at SEAB website under the 
     <th>What the course/programme entails</th>
   </tr>
   <tr>
-    <td>Nitec in Product Design<br>Nitec in Space Design</td>
+    <td>Nitec in Product Design<br><br><br>Nitec in Space Design</td>
     <td>For Nitec in Product Design, students will learn the fundamental skills in the creation and design of consumer goods such as consumer electronics, furniture and lifestyle goods.<br>For Nitec in Space design, students will learn to explore and transform both 2D and/or 3D ordinary interior spaces into conducive environment to learn, work and play.</td>
   </tr>
 		  <tr>
-    <td>Nitec in Medical Manufacturing Technology<br>Nitec in Automotive Technology</td>
+    <td>Nitec in Medical Manufacturing Technology<br><br>Nitec in Automotive Technology</td>
     <td>For Nitec in Medical Manufacturing Technology, students will learn about designing body parts such as knee joints, bone screws, dental implants and so on as to to bring mobility and hope back to the affected patients. <br>For Nitec in Automobile Technology (light vehicles), students will learn to diagnose, service, repair and maintain modern computer-equipped light vehicles ranging from saloon cars to sports utility vehicles, multi-purpose vehicles and light utility vans.</td>
   </tr>
 		  <tr>
@@ -154,4 +151,4 @@ The assessment comprises two compulsory papers. Paper 1 is a written paper and P
 <br>
 Go to the <a href="#">top</a>
 <br>	
-<p></p></ol></div></li></ul>
+<p></p></ol>
