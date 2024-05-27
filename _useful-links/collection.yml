@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Subject Combinations Available/Upper Secondary Express.md
       - Subject Combinations Available/Upper Secondary Normal Technical.md
       - Subject Combinations Available/.keep
       - Subject Combination Exercise/Subject Combinations Available.md
