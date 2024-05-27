@@ -34,7 +34,6 @@ Upper Secondary students must read at least one Humanities subject. If the stude
   </tr>
 	</tbody></table>
 
-<br>
 Go to the <a href="#">top</a>
 <br>
 	
