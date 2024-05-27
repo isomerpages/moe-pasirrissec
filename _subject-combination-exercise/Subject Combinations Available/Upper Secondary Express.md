@@ -329,7 +329,7 @@ In addition, students will be exposed to a diverse range of local, regional and 
 <li>Candidates’ can only present their Final Artwork in a drawing and/or painting medium; and&nbsp;</li>
 <li> Candidates’ visual and aesthetic awareness.</li></ul>
 <h5>Educational pathways for students who would like to pursue a career in Art</h5>
-<br>
+
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Name of courses/ programme</th>
