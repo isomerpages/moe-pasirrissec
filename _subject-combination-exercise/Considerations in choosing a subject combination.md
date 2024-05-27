@@ -18,7 +18,7 @@ Students must meet the criteria for lateral transfer to be transferred to a more
 <h4>2. Guide to choosing Subject Combinations</h4>
 <p>
 </p><h5>How to choose a subject combination?</h5>
-<br>
+
 <ul class="jekyllcodex_accordion">
 
 <li><input type="checkbox" id="accordion1">  
