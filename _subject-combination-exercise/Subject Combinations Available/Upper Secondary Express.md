@@ -329,7 +329,7 @@ In addition, students will be exposed to a diverse range of local, regional and 
 <li>Candidates’ can only present their Final Artwork in a drawing and/or painting medium; and&nbsp;</li>
 <li> Candidates’ visual and aesthetic awareness.</li></ul>
 <h5>Educational pathways for students who would like to pursue a career in Art</h5>
-<br><br>
+<br>
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Name of courses/ programme</th>
@@ -385,9 +385,9 @@ The assessment objectives of the subject can be found at SEAB website under the 
 <br>
 <ol><li>The Design journal - a real time document that reflects the candidate’s attempt at managing his/her personal design process. Mock-up(s) and resulting prototype are to be submitted as part of the journal. A3 sheets are to be used and the journals need to be securely fastened.</li>
 <li>Presentation Board - use to communicate succinctly the proposed design solution in relation to the design brief and design specifications. It should show the functional and aesthetic details using appropriate graphical skills to highlight the practicality and appropriateness of the proposed design solution. Two A2 boards (single-side) are to be submitted as part of the presentation board.</li></ol>
-<br>
+
 <h5>Educational pathways for D&amp;T students who would like to pursue a career in related fields</h5>
-<br>
+
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Name of courses/ programme</th>
