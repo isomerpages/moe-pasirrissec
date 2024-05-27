@@ -271,7 +271,7 @@ Candidates’ personal expression and response to their chosen themes using draw
     <td>Students will learn how to balance their creativity with a keen aesthetic eye and core technical skills, combined with arts expertise for a successful career in the arts.</td>
   </tr>
 	</tbody></table>
-<br>
+
 Go to the <a href="#">top</a>
 <br>
 	
