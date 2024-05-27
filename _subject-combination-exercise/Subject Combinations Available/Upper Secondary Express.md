@@ -5,11 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Subject Combinations Available
 ---
-<ul class="jekyllcodex_accordion">
-
-<li><input type="checkbox" id="accordion1">  
-<label for="accordion1"><b>Information on Upper Secondary Elective Subjects (Express)</b></label><div>
-<p>
+<h3>Information on Upper Secondary Elective Subjects (Express)</h3>
 <br>
 <a href="#section-1">Literature in English</a><br>
 <a href="#section-2">Humanities</a><br> 
@@ -22,7 +18,7 @@ third_nav_title: Subject Combinations Available
 <a href="#section-9">Art</a><br>
 <a href="#section-10">Design &amp; Technology</a>
 
-</p><h3 id="section-1">Literature in English</h3>
+<p></p><h4 id="section-1">Literature in English</h4>
 “Literature makes us better thinkers. It moves us to see the multi-sidedness of situations and therefore expands the breath of our own visions, moving us towards dreams and solutions we might not otherwise have imagined.” – Judith Langer, <i>Envisioning Literature</i>
 <br><br>
 Literature is essentially the study of human relationships and how we, as human beings, need to understand and work together to create a better place to live rather than exist. To be concise, it is how to understand humans better. It affords us PERSPECTIVES about architecture, about politics, about family, about all that is about humans, their living, their endeavours, their success, their tragedy, and most of all, the fragility of Life. It is a challenging discipline because it is about OUR opinion and not just the opinion of the writer.
@@ -45,7 +41,7 @@ So why should your child take up Pure Literature?
 Go to the <a href="#">top</a>
 <br>
 	
-<h3 id="section-2">Humanities</h3>
+<h4 id="section-2">Humanities</h4>
 Upper Secondary students must read at least one Humanities subject. If the student is reading only one Humanities subject, he MUST take ‘Humanities’, comprising a compulsory Social Studies component (SS) and an Elective component. In PRSS, the options for the Elective component are Elective History (EHist), Elective Geography (EGeo) and Elective Literature (Elit).
 <br><br>
 Express students may opt to read an additional Pure Humanities subject which is not his or her Elective component in the compulsory Humanities subject. For example, a student who is reading Humanities (SS/History) can choose to read Pure Geography or English Literature. He is not allowed to read Pure History as this would overlap with the Elective History which he is already reading.
@@ -72,7 +68,7 @@ Express students may opt to read an additional Pure Humanities subject which is 
 Go to the <a href="#">top</a><p></p>
 <br>
 	
-<h3 id="section-3">Social Studies</h3>
+<h4 id="section-3">Social Studies</h4>
 Social Studies is the <b>compulsory</b> half of the Humanities subject.
 <br><br>
 At the heart of the Social Studies Curriculum is the preparation of students to be citizens of tomorrow by helping them to better understand the <b>interconnectedness of Singapore and the world they live in</b>, and appreciate <b>the complexities of the human world</b>. Drawing on aspects of society that are of meaning and interest to the students, Social Studies seeks to ignite students’ curiosity to <b>inquire into real-world issues that concern their lives</b>. Through inquiry and authentic learning experiences, Social Studies helps students to attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives. Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world they live in, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.
@@ -80,7 +76,7 @@ At the heart of the Social Studies Curriculum is the preparation of students to 
 Go to the <a href="#">top</a>
 <br>
 	
-<h3 id="section-4">History</h3>
+<h4 id="section-4">History</h4>
 History education in Singapore seeks to develop in students an appreciation of past human experiences, critical awareness of the nature of historical knowledge, and the ability to make connections between the past and present.
 <br><br>
 In recent years, there has been greater cognizance that historical content and concepts as well as the accompanying historical skills, are important. These lie at the heart of thinking critically about the nature of historical knowledge, which is essential to make better sense of the past. History also plays a critical role in developing students’ own identities through an understanding of history at the personal, national and international levels. The learning of history should spark their curiosity and inspire them with the beliefs, decisions and dilemmas of people in the past. Through historical inquiry, students pose questions about the present by engaging with the past and thus draw connections between both.
@@ -103,7 +99,7 @@ Students reading Elective History will only cover the following unit:
 Go to the <a href="#">top</a>
 <br>
 	
-<h3 id="section-5">Geography</h3>
+<h4 id="section-5">Geography</h4>
 Geography emphasises the integrative study of physical and human environments to enable students to gain better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment. 
 <br><br>
 Generally, in both Pure Geography and Elective Geography, students will be taught skills of gathering and analysing information to understand and explain physical and human phenomena, and other contemporary environmental and social issues that occur in different places and cultures by 
@@ -170,7 +166,7 @@ We offer Pure Humanities (History, Geography) and Humanities (SS/Hist, SS/Geog).
 Go to the <a href="#">top</a>
 <br>
 	
-<h3 id="section-6">Principles of Accounts</h3>
+<h4 id="section-6">Principles of Accounts</h4>
 Principles of Accounts is offered as an elective subject at Secondary Three and examinable at the GCE O-Level and N(A)-Level.
 <br><br>
 Principles of Accounts is designed to designed to teach age-appropriate and relevant accounting knowledge, skills and values. In addition, students will understand how businesses use accounting and non-accounting information to make decisions. Through the subject, they will acquire transferrable skills that they can apply in their daily lives.
@@ -227,7 +223,7 @@ Diploma in International Logistic and Supply Chain Management<br>
 <br>
 Go to the <a href="#">top</a>
 <br>
-<h3 id="section-7">Additional Mathematics</h3>
+<h4 id="section-7">Additional Mathematics</h4>
 The syllabus prepares students adequately for A-Level H2 Mathematics, where a strong foundation in algebraic manipulation skills and mathematical reasoning skills are required. The content is organised into three strands, namely, Algebra, Geometry and Trigonometry, and Calculus. Besides conceptual understanding and skill proficiency explicated in the content strands, important mathematical processes such as reasoning, communication and application (including the use of models) are also emphasised and assessed. The O-Level Additional Mathematics syllabus assumes knowledge of O-Level Mathematics
 <br><br><img width="100%" src="/images/Sec%203%20Subject%20Combi%20Exercise/Additional_Mathematics_Concepts.png"><br>
 At Secondary 3, students from the express courses who are interested in mathematics and are more mathematically inclined can take up Additional Mathematics which provides greater breadth and depth of coverage of mathematics topics. The Additional Mathematics syllabuses introduce students to Calculus and Trigonometry besides extending the learning in Algebra and Geometry from the O-Level Mathematics syllabus. Students are also engaged in writing proofs in Geometry in Additional Mathematics.
@@ -292,7 +288,7 @@ The table below shows the difference between Mathematics and Additional Mathemat
 Go to the <a href="#">top</a>
 <br>
 	
-<h3 id="section-8">Sciences</h3>
+<h4 id="section-8">Sciences</h4>
 
 We offer Pure Sciences (Physics, Chemistry, Biology) and Combined Science (Science (Physics, Chemistry) and Science (Chemistry, Biology)). The following table shows a summary of the O-Level Assessment criteria.
 <br><br>
@@ -307,7 +303,7 @@ Students should consider their learning ability, interest and aspiration when ch
 Go to the <a href="#">top</a>
 <br>
 	
-<h3 id="section-9">Art</h3>
+<h4 id="section-9">Art</h4>
 Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.
 <br><br>
 Students will be able to exercise their cognitive reasoning and their intuition. Students’ cognitive skills, such as language fluency, are enhanced when they talk and write about the works of art they have encountered or created.
@@ -362,7 +358,7 @@ In addition, students will be exposed to a diverse range of local, regional and 
 Go to the <a href="#">top</a>
 <br>
 	
-<h3 id="section-10">Design &amp; Technology</h3>
+<h4 id="section-10">Design &amp; Technology</h4>
 Design and Technology is a subject that aims to nurture students to possess important sets of learning dispositions as follow:
 <br>
 	<ol style="a">
@@ -423,5 +419,3 @@ The assessment objectives of the subject can be found at SEAB website under the 
 </ul>	
 Go to the <a href="#">top</a>
 <br>
-
-<p></p></div></li></ul>
