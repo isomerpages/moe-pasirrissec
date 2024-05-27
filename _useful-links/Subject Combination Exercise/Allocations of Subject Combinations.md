@@ -3,6 +3,7 @@ title: Allocations of Subject Combinations
 permalink: /allocations-of-subject-combinations/
 variant: markdown
 description: ""
+third_nav_title: Subject Combination Exercise
 ---
 #### Guiding Principles for allocation of Subject Combinations
 

@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Subject Combinations Available
 ---
 <h3>Information on Upper Secondary Elective Subjects (Normal Academic)</h3>
-<br>	
+
 <a href="#section-1">Humanities</a><br>
 <a href="#section-2">Social Studies</a><br>
 <a href="#section-3">Elective History</a><br>
@@ -14,7 +14,9 @@ third_nav_title: Subject Combinations Available
 <a href="#section-5">Principles of Accounts</a><br>
 <a href="#section-6">Additional Mathematics</a><br>
 <a href="#section-7">Art</a><br>
-<a href="#section-8">Design &amp; Technology</a> 
+<a href="#section-8">Design &amp; Technology</a>
+
+Go back to <a href="/subject-combination/">Subject Combination Homepage</a> | 
 
 <p></p><h4 id="section-1">Humanities</h4>
 Upper Secondary students must read at least one Humanities subject. If the student is reading only one Humanities subject, he MUST take ‘Humanities’, comprising a compulsory Social Studies component (SS) and an Elective component. In PRSS, the options for the Elective component are Elective History (EHist) and Elective Geography (EGeo).
@@ -308,11 +310,11 @@ The Design journal - a real time document that reflects the candidate’s attemp
     <th>What the course/programme entails</th>
   </tr>
   <tr>
-    <td>Nitec in Product Design<br><br><br>Nitec in Space Design</td>
+    <td>Nitec in Product Design<br><br><br><br>Nitec in Space Design</td>
     <td>For Nitec in Product Design, students will learn the fundamental skills in the creation and design of consumer goods such as consumer electronics, furniture and lifestyle goods. <br><br>For Nitec in Space design, students will learn to explore and transform both 2D and/or 3D ordinary interior spaces into conducive environment to learn, work and play.</td>
   </tr>
 		 <tr>
-    <td>Nitec in Medical Manufacturing Technology<br><br><br>Nitec in Automotive Technology</td>
+    <td>Nitec in Medical Manufacturing Technology<br><br>Nitec in Automotive Technology</td>
     <td>For Nitec in Medical Manufacturing Technology, students will learn about designing body parts such as knee joints, bone screws, dental implants and so on as to bring mobility and hope back to the affected patients. <br><br>For Nitec in Automobile Technology (light vehicles), students will learn to diagnose, service, repair and maintain modern computer-equipped light vehicles ranging from saloon cars to sports utility vehicles, multi-purpose vehicles and light utility vans.</td>
   </tr>
 		 <tr>

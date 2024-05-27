@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Subject Combinations Available
 ---
 <h3>Information on Upper Secondary Elective Subjects (Express)</h3>
-<br>
+
 <a href="#section-1">Literature in English</a><br>
 <a href="#section-2">Humanities</a><br> 
 <a href="#section-3">Social Studies</a><br>
@@ -17,6 +17,8 @@ third_nav_title: Subject Combinations Available
 <a href="#section-8">Sciences</a><br>
 <a href="#section-9">Art</a><br>
 <a href="#section-10">Design &amp; Technology</a>
+
+Click <a href="/considerations-in-choosing-a-subject-combination.html#back">here</a> to return
 
 <p></p><h4 id="section-1">Literature in English</h4>
 “Literature makes us better thinkers. It moves us to see the multi-sidedness of situations and therefore expands the breath of our own visions, moving us towards dreams and solutions we might not otherwise have imagined.” – Judith Langer, <i>Envisioning Literature</i>
@@ -395,7 +397,7 @@ The assessment objectives of the subject can be found at SEAB website under the 
   </tr>
   <tr>
     <td>Nitec in Product Design<br><br><br>Nitec in Space Design</td>
-    <td>For Nitec in Product Design, students will learn the fundamental skills in the creation and design of consumer goods such as consumer electronics, furniture and lifestyle goods. <br><br>For Nitec in Space design, students will learn to explore and transform both 2D and/or 3D ordinary interior spaces into conducive environment to learn, work and play.</td>
+    <td>For Nitec in Product Design, students will learn the fundamental skills in the creation and design of consumer goods such as consumer electronics, furniture and lifestyle goods. <br><br><br>For Nitec in Space design, students will learn to explore and transform both 2D and/or 3D ordinary interior spaces into conducive environment to learn, work and play.</td>
   </tr>
 		 <tr>
     <td>Nitec in Medical Manufacturing Technology<br><br>Nitec in Automotive Technology</td>
@@ -421,4 +423,4 @@ The assessment objectives of the subject can be found at SEAB website under the 
 <li>Brand / Packaging designers</li>
 </ul>	
 Go to the <a href="#">top</a>
-<br>
+<br><br>

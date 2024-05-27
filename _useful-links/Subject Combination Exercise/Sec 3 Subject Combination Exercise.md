@@ -3,6 +3,7 @@ title: Sec 3 Subject Combination Exercise
 permalink: /subject-combination/
 variant: markdown
 description: ""
+third_nav_title: Subject Combination Exercise
 ---
 <h3>Overview</h3>
 <p>Sec 3 Subject Combination Exercise provides students with the opportunity
