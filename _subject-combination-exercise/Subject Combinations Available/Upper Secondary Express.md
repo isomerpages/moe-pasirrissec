@@ -219,7 +219,7 @@ Diploma in Bank and Finance<br>
 Diploma in Business Studies<br>
 Diploma in Business Information Technology<br>
 Diploma in Tourism and Resort Management<br>
-Diploma International Logistic and Supply Chain Management<br>
+Diploma in International Logistic and Supply Chain Management<br>
 <br>
 <b>Assessment Criteria for POA</b>
 <br><br>
