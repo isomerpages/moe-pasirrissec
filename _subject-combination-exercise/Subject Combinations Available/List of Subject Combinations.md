@@ -15,15 +15,20 @@ third_nav_title: Subject Combinations Available
 		</tr>
 	</tbody></table>		
 <table border="1px solid black" style="width:100%">
-	<tbody><tr><th>Secondary 3 Normal Academic</th></tr>
-<tr><td><a href="/files/Subject%20Combination%20Exercise/3N_A__Subject_Combination_for_2025.pdf">Secondary 3 Normal Academic</a><br></td></tr>
-<tr><td><a href="/upper-secondary-normal-academic/">Information on Sec 3 Normal (Academic) Elective Subjects</a></td></tr>
+	<tbody><tr>
+		<th>Secondary 3 Normal Academic</th>
+		</tr>
+<tr><td><a href="/files/Subject%20Combination%20Exercise/3N_A__Subject_Combination_for_2025.pdf">Secondary 3 Normal Academic</a><br></td>
+</tr><tr><td><a href="/upper-secondary-normal-academic/">Information on Sec 3 Normal (Academic) Elective Subjects</a></td>
+		</tr>
 	</tbody></table>		
 <table border="1px solid black" style="width:100%">
-<tbody><tr><th>Secondary 3 Normal Technical</th></tr>
+<tbody><tr>
+	<th>Secondary 3 Normal Technical</th>
+	</tr>
 	<tr><td><a href="/files/Subject%20Combination%20Exercise/3N_T__Subject_Combination_for_2025.pdf">Secondary 3 Normal Technical </a><br></td>
-</tr><tr><td><a href="/upper-secondary-normal-technical/">Information on Sec 3 Normal (Technical) Elective Subjects</a></td></tr>
- 
+</tr><tr>
+	<td><a href="/upper-secondary-normal-technical/">Information on Sec 3 Normal (Technical) Elective Subjects</a></td></tr>
 </tbody></table>
 
 Go back to <a href="/subject-combination/">Subject Combination Homepage</a>
