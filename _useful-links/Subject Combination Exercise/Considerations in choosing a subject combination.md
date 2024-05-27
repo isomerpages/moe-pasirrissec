@@ -210,8 +210,7 @@ Please note that students who are keen to proceed to ITE can also consider parti
 		<label for="accordion4"><b>Step 4:</b> Select Subject Combinations which include the relevant elective subjects</label><div>
 
 At upper secondary level, your child/ward will have to offer a set of compulsory subjects. In addition to these, your child/ward may choose between 1-3 elective subjects. Based on the courses and prerequisite subjects shortlisted in Step 3, identify the relevant Subject Combinations.  You can click the links below to view the Subject Combinations available and find out more about the subjects.
-<br><br>
-<a href="/files/Subject%20Combination%20Exercise/3E_Subject_Combinations_for_2025.pdf">Secondary 3 Express</a><br>
+<br><br><a href="/list-of-subject-combinations.html#section-1">Sec 3 Express Subject Combinations for 2025</a><br>
 <a href="/upper-secondary-express/">Information on Sec 3 Express Elective Subjects</a>
 <br><br>
 <a href="/files/Subject%20Combination%20Exercise/3N_A__Subject_Combination_for_2025.pdf">Secondary 3 Normal Academic</a><br>
