@@ -264,8 +264,8 @@ The table below shows the difference between Mathematics and Additional Mathemat
 	<ul><li>Express: A good pass in Sec 2 Mathematics</li></ul>
 <li>Algebra proficiency</li>
 <li>Interest, diligence, determination, self-directedness and constant regular practice to succeed is essential</li>
-</ul><br>
-	<b><u>Implication on admission requirement for post-secondary studies</u></b>
+</ul>
+<b><u>Implication on admission requirement for post-secondary studies</u></b>
 <br><br>
 <b>Junior College</b>
 <br>
