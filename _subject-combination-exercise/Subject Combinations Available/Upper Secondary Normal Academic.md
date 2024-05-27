@@ -310,7 +310,7 @@ The Design journal - a real time document that reflects the candidate’s attemp
     <th>What the course/programme entails</th>
   </tr>
   <tr>
-    <td>Nitec in Product Design<br><br><br>Nitec in Space Design</td>
+    <td>Nitec in Product Design<br><br><br><br>Nitec in Space Design</td>
     <td>For Nitec in Product Design, students will learn the fundamental skills in the creation and design of consumer goods such as consumer electronics, furniture and lifestyle goods. <br><br>For Nitec in Space design, students will learn to explore and transform both 2D and/or 3D ordinary interior spaces into conducive environment to learn, work and play.</td>
   </tr>
 		 <tr>
