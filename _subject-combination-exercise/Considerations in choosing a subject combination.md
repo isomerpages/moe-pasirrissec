@@ -20,7 +20,7 @@ Students must meet the criteria for lateral transfer to be transferred to a more
 </p><h5>How to choose a subject combination?</h5>
 
 <ul class="jekyllcodex_accordion">
-
+<a id="accordion-0" href="#">Expand All</a><br>
 <li><input type="checkbox" id="accordion1">  
 	<label for="accordion1"><b>Step 1:</b> Explore interest areas and find out about your child’s aspirations</label><div>
 
