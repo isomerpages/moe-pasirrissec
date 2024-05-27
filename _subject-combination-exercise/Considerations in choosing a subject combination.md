@@ -20,10 +20,15 @@ Students must meet the criteria for lateral transfer to be transferred to a more
 </p><h5>How to choose a subject combination?</h5>
 
 <ul class="jekyllcodex_accordion">
-
-<li><input type="checkbox" id="accordion1">  
+<div class="container">
+	<button class="btn btn-primary" type="button">Expand/Collapse All</button>
+    <div class="card">
+        <div class="card-body">
+            <li><input type="checkbox" id="accordion1">
+							<button aria-controls="collapse" aria-expanded="false" data-target="#collapse" data-toggle="collapse" class="card-title">   
 	<label for="accordion1"><b>Step 1:</b> Explore interest areas and find out about your child’s aspirations</label><div>
-
+</div></button>
+            <div id="collapse" class="card-text collapse">
 Discuss with your child/ward his/her interest areas and aspirations. The following resources would help your child understand herself/himself and gain an insight into the diverse range of careers and jobs available.
 <br><br>	
 <table border="1px solid black" style="width:100%">
@@ -49,6 +54,9 @@ Discuss with your child/ward his/her interest areas and aspirations. The followi
   </tr>
 	</tbody></table>	
 	</div></li>
+			</div>
+<div class="w-100"></div>
+	</div></div>						
 <li><input type="checkbox" id="accordion2">  
 	<label for="accordion2"><b>Step 2:</b> Identify the most appropriate post-secondary education pathway</label><div>
 	
@@ -204,7 +212,8 @@ Please note that students who are keen to proceed to ITE can also consider parti
 </td></tr>
 	</tbody></table>	 
 	</div></li>
-	<li><input type="checkbox" id="accordion4">  
+							
+<li><input type="checkbox" id="accordion4">  
 		<label for="accordion4"><b>Step 4:</b> Select Subject Combinations which include the relevant elective subjects</label><div>
 
 At upper secondary level, your child/ward will have to offer a set of compulsory subjects. In addition to these, your child/ward may choose between 1-3 elective subjects. Based on the courses and prerequisite subjects shortlisted in Step 3, identify the relevant Subject Combinations.  You can click the links below to view the Subject Combinations available and find out more about the subjects.
