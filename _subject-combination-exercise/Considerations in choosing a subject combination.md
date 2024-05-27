@@ -50,7 +50,7 @@ Discuss with your child/ward his/her interest areas and aspirations. The followi
 	</div></li>
 	
 <li><input type="checkbox" id="accordion2">  
-	<label for="accordion2"><b>Step 2:</b> Identify the most appropriate post-secondary education pathway</label><div>
+<label for="accordion2"><b>Step 2:</b> Identify the most appropriate post-secondary education pathway</label><div>
 	
 Once you have identified an interest area or career path which you would like to pursue, you can start to explore the various post-secondary education options &amp; pathways that are relevant. 
 <br><br>
