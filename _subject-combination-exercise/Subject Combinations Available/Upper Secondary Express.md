@@ -424,4 +424,3 @@ The assessment objectives of the subject can be found at SEAB website under the 
 </ul>	
 Go to the <a href="#">top</a>
 <br><br>
-Go back to <a href="/subject-combination/">Sec 3 Combination Exercise</a>
