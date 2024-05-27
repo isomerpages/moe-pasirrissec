@@ -11,7 +11,7 @@ third_nav_title: Subject Combinations Available
 <a href="#section-2">Design &amp; Technology</a><br> 
 <a href="#section-3">Elements of Business Skills</a><br>
 
-Go back to <a href="/subject-combination/">Subject Combination Homepage</a> 
+Click <a href="/considerations-in-choosing-a-subject-combination.html#back">here</a> to return
 
 <h4 id="section-1">Art</h4>
 Art inspires self-confidence in students, helping them develop critical, imaginative and creative thinking and process skills for both life and work. The study of Art helps provide a foundation for understanding and evaluating aesthetic intention and artistic skills.
