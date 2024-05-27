@@ -37,7 +37,7 @@ In addition, students will be exposed to a diverse range of local, regional and 
 <li>Candidates’ are required to present 3 Final Artworks - a Digital journal and Art and Design (1 Fine Art &amp; 1 Design) work submission.</li>    
 	<li>Candidates’ visual and aesthetic awareness.</li></ul>
 <h5>Educational pathways for students who would like to pursue a career in Art &amp; Design</h5>
-<br>	
+
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
     <th>Name of courses/ programme</th>
