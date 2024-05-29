@@ -8,13 +8,7 @@ variant: markdown
 
 | Type of Stalls | Closing Date | Requirements|
 | ------- | -------- | -------- |
-|Chinese Rice (Non-Halal - To include chicken rice in menu)    | 21 June 2024  | See Below  |
-|Asia Cuisine (Non-Halal - Japanese/Korean,Vegetarian,etc)    | 21 June 2024  | See Below  |
 
-#### **Other details:**
-
-1\. Estimated start date is after gas and licence has been approved.
-2\. Application for gas, SFA licence, handover etc should preferably be done and completed before the start date. 
 
 #### **Application Procedure**
 
