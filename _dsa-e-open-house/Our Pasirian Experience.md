@@ -15,7 +15,7 @@ variant: markdown
 
 <img class="center" src="/images/alumni.png">
 
-Find out more [here](/about-us/Our-Partners/Alumni/).
+Find out more [here](/about-us/our-partners/alumni/).
 
 ### **DSA VLOG**
 <div style="text-align:center">
