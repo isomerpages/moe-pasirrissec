@@ -4,6 +4,9 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Collection of School Graduation Certificate (SGC) for 2023 Cohort
+Students from 2023 Sec 4 NA, Sec 4 Exp and Sec 5NT cohorts may collect their SGC from the school General Office during office hours.
+
 #### Launch of Subject Combination Microsite
 
 The Sec 3 Subject Combination 2025 allows students to choose subject combinations based on academic merit and interest. The microsite serves as a one-stop resource for students and parents, providing details on subject combinations, eligibility criteria, post-secondary education pathways, and the Subject Allocation Exercise timeline.
@@ -35,8 +38,6 @@ Please click [here](/files/Announcements/3rd_May_2024_BL_TT_V1_Classes.pdf) to v
 
 Please click [here](/files/Announcements/2024/24th_April_2024_BL_TT_V1_Classes.pdf) to view the timetable.
 
-#### Collection of School Graduation Certificate (SGC) for 2023 Cohort
-Students from 2023 Sec 4 Exp and Sec 5NT cohorts may collect their SGC from the school General Office during office hours.
 
 #### Secondary 1 Breakfast Session with Parents
 
