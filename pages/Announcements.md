@@ -4,7 +4,7 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### 2024 Sem 2 Timetable with effect from 24 Jun 2024
+#### 2024 Sem 2 Timetable with effect from 24 Jun
 
 Please click for 2024 Sem 2 Timetable, Secondary 1 Classes.
 
