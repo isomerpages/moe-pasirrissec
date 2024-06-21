@@ -47,16 +47,6 @@ Please click [here](/files/Information%20for%20Parents/2024_Sec_1_Breakfast_with
 
 Please click [here](/files/Newsflash_Term_2_2024.pdf) to view our Newsflash for Term 2.
 
-#### 2024 Term 1 Timetable with effect from 29 Jan 2024
-
-Please click [here](/files/Timetable_for_Class_S1_wef_29_Jan.pdf) for 2024 Term 1 Timetable, Secondary 1 Classes.
-
-Please click [here](/files/Timetable_for_Class_S2___5_wef_29_Jan.pdf) for 2024 Term 1 Timetable, Secondary 2 - 5 Classes.
-
-#### 2024 Semester 1 Blended Learning Timetable
-
-Please click [here](/files/2024_SEM1_BL_TT_V1_Classes.pdf) for the 2024 Semester 1 Blended Learning Timetable.
-
 #### Sec 1 and 2 Parents Engagement Slides
 
 Please click [here](/files/Information%20for%20Parents/2024_Sec_1_Parent_Engagement_2_Feb_compressed.pdf) to view the Sec 1 Parents Engagement Slides 2024.<br>
