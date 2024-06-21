@@ -4,6 +4,13 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 2024 Sem 2 Timetable with effect from 24 Jun 2024
+
+Please click for 2024 Sem 2 Timetable, Secondary 1 Classes.
+
+Please click  for 2024 Sem 2 Timetable, Secondary 2 - 5 Classes.
+
+
 #### Collection of School Graduation Certificate (SGC) for 2023 Cohort
 Students from 2023 Sec 4 NA, Sec 4 Exp and Sec 5NT cohorts may collect their SGC from the school General Office during office hours.
 
@@ -12,7 +19,6 @@ Students from 2023 Sec 4 NA, Sec 4 Exp and Sec 5NT cohorts may collect their SGC
 The Sec 3 Subject Combination 2025 allows students to choose subject combinations based on academic merit and interest. The microsite serves as a one-stop resource for students and parents, providing details on subject combinations, eligibility criteria, post-secondary education pathways, and the Subject Allocation Exercise timeline.
 
 You may access the [link](/subject-combination/)&nbsp;to find out more.
-
 
 #### Secondary 3 Breakfast Session with Parents
 
