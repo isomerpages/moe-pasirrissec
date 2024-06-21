@@ -6,9 +6,9 @@ variant: markdown
 ---
 #### 2024 Sem 2 Timetable with effect from 24 Jun
 
-Please click for 2024 Sem 2 Timetable, Secondary 1 Classes.
+Please click [here](/files/Announcements/2024/Sem_2_TT_wef_24_Jun_for_S1.pdf) for 2024 Sem 2 Timetable, Secondary 1 Classes.
 
-Please click  for 2024 Sem 2 Timetable, Secondary 2 - 5 Classes.
+Please click [here](/files/Announcements/2024/Sem_2_TT_wef_24_Jun_for_S2___S5.pdf) for 2024 Sem 2 Timetable, Secondary 2 - 5 Classes.
 
 
 #### Collection of School Graduation Certificate (SGC) for 2023 Cohort
