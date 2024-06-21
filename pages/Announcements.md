@@ -26,19 +26,6 @@ Please click [here](/files/Information%20for%20Parents/2024_Sec_4_Breakfast_with
 
 Please click [here](/files/2024_Sec_2_Breakfast_with_Parents_10_May__Reduced_size_.pdf) to view the Sec 2 Breakfast Session with Parents slides.
 
-#### 8th May Blended Learning Timetable
-
-Please click [here](/files/Announcements/8th_May_2024_BL_TT_V1_Classes.pdf) to view the timetable.
-
-#### 3rd May Blended Learning Timetable
-
-Please click [here](/files/Announcements/3rd_May_2024_BL_TT_V1_Classes.pdf) to view the timetable.
-
-#### 24th April Blended Learning Timetable
-
-Please click [here](/files/Announcements/2024/24th_April_2024_BL_TT_V1_Classes.pdf) to view the timetable.
-
-
 #### Secondary 1 Breakfast Session with Parents
 
 Please click [here](/files/Information%20for%20Parents/2024_Sec_1_Breakfast_with_Parents_12_Apr.pdf) to view the Sec 1 Breakfast Session with Parents slides.
