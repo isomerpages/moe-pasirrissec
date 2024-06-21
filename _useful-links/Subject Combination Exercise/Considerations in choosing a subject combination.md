@@ -185,7 +185,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 		<td><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme">Direct Entry Scheme to Polytechnic Programme (DPP)</a></td>
 		</tr>
 		<tr>		
-			<td>3.</td><td><a href="www.pasirrissec.moe.edu.sg">GCE O level at Pasir Ris Secondary School</a></td>
+			<td>3.</td><td><a href="https://www.pasirrissec.moe.edu.sg">GCE O level at Pasir Ris Secondary School</a></td>
 		</tr>
 		<tr>		
 		<td>4.</td><td><a href="https://www.nafa.edu.sg/courses/foundation/nafa-foundation-programme/">Nanyang Academy of Fine Arts Foundation Programme (NFP)</a></td>
