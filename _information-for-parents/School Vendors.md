@@ -34,7 +34,7 @@ to 2pm)
 <br>Tel: 6742 1118 Fax: 6743 1112
 <br>Office hours: 8.30 am – 6.00 pm from Mon to Fri
 <br>Email:&nbsp;<a href="mailto:rent@lockerandlock.com" rel="noopener noreferrer nofollow" target="_blank">rent@lockerandlock.com</a> 
-<br>Website:&nbsp;<a href="https://www.lockernlock.com/" rel="noopener noreferrer nofollow" target="_blank">www.lockernlock.com</a>
+<br>Website:&nbsp;<a href="https://www.lockernlock.com/" rel="noopener noreferrer nofollow" target="_blank">lockernlock.com</a>
 </p>
 <p>Please click&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSeisolK3flJHuHebdSK2kFlvzFlzeXmoubTjBSpnylG-NlllA/viewform" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or
 scan the QR code to complete the locker rental form</p>
