@@ -4,6 +4,13 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 2024 Sem 2 Timetable with effect from 24 Jun
+
+Please click [here](/files/Announcements/2024/Sem_2_TT_wef_24_Jun_for_S1.pdf) for 2024 Sem 2 Timetable, Secondary 1 Classes.
+
+Please click [here](/files/Announcements/2024/Sem_2_TT_wef_24_Jun_for_S2___S5.pdf) for 2024 Sem 2 Timetable, Secondary 2 - 5 Classes.
+
+
 #### Collection of School Graduation Certificate (SGC) for 2023 Cohort
 Students from 2023 Sec 4 NA, Sec 4 Exp and Sec 5NT cohorts may collect their SGC from the school General Office during office hours.
 
@@ -12,7 +19,6 @@ Students from 2023 Sec 4 NA, Sec 4 Exp and Sec 5NT cohorts may collect their SGC
 The Sec 3 Subject Combination 2025 allows students to choose subject combinations based on academic merit and interest. The microsite serves as a one-stop resource for students and parents, providing details on subject combinations, eligibility criteria, post-secondary education pathways, and the Subject Allocation Exercise timeline.
 
 You may access the [link](/subject-combination/)&nbsp;to find out more.
-
 
 #### Secondary 3 Breakfast Session with Parents
 
@@ -26,19 +32,6 @@ Please click [here](/files/Information%20for%20Parents/2024_Sec_4_Breakfast_with
 
 Please click [here](/files/2024_Sec_2_Breakfast_with_Parents_10_May__Reduced_size_.pdf) to view the Sec 2 Breakfast Session with Parents slides.
 
-#### 8th May Blended Learning Timetable
-
-Please click [here](/files/Announcements/8th_May_2024_BL_TT_V1_Classes.pdf) to view the timetable.
-
-#### 3rd May Blended Learning Timetable
-
-Please click [here](/files/Announcements/3rd_May_2024_BL_TT_V1_Classes.pdf) to view the timetable.
-
-#### 24th April Blended Learning Timetable
-
-Please click [here](/files/Announcements/2024/24th_April_2024_BL_TT_V1_Classes.pdf) to view the timetable.
-
-
 #### Secondary 1 Breakfast Session with Parents
 
 Please click [here](/files/Information%20for%20Parents/2024_Sec_1_Breakfast_with_Parents_12_Apr.pdf) to view the Sec 1 Breakfast Session with Parents slides.
@@ -46,16 +39,6 @@ Please click [here](/files/Information%20for%20Parents/2024_Sec_1_Breakfast_with
 #### PRSS Newsflash
 
 Please click [here](/files/Newsflash_Term_2_2024.pdf) to view our Newsflash for Term 2.
-
-#### 2024 Term 1 Timetable with effect from 29 Jan 2024
-
-Please click [here](/files/Timetable_for_Class_S1_wef_29_Jan.pdf) for 2024 Term 1 Timetable, Secondary 1 Classes.
-
-Please click [here](/files/Timetable_for_Class_S2___5_wef_29_Jan.pdf) for 2024 Term 1 Timetable, Secondary 2 - 5 Classes.
-
-#### 2024 Semester 1 Blended Learning Timetable
-
-Please click [here](/files/2024_SEM1_BL_TT_V1_Classes.pdf) for the 2024 Semester 1 Blended Learning Timetable.
 
 #### Sec 1 and 2 Parents Engagement Slides
 
