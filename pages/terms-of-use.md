@@ -17,7 +17,7 @@ The materials located on this Web Site including the information and software pr
 
 #### **Privacy Policy** 
 
-[Click here](https://pasirrissec-moe-edu-sg-admin.cwp.sg/others/pasir-ris-secondary-privacy) to review this Web Site Privacy Statement.
+Click [here](/privacy/) to review this Web Site Privacy Statement.
   
 #### **Restrictions on Use of Materials** 
 
