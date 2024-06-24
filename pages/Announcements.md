@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### PRSS Newsflash
+
+Please click [here](/files/Newsflash__Term_3_2024_Final.pdf)here to view our Newsflash for Term 3.
+
 #### 2024 Sem 2 Timetable with effect from 24 Jun
 
 Please click [here](/files/Announcements/2024/Sem_2_TT_wef_24_Jun_for_S1.pdf) for 2024 Sem 2 Timetable, Secondary 1 Classes.
