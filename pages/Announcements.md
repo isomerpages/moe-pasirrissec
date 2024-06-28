@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### PRSS Newsflash
 
-Please click [here](/files/Newsflash__Term_3_2024_Final.pdf)here to view our Newsflash for Term 3.
+Please click [here](/files/Newsflash__Term_3_2024_Final.pdf) to view our Newsflash for Term 3.
 
 #### 2024 Sem 2 Timetable with effect from 24 Jun
 
