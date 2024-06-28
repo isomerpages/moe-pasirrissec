@@ -4,6 +4,12 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 2024 Preliminary Examination Timetable
+
+Please click here to view the 2024 4E5N Prelim Timetable.
+Please click here to view the 2024 4NA Prelim Timetable.
+Please click here to view the 2024 4NT Prelim Timetable.
+
 #### PRSS Newsflash
 
 Please click [here](/files/Newsflash__Term_3_2024_Final.pdf) to view our Newsflash for Term 3.
