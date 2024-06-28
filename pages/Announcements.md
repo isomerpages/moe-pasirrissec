@@ -4,9 +4,15 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 2024 Sec 4 &amp; 5 Preliminary Examinations Timetables
+
+Please click [here](/files/Announcements/1a__2024_4E5N_Prelim_Timetable_27Jun.pdf) to view the 4E5N Prelim Timetable.<br>
+Please click [here](/files/Announcements/1b__2024_4NA_Prelim_Timetable_27Jun.pdf) to view the 4NA Prelim Timetable.<br>
+Please click [here](/files/Announcements/1c__2024_4NT_Prelim_Timetable_27Jun.pdf) to view the 4NT Prelim Timetable.
+
 #### PRSS Newsflash
 
-Please click [here](/files/Newsflash__Term_3_2024_Final.pdf)here to view our Newsflash for Term 3.
+Please click [here](/files/Newsflash__Term_3_2024_Final.pdf) to view our Newsflash for Term 3.
 
 #### 2024 Sem 2 Timetable with effect from 24 Jun
 
@@ -39,10 +45,6 @@ Please click [here](/files/2024_Sec_2_Breakfast_with_Parents_10_May__Reduced_siz
 #### Secondary 1 Breakfast Session with Parents
 
 Please click [here](/files/Information%20for%20Parents/2024_Sec_1_Breakfast_with_Parents_12_Apr.pdf) to view the Sec 1 Breakfast Session with Parents slides.
-
-#### PRSS Newsflash
-
-Please click [here](/files/Newsflash_Term_2_2024.pdf) to view our Newsflash for Term 2.
 
 #### Sec 1 and 2 Parents Engagement Slides
 
