@@ -5,6 +5,7 @@ description: ""
 variant: markdown
 ---
 **2024**  
+Term 3 - Newsflash
 [Term 2 - Newsflash](/files/Newsflash_Term_2_2024.pdf)<br>
 [Term 1 - Newsflash](/files/Useful%20Links/Newsflash/Newsflash_Term_1_2024__final_.pdf)<br>
 
