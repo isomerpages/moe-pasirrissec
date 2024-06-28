@@ -46,10 +46,6 @@ Please click [here](/files/2024_Sec_2_Breakfast_with_Parents_10_May__Reduced_siz
 
 Please click [here](/files/Information%20for%20Parents/2024_Sec_1_Breakfast_with_Parents_12_Apr.pdf) to view the Sec 1 Breakfast Session with Parents slides.
 
-#### PRSS Newsflash
-
-Please click [here](/files/Newsflash_Term_2_2024.pdf) to view our Newsflash for Term 2.
-
 #### Sec 1 and 2 Parents Engagement Slides
 
 Please click [here](/files/Information%20for%20Parents/2024_Sec_1_Parent_Engagement_2_Feb_compressed.pdf) to view the Sec 1 Parents Engagement Slides 2024.<br>
