@@ -47,7 +47,6 @@ We seek to develop Pasirians who will be:
 | Chinese Language | Ms Wong Jie Lin | [wong_jie_lin@moe.edu.sg](mailto:wong_jie_lin@moe.edu.sg) |
 | Chinese Language | Mr Liu Shu Cun | [liu_shu_cun@moe.edu.sg](mailto:liu_shu_cun@moe.edu.sg) |
 | Chinese Language | Mdm Ng Ai Hoon | [ng_ai_hoon@moe.edu.sg](mailto:ng_ai_hoon@moe.edu.sg) |
-| Chinese Language | Ms Wong Yun Yi | [wong_yun_yi@moe.edu.sg](mailto:ng_ai_hoon@moe.edu.sg) |
 | Chinese Language | Ms Wang Xiangkun | [wang_xiangkun@moe.edu.sg](mailto:wang_xiangkun@moe.edu.sg) |
 | Chinese Language | Mdm Jin Beihua | [jin_beihua@moe.edu.sg](mailto:jin_beihua@moe.edu.sg) |
 | Chinese Language | Ms Desiree Oh Yi Ting | [oh_yi_ting_desiree@moe.edu.sg](mailto:oh_yi_ting_desiree@moe.edu.sg) |

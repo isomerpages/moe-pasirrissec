@@ -7,7 +7,7 @@ third_nav_title: Subject Combination Exercise
 ---
 <h4>1. MOE Promotion Criteria</h4>
 All students must meet the promotion criteria to be promoted to Secondary 3 in order to take part in the Subject Combination Exercise.
-<br>
+<br><br>
 <table style="border:none;border-collapse:collapse;"><colgroup><col width="127"><col width="497"></colgroup><tbody><tr style="height:26.25pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Stream</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Criteria for Promotion</span></p></td></tr><tr style="height:57.25pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2 Normal (Technical)</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">A pass in </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2</span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> subjects, one of which should be </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">English Language </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">or </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mathematics</span></p></td></tr><tr style="height:57.25pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2 Normal (Academic)</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">A pass in </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">English Language </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">and </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2</span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> other subjects </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">OR</span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> A pass in </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">4</span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> subjects&nbsp;</span></p></td></tr><tr style="height:57.25pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2 Express</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">A pass in </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">English Language </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">AND</span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> a minimum of </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">50% for the average </span><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">of all subjects combined</span></p></td></tr></tbody></table>
 	
 <h5>MOE Criteria for Lateral Transfer to a more demanding stream</h5>
@@ -62,27 +62,27 @@ Help your child/ward understand what post-secondary pathways available by using 
     <th colspan="3"><h5>I. Post Secondary Pathways &amp; Information (Express)</h5></th>
   </tr>
   <tr>
-		<td><b>1</b></td><td><b>Junior College Option:</b></td>
+		<td><b>1</b></td><td><b>Junior College:</b></td>
     <td>2-3 years in a Junior college or Millenia Institute towards an A-levels certification <br><i> Pathway: Junior College &amp; Institute&nbsp; (2-3 years) &gt; University (3-4 years)</i></td>
 		</tr>
 		<tr>
-			<td><b>2</b></td><td><b>Polytechnic Option:</b></td>
+			<td><b>2</b></td><td><b>Polytechnic:</b></td>
    <td>3 years in a Polytechnic towards a specialised Diploma <br><i>Pathway: Polytechnic (3 years) &gt; University (3-4 years)</i></td>
 		</tr>
 		<tr>
-			<td><b>3</b></td><td><b>Institute of Technical Education (ITE) Option:</b></td>
+			<td><b>3</b></td><td><b>Institute of Technical Education (ITE):</b></td>
    <td>2 years in ITE towards a Higher Nitec Certification <br><i>Pathway: ITE Higher Nitec (2 years) &gt; Polytechnic (3 years)  &gt; University (3-4 years)</i></td>
 		</tr>
 	<tr>
-		<td><b>4</b></td><td><b>Nanyang Academy of Fine Arts (NAFA) Option:</b></td>
+		<td><b>4</b></td><td><b>Nanyang Academy of Fine Arts (NAFA):</b></td>
    <td>3 years in NAFA towards an Arts, Media or related Diploma <br><i>Pathway: Laselle or NAFA Diploma Programme (3 years) &gt; NAFA Degree Programme (3-4 years)</i></td>
 	</tr>
 			<tr>
-		<td><b>5</b></td><td><b>LASELLE Option:</b></td>
+		<td><b>5</b></td><td><b>LASELLE College of the Arts:</b></td>
    <td>3 years in Laselle towards an Arts, Media or related Diploma<br><i>Pathway: Laselle Diploma Programme (3 years) &gt; Laselle Degree Programme (3-4 years)</i></td>
 	</tr>
 		<tr>
-			<td><b>6</b></td><td><b>Polytechnic Early Admission Exercise Option:</b></td>
+			<td><b>6</b></td><td><b>Polytechnic Early Admission Exercise (Poly-EAE):</b></td>
    <td>3 years in a Polytechnic towards a specialised Diploma<br><i>Pathway: Polytechnic (3 years) &gt; University (3-4 years)</i></td>
 	</tr>
 		<tr>
@@ -93,19 +93,19 @@ Help your child/ward understand what post-secondary pathways available by using 
 		<th colspan="3"><h5>II. Post Secondary Pathways &amp; Information (Normal Academic)</h5></th>
   </tr>
   <tr>
-		<td><b>1</b></td><td><b>PFP Option:</b></td>
+		<td><b>1</b></td><td><b>Polytechnic Foundation Programme (PFP):</b></td>
     <td>1 year Polytechnic Foundation Programme (PFP) before embarking on a 3 years diploma course<br><i>Pathway: PFP (1 year) &gt; Polytechnic (3 years) &gt; University (3-4 years)</i></td>
 		</tr>
 		 <tr>
-			 <td><b>2</b></td><td><b>DPP Option:</b></td>
+			 <td><b>2</b></td><td><b>Direct Entry Scheme to Polytechnic Programme (DPP):</b></td>
     <td>Direct Entry Scheme to Polytechnic Programme (DPP) - 2 years in ITE towards a Higher Nitec certification<br><i>Pathway: ITE Higher Nitec (2 years) &gt; Polytechnic (3 years)  &gt; University (3-4 years) </i></td>
 		</tr>
 		 <tr>
-			<td><b>3</b></td><td><b>O-Level Option:</b></td>
+			<td><b>3</b></td><td><b>O-Level:</b></td>
     <td>1 year in Pasir Ris Secondary School towards an O-levels Certification<br><i>Pathway: O-levels (1 year) &gt; Polytechnic or JC (2-3 years) &gt; University (3-4 years)</i></td>
 		</tr>
 		 <tr>
-			 <td><b>4</b></td><td><b>NFP Option:</b></td>
+			 <td><b>4</b></td><td><b>NAFA Foundation Programme (NFP):</b></td>
     <td>1 year NAFA Foundation Programme (NFP) before embarking on a 3 years Arts diploma course.<br><i>Pathway: NFP (1 year) &gt; NAFA Diploma Course (3 years) &gt; NAFA Degree Programme (3-4 years)</i></td>
 		</tr>
 	</tbody></table>
@@ -134,28 +134,37 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 <br><br>	
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th colspan="2"><h5>Express Course</h5></th>
+    <th colspan="3"><h5>Express Course</h5></th>
   </tr>
   <tr>
-    <td colspan="3">a. Junior Colleges &amp; Millennia Institute<br>(A Level Courses)</td>
-		<td>1. <a href="https://asrjc.moe.edu.sg/">ANDERSON SERANGOON Junior College</a><br>
-			2. <a href="https://www.acjc.moe.edu.sg/">ANGLO-CHINESE Junior College</a><br> 
-			3. <a href="https://cjc.moe.edu.sg/">CATHOLIC Junior College</a><br>
-			4. <a href="https://www.hci.edu.sg/">HWA CHONG INSTITUTION (Junior College)</a><br>
-			5. <a href="https://tmjc.moe.edu.sg/">TAMPINES MERIDIAN Junior College</a><br>
-			6. <a href="http://nanyangjc.moe.edu.sg/">NANYANG Junior College</a><br>
-			7. <a href="http://nationaljc.moe.edu.sg/">NATIONAL Junior College</a><br>
-			8. <a href="https://jpjc.moe.edu.sg/">JURONG PIONEER Junior College</a><br>
-			9. <a href="http://www.standrewsjc.moe.edu.sg/">ST ANDREWS Junior College</a><br>
-			10. <a href="http://www.temasekjc.moe.edu.sg/">TEMASEK Junior College</a><br>
-			11. <a href="https://victoriajc.moe.edu.sg/">VICTORIA Junior College</a><br>
-			12. <a href="https://yijc.moe.edu.sg/">YISHUN INNOVA Junior College</a><br>
-			13. <a href="http://www.millenniainstitute.moe.edu.sg/">MILLENNIA Institute</a><br></td>
+    <td colspan="3">a. Junior Colleges (JC) &amp; Millennia Institute (MI)<br>(A Level Courses)</td>
+		<td>1. <a href="https://asrjc.moe.edu.sg/">Anderson Serangoon JC</a><br>
+			2. <a href="https://www.acjc.moe.edu.sg/">Anglo-Chinese JC</a><br> 
+			3.<a href="https://www.acsindep.moe.edu.sg/">Anglo-Chinese School (Independent) (JC)</a><br> 
+			4. <a href="https://cjc.moe.edu.sg/">Catholic JC</a><br>
+			5. <a href="https://www.dunmanhigh.moe.edu.sg/admissions/sh-admissions/">Dunman High School (JC)</a><br>
+			6. <a href="https://www.eunoiajc.moe.edu.sg/">Eunoia JC</a><br>
+			7. <a href="https://www.hci.edu.sg/">Hwa Chong Institution (JC)</a><br>
+			8. <a href="https://jpjc.moe.edu.sg/">Jurong Pioneer JC</a><br>
+			9. <a href="https://tmjc.moe.edu.sg/">Tampines Meridian JC</a><br>
+			10. <a href="http://nanyangjc.moe.edu.sg/">Nanyang JC</a><br>
+			11. <a href="http://nationaljc.moe.edu.sg/">National JC</a><br>
+			12.<a href="https://www.ri.edu.sg/admissions/year-5-admissions">Raffles Institution (JC)</a><br>
+			13. <a href="http://www.standrewsjc.moe.edu.sg/">St. Andrew's JC</a><br>
+			14. <a href="http://www.temasekjc.moe.edu.sg/">Temasek JC</a><br>
+			15. <a href="https://victoriajc.moe.edu.sg/">Victoria JC</a><br>
+			16. <a href="https://yijc.moe.edu.sg/">Yishun Innova JC</a><br>
+			17. <a href="http://www.millenniainstitute.moe.edu.sg/">Millennia Institute</a><br></td>
 		<td>Please note that students who are keen to proceed to junior colleges can also consider participating in the <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa">Direct School Admission for Junior Colleges (DSA-JC)</a></td>
  </tr>
 		<tr>
     <td colspan="3">b. <a href="https://www.moe.gov.sg/coursefinder?journey=Polytechnics">Polytechnics<br></a>(Diploma Courses)</td>
-	  <td></td>
+			<td>
+				1. <a href="https://www.nyp.edu.sg/">Nanyang Polytechnic</a><br>
+				2. <a href="https://www.np.edu.sg/">Ngee Ann Polytechnic</a><br>
+			  3. <a href="https://www.rp.edu.sg/">Republic Polytechnic</a><br>
+	      4. <a href="https://www.sp.edu.sg/">Singapore Polytechnic</a><br>
+		    5. <a href="https://www.tp.edu.sg/home.html">Temasek Polytechnic</a><br></td>
 		<td>Please note that students who are keen to proceed to polytechnics can also consider participating in the <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">Polytechnic Early Admission Exercise (Poly-EAE)</a>
 		</td></tr><tr>	
 		<td colspan="3">c. <a href="https://www.ite.edu.sg/courses/full-time-courses/higher-nitec">Institute of Technical Education</a><br>(Higher Nitec courses)</td>
@@ -198,7 +207,7 @@ Please note that students who are keen to proceed to ITE can also consider parti
   </tr>
  <tr>
 	 <td>1</td>
-	 <td><a href="https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise">Institute of Technical Education&nbsp;Early Admission Exercise</a> (Nitec &amp; 3 year Higher Nitec courses)</td>
+	 <td><a href="https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise">Institute of Technical Education&nbsp;Early Admission Exercise</a> (Nitec &amp; 3-year Higher Nitec courses)</td>
 		</tr><tr>
 	 <td>2</td>
 	 <td><a href="https://www.ite.edu.sg/courses/full-time-courses/nitec">Institute of Technical Education</a> (Nitec &amp; Higher Nitec courses)
