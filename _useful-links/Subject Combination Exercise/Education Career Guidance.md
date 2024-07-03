@@ -119,8 +119,7 @@ tab in MySkillsfuture portal:</p>
 <p>1. Start by talking about your own industry and career, and bringing your
 child to your workplace.
 <br>
-<br>2. Explore the Education and Career Guidance (ECG) portal with your child
-for related information at <a href="https://ecareers.sg/" rel="noopener noreferrer nofollow" target="_blank">ecareers.sg.</a>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
