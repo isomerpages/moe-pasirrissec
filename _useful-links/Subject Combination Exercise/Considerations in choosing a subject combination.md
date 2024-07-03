@@ -139,18 +139,22 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
   <tr>
     <td colspan="3">a. Junior Colleges (JC) &amp; Millennia Institute (MI)<br>(A Level Courses)</td>
 		<td>1. <a href="https://asrjc.moe.edu.sg/">Anderson Serangoon JC College</a><br>
-			2. <a href="https://www.acjc.moe.edu.sg/">ANGLO-CHINESE Junior College</a><br> 
-			3. <a href="https://cjc.moe.edu.sg/">CATHOLIC Junior College</a><br>
-			4. <a href="https://www.hci.edu.sg/">HWA CHONG INSTITUTION (Junior College)</a><br>
-			5. <a href="https://tmjc.moe.edu.sg/">TAMPINES MERIDIAN Junior College</a><br>
-			6. <a href="http://nanyangjc.moe.edu.sg/">NANYANG Junior College</a><br>
-			7. <a href="http://nationaljc.moe.edu.sg/">NATIONAL Junior College</a><br>
-			8. <a href="https://jpjc.moe.edu.sg/">JURONG PIONEER Junior College</a><br>
-			9. <a href="http://www.standrewsjc.moe.edu.sg/">ST ANDREWS Junior College</a><br>
-			10. <a href="http://www.temasekjc.moe.edu.sg/">TEMASEK Junior College</a><br>
-			11. <a href="https://victoriajc.moe.edu.sg/">VICTORIA Junior College</a><br>
-			12. <a href="https://yijc.moe.edu.sg/">YISHUN INNOVA Junior College</a><br>
-			13. <a href="http://www.millenniainstitute.moe.edu.sg/">MILLENNIA Institute</a><br></td>
+			2. <a href="https://www.acjc.moe.edu.sg/">Anglo-Chinese JC</a><br> 
+			3.<a href="https://www.acsindep.moe.edu.sg/">Anglo-Chinese School (Independent) (JC)</a><br> 
+			4. <a href="https://cjc.moe.edu.sg/">Catholic JC</a><br>
+			5. <a href="https://www.dunmanhigh.moe.edu.sg/admissions/sh-admissions/">Dunman High School (JC)</a><br>
+			6. <a href="https://www.eunoiajc.moe.edu.sg/">Eunoia JC</a><br>
+			7. <a href="https://www.hci.edu.sg/">Hwa Chong Institution (JC)</a><br>
+			8. <a href="https://jpjc.moe.edu.sg/">Jurong Pioneer JC</a><br>
+			9. <a href="https://tmjc.moe.edu.sg/">Tampines Meridian JC</a><br>
+			10. <a href="http://nanyangjc.moe.edu.sg/">Nanyang JC</a><br>
+			11. <a href="http://nationaljc.moe.edu.sg/">National JC</a><br>
+			12.<a href="https://www.ri.edu.sg/admissions/year-5-admissions">Raffles Institution (JC)</a><br>
+			13. <a href="http://www.standrewsjc.moe.edu.sg/">St. Andrew's JC</a><br>
+			14. <a href="http://www.temasekjc.moe.edu.sg/">Temasek JC</a><br>
+			15. <a href="https://victoriajc.moe.edu.sg/">Victoria JC</a><br>
+			16. <a href="https://yijc.moe.edu.sg/">Yishun Innova JC</a><br>
+			17. <a href="http://www.millenniainstitute.moe.edu.sg/">Millennia Institute</a><br></td>
 		<td>Please note that students who are keen to proceed to junior colleges can also consider participating in the <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa">Direct School Admission for Junior Colleges (DSA-JC)</a></td>
  </tr>
 		<tr>
