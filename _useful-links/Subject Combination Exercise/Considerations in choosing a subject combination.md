@@ -138,7 +138,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
   </tr>
   <tr>
     <td colspan="3">a. Junior Colleges (JC) &amp; Millennia Institute (MI)<br>(A Level Courses)</td>
-		<td>1. <a href="https://asrjc.moe.edu.sg/">Anderson Serangoon JC College</a><br>
+		<td>1. <a href="https://asrjc.moe.edu.sg/">Anderson Serangoon JC</a><br>
 			2. <a href="https://www.acjc.moe.edu.sg/">Anglo-Chinese JC</a><br> 
 			3.<a href="https://www.acsindep.moe.edu.sg/">Anglo-Chinese School (Independent) (JC)</a><br> 
 			4. <a href="https://cjc.moe.edu.sg/">Catholic JC</a><br>
