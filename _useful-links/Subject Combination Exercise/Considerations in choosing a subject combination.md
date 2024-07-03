@@ -159,7 +159,12 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
  </tr>
 		<tr>
     <td colspan="3">b. <a href="https://www.moe.gov.sg/coursefinder?journey=Polytechnics">Polytechnics<br></a>(Diploma Courses)</td>
-	  <td></td>
+			<td>
+				1. <a href="https://www.nyp.edu.sg/">Nanyang Polytechnic</a><br>
+				2. <a href="https://www.np.edu.sg/">Ngee Ann Polytehnic</a><br>
+			  3. <a href="https://www.rp.edu.sg/">Republic Polytehnic</a><br>
+	      4. <a href="https://www.sp.edu.sg/">Singapore Polytehnic</a><br>
+		    5. <a href="https://www.tp.edu.sg/home.html">Temasek Polytehnic</a><br></td>
 		<td>Please note that students who are keen to proceed to polytechnics can also consider participating in the <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">Polytechnic Early Admission Exercise (Poly-EAE)</a>
 		</td></tr><tr>	
 		<td colspan="3">c. <a href="https://www.ite.edu.sg/courses/full-time-courses/higher-nitec">Institute of Technical Education</a><br>(Higher Nitec courses)</td>
