@@ -62,27 +62,27 @@ Help your child/ward understand what post-secondary pathways available by using 
     <th colspan="3"><h5>I. Post Secondary Pathways &amp; Information (Express)</h5></th>
   </tr>
   <tr>
-		<td><b>1</b></td><td><b>Junior College Option:</b></td>
+		<td><b>1</b></td><td><b>Junior College:</b></td>
     <td>2-3 years in a Junior college or Millenia Institute towards an A-levels certification <br><i> Pathway: Junior College &amp; Institute&nbsp; (2-3 years) &gt; University (3-4 years)</i></td>
 		</tr>
 		<tr>
-			<td><b>2</b></td><td><b>Polytechnic Option:</b></td>
+			<td><b>2</b></td><td><b>Polytechnic:</b></td>
    <td>3 years in a Polytechnic towards a specialised Diploma <br><i>Pathway: Polytechnic (3 years) &gt; University (3-4 years)</i></td>
 		</tr>
 		<tr>
-			<td><b>3</b></td><td><b>Institute of Technical Education (ITE) Option:</b></td>
+			<td><b>3</b></td><td><b>Institute of Technical Education (ITE):</b></td>
    <td>2 years in ITE towards a Higher Nitec Certification <br><i>Pathway: ITE Higher Nitec (2 years) &gt; Polytechnic (3 years)  &gt; University (3-4 years)</i></td>
 		</tr>
 	<tr>
-		<td><b>4</b></td><td><b>Nanyang Academy of Fine Arts (NAFA) Option:</b></td>
+		<td><b>4</b></td><td><b>Nanyang Academy of Fine Arts (NAFA):</b></td>
    <td>3 years in NAFA towards an Arts, Media or related Diploma <br><i>Pathway: Laselle or NAFA Diploma Programme (3 years) &gt; NAFA Degree Programme (3-4 years)</i></td>
 	</tr>
 			<tr>
-		<td><b>5</b></td><td><b>LASELLE Option:</b></td>
+		<td><b>5</b></td><td><b>LASELLE College of Arts:</b></td>
    <td>3 years in Laselle towards an Arts, Media or related Diploma<br><i>Pathway: Laselle Diploma Programme (3 years) &gt; Laselle Degree Programme (3-4 years)</i></td>
 	</tr>
 		<tr>
-			<td><b>6</b></td><td><b>Polytechnic Early Admission Exercise Option:</b></td>
+			<td><b>6</b></td><td><b>Polytechnic Early Admission Exercise (Poly-EAE):</b></td>
    <td>3 years in a Polytechnic towards a specialised Diploma<br><i>Pathway: Polytechnic (3 years) &gt; University (3-4 years)</i></td>
 	</tr>
 		<tr>
@@ -93,19 +93,19 @@ Help your child/ward understand what post-secondary pathways available by using 
 		<th colspan="3"><h5>II. Post Secondary Pathways &amp; Information (Normal Academic)</h5></th>
   </tr>
   <tr>
-		<td><b>1</b></td><td><b>PFP Option:</b></td>
+		<td><b>1</b></td><td><b>Polytechnic Foundation Programme (PFP):</b></td>
     <td>1 year Polytechnic Foundation Programme (PFP) before embarking on a 3 years diploma course<br><i>Pathway: PFP (1 year) &gt; Polytechnic (3 years) &gt; University (3-4 years)</i></td>
 		</tr>
 		 <tr>
-			 <td><b>2</b></td><td><b>DPP Option:</b></td>
+			 <td><b>2</b></td><td><b>Direct Entry Scheme to Polytechnic Programme (DPP):</b></td>
     <td>Direct Entry Scheme to Polytechnic Programme (DPP) - 2 years in ITE towards a Higher Nitec certification<br><i>Pathway: ITE Higher Nitec (2 years) &gt; Polytechnic (3 years)  &gt; University (3-4 years) </i></td>
 		</tr>
 		 <tr>
-			<td><b>3</b></td><td><b>O-Level Option:</b></td>
+			<td><b>3</b></td><td><b>O-Level:</b></td>
     <td>1 year in Pasir Ris Secondary School towards an O-levels Certification<br><i>Pathway: O-levels (1 year) &gt; Polytechnic or JC (2-3 years) &gt; University (3-4 years)</i></td>
 		</tr>
 		 <tr>
-			 <td><b>4</b></td><td><b>NFP Option:</b></td>
+			 <td><b>4</b></td><td><b>NAFA Foundation Programme (NFP):</b></td>
     <td>1 year NAFA Foundation Programme (NFP) before embarking on a 3 years Arts diploma course.<br><i>Pathway: NFP (1 year) &gt; NAFA Diploma Course (3 years) &gt; NAFA Degree Programme (3-4 years)</i></td>
 		</tr>
 	</tbody></table>
@@ -137,8 +137,8 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
     <th colspan="2"><h5>Express Course</h5></th>
   </tr>
   <tr>
-    <td colspan="3">a. Junior Colleges &amp; Millennia Institute<br>(A Level Courses)</td>
-		<td>1. <a href="https://asrjc.moe.edu.sg/">ANDERSON SERANGOON Junior College</a><br>
+    <td colspan="3">a. Junior Colleges (JC) &amp; Millennia Institute (MI)<br>(A Level Courses)</td>
+		<td>1. <a href="https://asrjc.moe.edu.sg/">Anderson Serangoon JC College</a><br>
 			2. <a href="https://www.acjc.moe.edu.sg/">ANGLO-CHINESE Junior College</a><br> 
 			3. <a href="https://cjc.moe.edu.sg/">CATHOLIC Junior College</a><br>
 			4. <a href="https://www.hci.edu.sg/">HWA CHONG INSTITUTION (Junior College)</a><br>
