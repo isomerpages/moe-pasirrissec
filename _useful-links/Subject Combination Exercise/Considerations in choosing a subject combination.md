@@ -134,7 +134,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 <br><br>	
 <table border="1px solid black" style="width:100%">
   <tbody><tr>
-    <th colspan="2"><h5>Express Course</h5></th>
+    <th colspan="3"><h5>Express Course</h5></th>
   </tr>
   <tr>
     <td colspan="3">a. Junior Colleges (JC) &amp; Millennia Institute (MI)<br>(A Level Courses)</td>
