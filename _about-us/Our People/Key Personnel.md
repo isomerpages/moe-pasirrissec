@@ -6,7 +6,12 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3><strong>School Planning Committee</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -165,18 +170,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Wei Tian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_wei_tian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_wei_tian@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD Student Development</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -310,7 +303,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Teacher Leaders</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -422,7 +420,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Admin &amp; Support</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
