@@ -30,7 +30,9 @@ third_nav_title: Subject Combination Exercise
 
 <li><input type="checkbox" id="accordion5">
 <label for="accordion5"><b>My child is unsure of which combination would benefit her in the future. Should he/she go to a JC/Poly/ITE? What should she do?</b></label><div><p>We strongly encourage parents to discuss with your child/ward on his/her interests, learning styles and explore possible tertiary options. Your child/ward may see the Home Teachers or the Education and Career Guidance Counsellor, Mr Mohammed Syahril Bin Samsudin by making an appointment with to explore his/her possible options. Mr Syahril is on-site in Pasir Ris Secondary School on Mondays and Thursdays during term time.
-<img width="100%" src="/images/Sec%203%20Subject%20Combi%20Exercise/QR_code_for_ECG_counsellor.png">
+
+<img src="/images/ECG_2024_1.png">
+	
 <br>
 </p></div></li>	
 
