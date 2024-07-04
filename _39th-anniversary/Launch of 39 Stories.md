@@ -8,7 +8,7 @@ description: ""
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1zE-HLiC5Ec?si=yBTvltPHojGKcNGo" height="515" width="760"></iframe>
 
-<a rel="noopener" target="_blank" href="https://www.canva.com/design/DAGEa1_C6W0/trPfMgcl-cLzEfK0-4AywQ/view?utm_content=DAGEa1_C6W0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link">View our photobook at PRSS 39th Journey Of Inspiration</a>
+[View our interactive photobook](https://www.canva.com/design/DAGH5zJkigw/LdUB04TyRiFYZluC9pPS_A/view?utm_content=DAGH5zJkigw&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=editor)
 
 ### **Student Learning Festival**
 
