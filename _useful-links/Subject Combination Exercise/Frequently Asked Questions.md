@@ -33,7 +33,7 @@ third_nav_title: Subject Combination Exercise
 <br><br>
 Scan the QR code for booking an appointment
 	
-<img src="/images/ECG_2024_1.png">
+<img height="auto" width="100%" src="/images/ECG_2024_1.png">	
 <br>	
 Or email at Mohammed_syahril_SAMSUDIN@schools.gov.sg
 <br>
