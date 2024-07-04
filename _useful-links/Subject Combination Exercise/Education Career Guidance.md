@@ -194,6 +194,7 @@ credit</p>
 </table>
 <p><em>Extracted from “Nurturing Dreams – Guiding Our children for their Future” –<a href="https://www.schoolbag.edu.sg/story/guiding-our-children-for-the-future" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/guiding-our-children-for-the-future</a>.</em>
 </p>
+<p></p>
 <p>We strongly encourage parents to discuss with your child/ward on his/her
 interests, learning styles and explore possible tertiary options. Your
 child/ward may see the Home Teachers or the Education and Career Guidance
