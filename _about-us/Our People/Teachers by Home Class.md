@@ -6,7 +6,12 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3><strong>Secondary 1</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -132,18 +137,6 @@ variant: tiptap
 <p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FAITH NAH CHER HUI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nah_cher_hui_faith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nah_cher_hui_faith@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1-5</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>NITHIYAA RAJARATNAM</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -202,7 +195,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Secondary 2</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -422,7 +420,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Secondary 3</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -619,7 +622,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Secondary 4</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -722,18 +730,6 @@ variant: tiptap
 <p>4E4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WONG YUN YI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_yun_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yun_yi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4E4</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>QUAH WEI WEE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -816,7 +812,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Secondary 5</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
