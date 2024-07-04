@@ -17,7 +17,7 @@ third_nav_title: Subject Combination Exercise
 	
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2"><b>If my child / ward is not allocated the combination/ elective of his/her choice, can we appeal?</b></label><div><p>Yes. The appeal can be conducted online from <b>11 – 14 Nov 2024, 0900h</b> once the streaming results are released.
-	</p></div></li>
+</p></div></li>
 	
 <li><input type="checkbox" id="accordion3">  
 	<label for="accordion3"><b>Who can I contact should I need further clarifications?</b></label><div><p>You can contact the HOD of Humanities <a href="mailto:sim_keng_yang@moe.edu.sg">Mr Sim Keng Yam</a>  respectively, or contact us at 6501 0800.</p></div></li>
@@ -30,7 +30,7 @@ third_nav_title: Subject Combination Exercise
 
 <li><input type="checkbox" id="accordion5">
 <label for="accordion5"><b>My child is unsure of which combination would benefit her in the future. Should he/she go to a JC/Poly/ITE? What should she do?</b></label><div><p>We strongly encourage parents to discuss with your child/ward on his/her interests, learning styles and explore possible tertiary options. Your child/ward may see the Home Teachers or the Education and Career Guidance Counsellor, Mr Mohammed Syahril Bin Samsudin by making an appointment with to explore his/her possible options. Mr Syahril is on-site in Pasir Ris Secondary School on Mondays and Thursdays during term time.
-
+<br><br>
 <img src="/images/ECG_2024_1.png">
 	
 <br>
