@@ -12,7 +12,6 @@ description: ""
 
 ### **Hear our 39th Anniversary Podcast**
 
-
 <a href="https://open.spotify.com/show/7vpZ2WcwQOV84ilYmYIo8H?si=a66e4e705ec6436c"><img style="width: 50%" height="auto" width="50%" alt="" src="/images/39th_Anniversary_Podcast_Cover_.png"></a>
 <center>Click to listen to the playlist</center>
 	
