@@ -54,12 +54,9 @@ in school? Why?
 </td>
 <td rowspan="1" colspan="1">
 <p>Find out more about different careers at</p>
-<p>&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape/industry-videos.html</a>
 </p>
-<p></p>
 <p>and</p>
-<p></p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://discover.nyc.gov.sg/Day-in-the-Life</a>
 </p>
 </td>
