@@ -73,8 +73,7 @@ in school? Why?
 </td>
 <td rowspan="1" colspan="1">
 <p>Find out about your child’s interest, and work values in the “Know yourself”
-tab in MySkillsfuture portal:</p>
-<p>&nbsp;</p>
+tab in MySkillsfuture portal:&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment.html</a>
 </p>
 </td>
@@ -97,7 +96,6 @@ institutions that can nurture your interests, abilities and passion?
 <td rowspan="1" colspan="1">
 <p>Find out about your child’s interest, and work values in the “Know yourself”
 tab in MySkillsfuture portal:</p>
-<p>&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment.html</a>
 </p>
 <p>&nbsp;</p>
@@ -144,12 +142,9 @@ for related information at <a href="https://www.myskillsfuture.gov.sg/content/st
 </td>
 <td rowspan="1" colspan="1">
 <p>Find out more about different careers at</p>
-<p>&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape/industry-videos.html</a>
 </p>
-<p>&nbsp;</p>
 <p>and</p>
-<p>&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://discover.nyc.gov.sg/Day-in-the-Life</a>
 </p>
 </td>
@@ -188,7 +183,6 @@ but throughout life.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Find out more about skills upgrading for adults at:</p>
-<p>&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.skillsfuture.gov.sg/</a>
 </p>
 <p>&nbsp;</p>
