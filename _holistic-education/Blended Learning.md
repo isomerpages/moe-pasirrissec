@@ -6,7 +6,9 @@ variant: markdown
 ---
 #### **Blended Learning**
 
-Blended Learning days will continue to be implemented in Term 2 and the BL days for all cohorts are on 27 Mar, 24 Apr and 8 May. 
+Blended Learning will continue in Term 3 and students will participate in at least 1 hour of Student-Initiated Learning (SIL) activity to explore an area of interest beyond the curriculum.
+
+For Sec 4 and 5 students, SIL is optional and they may use the time to prepare for the National Examinations instead. 
 
 Please look out on the Announcements for more details.
 <br>

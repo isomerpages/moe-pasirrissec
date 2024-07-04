@@ -43,7 +43,6 @@ It is our goal to continue to engage our students and to prepare them for the ch
 | English Language/ Literature | Ms Jumiah Ahmad <br> ST English Language | [jumiah_ahmad@moe.edu.sg](mailto:jumiah_ahmad@moe.edu.sg) |
 | English Language | Ms Nithiyaa Rajaratnam <br> LH English Language | [nithiyaa_rajaratnam@moe.edu.sg](mailto:[nithiyaa_rajaratnam@moe.edu.sg](mailto:nithiyaa_rajaratnam@moe.edu.sg)@moe.edu.sg) |
 | English Language/ Geography | Mdm Noraidah Suwandi | [noraidah_suwandi@moe.edu.sg](mailto:noraidah_suwandi@moe.edu.sg)|
-| English Language/ Literature | Ms Faith Nah Cher Hui | [nah_cher_hui_faith@moe.edu.sg](mailto:nah_cher_hui_faith@moe.edu.sg) |
 | English Literature/ History | Ms Mavis Ho Min Yu| [ho_min_yu_mavis@moe.edu.sg](mailto:ho_min_yu_mavis@moe.edu.sg) |
 | English Language/ Elements of Business Skills | Mdm Lee Wei Wei| [lee_wei_wei@moe.edu.sg](mailto:lee_wei_wei@moe.edu.sg)|
 | English Language/ Literature | Mdm Nazrene Akbar Ali | [nazrene_akbar_ali@moe.edu.sg](mailto:nazrene_akbar_ali@moe.edu.sg) |
