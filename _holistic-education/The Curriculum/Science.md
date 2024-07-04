@@ -103,7 +103,6 @@ You can access the virtual tour of our school's Eco Garden [here](https://www.th
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
-| Chemistry / Lower Secondary Science | Miss Chua Wei Tian<br>HOD Science  | [chua_wei_tian@moe.edu.sg](mailto:chua_wei_tian@moe.edu.sg) |
 | Chemistry | Mr Chua Khoon Wee<br>HOD Information Communication Technology | [chua_Khoon_Wee@moe.edu.sg](mailto:chua_Khoon_Wee@moe.edu.sg) |
 | Biology / Lower Secondary Science| Mr Joshua Tan<br>HOD Character &amp; Citizenship Education |  [joshua_tan_see_kuang@moe.edu.sg](mailto:joshua_tan_see_kuang@moe.edu.sg) | 
 | Chemistry | Mr Sim Chun Siang<br>HOD Student Development  | [sim_chun_siang@moe.edu.sg](mailto:sim_chun_siang@moe.edu.sg) | 
