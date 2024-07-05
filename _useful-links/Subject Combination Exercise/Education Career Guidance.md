@@ -5,216 +5,272 @@ variant: markdown
 description: ""
 third_nav_title: Subject Combination Exercise
 ---
-<h3>A Guide for Parents in Education and Career Guidance</h3>
-<p>All parents want the best for their children and hope that they find happiness
-and purpose in life. It is important to recognise that you can play a significant
-role in the decisions your child makes for his or her life, especially
-at this crucial juncture.</p>
-<p>Below are 7 ways you can be more involved in your child’s education and
-career journey.</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+#### Introduction
+
+In the fast changing and complex world today, new developments such as
+disruptive technologies and the global pandemic can have great impact on
+the educational landscape and employment opportunities. Hence, it is important
+to help the students develop future ready skills such as critical and creative
+thinking, multimedia and communication skills in order to navigate confidently
+through the evolving landscape.
+
+The school follows the <strong>MOE Education and Career Guidance (ECG) Development Model</strong> which focuses on equipping students with the necessary knowledge, skills and
+values to enable them to transit well to further education beyond secondary
+school.
+
+#### Aims
+
+Through ECG curriculum and programmes, the school aims to help students
+to:
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>A</strong>ppreciate all occupations</p>
+</li>
+<li>
+<p><strong>D</strong>iscover talents and interest</p>
+</li>
+<li>
+<p><strong>A</strong>cquire Knowledge, Skills and Values to make informed
+decisions on post-sec education and career</p>
+</li>
+<li>
+<p><strong>P</strong>ave their education and career pathways</p>
+</li>
+<li>
+<p><strong>T</strong>ap on stakeholders for support and guidance</p>
+</li>
+</ul>
+
+#### Main ECG Programme @PRSS
+
+<table>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>No</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Ways to be involved</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Questions you can ask your child and other useful tips</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>ECG Resources</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
+<tr style="background-color:gold"><td rowspan="1" colspan="2">
+<strong>Secondary 1</strong>
+</td></tr>
+<tr><td rowspan="1" colspan="1">
+Who am I?<br>
+(Career Awareness)
+<br><br>
+Pasirians are to develop self-awareness and positive work ethics.<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Show concern and support for your Child by engaging him or her using some
-conversation starters</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. What are your favourite subjects and Co-Curricular Activities (CCA)
-in school? Why?
-<br>
-<br>2. What are some of the things you take pride in? Why?
-<br>
-<br>3. Which occupations would you like to explore in the future? Why?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Find out more about different careers at</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape/industry-videos.html</a>
-</p>
-<p>and</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://discover.nyc.gov.sg/Day-in-the-Life</a>
-</p>
-</td>
-</tr>
+<strong>Main Focus</strong><br>
+Discover of one’s values, interests, personalities, skills
+<br><br>	
+<strong>ECG lessons:</strong><br>
+Aspiring Towards the Me I Want to Be
+Rediscovering  Me
+<br><br>
+<strong>Key Programmes:</strong><br>
+Career Interests Profiling and self-discovery
+</td></tr>
+
+<tr style="background-color:gold">
+<td rowspan="1" colspan="2">
+<strong>Secondary 2</strong>
+</td></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+Where am I going?<br>
+(Career Awareness)
+<br><br>
+Pasirians are to make informed choice of education and career direction that will align with their interests, strengths and passion.
 </td>
 <td rowspan="1" colspan="1">
-<p>Observe your child’s strengths and Interests through various activities</p>
-</td>
+<strong>Main Focus</strong><br>
+Initial stage of career aspiration
+<br><br>
+<strong>ECG lessons:</strong><br>
+I Have A Dream<br>
+My Skills Quest<br>
+Connecting With Others To Dream
+<br><br>
+<strong>Key Programmes:</strong><br>
+Use of RIASEC code<br>
+MySkillsFuture online portal, Career Decision Wheel to discover
+self and explore possible career clusters<br>
+Sec 3 Subject Combination talks<br>
+</td></tr>
+
+<tr style="background-color:gold">
 <td rowspan="1" colspan="1">
-<p>Do you prefer working with people, data, things or ideas?</p>
+<strong>Secondary 3</strong>
 </td>
-<td rowspan="1" colspan="1">
-<p>Find out about your child’s interest, and work values in the “Know yourself”
-tab in MySkillsfuture portal:&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment.html</a>
-</p>
-</td>
-</tr>
+<td rowspan="1" colspan="1"></td></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+Where am I going?<br>
+(Career Exploration)
+<br><br>
+Pasirians are to explore possible education and career pathways through ITE / Polytechnic / JC experiences and/or work experiences opportunities.
 </td>
+	
 <td rowspan="1" colspan="1">
-<p>Listen and find out the schools or courses your child is interested in</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. What are your interests, abilities and passion?
+<strong>Main focus:</strong> 
+<br>Development of important career skills and attributes
+<br><br>
+<strong>ECG lessons:</strong><br>
+Why Career Starts With a T<br>
+A Face In the Crowd<br>
+Plan Know Do<br>
+10 Years from Now<br>
 <br>
-<br>2. Are there learning and training programmes offered by the education
-institutions that can nurture your interests, abilities and passion?
+<strong>Key Programmes:</strong><br>
+ITE and Polytechnic Experience Programme<br>
+Poly Advanced Elective Modules<br>
+ITE Elective Modules<br>
+Work Experience Programme<br>
+</td></tr>
+
+<tr style="background-color:gold"><td rowspan="1" colspan="2">
+<strong>Secondary 4/5</strong>
+</td></tr>
+
+<tr><td rowspan="1" colspan="1">
+How do I get there?<br>
+(Career Planning)
+<br><br>
+Pasirians are to plan and work towards possible education and career pathways as they gear up for their national examinations in their graduating year.
+</td>
+
+<td rowspan="1" colspan="1">
+<strong>Main focus:</strong><br>
+Making decision on Post-Secondary Options
+<br><br>
+<strong>ECG lessons:</strong><br>
+Ink It Not Just Think It<br>
+The Future Starts Now<br>
+Connecting the Dots<br>
+Its All in the Presentation<br>
+My Vision, My Future<br>
+I Can Do All Things<br>
+Hope in Action!<br>
 <br>
-<br>3. What are your academic and career goals?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Find out about your child’s interest, and work values in the “Know yourself”
-tab in MySkillsfuture portal:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment.html</a>
-</p>
-<p>&nbsp;</p>
-<p>Help your child set his/her goals at <a rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary/my-goals.html</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Introduce a variety of occupations to your child</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Start by talking about your own industry and career, and bringing your
-child to your workplace.
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Explore the Education and Career Guidance (ECG) portal with your child
-for related information at <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Support your child’s aspirations by asking what his or her dream job is</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. What qualification and skills do you need for the job?
-<br>
-<br>2. What do you think you will like and dislike about this occupation?
-<br>
-<br>3. What is expected of someone working in this industry and career?
-<br>
-<br>4. How would you describe a day in this occupation?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Find out more about different careers at</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape/industry-videos.html</a>
-</p>
-<p>and</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://discover.nyc.gov.sg/Day-in-the-Life</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Instil in your child the importance of developing transferable skills</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Transferable soft skills are needed to get a job and be successful in
-a career. Talk about the importance of the following:
-<br>
-<br>1. Communication Skills
-<br>2. Teamwork
-<br>3. Time Management
-<br>4. Problem-solving Skills</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Model Lifelong Learning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Demonstrate how you continually strive towards excellence through knowledge
-and experience. Show your child that learning does not happen only in school,
-but throughout life.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Find out more about skills upgrading for adults at:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.skillsfuture.gov.sg/</a>
-</p>
-<p>&nbsp;</p>
-<p>Role-model lifelong learning by enrolling into a course using skillsfuture
-credit</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><em>Extracted from “Nurturing Dreams – Guiding Our children for their Future” –<a href="https://www.schoolbag.edu.sg/story/guiding-our-children-for-the-future" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/guiding-our-children-for-the-future</a>.</em>
-</p>
-<p></p>
-<p>We strongly encourage parents to discuss with your child/ward on his/her
-interests, learning styles and explore possible tertiary options. Your
-child/ward may see the Home Teachers or the Education and Career Guidance
-Counsellor, Mr Mohammed Syahril Bin Samsudin by making an appointment with
-to explore his/her possible options. Mr Syahril is on-site in Pasir Ris
-Secondary School on Mondays and Thursdays during term time.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong></strong></p><center><strong>Appointments can be made via scanning the QR Code below or email (<a href="mailto:mohammed_syahril_samsudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohammed_syahril_samsudin@schools.gov.sg</u></a>)</strong>
-<p></p>
+<strong>Key Programmes:</strong><br>
+ECG small group consultation<br>
+Direct School Admission to JC<br>
+ITE / Poly Early Admission Exercise<br>
+Career Awareness Day<br>
+Post-Sec education pathway talks
+</td></tr></tbody></table>
+
+<h4>Post-Secondary School Education Pathways</h4>
+<h5>Pathway for Students through GCE O-Level</h5>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/ECG_2024_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pathway%20O%20Level.png">
 </div>
-</center></td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<h5>Pathway for Students through GCE Normal (Academic) Level</h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pathway%20N(A)%20Level.png">
+</div>
+<h5>Pathway for Students through GCE 'NT' Level</h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pathway%20N(T)%20Level.png">
+</div><br>
+<strong>More Information:</strong><br>
+https://www.moe.gov.sg/post-secondary/admissions<br>
+<br>
+<div class="isomer-image-wrapper">
+<img style="width:25%" height="auto" width="100%" src="/images/CCE/ECG/ceg_2023_07.png">
+</div>
+<h4>MySkillsFuture Student Portal - Support for Our Students</h4>
+
+“What do you want to be when you grow up?”<br>
+
+Choosing one's education or career path is one of the most important yet
+difficult decisions to make. Students need to be able to make well-informed
+choices by talking to their parents, home teachers, subject teachers and/or
+school ECG counsellor about their education and career aspirations. They
+can also explore and gather information via the MOE Education and Career
+Guidance e-portal at [www.myskillsfuture.gov.sg](https://www.myskillsfuture.gov.sg/content/portal/en/index.html)
+
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/My%20Skills%20Future.png">
+</div>
+<p><strong>More Information:</strong> 
+<br><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:25%" height="auto" width="100%" src="/images/QR%20COde%202.png">
+</div>
+
+<h3>ECG Counsellor</h3>
+
+Our ECG Counsellor is stationed at the ECG counselling room every Thursdays
+to provide support to students (individually or in small groups) and guide
+students who may need additional help to make informed decisions on post-secondary
+education and career options.
+
+Parents or students who would like to explore more about subject choices,
+enquire about post-secondary education options or find out more about their
+career interests, strengths and passions, can have a chat with our school’s
+ECG Counsellor every Thursdays.
+
+<center><strong>Appointments can be made via scanning the QR Code below or email <a href="mailto:mohammed_syahril_samsudin@schools.gov.sg">(mohammed_syahril_samsudin@schools.gov.sg)</a></strong></center><strong>
+	
+<div class="isomer-image-wrapper"><img style="width: 25%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ECG_Counsellor_Booking_QR_Code_2024.png">
+<center>
+<strong><a href="https://go.gov.sg/ecgbookingprss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecgbookingprss</a></strong>
+</center></div>
+
+<h3>ECG Talks / Workshops</h3>
+
+Regular talks and workshops are conducted by our ECG Counsellor to help students better chart their post-secondary educational pathways so as to work towards an industry of their choice.
+
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG%20Talk.png">
+</div>
+
+<h3>Career Awareness Day</h3>
+
+PRSS alumni were invited back to share their personal educational journeys
+and career experiences with their junior.
+<table><tbody><tr>
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_03.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_04.png"></td></tr></tbody></table>
+
+<h5>Applied Learning Modules (ApLM)</h5>
+
+All sec 3 NA and NT students were enrolled in ApLM@ITE to attend an ITE workshop of their choice. This year, they were given a choice of 4 different workshops to choose from. This allowed them to find out more about various ITE courses that they may be interested in.
+<figure><table><tbody><tr>
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_01.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_02.png"></td></tr></tbody></table><figcaption>Beauty Artistry at ITE College East</figcaption></figure>
+
+<figure><table><tbody><tr>
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_05.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_06.png"></td></tr></tbody></table><figcaption>Drone Racer at ITE College East</figcaption></figure>
+
+<figure><table><tbody><tr>
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_07.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_08.png"></td></tr></tbody></table><figcaption>Mobile Robot in Mechatronics at ITE College West </figcaption></figure>
+
+<figure><table><tbody><tr>
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_09.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_10.png"></td></tr></tbody></table><figcaption>Digital Marketing at ITE College West</figcaption></figure>
+
+In addition to ApLM@ITE, selected sec 3 express students were also enrolled in ApLM@Poly in 2024.  By participating in this programme, they get to find out more about the education in Polytechnics.
+
+<figure><table><tbody><tr>
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_11.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_12.png"></td></tr></tbody></table><figcaption>Chemistry in Action at Nanyang Polytechnic</figcaption></figure>
+
+<figure><table><tbody><tr>
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_13.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_14.png"></td></tr></tbody></table><figcaption>Creative Modelling at Singapore Polytechnic</figcaption></figure>
+
+<figure><table><tbody><tr>
+<td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_15.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_16.png"></td></tr></tbody></table><figcaption>Product Design &amp; Development at Singapore Polytechnic </figcaption></figure>
+
+<h5>Learning Journeys to Jurong Island</h5>
+
+As part of the STEAM Carnival, selected students were given the rare opportunity
+to visit Jurong Island to learn more about the petrol-chemical industry.
+![](/images/CCE/ECG/learning_journey_jurong_island_2024.jpg)
+
+<h5>STEAM Carnival Career VR Expo</h5>
+<p>During the STEAM carnival, all sec 3 students got to explore various STEAM
+related careers using virtual reality sets to give them a more immersive
+experience of the various tech-related jobs.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ceg_2023_02.png">
+</div>
+
+<h5>Learning Journeys to Temasek Polytechnic</h5>
+<p>As part of Camp Conquest and Camp Quest, all graduating students had the opportunity to visit the different schools of Temasek Polytechnics. Students embarked on a tailor made Learning Journey to a school of their interest to find out more about polytechnic courses of their choice.</p>
+<br>
+<img src="/images/CCE/ECG/Learning_Journey_Temasek_Poly_2024.jpg"><br>
+<img src="/images/CCE/ECG/Learning_Journey_Temasek_Poly_02_2024.jpg"></strong>
