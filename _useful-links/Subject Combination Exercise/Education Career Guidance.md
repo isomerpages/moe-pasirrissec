@@ -169,7 +169,7 @@ Post-Sec education pathway talks
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pathway%20N(T)%20Level.png">
 </div><br>
 <center><strong>More Information:</strong><br><a href="https://www.moe.gov.sg/post-secondary/admissions">https://www.moe.gov.sg/post-secondary/admissions</a>
-<center>
+</center>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/CCE/ECG/ceg_2023_07.png">
 </div>
@@ -266,4 +266,4 @@ experience of the various tech-related jobs.</p>
 <p>As part of Camp Conquest and Camp Quest, all graduating students had the opportunity to visit the different schools of Temasek Polytechnics. Students embarked on a tailor made Learning Journey to a school of their interest to find out more about polytechnic courses of their choice.</p>
 <br>
 <img src="/images/CCE/ECG/Learning_Journey_Temasek_Poly_2024.jpg"><br>
-<img src="/images/CCE/ECG/Learning_Journey_Temasek_Poly_02_2024.jpg"></strong></center></center>
+<img src="/images/CCE/ECG/Learning_Journey_Temasek_Poly_02_2024.jpg"></strong>
