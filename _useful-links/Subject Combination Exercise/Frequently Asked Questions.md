@@ -40,7 +40,6 @@ third_nav_title: Subject Combination Exercise
 	<img src="/images/ECG_2024_1.png"></td>
 	</tr></tbody></table>
 
-
 <p></p></center></div></li>	
 
 <li><input type="checkbox" id="accordion6">
