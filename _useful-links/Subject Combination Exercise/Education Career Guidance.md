@@ -5,14 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: Subject Combination Exercise
 ---
-#### Introduction
+### Introduction
 
-In the fast changing and complex world today, new developments such as
-disruptive technologies and the global pandemic can have great impact on
-the educational landscape and employment opportunities. Hence, it is important
-to help the students develop future ready skills such as critical and creative
-thinking, multimedia and communication skills in order to navigate confidently
-through the evolving landscape.
+In the fast changing and complex world today, new developments such as disruptive technologies and the global pandemic can have great impact on the educational landscape and employment opportunities. Hence, it is important to help the students develop future ready skills such as critical and creative thinking, multimedia and communication skills in order to navigate confidently through the evolving landscape.
 
 The school follows the <strong>MOE Education and Career Guidance (ECG) Development Model</strong> which focuses on equipping students with the necessary knowledge, skills and
 values to enable them to transit well to further education beyond secondary
@@ -168,12 +163,12 @@ Post-Sec education pathway talks
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pathway%20N(T)%20Level.png">
 </div><br>
-<strong>More Information:</strong><br>
-https://www.moe.gov.sg/post-secondary/admissions<br>
-<br>
+<center><strong>More Information:</strong><br><a href="https://www.moe.gov.sg/post-secondary/admissions">https://www.moe.gov.sg/post-secondary/admissions</a>
+</center>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/CCE/ECG/ceg_2023_07.png">
 </div>
+
 <h4>MySkillsFuture Student Portal - Support for Our Students</h4>
 
 “What do you want to be when you grow up?”<br>
@@ -188,26 +183,20 @@ Guidance e-portal at [www.myskillsfuture.gov.sg](https://www.myskillsfuture.gov.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/My%20Skills%20Future.png">
 </div>
-<p><strong>More Information:</strong> 
-<br><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a>
-</p>
+<p></p><center><strong>More Information:</strong> 
+<br><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a></center>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/QR%20COde%202.png">
 </div>
 
 <h3>ECG Counsellor</h3>
 
-Our ECG Counsellor is stationed at the ECG counselling room every Thursdays
-to provide support to students (individually or in small groups) and guide
-students who may need additional help to make informed decisions on post-secondary
-education and career options.
+Our ECG Counsellor is stationed at the school Library every Thursdays to provide support to students (individually or in small groups) and guide students who may need additional help to make informed decisions on post-secondary education and career options.
 
-Parents or students who would like to explore more about subject choices,
-enquire about post-secondary education options or find out more about their
-career interests, strengths and passions, can have a chat with our school’s
-ECG Counsellor every Thursdays.
+Parents or students who would like to explore more about subject choices, enquire about post-secondary education options or find out more about their career interests, strengths and passions, can have a chat with our school’s ECG Counsellor.
 
-<center><strong>Appointments can be made via scanning the QR Code below or email <a href="mailto:mohammed_syahril_samsudin@schools.gov.sg">(mohammed_syahril_samsudin@schools.gov.sg)</a></strong></center><strong>
+<center><strong>Appointments can be made via scanning the QR Code below or email <a href="mailto:mohammed_syahril_samsudin@schools.gov.sg">(mohammed_syahril_samsudin@schools.gov.sg)</a></strong></center>
 	
 <div class="isomer-image-wrapper"><img style="width: 25%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ECG_Counsellor_Booking_QR_Code_2024.png">
 <center>
@@ -273,4 +262,4 @@ experience of the various tech-related jobs.</p>
 <p>As part of Camp Conquest and Camp Quest, all graduating students had the opportunity to visit the different schools of Temasek Polytechnics. Students embarked on a tailor made Learning Journey to a school of their interest to find out more about polytechnic courses of their choice.</p>
 <br>
 <img src="/images/CCE/ECG/Learning_Journey_Temasek_Poly_2024.jpg"><br>
-<img src="/images/CCE/ECG/Learning_Journey_Temasek_Poly_02_2024.jpg"></strong>
+<img src="/images/CCE/ECG/Learning_Journey_Temasek_Poly_02_2024.jpg">
