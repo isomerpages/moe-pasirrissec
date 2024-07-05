@@ -7,12 +7,7 @@ third_nav_title: Subject Combination Exercise
 ---
 ### Introduction
 
-In the fast changing and complex world today, new developments such as
-disruptive technologies and the global pandemic can have great impact on
-the educational landscape and employment opportunities. Hence, it is important
-to help the students develop future ready skills such as critical and creative
-thinking, multimedia and communication skills in order to navigate confidently
-through the evolving landscape.
+In the fast changing and complex world today, new developments such as disruptive technologies and the global pandemic can have great impact on the educational landscape and employment opportunities. Hence, it is important to help the students develop future ready skills such as critical and creative thinking, multimedia and communication skills in order to navigate confidently through the evolving landscape.
 
 The school follows the <strong>MOE Education and Career Guidance (ECG) Development Model</strong> which focuses on equipping students with the necessary knowledge, skills and
 values to enable them to transit well to further education beyond secondary
@@ -187,9 +182,9 @@ Guidance e-portal at [www.myskillsfuture.gov.sg](https://www.myskillsfuture.gov.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/My%20Skills%20Future.png">
 </div>
-<p><strong>More Information:</strong> 
-<br><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a>
-</p>
+<p></p><center><strong>More Information:</strong> 
+<br><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a></center>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/QR%20COde%202.png">
 </div>
