@@ -34,7 +34,7 @@ third_nav_title: Subject Combination Exercise
 </p><center>
 
 <table>
-<tbody><tr><td>Appointments can be made via scanning the <a href="https://go.gov.sg/ecgbookingprss">QR code</a> below or email (<a href="mailto:mohammed_syahril_samsudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohammed_syahril_samsudin@schools.gov.sg</u>
+<tbody><tr><td>Appointments can be made via scanning the <a href="https://go.gov.sg/ecgbookingprss">QR code</a> below or email (<a href="mailto:mohammed_syahril_samsudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohammed_syahril_samsudin@schools.gov.sg)</u>
 </a></td>
 	<td>
 	<img src="/images/ECG_2024_1.png"></td>
