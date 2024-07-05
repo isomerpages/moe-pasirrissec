@@ -201,7 +201,33 @@ child/ward may see the Home Teachers or the Education and Career Guidance
 Counsellor, Mr Mohammed Syahril Bin Samsudin by making an appointment with
 to explore his/her possible options. Mr Syahril is on-site in Pasir Ris
 Secondary School on Mondays and Thursdays during term time.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scan the <a href="https://form.gov.sg/658d27daf4c37600123ce269" rel="noopener noreferrer nofollow" target="_blank">QR code</a> for
+booking an appointment or email <a href="Mohammed_syahril_SAMSUDIN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Syahril.</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/ECG_2024_1.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/ECG_2024_1.png">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
