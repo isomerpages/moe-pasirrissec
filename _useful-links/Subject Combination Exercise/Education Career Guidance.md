@@ -208,12 +208,13 @@ Secondary School on Mondays and Thursdays during term time.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Scan the <a href="https://form.gov.sg/658d27daf4c37600123ce269" rel="noopener noreferrer nofollow" target="_blank">QR code</a> for
-booking an appointment or email <a href="Mohammed_syahril_SAMSUDIN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Syahril.</a>
+<p><strong>Appointments can be made via scanning via the QR code below or email (<a href="mailto:mohammed_syahril_samsudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohammed_syahril_samsudin@schools.gov.sg</u></a>) </strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/ECG_2024_1.png">
 </div>
+<p><strong><a href="https://go.gov.sg/ecgbookingprss" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/ecgbookingprss</u></a></strong>
+</p>
 </td>
 </tr>
 </tbody>
