@@ -197,15 +197,9 @@ Guidance e-portal at [www.myskillsfuture.gov.sg](https://www.myskillsfuture.gov.
 
 <h3>ECG Counsellor</h3>
 
-Our ECG Counsellor is stationed at the ECG counselling room every Thursdays
-to provide support to students (individually or in small groups) and guide
-students who may need additional help to make informed decisions on post-secondary
-education and career options.
+Our ECG Counsellor is stationed at the school Library every Thursdays to provide support to students (individually or in small groups) and guide students who may need additional help to make informed decisions on post-secondary education and career options.
 
-Parents or students who would like to explore more about subject choices,
-enquire about post-secondary education options or find out more about their
-career interests, strengths and passions, can have a chat with our school’s
-ECG Counsellor every Thursdays.
+Parents or students who would like to explore more about subject choices, enquire about post-secondary education options or find out more about their career interests, strengths and passions, can have a chat with our school’s ECG Counsellor.
 
 <center><strong>Appointments can be made via scanning the QR Code below or email <a href="mailto:mohammed_syahril_samsudin@schools.gov.sg">(mohammed_syahril_samsudin@schools.gov.sg)</a></strong></center><strong>
 	
