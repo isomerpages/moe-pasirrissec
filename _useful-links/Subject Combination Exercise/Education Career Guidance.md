@@ -168,6 +168,7 @@ Post-Sec education pathway talks
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/CCE/ECG/ceg_2023_07.png">
 </div>
+
 <h4>MySkillsFuture Student Portal - Support for Our Students</h4>
 
 “What do you want to be when you grow up?”<br>
@@ -195,7 +196,7 @@ Our ECG Counsellor is stationed at the school Library every Thursdays to provide
 
 Parents or students who would like to explore more about subject choices, enquire about post-secondary education options or find out more about their career interests, strengths and passions, can have a chat with our school’s ECG Counsellor.
 
-<center><strong>Appointments can be made via scanning the QR Code below or email <a href="mailto:mohammed_syahril_samsudin@schools.gov.sg">(mohammed_syahril_samsudin@schools.gov.sg)</a></strong></center><strong>
+<center><strong>Appointments can be made via scanning the QR Code below or email <a href="mailto:mohammed_syahril_samsudin@schools.gov.sg">(mohammed_syahril_samsudin@schools.gov.sg)</a></strong></center>
 	
 <div class="isomer-image-wrapper"><img style="width: 25%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ECG_Counsellor_Booking_QR_Code_2024.png">
 <center>
@@ -261,4 +262,4 @@ experience of the various tech-related jobs.</p>
 <p>As part of Camp Conquest and Camp Quest, all graduating students had the opportunity to visit the different schools of Temasek Polytechnics. Students embarked on a tailor made Learning Journey to a school of their interest to find out more about polytechnic courses of their choice.</p>
 <br>
 <img src="/images/CCE/ECG/Learning_Journey_Temasek_Poly_2024.jpg"><br>
-<img src="/images/CCE/ECG/Learning_Journey_Temasek_Poly_02_2024.jpg"></strong>
+<img src="/images/CCE/ECG/Learning_Journey_Temasek_Poly_02_2024.jpg">
