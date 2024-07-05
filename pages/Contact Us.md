@@ -27,7 +27,7 @@ Please contact the following:
 
 2. School Counsellor/ SEN Officer at 6501 0839
 
-3. ECG Counsellor: syahril_samsudin@moe.edu.sg
+3. ECG Counsellor: Mohammed_syahril_SAMSUDIN@schools.gov.sg
 
 ##### **For SLS Account or Password Enquiries**
 
@@ -50,4 +50,4 @@ Please contact the following:
 |East-West Line  | Alight at Tampines MRT Station (EW2)  |
 |  Downtown Line | Alight at Tampines (DT32) Station  | 
 
-We are just a stone's throw away! 
+We are just a stone's throw away!
