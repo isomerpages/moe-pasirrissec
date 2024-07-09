@@ -21,7 +21,7 @@ sections:
       id: infopic
       button: Click to view
       url: https://www.pasirrissec.moe.edu.sg/subject-combination/
-      image: /images/Subject_Combination_Exercise_2025.png
+      image: /images/Sec_3_Subject_Combi_Ex_2024.png
       alt: Sec 3 Subject Combi Exercise
   - infopic:
       title: PRSS DSA e-Open House
