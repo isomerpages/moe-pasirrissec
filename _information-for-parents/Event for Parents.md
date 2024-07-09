@@ -13,3 +13,4 @@ variant: markdown
 | 19 Apr 2024 | Sec 3 | Sec 3  Breakfast Session | [Sec 3 Breakfast Session with Parents Slides](/files/Sec_3_Parents_Breakfast_Session_2024.pdf)|
 | 10 May 2024 | Sec 2 | Sec 2 Breakfast Session | [Sec 2 Breakfast Session with Parents Slides](/files/2024_Sec_2_Breakfast_with_Parents_10_May__Reduced_size_.pdf) |
 | 17 May 2024 | Sec 4 | Sec 4 and 5  Breakfast Session | [Sec 4 and 5 Breakfast Session with Parents Slides](/files/Information%20for%20Parents/2024_Sec_4_Breakfast_with_Parents_17_May.pdf)|
+| 5 July 2024 | Sec 2 | Sec 2 Parent Engagement for S3 Subject Combi Briefing | [Sec 2 Parent Engagement S3 Subject Combi Briefing Slides](/files/Announcements/2024/2024_Sec_2_Parent_Engagement_S3_Subject_Combi_Briefing_for_AY2025_5_Jul.pdf) |
