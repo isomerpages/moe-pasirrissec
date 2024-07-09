@@ -17,7 +17,7 @@ sections:
           url: /Information-for-Parents/Event-for-Parents/
   - infopic:
       title: Sec 3 Subject Combination Exercise
-      subtitle: Announcements
+      subtitle: Highlights
       id: infopic
       button: Click to view
       url: https://www.pasirrissec.moe.edu.sg/subject-combination/
