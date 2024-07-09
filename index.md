@@ -22,6 +22,7 @@ sections:
       description: Launch of Microsite
       button: Click to view
       url: https://www.pasirrissec.moe.edu.sg/subject-combination/
+      image: /images/Subject_Combination_Exercise_2025.png
   - infopic:
       title: PRSS DSA e-Open House
       id: infopic
