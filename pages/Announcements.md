@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 2024 Sec 2 Parent Engagement S3 Subject Combi Briefing for AY2025
+
+Please click [here](/files/Announcements/2024/2024_Sec_2_Parent_Engagement_S3_Subject_Combi_Briefing_for_AY2025_5_Jul.pdf) to view the slides.
+
 #### 2024 Sec 4 &amp; 5 Preliminary Examinations Timetables
 
 Please click [here](/files/Announcements/1a__2024_4E5N_Prelim_Timetable_27Jun.pdf) to view the 4E5N Prelim Timetable.<br>
