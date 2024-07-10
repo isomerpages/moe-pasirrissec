@@ -23,6 +23,8 @@ sections:
       url: https://www.pasirrissec.moe.edu.sg/subject-combination/
       image: /images/Subject_Combination_Exercise_2025.png
       alt: Sec 3 Subject Combi Exercise
+      description: Introducing our new microsite offering a comprehensive resource for
+        students and parents.
   - infopic:
       title: PRSS DSA e-Open House
       id: infopic
