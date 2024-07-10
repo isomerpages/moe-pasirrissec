@@ -24,7 +24,7 @@ sections:
       image: /images/Subject_Combination_Exercise_2025.png
       alt: Sec 3 Subject Combi Exercise
       description: Introducing our new microsite offering a comprehensive resource for
-        our students and parents on Subject Combination.
+        students and parents.
   - infopic:
       title: PRSS DSA e-Open House
       id: infopic
