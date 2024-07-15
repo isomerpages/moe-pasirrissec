@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Blended Learning Time table
+
+Please click to view the Sem 2 BL Timetable
+
 #### 2024 Sec 2 Parent Engagement S3 Subject Combi Briefing for AY2025
 
 Please click [here](/files/Announcements/2024/2024_Sec_2_Parent_Engagement_S3_Subject_Combi_Briefing_for_AY2025_5_Jul.pdf) to view the slides.
