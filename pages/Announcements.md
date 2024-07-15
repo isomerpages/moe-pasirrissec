@@ -4,9 +4,9 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### Blended Learning Time table
+#### 2024 Semester 2 Blended Learning Timetable
 
-Please click to view the Sem 2 BL Timetable
+Please click [here](/files/Announcements/2024_SEM2_BL_TT_V1_Classes.pdf) to view the Sem 2 BL Timetable.
 
 #### 2024 Sec 2 Parent Engagement S3 Subject Combi Briefing for AY2025
 
