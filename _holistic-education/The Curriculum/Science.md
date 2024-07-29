@@ -107,7 +107,7 @@ You can access the virtual tour of our school's Eco Garden [here](https://www.th
 | Biology / Lower Secondary Science| Mr Joshua Tan<br>HOD Character &amp; Citizenship Education |  [joshua_tan_see_kuang@moe.edu.sg](mailto:joshua_tan_see_kuang@moe.edu.sg) | 
 | Chemistry | Mr Sim Chun Siang<br>HOD Student Development  | [sim_chun_siang@moe.edu.sg](mailto:sim_chun_siang@moe.edu.sg) | 
 | Physics / NT Science| Mr Mohamed Ashiq<br>YH Upper Secondary | [mohamed_ashiq_mohamed@moe.edu.sg](mailto:mohamed_ashiq_mohamed@moe.edu.sg) | 
-| Chemistry / Lower Secondary Science | Ms Quah Wei Wei <br>LH Lower Secondary Science | [quah_wei_wee@moe.edu.sg](mailto:quah_wei_wee@moe.edu.sg) |
+| Chemistry / Lower Secondary Science | Ms Quah Wei Wee <br>LH Lower Secondary Science | [quah_wei_wee@moe.edu.sg](mailto:quah_wei_wee@moe.edu.sg) |
 | Biology / English | Mr Daniel Ng Tze Keen<br>SH Character &amp; Citizenship Education | [ng_tze_keen_daniel@moe.edu.sg](mailto:ng_tze_keen_daniel@moe.edu.sg) |
 | Chemistry / Physical Education | Mr Mohammed Riffaii<br>SH Discipline | [mohammed_riffaii_maidin@moe.edu.sg](mailto:mohammed_riffaii_maidin@moe.edu.sg)|
 | Physics | Mr Chiang Shu Lee<br>ST Physics | [chiang_shu_lee@moe.edu.sg](mailto:chiang_shu_lee@moe.edu.sg) |
