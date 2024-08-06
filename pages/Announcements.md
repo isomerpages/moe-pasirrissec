@@ -4,6 +4,11 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Sec 1 Outdoor Adventure Learning Briefing
+
+Please click [here](/files/Announcements/2024/2024_Sec_1_OALC__Parent_Engagement__2_Aug.pdf) to view the Sec 1 OAL Briefing.
+
+
 #### 2024 Semester 2 Blended Learning Timetable
 
 Please click [here](/files/Announcements/2024_SEM2_BL_TT_V1_Classes.pdf) to view the Sem 2 BL Timetable.
