@@ -6,9 +6,9 @@ variant: markdown
 ---
 #### Special Timetable for S4E5N on 13 Aug and 13 - 16 Aug for Sec 2, Sec 3 and Sec 4N
 
-Please click [here](/files/Announcements/2024/TT_for_4E5N_on_13_Aug.pdf) for Sec 4 and Sec 5N Timetable on 13 August.
+Please click [here](/files/Announcements/2024/TT_for_4E5N_on_13_Aug.pdf) to view  Sec 4 and Sec 5N Timetable on 13 August.
 
-Please click [here](/files/Announcements/2024/TT_for_S2_S3_S4NA_12___16_Aug.pdf) for Sec 2, Sec 3 and Sec 4N Timetable from 12 - 16 August.
+Please click [here](/files/Announcements/2024/TT_for_S2_S3_S4NA_12___16_Aug.pdf) to view Sec 2, Sec 3 and Sec 4N Timetable from 12 - 16 August.
 
 #### 2024 Sec 1 Outdoor Adventure Learning Briefing
 
