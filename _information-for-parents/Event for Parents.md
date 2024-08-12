@@ -148,7 +148,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 August 2-24</p>
+<p>2 Aug 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1</p>
