@@ -146,6 +146,21 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 August 2-24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 Outdoor Adventure Learning Briefing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Announcements/2024/2024_Sec_1_OALC__Parent_Engagement__2_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Outdoor Adventure Learning Briefing Slides</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
