@@ -10,7 +10,7 @@ description: ""
 
 2024 marks the grand celebration of our school's 39th anniversary—a milestone marked by a tapestry of inspiring stories and remarkable achievements. As we reflect on nearly four decades of educational excellence, we honor the dedication of our students, the vision of our educators, and the unwavering support of our community. Join us in revisiting the remarkable journeys and transformative moments that have shaped our school's legacy and continue to inspire future generations.
 
-<a rel="noopener" target="_blank" href="https://www.canva.com/design/DAGH5zJkigw/qMxovPsDlT8wU7NoKIbphg/view?utm_content=DAGH5zJkigw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link">PRSS 39th Journey Of Inpiration</a> 
+<a rel="noopener" target="_blank" href="https://www.canva.com/design/DAGH5zJkigw/qMxovPsDlT8wU7NoKIbphg/view?utm_content=DAGH5zJkigw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link">PRSS 39th Journey of Inspiration</a> 
 
 ### **Hear our 39th Anniversary Podcast**
 
