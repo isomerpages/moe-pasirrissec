@@ -4,16 +4,13 @@ permalink: /launch-of-39-stories/
 variant: markdown
 description: ""
 ---
-### **Pasir Ris 39th Pillars of Inspiration**
+### **Pasir Ris 39th Anniversary - Pillars of Inspiration**
 
 ![](/images/39_stories_logo.jpg)
 
 2024 marks the grand celebration of our school's 39th anniversary—a milestone marked by a tapestry of inspiring stories and remarkable achievements. As we reflect on nearly four decades of educational excellence, we honor the dedication of our students, the vision of our educators, and the unwavering support of our community. Join us in revisiting the remarkable journeys and transformative moments that have shaped our school's legacy and continue to inspire future generations.
 
-
-
 [View our interactive photobook](https://www.canva.com/design/DAGH5zJkigw/LdUB04TyRiFYZluC9pPS_A/view?utm_content=DAGH5zJkigw&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=editor)
-
 
 ### **Hear our 39th Anniversary Podcast**
 
