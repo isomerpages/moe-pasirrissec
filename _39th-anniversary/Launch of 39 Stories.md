@@ -4,9 +4,11 @@ permalink: /launch-of-39-stories/
 variant: markdown
 description: ""
 ---
-### **PRSS 39th Journey of Inspiration**
+### **Pasir Ris 39th Journey of Inspiration**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1zE-HLiC5Ec?si=yBTvltPHojGKcNGo" height="515" width="760"></iframe>
+Welcome to the grand celebration of our school's 39th Anniversary—a milestone marked by a tapestry of inspiring stories and remarkable achievements. As we reflect on nearly four decades of educational excellence, we honor the dedication of our students, the vision of our educators, and the unwavering support of our community. Join us in revisiting the remarkable journeys and transformative moments that have shaped our school's legacy and continue to inspire future generations.
+
+
 
 [View our interactive photobook](https://www.canva.com/design/DAGH5zJkigw/LdUB04TyRiFYZluC9pPS_A/view?utm_content=DAGH5zJkigw&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=editor)
 
@@ -14,7 +16,7 @@ description: ""
 ### **Hear our 39th Anniversary Podcast**
 
 <a href="https://open.spotify.com/show/7vpZ2WcwQOV84ilYmYIo8H?si=a66e4e705ec6436c"><img style="width: 50%" height="auto" width="50%" alt="" src="/images/39th_Anniversary_Podcast_Cover_.png"></a>
-<center>Click to listen to the playlist</center>
+
 	
 ### **Student Learning Festival**
 
