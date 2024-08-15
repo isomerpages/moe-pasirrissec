@@ -26,6 +26,6 @@ Stay tuned as we share personal stories, favorite memories, and what makes our s
 	
 ### **Student Learning Festival**
 
-DuriPasirians take inspiration from the sharing by their peers as they explore their passion and interests beyond the curriculum, and continue to inspire one another in the spirit of lifelong learning.
+Pasirians take inspiration from the sharing by their peers as they explore their passion and interests beyond the curriculum, and continue to inspire one another in the spirit of lifelong learning.
 
 ![](/images/Our_Student_Inspirational_SLF_Board.png)
