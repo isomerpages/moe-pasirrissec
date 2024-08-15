@@ -15,7 +15,11 @@ Welcome to the grand celebration of our school's 39th anniversary—a milestone 
 
 ### **Hear our 39th Anniversary Podcast**
 
-Welcome to the PRSS Podcast, where we celebrate our rich history and vibrant present as we mark the 39th anniversary of our beloved school! This episode is a special one as we reflect on nearly four decades of excellence and growth at PRSS. As we celebrate our 39th anniversary, we’re diving into what makes our school truly unique through the eyes of the students who live and breathe its spirit every day. From the groundbreaking programs that have shaped our academic journey to the unforgettable moments and cherished traditions, we’ll explore how our school has become a cornerstone of our community. Stay tuned as we share personal stories, favorite memories, and what makes our school not just an institution, but a second home. 
+Lets hear our PRSS Podcast, where we celebrate our rich history and vibrant present as we mark the 39th anniversary of our beloved school! 
+
+This episode is a special one as we reflect on nearly four decades of excellence and growth at PRSS. As we celebrate our 39th anniversary, we’re diving into what makes our school truly unique through the eyes of the students who live and breathe its spirit every day. From the groundbreaking programs that have shaped our academic journey to the unforgettable moments and cherished traditions, we’ll explore how our school has become a cornerstone of our community. 
+
+Stay tuned as we share personal stories, favorite memories, and what makes our school not just an institution, but a second home. 
 
 <a href="https://open.spotify.com/show/7vpZ2WcwQOV84ilYmYIo8H?si=a66e4e705ec6436c"><img style="width: 50%" height="auto" width="50%" alt="" src="/images/39th_Anniversary_Podcast_Cover_.png"></a>
 
