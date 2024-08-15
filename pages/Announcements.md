@@ -4,7 +4,30 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### Special Timetable for S4E5N on 13 Aug and  Sec 2, Sec 3 and Sec 4N for 13 - 16 Aug
+#### 2024 Sec 1 - Sec 3 End-of-Year Exams Timetable 
+
+Please click on the link to view the exams timetable.
+
+<strong>Secondary 1</strong><br>
+<a href="/files/Announcements/2024/2024_S1_EYE_Timetable_13Aug.pdf">Sec 1 End-of-Year Exam Timetable</a><br><br>
+<strong>Secondary 2</strong><br>
+<a href="/files/Announcements/2024/2024_2E_EYE_Timetable_13Aug.pdf">Sec 2 Express End-of-Year Exam Timetable</a>
+<br>
+<a href="/files/Announcements/2024/2024_2NA_EYE_Timetable_13Aug.pdf">Sec 2 Normal Academic End-of-Year Exam Timetable</a>
+<br>
+<a href="/files/Announcements/2024/2024_2NT_EYE_Timetable_13Aug.pdf">Sec 2 Normal Technical End-of-Year Exam Timetable</a>
+<br><br>
+<strong>Secondary 3</strong>
+<br><a href="/files/Announcements/2024/2024_3E_EYE_Timetable_13Aug.pdf">Sec 3 Express End-of-Year Exam Timetable</a>
+<br>
+<a href="/files/Announcements/2024/2024_3NA_EYE_Timetable_13Aug.pdf">Sec 3 Normal Academic End-of-Year Exam Timetable</a><br>
+<a href="/files/Announcements/2024/2024_3NT_EYE_Timetable_13Aug.pdf">Sec 3 Normal Technical End-of-Year Exam Timetable</a>
+	
+	
+
+We wish students all the best in their upcoming exams.
+
+#### Special Timetable for S4E5N on 13 Aug and  Sec 2, Sec 3 and Sec 4N from 13 to 16 Aug
 
 Please click [here](/files/Announcements/2024/TT_for_4E5N_on_13_Aug.pdf) to view  Sec 4 and Sec 5N Timetable for 13 August.
 
