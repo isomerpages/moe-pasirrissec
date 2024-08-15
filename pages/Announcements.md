@@ -12,25 +12,25 @@ Please click on the link to view the timetable
         <tbody><tr>
             <th>Secondary 1</th>
 	</tr><tr>
-	<td><a href="/files/Announcements/2024/2024_S1_EYE_Timetable_13Aug.pdf">Sec 1 End of Year Exam timetable</a></td>
+	<td><a href="/files/Announcements/2024/2024_S1_EYE_Timetable_13Aug.pdf">Sec 1 EYE timetable</a></td>
 	</tr>
 					<tr><th>Secondary 2</th></tr>
 	<tr>
-	<td><a href="/files/Announcements/2024/2024_2E_EYE_Timetable_13Aug.pdf">Sec 2 Exp End of year Exam timetable</a></td>
+	<td><a href="/files/Announcements/2024/2024_2E_EYE_Timetable_13Aug.pdf">Sec 2 Exp EYE timetable</a></td>
 	</tr>
 	<tr>
-	<td><a href="/files/Announcements/2024/2024_2NA_EYE_Timetable_13Aug.pdf">Sec 2 NA End of year Exam timetable</a></td>
+	<td><a href="/files/Announcements/2024/2024_2NA_EYE_Timetable_13Aug.pdf">Sec 2 NA EYE timetable</a></td>
 		</tr><tr>
-	 <td><a href="/files/Announcements/2024/2024_2NT_EYE_Timetable_13Aug.pdf">Sec 2 NT End of year Exam timetable</a></td>
+	 <td><a href="/files/Announcements/2024/2024_2NT_EYE_Timetable_13Aug.pdf">Sec 2 NT EYE timetable</a></td>
 	</tr>
 	<tr>
 	</tr><tr><th>Secondary 3</th></tr>
-	<tr><td><a href="/files/Announcements/2024/2024_3E_EYE_Timetable_13Aug.pdf">Sec 3 Exp End of year Exam timetable</a></td>
+	<tr><td><a href="/files/Announcements/2024/2024_3E_EYE_Timetable_13Aug.pdf">Sec 3 Exp EYE timetable</a></td>
 	</tr>
 	<tr>
-	<td><a href="/files/Announcements/2024/2024_3NA_EYE_Timetable_13Aug.pdf">Sec 3 NA End of year Exam timetable</a></td>
+	<td><a href="/files/Announcements/2024/2024_3NA_EYE_Timetable_13Aug.pdf">Sec 3 NA EYE timetable</a></td>
 		</tr><tr>
-	 <td><a href="/files/Announcements/2024/2024_3NT_EYE_Timetable_13Aug.pdf">Sec 3 NT End of year Exam timetable</a></td>
+	 <td><a href="/files/Announcements/2024/2024_3NT_EYE_Timetable_13Aug.pdf">Sec 3 NT EYE timetable</a></td>
 	</tr>
 </tbody></table>	
 
