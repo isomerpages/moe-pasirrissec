@@ -4,21 +4,18 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### 2024 Sec 1 - Sec 3 End of Year Exam Timetable
+#### 2024 Sec 1 - Sec 3 End-of-Year Exam Timetable 
 
-Please click on the link to view the Sec 1 - Sec 3 EYE Timetable
+Please click on the link to view the timetable
 
 <table align="center">
         <tbody><tr>
-            <th>Level</th>
-            <th>Timetable</th>
-        </tr>
-	<tr>
-	<td>Sec 1</td>
+            <th>Secondary 1</th>
+	</tr><tr>
 	<td><a href="/files/Announcements/2024/2024_S1_EYE_Timetable_13Aug.pdf">Sec 1 End of Year Exam timetable</a></td>
 	</tr>
+					<tr><th>Secondary 2</th></tr>
 	<tr>
-	<td rowspan="3">Sec 2</td>
 	<td><a href="/files/Announcements/2024/2024_2E_EYE_Timetable_13Aug.pdf">Sec 2 Exp End of year Exam timetable</a></td>
 	</tr>
 	<tr>
@@ -27,8 +24,8 @@ Please click on the link to view the Sec 1 - Sec 3 EYE Timetable
 	 <td><a href="/files/Announcements/2024/2024_2NT_EYE_Timetable_13Aug.pdf">Sec 2 NT End of year Exam timetable</a></td>
 	</tr>
 	<tr>
-	<td rowspan="3">Sec 3</td>
-	<td><a href="/files/Announcements/2024/2024_3E_EYE_Timetable_13Aug.pdf">Sec 3 Exp End of year Exam timetable</a></td>
+	</tr><tr><th>Secondary 3</th></tr>
+	<tr><td><a href="/files/Announcements/2024/2024_3E_EYE_Timetable_13Aug.pdf">Sec 3 Exp End of year Exam timetable</a></td>
 	</tr>
 	<tr>
 	<td><a href="/files/Announcements/2024/2024_3NA_EYE_Timetable_13Aug.pdf">Sec 3 NA End of year Exam timetable</a></td>
