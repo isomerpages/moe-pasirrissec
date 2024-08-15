@@ -4,10 +4,40 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### 2024 Sec 1 - Sec 3 End Year Exam Timetable
+#### 2024 Sec 1 - Sec 3 End of Year Exam Timetable
 
+Please click on the link to view the Sec 1 - Sec 3 EYE Timetable
 
+<table align="center">
+        <tbody><tr>
+            <th>Level</th>
+            <th>Timetable</th>
+        </tr>
+	<tr>
+	<td>Sec 1</td>
+	<td><a href="/files/Announcements/2024/2024_S1_EYE_Timetable_13Aug.pdf">Sec 1 End of Year Exam timetable</a></td>
+	</tr>
+	<tr>
+	<td rowspan="3">Sec 2</td>
+	<td><a href="/files/Announcements/2024/2024_2E_EYE_Timetable_13Aug.pdf">Sec 2 Exp End of year Exam timetable</a></td>
+	</tr>
+	<tr>
+	<td><a href="/files/Announcements/2024/2024_2NA_EYE_Timetable_13Aug.pdf">Sec 2 NA End of year Exam timetable</a></td>
+		</tr><tr>
+	 <td><a href="/files/Announcements/2024/2024_2NT_EYE_Timetable_13Aug.pdf">Sec 2 NT End of year Exam timetable</a></td>
+	</tr>
+	<tr>
+	<td rowspan="3">Sec 3</td>
+	<td><a href="/files/Announcements/2024/2024_3E_EYE_Timetable_13Aug.pdf">Sec 3 Exp End of year Exam timetable</a></td>
+	</tr>
+	<tr>
+	<td><a href="/files/Announcements/2024/2024_3NA_EYE_Timetable_13Aug.pdf">Sec 3 NA End of year Exam timetable</a></td>
+		</tr><tr>
+	 <td><a href="/files/Announcements/2024/2024_3NT_EYE_Timetable_13Aug.pdf">Sec 3 NT End of year Exam timetable</a></td>
+	</tr>
+</tbody></table>	
 
+We wish all students all the best in your upcoming exams.
 
 #### Special Timetable for S4E5N on 13 Aug and  Sec 2, Sec 3 and Sec 4N from 13 to 16 Aug
 
