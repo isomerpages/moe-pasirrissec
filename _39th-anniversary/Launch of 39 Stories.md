@@ -10,16 +10,7 @@ description: ""
 
 2024 marks the grand celebration of our school's 39th anniversary—a milestone marked by a tapestry of inspiring stories and remarkable achievements. As we reflect on nearly four decades of educational excellence, we honor the dedication of our students, the vision of our educators, and the unwavering support of our community. Join us in revisiting the remarkable journeys and transformative moments that have shaped our school's legacy and continue to inspire future generations.
 
-[View our stories](https://www.canva.com/design/DAGH5zJkigw/LdUB04TyRiFYZluC9pPS_A/view?utm_content=DAGH5zJkigw&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=editor)
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2225%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe allow="fullscreen" allowfullscreen="allowfullscreen" src="https://www.canva.com/design/DAGH5zJkigw/qMxovPsDlT8wU7NoKIbphg/view?embed" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" loading="lazy">
-  </iframe>
-</div>
-
-<a rel="noopener" target="_blank" href="https://www.canva.com/design/DAGH5zJkigw/qMxovPsDlT8wU7NoKIbphg/view?utm_content=DAGH5zJkigw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link">PRSS 39th Journey Of Inpiration</a> by Siti Radilah
+<a rel="noopener" target="_blank" href="https://www.canva.com/design/DAGH5zJkigw/qMxovPsDlT8wU7NoKIbphg/view?utm_content=DAGH5zJkigw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link">PRSS 39th Journey Of Inpiration</a> 
 
 ### **Hear our 39th Anniversary Podcast**
 
