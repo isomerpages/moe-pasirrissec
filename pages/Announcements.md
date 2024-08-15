@@ -4,33 +4,33 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### 2024 Sec 1 - Sec 3 End-of-Year Exam Timetable 
+#### 2024 Sec 1 - Sec 3 End-of-Year Exams Timetable 
 
-Please click on the link to view the timetable
+Please click on the link to view the exams timetable.
 
 <table align="center">
         <tbody><tr>
             <th>Secondary 1</th>
 	</tr><tr>
-	<td><a href="/files/Announcements/2024/2024_S1_EYE_Timetable_13Aug.pdf">Sec 1 EYE timetable</a></td>
+	<td><a href="/files/Announcements/2024/2024_S1_EYE_Timetable_13Aug.pdf">Sec 1 End-of-Year Exam Timetable</a></td>
 	</tr>
 					<tr><th>Secondary 2</th></tr>
 	<tr>
-	<td><a href="/files/Announcements/2024/2024_2E_EYE_Timetable_13Aug.pdf">Sec 2 Exp EYE timetable</a></td>
+	<td><a href="/files/Announcements/2024/2024_2E_EYE_Timetable_13Aug.pdf">Sec 2 Express End-of-Year Exam Timetable</a></td>
 	</tr>
 	<tr>
-	<td><a href="/files/Announcements/2024/2024_2NA_EYE_Timetable_13Aug.pdf">Sec 2 NA EYE timetable</a></td>
+	<td><a href="/files/Announcements/2024/2024_2NA_EYE_Timetable_13Aug.pdf">Sec 2 Normal Academic End-of-Year Exam Timetable</a></td>
 		</tr><tr>
-	 <td><a href="/files/Announcements/2024/2024_2NT_EYE_Timetable_13Aug.pdf">Sec 2 NT EYE timetable</a></td>
+	 <td><a href="/files/Announcements/2024/2024_2NT_EYE_Timetable_13Aug.pdf">Sec 2 Normal Technical End-of-Year Exam Timetable</a></td>
 	</tr>
 	<tr>
 	</tr><tr><th>Secondary 3</th></tr>
-	<tr><td><a href="/files/Announcements/2024/2024_3E_EYE_Timetable_13Aug.pdf">Sec 3 Exp EYE timetable</a></td>
+	<tr><td><a href="/files/Announcements/2024/2024_3E_EYE_Timetable_13Aug.pdf">Sec 3 Express End-of-Year Exam Timetable</a></td>
 	</tr>
 	<tr>
-	<td><a href="/files/Announcements/2024/2024_3NA_EYE_Timetable_13Aug.pdf">Sec 3 NA EYE timetable</a></td>
+	<td><a href="/files/Announcements/2024/2024_3NA_EYE_Timetable_13Aug.pdf">Sec 3 Normal Academic End-of-Year Exam Timetable</a></td>
 		</tr><tr>
-	 <td><a href="/files/Announcements/2024/2024_3NT_EYE_Timetable_13Aug.pdf">Sec 3 NT EYE timetable</a></td>
+	 <td><a href="/files/Announcements/2024/2024_3NT_EYE_Timetable_13Aug.pdf">Sec 3 Normal Technical End-of-Year Exam Timetable</a></td>
 	</tr>
 </tbody></table>	
 
