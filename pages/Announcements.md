@@ -4,7 +4,12 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### Special Timetable for S4E5N on 13 Aug and  Sec 2, Sec 3 and Sec 4N for 13 - 16 Aug
+#### 2024 Sec 1 - Sec 3 End Year Exam Timetable
+
+
+
+
+#### Special Timetable for S4E5N on 13 Aug and  Sec 2, Sec 3 and Sec 4N from 13 to 16 Aug
 
 Please click [here](/files/Announcements/2024/TT_for_4E5N_on_13_Aug.pdf) to view  Sec 4 and Sec 5N Timetable for 13 August.
 
