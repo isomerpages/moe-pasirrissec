@@ -4,6 +4,8 @@ permalink: /launch-of-39-stories/
 variant: markdown
 description: ""
 ---
+![](/images/39_stories_logo.jpg)
+
 ### **Pasir Ris 39th Journey of Inspiration**
 
 Welcome to the grand celebration of our school's 39th anniversary—a milestone marked by a tapestry of inspiring stories and remarkable achievements. As we reflect on nearly four decades of educational excellence, we honor the dedication of our students, the vision of our educators, and the unwavering support of our community. Join us in revisiting the remarkable journeys and transformative moments that have shaped our school's legacy and continue to inspire future generations.
