@@ -34,7 +34,7 @@ Please click on the link to view the exams timetable.
 	</tr>
 </tbody></table>	
 
-We wish all students all the best in your upcoming exams.
+We wish all students all the best in their upcoming exams.
 
 #### Special Timetable for S4E5N on 13 Aug and  Sec 2, Sec 3 and Sec 4N from 13 to 16 Aug
 
