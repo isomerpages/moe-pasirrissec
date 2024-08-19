@@ -28,3 +28,9 @@ Tune in as we share personal stories, favorite memories, and what makes our scho
 During the school’s 39th anniversary celebration, Pasirians take inspiration from the sharing by their peers as they explore their passion and interests beyond the curriculum, and continue to inspire one another in the spirit of lifelong learning.
 
 ![](/images/Our_Student_Inspirational_SLF_Board.png)
+
+### **Annual Awards Ceremony**
+
+As part of the school’s 39th anniversary celebration, Pasirians also gathered together for the annual Awards Ceremony where we recognized, affirmed and celebrated Pasirians who have done well in their academic and non-academic achievement, as they continue their journey as pillars of inspiration to current and future cohorts. 
+
+![](/images/39_Anniversary___Awards_Ceremony.png)
