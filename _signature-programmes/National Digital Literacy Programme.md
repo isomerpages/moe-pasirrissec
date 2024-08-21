@@ -60,7 +60,11 @@ for more details on this programme.</p>
 <p>Parents/Guardians can refer to the Student Device Information Kit for
 additional details regarding device information, device insurance, device
 warranty and other relevant matters.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -104,7 +108,4 @@ are available for students that are on financial assistance schemes.</p>
 <p>Students, including permanent residents (PR) and international students
 (IS), that need additional support should approach the General Office for
 more information on financial assistance.</p>
-<h4><strong>Device Management Application</strong></h4>
-<p>Please click on the link to view the <a href="/dma" rel="noopener noreferrer nofollow" target="_blank">DMA microsite.</a>
-</p>
 <p></p>
