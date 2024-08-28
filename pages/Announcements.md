@@ -63,7 +63,7 @@ Please click [here](/files/Announcements/2024/Sem_2_TT_wef_24_Jun_for_S2___S5.pd
 
 
 #### Collection of School Graduation Certificate (SGC) for 2023 Cohort
-Students from 2023 Sec 4 NA, Sec 4 Exp and Sec 5NT cohorts may collect their SGC from the school General Office during office hours.
+Students from 2023 Sec 4 NA, Sec 4 Exp and Sec 5NA cohorts may collect their SGC from the school General Office during office hours.
 
 #### Launch of Subject Combination Microsite
 
