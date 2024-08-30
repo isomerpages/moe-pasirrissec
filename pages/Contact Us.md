@@ -16,7 +16,7 @@ Singapore 529400
 Tel: +65 6501 0800 <br>
 Fax: +65 6501 0900<br>
 Email: prss@moe.edu.sg<br>
-Have a question? https://ask.gov.sg/prss 
+Have a question? [https://ask.gov.sg/prss]( https://ask.gov.sg/prss ) 
 
 We will contact you within 3 working days for any enquiry.
 
