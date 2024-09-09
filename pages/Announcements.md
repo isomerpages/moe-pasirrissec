@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### PRSS Newsflash
+
+Please click&nbsp;[here](/files/Newsflash_Term_4_2024.pdf)&nbsp;to view our Newsflash for Term 4.
+
 #### 2024 Sec 1 - Sec 3 End-of-Year Exams Timetable 
 
 Please click on the link to view the exams timetable.
