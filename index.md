@@ -16,6 +16,16 @@ sections:
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
   - infopic:
+      title: PRSS 39th Anniversary
+      subtitle: ANNOUNCEMENTS
+      id: infopic
+      button: Click to view
+      url: https://www.pasirrissec.moe.edu.sg/launch-of-39-stories/
+      image: /images/39_stories_logo.jpg
+      alt: Image alt text
+      description: Join us in our festivities as we proudly commemorate the 39th
+        anniversary of our school!
+  - infopic:
       title: Sec 3 Subject Combination Exercise
       subtitle: Highlights
       id: infopic
@@ -25,24 +35,6 @@ sections:
       alt: Sec 3 Subject Combi Exercise
       description: Introducing our new microsite offering a comprehensive resource for
         students and parents.
-  - infopic:
-      title: PRSS DSA e-Open House
-      id: infopic
-      image: /images/DSA/Open_House_Banner_2024_Resize.png
-      alt: DSA E Open House 2024 Banner
-      url: https://www.pasirrissec.moe.edu.sg/dsa/
-      button: Find out more
-      description: PRSS warmly invites all Primary 6 students and parents to our DSA
-        e-Open House from 29 April to 3 June 2024!
-      subtitle: ANNOUNCEMENTS
-  - infopic:
-      title: "Pasir Ris Secondary School presents: The Pursuit"
-      id: infopic
-      description: PRSS Performing Arts will be performing their musical showcase on
-        2nd May 2024 at Victoria Theatre Singapore!
-      image: /images/the pursuit poster.jpg
-      alt: Image alt text
-      subtitle: EVENTS
   - infopic:
       title: PRSS Campus Tour
       description: Click the link below for a 360° tour of the school
