@@ -23,7 +23,8 @@ sections:
       url: https://www.pasirrissec.moe.edu.sg/launch-of-39-stories/
       image: /images/39_stories_logo.jpg
       alt: Image alt text
-      description: Join us as we proudly mark the 39th anniversary of our school!
+      description: Join us in our festivities as we proudly commemorate the 39th
+        anniversary of our school!
   - infopic:
       title: Sec 3 Subject Combination Exercise
       subtitle: Highlights
