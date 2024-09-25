@@ -16,6 +16,14 @@ sections:
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
   - infopic:
+      title: PRSS 39th Anniversary
+      subtitle: EVENTS
+      id: infopic
+      button: Click to view
+      url: https://www.pasirrissec.moe.edu.sg/launch-of-39-stories/
+      image: /images/39_stories_logo.jpg
+      alt: Image alt text
+  - infopic:
       title: Sec 3 Subject Combination Exercise
       subtitle: Highlights
       id: infopic
