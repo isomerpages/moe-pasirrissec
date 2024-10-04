@@ -41,7 +41,8 @@ We have a busy schedule every year and we pride ourselves in presenting the best
 
 | Day | Time | Venue |
 | --- | --- | --- |
-| Monday / Thursday | 3.15pm - 6.00pm | AVA Room |
+| Monday  | 3.15pm - 6.30pm | Music Room |
+|Thursday | 3.15pm - 6.30pm | AVA Room 
 
 ### **Teachers-in-charge**
 
@@ -50,10 +51,10 @@ We have a busy schedule every year and we pride ourselves in presenting the best
 * Ms. Mindy Low Lixian
 
 ##### **Choreographer:**
-Mr. Shahbirul Zaki Bin Ahmad
+Mr. Shahbirul Zaki 
 
 ##### **Technique Instructor:**
-Miss Eunice Wee Shi Quan  
+Ms. Eunice Wee  
 
 ### **Photos / Videos**
 ![](/images/CCA/Dance/Dance_Grid_01.jpg)
