@@ -22,17 +22,14 @@ NCDCC believes in developing and empowering our youths to be active concerned ci
 
 ### **Highlights**
 
-1. Precision Drill Competition
-2. Service Month Project at Methodist Welfare Service Center
-3. Tampines West Community Resilience Day
+*  Precision Drill Competition
+*  Service Month Project at Methodist Welfare Service Center
+*  Tampines West Community Resilience Day
 
 ### **Achievements**
 
-#### **2023**
-1. Unit Overall Performance Award - Distinction (9th consecutive year, since 2015)
-2. Pinnacle Award - Warrant Officer Lau Pei Ying Jolin &amp; Warrant Officer Kwang Yan Lin 
-3. Best Unit Cadet - Warrant Officer Lau Pei Ying Jolin
-4. Home Team Corps Team Award
+* 2024 Unit Overall Performance Award - Distinction (10th consecutive year, since 2015) 
+* Pinnacle Award - Warrant Officer Chuang Kai Yuen &amp; Warrant Officer Lim En Xuan Best Unit Cadet - Warrant Officer Lim En Xuan
 
 ### **Schedule**
 
@@ -43,11 +40,10 @@ NCDCC believes in developing and empowering our youths to be active concerned ci
 
 ### **Teachers-in-charge**
 
-* LTA Wong Yun Yi (IC till June)
-* Mr Jonathan Ng (2IC, IC from June)
-* Mr Winston Chiang
-* Mr. Daniel Ng
-
+* Mr Jonathan Ng (OIC)
+* Mr Winston Chiang (2IC)
+* Mr Daniel Ng
+* Mr Lim Yong Liang
 
 ### **Photos**
 

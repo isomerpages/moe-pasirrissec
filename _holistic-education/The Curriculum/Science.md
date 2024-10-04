@@ -103,8 +103,8 @@ You can access the virtual tour of our school's Eco Garden [here](https://www.th
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
+| Biology / Lower Secondary Science| Mr Joshua Tan<br>HOD Character &amp; Citizenship Education<br>[covering HOD Science] |  [joshua_tan_see_kuang@moe.edu.sg](mailto:joshua_tan_see_kuang@moe.edu.sg) | 
 | Chemistry | Mr Chua Khoon Wee<br>HOD Information Communication Technology | [chua_Khoon_Wee@moe.edu.sg](mailto:chua_Khoon_Wee@moe.edu.sg) |
-| Biology / Lower Secondary Science| Mr Joshua Tan<br>HOD Character &amp; Citizenship Education |  [joshua_tan_see_kuang@moe.edu.sg](mailto:joshua_tan_see_kuang@moe.edu.sg) | 
 | Chemistry | Mr Sim Chun Siang<br>HOD Student Development  | [sim_chun_siang@moe.edu.sg](mailto:sim_chun_siang@moe.edu.sg) | 
 | Physics / NT Science| Mr Mohamed Ashiq<br>YH Upper Secondary | [mohamed_ashiq_mohamed@moe.edu.sg](mailto:mohamed_ashiq_mohamed@moe.edu.sg) | 
 | Chemistry / Lower Secondary Science | Ms Quah Wei Wee <br>LH Lower Secondary Science | [quah_wei_wee@moe.edu.sg](mailto:quah_wei_wee@moe.edu.sg) |
@@ -116,6 +116,7 @@ You can access the virtual tour of our school's Eco Garden [here](https://www.th
 | Chemistry / NT Science | Ms Jaslin Jiang Wei Yeow | [jiang_wei_yeow@moe.edu.sg](mailto:jiang_wei_yeow@moe.edu.sg) |
 | Biology / Lower Secondary Science | Mr Zachary Koh Jia Sheng | [koh_jia_sheng_zachary@moe.edu.sg](mailto:koh_jia_sheng_zachary@moe.edu.sg) |
 | Physics / Lower Secondary Science | Mr Kok Wai Keong Kevin | [Kok_Wai_Keong_Kevin@moe.edu.sg](mailto:Kok_Wai_Keong_Kevin@moe.edu.sg) |
+| Physics / Lower Secondary Science | Mr Lim Yong Liang | [lim_yong_liang@moe.edu.sg@moe.edu.sg](mailto:lim_yong_liang@moe.edu.sg@moe.edu.sg) |
 | Chemistry / Lower Secondary Science / Mathematics | Mdm Zulaiha Osman | [zulaiha_osman@moe.edu.sg](mailto:zulaiha_osman@moe.edu.sg) |
 | Laboratory Technician | Mdm Dinah Tan Kwee Choo | [tan_kwee_choo@moe.edu.sg](mailto:tan_kwee_choo@moe.edu.sg) |
 | Laboratory Technician | Ms Khairunnisa Rahmat | [khairunnisa_rahmat@moe.edu.sg](mailto:khairunnisa_rahmat@moe.edu.sg) |
