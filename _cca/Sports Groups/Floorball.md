@@ -7,10 +7,11 @@ third_nav_title: Sports Groups
 ---
 ### **About us**
 
-In Pasir Ris Secondary School, 2024 marks the beginning of our Floorball CCA program. This year we are starting with our Secondary 2 boys from the various CCA groups. Floorball (Boys) will be offered as one of the Sports CCA for Secondary One students from 2025. Our members are guided by our team ethos of: Positive Winning **Attitude**, **Basics** to Perfection, **Communication**, **Discipline**, **Enthusiasm**, **Focus** and **Grit**. Our training framework which revolves around our A,B,Cs and 1, 2, 3s aims to develop our students into accomplished Sportsmen and Gentlemen who ***Play Hard, Play Smart and Play Together***.
+2024 marks the beginning of our Floorball CCA program. This year we are starting with our Secondary 2 boys from the various CCA groups. Floorball (Boys) will be offered as one of the Sports CCA for Secondary One students from 2025. Our members are guided by our team ethos of: Positive Winning **Attitude**, **Basics** to Perfection, **Communication**, **Discipline**, **Enthusiasm**, **Focus** and **Grit**. Our training framework which revolves around our A,B,Cs and 1, 2, 3s aims to develop our students into accomplished Sportsmen and Gentlemen who ***Play Hard, Play Smart and Play Together***.
 
 ### **Highlights**
-The boys are training towards participation in our maiden National School Games Floorball Championships 2024 (C-Division Boys). We are also looking forward to participation at the Pesta Sukan Floorball Challenge and the U16 Floorball League.
+
+Our boys participated in our maiden National School Games Floorball Championships 2024 (C-Division Boys) League 3. We also participatied at the U14 Pesta Sukan Floorball Challenge (Quarter-Finals) and U17 Pesta Sukan Floorball Challenge (Preliminary Round) in July
 
 ### **Schedule**
 
