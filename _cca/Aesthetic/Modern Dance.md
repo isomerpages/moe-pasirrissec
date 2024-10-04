@@ -58,6 +58,7 @@ Ms. Eunice Wee
 
 ### **Photos / Videos**
 
+![](/images/CCA/Dance/Modern_Dance_Website.jpg)
 ![](/images/CCA/Dance/Dance_Grid_01.jpg)
 ![](/images/Dance%201.png)
 ![](/images/Dance%20Photo%201.jpeg)
