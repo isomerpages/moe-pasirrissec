@@ -12,8 +12,8 @@ Please click&nbsp;[here](/files/Newsflash_Term_4_2024.pdf)&nbsp;to view our News
 
 Please click on the link to view the exams timetable.
 
-<strong>Secondary 1</strong><br>
-<a href="/files/Announcements/2024/2024_S1_EYE_Timetable_13Aug.pdf">Sec 1 End-of-Year Exam Timetable</a><br><br>
+<strong>Secondary 1</strong><br>[]()
+<a href="/files/Announcements/1a__2024_S1_EYE_Timetable_20Aug.pdf">Sec 1 End-of-Year Exam Timetable</a><br><br>
 <strong>Secondary 2</strong><br>
 <a href="/files/Announcements/2024/2024_2E_EYE_Timetable_13Aug.pdf">Sec 2 Express End-of-Year Exam Timetable</a>
 <br>
