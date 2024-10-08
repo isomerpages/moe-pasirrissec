@@ -7,7 +7,6 @@ variant: markdown
 ---
 ### **Programme**
 
-  
 <ul class="jekyllcodex_accordion">  
 <li>  
 &nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">  
@@ -42,7 +41,7 @@ variant: markdown
 <img src="/images/Room.jpeg">
 
 ### <p>Signature Program - Makers’ Education</p>  
-<p>Since 2019, the D&amp;T Unit has begun to shift in tandem with the national initiative towards “digital”.  As part of the shift, the department has acquired some prototyping capability such as laser cutting equipment, heat press machines and 3D printer. This will “empower” the D&amp;T Unit to gradually incorporate “Makers’ Education” as part of the department’s added focus to expose the students to prototype and test out their “ideas for school improvement” around them. Such opportunities will allow our students to experience a “real life” approach in problem solving as the students are able to “transform” their proposed ideas from sketches/drawings to actual real life application and/or implementation.</p>
+<p>Since 2019, the D&amp;T Unit has begun to shift in tandem with the national initiative towards “digital”.  As part of the shift, the department has acquired some prototyping capability such as laser cutting equipment, heat press machines and 3D printer. This will “empower” the D&amp;T Unit to gradually incorporate “Makers’ Education” as part of the department’s added focus to expose the students to prototype and test out their “ideas for school improvement” around them. Such opportunities will allow our students to experience a “real life” approach in problem solving as the students are able to “transform” their proposed ideas from sketches/drawings to actual real life application and or implementation.</p>
 
 <img src="/images/classroom.jpeg">
 
@@ -133,24 +132,23 @@ Art student putting up his finishing touch on his final artwork (his installatio
 			
 <p align="center">Source: MOE revised NFS syllabus</p>
 			
-<p>The unit adopts the inquiry-based pedagogical approach for the teaching and learning of Food Consumer Education (FCE) and Food and Nutrition (F&amp;N).</p>
+<p>The unit adopts the inquiry-based pedagogical approach for the teaching and learning of Food Consumer Education (FCE) and Nutrition and Food Science (NFS).</p>
 			
 <img src="/images/NFS%20Syllabus_2.png">
 			
 <p align="center">Source: MOE revised NFS syllabus</p>
 			
-<p>This approach focuses on providing students with an authentic problem context that allows students to relate and apply the knowledge gained in real-life situations, aligned with the development of 21st Century Competencies. The teaching of FCE and F&amp;N is a cyclical process where students’ engagement with a question or topic leads to intellectual exploration. This eventually leads to an explanation of the feature or process in the question and further leads to the application of their ideas. This process develops the students’ understanding and involves them in their own learning. </p>
+<p>This approach focuses on providing students with an authentic problem context that allows students to relate and apply the knowledge gained in real-life situations, aligned with the development of 21st Century Competencies. The teaching of FCE and NFS is a cyclical process where students’ engagement with a question or topic leads to intellectual exploration. This eventually leads to an explanation of the feature or process in the question and further leads to the application of their ideas. This process develops the students’ understanding and involves them in their own learning. </p>
 
 <p>This approach will lead to deeper acquisition of nutrition, meal-planning, principles of food science and understanding the link between diet and health. Students will also be equipped with the knowledge and skills to make informed decisions concerning food and nutrition.</p>
 
-<p>Programmes to enhance learning experiences of students</p>
-
-* <p>Project Food Culture – Learning Journey to Bollywood Veggies/ hawker centre food</p>
-* <p>Supermarket Tour @ NTUC, (Virtual Supermarket Tour was mounted during the Covid-19 period)</p>
-* <p>Sustainable Environment - Organic Farming at PRSS Eco-garden</p>
-* <p>Culinary workshops by professional chefs for both FCE and F&amp;N students</p>
-<p>Annual Tinkers’ Fest Activity – Internal competition; Craft the Cake and Pancake Art.</p>
-
+### <p>Programmes to enhance learning experiences of students</p>
+<br>
+</div></li><li>Sustainable Environment - Organic Farming at PRSS Eco-garden</li>
+<li>STEAM Carnival - Sandwich-making</li>  
+<li>Corteva Learning Journey - Learning and Discovering Science in Food through Experiment</li>
+	<li>Project Cupcake - Interdisciplinary project between FCE and Art</li>
+	
 ### <p>Experiential Learning (ExL) in action</p>
 
 <p>Learning journey to Bollywood Veggies (prior to Covid-19) to help students construct and retain knowledge better</p>
@@ -188,8 +186,8 @@ Art student putting up his finishing touch on his final artwork (his installatio
 			
 <img src="/images/food5.png">
 	
-</div>  
-</li>
+  
+
 
 <li>  
 &nbsp;&nbsp;&nbsp; <input type="checkbox" id="accordion4">  
