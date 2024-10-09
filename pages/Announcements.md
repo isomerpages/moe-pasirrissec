@@ -4,6 +4,9 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Collection of School Graduation Certificate (SGC) for 2023 Cohort
+Students from 2023 Sec 4NA, Sec 4 Exp, Sec 4NT and Sec 5NA cohorts may collect their SGC from the school General Office during office hours.
+
 #### PRSS Newsflash
 
 Please click&nbsp;[here](/files/Newsflash_Term_4_2024.pdf)&nbsp;to view our Newsflash for Term 4.
@@ -65,9 +68,6 @@ Please click [here](/files/Announcements/2024/Sem_2_TT_wef_24_Jun_for_S1.pdf) fo
 
 Please click [here](/files/Announcements/2024/Sem_2_TT_wef_24_Jun_for_S2___S5.pdf) for 2024 Sem 2 Timetable, Secondary 2 - 5 Classes.
 
-
-#### Collection of School Graduation Certificate (SGC) for 2023 Cohort
-Students from 2023 Sec 4 NA, Sec 4 Exp and Sec 5NA cohorts may collect their SGC from the school General Office during office hours.
 
 #### Launch of Subject Combination Microsite
 
