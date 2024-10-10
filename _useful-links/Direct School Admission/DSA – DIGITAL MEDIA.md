@@ -116,7 +116,7 @@ test to be successful in DSA.&nbsp;</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2024, 11am
 to 3 Jun 2024, 3pm. For more details, please refer to MOE website –&nbsp;
-<a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;</p>
+<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Certified true copies of certificates / documentary proof for the non-school
@@ -153,12 +153,7 @@ final.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application through the centralised DSA-Sec Portal
-<br>Mainstream students:&nbsp;<a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
-<a rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a>Non-mainstream students:&nbsp;<a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
-</p>
+<p>Application through the centralised DSA-Sec Portal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7 May 2024, 11am – 3 Jun 2024, 3pm</p>
