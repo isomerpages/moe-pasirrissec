@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Checking of Scripts Timetable for 14/10/24 till 17/10/24
+
+Please click [here](/files/Announcements/2024_ChkScript_TT_V1___Classes.pdf) to view the timetable.
+
 #### Collection of School Graduation Certificate (SGC) for 2023 Cohort
 Students from 2023 Sec 4NA, Sec 4 Exp, Sec 4NT and Sec 5NA cohorts may collect their SGC from the school General Office during office hours.
 
