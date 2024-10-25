@@ -16,6 +16,15 @@ sections:
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
   - infopic:
+      title: PRSS Open House
+      subtitle: ANNOUCEMENTS
+      id: infopic
+      description: To all P6 students and parents,  Join us at our open house on 23
+        November to find out about the school's programmes and CCAs. We look
+        forward to hosting you!
+      image: /images/2024_Open_House_Poster.png
+      alt: Image alt text
+  - infopic:
       title: PRSS 39th Anniversary
       subtitle: EVENTS
       id: infopic
