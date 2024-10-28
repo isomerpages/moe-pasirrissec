@@ -16,41 +16,60 @@ variant: tiptap
 </li>
 </ul>
 <h4><strong>Booklists for 2025</strong></h4>
+<p>The following are the booklists for the respective levels:</p>
+<p><strong>Secondary 1</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Announcements/2024/SECONDARY_ONE___FINAL__.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
+<p><a href="/files/Announcements/2024/SECONDARY_ONE___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
+</li>
+</ul>
+<p><strong>Secondary 2</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Announcements/2024/SECONDARY_TWO___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
+</li>
+</ul>
+<p><strong>Secondary 3</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Announcements/2024/SECONDARY_THREE_EXPRESS___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 3 Express</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Announcements/2024/SECONDARY_TWO___FINAL__.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
+<p><a href="/files/Announcements/2024/SECONDARY_THREE_NA___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 3 NA</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Announcements/2024/SECONDARY_THREE_EXPRESS___FINAL__.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Express</a>
+<p><a href="/files/Announcements/2024/SECONDARY_THREE_NT___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 3 NT</a>
+</p>
+</li>
+</ul>
+<p><strong>Secondary 4</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Announcements/2024/SECONDARY_FOUR_EXPRESS___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 4 Express</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Announcements/2024/SECONDARY_THREE_NA___FINAL__.pdf" rel="noopener nofollow" target="_blank">Secondary 3 NA</a>
+<p><a href="/files/Announcements/2024/SECONDARY_FOUR_NA___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 4 NA</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Announcements/2024/SECONDARY_THREE_NT___FINAL__.pdf" rel="noopener nofollow" target="_blank">Secondary 3 NT</a>
+<p><a href="/files/Announcements/2024/SECONDARY_FOUR_NT___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 4 NT</a>
 </p>
 </li>
-<li>
-<p><a href="/files/Announcements/2024/SECONDARY_FOUR_EXPRESS___FINAL__.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Express</a>
+</ul>
+<p><strong>Secondary 5</strong>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Announcements/2024/SECONDARY_FOUR_NA___FINAL__.pdf" rel="noopener nofollow" target="_blank">Secondary 4 NA</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Announcements/2024/SECONDARY_FOUR_NT___FINAL__.pdf" rel="noopener nofollow" target="_blank">Secondary 4 NT</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Announcements/2024/SECONDARY_FIVE_NA___FINAL__.pdf" rel="noopener nofollow" target="_blank">Secondary 5 NA</a>
+<p><a href="/files/Announcements/2024/SECONDARY_FIVE_NA___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 5 NA</a>
 </p>
 </li>
 </ul>
