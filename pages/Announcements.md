@@ -4,7 +4,7 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### PRSS Sale of Uniforms and Booklist for 2025
+#### Sale of uniforms and booklists for 2025
 
 Please click [here](/useful-links/information-for-parents/booklist/) to view the sale of uniforms and booklist.
 
