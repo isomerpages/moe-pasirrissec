@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### PRSS Sale of Uniforms and Booklist for 2025
 
-Please click [here]()here to view the sale of uniforms and booklist.
+Please click [here](/useful-links/information-for-parents/booklist/) to view the sale of uniforms and booklist.
 
 
 #### Checking of Scripts Timetable for 14/10/24 till 17/10/24
