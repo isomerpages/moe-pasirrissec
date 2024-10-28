@@ -4,9 +4,9 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### Sale of uniforms and booklists for 2025
+#### 2025 Booklists and Sale of School Uniform
 
-Please click [here](/useful-links/information-for-parents/booklist/) to view the sale of uniforms and booklist.
+Please click [here](/useful-links/information-for-parents/booklist/) to view the 2025 booklists and sale of school uniform.
 
 
 #### Checking of Scripts Timetable for 14/10/24 till 17/10/24
