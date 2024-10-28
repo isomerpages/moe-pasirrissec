@@ -4,6 +4,11 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 2025 Booklists and Sale of School Uniform
+
+Please click [here](/useful-links/information-for-parents/booklist/) to view the 2025 booklists and sale of school uniform.
+
+
 #### Checking of Scripts Timetable for 14/10/24 till 17/10/24
 
 Please click [here](/files/Announcements/2024_ChkScript_TT_V1___Classes.pdf) to view the timetable.
