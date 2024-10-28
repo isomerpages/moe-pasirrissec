@@ -41,7 +41,7 @@ variant: tiptap
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Announcements/2024/SECONDARY_THREE_EXPRESS___FINAL__.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Express Booklist </a>
+<p><a href="/files/Announcements/2024/SECONDARY_THREE_EXPRESS___FINAL__.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Express Booklist</a>
 </p>
 <p><a href="/files/Announcements/2024/SECONDARY_THREE_NA___FINAL__.pdf" rel="noopener nofollow" target="_blank">Secondary 3 NA Booklist</a>
 </p>
