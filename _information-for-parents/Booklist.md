@@ -4,9 +4,6 @@ permalink: /useful-links/Information-for-Parents/Booklist/
 description: ""
 variant: tiptap
 ---
-<p><strong>Secondary 1</strong>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -18,7 +15,7 @@ variant: tiptap
 <p>Levels</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>2025 Booklist</p>
+<p>Booklist for 2025</p>
 </th>
 </tr>
 <tr>
