@@ -108,30 +108,27 @@ In PRSS, we also engage student leaders to lead Cyber Wellness peer advocacy pro
 
 To further develop and share our expertise in Cyber Wellness, the school presented our Cyber Wellness programme at the National Cyber Wellness STAR Award Conference 2015, Cyber Wellness Connexion 2017, National Cyber Wellness Student Ambassador Summit 2017 and National CW Connexion 2019. Our student leaders have also participated in competitions such as Cyber Warriors Challenge and National Cyber Wellness Advocacy Challenge. At the NCAC 2016, our school teams won the First and Third Prize. Our student, Ong Jiang En was also awarded the National Cyber Wellness Student Ambassador Award in 2017. Terry Teng Joon Seng, President of the Student Council was also awarded the National Cyber Wellness Student Ambassador Award in 2019. We also participated in Design For Good Competition 2021 (Cyber Wellness poster), and our student Rachel Tan received the Commendation Medal. In 2022, our team of students (Ryan Qiu, Samakya, Tan Aik Wee, Mohd Ibrahim, Davwin Arinze) also won the National Cyber Wellness Advocacy Challenge - Gold Award. In 2024, our school has co-organised a National Cyber Wellness Competition with IMDA.
 
-<img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise.jpeg" style="width:50%;float:left"><img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%202.jpeg" style="width:50%">
-<img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%203.jpeg" style="width:50%;float:left"><img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%204.jpeg" style="width:50%;float:left"><img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%205.jpeg" style="width:50%">
+<img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise.jpeg" style="width:50%;float:left"><img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%202.jpeg" style="width:50%"><img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%203.jpeg" style="width:50%;float:left"><img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%204.jpeg" style="width:50%;float:left"><img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%205.jpeg" style="width:50%">
 <br><br>
 <img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%206.jpeg" style="width:50%">
-<center>Presentation at National Cyber Wellness student conferences and winning the 1st and 3rd Prize at National Cyber Wellness Advocacy Challenge
-in 2014-2018.</center>
+<center><i>Presentation at National Cyber Wellness student conferences and winning the 1st and 3rd Prize at National Cyber Wellness Advocacy Challenge
+	in 2014-2018.</i></center>
 
 ![](/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%207.jpeg)
-
-<center>Ong Jiang En, Cyber Wellness Student Ambassdor Awardee 2017</center>
+<center><i>Ong Jiang En, Cyber Wellness Student Ambassdor Awardee 2017</i></center>
 
 <img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%208.jpeg" style="width:50%">
 
-<center>Miss Mavis Ho sharing about the school's holistic  
-Cyber Wellness programme to other Cyber Wellness Coordinators at Cyber Wellness Connexion Conference 2018.</center>
+<center><i>Our teacher-in-charge sharing about the school's holistic Cyber Wellness programme to other Cyber Wellness Coordinators at Cyber Wellness Connexion Conference</i></center>
 
 ![](/images/terry%20award.jpeg)
-<center>Terry Teng, Cyber Wellness Student Ambassador Awardee 2019</center>
+<center><i>Terry Teng, Cyber Wellness Student Ambassador Awardee 2019</i></center>
 
 ![](/images/be%20the%20change_1.jpeg)
-<center> Winning the Top Prize at Design For Change Challenge in 2019.</center>
+<center><i>Winning the Top Prize at Design For Change Challenge in 2019</i></center>
 
 <img src="/images/Terry%20individual.jpeg" style="width:35%;float:left"><img src="/images/be%20the%20change_2.jpeg" style="width:65%">
-<center>Sharing their aspirations for the online sphere.</center>
+<center><i>Sharing their aspirations for the online sphere</i></center>
 
 ![](/images/CCE/CW/Cyberwellness_DFG_Competition_2021_Rachel_Tan.jpg)
 <center><i>Our student, Rachel Tan winning the Design For Good Competition 2021</i></center>
