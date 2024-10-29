@@ -2,8 +2,9 @@
 title: School Transfer
 permalink: /information-for-parents/schooltransfer/
 description: ""
+variant: markdown
 ---
-**SCHOOL TRANSFER**
+
 
 Please fill in the [School Transfer Form](https://form.gov.sg/617fb45aee5430001395dfe9)&nbsp; if you wish to place your child on our school transfer Wait List. 
 
