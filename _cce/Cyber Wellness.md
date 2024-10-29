@@ -151,6 +151,10 @@ We have engaged the support of other organisations such as Singapore Kindness Mo
 		 <img src="/images/Partnership%206.jpeg" style="width:50%;float:left"><img src="/images/Partnership%207.jpeg" style="width:50%">
 		 <img src="/images/Partnership%208.jpeg" style="width:50%;float:left"><img src="/images/Partnership%209.jpeg" style="width:50%">
 		 
+This year, our school has partnered Infocomm Media Development Authority (IMDA) to co-organize the inaugural National Cyber Wellness Competition, an event aimed at empowering students to become responsible, savvy, and positive digital citizens. With over 100 submissions from primary and secondary schools across Singapore, the competition encouraged students to explore essential themes like online safety, digital empathy, and ethical online behaviour. We played an active role in shaping the competition’s structure and content, nurturing a generation of youth who can confidently navigate the digital world and positively influence their peers. The competition highlighted the significance of cyber wellness advocacy and inspired participants to lead the way in promoting safe and responsible online behaviour.
+
+Our Competition Website: [https://go.gov.sg/ncw2024](https://go.gov.sg/ncw2024)
+		 
 #### **Cyber Bullying hurts more than you think**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OYQjjr9hfjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
