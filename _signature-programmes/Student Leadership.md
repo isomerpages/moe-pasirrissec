@@ -41,9 +41,9 @@ Nominations are made by teachers, peers and aspiring student leaders themselves.
 ![](/images/Signature%20Programmes/Student%20Leadership/4a__NEW__Student_Leadership_Nexus_1.jpg)<center><b><i>Student Leadership Nexus organised by 28th Student Council EXCO<i></i></i></b></center><b><i><i>
 ![](/images/Signature%20Programmes/Student%20Leadership/4b__NEW__Student_Leadership_Nexus_2JPG.jpg)<center><b><i>Student Leadership Nexus organised by 28th Student Council EXCO</i></b></center><b>
 	
-![](/images/Signature%20Programmes/Student%20Leadership/5_Class_Leaders_and_Peer_Support_Leaders_Appointment_Ceremony__resize_.jpg)<center><b><i>Class Leaders and Peer Support Leaders Appointment Ceremony</i></b></center><b>
+![](/images/Signature%20Programmes/Student%20Leadership/5_Class_Leaders_and_Peer_Support_Leaders_Appointment_Ceremony__resize_.jpg)<center><i>Class Leaders and Peer Support Leaders Appointment Ceremony</i></center>
 
 ![](/images/Signature%20Programmes/Student%20Leadership/6__NEW__PRSSCares_Movement.jpg)<center><i>#PRSSCares initiative by Peer Support Leaders</i></center>
 
 ![](/images/Signature%20Programmes/Student%20Leadership/7__NEW__CCA_Leadership_Handover_Ceremony.jpg)<center><i>CCA Leadership Handover Ceremony</i></center>
-</b></b></i></i></b></b>
+</b></i></i></b></b>
