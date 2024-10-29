@@ -20,7 +20,6 @@ To be granted LOA, your child must fulfil all three of the following criteria:
 
 More details on the LOA scheme can be found on MOE [Overview of school admissions for Returning Singaporeans](https://www.moe.gov.sg/returning-singaporeans) website.  
 
-  
+##### Application
 
-##### **Application**
-Click [here](https://form.gov.sg/6137f769a456b800126aa271) if you wish to apply for the LOA scheme for your child. Please note that the LOA application is subject to the Principal's approval, and the school will notify you of the outcome.
+Please submit the [Application Form for Leave of Absence](https://form.gov.sg/6137f769a456b800126aa271) if you wish to apply for the LOA scheme for your child. Please note that the LOA application is subject to the Principal's approval, and the school will notify you of the outcome.
