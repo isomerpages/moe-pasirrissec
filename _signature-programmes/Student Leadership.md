@@ -33,11 +33,12 @@ Nominations are made by teachers, peers and aspiring student leaders themselves.
 ![](/images/Signature%20Programmes/Student%20Leadership/3__NEW__Student_Council.jpg)
 <center><i>28th Student Council Ex-Co (2024/2025)</i></center>
 
-![](/images/Signature%20Programmes/Student%20Leadership/4_Student_Leadership_Exchange_organised_by_SC_EXCO.jpg)
-<center><i>Inter-Schools Student Leadership Exchange organised by 27th Student Council Ex-Co</i></center>
-
-![](/images/Signature%20Programmes/Student%20Leadership/5_Class_Leaders_and_Peer_Support_Leaders_Appointment_Ceremony__resize_.jpg)
+![](/images/Signature%20Programmes/Student%20Leadership/4a__NEW__Student_Leadership_Nexus_1.jpg)<center><i>Student Leadership Nexus organised by 28th Student Council EXCO<i></i></i></center><i><i>
+![](/images/Signature%20Programmes/Student%20Leadership/4b__NEW__Student_Leadership_Nexus_2JPG.jpg)
+	![]<center><i>Student Leadership Nexus organised by 28th Student Council EXCO</i></center>
+	
+	(/images/Signature%20Programmes/Student%20Leadership/5_Class_Leaders_and_Peer_Support_Leaders_Appointment_Ceremony__resize_.jpg)
 <center><i>Class Leaders and Peer Support Leaders Appointment Ceremony</i></center>
 
 ![](/images/CCA%20Leaders.jpeg)
-<center><i>CCA Leaders</i></center><i></i>
+<center><i>CCA Leaders</i></center><i></i></i></i>
