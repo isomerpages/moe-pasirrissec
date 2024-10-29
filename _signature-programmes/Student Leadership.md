@@ -38,7 +38,7 @@ Nominations are made by teachers, peers and aspiring student leaders themselves.
 ![](/images/Signature%20Programmes/Student%20Leadership/3__NEW__Student_Council.jpg)
 <center><i>28th Student Council Ex-Co (2024/2025)</i></center>
 
-![](/images/Signature%20Programmes/Student%20Leadership/4a__NEW__Student_Leadership_Nexus_1.jpg)<center><i>Student Leadership Nexus organised by 28th Student Council EXCO<i></i></i></center><i><i>
+![](/images/Signature%20Programmes/Student%20Leadership/4a__NEW__Student_Leadership_Nexus_1.jpg)<center><i>Student Leadership Nexus organised by 28th Student Council EXCO</i></center>
 	
 ![](/images/Signature%20Programmes/Student%20Leadership/4b__NEW__Student_Leadership_Nexus_2JPG.jpg)<center><i>Student Leadership Nexus organised by 28th Student Council EXCO</i></center>
 	
@@ -47,4 +47,3 @@ Nominations are made by teachers, peers and aspiring student leaders themselves.
 ![](/images/Signature%20Programmes/Student%20Leadership/6__NEW__PRSSCares_Movement.jpg)<center><i>#PRSSCares initiative by Peer Support Leaders</i></center>
 
 ![](/images/Signature%20Programmes/Student%20Leadership/7__NEW__CCA_Leadership_Handover_Ceremony.jpg)<center><i>CCA Leadership Handover Ceremony</i></center>
-</i></i>
