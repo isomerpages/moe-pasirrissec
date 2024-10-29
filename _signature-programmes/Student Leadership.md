@@ -22,7 +22,7 @@ The Pegasus Programme adopts a 4-tier structure, guided by a progressive 4Es app
 Our student leadership development approach is aligned with The Leadership Challenge Model developed by Jim Kouzes and Barry Posner. Students will develop their competencies in line with the Five Practices of Exemplary Leadership espoused by this model, namely 1) Model The Way, 2) Enable Others to Act, 3) Challenge The Process, 4) Inspire A Shared Vision and 5) Encourage The Heart.
 
 ![](/images/Signature%20Programmes/Student%20Leadership/2_Leadership_Challenge_Model.png)
-<p align="center"><i>Five Practices of Exemplary Leadership (https://organizationalperformancegroup.com/)</i></p>
+<p align="center">Five Practices of Exemplary Leadership (https://organizationalperformancegroup.com)</p>
 
 Students’ leadership knowledge, skills, dispositions and values are developed through a <b>continuum of training opportunities</b>, such as workshops, lectures, seminars, camps and external leadership programmes. Student Leaders then transfer their learning into <b>authentic practices through various empowering platforms</b> as they serve the school, lead their peers and excel in their pursuits in life. 
 
