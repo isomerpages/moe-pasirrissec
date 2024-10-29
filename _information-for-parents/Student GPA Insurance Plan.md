@@ -4,7 +4,7 @@ permalink: /useful-links/Information-for-Parents/Student-GPA-Insurance-Plan/
 description: ""
 variant: markdown
 ---
-All students are covered by the Group Personal Accident (GPA) Insurance Plan which covers death, permanent and total/partial disability and medical expenses due to an accident.
+All students are covered by the Student Group Personal Accident (GPA) Insurance Plan which covers death, permanent and total/partial disability and medical expenses due to an accident.
 
 The GPA Insurance covers each student when that student is:
 
