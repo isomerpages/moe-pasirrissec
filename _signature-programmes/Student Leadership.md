@@ -22,22 +22,28 @@ The Pegasus Programme adopts a 4-tier structure, guided by a progressive 4Es app
 Our student leadership development approach is aligned with The Leadership Challenge Model developed by Jim Kouzes and Barry Posner. Students will develop their competencies in line with the Five Practices of Exemplary Leadership espoused by this model, namely 1) Model The Way, 2) Enable Others to Act, 3) Challenge The Process, 4) Inspire A Shared Vision and 5) Encourage The Heart.
 
 ![](/images/Signature%20Programmes/Student%20Leadership/2_Leadership_Challenge_Model.png)
-<p align="center"><i>Five Practices of Exemplary Leadership (https://organizationalperformancegroup.com/)</i></p>
+<p align="center"><i><b>Five Practices of Exemplary Leadership (https://organizationalperformancegroup.com/)</b></i></p>
 
-Students’ leadership knowledge, skills, dispositions and values are developed through a continuum of training opportunities, such as workshops, lectures, seminars, camps and external leadership programmes. Student Leaders then transfer their learning into authentic practices through various empowering platforms as they serve the school, lead their peers and excel in their pursuits in life. 
+Students’ leadership knowledge, skills, dispositions and values are developed through a <b>continuum of training opportunities</b>, such as workshops, lectures, seminars, camps and external leadership programmes. Student Leaders then transfer their learning into <b>authentic practices through various empowering platforms</b> as they serve the school, lead their peers and excel in their pursuits in life. 
 
-PRSS Student Leader Group comprises the Student Councillors, Class Leaders Committees, Peer Support Leaders and CCA Leaders. These Student Leaders are identified and selected based on the following four criteria: - Leadership potential - Willingness to serve the school and community - Good academic performance - Good discipline record 
+PRSS Student Leader Group comprises the Student Councillors, Class Leaders Committees, Peer Support Leaders and CCA Leaders. These Student Leaders are identified and selected based on the following four criteria: 
+
+* Leadership potential
+* Willingness to serve the school and community
+* Good academic performance
+* Good discipline record 
 
 Nominations are made by teachers, peers and aspiring student leaders themselves. The eventual appointment will be based on students’ continued good performance and positive assessment by school leaders, teachers and peers.
 
 ![](/images/Signature%20Programmes/Student%20Leadership/3__NEW__Student_Council.jpg)
-<center><i>28th Student Council Ex-Co (2024/2025)</i></center>
+<center><i><b>28th Student Council Ex-Co (2024/2025)</b></i></center><b>
 
-![](/images/Signature%20Programmes/Student%20Leadership/4a__NEW__Student_Leadership_Nexus_1.jpg)<center><i>Student Leadership Nexus organised by 28th Student Council EXCO<i></i></i></center><i><i>
-![](/images/Signature%20Programmes/Student%20Leadership/4b__NEW__Student_Leadership_Nexus_2JPG.jpg)<center><i>Student Leadership Nexus organised by 28th Student Council EXCO</i></center>
+![](/images/Signature%20Programmes/Student%20Leadership/4a__NEW__Student_Leadership_Nexus_1.jpg)<center><b><i>Student Leadership Nexus organised by 28th Student Council EXCO<i></i></i></b></center><b><i><i>
+![](/images/Signature%20Programmes/Student%20Leadership/4b__NEW__Student_Leadership_Nexus_2JPG.jpg)<center><b><i>Student Leadership Nexus organised by 28th Student Council EXCO</i></b></center><b>
 	
-![](/images/Signature%20Programmes/Student%20Leadership/5_Class_Leaders_and_Peer_Support_Leaders_Appointment_Ceremony__resize_.jpg)
-<center><i>Class Leaders and Peer Support Leaders Appointment Ceremony</i></center>
+![](/images/Signature%20Programmes/Student%20Leadership/5_Class_Leaders_and_Peer_Support_Leaders_Appointment_Ceremony__resize_.jpg)<center><b><i>Class Leaders and Peer Support Leaders Appointment Ceremony</i></b></center><b>
 
-![](/images/CCA%20Leaders.jpeg)
-<center><i>CCA Leaders</i></center><i></i></i></i>
+![](/images/Signature%20Programmes/Student%20Leadership/6__NEW__PRSSCares_Movement.jpg)<center><i><b>#PRSSCares initiative by Peer Support Leaders</b></i></center><b>
+
+![](/images/Signature%20Programmes/Student%20Leadership/7__NEW__CCA_Leadership_Handover_Ceremony.jpg)<center><i><b>CCA Leadership Handover Ceremony</b></i></center><b>
+</b></b></b></b></i></i></b></b>
