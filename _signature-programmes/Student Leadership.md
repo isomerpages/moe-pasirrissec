@@ -17,7 +17,7 @@ With a structured and comprehensive four-years programme that provides leadershi
 
 The Pegasus Programme adopts a 4-tier structure, guided by a progressive 4Es approach (Experience, Engage, Empower, Encourage) to cater to students’ readiness and aspirations.
 
-![](/images/Signature%20Programmes/Student%20Leadership/1_Student_Leadership_Development_Tier.png)
+![](/images/Signature%20Programmes/Student%20Leadership/1__NEW__Student_Leadership_Development_Tier_png.png)
 
 
 Our student leadership development approach is aligned with The Leadership Challenge Model developed by Jim Kouzes and Barry Posner. Students will develop their competencies in line with the Five Practices of Exemplary Leadership espoused by this model, namely 1) Model The Way, 2) Enable Others to Act, 3) Challenge The Process, 4) Inspire A Shared Vision and 5) Encourage The Heart.
