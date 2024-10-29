@@ -43,7 +43,7 @@ Nominations are made by teachers, peers and aspiring student leaders themselves.
 	
 ![](/images/Signature%20Programmes/Student%20Leadership/5_Class_Leaders_and_Peer_Support_Leaders_Appointment_Ceremony__resize_.jpg)<center><b><i>Class Leaders and Peer Support Leaders Appointment Ceremony</i></b></center><b>
 
-![](/images/Signature%20Programmes/Student%20Leadership/6__NEW__PRSSCares_Movement.jpg)<center><i><b>#PRSSCares initiative by Peer Support Leaders</b></i></center><b>
+![](/images/Signature%20Programmes/Student%20Leadership/6__NEW__PRSSCares_Movement.jpg)<center><i>#PRSSCares initiative by Peer Support Leaders</i></center>
 
-![](/images/Signature%20Programmes/Student%20Leadership/7__NEW__CCA_Leadership_Handover_Ceremony.jpg)<center><i><b>CCA Leadership Handover Ceremony</b></i></center><b>
-</b></b></b></b></i></i></b></b>
+![](/images/Signature%20Programmes/Student%20Leadership/7__NEW__CCA_Leadership_Handover_Ceremony.jpg)<center><i>CCA Leadership Handover Ceremony</i></center>
+</b></b></i></i></b></b>
