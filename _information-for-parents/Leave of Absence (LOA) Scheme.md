@@ -2,23 +2,23 @@
 title: Leave of Absence (LOA) Scheme
 permalink: /useful-links/Information-for-Parents/Leave-of-Absence-LOA-Scheme/
 description: ""
+variant: markdown
 ---
-The LOA scheme allows your child to rejoin their school after they return from overseas.
+The Leave of Absence (LOA) scheme allows your child to rejoin their school after they return from overseas.
 
 If your child is granted LOA, they will remain as a registered student of the school. They can then be re-admitted to the school directly after returning to Singapore.
 
-  
+##### Eligibility
 
-##### **Eligibility**
-LOA applies to all SC and PR children in primary school, secondary school, junior colleges and Millennia Institute.  
+LOA applies to all Singapore Citizens (SC) and Permanent Resident (PR) children in primary school, secondary school, junior colleges and Millennia Institute.  
 
-To be granted LOA, your child must fulfil all 3 of the following criteria:
+To be granted LOA, your child must fulfil all three of the following criteria:
 
 * An SC or PR.
 * Presently studying in a Singapore school.
 * Accompanying you on an overseas posting with the intention of rejoining their school after returning to Singapore.
 
-More details on the LOA scheme can be found on the MOE website [here](https://www.moe.gov.sg/returning-singaporeans).  
+More details on the LOA scheme can be found on MOE [Overview of school admissions for Returning Singaporeans](https://www.moe.gov.sg/returning-singaporeans) website.  
 
   
 
