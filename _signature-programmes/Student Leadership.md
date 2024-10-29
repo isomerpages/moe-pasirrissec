@@ -19,7 +19,6 @@ The Pegasus Programme adopts a 4-tier structure, guided by a progressive 4Es app
 
 ![](/images/Signature%20Programmes/Student%20Leadership/1__NEW__Student_Leadership_Development_Tier_png.png)
 
-
 Our student leadership development approach is aligned with The Leadership Challenge Model developed by Jim Kouzes and Barry Posner. Students will develop their competencies in line with the Five Practices of Exemplary Leadership espoused by this model, namely 1) Model The Way, 2) Enable Others to Act, 3) Challenge The Process, 4) Inspire A Shared Vision and 5) Encourage The Heart.
 
 ![](/images/Signature%20Programmes/Student%20Leadership/2_Leadership_Challenge_Model.png)
@@ -31,8 +30,8 @@ PRSS Student Leader Group comprises the Student Councillors, Class Leaders Commi
 
 Nominations are made by teachers, peers and aspiring student leaders themselves. The eventual appointment will be based on students’ continued good performance and positive assessment by school leaders, teachers and peers.
 
-![](/images/Signature%20Programmes/Student%20Leadership/3_Student_Council.jpg)
-<center><i>27th Student Council Ex-Co (2023/2024)</i></center>
+![](/images/Signature%20Programmes/Student%20Leadership/3__NEW__Student_Council.jpg)
+<center><i>28th Student Council Ex-Co (2024/2025)</i></center>
 
 ![](/images/Signature%20Programmes/Student%20Leadership/4_Student_Leadership_Exchange_organised_by_SC_EXCO.jpg)
 <center><i>Inter-Schools Student Leadership Exchange organised by 27th Student Council Ex-Co</i></center>
