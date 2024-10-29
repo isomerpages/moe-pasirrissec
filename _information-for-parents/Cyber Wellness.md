@@ -25,9 +25,8 @@ Parents can boost schools’ efforts in promoting Cyber Wellness by setting a go
 ![](/images/See%20you%20next%20time.png)
 
 <img src="/images/image015.png" style="width:50%;float:left">
-Please share this email with your PSG members and friends, and connect with us on [MOE Facebook](https://www.facebook.com/moesingapore/?fref=ts), [MOE X](https://twitter.com/moesg?lang=en)[MOE Instagram](https://www.instagram.com/moesingapore/)and [MOE YouTube channel](https://www.youtube.com/user/MOESpore). You can also visit[Schoolbag](https://www.schoolbag.sg/)&nbsp;&nbsp;website for more education news, and stories on school programmes and activities. If you have any questions or comments for us on our updates, you can email us at&nbsp;&nbsp;[Engagement@moe.gov.sg](mailto:Engagement@moe.gov.sg)&nbsp;. To ensure delivery to your inbox, please add&nbsp;&nbsp;[Engagement@moe.gov.sg](mailto:Engagement@moe.gov.sg)&nbsp;&nbsp;to your address book . If you do not wish to receive future emails from us, you may email us to unsubscribe.
+Please share this email with your PSG members and friends, and connect with us on [MOE Facebook](https://www.facebook.com/moesingapore/?fref=ts), [MOE X](https://twitter.com/moesg?lang=en)[MOE Instagram](https://www.instagram.com/moesingapore/)and [MOE YouTube channel](https://www.youtube.com/user/MOESpore). You can also visit[Schoolbag](https://www.schoolbag.edu.sg/) website for more education news, and stories on school programmes and activities. If you have any questions or comments for us on our updates, you can email us at [Engagement@moe.gov.sg](mailto:Engagement@moe.gov.sg). To ensure delivery to your inbox, please add [Engagement@moe.gov.sg](mailto:Engagement@moe.gov.sg)to your address book. If you do not wish to receive future emails from us, you may email us to unsubscribe.
 
 ### Tips on Excessive Internet Use
-==============================
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NJYUVyYMeEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
