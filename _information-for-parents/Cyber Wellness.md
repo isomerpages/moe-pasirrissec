@@ -22,8 +22,6 @@ Parents can boost schools’ efforts in promoting Cyber Wellness by setting a go
 
 ![](/images/image012.png)
 
-MOE has also developed other CW resources for parents, such as guides and tips related to ‘Scams’ and ‘Danger with Cyber Contacts’, as well as C-Quest, a resource to help parents talk about CW with their&nbsp;children.&nbsp; You can access all these resources on MOE’s ICT Connection website&nbsp;&nbsp;[here](https://www.moe.gov.sg/programmes/cyber-wellness)&nbsp;.
-
 ![](/images/See%20you%20next%20time.png)
 
 <img src="/images/image015.png" style="width:50%;float:left">
