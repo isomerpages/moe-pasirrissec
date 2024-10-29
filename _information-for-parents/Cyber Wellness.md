@@ -2,6 +2,7 @@
 title: Cyber Wellness
 permalink: /useful-links/Information-for-Parents/Cyber-Wellness/
 description: ""
+variant: markdown
 ---
 ![](/images/image003.jpeg)
 
@@ -13,7 +14,7 @@ description: ""
 
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and being aware of how to protect oneself in cyberspace. The focus of CW in our schools is to help children navigate cyberspace, respectfully, safely and responsibly. They should also be a positive peer influence by using technology to enhance collaboration, learning and productivity, as well as advocate the positive use of technology.
 
-To find out more about the CW curriculum, click on the image or on the link&nbsp;&nbsp;[here](https://www.moe.gov.sg/programmes/cyber-wellness)&nbsp;.
+To find out more about the CW curriculum and resources, visit MOE [Practicising Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness) website.
 
 ![](/images/Cyber%20wellness%20resources.png)
 
