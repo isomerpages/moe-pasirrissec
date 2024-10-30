@@ -65,15 +65,15 @@ The four key messages for students are:
 
 Lessons are delivered via the Character and Citizenship Education (CCE) curriculum in PRSS. Key CW topics are also incorporated in subjects such as English and Mother Tongue Languages.
 
-#### CW Curriculum at a glance
+#### Cyber Wellness Curriculum at a glance
 
 ![](/images/CW.png)
 
-Taken from MOE website: [Practicising CyberWellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
+Extracted from MOE (2024, Oct 02) [Practising Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 
 #### Sense-Think-Act @ Home
 
-To complement the CW curriculum in schools, parents can set a good example at home in the use of technology and play an active role in guiding our children to navigate in cyberspace.&nbsp;In partnership with parents, we also organise parenting workshops for parents during PTMs to learn more about what teenagers do online and how to effectively manage some of the challenges they face in managing their children’s online behaviour.
+To complement the Cyber Wellness curriculum in schools, parents can set a good example at home in the use of technology and play an active role in guiding our children to navigate in cyberspace.&nbsp;In partnership with parents, we also organise parenting workshops for parents during PTMs to learn more about what teenagers do online and how to effectively manage some of the challenges they face in managing their children’s online behaviour.
 
 To ensure that their children are safe and have positive experiences online, parents can:
 
@@ -81,7 +81,7 @@ To ensure that their children are safe and have positive experiences online, par
 
 The Cyber Wellness programme in PRSS aim to equip students with the knowledge, skills and values to exhibit appropriate behaviour when interacting with other cyber users to advocate a safe and healthy cyber community.
 
-#### Training and workshops
+#### Training and Workshops
 
 We organise trainings for our leaders and students to internalise the Cyber Wellness key messages. In 2023, we organised the NCAC enrichment module so that our student leaders are equipped with the key leadership skills to champion CW.
 
