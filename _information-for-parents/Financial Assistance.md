@@ -6,11 +6,11 @@ variant: markdown
 ---
 Singapore Citizens in government, government-aided, specialized, and some independent schools who are in financial need can get assistance from MOE on school fees and other expenses.
 
-Eligibility and benefits of the MOE Financial Assistance Scheme (MOE-FAS) are available at the official [MOE Financial Assistance](https://www.moe.gov.sg/financial-matters/financial-assistance) website.
+Eligibility and benefits of the MOE Financial Assistance Scheme (MOE-FAS) are available on the [MOE Financial Assistance](https://www.moe.gov.sg/financial-matters/financial-assistance) website.
 
 #### MOE Financial Assistance
 
-If you wish to apply, you can apply&nbsp;[online](https://form.gov.sg/64e2f8f73f582600139f54ac) or submit the MOE Financial Assistance Form&nbsp;found below to the school’s Admin Office.
+If you wish to apply, you can submit the online [MOE FAS Application Form](https://form.gov.sg/64e2f8f73f582600139f54ac) or download and submit the MOE Financial Assistance Form below to the school’s Admin Office.
 
 <style>
 table, th, td {
