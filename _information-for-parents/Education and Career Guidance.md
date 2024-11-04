@@ -58,7 +58,8 @@ Download the attachment for a clearer version of the poster.
 <br>
 <br>
 <br>
-
+<br>
+<br>
 <img src="/images/ECG4.jpeg" style="width:50%;float:left">
 
 Browse through this [e-book](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.pdf) which features 54 individuals go through diverse education and career pathways. The inspirational narratives highlight the many options that cater to the students' needs and can help them discover their selected pathways.
