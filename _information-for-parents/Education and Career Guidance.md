@@ -36,8 +36,6 @@ The ECG curriculum aims to:
     
 To find out more and learn about the ECG curriculum, visit the MOE [Education and Career Guidance](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview) website.
 
-
-
 ### My Skills Future Portal  
 
 <img src="/images/Skill%20Future%20Portal.png" style="width:50%;float:left"> 
