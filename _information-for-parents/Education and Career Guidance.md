@@ -44,9 +44,6 @@ To find out more and to learn about the ECG curriculum, click on the thumbnail o
   
 Please click on the image for the instructions to log in to [MySkillsFuture portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html) using your child's account.
 
-
-
-
 <img src="/images/ECG2.jpeg" style="width:50%;float:left">
 
 
@@ -81,7 +78,7 @@ What topics would you like to know to support your child’s holistic developmen
  
 We want to hear from you to find out how we can support you! 
 
-Please share this with your Parent Support Group (PSG) members and friends, and connect with us on [MOE Facebook](https://www.facebook.com/moesingapore), [Twitter](https://twitter.com/MOEsg), [Instagram](https://www.instagram.com/moesingapore/), [YouTube channel](http://www.youtube.com/channel/UC8PAXQlNeQ5w4n4uKC0hRmw). You can also [Schoolbag](https://www.schoolbag.edu.sg) website for more education news, and stories on school programmes and activities. 
+Please share this with your Parent Support Group (PSG) members and friends, and connect with us on [MOE Facebook](https://www.facebook.com/moesingapore), [X](https://twitter.com/MOEsg), [Instagram](https://www.instagram.com/moesingapore/), [YouTube channel](http://www.youtube.com/channel/UC8PAXQlNeQ5w4n4uKC0hRmw). You can also [Schoolbag](https://www.schoolbag.edu.sg) website for more education news, and stories on school programmes and activities. 
 
 If you have any questions or comments for us on our updates, you can email us at [Engagement@moe.gov.sg](mailto:Engagement@moe.gov.sg). To ensure delivery to your inbox, please add [Engagement@moe.gov.sg](mailto:Engagement@moe.gov.sg) to your address book. If you do not wish to receive future emails from us, you may email us to unsubscribe.
 
