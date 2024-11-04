@@ -40,7 +40,7 @@ To find out more and to learn about the ECG curriculum, click on the thumbnail o
 
 ### My Skills Future Portal  
 
-<img src="/images/Skill%20Future%20Portal.png" style="width:50%;float:left">
+<img src="/images/Skill%20Future%20Portal.png" style="width:50%;float:left"> 
   
 Please click on the image for the instructions to log in to [MySkillsFuture portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html) using your child's account.
 
