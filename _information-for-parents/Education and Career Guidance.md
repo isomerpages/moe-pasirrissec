@@ -53,8 +53,6 @@ Use this poster to guide your child in answering these questions:
 *   Who am I?
 *   Where do I want to go?
 *   How do I get there?  
-
-Download the attachment for a clearer version of the poster.
 <br>
 <br>
 <br>
