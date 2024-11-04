@@ -64,6 +64,9 @@ Use this poster to guide your child in answering these questions:
   
 
 Download the attachment for a clearer version of the poster.
+<br>
+<br>
+<br>
 
 <img src="/images/ECG4.jpeg" style="width:50%;float:left">
 
