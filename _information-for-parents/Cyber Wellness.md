@@ -14,7 +14,7 @@ variant: markdown
 
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and being aware of how to protect oneself in cyberspace. The focus of CW in our schools is to help children navigate cyberspace, respectfully, safely and responsibly. They should also be a positive peer influence by using technology to enhance collaboration, learning and productivity, as well as advocate the positive use of technology.
 
-To find out more about the CW curriculum and resources, visit MOE [Practicising Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness) website.
+To find out more about the CW curriculum and resources, visit MOE [Practising Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness) website.
 
 ![](/images/Cyber%20wellness%20resources.png)
 
@@ -25,7 +25,7 @@ Parents can boost schools’ efforts in promoting Cyber Wellness by setting a go
 ![](/images/See%20you%20next%20time.png)
 
 <img src="/images/image015.png" style="width:50%;float:left">
-Please share this email with your PSG members and friends, and connect with us on [MOE Facebook](https://www.facebook.com/moesingapore/?fref=ts), [MOE X](https://twitter.com/moesg?lang=en)[MOE Instagram](https://www.instagram.com/moesingapore/)and [MOE YouTube channel](https://www.youtube.com/user/MOESpore). You can also visit[Schoolbag](https://www.schoolbag.edu.sg/) website for more education news, and stories on school programmes and activities. If you have any questions or comments for us on our updates, you can email us at [Engagement@moe.gov.sg](mailto:Engagement@moe.gov.sg). To ensure delivery to your inbox, please add [Engagement@moe.gov.sg](mailto:Engagement@moe.gov.sg)to your address book. If you do not wish to receive future emails from us, you may email us to unsubscribe.
+Please share this email with your Parent Support Group (PSG) members and friends, and connect with us on [MOE Facebook](https://www.facebook.com/moesingapore/?fref=ts), [X](https://twitter.com/moesg?lang=en), [Instagram](https://www.instagram.com/moesingapore/) and [YouTube channel](https://www.youtube.com/user/MOESpore). You can also visit [Schoolbag](https://www.schoolbag.edu.sg/) website for more education news, and stories on school programmes and activities. If you have any questions or comments for us on our updates, you can email us at [Engagement@moe.gov.sg](mailto:Engagement@moe.gov.sg). To ensure delivery to your Inbox, please add [Engagement@moe.gov.sg](mailto:Engagement@moe.gov.sg) to your address book. If you do not wish to receive future emails from us, you may email us to unsubscribe.
 
 ### Tips on Excessive Internet Use
 

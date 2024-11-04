@@ -1,6 +1,6 @@
 ---
-title: Leave of Absence (LOA) Scheme
-permalink: /useful-links/Information-for-Parents/Leave-of-Absence-LOA-Scheme/
+title: Leave of Absence Scheme
+permalink: /useful-links/information-for-parents/leave-of-absence-scheme/
 description: ""
 variant: markdown
 ---
@@ -18,8 +18,10 @@ To be granted LOA, your child must fulfil all three of the following criteria:
 * Presently studying in a Singapore school.
 * Accompanying you on an overseas posting with the intention of rejoining their school after returning to Singapore.
 
-More details on the LOA scheme can be found on MOE [Overview of school admissions for Returning Singaporeans](https://www.moe.gov.sg/returning-singaporeans) website.  
+More details on the LOA scheme can be found on MOE [Leave of Absence Scheme](https://www.moe.gov.sg/returning-singaporeans/going-overseas/loa-scheme) website.  
 
 ##### Application
 
-Please submit the [Application Form for Leave of Absence](https://form.gov.sg/6137f769a456b800126aa271) if you wish to apply for the LOA scheme for your child. Please note that the LOA application is subject to the Principal's approval, and the school will notify you of the outcome.
+Please submit the online [Application for Leave of Absence](https://form.gov.sg/6137f769a456b800126aa271) if you wish to apply for the LOA scheme for your child. 
+
+Please note that the LOA application is subject to the Principal's approval, and the school will notify you of the outcome.
