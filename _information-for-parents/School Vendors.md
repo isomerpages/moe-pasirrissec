@@ -23,7 +23,7 @@ variant: tiptap
 to 2pm)
 <br>Sat: 10.00 am to 2.00 pm
 <br>Sun &amp; Public Holiday: Closed</p>
-<p>Email: sales@jeepsinguniform.com
+<p>Email: <a href="sales@jeepsinguniform.com" rel="noopener nofollow" target="_blank">sales@jeepsinguniform.com</a>
 <br>Website:&nbsp;<a href="https://jeepsinguniform.com/" rel="noopener noreferrer nofollow" target="_blank">https://Jeepsinguniform.com</a>
 </p>
 <div class="isomer-image-wrapper">
