@@ -34,7 +34,7 @@ The ECG curriculum aims to:
 *   Inculcate an appreciation for the value of all occupations and how they contribute to the well-functioning of society; and
 *   Equip our students with skills and means to positively engage their parents and other career influencers.  
     
-To find out more and to learn about the ECG curriculum, click on the thumbnail or on the link [here](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)
+To find out more and learn about the ECG curriculum, visit the MOE [Education and Career Guidance](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview) website.
 
 
 
