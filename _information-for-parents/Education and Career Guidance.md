@@ -43,25 +43,16 @@ To find out more and to learn about the ECG curriculum, click on the thumbnail o
 <img src="/images/Skill%20Future%20Portal.png" style="width:50%;float:left"> 
   
 Please click on the image for the instructions to log in to [MySkillsFuture portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html) using your child's account.
-
+<br><br>
 <img src="/images/ECG2.jpeg" style="width:50%;float:left">
-
-
-
 Want to find out more about Education and Career Guidance (ECG)? Watch this quick&nbsp;[video](https://www.youtube.com/watch?v=12ass4FSCcg)&nbsp;on what ECG is about!
 
 <img src="/images/ECG3.jpeg" style="width:50%;float:left">
-
 Use this poster to guide your child in answering these questions:
-
-  
 
 *   Who am I?
 *   Where do I want to go?
 *   How do I get there?  
-    
-
-  
 
 Download the attachment for a clearer version of the poster.
 <br>
