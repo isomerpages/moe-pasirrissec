@@ -144,16 +144,16 @@ Art student putting up his finishing touch on his final artwork (his installatio
 
 ### <p>Programmes to enhance learning experiences of students</p>
 <br>
-	<p></p></div></li><li>Sustainable Environment - Organic Farming at PRSS Eco-garden</li><p></p>
-	<p></p><li>STEAM Carnival - Sandwich-making</li><p></p>  
-<p></p><li>Corteva Learning Journey - Learning and Discovering Science in Food through Experiment</li><p></p>
-	<p></p><li>Project Cupcake - Interdisciplinary project between FCE and Art</li><p></p>
+	<p>Sustainable Environment - Organic Farming at PRSS Eco-garden</p>
+	<p>STEAM Carnival - Sandwich-making</p>  
+<p>Corteva Learning Journey - Learning and Discovering Science in Food through Experiment</p>
+	<p>Project Cupcake - Interdisciplinary project between FCE and Art</p>
 	
 	
 ### <p>Sustainable Environment - Organic Farming at PRSS Eco-garden</p>
 
 	
-### <p>Experiential Learning (ExL) in action</p>
+#### <p>Experiential Learning (ExL) in action</p>
 
 <p>Learning journey to Bollywood Veggies (prior to Covid-19) to help students construct and retain knowledge better</p>
 			
@@ -189,7 +189,7 @@ Art student putting up his finishing touch on his final artwork (his installatio
 <p>Secondary 3 NFS students attended ‘Science in your Food’ workshop organised by Corteva agriscience. This workshop enhanced students’ interest in STEM and introduced agriscience’s role in our daily lives. Students prepared their own ice-cream using liquid nitrogen and lots of ice.</p>
 			
 <img src="/images/food5.png">
-	
+	</div></li>
   
 
 
