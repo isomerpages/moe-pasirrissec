@@ -142,27 +142,27 @@ Art student putting up his finishing touch on his final artwork (his installatio
 
 <p>This approach will lead to deeper acquisition of nutrition, meal-planning, principles of food science and understanding the link between diet and health. Students will also be equipped with the knowledge and skills to make informed decisions concerning food and nutrition.</p>
 
-### <p>Programmes to enhance learning experiences of students</p>
+<h3><p>Programmes to enhance learning experiences of students</p></h3>
 <br>
-#### <p>Sustainable Environment - Organic Farming at PRSS Eco-garden</p>
-	<p>STEAM Carnival - Sandwich-making</p>  
-  <p>Corteva Learning Journey - Learning and Discovering Science in Food through Experiment</p>
-	<p>Project Cupcake - Interdisciplinary project between FCE and Art</p>
+<h4><p>Sustainable Environment - Organic Farming at PRSS Eco-garden</p></h4>
+<p>STEAM Carnival - Sandwich-making</p>  
+<p>Corteva Learning Journey - Learning and Discovering Science in Food through Experiment</p>
+<p>Project Cupcake - Interdisciplinary project between FCE and Art</p>
 	
-### <p>Sustainable Environment - Organic Farming at PRSS Eco-garden</p>
-#### <p>Experiential Learning (ExL) in action</p>
+<p>Sustainable Environment - Organic Farming at PRSS Eco-garden</p>
+<h4><p>Experiential Learning (ExL) in action</p></h4>
 
 <p>Learning journey to Bollywood Veggies (prior to Covid-19) to help students construct and retain knowledge better</p>
 			
 <img src="/images/food.png">
 	
-### <p>Learning Journey to supermarket</p>
+	<h3><p>Learning Journey to supermarket</p></h3>
 
 <p>During this period, virtual supermarket visit was mounted where students learn more about comparative shopping and analyzing nutritional claims on a food product.</p>
 			
 <img src="/images/food2.png">
 			
-### <p>Urban farming in PRSS</p>
+<h3><p>Urban farming in PRSS</p></h3>
 
 <p>The unit leverages on the revised NFS syllabus to incorporate urban farming as authentic learning experience to understand the importance of Food Security and Sustainability. This will also equip students with new STEM skills/knowledge so that they grow confident in exploring new career opportunities in “High Technology” Farming arenas.</p>
 			
@@ -181,7 +181,7 @@ Art student putting up his finishing touch on his final artwork (his installatio
 			
 <img src="/images/food4.png">
 
-### <p>Enrichment workshop</p>
+<h3><p>Enrichment workshop</p></h3>
 
 <p>Secondary 3 NFS students attended ‘Science in your Food’ workshop organised by Corteva agriscience. This workshop enhanced students’ interest in STEM and introduced agriscience’s role in our daily lives. Students prepared their own ice-cream using liquid nitrogen and lots of ice.</p>
 			
