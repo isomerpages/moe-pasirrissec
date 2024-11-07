@@ -36,18 +36,18 @@ This year, the students had the opportunity to weave authentic leaning opportuni
 <img src="/images/Cupcake%20design.png" style="width:25%">
 <center>Cupcake design on Inkscape by Ryas of 1T7</center>
 
-*   Students do a series of tasks to share cupcakes with the residents of an old folk’s home.
+*   Students do a series of tasks to share cupcakes with the residents of an old folk’s home
 *   Software and Skills used – Inkscape, Microsoft Office. (MEL, DOP and IMC)
-*   Artefacts created - cupcake packaging, flyer and PowerPoint slides.
+*   Artefacts created - cupcake packaging, flyer and PowerPoint slides
 
 ##### Secondary Two
 (in collaboration with FCE)
 
 <img src="/images/Animation.jpeg" style="width:50%">
 		 
-*   Students create an animated poster to teach others the health benefits of an assigned herb or spice and one local dish using it as its ingredient.
-*   Software and Skills used – Inkscape and Scratch&nbsp; (MEL and IMC)
-*   Artefact/s created – An animated Scratch poster.&nbsp;&nbsp;
+*   Students create an animated poster to teach others the health benefits of an assigned herb or spice and one local dish using it as its ingredient
+*   Software and Skills used – Inkscape and Scratch (MEL and IMC)
+*   Artefact/s created – An animated Scratch poster
 
 ##### Secondary Three
 
@@ -55,6 +55,6 @@ This year, the students had the opportunity to weave authentic leaning opportuni
 
 ![](/images/Scratch%201.png)
 
-*   Students create games after which they can be used in “gallery walk style” for events. (e.g. Open house, RHD)
-*   Software and Skills used – Inkscape and Scratch. (MEL and IMC)
-*   Artefacts created – Games made from Scratch program. The game involves a person or animal who tries to catch moving object or animals.
+*   Students create games after which they can be used in “gallery walk style” for events (e.g. Open house, RHD)
+*   Software and Skills used – Inkscape and Scratch (MEL and IMC)
+*   Artefacts created – Games made from Scratch program. The game involves a person or animal who tries to catch moving object or animals
