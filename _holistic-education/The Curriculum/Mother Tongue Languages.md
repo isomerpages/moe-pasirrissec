@@ -38,7 +38,7 @@ We seek to develop Pasirians who will be:
 
 **Teachers as Learners, Teachers as Leaders**
 
-*Professional development includes department retreats and learning journeys, open classrooms, presentations at school, cluster, zonal and national levels etc.*
+Professional development includes department retreats and learning journeys, open classrooms, presentations at school, cluster, zonal and national levels etc.
 
 |Subject Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
