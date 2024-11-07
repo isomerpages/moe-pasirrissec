@@ -24,10 +24,11 @@ For any account or password queries, please contact the following:</p>
   <li>School-based Helpdesk at&nbsp;6501 0891</li>
   <li>Email at admin_prss@moe.edu.sg,  if the hotline is busy</li>
 </ol>  
-	<p>Should you require <b>counselling or learning and behavioural support</b>, you may contact the following: </p>
+
+<p>For counselling or learning and behavioural support, you may contact the following: </p>
 <ol type="1">
 	<li>Home Teachers</li>
-	<li>School Counsellor/ SEN Officer at 6501 0839</li>
+	<li>School Counsellor or SEN Officer at 6501 0839</li>
  <br>
 </ol></div></li>  
   
