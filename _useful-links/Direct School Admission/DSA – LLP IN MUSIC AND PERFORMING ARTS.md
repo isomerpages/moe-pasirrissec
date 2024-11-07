@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
 ---
-<p>PRSS extends our warmest invitation to all Primary 6 students to apply
-for direct admission to our Secondary One via the Direct School Admission
-(DSA – Sec) Exercise.</p>
+<p>Pasir Ris Secondary School extends our warmest invitation to all Primary
+6 students to apply for direct admission to our Secondary One via the Direct
+School Admission (DSA – Sec) Exercise.</p>
 <p>At PRSS, we embrace the arts and have a vibrant artistic culture. You
 will have a CCA experience of a lifetime by participating in our Performing
 Arts groups, which include the Choir, Concert Band, Chinese Orchestra,
