@@ -60,7 +60,8 @@ Videography, or Photography, we invite you to join our Pasirian family.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Selection Criteria</strong></h4>
+<p><strong>Selection Criteria</strong>
+</p>
 <p>Applicants must:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -111,8 +112,7 @@ requirements of the Admissions Exercise for International Students (AEIS)
 test to be successful in DSA.&nbsp;</p>
 </li>
 </ul>
-<p><strong>Centralised DSA-Sec Application Process</strong>
-</p>
+<h4><strong>Centralised DSA-Sec Application Process</strong></h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2024, 11am
 to 3 Jun 2024, 3pm. For more details, please refer to MOE website –&nbsp;
