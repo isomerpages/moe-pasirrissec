@@ -4,7 +4,7 @@ permalink: /useful-links/PRSS-Newsflash/
 description: ""
 variant: markdown
 ---
-Welcome to our school Newsflash! Stay informed with all the exciting updates, upcoming events, and important announcements from our school community. 
+Welcome to our school Newsflash. Stay informed with all the exciting updates, upcoming events, and important announcements from our school community. 
 
 Visit us often for updates that keep you informed and involved in all the latest happenings at our school.
 
