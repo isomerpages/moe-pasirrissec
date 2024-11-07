@@ -33,7 +33,7 @@ The Mathematics curriculum is closely aligned to MOE defined syllabus and includ
 | Math/ Additional Math| Ms Chew Shuhui Eunice <br>School Staff Developer | [chew_shuhui_eunice@moe.edu.sg](mailto:chew_shuhui_eunice@moe.edu.sg) |
 | Math | Mr Robert Lee Teck Hock <br> SH Mathematics | [lee_teck_hock_robert@moe.edu.sg](mailto:lee_teck_hock_robert@moe.edu.sg) |
 | Math/ PE | Mr Andy Law <br> SH Physical Education | [andy_law@moe.edu.sg](mailto:andy_law@moe.edu.sg) |
-| Math/ Computer Applications<br>ST Mathematics | Mr Chang Hock Boon | [chang_hock_boon@moe.edu.sg](mailto:chang_hock_boon@moe.edu.sg) |
+| Math/ Computer Applications | Mr Chang Hock Boon <br>ST Mathematics | [chang_hock_boon@moe.edu.sg](mailto:chang_hock_boon@moe.edu.sg) |
 | Math/ Additional Math | Mr Neo Chin Lee Albert | [neo_chin_lee@moe.edu.sg](mailto:neo_chin_lee@moe.edu.sg) |
 | Math/ Additional Math | Mr Ng Boon Tiong Desmond | [ng_boon_tiong_a@moe.edu.sg](mailto:ng_boon_tiong_a@moe.edu.sg) |
 | Math/ Computer Applications | Mr Cheng Song Fong | [cheng_song_fong@moe.edu.sg](mailto:cheng_song_fong@moe.edu.sg) |
