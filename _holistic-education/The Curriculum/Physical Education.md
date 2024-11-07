@@ -42,7 +42,7 @@ Learn To Play Games Enrichment Modules
 
 #### Photos
 
-![PRSS PE Department 2023](/images/Curriculum/Physical%20Education/prss%20pe%20dept%202023.jfif)
+![](/images/Curriculum/Physical%20Education/prss%20pe%20dept%202023.jfif)
 <center>PRSS PE Department</center>
 
 ![](/images/Curriculum/Physical%20Education/cross%20country%202023%2001.jpeg)
