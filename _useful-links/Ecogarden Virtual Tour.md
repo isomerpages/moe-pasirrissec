@@ -2,5 +2,6 @@
 title: Ecogarden Virtual Tour
 permalink: /useful-links/Ecogarden-Virtual-Tour/
 description: ""
+variant: markdown
 ---
-Please [click here](https://ths.li/6vBPEQ) for the Ecogarden Virtual Tour. 
+Click to view our [Ecogarden Virtual Tour](https://ths.li/6vBPEQ). 
