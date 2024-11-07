@@ -5,13 +5,13 @@ description: ""
 third_nav_title: The Curriculum
 variant: markdown
 ---
-### **Students as Inquirers, Teachers as Facilitators of Students’ Learning Experiences**
+### Students as Inquirers, Teachers as Facilitators of Students’ Learning Experiences
 
 The Science Department is committed to nurturing students who demonstrate a high level of curiosity in Science and a high level of motivation and concentration and can make intuitive leaps in solving Science problems. We also want our students to be able to comprehend abstract concepts beyond age level expectations and see connections between Science and other disciplines.
 
 Our strategy for developing critical and inventive thinking in our students includes the use of Mathematics to define, understand and/or solve problems and teaching students to draw linkages and identify assumptions based on data. We train our students to support their ideas using logical reasoning and to switch methods with ease, in a systematic manner. As for communication, collaboration and information skills, we help to enhance our students' ability to integrate information and concepts into their existing knowledge base and to relate that knowledge base to new problems and topics.
 
-#### **Key Programme: Science Experiential, Enrichment and Development Programme (SEED)**
+#### Key Programme: Science Experiential, Enrichment and Development Programme (SEED)
 
 This programme aims to promote interest and authentic learning in Science and Technology within and beyond the confines of the classroom. Through this programme, we hope to:
 
@@ -23,37 +23,37 @@ This programme aims to promote interest and authentic learning in Science and Te
 
 The programme is divided into three tiers: 
 
-#### **<center>Enrich, Engage, Excel</center>**
+#### <center>Enrich, Engage, Excel</center>
 
 ![](/images/SEED.png)
  
 
-#### **Signature Programmes**
+#### Signature Programmes
 
-##### **Stage 1 (Enrich)**
+##### Stage 1 (Enrich)
 
 *   Field trips&nbsp;  
 *   Learning journeys
 *   Survival in the Wild Inquiry Workshop
 
-##### **Stage 2 (Engage)**
+##### Stage 2 (Engage)
 
 *   External workshops (Forensic Science, Applied Sciences and Engineering)
 *   Intra-school and inter-school competitions  
     
-##### **Stage 3 (Excel)**
+##### Stage 3 (Excel)
 
 *   Customised field trips  
 *   National and international competitions  
     
 		
-#### **Learning Outcomes and Objectives**
+#### Learning Outcomes and Objectives
 
 1. Demonstrate a high level of curiosity in Science and a high level of motivation and concentration. 
 2. Make intuitive leaps in solving Science problems. 
 3. Comprehend abstract concepts beyond age level expectations and see connections between Science and other disciplines
 
-#### **Programme Highlights**
+#### Programme Highlights
 
 Science Experiential, Enrichment and Development Programme (SEED) which aims to promote interest and authentic learning in Science and Technology within and beyond the confines of the classroom
 
@@ -85,12 +85,12 @@ Science Experiential, Enrichment and Development Programme (SEED) which aims to 
 * Sustainability Challenge - Silver
 * Interdisciplinary Group Project - Gold
 
-#### **Achievements**
+#### Achievements
 
 * Best Oral Defense Award' for USPE 2023
 * Bronze Award' for SISTEMIC 2023
 
-#### **The PRSS Ecogarden** 
+#### The PRSS Ecogarden
 
 *  Provides an authentic environment for experiential learning to instil the joy of learning, foster curiosity, deepen learning, cultivate responsibility and to improve sense of belonging to the school.
 *   Enables students to better appreciate the relevance of prevalent global issues which may impact their lives and help extend their learning beyond the syllabus and classroom when learning activities across subjects and levels are aligned to relevant UN sustainable development goals.
@@ -99,7 +99,7 @@ Science Experiential, Enrichment and Development Programme (SEED) which aims to 
 
 You can access the virtual tour of our school's Eco Garden [here](https://www.theasys.io/viewer/qkQVL2MUIHWYlEYQ7leC0upoNvvyEg/).
 
-#### **People**
+#### People
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
@@ -121,7 +121,7 @@ You can access the virtual tour of our school's Eco Garden [here](https://www.th
 | Laboratory Technician | Mdm Dinah Tan Kwee Choo | [tan_kwee_choo@moe.edu.sg](mailto:tan_kwee_choo@moe.edu.sg) |
 | Laboratory Technician | Ms Khairunnisa Rahmat | [khairunnisa_rahmat@moe.edu.sg](mailto:khairunnisa_rahmat@moe.edu.sg) |
 
-#### **Photos**
+#### Photos
 
 ![Teachers as Facilitators of Students’ Learning Experiences](/images/Curriculum/Science/science%2001.jpg)<center>Teachers as Facilitators of Students’ Learning Experiences</center><br>
 
