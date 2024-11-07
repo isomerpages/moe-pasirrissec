@@ -20,12 +20,12 @@ variant: markdown
 
 3\. Submit the completed application form and documents before the closing date via email or to the school's General Office. 
 
-Address: 390 Tampines Street 21, Singapore 529400      
-Contact No: 6501 0800  
-Email: [prss@moe.edu.sg](mailto:prss@moe.edu.sg)  
-Contact Person: Mdm Dolly Leong
+<b>Address:</b> 390 Tampines Street 21, Singapore 529400      
+<b>Contact No:</b> 6501 0800  
+<b>Email address:</b> [prss@moe.edu.sg](mailto:prss@moe.edu.sg)  
+<b>Contact Person:</b> Mdm Dolly Leong
 
-How to get there?  
+#### How to get there?  
 **BUS**  
 Along Tampines Ave 4  
 SBS Nos: 3, 15, 21, 27, 129,168, 298  
@@ -33,7 +33,7 @@ Along Tampines St 21
 SBS Nos: 3, 291
 
 **MRT**  
-Green & Blue Line: Alight at Tampines MRT Station and we are just a stone’s throw away!
+Green &amp; Blue Line: Alight at Tampines MRT Station and we are just a stone’s throw away!
 * * *
 
 #### Interested applicants must meet the following criteria:
