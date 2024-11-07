@@ -119,8 +119,7 @@ requirements of the Admissions Exercise for International Students (AEIS)
 test to be successful in DSA.&nbsp;</p>
 </li>
 </ul>
-<p><strong>Centralised DSA-Sec Application Process</strong>
-</p>
+<h4>Centralised DSA-Sec Application Process</h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2024, 11am
 to 3 Jun 2024, 3pm. For more details, please refer to MOE <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">DSA for secondary schools </a>website.</p>
