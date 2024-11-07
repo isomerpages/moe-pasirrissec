@@ -10,8 +10,8 @@ Blended Learning will continue in Term 3 and students will participate in at lea
 
 For Sec 4 and 5 students, SIL is optional and they may use the time to prepare for the National Examinations instead. 
 
-Please look out on the Announcements for more details.
-<br>
+Please look out on the [Announcements](/Announcements/) for more details.
+<br><br>
 <ul class="jekyllcodex_accordion">
 	
 <li><input type="checkbox" id="accordion1">  
