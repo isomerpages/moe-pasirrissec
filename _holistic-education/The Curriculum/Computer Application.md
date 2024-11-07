@@ -38,7 +38,7 @@ This year, the students had the opportunity to weave authentic leaning opportuni
 
 *   Students do a series of tasks to share cupcakes with the residents of an old folk’s home.
 *   Software and Skills used – Inkscape, Microsoft Office. (MEL, DOP and IMC)
-*   Artefact/s created - cupcake packaging, flyer and PowerPoint slides.
+*   Artefacts created - cupcake packaging, flyer and PowerPoint slides.
 
 ##### Secondary Two
 (in collaboration with FCE)
