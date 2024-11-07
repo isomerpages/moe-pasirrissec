@@ -115,13 +115,10 @@ test to be successful in DSA.&nbsp;</p>
 <h4><strong>Centralised DSA-Sec Application Process</strong></h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2024, 11am
-to 3 Jun 2024, 3pm. For more details, please refer to MOE website –&nbsp;
-<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
+to 3 Jun 2024, 3pm. For more details, please refer to MOE <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">DSA for secondary schools </a>website.</p>
 <p>Certified true copies of certificates / documentary proof for the non-school
 based awards and activities may be requested for shortlisted applicants.&nbsp;</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Applicants will be notified of the outcome of the application by 9 Sep
 2024. Candidates who are given a Confirmed Offer are guaranteed a place
