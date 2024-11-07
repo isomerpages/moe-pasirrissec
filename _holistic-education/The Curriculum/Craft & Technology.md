@@ -226,13 +226,13 @@ Art student putting up his finishing touch on his final artwork (his installatio
 
 <p>The Music Programme for Normal (T) students is spread over 4 years, with the option for students to take up NT Music elective subject in Upper Secondary.  </p>
 
-#### **Secondary One**
+#### Secondary One
 
 <p>Our students will attend ukulele and keyboard lessons, where they learn basic playing skills through pop songs.</p>
 	
 <img src="/images/ukulele.jpeg">
 	
-#### **Secondary Two**
+#### Secondary Two
 
 <p>Our students continue to build on their instrumental skills as they work with acoustic as well virtual instruments on the GarageBand (available on Apple devices) to arrange and showcase their work in groups.</p>
 	
