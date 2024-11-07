@@ -144,7 +144,7 @@ Art student putting up his finishing touch on his final artwork (his installatio
 
 ### <p>Programmes to enhance learning experiences of students</p>
 <br>
-	<p>Sustainable Environment - Organic Farming at PRSS Eco-garden</p>
+#### <p>Sustainable Environment - Organic Farming at PRSS Eco-garden</p>
 	<p>STEAM Carnival - Sandwich-making</p>  
   <p>Corteva Learning Journey - Learning and Discovering Science in Food through Experiment</p>
 	<p>Project Cupcake - Interdisciplinary project between FCE and Art</p>
