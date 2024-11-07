@@ -57,4 +57,4 @@ This year, the students had the opportunity to weave authentic leaning opportuni
 
 *   Students create games after which they can be used in “gallery walk style” for events. (e.g. Open house, RHD)
 *   Software and Skills used – Inkscape and Scratch. (MEL and IMC)
-*   Artefact/s created – Games made from Scratch program. The game involves a person or animal who tries to catch moving object or animals.
+*   Artefacts created – Games made from Scratch program. The game involves a person or animal who tries to catch moving object or animals.
