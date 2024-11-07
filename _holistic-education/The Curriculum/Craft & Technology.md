@@ -244,7 +244,7 @@ Art student putting up his finishing touch on his final artwork (his installatio
 
 ### Highlights
 
-#### **Lunchtime Concert - MUSEIT: Season Three, Episode 2**
+#### Lunchtime Concert - MUSEIT: Season Three, Episode 2
 
 <p>Featuring our Secondary One Lower Secondary Music Syllabus and N(T) music students.</p>
 
@@ -284,8 +284,8 @@ People
 | Design &amp; Technology | Mr Teo Yu Wen Wilfred | teo_yu_wen_wilfred@moe.edu.sg |
 | Design &amp; Technology | Mr Eric Koh Kai Hwee | koh_kai_hwee@moe.edu.sg |
 | Design &amp; Technology | Mr Jonathan Ng Tian Loong | ng_tian_loong_jonathan@moe.edu.sg |
-|Food and Consumer Education/ Food and Nutrition | Mdm Siti Mirna bte Mustapah | siti_mirna@moe.edu.sg |
-|Food and Consumer Education/ Food and Nutrition | Mdm Nur Nadiah Adanan | nur_nadiah_adanan@moe.edu.sg |
+|Food and Consumer Education/<br> Food and Nutrition | Mdm Siti Mirna bte Mustapah | siti_mirna@moe.edu.sg |
+|Food and Consumer Education/<br> Food and Nutrition | Mdm Nur Nadiah Adanan | nur_nadiah_adanan@moe.edu.sg |
 | Art | Mr Noor Rahman Bin Saini | noor_rahman_saini@moe.edu.sg |
 | Art | Ms Siti Sarah Binte Mamat | siti_sarah_mamat@moe.edu.sg |
 | Art | Mr Kimberlyn Lee | kimberlyn_lee@moe.edu.sg |
