@@ -97,7 +97,7 @@ Science Experiential, Enrichment and Development Programme (SEED) which aims to 
 
 ![](/images/Eco-Garden.jpeg)
 
-You can access the virtual tour of our school's Eco Garden [here](https://www.theasys.io/viewer/qkQVL2MUIHWYlEYQ7leC0upoNvvyEg/).
+Click to view the [virtual tour of our school's Eco Garden](https://www.theasys.io/viewer/qkQVL2MUIHWYlEYQ7leC0upoNvvyEg/).
 
 #### People
 
