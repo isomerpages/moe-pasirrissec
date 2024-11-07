@@ -4,8 +4,6 @@ permalink: /useful-links/canteenadvertisement/
 description: ""
 variant: markdown
 ---
-### School Canteen Advertisement
-
 #### Application Procedure
 
 1\. Download and complete the  [Application Form](/files/application%20for%20school%20canteen%20stall.pdf). You may also request for hardcopy form at the School’s General Office.  
