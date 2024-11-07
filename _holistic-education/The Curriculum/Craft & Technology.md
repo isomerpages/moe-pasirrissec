@@ -5,7 +5,7 @@ description: ""
 third_nav_title: The Curriculum
 variant: markdown
 ---
-### **Programme**
+### Programme
 
 <ul class="jekyllcodex_accordion">  
 <li>  
@@ -111,10 +111,10 @@ Student’s Portraiture Showcase @Le Visage Gallery – Level 3</p>
 <b></b><p><b>Highlights Photo Set G: </b> Art jamming @NAFA’s Skylight Studio. Can you spot Mr. Rahman’s drawing?</p>
 <img src="/images/Art%20jamming%20@NAFA’s%201.jpeg">
 			
-<p>Highlights, Photo Set H: 3A1 budding artists have a go at canvas painting during their studio practice.</p>		
+<p><b>Highlights Photo Set H: </b>3A1 budding artists have a go at canvas painting during their studio practice.</p>		
 <img src="/images/canvas%20painting.jpeg">
 
-<b></b><p><b>Highlights Photo Set H: </b> 
+<p><b>Highlights Photo Set H: </b> 
 Art student putting up his finishing touch on his final artwork (his installation master piece.)</p>
 <img src="/images/final%20artwork.jpeg">
 			
@@ -180,7 +180,7 @@ Art student putting up his finishing touch on his final artwork (his installatio
 <p>Tinkers’ Fest Craft the Cake challenge</p>
 			
 <img src="/images/food4.png">
-			
+
 ### <p>Enrichment workshop</p>
 
 <p>Secondary 3 NFS students attended ‘Science in your Food’ workshop organised by Corteva agriscience. This workshop enhanced students’ interest in STEM and introduced agriscience’s role in our daily lives. Students prepared their own ice-cream using liquid nitrogen and lots of ice.</p>
