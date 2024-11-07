@@ -207,4 +207,3 @@ the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from Sec 1 - 4.&nbsp;</p>
-<p></p>
