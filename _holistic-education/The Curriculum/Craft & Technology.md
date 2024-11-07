@@ -142,7 +142,7 @@ Art student putting up his finishing touch on his final artwork (his installatio
 
 <p>This approach will lead to deeper acquisition of nutrition, meal-planning, principles of food science and understanding the link between diet and health. Students will also be equipped with the knowledge and skills to make informed decisions concerning food and nutrition.</p>
 
-<h3><p>Programmes to enhance learning experiences of students</p></h3>
+<h3>Programmes to enhance learning experiences of students</h3>
 <br>
 <h4><p>Sustainable Environment - Organic Farming at PRSS Eco-garden</p></h4>
 <p>STEAM Carnival - Sandwich-making</p>  
