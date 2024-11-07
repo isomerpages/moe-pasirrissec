@@ -6,8 +6,6 @@ variant: markdown
 ---
 Welcome to our school Newsflash. Stay informed with all the exciting updates, upcoming events, and important announcements from our school community. 
 
-Visit us often for updates that keep you informed and involved in all the latest happenings at our school.
-
 **2024**  
 [Term 4 - Newsflash](/files/Useful%20Links/Newsflash_Term_4_2024.pdf)<br>
 [Term 3 - Newsflash](/files/Newsflash__Term_3_2024_Final.pdf)<br>
