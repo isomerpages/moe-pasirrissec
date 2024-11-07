@@ -9,6 +9,7 @@ variant: markdown
 #### Application Procedure
 
 1\. Download and complete the  [Application Form](/files/application%20for%20school%20canteen%20stall.pdf). You may also request for hardcopy form at the School’s General Office.  
+
 2\. Attached the following documents together with the application form:
 
 * Photocopy of the NRIC (front and back)
@@ -17,7 +18,7 @@ variant: markdown
 
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.
 
-3\. Submit the completed application form and documents by closing date via email or to the School's General Office. 
+3\. Submit the completed application form and documents before the closing date via email or to the school's General Office. 
 
 Address: 390 Tampines Street 21, Singapore 529400      
 Contact No: 6501 0800  
