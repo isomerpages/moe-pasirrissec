@@ -104,7 +104,8 @@ group participation in past events, activities, CCA sessions or competitions.&nb
 <ul data-tight="true" class="tight">
 <li>
 <p>For all applicants who are not studying in MOE mainstream primary schools,
-please refer to&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
+please refer to MOE <a href="https://go.gov.sg/nmsdsa-sec-application." rel="noopener nofollow" target="_blank">DSA-Sec Non Mainstream school </a>website
+.</p>
 </li>
 <li>
 <p>International Students may apply but must take part in and fulfil the
