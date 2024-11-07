@@ -75,7 +75,8 @@ you to join our Pasirian family.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Selection Criteria</strong></h4>
+<p><strong>Selection Criteria</strong>
+</p>
 <p>Applicants must:</p>
 <ul data-tight="true" class="tight">
 <li>
