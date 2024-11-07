@@ -22,7 +22,7 @@ For any account or password queries, please contact the following:</p>
 <ol type="1">
   <li>Home Teachers</li>
   <li>School-based Helpdesk at&nbsp;6501 0891</li>
-  <li>Email at admin-prss@moe.edu.sg,  if the hotline is busy</li>
+  <li>Email at admin_prss@moe.edu.sg,  if the hotline is busy</li>
 </ol>  
 	<p>Should you require <b>counselling or learning and behavioural support</b>, you may contact the following: </p>
 <ol type="1">
