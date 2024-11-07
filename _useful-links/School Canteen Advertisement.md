@@ -26,13 +26,13 @@ variant: markdown
 #### How to get there?  
 **BUS**  
 Along Tampines Ave 4  
-SBS Nos: 3, 15, 21, 27, 129,168, 298  
+<b>SBS Nos:</b> 3, 15, 21, 27, 129,168, 298  
 
 Along Tampines St 21  
-SBS Nos: 3, 291
+<b>SBS Nos:</b> 3, 291
 
 **MRT**  
-Green &amp; Blue Line: Alight at Tampines MRT Station and we are just a stone’s throw away!
+Green and Blue Line: Alight at Tampines MRT Station and we are just a stone’s throw away!
 * * *
 
 #### Interested applicants must meet the following criteria:
