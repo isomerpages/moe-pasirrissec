@@ -5,7 +5,7 @@ description: ""
 third_nav_title: The Curriculum
 variant: markdown
 ---
-### **Programme**
+### Programme
 
 The English Language and Literature Department is committed to nurturing confident students who are able to think and read critically and communicate confidently and empathetically in the English language. Our department goals and pedagogies are closely aligned to the 2020 EL syllabus which has three key student outcomes of an empathetic communicator, a discerning reader and a creative inquirer.  
 
@@ -27,14 +27,14 @@ In the Literature classroom, students read and respond to a variety of literary 
 
 It is our goal to continue to engage our students and to prepare them for the challenging future ahead with 21st century critical thinking and effective communication skills in the English Language.
 
-### **Programme highlights**
+### Programme highlights
 
 * EL Reading Programme 
 * EL and Literature Festival 
 * Commonwealth Essay Competitions
 * National Schools Literature Festival (NSLF)
 
-### **People**
+### People
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
@@ -51,7 +51,7 @@ It is our goal to continue to engage our students and to prepare them for the ch
 | English Language | Ms Pearlyn Chia Kai Ling| [pearlyn_chia_kai_ling@moe.edu.sg](mailto:pearlyn_chia_kai_ling@moe.edu.sg) |
 | English Language | Ms Maryam Bte Anuar| [maryam_anuar@moe.edu.sg@moe.edu.sg](mailto:maryam_anuar@moe.edu.sg) |
 
-### **Photos**
+### Photos
 
 ![](/images/Curriculum/English%20Language/ell%2001.JPG)
 
