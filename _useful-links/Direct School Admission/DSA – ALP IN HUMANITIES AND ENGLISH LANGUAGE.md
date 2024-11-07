@@ -118,7 +118,7 @@ a short performance task outlining the solutions to an authentic problem.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>For all applicants who are not studying in MOE mainstream primary schools,
-please refer to&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
+please refer to MOE&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener nofollow" target="_blank">DSA-Sec for non-mainstream school </a>website.</p>
 </li>
 <li>
 <p>International Students may apply but must take part in and fulfil the
@@ -126,12 +126,10 @@ requirements of the Admissions Exercise for International Students (AEIS)
 test to be successful in DSA.&nbsp;</p>
 </li>
 </ul>
-<p><strong>Centralised DSA-Sec Application Process</strong>
-</p>
+<h4>Centralised DSA-Sec Application Process</h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2024, 11am
-to 3 Jun 2024, 3pm. For more details, please refer to MOE website –&nbsp;
-<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;</p>
+to 3 Jun 2024, 3pm. For more details, please refer to MOE <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">DSA for secondary schools </a>website.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Certified true copies of certificates / documentary proof for the non-school
