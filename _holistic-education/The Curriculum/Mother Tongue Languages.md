@@ -5,9 +5,9 @@ description: ""
 third_nav_title: The Curriculum
 variant: markdown
 ---
-### **Programme**
+### Programme
 
-#### **Vision**
+#### Vision
 
 **Learn our MTL, Love our MTL, Live out our MTL | Teachers as Learners, Teachers as Leaders**
 
@@ -17,7 +17,7 @@ The Mother Tongue Languages (MTL) Department believes in nurturing Pasirians to:
 * *Love their MTLs* – Ignite, deepen and sustain Pasirians’ passion for their MTLs
 * *Live out their MTLs* – Inspire Pasirians to appreciate their MTL cultures and apply their MTL in their daily lives
 
-#### **Mission**
+#### Mission
 
 **MTL Learning Dispositions**
 
@@ -28,17 +28,17 @@ We seek to develop Pasirians who will be:
 * *Connected learners* who leverage technology in the application of MTL in daily life and to the understanding of contemporary issues.
 * *Discerning digital users* who are keenly aware and proud of their cultural heritage (values, history, tradition) and willing to embrace other cultures in Singapore and Asia in the increasingly digitised age.
 
-#### **Programme Highlights**
+#### Programme Highlights
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/mtl%20dept%20website%20update%202023.png)
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/mtl%20dept%20website%20update%202023%2002.png)
 
-####  **People**
+####  People
 
 **Teachers as Learners, Teachers as Leaders**
 
-*Professional development includes department retreats and learning journeys, open classrooms, presentations at school, cluster, zonal and national levels etc.*
+Professional development includes department retreats and learning journeys, open classrooms, presentations at school, cluster, zonal and national levels etc.
 
 |Subject Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
@@ -55,7 +55,7 @@ We seek to develop Pasirians who will be:
 | Malay Language | Mdm Anmilia Bte Anwar Datt  | [anmilia_anwar_datt@moe.edu.sg](mailto:anmilia_anwar_datt@moe.edu.sg) |
 | Malay Language | Mr Muhammad Omarali Bin Zulkiflee | [muhammad_omarali_zulkiflee@moe.edu.sg](mailto:muhammad_omarali_zulkiflee@moe.edu.sg) |
 
-#### **Photos**
+#### Photos
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/kongsi%20raya%202023%20collage.jpg)
 

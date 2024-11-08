@@ -10,8 +10,8 @@ Blended Learning will continue in Term 3 and students will participate in at lea
 
 For Sec 4 and 5 students, SIL is optional and they may use the time to prepare for the National Examinations instead. 
 
-Please look out on the Announcements for more details.
-<br>
+Please look out on the [Announcements](/Announcements/) for more details.
+<br><br>
 <ul class="jekyllcodex_accordion">
 	
 <li><input type="checkbox" id="accordion1">  
@@ -22,18 +22,19 @@ For any account or password queries, please contact the following:</p>
 <ol type="1">
   <li>Home Teachers</li>
   <li>School-based Helpdesk at&nbsp;6501 0891</li>
-  <li>Email at prss@moe.edu.sg,  if the hotline is busy</li>
+  <li>Email at admin_prss@moe.edu.sg,  if the hotline is busy</li>
 </ol>  
-	<p>Should you require <b>counselling or learning and behavioural support</b>, you may contact the following: </p>
+
+<p>For counselling or learning and behavioural support, you may contact the following: </p>
 <ol type="1">
 	<li>Home Teachers</li>
-	<li>School Counsellor/ SEN Officer at 6501 0839</li>
+	<li>School Counsellor or SEN Officer at 6501 0839</li>
  <br>
 </ol></div></li>  
   
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">For Parents</label><div>  
-<p> Blended Learning (BL) is part of MOE’s efforts to further develop our students’ ability to be self-directed, passionate and lifelong learners. Home-Based Learning (HBL) Days will be scheduled about once a fortnight to complement teaching and learning in school. We hope to partner you by inculcating in our students the skills to self-manage and take ownership for their own learning.</p>
+<p> Blended Learning is part of MOE’s efforts to further develop our students’ ability to be self-directed, passionate and lifelong learners. Home-Based Learning Days will be scheduled about once a fortnight to complement teaching and learning in school. We hope to partner you by inculcating in our students the skills to self-manage and take ownership for their own learning.</p>
 
 <p>Do refer to the <b>Parent Resource Kits</b> below which provides general information and tips on HBL Days, a part of the BL structure, and how you can support your child on their HBL days.</p>
 <p>

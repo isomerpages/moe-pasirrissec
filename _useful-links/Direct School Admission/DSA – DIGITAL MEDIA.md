@@ -60,7 +60,8 @@ Videography, or Photography, we invite you to join our Pasirian family.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Selection Criteria</strong></h4>
+<p><strong>Selection Criteria</strong>
+</p>
 <p>Applicants must:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -103,7 +104,8 @@ group participation in past events, activities, CCA sessions or competitions.&nb
 <ul data-tight="true" class="tight">
 <li>
 <p>For all applicants who are not studying in MOE mainstream primary schools,
-please refer to&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
+please refer to MOE <a href="https://go.gov.sg/nmsdsa-sec-application." rel="noopener nofollow" target="_blank">DSA-Sec Non Mainstream school </a>website
+.</p>
 </li>
 <li>
 <p>International Students may apply but must take part in and fulfil the
@@ -111,17 +113,13 @@ requirements of the Admissions Exercise for International Students (AEIS)
 test to be successful in DSA.&nbsp;</p>
 </li>
 </ul>
-<p><strong>Centralised DSA-Sec Application Process</strong>
-</p>
+<h4>Centralised DSA-Sec Application Process</h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2024, 11am
-to 3 Jun 2024, 3pm. For more details, please refer to MOE website –&nbsp;
-<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
+to 3 Jun 2024, 3pm. For more details, please refer to MOE <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">DSA for secondary schools </a>website.</p>
 <p>Certified true copies of certificates / documentary proof for the non-school
 based awards and activities may be requested for shortlisted applicants.&nbsp;</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Applicants will be notified of the outcome of the application by 9 Sep
 2024. Candidates who are given a Confirmed Offer are guaranteed a place
@@ -209,4 +207,3 @@ the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from Sec 1 - 4.&nbsp;</p>
-<p></p>

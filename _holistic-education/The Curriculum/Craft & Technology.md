@@ -5,7 +5,7 @@ description: ""
 third_nav_title: The Curriculum
 variant: markdown
 ---
-### **Programme**
+### Programme
 
 <ul class="jekyllcodex_accordion">  
 <li>  
@@ -111,10 +111,10 @@ Student’s Portraiture Showcase @Le Visage Gallery – Level 3</p>
 <b></b><p><b>Highlights Photo Set G: </b> Art jamming @NAFA’s Skylight Studio. Can you spot Mr. Rahman’s drawing?</p>
 <img src="/images/Art%20jamming%20@NAFA’s%201.jpeg">
 			
-<p>Highlights, Photo Set H: 3A1 budding artists have a go at canvas painting during their studio practice.</p>		
+<p><b>Highlights Photo Set H: </b>3A1 budding artists have a go at canvas painting during their studio practice.</p>		
 <img src="/images/canvas%20painting.jpeg">
 
-<b></b><p><b>Highlights Photo Set H: </b> 
+<p><b>Highlights Photo Set H: </b> 
 Art student putting up his finishing touch on his final artwork (his installation master piece.)</p>
 <img src="/images/final%20artwork.jpeg">
 			
@@ -142,30 +142,27 @@ Art student putting up his finishing touch on his final artwork (his installatio
 
 <p>This approach will lead to deeper acquisition of nutrition, meal-planning, principles of food science and understanding the link between diet and health. Students will also be equipped with the knowledge and skills to make informed decisions concerning food and nutrition.</p>
 
-### <p>Programmes to enhance learning experiences of students</p>
+<h3>Programmes to enhance learning experiences of students</h3>
 <br>
-	<p></p></div></li><li>Sustainable Environment - Organic Farming at PRSS Eco-garden</li><p></p>
-	<p></p><li>STEAM Carnival - Sandwich-making</li><p></p>  
-<p></p><li>Corteva Learning Journey - Learning and Discovering Science in Food through Experiment</li><p></p>
-	<p></p><li>Project Cupcake - Interdisciplinary project between FCE and Art</li><p></p>
+<h4><p>Sustainable Environment - Organic Farming at PRSS Eco-garden</p></h4>
+<p>STEAM Carnival - Sandwich-making</p>  
+<p>Corteva Learning Journey - Learning and Discovering Science in Food through Experiment</p>
+<p>Project Cupcake - Interdisciplinary project between FCE and Art</p>
 	
-	
-### <p>Sustainable Environment - Organic Farming at PRSS Eco-garden</p>
-
-	
-### <p>Experiential Learning (ExL) in action</p>
+<p>Sustainable Environment - Organic Farming at PRSS Eco-garden</p>
+<h4><p>Experiential Learning (ExL) in action</p></h4>
 
 <p>Learning journey to Bollywood Veggies (prior to Covid-19) to help students construct and retain knowledge better</p>
 			
 <img src="/images/food.png">
 	
-### <p>Learning Journey to supermarket</p>
+	<h3><p>Learning Journey to supermarket</p></h3>
 
 <p>During this period, virtual supermarket visit was mounted where students learn more about comparative shopping and analyzing nutritional claims on a food product.</p>
 			
 <img src="/images/food2.png">
 			
-### <p>Urban farming in PRSS</p>
+<h3><p>Urban farming in PRSS</p></h3>
 
 <p>The unit leverages on the revised NFS syllabus to incorporate urban farming as authentic learning experience to understand the importance of Food Security and Sustainability. This will also equip students with new STEM skills/knowledge so that they grow confident in exploring new career opportunities in “High Technology” Farming arenas.</p>
 			
@@ -183,14 +180,15 @@ Art student putting up his finishing touch on his final artwork (his installatio
 <p>Tinkers’ Fest Craft the Cake challenge</p>
 			
 <img src="/images/food4.png">
-			
-### <p>Enrichment workshop</p>
+
+<h3><p>Enrichment workshop</p></h3>
 
 <p>Secondary 3 NFS students attended ‘Science in your Food’ workshop organised by Corteva agriscience. This workshop enhanced students’ interest in STEM and introduced agriscience’s role in our daily lives. Students prepared their own ice-cream using liquid nitrogen and lots of ice.</p>
 			
 <img src="/images/food5.png">
 	
-  
+  </div>  
+</li>
 
 
 <li>  
@@ -202,7 +200,7 @@ Art student putting up his finishing touch on his final artwork (his installatio
 	
 ### Music Programmes @PRSS
 	
-#### **The Lower Secondary Music Syllabus**
+#### The Lower Secondary Music Syllabus
 	
 1. <p>Secondary One (Express and Normal Academic)</p>
 
@@ -228,13 +226,13 @@ Art student putting up his finishing touch on his final artwork (his installatio
 
 <p>The Music Programme for Normal (T) students is spread over 4 years, with the option for students to take up NT Music elective subject in Upper Secondary.  </p>
 
-#### **Secondary One**
+#### Secondary One
 
 <p>Our students will attend ukulele and keyboard lessons, where they learn basic playing skills through pop songs.</p>
 	
 <img src="/images/ukulele.jpeg">
 	
-#### **Secondary Two**
+#### Secondary Two
 
 <p>Our students continue to build on their instrumental skills as they work with acoustic as well virtual instruments on the GarageBand (available on Apple devices) to arrange and showcase their work in groups.</p>
 	
@@ -246,7 +244,7 @@ Art student putting up his finishing touch on his final artwork (his installatio
 
 ### Highlights
 
-#### **Lunchtime Concert - MUSEIT: Season Three, Episode 2**
+#### Lunchtime Concert - MUSEIT: Season Three, Episode 2
 
 <p>Featuring our Secondary One Lower Secondary Music Syllabus and N(T) music students.</p>
 
@@ -286,8 +284,8 @@ People
 | Design &amp; Technology | Mr Teo Yu Wen Wilfred | teo_yu_wen_wilfred@moe.edu.sg |
 | Design &amp; Technology | Mr Eric Koh Kai Hwee | koh_kai_hwee@moe.edu.sg |
 | Design &amp; Technology | Mr Jonathan Ng Tian Loong | ng_tian_loong_jonathan@moe.edu.sg |
-|Food and Consumer Education/ Food and Nutrition | Mdm Siti Mirna bte Mustapah | siti_mirna@moe.edu.sg |
-|Food and Consumer Education/ Food and Nutrition | Mdm Nur Nadiah Adanan | nur_nadiah_adanan@moe.edu.sg |
+|Food and Consumer Education/<br> Food and Nutrition | Mdm Siti Mirna bte Mustapah | siti_mirna@moe.edu.sg |
+|Food and Consumer Education/<br> Food and Nutrition | Mdm Nur Nadiah Adanan | nur_nadiah_adanan@moe.edu.sg |
 | Art | Mr Noor Rahman Bin Saini | noor_rahman_saini@moe.edu.sg |
 | Art | Ms Siti Sarah Binte Mamat | siti_sarah_mamat@moe.edu.sg |
 | Art | Mr Kimberlyn Lee | kimberlyn_lee@moe.edu.sg |

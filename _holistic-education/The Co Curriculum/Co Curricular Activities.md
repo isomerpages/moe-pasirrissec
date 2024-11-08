@@ -16,7 +16,7 @@ Our CCA Programme provides students with a platform to discover their interests 
 
 Students will be graded according to the LEAPs 2.0 system.
 
-Click on the link for more information on [LEAPs 2.0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0) for secondary school students.
+For more information, visit MOE [LEAPs 2.0 for secondary school](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0) website.
 
 #### **CCA Participation**
 

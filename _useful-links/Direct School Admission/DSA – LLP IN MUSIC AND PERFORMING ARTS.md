@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
 ---
-<p>PRSS extends our warmest invitation to all Primary 6 students to apply
-for direct admission to our Secondary One via the Direct School Admission
-(DSA – Sec) Exercise.</p>
+<p>Pasir Ris Secondary School extends our warmest invitation to all Primary
+6 students to apply for direct admission to our Secondary One via the Direct
+School Admission (DSA – Sec) Exercise.</p>
 <p>At PRSS, we embrace the arts and have a vibrant artistic culture. You
 will have a CCA experience of a lifetime by participating in our Performing
 Arts groups, which include the Choir, Concert Band, Chinese Orchestra,
@@ -93,7 +93,8 @@ in a supportive environment, we invite you to join our Pasirian family.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Selection Criteria</strong></h4>
+<p><strong>Selection Criteria</strong>
+</p>
 <p>Applicants must:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -125,7 +126,7 @@ audition.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>For all applicants who are not studying in MOE mainstream primary schools,
-please refer to&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
+please refer MOE <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener nofollow" target="_blank">DSA-Sec for non-mainstream school </a>website.</p>
 </li>
 <li>
 <p>International Students may apply but must take part in and fulfil the
@@ -133,12 +134,10 @@ requirements of the Admissions Exercise for International Students (AEIS)
 test to be successful in DSA.&nbsp;</p>
 </li>
 </ul>
-<p><strong>Centralised DSA-Sec Application Process</strong>
-</p>
+<h4>Centralised DSA-Sec Application Process</h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2024, 11am
-to 3 Jun 2024, 3pm. For more details, please refer to MOE website –&nbsp;
-<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;</p>
+to 3 Jun 2024, 3pm. For more details, please refer to MOE <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">DSA for secondary schools </a>website.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Certified true copies of certificates / documentary proof for the non-school
