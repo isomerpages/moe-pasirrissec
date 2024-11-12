@@ -41,7 +41,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Announcements/2024/SECONDARY_THREE_NA___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 3 NA</a>
+<p><a href="/files/SECONDARY_THREE___NA___FINAL.pdf" rel="noopener nofollow" target="_blank">Sec 3 NA</a>
 </p>
 </li>
 <li>
