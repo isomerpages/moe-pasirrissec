@@ -24,6 +24,8 @@ sections:
         forward to hosting you!
       image: /images/2024_Open_House_Poster.png
       alt: Image alt text
+      url: /openhouse2024/
+      button: Find out more
   - infopic:
       title: PRSS 39th Anniversary
       subtitle: EVENTS
@@ -46,9 +48,7 @@ sections:
         students and parents.
   - infopic:
       title: PRSS Campus Tour
-      description: Take a virtual stroll through our campus with the interactive 360°
-        tour.  Get an inside look at the vibrant learning environment that
-        defines our school.
+      description: Take a virtual stroll through our school with the interactive 360° tour.
       button: Campus Tour
       url: https://go.gov.sg/prsscampustour
       image: /images/E Open house/2023 campus tour (resized).png
