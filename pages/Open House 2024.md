@@ -6,7 +6,7 @@ description: ""
 ---
 ### Open House Programme is out!
 
-![](/images/Open_House_2023_programme.png)
+![](/images/Open%20House/PRSS_2024_Open_House_programme.jpg)
 
 We are excited to announce that the programme for our Open House on 23 November 2024 is now out!
 
