@@ -2,7 +2,15 @@
 title: Academic Achievements
 permalink: /achievements/Academic-Achievements/
 description: ""
+variant: markdown
 ---
+### 2023
+
+| No. | Department | Competition / Award |
+| -------- | -------- | -------- |
+| 1 | **GCE N Level Results 2023** | All our 4NT students qualify for ITE, with one student scoring 5 distinctions, while 72.7% of our 4NA students qualify for 5NA, with 7 students scoring 4 distinctions and above. |
+| 2 | **GCE N Level Results 2023** | All our 4E students qualify for JC / Polytechnic and 83.3% of our 5N students qualify for Polytechnic. 86.1% of the entire cohort attained 5 or more O Level passes, with 32 students scoring 5 distinctions and above. |
+
 ### 2022
 
 | No. | Department | Competition / Award |
