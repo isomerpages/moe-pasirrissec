@@ -24,6 +24,8 @@ sections:
         forward to hosting you!
       image: /images/2024_Open_House_Poster.png
       alt: Image alt text
+      url: /openhouse2024/
+      button: Find out more
   - infopic:
       title: PRSS 39th Anniversary
       subtitle: EVENTS
