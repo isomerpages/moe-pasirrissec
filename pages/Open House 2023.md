@@ -8,7 +8,7 @@ description: ""
 
 ![](/images/Open_House_2023_programme.png)
 
-We are excited to announce that the programme for our Open House on 25 November 2023 is now out!
+We are excited to announce that the programme for our Open House on 23 November 2024 is now out!
 
 Please note:  
 * Visitors are advised to enter the school premises via the main gate.
