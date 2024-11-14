@@ -48,8 +48,8 @@ sections:
         students and parents.
   - infopic:
       title: PRSS Campus Tour
-      description: Take a virtual stroll through our campus with the interactive 360°
-        tour.  Get an inside look at the vibrant learning environment that
+      description: Take a virtual stroll through our school with the interactive 360°
+        tour to get an inside look at the vibrant learning environment that
         defines our school.
       button: Campus Tour
       url: https://go.gov.sg/prsscampustour
