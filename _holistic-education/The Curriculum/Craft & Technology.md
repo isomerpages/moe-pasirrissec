@@ -301,7 +301,4 @@ People
 Photos
 ------
 
-[Comment]:(/images/craft_tech1.jpeg)
-![](/images/craft_tech2.jpeg)<br>
-![](/images/craft_tech3.jpeg)<br>
-![](/images/craft_tech4.jpeg)
+![](/images/Curriculum/Craft%20&amp;%20Tech/MakerSpace_Photo1.jpg)
