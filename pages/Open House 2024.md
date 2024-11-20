@@ -18,3 +18,7 @@ Please note:
 #### Campus Tour
 
 Click to view our [Campus Tour](https://www.thinglink.com/video/1700089113832588068)
+
+#### PRSS 39th Journey
+
+[PRSS 39th Journey](https://www.canva.com/design/DAGH5zJkigw/qMxovPsDlT8wU7NoKIbphg/view?utm_content=DAGH5zJkigw&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
