@@ -39,7 +39,7 @@ It is our goal to continue to engage our students and to prepare them for the ch
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
 | English Language / Literature | Mdm Foong Woon Sin <br> HOD English Language and Literature | [foong_woon_sin@moe.edu.sg](mailto:foong_woon_sin@moe.edu.sg) |
-| English Language  | Ms Parvin Bibi Marican<br> Year Head Lower Secondary |[parvin_bibi_marican@moe.edu.sg](mailto:parvin_bibi_marican@moe.edu.sg)) |
+| English Language  | Ms Parvin Bibi Marican<br> Year Head Lower Secondary |[parvin_bibi_marican@moe.edu.sg](mailto:parvin_bibi_marican@moe.edu.sg) |
 | English Language | Mrs Lynn Tan <br> LT English Language | [loy_lin_li_lynn@moe.edu.sg](mailto:loy_lin_li_lynn@moe.edu.sg) |
 | English Language / Literature | Ms Jumiah Ahmad <br> ST English Language | [jumiah_ahmad@moe.edu.sg](mailto:jumiah_ahmad@moe.edu.sg) |
 | English Language | Ms Nithiyaa Rajaratnam <br> LH English Language | [nithiyaa_rajaratnam@moe.edu.sg](mailto:[nithiyaa_rajaratnam@moe.edu.sg](mailto:nithiyaa_rajaratnam@moe.edu.sg)@moe.edu.sg) |
