@@ -3,6 +3,7 @@ title: Suzhou
 permalink: /signature-programmes/Overseas-Twinning-Programme/Suzhou/
 description: ""
 third_nav_title: Overseas Twinning Programme
+variant: markdown
 ---
 Pasir Ris Secondary School embarks on twinning programme with schools in China so as to achieve the following:
 
@@ -10,9 +11,7 @@ Pasir Ris Secondary School embarks on twinning programme with schools in China s
  *   Sensitise Pasirians to Singapore’s role and place in the emerging economic, educational and technological landscapes around the world through exposing them to schools and cities in Asia and ASEAN
  *   Strengthen Pasirians’ commitment and rootedness to Singapore.
 
-A key part of the programme is an annual overseas immersion trip to schools in countries in Asia and the ASEAN, such as China and Brunei. Pasirians will in turn host their counterparts when they visit Singapore.   
-
-  
+A key part of the programme is an annual overseas immersion trip to schools in countries in Asia and the ASEAN, such as China and Brunei. Pasirians will in turn host their counterparts when they visit Singapore.
 
 **Highlights**
 
@@ -20,7 +19,18 @@ A key part of the programme is an annual overseas immersion trip to schools in c
 *   Industry visits
 *   Cultural site visits
 
-![](/images/group%20pic.jpeg)
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qU4fJOkxUFg?si=fqmRn_kCNdsZ-aX3" height="315" width="560"></iframe>
+
+![](/images/Signature%20Programmes/Twinning/Session_2___STEM__Constructing_instruments_to_measure_buoyancy.jpg)
+<center>Session 2 - STEM Constructing instruments to measure buoyancy</center>
+
+![](/images/Signature%20Programmes/Twinning/Session_2___STEM__Mr_Cheng_conducting_STEM_lesson_in_CL.jpg)<center>Session 2 - STEM_ Mr Cheng conducting STEM lesson in CL</center>
+
+![](/images/Signature%20Programmes/Twinning/Suzhou_e_Twinning_2024_1st_Session.jpg)<center>Suzhou e-Twinning 2024_1st Session</center>
+
+![](/images/Signature%20Programmes/Twinning/Suzhou_e_Twinning_2024_2nd_Session.jpg)<center>Suzhou e-Twinning 2024_2nd Session</center>
+
+![](/images/group%20pic.jpeg)<br>
 ![](/images/lesson.jpeg)
 <center>Attending lesson with buddies in Suzhou </center>
 
