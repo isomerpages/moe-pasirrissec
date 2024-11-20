@@ -25,27 +25,31 @@ variant: markdown
 
 <p align="center">Source: MOE Syllabus document </p>
 
-### <p>Research and Needs Analysis</p>
+### Research and Needs Analysis
+	
 <p>Research and investigate to seek real world problems for designing of solutions to meet target users’ needs. </p>
  
 <img src="/images/Area%20Survey.jpeg">
 
-### <p>Idea Conceptualization and Development</p>
+### Idea Conceptualization and Development
+	
 <p>Use sketching, doodling and any other graphical means to generate, explore, communicate and develop creative and innovative solutions. </p>
   
 <img src="/images/ideas.jpeg">
 
-### <p>Prototyping</p>
+### Prototyping
+	
 <p> Learn design manipulating skills to build mock-up models with model making materials and prototype using resistant materials. There is also the opportunity for students to test and evaluate proposed solutions for improvements. </p>
 
 <img src="/images/Room.jpeg">
 
-### <p>Signature Program - Makers’ Education</p>  
+### Signature Program - Makers’ Education 
+	
 <p>Since 2019, the D&amp;T Unit has begun to shift in tandem with the national initiative towards “digital”.  As part of the shift, the department has acquired some prototyping capability such as laser cutting equipment, heat press machines and 3D printer. This will “empower” the D&amp;T Unit to gradually incorporate “Makers’ Education” as part of the department’s added focus to expose the students to prototype and test out their “ideas for school improvement” around them. Such opportunities will allow our students to experience a “real life” approach in problem solving as the students are able to “transform” their proposed ideas from sketches/drawings to actual real life application and or implementation.</p>
 
 <img src="/images/classroom.jpeg">
 
-### <p>Extended Learning</p>
+### Extended Learning
 * <p>Participation in Design Thinking and Innovation Boot Camp organized by Nanyang Polytechnic for Secondary 3 D&amp;T students.</p>
 * <p>Participation in Singapore Amazing Flying Machine Competition by Singapore Science Centre</p>
 * <p>Participation in Design Thinking Challenge for Lower Secondary students (in 2019 and 2021). 2020 edition was canceled due to Covid-19.</p>
