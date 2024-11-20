@@ -25,6 +25,10 @@ A key part of the programme is an annual overseas immersion trip to schools in c
 
 ![](/images/Signature%20Programmes/Twinning/Session_2___STEM__Mr_Cheng_conducting_STEM_lesson_in_CL.jpg)<center>Session 2 - STEM_ Mr Cheng conducting STEM lesson in CL</center>
 
+![](/images/Signature%20Programmes/Twinning/Suzhou_e_Twinning_2024_1st_Session.jpg)<center>Suzhou e-Twinning 2024_1st Session</center>
+
+![](/images/Signature%20Programmes/Twinning/Suzhou_e_Twinning_2024_2nd_Session.jpg)<center>Suzhou e-Twinning 2024_2nd Session</center>
+
 ![](/images/group%20pic.jpeg)<br>
 ![](/images/lesson.jpeg)
 <center>Attending lesson with buddies in Suzhou </center>
