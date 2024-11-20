@@ -35,13 +35,13 @@ variant: markdown
   
 <img src="/images/ideas.jpeg">
 
-<h3>Prototyping</h3><h3>
+<h3>Prototyping</h3>
 	
 <p> Learn design manipulating skills to build mock-up models with model making materials and prototype using resistant materials. There is also the opportunity for students to test and evaluate proposed solutions for improvements. </p>
 
 <img src="/images/Room.jpeg">
 
-</h3><h3>Signature Program - Makers’ Education</h3> 
+<h3>Signature Program - Makers’ Education</h3> 
 	
 <p>Since 2019, the D&amp;T Unit has begun to shift in tandem with the national initiative towards “digital”.  As part of the shift, the department has acquired some prototyping capability such as laser cutting equipment, heat press machines and 3D printer. This will “empower” the D&amp;T Unit to gradually incorporate “Makers’ Education” as part of the department’s added focus to expose the students to prototype and test out their “ideas for school improvement” around them. Such opportunities will allow our students to experience a “real life” approach in problem solving as the students are able to “transform” their proposed ideas from sketches/drawings to actual real life application and or implementation.</p>
 
@@ -49,8 +49,8 @@ variant: markdown
 
 <h3>Extended Learning</h3>
 	
-<p>-Participation in Design Thinking and Innovation Boot Camp organized by Nanyang Polytechnic for Secondary 3 D&amp;T students.</p><br>
-<p>- Participation in Singapore Amazing Flying Machine Competition by Singapore Science Centre</p><br>
+<p>-Participation in Design Thinking and Innovation Boot Camp organized by Nanyang Polytechnic for Secondary 3 D&amp;T students.</p>
+<p>- Participation in Singapore Amazing Flying Machine Competition by Singapore Science Centre</p>
 <p>- Participation in Design Thinking Challenge for Lower Secondary students (in 2019 and 2021). 2020 edition was canceled due to Covid-19.</p>
 
 <p><b>Highlights Photo Set A: </b> Exposure to Mobile App writing, CAD software, and receiving mentorship from SUTD students and J.P Morgan staff (The School’s Challenge – Live Smart @ The East Competition in 2019). 2020 Edition was canceled due to Covid-19.</p>
