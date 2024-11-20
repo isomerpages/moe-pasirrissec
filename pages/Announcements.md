@@ -45,8 +45,7 @@ We wish students all the best in their upcoming exams.
 
 #### Special Timetable for S4E5N on 13 Aug and  Sec 2, Sec 3 and Sec 4N from 13 to 16 Aug
 
-Please click [here](/files/Announcements/2024/TT_for_4E5N_on_13_Aug.pdf) to view  Sec 4 and Sec 5N Timetable for 13 August.
-
+Please click [here](/files/Announcements/2024/TT_for_4E5N_on_13_Aug.pdf) to view  Sec 4 and Sec 5N Timetable for 13 August.<br>
 Please click [here](/files/Announcements/2024/TT_for_S2_S3_S4NA_12___16_Aug.pdf) to view Sec 2, Sec 3 and Sec 4N Timetable from 13 - 16 August.
 
 #### 2024 Sec 1 Outdoor Adventure Learning Briefing
@@ -73,8 +72,7 @@ Please click [here](/files/Newsflash__Term_3_2024_Final.pdf) to view our Newsfla
 
 #### 2024 Sem 2 Timetable with effect from 24 Jun
 
-Please click [here](/files/Announcements/2024/Sem_2_TT_wef_24_Jun_for_S1.pdf) for 2024 Sem 2 Timetable, Secondary 1 Classes.
-
+Please click [here](/files/Announcements/2024/Sem_2_TT_wef_24_Jun_for_S1.pdf) for 2024 Sem 2 Timetable, Secondary 1 Classes.<br>
 Please click [here](/files/Announcements/2024/Sem_2_TT_wef_24_Jun_for_S2___S5.pdf) for 2024 Sem 2 Timetable, Secondary 2 - 5 Classes.
 
 
