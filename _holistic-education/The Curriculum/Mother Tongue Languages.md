@@ -47,6 +47,7 @@ Professional development includes department retreats and learning journeys, ope
 | Chinese Language | Ms Wong Jie Lin | [wong_jie_lin@moe.edu.sg](mailto:wong_jie_lin@moe.edu.sg) |
 | Chinese Language | Mr Liu Shu Cun | [liu_shu_cun@moe.edu.sg](mailto:liu_shu_cun@moe.edu.sg) |
 | Chinese Language | Mdm Ng Ai Hoon | [ng_ai_hoon@moe.edu.sg](mailto:ng_ai_hoon@moe.edu.sg) |
+| Chinese Language | Ms Khew Sing Eian | [khew_sing_eian@moe.edu.sg](mailto:khew_sing_eian@moe.edu.sg) |
 | Chinese Language | Ms Wang Xiangkun | [wang_xiangkun@moe.edu.sg](mailto:wang_xiangkun@moe.edu.sg) |
 | Chinese Language | Mdm Jin Beihua | [jin_beihua@moe.edu.sg](mailto:jin_beihua@moe.edu.sg) |
 | Chinese Language | Ms Desiree Oh Yi Ting | [oh_yi_ting_desiree@moe.edu.sg](mailto:oh_yi_ting_desiree@moe.edu.sg) |
@@ -59,15 +60,15 @@ Professional development includes department retreats and learning journeys, ope
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/kongsi%20raya%202023%20collage.jpg)
 
-![](/images/Curriculum/Mother%20Tongue%20Language/hari%20raya%20concert%202023.jpeg)<center>Hari Raya Concert 2023</center>
+![](/images/Curriculum/Mother%20Tongue%20Language/hari%20raya%20concert%202023.jpeg)<center><i>Hari Raya Concert</i></center>
 
 ![](/images/mothertongue2.png)
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/upper%20sec%20class%20decoration%20competition.png)
-<center>Upper Sec Class Decoration Competition</center>
+<center><i>Upper Sec Class Decoration Competition</i></center>
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/lower%20sec%20class%20mascot%20competition.png)
-<center>Lower Sec Class Mascot Competition</center>
+<center><i>Lower Sec Class Mascot Competition</i></center>
 
 ![](/images/Deepavali.jpeg)
 
@@ -76,4 +77,4 @@ Professional development includes department retreats and learning journeys, ope
 ![](/images/mother3.png)
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/cultural%20trail%20at%20kampung%20glam.jpeg)
-<center>Cultural Trail at Kampung Glam</center>
+<center><i>Cultural Trail at Kampung Glam</i></center>

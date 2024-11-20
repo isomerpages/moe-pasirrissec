@@ -113,20 +113,20 @@ Click to view the virtual tour of our school's [Eco Garden](https://www.theasys.
 | Physics | Mr Chiang Shu Lee<br>ST Physics | [chiang_shu_lee@moe.edu.sg](mailto:chiang_shu_lee@moe.edu.sg) |
 | Physics / NT Science | Mdm Siti Mariam Bte Hashim<br>ST Character &amp; Citizenship Education | [siti_mariam_hashim@moe.edu.sg](mailto:siti_mariam_hashim@moe.edu.sg) |
 | Biology / Lower Secondary Science | Mr Winston Chiang Ming Yao | [winston_chiang_ming_yao@moe.edu.sg](mailto:winston_chiang_ming_yao@moe.edu.sg) |
-| Chemistry / NT Science | Ms Jaslin Jiang Wei Yeow | [jiang_wei_yeow@moe.edu.sg](mailto:jiang_wei_yeow@moe.edu.sg) |
+| Lower Secondary Science / NT Science | Ms Jaslin Jiang Wei Yeow | [jiang_wei_yeow@moe.edu.sg](mailto:jiang_wei_yeow@moe.edu.sg) |
 | Biology / Lower Secondary Science | Mr Zachary Koh Jia Sheng | [koh_jia_sheng_zachary@moe.edu.sg](mailto:koh_jia_sheng_zachary@moe.edu.sg) |
 | Physics / Lower Secondary Science | Mr Kok Wai Keong Kevin | [Kok_Wai_Keong_Kevin@moe.edu.sg](mailto:Kok_Wai_Keong_Kevin@moe.edu.sg) |
 | Physics / Lower Secondary Science | Mr Lim Yong Liang | [lim_yong_liang@moe.edu.sg@moe.edu.sg](mailto:lim_yong_liang@moe.edu.sg@moe.edu.sg) |
-| Chemistry / Lower Secondary Science / Mathematics | Mdm Zulaiha Osman | [zulaiha_osman@moe.edu.sg](mailto:zulaiha_osman@moe.edu.sg) |
-| Laboratory Technician | Mdm Dinah Tan Kwee Choo | [tan_kwee_choo@moe.edu.sg](mailto:tan_kwee_choo@moe.edu.sg) |
-| Laboratory Technician | Ms Khairunnisa Rahmat | [khairunnisa_rahmat@moe.edu.sg](mailto:khairunnisa_rahmat@moe.edu.sg) |
+| Chemistry / Lower Secondary Science / Mathematics | Mdm Zulaiha Bte Osman | [zulaiha_osman@moe.edu.sg](mailto:zulaiha_osman@moe.edu.sg) |
+| STEM Instructor | Mdm Dinah Tan Kwee Choo | [tan_kwee_choo@moe.edu.sg](mailto:tan_kwee_choo@moe.edu.sg) |
+| STEM Instructor | Ms Khairunnisa Bte Rahmat | [khairunnisa_rahmat@moe.edu.sg](mailto:khairunnisa_rahmat@moe.edu.sg) |
 
 #### Photos
 
-![Teachers as Facilitators of Students’ Learning Experiences](/images/Curriculum/Science/science%2001.jpg)<center>Teachers as Facilitators of Students’ Learning Experiences</center><br>
+![Teachers as Facilitators of Students’ Learning Experiences](/images/Curriculum/Science/science%2001.jpg)<center><i>Teachers as Facilitators of Students’ Learning Experiences</i></center><br>
 
 ![Students as Inquirers in the Science classroom](/images/Curriculum/Science/science%2002.jpg)
-<center>Students as Inquirers in the Science classroom</center>
+<center><i>Students as Inquirers in the Science classroom</i></center>
 
 ![Students demonstrating evidence of their learning at different national &amp; international competitions](/images/Curriculum/Science/science%2003.jpeg)
-<center>Students demonstrating evidence of their learning at different national and international competitions</center><br>
+<center><i>Students demonstrating evidence of their learning at different national and international competitions</i></center><br>

@@ -14,3 +14,11 @@ Please note:
 * Visitors are advised to enter the school premises via the main gate.
 * We will not be able to accept more cars, so all drivers are advised to park at the nearest carpark at BLK 243 Tampines St 21 S521243.
 * We look forward to seeing you at our Open House!
+
+#### Campus Tour
+
+Click to view our [Campus Tour](https://www.thinglink.com/video/1700089113832588068)
+
+#### PRSS 39th Journey
+
+Click to view our [PRSS 39th Journey](https://www.canva.com/design/DAGH5zJkigw/qMxovPsDlT8wU7NoKIbphg/view?utm_content=DAGH5zJkigw&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
