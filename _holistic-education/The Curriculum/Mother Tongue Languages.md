@@ -9,7 +9,7 @@ variant: markdown
 
 #### Vision
 
-##### Learn our MTL, Love our MTL, Live out our MTL | Teachers as Learners, Teachers as Leaders
+##### **Learn our MTL, Love our MTL, Live out our MTL | Teachers as Learners, Teachers as Leaders**
 
 The Mother Tongue Languages (MTL) Department believes in nurturing Pasirians to:  
 
