@@ -284,15 +284,15 @@ People
 | Design &amp; Technology | Mr Teo Yu Wen Wilfred | teo_yu_wen_wilfred@moe.edu.sg |
 | Design &amp; Technology | Mr Eric Koh Kai Hwee | koh_kai_hwee@moe.edu.sg |
 | Design &amp; Technology | Mr Jonathan Ng Tian Loong | ng_tian_loong_jonathan@moe.edu.sg |
-|Food and Consumer Education/<br> Food and Nutrition | Mdm Siti Mirna bte Mustapah | siti_mirna@moe.edu.sg |
-|Food and Consumer Education/<br> Food and Nutrition | Mdm Nur Nadiah Adanan | nur_nadiah_adanan@moe.edu.sg |
+| Food and Consumer Education /<br> Food and Nutrition | Mdm Siti Mirna bte Mustapah | siti_mirna@moe.edu.sg |
+| Food and Consumer Education /<br> Food and Nutrition | Mdm Nur Nadiah Adanan | nur_nadiah_adanan@moe.edu.sg |
 | Art | Mr Noor Rahman Bin Saini | noor_rahman_saini@moe.edu.sg |
 | Art | Ms Siti Sarah Binte Mamat | siti_sarah_mamat@moe.edu.sg |
 | Art | Mr Kimberlyn Lee | kimberlyn_lee@moe.edu.sg |
 | Music | Ms Fam Hui Yuen | fam_hui_yuen@moe.edu.sg |
 | Music | Mr Ong Ting Kai | ong_ting_kai@moe.edu.sg |
-| Support Staff | Mr Mohd Ali bin Yunos | mohamed_ali_yunos@moe.edu.sg |
-| Support Staff | Mr Sanusi bin Idris | sanusi_b_idris@moe.edu.sg |
+| STEM Instructor | Mr Mohd Ali bin Yunos | mohamed_ali_yunos@moe.edu.sg |
+| STEM Instructor | Mr Sanusi bin Idris | sanusi_b_idris@moe.edu.sg |
 
 Photos
 ------
