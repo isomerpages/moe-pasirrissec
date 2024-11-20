@@ -3,6 +3,7 @@ title: Suzhou
 permalink: /signature-programmes/Overseas-Twinning-Programme/Suzhou/
 description: ""
 third_nav_title: Overseas Twinning Programme
+variant: markdown
 ---
 Pasir Ris Secondary School embarks on twinning programme with schools in China so as to achieve the following:
 
@@ -10,9 +11,7 @@ Pasir Ris Secondary School embarks on twinning programme with schools in China s
  *   Sensitise Pasirians to Singapore’s role and place in the emerging economic, educational and technological landscapes around the world through exposing them to schools and cities in Asia and ASEAN
  *   Strengthen Pasirians’ commitment and rootedness to Singapore.
 
-A key part of the programme is an annual overseas immersion trip to schools in countries in Asia and the ASEAN, such as China and Brunei. Pasirians will in turn host their counterparts when they visit Singapore.   
-
-  
+A key part of the programme is an annual overseas immersion trip to schools in countries in Asia and the ASEAN, such as China and Brunei. Pasirians will in turn host their counterparts when they visit Singapore.
 
 **Highlights**
 
@@ -20,7 +19,11 @@ A key part of the programme is an annual overseas immersion trip to schools in c
 *   Industry visits
 *   Cultural site visits
 
-![](/images/group%20pic.jpeg)
+
+![](/images/Signature%20Programmes/Twinning/Session_2___STEM__Constructing_instruments_to_measure_buoyancy.jpg)
+<center>Session 2 - STEM Constructing instruments to measure buoyancy</center>
+
+![](/images/group%20pic.jpeg)<br>
 ![](/images/lesson.jpeg)
 <center>Attending lesson with buddies in Suzhou </center>
 
@@ -32,3 +35,4 @@ A key part of the programme is an annual overseas immersion trip to schools in c
 
 ![](/images/FCE%20lesson.jpeg)
 <center>Attending FCE lesson with Pasirians</center>
+
