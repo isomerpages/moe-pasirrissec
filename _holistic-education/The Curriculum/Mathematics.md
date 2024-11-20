@@ -50,10 +50,10 @@ The Mathematics curriculum is closely aligned to MOE defined syllabus and includ
 #### Photos
 
 ![](/images/Curriculum/Mathematics/maths%20comp%20lab.jpg)
-<center>Computer Lab</center>
+<center><i>Computer Lab</i></center>
 
 ![](/images/Curriculum/Mathematics/redesign%20cup.jpg)
-<center>Student redesigning the cup&gt;</center>
+<center><i>Student redesigning the cup</i></center>
 
 ![](/images/Curriculum/Mathematics/maths%20trail.jpg)
-<center>Maths Trail</center>
+<center><i>Maths Trail</i></center>
