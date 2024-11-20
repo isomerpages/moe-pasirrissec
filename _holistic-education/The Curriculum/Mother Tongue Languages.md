@@ -60,15 +60,15 @@ Professional development includes department retreats and learning journeys, ope
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/kongsi%20raya%202023%20collage.jpg)
 
-![](/images/Curriculum/Mother%20Tongue%20Language/hari%20raya%20concert%202023.jpeg)<center>Hari Raya Concert 2023</center>
+![](/images/Curriculum/Mother%20Tongue%20Language/hari%20raya%20concert%202023.jpeg)<center><i>Hari Raya Concert</i></center>
 
 ![](/images/mothertongue2.png)
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/upper%20sec%20class%20decoration%20competition.png)
-<center>Upper Sec Class Decoration Competition</center>
+<center><i>Upper Sec Class Decoration Competition</i></center>
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/lower%20sec%20class%20mascot%20competition.png)
-<center>Lower Sec Class Mascot Competition</center>
+<center><i>Lower Sec Class Mascot Competition</i></center>
 
 ![](/images/Deepavali.jpeg)
 
@@ -77,4 +77,4 @@ Professional development includes department retreats and learning journeys, ope
 ![](/images/mother3.png)
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/cultural%20trail%20at%20kampung%20glam.jpeg)
-<center>Cultural Trail at Kampung Glam</center>
+<center><i>Cultural Trail at Kampung Glam</i></center>
