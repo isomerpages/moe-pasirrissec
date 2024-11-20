@@ -27,10 +27,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To login, click <a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener nofollow" target="_blank">MIMS Identity Portal</a>.</p>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener nofollow" target="_blank">Login to MIMS Identity Portal</a>
+</p>
 </li>
 <li>
-<p>For Student Self Service Password Reset (SSPR) Guide, please <a href="/files/Resources for Student/Student_MIMS_SSPR_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a> 
+<p>For Student Self Service Password Reset (SSPR) Guide, please <a href="/files/Resources for Student/Student_MIMS_SSPR_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>
 </p>
 </li>
 </ul>
@@ -45,8 +46,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Student Learning Space</strong>
 </p>
-<p>Please <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
-the SLS portal</p>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">Login to SLS Portal</a>
+</p>
 <p>
 <br>Please <a href="/files/SLS_Account_Management___Guide_for_Students__SecJCCI_.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 the SLS Account Management Guide</p>
@@ -68,8 +69,8 @@ the SLS Account Management Guide</p>
 <td rowspan="1" colspan="1">
 <p><strong>Student ICON</strong>
 </p>
-<p>Please <a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">click here</a> to
-login to Student iCON Portal.</p>
+<p><a href="https://workspace.google.com/dashboard" rel="noopener nofollow" target="_blank">Login to Student iCON Portal</a>
+</p>
 <p></p>
 <p><strong>Student iCON Support</strong>
 </p>
@@ -103,8 +104,8 @@ if they encounter any issues on their account related matters.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please <a href="https://schoolibrary.moe.edu.sg/pasirrissec" rel="noopener noreferrer nofollow" target="_blank">click here</a> to
-access the school library OPAC</p>
+<p> <a href="https://schoolibrary.moe.edu.sg/pasirrissec" rel="noopener nofollow" target="_blank">School Library OPAC</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -114,8 +115,8 @@ access the school library OPAC</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please <a href="https://schoolibrary.moe.edu.sg/eresourcessec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">click here</a> to
-access to the School eResources Reposit</p>
+<p><a href="https://schoolibrary.moe.edu.sg/eresourcessec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener nofollow" target="_blank">School eResources Reposit</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -124,8 +125,8 @@ access to the School eResources Reposit</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please <a href="/useful-links/Information-for-Parents/Financial-Assistance/" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
-more details</p>
+<p><a href="/useful-links/Information-for-Parents/Financial-Assistance/" rel="noopener nofollow" target="_blank">School Financial Assistance</a>
+</p>
 </td>
 </tr>
 <tr>
