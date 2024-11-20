@@ -23,6 +23,8 @@ A key part of the programme is an annual overseas immersion trip to schools in c
 ![](/images/Signature%20Programmes/Twinning/Session_2___STEM__Constructing_instruments_to_measure_buoyancy.jpg)
 <center>Session 2 - STEM Constructing instruments to measure buoyancy</center>
 
+![](/images/Signature%20Programmes/Twinning/Session_2___STEM__Mr_Cheng_conducting_STEM_lesson_in_CL.jpg)<center>Session 2 - STEM_ Mr Cheng conducting STEM lesson in CL</center>
+
 ![](/images/group%20pic.jpeg)<br>
 ![](/images/lesson.jpeg)
 <center>Attending lesson with buddies in Suzhou </center>
@@ -35,4 +37,3 @@ A key part of the programme is an annual overseas immersion trip to schools in c
 
 ![](/images/FCE%20lesson.jpeg)
 <center>Attending FCE lesson with Pasirians</center>
-
