@@ -50,9 +50,9 @@ variant: markdown
 <img src="/images/classroom.jpeg">
 
 ### Extended Learning
-* <p>Participation in Design Thinking and Innovation Boot Camp organized by Nanyang Polytechnic for Secondary 3 D&amp;T students.</p>
-* <p>Participation in Singapore Amazing Flying Machine Competition by Singapore Science Centre</p>
-* <p>Participation in Design Thinking Challenge for Lower Secondary students (in 2019 and 2021). 2020 edition was canceled due to Covid-19.</p>
+<p>-Participation in Design Thinking and Innovation Boot Camp organized by Nanyang Polytechnic for Secondary 3 D&amp;T students.</p><br>
+<p>- Participation in Singapore Amazing Flying Machine Competition by Singapore Science Centre</p><br>
+<p>- Participation in Design Thinking Challenge for Lower Secondary students (in 2019 and 2021). 2020 edition was canceled due to Covid-19.</p>
 
 <p><b>Highlights Photo Set A: </b> Exposure to Mobile App writing, CAD software, and receiving mentorship from SUTD students and J.P Morgan staff (The School’s Challenge – Live Smart @ The East Competition in 2019). 2020 Edition was canceled due to Covid-19.</p>
 
