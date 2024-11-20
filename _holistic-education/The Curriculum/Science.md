@@ -113,7 +113,7 @@ Click to view the virtual tour of our school's [Eco Garden](https://www.theasys.
 | Physics | Mr Chiang Shu Lee<br>ST Physics | [chiang_shu_lee@moe.edu.sg](mailto:chiang_shu_lee@moe.edu.sg) |
 | Physics / NT Science | Mdm Siti Mariam Bte Hashim<br>ST Character &amp; Citizenship Education | [siti_mariam_hashim@moe.edu.sg](mailto:siti_mariam_hashim@moe.edu.sg) |
 | Biology / Lower Secondary Science | Mr Winston Chiang Ming Yao | [winston_chiang_ming_yao@moe.edu.sg](mailto:winston_chiang_ming_yao@moe.edu.sg) |
-| Chemistry / NT Science | Ms Jaslin Jiang Wei Yeow | [jiang_wei_yeow@moe.edu.sg](mailto:jiang_wei_yeow@moe.edu.sg) |
+| Lower Secondary Science / NT Science | Ms Jaslin Jiang Wei Yeow | [jiang_wei_yeow@moe.edu.sg](mailto:jiang_wei_yeow@moe.edu.sg) |
 | Biology / Lower Secondary Science | Mr Zachary Koh Jia Sheng | [koh_jia_sheng_zachary@moe.edu.sg](mailto:koh_jia_sheng_zachary@moe.edu.sg) |
 | Physics / Lower Secondary Science | Mr Kok Wai Keong Kevin | [Kok_Wai_Keong_Kevin@moe.edu.sg](mailto:Kok_Wai_Keong_Kevin@moe.edu.sg) |
 | Physics / Lower Secondary Science | Mr Lim Yong Liang | [lim_yong_liang@moe.edu.sg@moe.edu.sg](mailto:lim_yong_liang@moe.edu.sg@moe.edu.sg) |
