@@ -19,6 +19,7 @@ A key part of the programme is an annual overseas immersion trip to schools in c
 *   Industry visits
 *   Cultural site visits
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qU4fJOkxUFg?si=fqmRn_kCNdsZ-aX3" height="315" width="560"></iframe>
 
 ![](/images/Signature%20Programmes/Twinning/Session_2___STEM__Constructing_instruments_to_measure_buoyancy.jpg)
 <center>Session 2 - STEM Constructing instruments to measure buoyancy</center>
