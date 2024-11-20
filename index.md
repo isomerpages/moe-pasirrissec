@@ -37,16 +37,6 @@ sections:
       description: PRSS celebrated our 39th anniversary on 24th April 2024. Join us as
         we proudly commemorate the 39th anniversary of our school!
   - infopic:
-      title: Sec 3 Subject Combination Exercise
-      subtitle: Highlights
-      id: infopic
-      button: Click to view
-      url: https://www.pasirrissec.moe.edu.sg/subject-combination/
-      image: /images/Subject_Combination_Exercise_2025.png
-      alt: Sec 3 Subject Combi Exercise
-      description: Introducing our new microsite offering a comprehensive resource for
-        students and parents.
-  - infopic:
       title: PRSS Campus Tour
       description: Take a virtual stroll through our school with the interactive 360° tour.
       button: Campus Tour
