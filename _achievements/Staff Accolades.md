@@ -13,12 +13,7 @@ variant: markdown
 	<tr><td>6</td><td>Ms Fam Hui Yuen<br>Ms Kimberlyn Lee<br>Mr Mohamed Iskandar Bin Ahmad<br>Ms Ng Mei Ling<br>Mr Ong Ting Kai<br>Mr Robert Lee Teck Hock<br>Mr Sim Chun Siang<br>Mdm Siti Mirna Bte Mustapah<br>Mr Victor So Kwee Soon<br>Mdm Yeong Wei Syn</td><td>Teachers’ Day Award <br><br>Caring Teacher Award</td></tr> 	
 	<tr><td>7</td><td>Mdm Siti Mariam Bte Hashim (Facilitator of Workshop)<br>Mdm Lynn Loy Lin Li  (Innovator; SgLDC)<br>Mr Ong Ting Kai (Facilitator of NLC)</td><td>AST Academy Awards for PD (Associate)</td></tr> 
 	<tr><td>8</td><td><u>Gold Award</u><br>
-		Mr Chiang Shu Lee<br><br><u>Gold Award</u><br>Mr Chiang Shu Lee<br>Mr Chang Hock Boon<br>Ms Chia Hwee Tze<br>Ms Chua Wei Tian<br>Mdm Hazwani Binte Abdul Wahid<br>Ms Ho Yen Yin Sabrina<br>Mr Joshua Tan See Kuang<br>Ms Khairunnisa Binte Rahmat<br>Mdm Mariamah Bte Mohd Yusoff<br>Mr Mohamed Ashiq Bin Mohamed Elias<br>
-Mr Mohd Amin Bin Kadir<br>Mdm Salmia Binte Anuar<br>Mr Sanusi B Idris<br>Mdm Sarifah Bte Tamsir<br>Mr Sim Keng Yam<br>Mdm Tan Kwee Choo<br><br>
-<u>Silver Award</u><br>
-Mdm Anmilia Bte Anwar Datt<br>Mr Lokhman Haris Bin Abdul Karem<br>Ms Ng Mei Ling<br>Mdm Rubi'ah Binte Massuan<br>Mdm Sharifah Maimunah Bte Syed Mansoor<br>
-Ms Siti Radilah Binte Ahmad Sidek<br>Mdm Wong Jie Lin<br>Ms Wong Yun Yi<br>Mdm Zulaiha Bte Osman
-		</td><td>MOE Service Excellence Awards</td></tr>
+		Mr Lokhman Haris bin Abdul Karem<br>Ms Nur Atiqah Bte Nasir<br>Mdm Shahilla D/O K Balakrishnan (Mrs Raj)<br>Mdm Siti Mirna Bte Mustapah<br>Ms Siti Radilah Bte Ahmad Sidek<br>Mdm Sumrah Bte Chuni<br>Mdm Zulaiha Bte Osman<br><br><u>Silver Award</u><br>Mr Cheng Song Fong<br>Mdm Chew Xin Rong, Fiona<br>Mr Zachary Koh Jia Sheng<br>Mr Kevin Kok Wai Keong<br>Mr Liu Shucun<br>Mr Seong Then Yee<br>Mr Winston Chiang Ming Yao<br></td><td>MOE Service Excellence Awards</td></tr>
 </tbody></table>
 
 ### 2023
