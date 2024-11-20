@@ -43,11 +43,11 @@ Learn To Play Games Enrichment Modules
 #### Photos
 
 ![](/images/Curriculum/Physical%20Education/prss%20pe%20dept%202023.jfif)
-<center><i>PRSS PE Department<i></i></i></center><i><i>
+<center><i>PRSS PE Department</i></center>
 
 ![](/images/Curriculum/Physical%20Education/cross%20country%202023%2001.jpeg)
 <center><i>Cross Country</i></center>
 
 ![](/images/Curriculum/Physical%20Education/cross%20country%202023%2002.jpeg)
 
-![](/images/Curriculum/Physical%20Education/cross%20country%202023%2003.jpeg)</i></i>
+![](/images/Curriculum/Physical%20Education/cross%20country%202023%2003.jpeg)
