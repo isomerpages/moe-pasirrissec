@@ -9,8 +9,8 @@ variant: markdown
 	<tr><td>3</td><td>Mr Sanusi B Idris</td><td>National Day Awards<br><br>The Efficiency Medal</td></tr>  
 	<tr><td>4</td><td>Mr Muhammad Omarali Bin Zulkiflee<br>Mdm Ong Chi Ying Shayne<br>Mr Chiang Shu Lee<br>Mdm Shahilla d/o K Balakrishnan(Mrs Raj)<br>Mr Wilfred Teo Yu Wen
 </td><td>NIE Caring Teacher Award</td></tr>  
-	<tr><td>5</td><td>Mr Lokhman Haris Bin Abdul Karem<br>Mdm Siti Mariam Bte Hashim<br>Mr Zachary Koh Jia Sheng</td><td>Teachers’ Day Award<br><br>Inspiring Teacher Award</td></tr> 
-	<tr><td>6</td><td>Ms Fam Hui Yuen<br>Ms Kimberlyn Lee<br>Mr Mohamed Iskandar Bin Ahmad<br>Ms Ng Mei Ling<br>Mr Ong Ting Kai<br>Mr Robert Lee Teck Hock<br>Mr Sim Chun Siang<br>Mdm Siti Mirna Bte Mustapah<br>Mr Victor So Kwee Soon<br>Mdm Yeong Wei Syn</td><td>Teachers’ Day Award <br><br>Caring Teacher Award</td></tr> 	
+	<tr><td>5</td><td>Mr Lokhman Haris Bin Abdul Karem<br>Mdm Siti Mariam Bte Hashim<br>Mr Zachary Koh Jia Sheng</td><td>Teachers’ Day Award<br>(Inspiring Teacher Award)<br></td></tr> 
+	<tr><td>6</td><td>Ms Fam Hui Yuen<br>Ms Kimberlyn Lee<br>Mr Mohamed Iskandar Bin Ahmad<br>Ms Ng Mei Ling<br>Mr Ong Ting Kai<br>Mr Robert Lee Teck Hock<br>Mr Sim Chun Siang<br>Mdm Siti Mirna Bte Mustapah<br>Mr Victor So Kwee Soon<br>Mdm Yeong Wei Syn</td><td>Teachers’ Day Award <br>(Caring Teacher Award)<br></td></tr> 	
 	<tr><td>7</td><td>Mdm Siti Mariam Bte Hashim (Facilitator of Workshop)<br>Mdm Lynn Loy Lin Li  (Innovator; SgLDC)<br>Mr Ong Ting Kai (Facilitator of NLC)</td><td>AST Academy Awards for PD (Associate)</td></tr> 
 	<tr><td>8</td><td><u>Gold Award</u><br>
 		Mr Lokhman Haris bin Abdul Karem<br>Ms Nur Atiqah Bte Nasir<br>Mdm Shahilla D/O K Balakrishnan (Mrs Raj)<br>Mdm Siti Mirna Bte Mustapah<br>Ms Siti Radilah Bte Ahmad Sidek<br>Mdm Sumrah Bte Chuni<br>Mdm Zulaiha Bte Osman<br><br><u>Silver Award</u><br>Mr Cheng Song Fong<br>Mdm Chew Xin Rong, Fiona<br>Mr Zachary Koh Jia Sheng<br>Mr Kevin Kok Wai Keong<br>Mr Liu Shucun<br>Mr Seong Then Yee<br>Mr Winston Chiang Ming Yao<br></td><td>MOE Service Excellence Awards</td></tr>
@@ -26,9 +26,9 @@ variant: markdown
 Mdm Shahilla d/o K Balakrishnan<br>Mr Wilfred Teo Yu Wen
 </td><td>National Day Awards<br><br>NIE Caring Teacher Award</td></tr>  
 	<tr><td>6</td><td>Mdm Lynn Loy Lin Li (Mrs Tan)<br>Mdm Rubi’ah Binte Massuan<br>Mr Amir Hamzah Bin Mohamed
-</td><td>Teachers’ Day Award<br><br>Inspiring Teacher Award</td></tr> 
+</td><td>Teachers’ Day Award<br>(Inspiring Teacher Award)<br></td></tr> 
 	<tr><td>7</td><td>Mdm Ng Ai Hoon<br>Ms Mavis Ho Min Yu<br>Mr Seong Then Yee<br>Mr Winston Chiang Ming Yao<br>
-Mr Wong Wei Long<br>Mr Zachary Koh Jia Sheng<br>Ms Siti Sarah Binte Mamat<br>Ms Quah Wei Wee<br>Ms Buganeswari D/O Somo Pillay<br>Ms Sabrina Ho Yen Yin<br>Ms Jaslin Jiang Wei Yeow<br>Mr Eric Koh Kai Hwee<br>Mdm Sumrah Binte Chuni<br>Mdm Zulaiha Bte Osman</td><td>Teachers’ Day Award <br><br>Caring Teacher Award</td></tr> 	
+Mr Wong Wei Long<br>Mr Zachary Koh Jia Sheng<br>Ms Siti Sarah Binte Mamat<br>Ms Quah Wei Wee<br>Ms Buganeswari D/O Somo Pillay<br>Ms Sabrina Ho Yen Yin<br>Ms Jaslin Jiang Wei Yeow<br>Mr Eric Koh Kai Hwee<br>Mdm Sumrah Binte Chuni<br>Mdm Zulaiha Bte Osman</td><td>Teachers’ Day Award <br>(Caring Teacher Award)<br></td></tr> 	
 	<tr><td>8</td><td>Mdm Sarifah Bte Tamsir (Facilitator of NLC)<br>Mdm Hairunisa Binte Hosnin (Facilitator of Workshop)<br>Mr Wilfred Teo Yu Wen (Innovator; SgLDC)<br>Mr Koh Chun Kiat (Innovator; SgLDC)</td><td>MOE AST Academy Award</td></tr> 
 	<tr><td>9</td><td><u>Platinum Award</u><br>
 		Mr Chiang Shu Lee<br><br><u>Gold Award</u><br>Mr Chiang Shu Lee<br>Mr Chang Hock Boon<br>Ms Chia Hwee Tze<br>Ms Chua Wei Tian<br>Mdm Hazwani Binte Abdul Wahid<br>Ms Ho Yen Yin Sabrina<br>Mr Joshua Tan See Kuang<br>Ms Khairunnisa Binte Rahmat<br>Mdm Mariamah Bte Mohd Yusoff<br>Mr Mohamed Ashiq Bin Mohamed Elias<br>
@@ -37,10 +37,10 @@ Mr Mohd Amin Bin Kadir<br>Mdm Salmia Binte Anuar<br>Mr Sanusi B Idris<br>Mdm Sar
 Mdm Anmilia Bte Anwar Datt<br>Mr Lokhman Haris Bin Abdul Karem<br>Ms Ng Mei Ling<br>Mdm Rubi'ah Binte Massuan<br>Mdm Sharifah Maimunah Bte Syed Mansoor<br>
 Ms Siti Radilah Binte Ahmad Sidek<br>Mdm Wong Jie Lin<br>Ms Wong Yun Yi<br>Mdm Zulaiha Bte Osman
 		</td><td>MOE Service Excellence Awards</td></tr>
-	<tr><td>10</td><td><u>Silver Award - Reimagine Test Tube Washing in Science Labs</u><br><br>(Ms Chua Wei Tian, Mr Mohamed Ali Bin Yunos, Mdm Tan Kwee Choo, Ms Khairunnisa Binte Rahmat)<br><br>
+	<tr><td>10</td><td><u>Silver Award - Reimagine Test Tube Washing in Science Labs</u><br><br>(Ms Chua Wei Tian, Mr Mohamed Ali Bin Yunos, <br>Mdm Tan Kwee Choo, Ms Khairunnisa Binte Rahmat)<br><br>
 <u>Silver Award - Customized motorized trolley</u>
 <br><br>
-(Mr Mohd Amin Bin Kadir, Mr Sanusi B Idris, Mdm Salmia Bte Anuar, Ms Dian Mayasari Binte Mohamed Tahir, Mr Seah Kok Thuan)
+(Mr Mohd Amin Bin Kadir, Mr Sanusi B Idris, <br>Mdm Salmia Bte Anuar, Ms Dian Mayasari <br>Binte Mohamed Tahir, Mr Seah Kok Thuan)
 </td><td>MOE Innergy Awards</td></tr>
 </tbody></table>
 
@@ -49,7 +49,7 @@ Ms Siti Radilah Binte Ahmad Sidek<br>Mdm Wong Jie Lin<br>Ms Wong Yun Yi<br>Mdm Z
 <table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mdm Lee Beng Choo<br>Mr Victor So Kwee Soon</td><td>National Day Awards <br><br>The Commendation Medal</td></tr><tr>
 <td>2</td><td>Mdm Hairunisa Binte Hosnin<br>Mr Leong Whye Meng Kelvin<br>Mr Albert Neo Chin Lee</td><td>National Day Awards<br><br>Long Service Medal</td></tr>  
 	<tr><td>3</td><td>Ms Hannah Lum Wan Ling (Innovator; SgLDC/SLS CG)<br>Ms Lee Wei Wei (Innovator; SgLDC/SLS CG)<br>Ms Mavis Ho Min Yu (Innovator; SgLDC/SLS CG)<br>Mr Mohd Amin Bin Kadir (Innovator)</td><td>AST Academy Awards for PD (Associate)</td></tr>
-	<tr><td>4</td><td>Mr Muhammad Omarali bin Zulkiflee<br>Ms Kimberlyn Lee<br>Ms Shayne Ong Chi Ying<br>Mr Abdul Halim bin Mohamed Udori<br>Mr Wilfred Teo Yu Wen<br>Mr Cheng Song Fong<br>Ms Nadirah binte Jamallodin<br>Ms Salsabila binte Ishak</td><td>Teachers' Day Awards<br><br>Caring Teacher Award</td></tr>  
+	<tr><td>4</td><td>Mr Muhammad Omarali bin Zulkiflee<br>Ms Kimberlyn Lee<br>Ms Shayne Ong Chi Ying<br>Mr Abdul Halim bin Mohamed Udori<br>Mr Wilfred Teo Yu Wen<br>Mr Cheng Song Fong<br>Ms Nadirah binte Jamallodin<br>Ms Salsabila binte Ishak</td><td>Teachers' Day Awards<br>(Caring Teacher Award)<br></td></tr>  
 	<tr><td>5</td><td>Mdm Siti Mariam binte Hashim<br>Mr Chang Hock Boon<br>Mr Ng Boon Tiong<br>Ms Ang Shi Ting Cecilia<br>Mr So Kwee Soon</td><td>NIE Caring Teacher Award</td></tr>  
 	<tr><td>6</td><td>5 Gold &amp; <br>17 Silver</td><td>MOE Service Excellence Award
 </td></tr> 
@@ -57,8 +57,8 @@ Ms Siti Radilah Binte Ahmad Sidek<br>Mdm Wong Jie Lin<br>Ms Wong Yun Yi<br>Mdm Z
 
 ### 2021
 
-<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mr Muhammad Omarali Bin Zulkiflee<br>Mr Ng Boon Tiong<br>Mdm Ng Ai Hoon<br>Mdm Nur Nadiah bte Adanan<br>Mr Matthew Ng Kai Wen<br>Ms June Ho Wei Wei<br>Ms Sabrina Ho<br>Ms Ng Mei Ling<br>Mr Zulkifli bin Mohamed Saat<br>Ms Parvin Bibi Marican<br>Mr Jonathan Chan Aik Beng<br>Mr Albert Neo Chin Lee</td><td>Teachers' Day Award<br><br>Caring Teacher Award</td></tr>
-	<tr><td>2</td><td>Ms Yuan Pin<br>Mr Kevin Teo Tze Yong<br>Mrs Shahilla Raj<br></td><td>Teachers' Day Award<br><br>Inspiring Teacher Award</td></tr> 	
+<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mr Muhammad Omarali Bin Zulkiflee<br>Mr Ng Boon Tiong<br>Mdm Ng Ai Hoon<br>Mdm Nur Nadiah bte Adanan<br>Mr Matthew Ng Kai Wen<br>Ms June Ho Wei Wei<br>Ms Sabrina Ho<br>Ms Ng Mei Ling<br>Mr Zulkifli bin Mohamed Saat<br>Ms Parvin Bibi Marican<br>Mr Jonathan Chan Aik Beng<br>Mr Albert Neo Chin Lee</td><td>Teachers' Day Award<br>(Caring Teacher Award)<br></td></tr>
+	<tr><td>2</td><td>Ms Yuan Pin<br>Mr Kevin Teo Tze Yong<br>Mrs Shahilla Raj<br></td><td>Teachers' Day Award<br>(Inspiring Teacher Award)<br></td></tr> 	
 		<tr><td>3</td><td>Mdm Sarifah Tamsir<br>Ms Leong Su Juen<br>Ms Jasmine Peh<br></td><td>AST Academy Award (Associate)</td></tr> 	
 </tbody></table>
 <br>
