@@ -4,6 +4,23 @@ permalink: /achievements/staff-accolades/
 description: ""
 variant: markdown
 ---
+### 2024
+<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mr Mohamed Ashiq Bin Mohamed Elias</td><td>LEAP Award – Singapore Hokkien Huay Kuan</td></tr><tr><td>2</td><td>Mdm Mariamah Mohd Yusoff</td><td>National Day Awards<br><br>The Commendation Medal</td></tr>  
+	<tr><td>3</td><td>Mr Sanusi B Idris</td><td>National Day Awards<br><br>The Efficiency Medal</td></tr>  
+	<tr><td>4</td><td>Mr Muhammad Omarali Bin Zulkiflee<br>Mdm Ong Chi Ying Shayne<br>Mr Chiang Shu Lee<br>Mdm Shahilla d/o K Balakrishnan(Mrs Raj)<br>Mr Wilfred Teo Yu Wen
+</td><td>NIE Caring Teacher Award</td></tr>  
+	<tr><td>5</td><td>Mr Lokhman Haris Bin Abdul Karem<br>Mdm Siti Mariam Bte Hashim<br>Mr Zachary Koh Jia Sheng</td><td>Teachers’ Day Award<br><br>Inspiring Teacher Award</td></tr> 
+	<tr><td>6</td><td>Ms Fam Hui Yuen<br>Ms Kimberlyn Lee<br>Mr Mohamed Iskandar Bin Ahmad<br>Ms Ng Mei Ling<br>Mr Ong Ting Kai<br>Mr Robert Lee Teck Hock<br>Mr Sim Chun Siang<br>Mdm Siti Mirna Bte Mustapah<br>Mr Victor So Kwee Soon<br>Mdm Yeong Wei Syn</td><td>Teachers’ Day Award <br><br>Caring Teacher Award</td></tr> 	
+	<tr><td>7</td><td>Mdm Siti Mariam Bte Hashim (Facilitator of Workshop)<br>Mdm Lynn Loy Lin Li  (Innovator; SgLDC)<br>Mr Ong Ting Kai (Facilitator of NLC)</td><td>AST Academy Awards for PD (Associate)</td></tr> 
+	<tr><td>8</td><td><u>Gold Award</u><br>
+		Mr Chiang Shu Lee<br><br><u>Gold Award</u><br>Mr Chiang Shu Lee<br>Mr Chang Hock Boon<br>Ms Chia Hwee Tze<br>Ms Chua Wei Tian<br>Mdm Hazwani Binte Abdul Wahid<br>Ms Ho Yen Yin Sabrina<br>Mr Joshua Tan See Kuang<br>Ms Khairunnisa Binte Rahmat<br>Mdm Mariamah Bte Mohd Yusoff<br>Mr Mohamed Ashiq Bin Mohamed Elias<br>
+Mr Mohd Amin Bin Kadir<br>Mdm Salmia Binte Anuar<br>Mr Sanusi B Idris<br>Mdm Sarifah Bte Tamsir<br>Mr Sim Keng Yam<br>Mdm Tan Kwee Choo<br><br>
+<u>Silver Award</u><br>
+Mdm Anmilia Bte Anwar Datt<br>Mr Lokhman Haris Bin Abdul Karem<br>Ms Ng Mei Ling<br>Mdm Rubi'ah Binte Massuan<br>Mdm Sharifah Maimunah Bte Syed Mansoor<br>
+Ms Siti Radilah Binte Ahmad Sidek<br>Mdm Wong Jie Lin<br>Ms Wong Yun Yi<br>Mdm Zulaiha Bte Osman
+		</td><td>MOE Service Excellence Awards</td></tr>
+</tbody></table>
+
 ### 2023
  
 <table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mr Mohd Amin Bin Kadir</td><td>National Day Awards <br><br>The Commendation Medal</td></tr><tr><td>2</td><td>Mdm Tan Kwee Choo</td><td>National Day Awards<br><br>The Efficiency Medal</td></tr>  
