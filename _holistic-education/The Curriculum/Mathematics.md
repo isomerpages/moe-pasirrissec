@@ -43,7 +43,6 @@ The Mathematics curriculum is closely aligned to MOE defined syllabus and includ
 | Math/ Additional Math/ Physics | Mr Seong Then Yee | [seong_then_yee@moe.edu.sg](mailto:seong_then_yee@moe.edu.sg) |
 | Math/ Chemistry | Mr Gan Chun Seng Stephen | [gan_chun_seng@moe.edu.sg](mailto:gan_chun_seng@moe.edu.sg) |
 | Math/ Chemistry | Mdm Zulaiha Osman | [zulaiha_osman@moe.edu.sg](mailto:zulaiha_osman@moe.edu.sg) |
-| Math | Mr Ong Rui Wen | [ong_rui_wen@moe.edu.sg](mailto:ong_rui_wen@moe.edu.sg) |
 | Math | Mdm Yeong Wei Syn | [yeong_wei_syn@moe.edu.sg](mailto:yeong_wei_syn@moe.edu.sg)|
 | Principles of Accounts/ Math | Ms Ng Mei Ling | [ng_mei_ling@moe.edu.sg](mailto:ng_mei_ling@moe.edu.sg)|
 | Principles of Accounts/ Math | Mr Lee Chee Weng | [lee_chee_weng@moe.edu.sg](mailto:lee_chee_weng@moe.edu.sg) |
