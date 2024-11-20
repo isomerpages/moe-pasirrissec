@@ -1,6 +1,6 @@
 ---
-title: Resources For Student
-permalink: /holistic-education/The-Curriculum/Resources-For-Student/
+title: Resources For Students
+permalink: /holistic-education/the-curriculum/resources-for-student/
 description: ""
 third_nav_title: The Curriculum
 variant: tiptap
