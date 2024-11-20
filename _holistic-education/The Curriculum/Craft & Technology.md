@@ -297,7 +297,7 @@ People
 Photos
 ------
 
-![](/images/craft_tech1.jpeg)
-![](/images/craft_tech2.jpeg)
-![](/images/craft_tech3.jpeg)
+[Comment]:(/images/craft_tech1.jpeg)
+![](/images/craft_tech2.jpeg)<br>
+![](/images/craft_tech3.jpeg)<br>
 ![](/images/craft_tech4.jpeg)
