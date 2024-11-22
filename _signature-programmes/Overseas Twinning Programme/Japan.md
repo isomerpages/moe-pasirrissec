@@ -17,6 +17,8 @@ In 2023, PRSS established partnership with Chitose Junior High School. As it was
 
 In 2024, PRSS connected with Kojimachi Junior High School. We scaled up on the number of students participating in this overseas exchange to allow all Sec 1 students to be able to participate and benefit from it. In preparation for the session, the Sec 1 students created presentations to share with their Japanese friends about the education system in Singapore from their CCAs to what they do daily as a student in Singapore. They also shared about their hobbies, as well as attractions in Singapore and invited their Japanese friends to visit Singapore. 
 
+Despite the language barrier, it was heartening to see that our students enjoyed the experience. Some of them took the initiative to learn Japanese for the interaction and used what they learnt during their conversations. Others used technology to translate and include Japanese words in their presentations to help their Japanese friends understand the content. Others learnt to change the settings in Zoom to translate their conversation from Japanese to English. Going forward, we hope to continue to provide Pasirians these rich authentic experiences to broaden their horizons beyond Singapore and to be global citizens who are rooted to Singapore. 
+
 ![](/images/Signature%20Programmes/Twinning/1.jpg)<br>
 ![](/images/Signature%20Programmes/Twinning/2.jpg)<br>
 ![](/images/Signature%20Programmes/Twinning/3.jpg)<br>
