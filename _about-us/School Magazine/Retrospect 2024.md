@@ -8,6 +8,6 @@ third_nav_title: School Magazine
 <h4><a href="https://sites.google.com/moe.edu.sg/inspire/home" rel="noopener nofollow" target="_blank">Retrospect 2024</a></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Inspire_.png">
-</div>
-<p></p>
+<a href="https://sites.google.com/moe.edu.sg/inspire/home"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Inspire_.png">
+</a></div><a href="https://sites.google.com/moe.edu.sg/inspire/home">
+<p></p></a>
