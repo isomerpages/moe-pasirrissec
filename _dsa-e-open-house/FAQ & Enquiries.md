@@ -18,4 +18,4 @@ variant: markdown
 
 ###  Enquiries
 
-If you have further enquiries, please click [here](http://gg.gg/eOH_enquiries).
+If you have further enquiries, please [contact us](/contact-us/)
