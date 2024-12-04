@@ -1,5 +1,5 @@
 ---
-title: School Motto, Crest and Songs
+title: School Motto, Crest and Song
 permalink: /about-us/school-symbols/
 description: ""
 variant: markdown
