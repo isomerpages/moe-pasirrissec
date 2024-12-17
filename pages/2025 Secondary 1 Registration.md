@@ -47,7 +47,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Sec_1_Camp_Oneiric.png">
 </div>
-<p><a href="/files/Sec 1 Registration/First_Day_of_School_and_Camp_Oneiric_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Camp Oneiric (Sec 1 Camp Programme)</a>
+<p><a href="/files/Sec 1 Registration/First_Day_of_School_and_Camp_Oneiric_Programme__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Camp Oneiric (Sec 1 Camp Programme)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
