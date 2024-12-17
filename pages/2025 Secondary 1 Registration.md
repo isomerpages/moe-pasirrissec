@@ -8,7 +8,7 @@ variant: markdown
 </p>
 <p><strong>Date:</strong> 19 December 2024</p>
 <p><strong>Time:</strong> 08:30 - 09:30 AM</p>
-<p><strong>Zoom Link:</strong> <a href="https://shorturl.at/M2yn9" rel="noopener noreferrer nofollow" target="_blank">shorturl.at/M2yn9</a>
+<p><strong>Meeting Link:</strong> <a href="https://shorturl.at/M2yn9" rel="noopener noreferrer nofollow" target="_blank">shorturl.at/M2yn9</a>
 </p>
 <p><strong>Passcode:</strong> AH7aa9UJ</p>
 <p></p>
@@ -38,7 +38,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" src="/images/Sec%201%20Registration/2023_e_Open_House.png">
 </div>
-<p><a href="/e-open-house/e-open-house" rel="noopener noreferrer nofollow" target="_blank">2024 e-Open House</a>
+<p><a href="/openhouse2024" rel="noopener noreferrer nofollow" target="_blank">2024 e-Open House</a>
 </p>
 </td>
 </tr>
