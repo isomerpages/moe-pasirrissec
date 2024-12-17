@@ -54,7 +54,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Message_to_2023_Sec_1_Pasirian.jpg">
 </div>
-<p><a href="/files/Sec 1 Registration/School_Hours.pdf" rel="noopener nofollow" target="_blank">School Hours</a>
+<p><a href="/files/Sec 1 Registration/School_Hours__updated_.pdf" rel="noopener nofollow" target="_blank">School Hours</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,7 +70,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Useful_links.png">
 </div>
-<p><strong><a href="/files/Sec 1 Registration/Sec_1_Reg_2024_Administrative_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">Admin Matters</a></strong>
+<p><strong><a href="/files/Sec 1 Registration/Sec_1_Reg_2024_Administrative_Matters__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Admin Matters</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
