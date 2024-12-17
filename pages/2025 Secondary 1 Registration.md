@@ -48,7 +48,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Sec_1_Camp_Oneiric.png">
 </div>
-<p><a href="/files/Sec 1 Registration/Sec_1_Camp_Oneiric_2024_For_Sec_1_Live_Engagement_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Camp Oneiric (Sec 1 Camp Programme)</a>
+<p><a href="/files/Sec 1 Registration/First_Day_of_School_and_Camp_Oneiric_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Camp Oneiric (Sec 1 Camp Programme)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/Sec%201%20Registration/A_Message_to_2024_Sec_1_Pasirians.pdf"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Message_to_2023_Sec_1_Pasirian.jpg"></a>
