@@ -50,7 +50,7 @@ variant: markdown
 <p><a href="/files/Sec 1 Registration/First_Day_of_School_and_Camp_Oneiric_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Camp Oneiric (Sec 1 Camp Programme)</a>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/Sec%201%20Registration/A_Message_to_2024_Sec_1_Pasirians.pdf"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Message_to_2023_Sec_1_Pasirian.jpg"></a>
+<td rowspan="1" colspan="1"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Message_to_2023_Sec_1_Pasirian.jpg">
 <p><a href="/files/Sec 1 Registration/School_Hours.pdf" rel="noopener nofollow" target="_blank">School Hours</a>
 </p>
 </td>
