@@ -7,10 +7,10 @@ variant: markdown
 <p><strong>Parent Engagement Session with School Leaders &amp; Key Personnel</strong>
 </p>
 <p><strong>Date:</strong> 19 December 2024</p>
-<p><strong>Time:</strong> 08:30 - 09:30 AM</p>
+<p><strong>Time:</strong> 02:30 - 03:30 PM</p>
 <p><strong>Meeting Link:</strong> <a href="https://shorturl.at/M2yn9" rel="noopener noreferrer nofollow" target="_blank">shorturl.at/M2yn9</a>
 </p>
-<p><strong>Passcode:</strong> AH7aa9UJ</p>
+<p><strong>Passcode:</strong> PRSS1912</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
