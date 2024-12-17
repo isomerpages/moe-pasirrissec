@@ -84,7 +84,7 @@ earlier.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Attire.png">
 </div>
-<p><a href="/files/Sec%201%20Registration/Attire.pdf" rel="noopener noreferrer nofollow" target="_blank">Attire</a>
+<p><a href="/files/Sec 1 Registration/School_Rules.pdf" rel="noopener noreferrer nofollow" target="_blank">School Rules</a>
 </p>
 </td>
 </tr>
