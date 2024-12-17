@@ -16,15 +16,14 @@ sections:
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
   - infopic:
-      title: PRSS Open House
+      title: Secondary 1 Registration
       subtitle: ANNOUNCEMENTS
       id: infopic
-      description: To all P6 students and parents, join us at our open house on 23
-        November to find out about the school's programmes and CCAs. We look
-        forward to hosting you!
+      description: On behalf of all staff and students, we welcome you and your child
+        to our Pasir family!
       image: /images/2024_Open_House_Poster.png
       alt: Image alt text
-      url: /openhouse2024/
+      url: /2025-secondary-1-registration/
       button: Find out more
   - infopic:
       title: PRSS 39th Anniversary
