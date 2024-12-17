@@ -10,7 +10,7 @@ to attend our welcome and briefing session via Microsoft Teams.</p>
 <p><strong>Topic:</strong> Parent Engagement Session</p>
 <p><strong>Time:</strong> Dec 19, 2024 08:30 - 09:30 AM Singapore</p>
 <p>Join Meeting</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://</a><a href="https://shorturl.at/M2yn9" rel="noopener noreferrer nofollow" target="_blank">shorturl.at/M2yn9 </a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://</a><a href="https://shorturl.at/M2yn9" rel="noopener noreferrer nofollow" target="_blank">shorturl.at/M2yn9</a>
 </p>
 <p><strong>Meeting ID:</strong> 496 016 283 005</p>
 <p><strong>Passcode:</strong> AH7aa9UJ</p>
@@ -124,7 +124,7 @@ earlier.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FAQ.png">
 </div>
-<p><a href="/files/PRSS_2023_Sec_1_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>
+<p><a href="/files/Sec 1 Registration/FAQs.pdf" rel="noopener nofollow" target="_blank">FAQs</a>
 </p>
 </td>
 </tr>
