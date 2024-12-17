@@ -20,7 +20,7 @@ sections:
       subtitle: ANNOUNCEMENTS
       id: infopic
       description: On behalf of all staff and students, we welcome you and your child
-        to our Pasir family!
+        to our Pasirian Family!
       image: /images/2024_Open_House_Poster.png
       alt: Image alt text
       url: /2025-secondary-1-registration/
