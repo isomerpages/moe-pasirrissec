@@ -2,13 +2,13 @@
 title: 2025 Secondary 1 Registration
 permalink: /2025-secondary-1-registration/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Parent Engagement Session with School Leaders &amp; Key Personnel</strong>
 </p>
 <p><strong>Date:</strong> 19 December 2024</p>
 <p><strong>Time:</strong> 02:30 - 03:30 PM</p>
-<p><strong>Meeting Link:</strong> <a href="https://shorturl.at/M2yn9" rel="noopener noreferrer nofollow" target="_blank">shorturl.at/M2yn9</a>
+<p><strong>Microsoft Teams ID/Link:</strong> 496 016 283 005 / <a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/ycy6zk5w</a>
 </p>
 <p><strong>Passcode:</strong> PRSS1912</p>
 <p></p>
@@ -50,7 +50,10 @@ variant: markdown
 <p><a href="/files/Sec 1 Registration/First_Day_of_School_and_Camp_Oneiric_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Camp Oneiric (Sec 1 Camp Programme)</a>
 </p>
 </td>
-<td rowspan="1" colspan="1"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Message_to_2023_Sec_1_Pasirian.jpg">
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Message_to_2023_Sec_1_Pasirian.jpg">
+</div>
 <p><a href="/files/Sec 1 Registration/School_Hours.pdf" rel="noopener nofollow" target="_blank">School Hours</a>
 </p>
 </td>
