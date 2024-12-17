@@ -8,8 +8,7 @@ variant: markdown
 </p>
 <p><strong>Date:</strong> 19 December 2024</p>
 <p><strong>Time:</strong> 08:30 - 09:30 AM</p>
-<p><strong>Zoom Link:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://</a>
-<a href="https://shorturl.at/M2yn9" rel="noopener noreferrer nofollow" target="_blank">shorturl.at/M2yn9</a>
+<p><strong>Zoom Link:</strong> <a href="https://shorturl.at/M2yn9" rel="noopener noreferrer nofollow" target="_blank">shorturl.at/M2yn9</a>
 </p>
 <p><strong>Passcode:</strong> AH7aa9UJ</p>
 <p></p>
@@ -96,7 +95,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Stu_support_icon.png">
+<img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Stu_support_icon.png">
 </div>
 <p><a href="/files/Sec 1 Registration/Support_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Support for Students</a>
 </p>
