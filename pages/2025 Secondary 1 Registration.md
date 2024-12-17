@@ -86,7 +86,8 @@ variant: tiptap
 <p><strong>Useful Links</strong>
 </p>
 <p>FAS application</p>
-<p>Sec 1 Appeal Transfer Form</p>
+<p><a href="https://form.gov.sg/6743cc12746742c1d1ddb907" rel="noopener nofollow" target="_blank">Sec 1 Appeal Transfer Form</a>
+</p>
 </td>
 </tr>
 <tr>
