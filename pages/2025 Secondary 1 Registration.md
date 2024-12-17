@@ -2,14 +2,13 @@
 title: 2025 Secondary 1 Registration
 permalink: /2025-secondary-1-registration/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p><strong>Parent Engagement Session with School Leaders &amp; Key Personnel</strong>
 </p>
 <p><strong>Date:</strong> 19 December 2024</p>
 <p><strong>Time:</strong> 08:30 - 09:30 AM</p>
-<p><strong>Zoom Link:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://</a>
-<a href="https://shorturl.at/M2yn9" rel="noopener noreferrer nofollow" target="_blank">shorturl.at/M2yn9</a>
+<p><strong>Zoom Link:</strong> <a href="https://shorturl.at/M2yn9" rel="noopener noreferrer nofollow" target="_blank">shorturl.at/M2yn9</a>
 </p>
 <p><strong>Passcode:</strong> AH7aa9UJ</p>
 <p></p>
@@ -51,7 +50,7 @@ variant: tiptap
 <p><a href="/files/Sec 1 Registration/First_Day_of_School_and_Camp_Oneiric_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Camp Oneiric (Sec 1 Camp Programme)</a>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/Sec%201%20Registration/A_Message_to_2024_Sec_1_Pasirians.pdf"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Message_to_2023_Sec_1_Pasirian.jpg"></a>
+<td rowspan="1" colspan="1"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Message_to_2023_Sec_1_Pasirian.jpg">
 <p><a href="/files/Sec 1 Registration/School_Hours.pdf" rel="noopener nofollow" target="_blank">School Hours</a>
 </p>
 </td>
@@ -96,7 +95,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Stu_support_icon.png">
+<img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Stu_support_icon.png">
 </div>
 <p><a href="/files/Sec 1 Registration/Support_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Support for Students</a>
 </p>
