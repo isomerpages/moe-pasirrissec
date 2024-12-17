@@ -16,15 +16,15 @@ sections:
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
   - infopic:
-      title: PRSS Open House
+      title: Secondary 1 Registration
       subtitle: ANNOUNCEMENTS
       id: infopic
-      description: To all P6 students and parents, join us at our open house on 23
-        November to find out about the school's programmes and CCAs. We look
-        forward to hosting you!
-      image: /images/2024_Open_House_Poster.png
+      description: On behalf of all staff and students, we welcome you and your child
+        to our Pasirian Family! Click on the link below for the 2025 Secondary 1
+        posting information.
+      image: /images/Welcome_Page__updated_.png
       alt: Image alt text
-      url: /openhouse2024/
+      url: /2025-secondary-1-registration/
       button: Find out more
   - infopic:
       title: PRSS 39th Anniversary
