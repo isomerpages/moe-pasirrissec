@@ -100,7 +100,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Stu_support_icon.png">
 </div>
-<p><a href="/files/Sec 1 Registration/Support_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Support for Students</a>
+<p><a href="/files/Sec 1 Registration/Support_for_Students__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Support for Students</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
