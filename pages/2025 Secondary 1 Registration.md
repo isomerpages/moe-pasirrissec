@@ -68,7 +68,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Useful_links.png">
 </div>
-<p><strong>Admin Matters</strong>
+<p><strong><a href="/files/Sec 1 Registration/Sec_1_Reg_2024_Administrative_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">Admin Matters</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
