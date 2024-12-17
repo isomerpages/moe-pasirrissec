@@ -25,7 +25,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Key_Personnel.png">
 </div>
-<p><a href="/about-us/Our-People/Key-Personnel" rel="noopener noreferrer nofollow" target="_blank">Home Teachers</a>
+<p><a href="/files/Sec 1 Registration/Home_Teachers.pdf" rel="noopener noreferrer nofollow" target="_blank">Home Teachers</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
