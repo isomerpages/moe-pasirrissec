@@ -72,6 +72,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Book_icon.png">
+</div>
 <p>Purchase of Book List</p>
 <p>School Uniform</p>
 <p>School Vendors</p>
@@ -88,6 +91,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Stu_support_icon.png">
+</div>
 <p>Support for Students</p>
 </td>
 <td rowspan="1" colspan="1">
