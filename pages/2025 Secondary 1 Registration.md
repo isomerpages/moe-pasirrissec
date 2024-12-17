@@ -4,39 +4,14 @@ permalink: /2025-secondary-1-registration/
 description: ""
 variant: tiptap
 ---
-<p>All parents and incoming Secondary 1 students are strongly encouraged
-to attend our welcome and briefing session via Microsoft Teams.</p>
-<p></p>
-<p><strong>Topic:</strong> Parent Engagement Session</p>
-<p><strong>Time:</strong> Dec 19, 2024 08:30 - 09:30 AM Singapore</p>
-<p>Join Meeting</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://</a><a href="https://shorturl.at/M2yn9" rel="noopener noreferrer nofollow" target="_blank">shorturl.at/M2yn9</a>
+<p><strong>Parent Engagement Session with School Leaders &amp; Key Personnel</strong>
 </p>
-<p><strong>Meeting ID:</strong> 496 016 283 005</p>
+<p><strong>Date:</strong> 19 December 2024</p>
+<p><strong>Time:</strong> 08:30 - 09:30 AM</p>
+<p><strong>Zoom Link:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://</a>
+<a href="https://shorturl.at/M2yn9" rel="noopener noreferrer nofollow" target="_blank">shorturl.at/M2yn9</a>
+</p>
 <p><strong>Passcode:</strong> AH7aa9UJ</p>
-<p></p>
-<p>Please refer to the below slides from the Sec 1 Live Engagement session
-earlier.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Sec 1 Registration/P_s_slides_for_sec_1registration_2023_Pupdated_final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal Welcome Slides for Sec 1</a>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec 1 Registration/2024_PDLP_Parent_Engagement_Deck__Sec_1_Registration___For_Sharing_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDLP Parent Engagement Slides</a></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -50,7 +25,8 @@ earlier.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Key_Personnel.png">
 </div>
-<p><a href="/about-us/Our-People/Key-Personnel" rel="noopener noreferrer nofollow" target="_blank">Key Personnel</a>
+<p><a href="/files/Sec 1 Registration/FAQs.pdf" rel="noopener nofollow" target="_blank">FAQs</a>
+<a href="/about-us/Our-People/Key-Personnel" rel="noopener noreferrer nofollow" target="_blank">Home Teachers</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,7 +40,7 @@ earlier.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" src="/images/Sec%201%20Registration/2023_e_Open_House.png">
 </div>
-<p><a href="/e-open-house/e-open-house" rel="noopener noreferrer nofollow" target="_blank">2023 e-Open House</a>
+<p><a href="/e-open-house/e-open-house" rel="noopener noreferrer nofollow" target="_blank">2024 e-Open House</a>
 </p>
 </td>
 </tr>
@@ -73,11 +49,11 @@ earlier.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Sec_1_Camp_Oneiric.png">
 </div>
-<p><a href="/files/Sec 1 Registration/Sec_1_Camp_Oneiric_2024_For_Sec_1_Live_Engagement_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Camp Oneiric (Sec 1 Camp)</a>
+<p><a href="/files/Sec 1 Registration/Sec_1_Camp_Oneiric_2024_For_Sec_1_Live_Engagement_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Camp Oneiric (Sec 1 Camp Programme)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/Sec%201%20Registration/A_Message_to_2024_Sec_1_Pasirians.pdf"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Message_to_2023_Sec_1_Pasirian.jpg"></a>
-<p><a href="/files/Sec 1 Registration/A_Message_to_2024_Sec_1_Pasirians.pdf" rel="noopener noreferrer nofollow" target="_blank">A_Message_to_2024_Sec_1_Pasirians</a>
+<p><a href="/files/Sec 1 Registration/A_Message_to_2024_Sec_1_Pasirians.pdf" rel="noopener noreferrer nofollow" target="_blank">School Hours</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,39 +69,29 @@ earlier.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Useful_links.png">
 </div>
-<p>Useful Links:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/useful-links/Information-for-Parents/Booklist" rel="noopener noreferrer nofollow" target="_blank">Book List &amp; Uniform</a>
+<p>Admin Matters</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/contact-us" rel="noopener noreferrer nofollow" target="_blank">Contact Information</a>
 </p>
-</li>
-<li>
-<p><a href="/useful-links/Information-for-Parents/Financial-Assistance/" rel="noopener noreferrer nofollow" target="_blank">FAS Application</a>
-</p>
-</li>
-<li>
-<p><a href="https://form.gov.sg/657f91ac1a441c0011466ed2" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Appeal Form</a>
-</p>
-</li>
-<li>
-<p><a href="/useful-links/Information-for-Parents/General-School-Information/" rel="noopener noreferrer nofollow" target="_blank">General School Information</a>
-</p>
-</li>
-</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Contact_Information.png">
 </div>
-<p><a href="/contact-us" rel="noopener noreferrer nofollow" target="_blank">Contact Information</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FAQ.png">
 </div>
-<p><a href="/files/Sec 1 Registration/FAQs.pdf" rel="noopener nofollow" target="_blank">FAQs</a>
-</p>
 </td>
 </tr>
 </tbody>
