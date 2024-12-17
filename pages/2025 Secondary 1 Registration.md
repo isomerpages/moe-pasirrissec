@@ -8,7 +8,7 @@ variant: markdown
 </p>
 <p><strong>Date:</strong> 19 December 2024</p>
 <p><strong>Time:</strong> 08:30 - 09:30 AM</p>
-<p><strong>Zoom Link:</strong> <a href="https://shorturl.at/M2yn9" rel="noopener noreferrer nofollow" target="_blank">shorturl.at/M2yn9</a>
+<p><strong>Meeting Link:</strong> <a href="https://shorturl.at/M2yn9" rel="noopener noreferrer nofollow" target="_blank">shorturl.at/M2yn9</a>
 </p>
 <p><strong>Passcode:</strong> AH7aa9UJ</p>
 <p></p>
