@@ -75,9 +75,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Book_icon.png">
 </div>
-<p>Purchase of Book List</p>
-<p>School Uniform</p>
-<p>School Vendors</p>
+<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/information-for-parents/booklist/" rel="noopener nofollow" target="_blank">Sec 1 Booklist and Uniform Sale</a>
+</p>
+<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/information-for-parents/school-vendors/" rel="noopener nofollow" target="_blank">School Vendors</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -85,7 +86,8 @@ variant: tiptap
 </div>
 <p><strong>Useful Links</strong>
 </p>
-<p>FAS application</p>
+<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/Information-for-Parents/Financial-Assistance/" rel="noopener nofollow" target="_blank">FAS Application</a>
+</p>
 <p><a href="https://form.gov.sg/6743cc12746742c1d1ddb907" rel="noopener nofollow" target="_blank">Sec 1 Appeal Transfer Form</a>
 </p>
 </td>
