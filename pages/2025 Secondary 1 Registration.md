@@ -25,8 +25,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Key_Personnel.png">
 </div>
-<p><a href="/files/Sec 1 Registration/FAQs.pdf" rel="noopener nofollow" target="_blank">FAQs</a>
-<a href="/about-us/Our-People/Key-Personnel" rel="noopener noreferrer nofollow" target="_blank">Home Teachers</a>
+<p><a href="/about-us/Our-People/Key-Personnel" rel="noopener noreferrer nofollow" target="_blank">Home Teachers</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,29 +68,42 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Useful_links.png">
 </div>
-<p>Admin Matters</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/contact-us" rel="noopener noreferrer nofollow" target="_blank">Contact Information</a>
+<p><strong>Admin Matters</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Purchase of Book List</p>
+<p>School Uniform</p>
+<p>School Vendors</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png">
+</div>
+<p><strong>Useful Links</strong>
+</p>
+<p>FAS application</p>
+<p>Sec 1 Appeal Transfer Form</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Support for Students</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Contact_Information.png">
 </div>
+<p><a href="https://pasirrissec.moe.edu.sg/contact-us" rel="noopener nofollow" target="_blank">Contact Information</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FAQ.png">
 </div>
+<p><a href="/files/Sec 1 Registration/FAQs.pdf" rel="noopener nofollow" target="_blank">FAQs</a>
+</p>
 </td>
 </tr>
 </tbody>
