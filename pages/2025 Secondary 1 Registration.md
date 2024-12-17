@@ -32,7 +32,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png">
 </div>
-<p><a href="https://form.gov.sg/657f930638ddfa00120a1723" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Online Registration Form (COMPULSORY)</a>
+<p><a href="https://form.gov.sg/6743c463134eac173226e9e6" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Online Registration Form (COMPULSORY)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
