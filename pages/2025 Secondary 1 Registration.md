@@ -8,7 +8,7 @@ variant: tiptap
 </p>
 <p><strong>Date:</strong> 19 December 2024</p>
 <p><strong>Time:</strong> 2:30 - 3:30 PM</p>
-<p><strong>Microsoft Teams ID/Link:</strong> 496 016 283 005 / <a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/ycy6zk5w</a>
+<p><strong>Microsoft Teams ID/Link:</strong> 496 016 283 005 / <a href="https://go.gov.sg/prsswelcome2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/prsswelcome2025</a>
 </p>
 <p>(It is advisable to use a laptop and access the link via a web browser.
 If you are using your mobile phone, you will need to download the Microsoft
