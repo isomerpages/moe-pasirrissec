@@ -25,6 +25,7 @@ sections:
       button: Click to view
       url: /2025-secondary-1-registration/
       alt: Image alt text
+      image: /images/Welcome_Page__updated_18122025_.png
   - infopic:
       title: PRSS 39th Anniversary
       subtitle: EVENTS
