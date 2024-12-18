@@ -38,37 +38,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4A1</p>
+<p>1-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FIONA CHEW XIN RONG</p>
+<p>JUMIAH AHMAD</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_xin_rong_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_xin_rong_fiona@moe.edu.sg</a>
+<p><a href="mailto:jumiah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jumiah_ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4A2</p>
+<p>1-2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>JONATHAN NG TIAN LOONG</p>
 <p>SEONG THEN YEE</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:ng_tian_loong_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_tian_loong_jonathan@moe.edu.sg</a>
+</p>
 <p><a href="mailto:seong_then_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seong_then_yee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4A2</p>
+<p>1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NORAIDAH BTE SUWANDI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:noraidah_suwandi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noraidah_suwandi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -100,12 +105,11 @@ variant: tiptap
 <p>4E4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JUMIAH AHMAD</p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jumiah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jumiah_ahmad@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -459,11 +463,10 @@ variant: tiptap
 <p>3E3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JONATHAN NG TIAN LOONG</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_tian_loong_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_tian_loong_jonathan@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -519,11 +522,10 @@ variant: tiptap
 <p>3E5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NORAIDAH BTE SUWANDI</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noraidah_suwandi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noraidah_suwandi@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
