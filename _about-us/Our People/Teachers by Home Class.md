@@ -55,12 +55,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>JONATHAN NG TIAN LOONG</p>
-<p>SEONG THEN YEE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_tian_loong_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_tian_loong_jonathan@moe.edu.sg</a>
-</p>
-<p><a href="mailto:seong_then_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seong_then_yee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -82,12 +79,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ERIC KOH KAI HWEE</p>
-<p>CHENG SONG FONG</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_kai_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_kai_hwee@moe.edu.sg</a>
-</p>
-<p><a href="mailto:cheng_song_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_song_fong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -181,12 +176,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>WINSTON CHIANG MING YAO</p>
-<p>RUBIAH MASSUAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:winston_chiang_ming_yao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">winston_chiang_ming_yao@moe.edu.sg</a>
-</p>
-<p><a href="mailto:rubiah_massuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rubiah_massuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -211,6 +203,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeong_wei_syn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeong_wei_syn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MABEL ZHANG LINGJIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhang_lingjia_mabel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_lingjia_mabel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -467,21 +471,11 @@ variant: tiptap
 <p>3A2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>DANIEL NG TZE KEEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3E3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_tze_keen_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_tze_keen_daniel@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -489,10 +483,23 @@ variant: tiptap
 <p>3E3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>RUBI'AH MASSUAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:rubiah_massuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rubiah_massuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3E3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHENG SONG FONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheng_song_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_song_fong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -500,10 +507,11 @@ variant: tiptap
 <p>3E4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SEONG THEN YEE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:seong_then_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seong_then_yee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
