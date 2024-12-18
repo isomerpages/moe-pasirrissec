@@ -16,6 +16,17 @@ sections:
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
   - infopic:
+      title: Secondary 1 Registration
+      subtitle: ANNOUNCEMENTS
+      id: infopic
+      description: On behalf of all staff and students, we welcome you and your child
+        to our Pasirian Family! Click on the link below for the 2025 Secondary 1
+        posting information.
+      button: Click to view
+      url: /2025-secondary-1-registration/
+      alt: Image alt text
+      image: /images/Welcome_Page__updated_18122025_.png
+  - infopic:
       title: PRSS 39th Anniversary
       subtitle: EVENTS
       id: infopic
