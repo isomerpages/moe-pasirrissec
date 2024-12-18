@@ -67,19 +67,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/Information-for-Parents/Financial-Assistance/" rel="noopener nofollow" target="_blank">Application of Financial Assistance</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec 1 Registration/2025_PDLP_Parent_Engagement_Deck__Sec_1_Registration_.pdf" rel="noopener noreferrer nofollow" target="_blank">Personalised Digital Learning Programme (PDLP)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Full Subject-Based Banding</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Useful_links.png">
 </div>
@@ -105,10 +92,56 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FAS.png">
+</div>
+<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/Information-for-Parents/Financial-Assistance/" rel="noopener nofollow" target="_blank">Application of Financial Assistance</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/PDLP.png">
+</div>
+<p><a href="/files/Sec 1 Registration/2025_PDLP_Parent_Engagement_Deck__Sec_1_Registration_.pdf" rel="noopener noreferrer nofollow" target="_blank">Personalised Digital Learning Programme (PDLP)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/SBB.png">
+</div>
+<p><a href="/files/Sec 1 Registration/fSBB_Slides_for_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Full Subject-Based Banding</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Stu_support_icon.png">
 </div>
 <p><a href="/files/Sec 1 Registration/Support_for_Students__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Support for Students</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/CCA.png">
+</div>
+<p><a href="/files/Sec 1 Registration/Sec_1_Registration_2024_CCAs.pdf" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activities</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FAQ.png">
+</div>
+<p><a href="/files/Sec 1 Registration/FAQs.pdf" rel="noopener nofollow" target="_blank">FAQs</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -119,11 +152,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FAQ.png">
-</div>
-<p><a href="/files/Sec 1 Registration/FAQs.pdf" rel="noopener nofollow" target="_blank">FAQs</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
