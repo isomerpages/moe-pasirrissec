@@ -2,7 +2,7 @@
 title: 2025 Secondary 1 Registration
 permalink: /2025-secondary-1-registration/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Clarification Session with School Leaders &amp; Key Personnel</strong>
 </p>
@@ -110,7 +110,8 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 80%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/SBB.png">
 </div>
-<p>Full Subject-Based Banding</p>
+<p><a href="/files/Sec 1 Registration/fSBB_Slides_for_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Full Subject-Based Banding</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +128,8 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/CCA.png">
 </div>
-<p>Co-Curricular Activities</p>
+<p><a href="/files/Sec 1 Registration/Sec_1_Registration_2024_CCAs.pdf" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activities</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
