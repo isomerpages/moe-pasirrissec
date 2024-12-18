@@ -71,7 +71,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Personalised Digital Learning Programme (PDLP)</p>
+<p><a href="/files/Sec 1 Registration/2025_PDLP_Parent_Engagement_Deck__Sec_1_Registration_.pdf" rel="noopener noreferrer nofollow" target="_blank">Personalised Digital Learning Programme (PDLP)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Full Subject-Based Banding</p>
