@@ -14,9 +14,9 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>HOD Student Management</p>
+</td>
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
@@ -81,6 +81,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:parvin_bibi_marican@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">parvin_bibi_marican@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head Lower Secondary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Jialin, Karen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">karen_jl_tan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -158,6 +170,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Richmond Ang Dy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="richmond_ang_dy@moe.edu.sg" rel="noopener nofollow" target="_blank">richmond_ang_dy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD Physical Education &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -189,6 +213,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_hafidz_khan_surattee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hafidz_khan_surattee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Strategic Partnership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ow Kok Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ow_kok_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ow_kok_meng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
