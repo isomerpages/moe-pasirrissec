@@ -176,7 +176,8 @@ variant: tiptap
 <p>Mr Richmond Ang Dy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>richmond_ang_dy@moe.edu.sg</p>
+<p><a href="richmond_ang_dy@moe.edu.sg" rel="noopener nofollow" target="_blank">richmond_ang_dy@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
