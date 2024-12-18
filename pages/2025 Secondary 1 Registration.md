@@ -4,13 +4,13 @@ permalink: /2025-secondary-1-registration/
 description: ""
 variant: tiptap
 ---
-<p><strong>Parent Engagement Session with School Leaders &amp; Key Personnel</strong>
+<p><strong>Clarification Session with School Leaders &amp; Key Personnel</strong>
 </p>
 <p><strong>Date:</strong> 19 December 2024</p>
 <p><strong>Time:</strong> 02:30 - 03:30 PM</p>
 <p><strong>Microsoft Teams ID/Link:</strong> 496 016 283 005 / <a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/ycy6zk5w</a>
 </p>
-<p><strong>Passcode:</strong> PRSS1912</p>
+<p><strong>Passcode:</strong> Welcome</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -47,7 +47,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Sec_1_Camp_Oneiric.png">
 </div>
-<p><a href="/files/Sec 1 Registration/First_Day_of_School_and_Camp_Oneiric_Programme__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Camp Oneiric (Sec 1 Camp Programme)</a>
+<p><a href="/files/Sec 1 Registration/First_Day_of_School_and_Camp_Oneiric_Programme__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Sec 1 Camp Programme</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,30 +67,36 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/Information-for-Parents/Financial-Assistance/" rel="noopener nofollow" target="_blank">Application of Financial Assistance</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Personalised Digital Learning Programme (PDLP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Full Subject-Based Banding</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Useful_links.png">
 </div>
-<p><strong><a href="/files/Sec 1 Registration/Sec_1_Reg_2024_Administrative_Matters__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Admin Matters</a></strong>
+<p><a href="/files/Sec 1 Registration/Sec_1_Reg_2024_Administrative_Matters__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen and Use of Smart Card</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 25%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Book_icon.png">
 </div>
-<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/information-for-parents/booklist/" rel="noopener nofollow" target="_blank">Sec 1 Booklist and Uniform Sale</a>
-</p>
-<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/information-for-parents/school-vendors/" rel="noopener nofollow" target="_blank">School Vendors</a>
+<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/information-for-parents/booklist/" rel="noopener nofollow" target="_blank">Purchase of Books and School Uniform</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png">
 </div>
-<p><strong>Useful Links</strong>
-</p>
-<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/Information-for-Parents/Financial-Assistance/" rel="noopener nofollow" target="_blank">FAS Application</a>
-</p>
-<p><a href="https://form.gov.sg/6743cc12746742c1d1ddb907" rel="noopener nofollow" target="_blank">Sec 1 Appeal Transfer Form</a>
+<p><a href="https://form.gov.sg/6743cc12746742c1d1ddb907" rel="noopener nofollow" target="_blank">Sec 1 Transfers</a>
 </p>
 </td>
 </tr>
