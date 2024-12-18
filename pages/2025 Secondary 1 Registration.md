@@ -70,7 +70,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Useful_links.png">
 </div>
-<p><a href="/files/Sec 1 Registration/Sec_1_Reg_2024_Administrative_Matters__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen and Use of Smart Card</a>
+<p><a href="/files/Sec 1 Registration/Sec_1_Reg_2024_Administrative_Matters__new_updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen and Use of Smart Card</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
