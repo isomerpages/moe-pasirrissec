@@ -10,8 +10,9 @@ variant: tiptap
 <p><strong>Time:</strong> 2:30 - 3:30 PM</p>
 <p><strong>Microsoft Teams ID/Link:</strong> 496 016 283 005 / <a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/ycy6zk5w</a>
 </p>
-<p><strong>Passcode:</strong> Welcome</p>
-<p></p>
+<p>(It is advisable to use a laptop and access the link via a web browser.
+If you are using your mobile phone, you will need to download the Microsoft
+Teams application through your Play Store/App Store.)</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
