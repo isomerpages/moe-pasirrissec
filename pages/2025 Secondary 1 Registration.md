@@ -148,7 +148,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Contact_Information.png">
 </div>
-<p><a href="https://pasirrissec.moe.edu.sg/contact-us" rel="noopener nofollow" target="_blank">Contact Information</a>
+<p><a href="https://pasirrissec.moe.edu.sg/Contact-Us" rel="noopener nofollow" target="_blank">Contact Information</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
