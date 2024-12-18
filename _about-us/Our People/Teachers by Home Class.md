@@ -690,7 +690,7 @@ variant: tiptap
 <p>KEVIN KOK WAI KEONG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Kok_Wai_Keong_Kevin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kok_Wai_Keong_Kevin@moe.edu.sg</a>
+<p><a href="mailto:Kok_Wai_Keong_Kevin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kok_wai_keong_kevin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -714,8 +714,8 @@ variant: tiptap
 <p>PEARLYN CHIA KAI LING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liu_shu_cun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Pearlyn Chia Kai </a>
-<a href="mailto:Ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ling@moe.edu.sg</a>
+<p><a href="mailto:liu_shu_cun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pearlyn chia kai </a>
+<a href="mailto:Ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
