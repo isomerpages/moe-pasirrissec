@@ -4,7 +4,7 @@ permalink: /2025-secondary-1-registration/
 description: ""
 variant: tiptap
 ---
-<p><strong>Clarification Session with School Leaders &amp; Key Personnel </strong>
+<p><strong>Clarification Session with School Leaders &amp; Key Personnel</strong>
 </p>
 <p><strong>Date:</strong> 19 December 2024</p>
 <p><strong>Time:</strong> 02:30 - 03:30 PM</p>
@@ -74,7 +74,7 @@ variant: tiptap
 <p>Personalised Digital Learning Programme (PDLP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Full Subject-Based Banding</p>
 </td>
 </tr>
 <tr>
@@ -96,9 +96,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png">
 </div>
-<p><strong>Useful Links</strong>
-</p>
-<p><a href="https://form.gov.sg/6743cc12746742c1d1ddb907" rel="noopener nofollow" target="_blank">Sec 1 Appeal Transfer Form</a>
+<p><a href="https://form.gov.sg/6743cc12746742c1d1ddb907" rel="noopener nofollow" target="_blank">Sec 1 Transfers</a>
 </p>
 </td>
 </tr>
