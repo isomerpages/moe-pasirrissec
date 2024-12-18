@@ -480,13 +480,13 @@ variant: tiptap
 <p>ROBERT LEE TECK HOCK</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chee_weng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chee_weng_a@moe.edu.sg</a>
+<p><a href="mailto:lee_teck_hock_robert@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_hock_robert@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E3</p>
+<p>4E3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HAIRUNISA BTE HOSNIN</p>
@@ -498,7 +498,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E3</p>
+<p>4E3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>KEVIN KOK WAI KEONG</p>
@@ -510,7 +510,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E4</p>
+<p>4E4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NG MEI LING</p>
@@ -522,19 +522,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LIU SHUCUN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liu_shu_cun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_shu_cun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3E4</p>
+<p>4E4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PEARLYN CHIA KAI LING</p>
@@ -547,19 +535,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E5</p>
+<p>4E5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SITI MARIAM BTE HASHIM</p>
+<p>NAZRENE AKBAR ALI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_mariam_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_mariam_hashim@moe.edu.sg</a>
+<p><a href="mailto:nazrene_akbar_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazrene_akbar_ali@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E5</p>
+<p>4E5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>COLIN LEE KUAN WEI</p>
@@ -571,7 +559,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E6</p>
+<p>4E6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SHAHILLA RAJ</p>
@@ -583,7 +571,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E6</p>
+<p>4E6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ZACHARY KOH JIA SHENG</p>
@@ -595,7 +583,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3T7</p>
+<p>4T7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JASLIN JIANG WEI</p>
@@ -678,11 +666,10 @@ variant: tiptap
 <p>4A2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NAZRENE AKBAR ALI</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nazrene_akbar_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazrene_akbar_ali@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
