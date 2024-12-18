@@ -70,7 +70,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Useful_links.png">
 </div>
-<p><a href="/files/Sec 1 Registration/Sec_1_Reg_2024_Administrative_Matters__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen and Use of Smart Card</a>
+<p><a href="/files/Sec 1 Registration/Sec_1_Reg_2024_Administrative_Matters__new_updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen and Use of Smart Card</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,7 +84,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png">
 </div>
-<p><a href="/files/Sec 1 Registration/S1_School_Transfers.pdf" rel="noopener nofollow" target="_blank">Sec 1 Transfers</a>
+<p><a href="/files/Sec 1 Registration/S1_School_Transfers.pdf" rel="noopener nofollow" target="_blank">Sec 1 Appeal for Admission</a>
 </p>
 </td>
 </tr>
@@ -148,7 +148,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Contact_Information.png">
 </div>
-<p><a href="https://pasirrissec.moe.edu.sg/contact-us" rel="noopener nofollow" target="_blank">Contact Information</a>
+<p><a href="https://pasirrissec.moe.edu.sg/Contact-Us" rel="noopener nofollow" target="_blank">Contact Information</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
