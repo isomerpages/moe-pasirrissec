@@ -84,7 +84,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png">
 </div>
-<p><a href="/files/Sec 1 Registration/S1_School_Transfers.pdf" rel="noopener nofollow" target="_blank">Sec 1 Transfers</a>
+<p><a href="/files/Sec 1 Registration/S1_School_Transfers.pdf" rel="noopener nofollow" target="_blank">Sec 1 Appeal for Admission</a>
 </p>
 </td>
 </tr>
