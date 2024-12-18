@@ -445,7 +445,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>LIM YONG LIANG</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:abdul_halim_mohamed_udori@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yong_liang@moe.edu.sg</a>
