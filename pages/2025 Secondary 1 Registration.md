@@ -10,8 +10,9 @@ variant: tiptap
 <p><strong>Time:</strong> 2:30 - 3:30 PM</p>
 <p><strong>Microsoft Teams ID/Link:</strong> 496 016 283 005 / <a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/ycy6zk5w</a>
 </p>
-<p><strong>Passcode:</strong> Welcome</p>
-<p></p>
+<p>(It is advisable to use a laptop and access the link via a web browser.
+If you are using your mobile phone, you will need to download the Microsoft
+Teams application through your Play Store/App Store.)</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -47,7 +48,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Sec_1_Camp_Oneiric.png">
 </div>
-<p><a href="/files/Sec 1 Registration/First_Day_of_School_and_Camp_Oneiric_Programme__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Sec 1 Camp Programme</a>
+<p><a href="/files/Sec 1 Registration/First_Day_of_School_and_Camp_Oneiric_Programme__new_updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Sec 1 Camp Programme</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
