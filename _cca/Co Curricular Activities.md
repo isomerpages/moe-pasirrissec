@@ -151,7 +151,7 @@ approved by HOD PE/CCA.
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:85%;float:left" height="auto" width="100%" src="/images/netball.png">
+<img style="width:50%;float:left" height="auto" width="100%" src="/images/netball.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
