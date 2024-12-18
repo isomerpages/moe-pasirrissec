@@ -6,6 +6,192 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3><strong>Secondary 1</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VINCENT YEW KAH KEAT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yew_kah_keat_vincent@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yew_kah_keat_vincent@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4A1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FIONA CHEW XIN RONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_xin_rong_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_xin_rong_fiona@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4A2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEONG THEN YEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seong_then_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seong_then_yee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4A2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHENG SONG FONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheng_song_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_song_fong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SABRINA HO YEN YIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_yen_yin_sabrina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yen_yin_sabrina@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JUMIAH AHMAD</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jumiah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jumiah_ahmad@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>QUAH WEI WEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:quah_wei_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quah_wei_wee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NEO CHIN LEE ALBERT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:neo_chin_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_chin_lee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIANG SHU LEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chiang_shu_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiang_shu_lee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4E6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ONG CHI YING SHAYNE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chi_ying_shayne_ong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chi_ying_shayne_ong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4T7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RUBIAH MASSUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rubiah_massuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rubiah_massuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4T7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h3><strong>Secondary 2</strong></h3>
 <table style="minWidth: 75px">
@@ -250,12 +436,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ABDUL HALIM MOHAMED UDORI</p>
-<p>VINCENT YEW KAH KEAT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:abdul_halim_mohamed_udori@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_halim_mohamed_udori@moe.edu.sg</a>
-</p>
-<p><a href="mailto:yew_kah_keat_vincent@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yew_kah_keat_vincent@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -608,191 +791,6 @@ variant: tiptap
 </tbody>
 </table>
 <h3></h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4A1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4A1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FIONA CHEW XIN RONG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chew_xin_rong_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_xin_rong_fiona@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4A2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SEONG THEN YEE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:seong_then_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seong_then_yee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4A2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4E3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHENG SONG FONG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_song_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_song_fong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4E3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SABRINA HO YEN YIN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ho_yen_yin_sabrina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yen_yin_sabrina@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4E4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JUMIAH AHMAD</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jumiah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jumiah_ahmad@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4E4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>QUAH WEI WEE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:quah_wei_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quah_wei_wee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4E5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4E5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NEO CHIN LEE ALBERT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:neo_chin_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_chin_lee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4E6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHIANG SHU LEE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chiang_shu_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiang_shu_lee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4E6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ONG CHI YING SHAYNE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chi_ying_shayne_ong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chi_ying_shayne_ong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4T7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RUBIAH MASSUAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rubiah_massuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rubiah_massuan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4T7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3><strong>Secondary 5</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
