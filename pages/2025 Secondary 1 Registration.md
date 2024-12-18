@@ -92,7 +92,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FAS.png">
+<img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FAS.png">
 </div>
 <p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/Information-for-Parents/Financial-Assistance/" rel="noopener nofollow" target="_blank">Application of Financial Assistance</a>
 </p>
@@ -100,7 +100,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/PDLP.png">
+<img style="width: 40%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/PDLP.png">
 </div>
 <p><a href="/files/Sec 1 Registration/2025_PDLP_Parent_Engagement_Deck__Sec_1_Registration_.pdf" rel="noopener noreferrer nofollow" target="_blank">Personalised Digital Learning Programme (PDLP)</a>
 </p>
@@ -108,7 +108,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/SBB.png">
+<img style="width: 80%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/SBB.png">
 </div>
 <p>Full Subject-Based Banding</p>
 </td>
