@@ -102,7 +102,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/PDLP.png">
 </div>
-<p><a href="/files/Sec 1 Registration/2025_PDLP_Parent_Engagement_Deck__Sec_1_Registration_.pdf" rel="noopener noreferrer nofollow" target="_blank">Personalised Digital Learning Programme (PDLP)</a>
+<p><a href="/files/Sec 1 Registration/2025_PDLP_Parent_Engagement_Deck__Sec_1_Registration__2.pdf" rel="noopener noreferrer nofollow" target="_blank">Personalised Digital Learning Programme (PDLP)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
