@@ -61,7 +61,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Attire.png">
 </div>
-<p><a href="/files/Sec 1 Registration/School_Rules.pdf" rel="noopener noreferrer nofollow" target="_blank">School Rules</a>
+<p><a href="/files/Sec 1 Registration/School_Rules_and_Regulations__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">School Rules</a>
 </p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/CCA.png">
 </div>
-<p><a href="/files/Sec 1 Registration/Sec_1_Registration_2024_CCAs.pdf" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activities</a>
+<p><a href="/files/Sec 1 Registration/CCA_S1Briefing_19Dec2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activities</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
