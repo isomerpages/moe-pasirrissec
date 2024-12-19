@@ -136,7 +136,7 @@ Teams application through your Play Store/App Store.)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FAQ.png">
 </div>
-<p><a href="/files/Sec 1 Registration/FAQs.pdf" rel="noopener nofollow" target="_blank">FAQs</a>
+<p><a href="/files/Sec 1 Registration/FAQs_updated.pdf" rel="noopener nofollow" target="_blank">FAQs</a>
 </p>
 </td>
 </tr>
