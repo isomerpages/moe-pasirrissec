@@ -4,15 +4,16 @@ permalink: /2025-secondary-1-registration/
 description: ""
 variant: tiptap
 ---
-<p><strong>Clarification Session with School Leaders &amp; Key Personnel</strong>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Sec 1 Registration/Principal_s_Welcome_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal’s Welcome Address</a>
 </p>
-<p><strong>Date:</strong> 19 December 2024</p>
-<p><strong>Time:</strong> 2:30 - 3:30 PM</p>
-<p><strong>Microsoft Teams ID/Link:</strong> 496 016 283 005 / <a href="https://go.gov.sg/prsswelcome2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/prsswelcome2025</a>
+</li>
+<li>
+<p><a href="/files/Sec 1 Registration/Presenters_deck_Sec_1_2025_Parent_Engagement_Session.pdf" rel="noopener noreferrer nofollow" target="_blank">Presenter’s Deck</a>
 </p>
-<p>(It is advisable to use a laptop and access the link via a web browser.
-If you are using your mobile phone, you will need to download the Microsoft
-Teams application through your Play Store/App Store.)</p>
+</li>
+</ol>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
