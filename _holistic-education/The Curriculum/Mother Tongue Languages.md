@@ -51,6 +51,8 @@ Professional development includes department retreats and learning journeys, ope
 | Chinese Language | Ms Wang Xiangkun | [wang_xiangkun@moe.edu.sg](mailto:wang_xiangkun@moe.edu.sg) |
 | Chinese Language | Mdm Jin Beihua | [jin_beihua@moe.edu.sg](mailto:jin_beihua@moe.edu.sg) |
 | Chinese Language | Ms Desiree Oh Yi Ting | [oh_yi_ting_desiree@moe.edu.sg](mailto:oh_yi_ting_desiree@moe.edu.sg) |
+| Chinese Language | Mdm Liu Yang | [liu_yang@moe.edu.sg](mailto:liu_yang@moe.edu.sg)  |
+| Chinese Language | Mdm Tan Sai Kee | [tan_sai_kee@moe.edu.sg](mailto:tan_sai_kee@moe.edu.sg) |
 | Malay Language | Mdm Rubi'ah Binte Massuan | [rubiah_massuan@moe.edu.sg](mailto:rubiah_massuan@moe.edu.sg) |
 | Malay Language | Mdm Fazidah Bte Mohd Lias  | [fazidah_mohamed_lias@moe.edu.sg](mailto:fazidah_mohamed_lias@moe.edu.sg) |
 | Malay Language | Mdm Anmilia Bte Anwar Datt  | [anmilia_anwar_datt@moe.edu.sg](mailto:anmilia_anwar_datt@moe.edu.sg) |
