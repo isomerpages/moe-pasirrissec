@@ -36,6 +36,7 @@ Since 2015, our school has been on the Applied Learning Programme (ALP) in Human
 | Humanities | Ms Mindy Low Lixian | [mindy_low_lixian@moe.edu.sg](mailto:mindy_low_lixian@moe.edu.sg) |
 | Humanities | Ms Buganeswari D/O Somo Pillay | [buganeswari_somo_pillay@moe.edu.sg](mailto:buganeswari_somo_pillay@moe.edu.sg ) |
 | Humanities | Mr Ernest Yeo Yincai | [yeo_yingcai_ernest@moe.edu.sg](mailto:yeo_yingcai_ernest@moe.edu.sg) |
+| Humanities | Ms Mabel Zhang Lingjia |[zhang_lingjia_mabel@moe.edu.sg](mailto:zhang_lingjia_mabel@moe.edu.sg) |
 
 ### Photos
 
