@@ -65,7 +65,7 @@ variant: tiptap
 <p>Year Head Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Ashiq Mohamed Elias</p>
+<p>Mr Mohamed Ashiq Mohamed Elia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamed_ashiq_mohamed_elia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_ashiq_mohamed_elia@moe.edu.sg</a>
@@ -290,18 +290,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Discipline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohammed Riffaii Bin Maidin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohammed_riffaii_maidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_riffaii_maidin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH Educational Technology</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -482,7 +470,7 @@ variant: tiptap
 <p>Mr Desmond Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:HO_Kheng_Chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">HO_Kheng_Chan@moe.edu.sg</a>
+<p><a href="mailto:HO_Kheng_Chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kheng_chan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -494,7 +482,7 @@ variant: tiptap
 <p>Mdm Hazwani Bte Abdul Wahid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Hazwani_ABDUL_WAHID@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Hazwani_ABDUL_WAHID@moe.edu.sg</a>
+<p><a href="mailto:Hazwani_ABDUL_WAHID@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hazwani_abdul_wahid@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -506,7 +494,7 @@ variant: tiptap
 <p>Mr Mohd Amin Bin Kadir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Mohd_Amin_KADIR@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mohd_Amin_KADIR@moe.edu.sg</a>
+<p><a href="mailto:Mohd_Amin_KADIR@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_amin_kadir@moe.edu.sg</a>
 </p>
 </td>
 </tr>

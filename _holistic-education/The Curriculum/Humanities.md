@@ -25,7 +25,7 @@ Since 2015, our school has been on the Applied Learning Programme (ALP) in Human
 | History / Social Studies | Mr Hafidz Khan Surattee Muhammad <br> HOD Student Management | [muhammad_hafidz_khan_surattee@moe.edu.sg](mailto:muhammad_hafidz_khan_surattee@moe.edu.sg) |
 | History | Mdm Mariamah Mohd Yusoff <br> LT History | [mariamah_mohd_yusoff@moe.edu.sg](mailto:mariamah_mohd_yusoff@moe.edu.sg) |
 | Geography | Mdm Sarifah Bte Tamsir <br> LT Geography | [sarifah_tamsir@moe.edu.sg](mailto:sarifah_tamsir@moe.edu.sg)|
-| Social Studies / Geography | Mdm Hairunisa binte Hosnin <br> ST Geography | [hairunisa_hosnin@moe.edu.sg](mailto:hairunisa_hosnin@moe.edu.sg) |
+| Social Studies / Geography | Mdm Hairunisa binte Hosnin <br> ST Social Studies | [hairunisa_hosnin@moe.edu.sg](mailto:hairunisa_hosnin@moe.edu.sg) |
 | Geography / English Language | Mdm Noraidah Bte Suwandi | [noraidah_suwandi@moe.edu.sg](mailto:noraidah_suwandi@moe.edu.sg) |
 | Elements of Business Skills / English Language | Mdm Lee Wei Wei | [lee_wei_wei@moe.edu.sg](mailto:lee_wei_wei@moe.edu.sg) |
 | Geography / Social Studies | Ms Sabrina Ho Yen Yin | [ho_yen_yin_sabrina@moe.edu.sg](mailto:ho_yen_yin_sabrina@moe.edu.sg)|
@@ -36,6 +36,7 @@ Since 2015, our school has been on the Applied Learning Programme (ALP) in Human
 | Humanities | Ms Mindy Low Lixian | [mindy_low_lixian@moe.edu.sg](mailto:mindy_low_lixian@moe.edu.sg) |
 | Humanities | Ms Buganeswari D/O Somo Pillay | [buganeswari_somo_pillay@moe.edu.sg](mailto:buganeswari_somo_pillay@moe.edu.sg ) |
 | Humanities | Mr Ernest Yeo Yincai | [yeo_yingcai_ernest@moe.edu.sg](mailto:yeo_yingcai_ernest@moe.edu.sg) |
+| Humanities | Ms Mabel Zhang Lingjia |[zhang_lingjia_mabel@moe.edu.sg](mailto:zhang_lingjia_mabel@moe.edu.sg) |
 
 ### Photos
 
