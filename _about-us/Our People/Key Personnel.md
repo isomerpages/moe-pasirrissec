@@ -290,18 +290,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Discipline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohammed Riffaii Bin Maidin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohammed_riffaii_maidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_riffaii_maidin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH Educational Technology</p>
 </td>
 <td rowspan="1" colspan="1">
