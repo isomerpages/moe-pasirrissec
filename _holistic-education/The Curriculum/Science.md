@@ -103,7 +103,8 @@ Click to view the virtual tour of our school's [Eco Garden](https://www.theasys.
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
-| Biology / Lower Secondary Science| Mr Joshua Tan<br>HOD Character &amp; Citizenship Education<br>[covering HOD Science] |  [joshua_tan_see_kuang@moe.edu.sg](mailto:joshua_tan_see_kuang@moe.edu.sg) | 
+| HOD Science| Mr Mr Richmond Ang Dy | [richmond_ang_dy@moe.edu.sg](mailto:richmond_ang_dy@moe.edu.sg) | 
+| Biology / Lower Secondary Science| Mr Joshua Tan<br>HOD Character &amp; Citizenship Education |  [joshua_tan_see_kuang@moe.edu.sg](mailto:joshua_tan_see_kuang@moe.edu.sg) | 
 | Chemistry | Mr Chua Khoon Wee<br>HOD Information Communication Technology | [chua_Khoon_Wee@moe.edu.sg](mailto:chua_Khoon_Wee@moe.edu.sg) |
 | Chemistry | Mr Sim Chun Siang<br>HOD Student Development  | [sim_chun_siang@moe.edu.sg](mailto:sim_chun_siang@moe.edu.sg) | 
 | Physics / NT Science| Mr Mohamed Ashiq<br>YH Upper Secondary | [mohamed_ashiq_mohamed@moe.edu.sg](mailto:mohamed_ashiq_mohamed@moe.edu.sg) | 
@@ -120,6 +121,7 @@ Click to view the virtual tour of our school's [Eco Garden](https://www.theasys.
 | Chemistry / Lower Secondary Science / Mathematics | Mdm Zulaiha Bte Osman | [zulaiha_osman@moe.edu.sg](mailto:zulaiha_osman@moe.edu.sg) |
 | STEM Instructor | Mdm Dinah Tan Kwee Choo | [tan_kwee_choo@moe.edu.sg](mailto:tan_kwee_choo@moe.edu.sg) |
 | STEM Instructor | Ms Khairunnisa Bte Rahmat | [khairunnisa_rahmat@moe.edu.sg](mailto:khairunnisa_rahmat@moe.edu.sg) |
+| STEM Instructor | Mr Mohammad Faiz Mohd Tahir | [mohammad_faiz_mohd_tahir@moe.edu.sg](mailto:mohammad_faiz_mohd_tahir@moe.edu.sg) |
 
 #### Photos
 
