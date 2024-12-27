@@ -42,6 +42,7 @@ Special Commendation Award for Best Big Idea and Insight
 * Mr Chiang Shu Lee (OIC) 
 * Mr Koh Chun Kiat (2IC)
 * Ms. Wendy Wong 
+* Ms. Siti Radilah (ICT Manager)
  
 ### **Photos / Videos**
 ![](/images/CCA/AVL/Website_Collage_V2.jpg)
