@@ -818,6 +818,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5A1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN SAI KEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_sai_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sai_kee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
