@@ -40,8 +40,9 @@ Special Commendation Award for Best Big Idea and Insight
 ### **Teachers-in-charge**
 
 * Mr Chiang Shu Lee (OIC) 
-* Mdm Jin Beihua
-* Mr Koh Chun Kiat 
+* Mr Koh Chun Kiat (2IC)
+* Ms. Wendy Wong 
+* Ms. Siti Radilah (ICT Manager)
  
 ### **Photos / Videos**
 ![](/images/CCA/AVL/Website_Collage_V2.jpg)
