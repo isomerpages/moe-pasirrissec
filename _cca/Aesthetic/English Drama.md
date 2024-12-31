@@ -55,11 +55,9 @@ At the end of four years in Drama Club, students will become more confident, wel
 
 ### **Teachers-in-charge**
 
-* Ms. Faith Nah (IC)
+* Mdm. Shahilla (OIC)
 * Ms. Jumiah Ahmad (2IC)
 * Ms. Nithiyaa
-* Mdm. Nazrene
-* Mdm. Shahilla
 
 ### **Instructor:**
 Mr. Ian Loy  
