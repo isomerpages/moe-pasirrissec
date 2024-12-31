@@ -26,15 +26,15 @@ variant: markdown
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Monday | 3.00pm - 6.00pm | Integrated Sports Hall |
-| Thursday | 3.00pm - 6.00pm | Integrated Sports Hall |
+| Monday | 3.00pm - 6.00pm | Lower ISH |
+| Thursday | 3.00pm - 6.00pm | Upper ISH |
 
 ##### **Girls Team**
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 3.00pm - 6.00pm | Integrated Sports Hall |
-| Friday | 1.30pm - 4.30pm | Integrated Sports Hall |
+| Tuesday | 3.00pm - 6.00pm | Upper ISH |
+| Wednesday| 3.00pm - 6.00pm | Upper ISH |
 
 ### **Teachers-in-charge**
 
