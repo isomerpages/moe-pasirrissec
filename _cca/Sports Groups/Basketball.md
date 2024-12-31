@@ -34,8 +34,8 @@ Participated in National School Games - EZ "C" Division Basketball Tournament 20
 
 | Day  | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 3.00pm - 5.30pm  | Lower ISH |
-| Thursday | 3.00pm - 6.00pm | OTH / Parade Square |
+| Tuesday | 3.00pm - 5.30pm  | Parade Square  |
+| Thursday | 3.00pm - 6.00pm | Lower ISH |
 
 ### **Teachers-in-charge**
 
