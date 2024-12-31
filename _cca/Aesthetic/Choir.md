@@ -35,7 +35,8 @@ Every year is an exciting year for PRSS Choir, with an array of meaningful activ
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Monday / Thursday | 3.30pm - 6.30pm | Choir Room |
+| Monday | 3.30pm - 6.30pm | Music Room / AVA Room |
+| Thursday | 3.30pm - 6.30pm | Music Room |
 
 ### **Teachers-in-charge**
 
