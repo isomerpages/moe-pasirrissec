@@ -20,7 +20,7 @@ sections:
       subtitle: Announcements
       id: infobar
       button: Click here
-      url: /files/Announcements/First_Day_of_School_Program_2025.pdf
+      url: files%2FAnnouncements%2F2025/First_Day_of_School_Program_2025.pdf
   - infopic:
       title: Secondary 1 Registration
       subtitle: ANNOUNCEMENTS
