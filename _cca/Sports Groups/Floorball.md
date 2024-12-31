@@ -17,8 +17,8 @@ Our boys participated in our maiden National School Games Floorball Championship
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Monday | 2.30pm - 5.30pm | Hall / ISH |
-| Friday    | 2.30pm - 5.30pm  | Hall / ISH |
+| Monday | 2.30pm - 5.30pm | Hall |
+| Friday    | 2.30pm - 5.30pm  | Hall |
 
 
 ### **Teacher-in-charge**
