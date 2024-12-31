@@ -76,10 +76,11 @@ UNIT OVERALL PROFICENCY AWARD - DISTINCTION (2022)
 
 ### **Teachers-in-charge**
 
-* Mr Seong Then Yee (IC)
-* Ms Kimberlyn Lee (2IC)
-* Ms Desiree Oh 
+* Mr Seong Then Yee 
+* Ms Kimberlyn Lee
 * Mr Zachary Koh
+* Ms Desiree Oh 
+* Mdm Karen Tan Jialin
 
 ### **Photos / Videos**
 
