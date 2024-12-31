@@ -33,7 +33,7 @@ Check out this video link for their performance during the East District competi
 | -------- | -------- | 
 | Mr Cheng Song Fong (IC)  | Mr Stephen Gan (IC)| 
 | Mr Ernest Yeo (2IC)  | Ms Sabrina Ho (2IC) | 
-
+| Mdm Mabel Zhang Lingjia  |  | 
 ### **Photos / Videos**
 
 ![](/images/CCA/NCC/ncc%2001.JPG)
