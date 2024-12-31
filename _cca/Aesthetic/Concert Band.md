@@ -50,6 +50,7 @@ The Concert Band, led by 2 well-respected conductors, has a dynamic programme to
 * Mr. Lokhman Haris 
 * Ms. Pearlyn Chia
 * Ms. Ong Ting Kai
+* Ms. Khew Sing Eian
 
 #### **Conductors**
 Mr Md Faizal Othman<br>
