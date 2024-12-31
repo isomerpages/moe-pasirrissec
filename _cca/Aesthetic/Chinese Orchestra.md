@@ -41,6 +41,7 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 | Day | Time | Venue |
 | -------- | -------- | -------- |
 | Tuesday | 3.15pm - 6.30pm | CO Room |
+| Thursday | 3.15pm - 6.30pm | CO Room |
 
 ##### **Sectionals Practice**
 
