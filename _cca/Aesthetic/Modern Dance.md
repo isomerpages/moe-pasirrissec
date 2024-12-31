@@ -41,8 +41,8 @@ We have a busy schedule every year and we pride ourselves in presenting the best
 
 | Day | Time | Venue |
 | --- | --- | --- |
-| Monday  | 3.15pm - 6.30pm | Music Room |
-|Thursday | 3.15pm - 6.30pm | AVA Room 
+| Monday  | 3.15pm - 6.30pm | AVA Room |
+| Thursday | 3.15pm - 6.30pm | AVA Room |
 
 ### **Teachers-in-charge**
 
