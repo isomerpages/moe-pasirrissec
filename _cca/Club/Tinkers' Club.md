@@ -28,15 +28,14 @@ At Tinkers Club, students learn about crafting and coding. As we live in an IT s
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday  | 3.30pm - 6.00pm | Tinkers' Club Room |
-| Thursday | 3.30pm - 6.00pm | Tinkers' Club Room |
+| Tuesday  | 3.30pm - 6.00pm | Tinkers' Club Room/ D&amp;T Workshop 2 |
+| Thursday | 3.30pm - 6.00pm | Tinkers' Club Room/ D&amp;T Workshop 2 |
 
 ### **Teachers-in-charge**
 
 * Mr. Wilfred Teo (OIC)
-* Mr. Noor Rahman Saini (2IC)  
+* Mr. Noor Rahman Saini  
 * Ms. Maryam bte Anuar
-* Mohamed Ali Yunos (STEM Instructor)
 
 ### **Photos / Videos**
 

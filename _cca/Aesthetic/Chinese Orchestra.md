@@ -41,6 +41,7 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 | Day | Time | Venue |
 | -------- | -------- | -------- |
 | Tuesday | 3.15pm - 6.30pm | CO Room |
+| Thursday | 3.15pm - 6.30pm | CO Room |
 
 ##### **Sectionals Practice**
 
@@ -53,9 +54,9 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 * Mdm Siti Sarah (OIC) 
 * Ms Ng Mei Ling (2IC)
 * Mdm Ng Ai Hoon 
-* Mr Kevin Kok 
 * Mdm Yeong Wei Syn 
 * Ms Fam Hui Yuen
+* Mdm Jin Beihua 
 
 #### **Conductor**
 Mr Chin Yen Choong

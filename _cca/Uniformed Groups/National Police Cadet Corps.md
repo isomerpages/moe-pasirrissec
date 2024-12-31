@@ -71,15 +71,16 @@ UNIT OVERALL PROFICENCY AWARD - DISTINCTION (2022)
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 3.30pm - 6.00pm | New Foyer / Parade Square |
-| Friday | 2.30pm - 6.00pm | New Foyer / Parade Square |
+| Tuesday | 3.30pm - 6.00pm | New Foyer/ Tar Road (S1/S2)/ Parade Square (S3) |
+| Wednesday | 3.00pm - 6.00pm | New Foyer/ Tar Road (S1/S2)/ Parade Square (S3) |
 
 ### **Teachers-in-charge**
 
-* Mr Seong Then Yee (IC)
-* Ms Kimberlyn Lee (2IC)
-* Ms Desiree Oh 
+* Mr Seong Then Yee 
+* Ms Kimberlyn Lee
 * Mr Zachary Koh
+* Ms Desiree Oh 
+* Mdm Karen Tan Jialin
 
 ### **Photos / Videos**
 

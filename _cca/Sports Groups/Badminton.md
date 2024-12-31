@@ -29,7 +29,7 @@ Participation in NSG 'B' Division Badminton Championships 2024 (East Zone)
 | -------- | -------- | -------- |
 | Monday |3.00pm - 6.00pm | Competition Period |
 | Tuesday | 3.00pm - 6.00pm | School Hall |
-| Thursday |3.00pm - 6.00pm | School Hall |
+| Thursday | 3.00pm - 6.00pm | School Hall |
 
 
 ### **Teachers-in-charge**

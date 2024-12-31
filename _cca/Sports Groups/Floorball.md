@@ -17,12 +17,13 @@ Our boys participated in our maiden National School Games Floorball Championship
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Monday | 2.30pm - 5.30pm | Hall / ISH |
-| Friday    | 2.30pm - 5.30pm  | Hall / ISH |
+| Monday | 2.30pm - 5.30pm | Hall |
+| Wednesday  | 3.00pm - 6.00pm  | Hall |
 
 
 ### **Teacher-in-charge**
-Mr Amir HMS
+* Mr Amir HMS (IC)
+* Mr Kevin Kok
 
 ### **Coach**
 Mr Amir HMS

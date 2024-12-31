@@ -34,8 +34,8 @@ Special Commendation Award for Best Big Idea and Insight
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday  | 3.30pm - 6.00pm | AVL Room / Computer Labs |
-| Thursday | 3.30pm - 6.00pm | AVL Room / Computer Labs |
+| Tuesday  | 3.30pm - 6.00pm | Computer Lab 2/ AVL Room |
+| Thursday | 3.30pm - 6.00pm | Computer Lab 2/ AVL Room (Odd Week) |
 
 ### **Teachers-in-charge**
 

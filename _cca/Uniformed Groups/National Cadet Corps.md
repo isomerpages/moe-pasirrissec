@@ -24,8 +24,8 @@ Check out this video link for their performance during the East District competi
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday <br>(when there are no HQ activities) | 3.00pm - 6.00pm | Parade Square |
-| Friday <br>(when there are no HQ activities) | 2.30pm - 5.30pm | Parade Square |
+| Tuesday <br>(when there are no HQ activities) | 3.00pm - 6.00pm | L3 Classrooms/ Eco Garden |
+| Wednesday <br>(when there are no HQ activities) | 3.00pm - 6.00pm | L3 Classrooms/ Eco Garden |
 
 ### **Teachers-in-charge**
 
@@ -33,6 +33,7 @@ Check out this video link for their performance during the East District competi
 | -------- | -------- | 
 | Mr Cheng Song Fong (IC)  | Mr Stephen Gan (IC)| 
 | Mr Ernest Yeo (2IC)  | Ms Sabrina Ho (2IC) | 
+|   | Mdm Mabel Zhang Lingjia | 
 
 ### **Photos / Videos**
 
