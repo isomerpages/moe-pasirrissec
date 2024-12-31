@@ -38,11 +38,12 @@ variant: markdown
 
 ### **Teachers-in-charge**
 
+* Mr Chang Hock Boon (IC)
+* Mr Liu Shucun 
+* Mdm Wang Xiangkun (IC)
+* Mdm Liu Yang
 * Mr Andy Law 
-* Mr Chang Hock Boon 
-* Mdm Wang Xiangkun
-* Mr Mohamed Riffaii bin Maidin
-* Mr Liu Shucun (From Jun)
+* Mr Ow Kok Meng
 
 ### **Coach**
 
