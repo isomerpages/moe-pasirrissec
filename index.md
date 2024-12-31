@@ -15,6 +15,12 @@ sections:
         - title: Information for Parents
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
+  - infobar:
+      title: "First Day of School Program: 2 Jan 2025"
+      subtitle: Announcements
+      id: infobar
+      button: Click here
+      url: /files/Announcements/First_Day_of_School_Program_2025.pdf
   - infopic:
       title: Secondary 1 Registration
       subtitle: ANNOUNCEMENTS
