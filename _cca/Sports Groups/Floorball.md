@@ -22,7 +22,8 @@ Our boys participated in our maiden National School Games Floorball Championship
 
 
 ### **Teacher-in-charge**
-Mr Amir HMS
+* Mr Amir HMS (IC)
+* Mr Kevin Kok
 
 ### **Coach**
 Mr Amir HMS
