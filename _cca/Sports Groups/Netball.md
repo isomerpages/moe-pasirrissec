@@ -35,8 +35,8 @@ We are helping out our neighbouring Yumin Primary school to have friendly matche
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Monday | 3.30pm - 6.30pm | Upper Indoor Sports Hall |
-| Friday | 1.30pm - 4.30pm | Upper Indoor Sports Hall |
+| Monday | 3.30pm - 6.30pm | Upper ISH |
+| Friday | 1.30pm - 4.30pm | Upper ISH |
 
 ### **Teachers-in-charge**
 
