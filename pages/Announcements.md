@@ -4,11 +4,12 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### 2025 Timetable from 3 Jan till 7 Jan (3 Days)
+#### 2025 Term 1 Newsflash
 
-Please click [here](/files/Announcements/2025/Timetable_for_Sec_1_from_3_Jan_till_7_Jan.pdf) to access the 2025 timetable from 3 Jan till 7 Jan for Secondary 1 classes <br>
-Please click [here](/files/Announcements/2025/Timetable_for_Sec_2_from_3_Jan_till_7_Jan.pdf) to access the 2025 timetable from 3 Jan till 7 Jan for Secondary 2 classes <br>
-Please click [here](/files/Announcements/2025/Timetable_for_Sec_3___5N_from_3_Jan_till_7_Jan.pdf) to access the 2025 timetable from 3 Jan till 7 Jan for Secondary 3 - 5N classes
+Greetings for the New Year and welcome back to school!&nbsp;<br>
+We are pleased to share with you the school’s broad directions and key initiatives for 2025.<br>
+Please click [here](/files/Newsflash_Term_1_2025.pdf) to view the 2025 PRSS Newsletter.<br>
+
 
 #### Sale of School Uniform
 
