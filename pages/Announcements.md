@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### 2025 Term 1 Newsflash
 
-Greetings for the New Year and welcome back to school!&nbsp;<br>
+Greetings for the New Year and welcome back to school!<br>
 We are pleased to share with you the school’s broad directions and key initiatives for 2025.<br>
 Please click [here](/files/Newsflash_Term_1_2025.pdf) to view the 2025 PRSS Newsletter.<br>
 
@@ -30,6 +30,3 @@ Students may purchase or exchange school uniform on the above dates. The school 
 #### 2025 Booklists and Sale of School Uniform
 
 Please click [here](/useful-links/information-for-parents/booklist/) to view the 2025 booklists and sale of school uniform.
-
-#### Collection of School Graduation Certificate (SGC) for 2023 Cohort
-Students from 2023 Sec 4NA, Sec 4 Exp, Sec 4NT and Sec 5NA cohorts may collect their SGC from the school General Office during office hours.
