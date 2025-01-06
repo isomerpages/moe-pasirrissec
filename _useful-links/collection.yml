@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Student Handbook.md
       - School Calendar.md
       - Subject Combination Exercise/.keep
       - Subject Combination Exercise/Sec 3 Subject Combination Exercise.md
