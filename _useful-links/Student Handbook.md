@@ -4,4 +4,5 @@ permalink: /student-handbook/
 variant: tiptap
 description: ""
 ---
-<p>Click here for the 2025 Student Handbook.</p>
+<p>Click <a href="for.edu.sg/prsshb2025" rel="noopener nofollow" target="_blank">here</a> for
+the 2025 Student Handbook.</p>
