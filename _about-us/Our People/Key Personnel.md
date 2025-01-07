@@ -14,9 +14,9 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
