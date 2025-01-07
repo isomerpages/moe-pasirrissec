@@ -15,7 +15,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management</p>
+<p></p>
 </td>
 <th rowspan="1" colspan="1">
 <p>Name</p>
