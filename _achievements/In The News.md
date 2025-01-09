@@ -18,8 +18,10 @@ variant: tiptap
 </p>
 <p><strong>Click&nbsp;<a href="https://www.channelnewsasia.com/singapore/national-digital-literacy-programme-has-enabled-students-have-access-digital-devices-amid-covid-19-halimah-yacob-2457851" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read the full article in Channel News Asia.</strong>
 </p>
-<p><strong>Click&nbsp;<a href="https://www.beritaharian.sg/setempat/presiden-halimah-dibawa-tinjau-inisiatif-digital-sekolah-menengah-pasir-ris" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read full article 1 in</strong>&nbsp;<strong>Berita Harian</strong>**.**</p>
-<p><strong>Click&nbsp;<a href="https://www.beritaharian.sg/setempat/presiden-halimah-tekan-penting-pelajar-diajar-sejahtera-siber" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read full article 2 in</strong>&nbsp;<strong>Berita Harian</strong>**.**</p>
+<p><strong>Click&nbsp;<a href="https://www.beritaharian.sg/setempat/presiden-halimah-dibawa-tinjau-inisiatif-digital-sekolah-menengah-pasir-ris" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read full article 1 in</strong>&nbsp;<strong>Berita Harian</strong>
+</p>
+<p><strong>Click&nbsp;<a href="https://www.beritaharian.sg/setempat/presiden-halimah-tekan-penting-pelajar-diajar-sejahtera-siber" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read full article 2 in</strong>&nbsp;<strong>Berita Harian</strong>
+</p>
 <p><strong>Click&nbsp;<a href="https://youtu.be/5E3t2GUfCBI" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to watch the video covered by Channel 5 News.</strong>
 </p>
 <p><strong>Click&nbsp;<a href="https://youtu.be/xyV8YFkM9Mw" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to watch the video covered by Channel 8 News.</strong>
