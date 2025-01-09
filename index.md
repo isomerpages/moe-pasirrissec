@@ -20,7 +20,7 @@ sections:
       subtitle: Announcement
       id: infobar
       description: Friday, 10 January 2025 at 2.30 pm
-      button: Clicke here
+      button: Click here
       url: /release-of-2024-gce-o-level-examination-results/
   - infopic:
       title: Secondary 1 Registration
