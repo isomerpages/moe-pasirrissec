@@ -40,16 +40,6 @@ sections:
       alt: Image alt text
       image: /images/Sec 1 Registration/Welcome_Page__new_.png
   - infopic:
-      title: PRSS 39th Anniversary
-      subtitle: EVENTS
-      id: infopic
-      button: Click to view
-      url: https://www.pasirrissec.moe.edu.sg/launch-of-39-stories/
-      image: /images/39_stories_logo.jpg
-      alt: Image alt text
-      description: PRSS celebrated our 39th anniversary on 24th April 2024. Join us as
-        we proudly commemorate the 39th anniversary of our school!
-  - infopic:
       title: PRSS Campus Tour
       description: Take a virtual stroll through our school with the interactive 360° tour.
       button: Campus Tour
