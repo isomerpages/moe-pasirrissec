@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Our staff and students were featured in the news regarding their school experiences with the implementation of full SBB on 8 Jan 2025</strong></h3>
-<p><strong>Click here to watch the video by Channel 5 News.</strong>
+<p><strong>Click <a href="/files/Achievements/PRSS_fSBB_article_BeritaHarian_8_Jan_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to watch the video by Channel 5 News.</strong>
 </p>
-<p><strong>Click&nbsp;here&nbsp;to read full article in&nbsp;Berita Harian.</strong>
+<p><strong>Click&nbsp;<a href="/files/Achievements/PRSS_fSBB_article_BeritaHarian_8_Jan_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read full article in&nbsp;Berita Harian.</strong>
 </p>
 <p></p>
 <h3><strong>President Halimah given tour of Pasir Ris Secondary School's digital initiatives, 25 January 2022</strong></h3>
