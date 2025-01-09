@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <p><strong>Click <a href="https://youtu.be/OyifjH2KOWA" rel="noopener nofollow" target="_blank">here</a> to watch the video by Channel News Asia.</strong>
 </p>
-<p><strong>Click <a href="https://youtu.be/bTGMBlxhyNc" rel="noopener nofollow" target="_blank">here</a> to watch the video by Suria.</strong>
+<p><strong>Click <a href="https://youtu.be/ABediNX58_E" rel="noopener nofollow" target="_blank">here</a> to watch the video by Suria.</strong>
 </p>
 <p><strong>Click&nbsp;<a href="https://www.straitstimes.com/singapore/latest-batch-of-24-schools-adopt-full-subject-based-banding-in-2024-roll-out-of-scheme-completed" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;to read the full article in Straits Times.</strong>
 </p>
