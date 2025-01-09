@@ -23,7 +23,7 @@ sections:
       button: Click here
       url: /release-of-2024-gce-o-level-examination-results/
   - infobar:
-      title: In the News regarding their school experiences with full SBB
+      title: PRSS in the news regarding full SBB experience
       subtitle: Announcement
       id: infobar
       button: Click here to find out more
