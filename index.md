@@ -22,6 +22,12 @@ sections:
       description: Friday, 10 January 2025 at 2.30 pm
       button: Click here
       url: /release-of-2024-gce-o-level-examination-results/
+  - infobar:
+      title: In the News regarding their school experiences with full SBB
+      subtitle: Announcement
+      id: infobar
+      button: Click here to find out more
+      url: /achievements/In-The-News/
   - infopic:
       title: Secondary 1 Registration
       subtitle: ANNOUNCEMENTS
