@@ -4,12 +4,12 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### 2025 Timetable with effect from Monday, 13 January 2025
+#### 2025 Semester 1 Timetable, with effect from Monday, 13 January 2025
 
-Please click [here](/files/Announcements/2025/Timetable_for_Sec_1_from_3_Jan_till_7_Jan.pdf) to access 2025 Timetable from 3 Jan to 7 Jan for Sec 1 classes.<br>
-Please click [here](/files/Announcements/2025/Timetable_for_Sec_2_from_3_Jan_till_7_Jan.pdf) to access 2025 Timetable from 3 Jan to 7 Jan for Sec 2 classes.<br>
-Please click [here](/files/Announcements/2025/Timetable_for_Sec_2_from_3_Jan_till_7_Jan.pdf) to access 2025 Timetable from 3 Jan to 7 Jan for Sec 3 classes.<br>
-Please click [here](/files/Announcements/2025/Timetable_for_Sec_2_from_3_Jan_till_7_Jan.pdf) to access 2025 Timetable from 3 Jan to 7 Jan for Sec 4E/5N classes.<br>
+Please click [here](/files/Announcements/2025/2025_TERM_1_TT_FOR_SEC_1.pdf) to access 2025 Semester 1 Timetable for Sec 1 classes.<br>
+Please click [here](/files/Announcements/2025/2025_TERM_1_TT_FOR_SEC_2.pdf) to access 2025 Semester 1 Timetable for Sec 2 classes.<br>
+Please click [here](/files/Announcements/2025/2025_TERM_1_TT_FOR_SEC_3.pdf) to access 2025 Semester 1 Timetable for Sec 3 classes.<br>
+Please click [here](/files/Announcements/2025/2025_TERM_1_TT_FOR_SEC_45N.pdf) to access 2025 Semester 1 Timetable for Sec 4E/5N classes.<br>
 
 
 
