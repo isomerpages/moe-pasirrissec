@@ -6,6 +6,14 @@ variant: markdown
 ---
 #### Application Procedure
 
+
+
+| Type of Stall | Requirements | <br>
+| ------------ | --------------- |
+| Either (HALAL) Western or Mediterranean Food (Start 30th June 2025)    | Please see details below.     | 
+
+
+
 1\. Download and complete the  [Application Form](/files/application%20for%20school%20canteen%20stall.pdf). You may also request for hardcopy form at the School’s General Office.  
 
 2\. Attached the following documents together with the application form:
