@@ -8,10 +8,12 @@ variant: markdown
 
 
 
-| Type of Stall | Requirements | <br>
-| ------------ | --------------- |
-| Either (HALAL) Western or Mediterranean Food (Start 30th June 2025)    | Please see details below.     | 
 
+<table style="width:540.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0cm 0cm 0cm 0cm" width="800" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="border:solid #D6D6D6 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal"><b>Type of Stall</b></p></td><td style="border:solid #D6D6D6 1.0pt;border-left:none;padding:
+  6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal"><b>Requirements</b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="border:solid #D6D6D6 1.0pt;border-top:none;padding:
+  6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal"><b>Either</b>&nbsp;(HALAL) WESTERN <b>or</b>&nbsp;MEDITERRANEAN<br> (START 30<sup>TH</sup> June 2025)</p></td><td style="border-top:none;border-left:none;border-bottom:solid #D6D6D6 1.0pt;
+  border-right:solid #D6D6D6 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">Please see the details below.</p></td></tr></tbody></table>
 
 
 1\. Download and complete the  [Application Form](/files/application%20for%20school%20canteen%20stall.pdf). You may also request for hardcopy form at the School’s General Office.  
