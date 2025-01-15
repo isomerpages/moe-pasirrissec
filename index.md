@@ -16,13 +16,6 @@ sections:
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
   - infobar:
-      title: Release of 2024 GCE O-Level Examination Results
-      subtitle: Announcement
-      id: infobar
-      description: Friday, 10 January 2025 at 2.30 pm
-      button: Click here
-      url: /release-of-2024-gce-o-level-examination-results/
-  - infobar:
       title: PRSS in the news regarding full SBB experience
       subtitle: Announcement
       id: infobar
