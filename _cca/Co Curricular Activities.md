@@ -44,8 +44,8 @@ Students may participate in more than one CCA on a case by case basis approved b
 	</p><p></p><p>
 	</p><table>
 <tbody><tr><td>
-	<a href="/cca/Club/Tinkers-Club/"><img src="/images/audio.png" style="width:50%;float:left"></a></td>
-<td><a href="/cca/Club/Audio-Visual-Lights/"><img src="/images/tinkersclub.png" style="width:50%;float:left"></a></td>
+	<a href="/cca/Club/Audio-Visual-Lights/"><img src="/images/audio.png" style="width:50%;float:left"></a></td>
+<td><a href="/cca/Club/Tinkers-Club/"><img src="/images/tinkersclub.png" style="width:50%;float:left"></a></td>
 </tr></tbody></table></div></li>
 	
 <li><input type="checkbox" id="accordion3">  
