@@ -4,17 +4,19 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### Collection of School Graduation Certificate (SGC) for 2024 Cohort
-Students from 2024 Sec 4NT cohorts may collect their SGC from the school General Office during office hours<br>
-
 #### 2025 Semester 1 Timetable, with effect from Monday, 13 January 2025
 
 Please click [here](/files/Announcements/2025/2025_TERM_1_TT_FOR_SEC_1.pdf) to access 2025 Semester 1 Timetable for Sec 1 classes.<br>
 Please click [here](/files/Announcements/2025/2025_TERM_1_TT_FOR_SEC_2.pdf) to access 2025 Semester 1 Timetable for Sec 2 classes.<br>
-Please click [here](/files/Announcements/2025/2025_TERM_1_TT_FOR_SEC_3.pdf) to access 2025 Semester 1 Timetable for Sec 3 classes.<br>
-Please click [here](/files/Announcements/2025/2025_TERM_1_TT_FOR_SEC_45N.pdf) to access 2025 Semester 1 Timetable for Sec 4E/5N classes.<br>
+Please click [here](/files/Announcements/2025/2025_TERM_1_TT_FOR_SEC_3.pdf) to access 2025 Semester 1 Timetable for Sec 3 classes **(updated 17/01/25)**.<br>
+Please click [here](/files/Announcements/2025/2025_TERM_1_TT_FOR_SEC_45N.pdf) to access 2025 Semester 1 Timetable for Sec 4E/5N classes **(updated 17/01/25)**.<br>
 
 
+
+
+
+#### Collection of School Graduation Certificate (SGC) for 2024 Cohort
+Students from 2024 Sec 4NT cohorts may collect their SGC from the school General Office during office hours<br>
 
 
 #### 2025 Term 1 Newsflash
