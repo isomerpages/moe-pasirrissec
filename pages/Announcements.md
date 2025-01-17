@@ -8,8 +8,10 @@ variant: markdown
 
 Please click [here](/files/Announcements/2025/2025_TERM_1_TT_FOR_SEC_1.pdf) to access 2025 Semester 1 Timetable for Sec 1 classes.<br>
 Please click [here](/files/Announcements/2025/2025_TERM_1_TT_FOR_SEC_2.pdf) to access 2025 Semester 1 Timetable for Sec 2 classes.<br>
-Please click [here](/files/Announcements/2025/Updated_TT_for_Sec_3_wef_20_Jan.pdf) to access 2025 Semester 1 Timetable for Sec 3 classes. **(updated, with effect from Monday, 20 January 2025)**<br>
-Please click [here](/files/Announcements/2025/Updated_TT_for_Sec_45N_wef_20_Jan.pdf) to access 2025 Semester 1 Timetable for Sec 4E/5N classes. **(Updated, with effect from Monday, 20 January 2025)**<br>
+Please click [here](/files/Announcements/2025/Updated_TT_for_Sec_3_wef_20_Jan.pdf) to access 2025 Semester 1 Timetable for Sec 3 classes. 
+**(updated, with effect from Monday, 20 January 2025)**<br>
+Please click [here](/files/Announcements/2025/Updated_TT_for_Sec_45N_wef_20_Jan.pdf) to access 2025 Semester 1 Timetable for Sec 4E/5N classes. 
+**(Updated, with effect from Monday, 20 January 2025)**<br>
 
 
 
