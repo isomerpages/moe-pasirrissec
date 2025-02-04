@@ -34,9 +34,9 @@ This famous quote was often shared by members of our Parent Support Group Exco. 
 |  | Mrs Petra Tan | 
 |  | Mdm Khadijah Karim | 
 
-Please click [here](https://forms.gle/TYmVaAcWKN3BqHzQ6) to register for PSG in 2024 or scan the QR code below.
+Please click [here](https://go.gov.sg/psg2025regform) to register for PSG in 2025 or scan the QR code below.
 
-<img style="width:35%" height="auto" width="100%" src="/images/ECG_2024_1.png">
+<img style="width:75%" height="auto" width="100%" src="/images/PSG2025.jpg">
 
 We look forward to your support. Your involvement in school activities will enhance the educational experiences of our students and strengthen parent-child bonding. 
 
