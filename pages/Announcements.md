@@ -4,6 +4,11 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 2025 Semester 1 Blended Learning Timetable
+
+Please click [here](/files/2025_SEM1_BL_TT_V1a_Classes.pdf)to access 2025 Semester 1 Blended Learning Timetable.
+
+
 #### [Updated] 2025 Semester 1 Timetable for Secondary 3, 4E/5N Classes, with effect from Monday, 20 January 2025
 
 Please click [here](/files/Announcements/2025/Updated_TT_for_Sec_3_wef_20_Jan.pdf) to access 2025 Semester 1 Timetable for Sec 3 classes. <br>
