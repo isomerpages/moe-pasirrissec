@@ -4,6 +4,11 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### ECGC Briefing for Parents of Sec 4 and Sec 5 Students on Saturday, 8th February 2025
+
+Click here to access the [ECGC Parents Briefing slides](/files/Information%20for%20Parents/2025_S45_ECGC_Briefing_for_Parents__Sat_8_Feb_.pdf)
+
+
 #### Our School Magazine, *Retrospect 2024 - Inspire* is now available online
 
 We are happy to announce that the online copy of the school magazine, Retrospect 2024 – Inspire, is now available. Please click [here](https://online.fliphtml5.com/yhdnr/vzld/#p=1) to take a walk down memory lane to reminisce the fond memories we had in 2024.
