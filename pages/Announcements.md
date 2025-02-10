@@ -4,7 +4,7 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### School magazine, Retrospect 2024 is now available online
+#### Our School Magazine, *Retrospect 2024 - Inspire* is now available online
 
 We are happy to announce that the online copy of the school magazine, Retrospect 2024 – Inspire, is now available. Please click [here](https://online.fliphtml5.com/yhdnr/vzld/#p=1) to take a walk down memory lane to reminisce the fond memories we had in 2024.
 
