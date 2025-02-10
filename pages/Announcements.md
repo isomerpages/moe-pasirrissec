@@ -4,9 +4,13 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Our School Magazine, *Retrospect 2024 - Inspire* is now available online
+
+We are happy to announce that the online copy of the school magazine, Retrospect 2024 – Inspire, is now available. Please click [here](https://online.fliphtml5.com/yhdnr/vzld/#p=1) to take a walk down memory lane to reminisce the fond memories we had in 2024.
+
 #### 2025 Semester 1 Blended Learning Timetable
 
-Please click [here](/files/2025_SEM1_BL_TT_V1a_Classes.pdf)to access 2025 Semester 1 Blended Learning Timetable.
+Please click [here](/files/2025_SEM1_BL_TT_V1a_Classes.pdf) to access 2025 Semester 1 Blended Learning Timetable.
 
 
 #### [Updated] 2025 Semester 1 Timetable for Secondary 3, 4E/5N Classes, with effect from Monday, 20 January 2025
