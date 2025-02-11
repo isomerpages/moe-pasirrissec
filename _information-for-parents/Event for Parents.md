@@ -31,7 +31,7 @@ variant: tiptap
 <p>08 Feb 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4 and 5</p>
+<p>Sec 4 and Sec 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ECGC Briefing for Parents</p>
