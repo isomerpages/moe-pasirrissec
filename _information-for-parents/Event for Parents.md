@@ -31,13 +31,13 @@ variant: tiptap
 <p>08 Feb 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4 and Sec 5</p>
+<p>Sec 4 and 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ECGC Briefing for Parents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Information for Parents/2025_S45_ECGC_Briefing_for_Parents__Sat_8_Feb_.pdf" rel="noopener nofollow" target="_blank">Parents Briefing Slides</a>
+<p><a href="/files/Information for Parents/2025_S45_ECGC_Briefing_for_Parents__Sat_8_Feb_.pdf" rel="noopener nofollow" target="_blank">ECGC Parent's Briefing Slides</a>
 </p>
 </td>
 </tr>
