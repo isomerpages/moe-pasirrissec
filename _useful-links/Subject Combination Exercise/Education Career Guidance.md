@@ -150,7 +150,7 @@ Career Awareness Day<br>
 Post-Sec education pathway talks
 </td></tr></tbody></table>
 
-<h4>Post-Secondary School Education Pathways</h4>
+<h4>Post-Secondary School Education Pathways (up to FY2027)</h4>
 <h5>Pathway for Students through GCE O-Level</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pathway%20O%20Level.png">
