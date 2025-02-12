@@ -9,7 +9,7 @@ third_nav_title: Subject Combination Exercise
 
 **1.  Evidence of demonstrated aptitude and ability**
     
-Based on overall results
+It will be based on the overall results.
   
 **2.  Student’s Preference**
     
