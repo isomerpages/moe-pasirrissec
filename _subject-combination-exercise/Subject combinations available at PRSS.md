@@ -3,7 +3,6 @@ title: Subject combinations available at PRSS
 permalink: /list-of-subject-combinations/
 variant: markdown
 description: ""
-third_nav_title: Subject Combination Exercise
 ---
 <div name="section-1" id="section-1">
 <table border="1px solid black" style="width:100%">
