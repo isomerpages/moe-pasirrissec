@@ -17,9 +17,9 @@ prepare for the National Examinations instead.</p>
 <ul>
 <li>
 <p>For Students</p>
-<p>Please refer to the <a href="/files/Student%20Guide%20to%20BL%20Day_v2%20(1).pdf" rel="noopener noreferrer nofollow" target="_blank">Student Guide to HBL Day</a> for
-the useful information shared during the HBL Day briefing.</p>
-<p>For any account or password queries, please contact the following:</p>
+<p>Please refer to the <a href="/files/2025_BL_Day_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">2025 BL Day and SIL Briefing Slides</a> that
+was shared on 10 February 2025 during Assembly for more information. For
+any account or password queries, please contact the following:</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
