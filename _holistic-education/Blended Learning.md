@@ -13,14 +13,10 @@ below for the BL Day schedule in Sem 1.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2025_BL_Day_Schedule__Sem_1_.png">
 </div>
-<p>For Parents, please refer to the notification sent via Parents Gateway
-(PG) for more information.
-<br>
-<br>
-</p>
-<ul>
-<li>
-<p>For Students</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>For Students</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Please refer to the <a href="/files/2025_BL_Day_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">2025 BL Day and SIL Briefing Slides</a> that
 was shared on 10 February 2025 during Assembly for more information. For
 any account or password queries, please contact the following:</p>
@@ -36,6 +32,7 @@ any account or password queries, please contact the following:</p>
 <p>Email at admin_prss@moe.edu.sg, if the hotline is busy</p>
 </li>
 </ol>
+<p></p>
 <p>For counselling or learning and behavioural support, you may contact the
 following:</p>
 <ol data-tight="true" class="tight">
@@ -46,14 +43,16 @@ following:</p>
 <p>School Counsellor or SEN Officer at 6501 0839</p>
 </li>
 <li>
-<p>
-<br>
-</p>
+<p></p>
 </li>
 </ol>
-</li>
-<li>
-<p>For Parents</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>For Parents</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Blended Learning is part of MOE’s efforts to further develop our students’
 ability to be self-directed, passionate and lifelong learners. Home-Based
 Learning Days will be scheduled about once a fortnight to complement teaching
@@ -73,7 +72,7 @@ how you can support your child on their HBL days.</p>
 </p>
 </li>
 </ul>
-<p></p>
-</li>
-</ul>
+</div>
+</details>
+</div>
 <p></p>
