@@ -7,7 +7,7 @@ description: ""
 <div name="section-1" id="section-1">
 <table border="1px solid black" style="width:100%">
 <tbody><tr>
-	<th><h5><center>Secondary 3 Express</center></h5></th>
+	<th><h5><center>Secondary 3 Express <h6>(to be updated by 27 May 2025)</h6></center></h5></th>
 </tr></tbody></table></div>
 <b>Pasir Ris Secondary School - Sec 3E Subject Combinations for 2025</b>
 <br>
@@ -22,7 +22,7 @@ description: ""
 <div name="section-2" id="section-2">
 <table border="1px solid black" style="width:100%">
 <tbody><tr>
-<th><h5><center>Secondary 3 Normal Academic</center></h5></th>
+	<th><h5><center>Secondary 3 Normal Academic<h6>(to be updated by 27 May 2025)</h6></center></h5></th>
 </tr></tbody></table></div>
 <b>Pasir Ris Secondary School - Sec 3N(A) Subject Combination for 2025</b>
 <br>
@@ -36,7 +36,7 @@ description: ""
 <div name="section-3" id="section-3">
 <table border="1px solid black" style="width:100%">
 <tbody><tr>
-<th><h5><center>Secondary 3 Normal Technical</center></h5></th>
+	<th><h5><center>Secondary 3 Normal Technical<h6>(to be updated by 27 May 2025)</h6></center></h5></th>
 </tr></tbody></table></div>
 <b>Pasir Ris Secondary School - Sec 3N(T) Subject Combination for 2025</b>
 <br>
