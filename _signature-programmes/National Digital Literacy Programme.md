@@ -68,7 +68,7 @@ warranty and other relevant matters.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For PLD purchased in 2022 to 2024</p>
+<p>For PLD purchased in 2022 to 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Student%20Device%20Information%20Kit%20Acer_26%20Mar%2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
