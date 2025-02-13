@@ -5,12 +5,16 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Blended Learning</strong></h4>
-<p>Blended Learning will continue in Term 3 and students will participate
-in at least 1 hour of Student-Initiated Learning (SIL) activity to explore
-an area of interest beyond the curriculum.</p>
-<p>For Sec 4 and 5 students, SIL is optional and they may use the time to
-prepare for the National Examinations instead.</p>
-<p>Please look out on the <a href="/Announcements/" rel="noopener noreferrer nofollow" target="_blank">Announcements</a> for more details.
+<p>The 2025 fortnightly Blended Learning (BL) Days will commence from 14
+February (Friday). Students will also participate in at least 1 hour of
+Student-Initiated Learning (SIL) activity on BL Days to explore an area
+of interest within or beyond the curriculum. Please refer to the table
+below for the BL Day schedule in Sem 1.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2025_BL_Day_Schedule__Sem_1_.png">
+</div>
+<p>For Parents, please refer to the notification sent via Parents Gateway
+(PG) for more information.
 <br>
 <br>
 </p>
