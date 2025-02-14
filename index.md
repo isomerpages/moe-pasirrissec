@@ -25,7 +25,7 @@ sections:
       title: eRetrospect 2024
       subtitle: ANNOUNCEMENTS
       id: infopic
-      description: Our school magazine Retrospect 2024 – Inspire is now available. We
+      description: Our school magazine eRetrospect 2024 – Inspire is now available. We
         invite you to take a walk down memory lane and reminisce the fond
         memories we had in 2024.
       button: CLICK TO VIEW
