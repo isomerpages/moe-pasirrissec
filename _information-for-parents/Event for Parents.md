@@ -43,16 +43,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>07 Feb 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>S1 Virtual Parent Engagement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>S1 Virtual Parent Engagement Slides</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Feb 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 Virtual Parent Engagement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 Virtual Parent Engagement Slides</p>
 </td>
 </tr>
 </tbody>
