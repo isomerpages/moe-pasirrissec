@@ -22,6 +22,17 @@ sections:
       button: Click here to find out more
       url: /achievements/In-The-News/
   - infopic:
+      title: eRetrospect 2024
+      subtitle: ANNOUNCEMENTS
+      id: infopic
+      description: Our school magazine Retrospect 2024 – Inspire is now available. We
+        invite you to take a walk down memory lane and reminisce the fond
+        memories we had in 2024.
+      button: CLICK TO VIEW
+      url: https://online.fliphtml5.com/yhdnr/vzld/#p=1
+      image: /images/Retrospect_2024.jpg
+      alt: Image alt text
+  - infopic:
       title: Secondary 1 Registration
       subtitle: ANNOUNCEMENTS
       id: infopic
