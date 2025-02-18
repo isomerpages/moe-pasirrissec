@@ -52,7 +52,8 @@ variant: tiptap
 <p>S1 Virtual Parent Engagement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S1 Virtual Parent Engagement Slides</p>
+<p><a href="https://for.edu.sg/prsss1pe7feb25" rel="noopener nofollow" target="_blank">S1 Virtual Parent Engagement Slides</a>
+</p>
 </td>
 </tr>
 <tr>
