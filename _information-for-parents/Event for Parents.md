@@ -43,16 +43,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>07 Feb 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>S1 Virtual Parent Engagement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://for.edu.sg/prsss1pe7feb25" rel="noopener nofollow" target="_blank">S1 Virtual Parent Engagement Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Feb 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 Virtual Parent Engagement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1B0XsN1X0BAO0nRy_9sDyfoCeb6lR0A3p/view?usp=sharing" rel="noopener nofollow" target="_blank">S2 Virtual Parent Engagement Slides</a>
+</p>
 </td>
 </tr>
 </tbody>
