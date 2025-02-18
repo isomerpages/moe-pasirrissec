@@ -67,7 +67,8 @@ variant: tiptap
 <p>S2 Virtual Parent Engagement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S2 Virtual Parent Engagement Slides</p>
+<p><a href="https://drive.google.com/file/d/1B0XsN1X0BAO0nRy_9sDyfoCeb6lR0A3p/view?usp=sharing" rel="noopener nofollow" target="_blank">S2 Virtual Parent Engagement Slides</a>
+</p>
 </td>
 </tr>
 </tbody>
