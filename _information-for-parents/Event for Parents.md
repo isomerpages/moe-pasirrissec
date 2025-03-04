@@ -28,6 +28,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>24 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 and Sec 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 and 5 Virtual Parent Engagement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Information for Parents/Sec_4_and_5_Parents_Engagement_2025_vetted.pdf" rel="noopener nofollow" target="_blank">S4 and 5 Virtual Parent Engagement Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>08 Feb 2025</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,6 +83,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/file/d/1B0XsN1X0BAO0nRy_9sDyfoCeb6lR0A3p/view?usp=sharing" rel="noopener nofollow" target="_blank">S2 Virtual Parent Engagement Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 Feb 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 Virtual Parent Engagement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Information for Parents/Sec_3_Parents_Engagement_2025.pdf" rel="noopener nofollow" target="_blank">S3 Virtual Parent Engagement Slides</a>
 </p>
 </td>
 </tr>
