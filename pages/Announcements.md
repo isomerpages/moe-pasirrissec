@@ -23,7 +23,7 @@ Please click [here](/files/2025_SEM1_BL_TT_V1a_Classes.pdf) to access 2025 Semes
 
 #### 2025 Term 2 Timetable, with effect from Monday, 24 March 2025
 
-Please click [here](/files/Announcements/2025/2025_TERM_1_TT_FOR_SEC_1.pdf) to access 2025 Term 2 Timetable for all classes.<br>
+Please click [here](/files/Announcements/2025/2025_T2_TT_WEF_24_MAR_for_CLASSES.pdf) to access 2025 Term 2 Timetable for all classes.<br>
 
 
 #### 2025 Term 1 Newsflash
