@@ -21,16 +21,9 @@ We are happy to announce that the online copy of the school magazine, Retrospect
 Please click [here](/files/2025_SEM1_BL_TT_V1a_Classes.pdf) to access 2025 Semester 1 Blended Learning Timetable.
 
 
-#### [Updated] 2025 Semester 1 Timetable for Secondary 3, 4E/5N Classes, with effect from Monday, 20 January 2025
+#### 2025 Term 2 Timetable, with effect from Monday, 24 March 2025
 
-Please click [here](/files/Announcements/2025/Updated_TT_for_Sec_3_wef_20_Jan.pdf) to access 2025 Semester 1 Timetable for Sec 3 classes. <br>
-Please click [here](/files/Announcements/2025/Updated_TT_for_Sec_45N_wef_20_Jan.pdf) to access 2025 Semester 1 Timetable for Sec 4E/5N classes. <br>
-
-
-#### 2025 Semester 1 Timetable, with effect from Monday, 13 January 2025
-
-Please click [here](/files/Announcements/2025/2025_TERM_1_TT_FOR_SEC_1.pdf) to access 2025 Semester 1 Timetable for Sec 1 classes.<br>
-Please click [here](/files/Announcements/2025/2025_TERM_1_TT_FOR_SEC_2.pdf) to access 2025 Semester 1 Timetable for Sec 2 classes.<br>
+Please click [here](/files/Announcements/2025/2025_TERM_1_TT_FOR_SEC_1.pdf) to access 2025 Term 2 Timetable for all classes.<br>
 
 
 #### 2025 Term 1 Newsflash
