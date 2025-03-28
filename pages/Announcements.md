@@ -4,6 +4,9 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Collection of School Graduation Certificate (SGC) for 2024 Cohort
+Students from 2024 Sec 4 Express, Sec 4NT and Sec 5NA cohorts may collect their SGC from the school General Office during office hours<br>
+
 #### 2025 Term 2 Newsflash
 
 Welcome back to school!<br>
@@ -14,8 +17,6 @@ Please click [here](/files/Newsflash_Term_2_2025_Final.pdf) to view the Newslett
 
 Please click [here](/files/2025_T2_TT_WEF_24_MAR_FINAL_FOR_CLASSES.pdf) to access 2025 Term 2 Timetable for all classes.<br>
 
-#### Collection of School Graduation Certificate (SGC) for 2024 Cohort
-Students from 2024 Sec 4 Express, Sec 4NT and Sec 5NT cohorts may collect their SGC from the school General Office during office hours<br>
 
 #### ECGC Briefing for Parents of Sec 4 and Sec 5 Students on Saturday, 8th February 2025
 
