@@ -22,6 +22,17 @@ sections:
       button: Click here to find out more
       url: /achievements/In-The-News/
   - infopic:
+      title: PRSS 40TH ANNIVERSARY CELEBRATION
+      subtitle: ANNOUNCEMENTS
+      id: infopic
+      description: "The school will be celebrating its 40th Anniversary on 23 April
+        with the theme ‘Kindness: Small Acts, Big Impact’. Click NEXT for more
+        information."
+      button: NEXT
+      url: https://www.pasirrissec.moe.edu.sg/Announcements/
+      image: /images/40th_final_poster.jpg
+      alt: 40th Anniversary Celebration
+  - infopic:
       title: eRetrospect 2024
       subtitle: ANNOUNCEMENTS
       id: infopic
@@ -40,15 +51,4 @@ sections:
       image: /images/E Open house/2023 campus tour (resized).png
       alt: PRSS Campus Tour
       subtitle: TOUR
-  - infopic:
-      title: PRSS 40TH ANNIVERSARY CELEBRATION
-      subtitle: ANNOUNCEMENTS
-      id: infopic
-      description: "The school will be celebrating its 40th Anniversary on 23 April
-        with the theme ‘Kindness: Small Acts, Big Impact’. Click NEXT for more
-        information."
-      button: NEXT
-      url: https://www.pasirrissec.moe.edu.sg/Announcements/
-      image: /images/40th_final_poster.jpg
-      alt: 40th Anniversary Celebration
 ---
