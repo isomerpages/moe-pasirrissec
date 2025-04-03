@@ -7,7 +7,7 @@ variant: markdown
 #### 40th anniversary celebration
 The school will be celebrating its 40th Anniversary on 23 April with the theme ‘Kindness: Small Acts, Big Impact’ as we will be featuring 40 inspiring stories on acts of kindness gathered from students and staff.
 
-Click [here](https://go.gov.sg/prss40thanniversary) to check out some of the videos featuring the inspiring stories of kindness. The anniversary programme will feature 3 key segments which include a plenary session, the Student Learning Festival as well as the Awards ceremony.
+Click to check out [video1](https://go.gov.sg/prss40thanniversaryvideo1)&amp; [video2](https://go.gov.sg/prss40thanniversaryvideo2) featuring the inspiring stories of kindness. The anniversary programme will feature 3 key segments which include a plenary session, the Student Learning Festival as well as the Awards ceremony.
 
 #### Collection of School Graduation Certificate (SGC) for 2024 Cohort
 Students from 2024 Sec 4 Express, Sec 4NT and Sec 5NA cohorts may collect their SGC from the school General Office during office hours<br>
