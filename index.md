@@ -50,5 +50,5 @@ sections:
       button: NEXT
       url: https://www.pasirrissec.moe.edu.sg/Announcements/
       image: /images/40th_final_poster.jpg
-      alt: Image Alt Text
+      alt: 40th Anniversary Celebration
 ---
