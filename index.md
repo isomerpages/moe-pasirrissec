@@ -22,7 +22,7 @@ sections:
       button: Click here to find out more
       url: /achievements/In-The-News/
   - infopic:
-      title: PRSS 40TH ANNIVERSARY CELEBRATION
+      title: PRSS 40th Anniversary Celebration
       subtitle: ANNOUNCEMENTS
       id: infopic
       description: "The school will be celebrating its 40th Anniversary on 23 April
