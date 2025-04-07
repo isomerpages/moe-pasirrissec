@@ -22,6 +22,17 @@ sections:
       button: Click here to find out more
       url: /achievements/In-The-News/
   - infopic:
+      title: PRSS 40th Anniversary Celebration
+      subtitle: ANNOUNCEMENTS
+      id: infopic
+      description: "The school will be celebrating its 40th Anniversary on 23 April
+        with the theme ‘Kindness: Small Acts, Big Impact’. Click NEXT for more
+        information."
+      button: NEXT
+      url: https://www.pasirrissec.moe.edu.sg/Announcements/
+      image: /images/40th_final_poster.jpg
+      alt: 40th Anniversary Celebration
+  - infopic:
       title: eRetrospect 2024
       subtitle: ANNOUNCEMENTS
       id: infopic
@@ -32,17 +43,6 @@ sections:
       url: https://online.fliphtml5.com/yhdnr/vzld/#p=1
       image: /images/Retrospect_2024.jpg
       alt: Image alt text
-  - infopic:
-      title: Secondary 1 Registration
-      subtitle: ANNOUNCEMENTS
-      id: infopic
-      description: On behalf of all staff and students, we welcome you and your child
-        to our Pasirian Family! Click on the link below for the 2025 Secondary 1
-        posting information.
-      button: Click to view
-      url: /2025-secondary-1-registration/
-      alt: Image alt text
-      image: /images/Sec 1 Registration/Welcome_Page__new_.png
   - infopic:
       title: PRSS Campus Tour
       description: Take a virtual stroll through our school with the interactive 360° tour.
