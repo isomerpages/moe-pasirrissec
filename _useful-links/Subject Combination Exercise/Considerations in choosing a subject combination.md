@@ -180,7 +180,7 @@ Identify the courses and find out the pre-requisite subjects that are compulsory
 	 <td><a href="https://pfp.polytechnic.edu.sg/PFP/index.html"> Polytechnic Foundation Programme (PFP)</a></td>
 		</tr><tr>		
 		<td>2.</td>
-		<td><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/direct-entry-scheme-to-polytechnic-programme">Direct Entry Scheme to Polytechnic Programme (DPP)</a></td>
+		<td><a href="https://www.ite.edu.sg/docs/default-source/full-time-intake-pages-content/full-time-intake-exercises/jieh/jieh-2025-intake-entry-requirements.pdf">Direct Entry Scheme to Polytechnic Programme (DPP)</a></td>
 		</tr>
 		<tr>		
 			<td>3.</td><td><a href="https://www.pasirrissec.moe.edu.sg">GCE O level at Pasir Ris Secondary School</a></td>
