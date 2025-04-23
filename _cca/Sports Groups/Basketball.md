@@ -15,6 +15,10 @@ The Basketball CCA emphasises on 3 core values that the students are expected to
  
 ### **Highlights**
   
+Participated in National School Games - EZ B Division Basketball 2025 with the Boys team emerging top 8 in the East Zone.
+
+Participated in National School Games - Basketball C Division 2024 with the Girls team merging Champion in League 3.
+
 Participated in National School Games - EZ "B" Division Basketball Tournament 2022 with the Girls team emerging top 6 in the East zone. 
 
 Participated in Whye Nam Cup U14 with the Boys team emerging 3rd for this inter-school tournament. 
@@ -57,13 +61,6 @@ Participated in National School Games - EZ "C" Division Basketball Tournament 20
 
 ![](/images/CCA/Basketball/bball%20team%20photo_boys.jpeg)
 
-![](/images/CCA/Basketball/bball%20team%20photo_girls.jpeg)
-
-![](/images/CCA/Basketball/bball_girls%20pre-games1.jpeg)
-
-![](/images/CCA/Basketball/bball_girls%20pre-games2.jpeg)
-
 ![](/images/CCA/Basketball/retro1.jpeg)
-![](/images/basketball.png)
 
 ![](/images/basketball2.png)
