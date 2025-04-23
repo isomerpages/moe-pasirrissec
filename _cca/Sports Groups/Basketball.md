@@ -56,11 +56,10 @@ Participated in National School Games - EZ "C" Division Basketball Tournament 20
 * Mr Choo Hoo Sen
 
 ### **Photos / Videos**
-
+![](/images/CCA/Basketball/B_Girls_at_NSG_EZ_Basketball_Tournament_2025_1.jpg)
+![](/images/CCA/Basketball/B_Girls_at_NSG_EZ_Basketball_Tournament_2025_2.jpg)
+![](/images/CCA/Basketball/BB_Girls_emerging_top_3_at_Annual_Cross_Country_race.jpg)![](/images/CCA/Basketball/C_Girls_at_Interschool_Friendly_Games.jpg)![](/images/CCA/Basketball/C_Girls_recruiting_during_CCA_Bazaar.jpg)
 ![](/images/CCA/Basketball/bball%20team.jpeg)
-
 ![](/images/CCA/Basketball/bball%20team%20photo_boys.jpeg)
-
 ![](/images/CCA/Basketball/retro1.jpeg)
-
 ![](/images/basketball2.png)
