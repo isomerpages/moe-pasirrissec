@@ -8,7 +8,7 @@ Singapore Citizens in government, government-aided, specialized, and some indepe
 
 Eligibility and benefits of the MOE Financial Assistance Scheme (MOE-FAS) are available on the [MOE Financial Assistance](https://www.moe.gov.sg/financial-matters/financial-assistance) website.
 
-#### MOE Financial Assistance
+### MOE Financial Assistance
 
 If you wish to apply, you can submit the online [MOE FAS Application Form](https://form.gov.sg/6666a548f71e023bcbe7c9b7) or download and submit the MOE Financial Assistance Form below to the school’s Admin Office.
 
@@ -29,7 +29,7 @@ th, td {
   </tr>
 </tbody></table>
 
-#### DigitalAccess@Home
+### DigitalAccess@Home
 
 DigitalAccess@Home provides subsidised broadband and laptops/tablets to lower-income households to support their lifestyle needs, including work and social activities.
 
