@@ -28,8 +28,9 @@ Pasirians will be offered a place in our Music Accreditation Program with
 ABRSM / NAFA.</p>
 <p>If you are talented in Music and the Performing Arts and wish to shine
 in a supportive environment, we invite you to join our Pasirian family.</p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="DSA Performing Arts Main Pic" src="/images/DSA/dsa%20perf%20arts%20main%20pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_LLP.png">
 </div>
 <h4><strong>LLP Talent Areas</strong></h4>
 <table style="minWidth: 50px">
