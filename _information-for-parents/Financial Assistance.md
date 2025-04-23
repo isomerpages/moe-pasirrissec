@@ -28,3 +28,11 @@ th, td {
     <th><a href="/files/Information%20for%20Parents/2025%20moe%20fas%20application%20form.pdf">2025 FAS Application Form Checklist.pdf</a></th>
   </tr>
 </tbody></table>
+
+#### DigitalAccess@Home
+
+DigitalAccess@Home provides subsidised broadband and laptops/tablets to lower-income households to support their lifestyle needs, including work and social activities.
+
+Low-income households living in HDB flats with at least one Singapore Citizen are eligible to apply for DigitalAccess@Home.
+
+For details on DigitalAccess@Home, please visit [imda.gov.sg/dah](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home). For any queries, you may contact digitalaccess@imda.gov.sg or 6377 3800.
