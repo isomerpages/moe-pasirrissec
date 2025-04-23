@@ -28,7 +28,7 @@ them to participate at a higher level of play.</p>
 <p>If you have the passion and talent for Football or Volleyball, we invite
 you to join our Pasirian family.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_Pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_Sports.png">
 </div>
 <h4><strong>Sports Talent Area</strong></h4>
 <table style="minWidth: 75px">
