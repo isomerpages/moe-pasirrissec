@@ -32,8 +32,9 @@ habits. You will be creating a video or a series of photos to send a clear
 signal to others that cyberbullying is harmful. The possibilities are endless.</p>
 <p>If you have a keen interest and talent for Coding, Makers Movement, Robotics,
 Videography, or Photography, we invite you to join our Pasirian family.</p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/Digital_Media_Resize.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_Digital_Media.png">
 </div>
 <h4><strong>Digital Media Talent Area</strong></h4>
 <table style="minWidth: 50px">
