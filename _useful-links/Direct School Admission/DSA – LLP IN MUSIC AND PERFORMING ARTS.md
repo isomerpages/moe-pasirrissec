@@ -28,8 +28,9 @@ Pasirians will be offered a place in our Music Accreditation Program with
 ABRSM / NAFA.</p>
 <p>If you are talented in Music and the Performing Arts and wish to shine
 in a supportive environment, we invite you to join our Pasirian family.</p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="DSA Performing Arts Main Pic" src="/images/DSA/dsa%20perf%20arts%20main%20pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_LLP.png">
 </div>
 <h4><strong>LLP Talent Areas</strong></h4>
 <table style="minWidth: 50px">
@@ -134,102 +135,5 @@ requirements of the Admissions Exercise for International Students (AEIS)
 test to be successful in DSA.&nbsp;</p>
 </li>
 </ul>
-<h4>Centralised DSA-Sec Application Process</h4>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2024, 11am
-to 3 Jun 2024, 3pm. For more details, please refer to MOE <a href="www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">DSA for secondary schools </a>website.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Certified true copies of certificates / documentary proof for the non-school
-based awards and activities may be requested for shortlisted applicants.&nbsp;</p>
-</li>
-<li>
-<p>Applicants will be notified of the outcome of the application by 9 Sep
-2024. Candidates who are given a Confirmed Offer are guaranteed a place
-in our school in the Posting Group which they are eligible for (Posting
-Group 1, 2 or 3) based on their PSLE results.&nbsp;</p>
-</li>
-<li>
-<p>No appeal will be entertained as the school’s decision on the offer is
-final.&nbsp;</p>
-</li>
-</ul>
-<p><strong>Key Dates</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Activity</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Dates</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Application through the centralised DSA-Sec Portal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7 May 2024, 11am – 3 Jun 2024, 3pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Notification of Interview/ Audition/
-<br>Trial for shortlisted applicants</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>24 Jun 2024 - 6 Sep 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Outcome of application (Confirmed Offer,
-<br>Waiting List, Rejected)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>By 9 Sep 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Students with CO or WL offer will receive email and
-<br>SMS notification on the School Preference Submission</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mid-Oct 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Submission of school preferences via the DSA-Sec Portal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21 Oct 2024, 9am – 25 Oct 2024, 3pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Release of DSA-Sec results with PSLE results release</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Late-Nov 2024</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Parents and students are encouraged to choose schools wisely based on
-the student’s aptitudes and strengths, bearing in mind the schools’ academic
-and non-academic requirements, and the programmes available to develop
-the area of talent.</p>
-<p>Students who are successfully admitted to the school via DSA are expected
-to honour their commitment to the school, and participate in the activities
-related to the talent they are selected for from Sec 1 - 4.&nbsp;</p>
+<h4></h4>
 <p></p>
