@@ -30,111 +30,27 @@ variant: markdown
 
 ### 2023
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9hhy{background-color:#34A853;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-4erg{border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-y0no{border-color:#000000;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-d5oz{background-color:#FFF;border-color:inherit;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg"><thead>
-  <tr>
-    <th class="tg-9hhy"><span style="font-weight:bold;color:#FFF;background-color:#34A853">No</span></th>
-    <th class="tg-9hhy"><span style="font-weight:bold;color:#FFF;background-color:#34A853">Department</span></th>
-    <th class="tg-9hhy"><span style="font-weight:bold;color:#FFF;background-color:#34A853">Competition / Award</span></th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td class="tg-7btt"><span style="font-weight:bold">1</span></td>
-    <td class="tg-7btt"><span style="font-weight:bold">GCE N Level Results 2023</span></td>
-    <td class="tg-0pky"><span style="font-weight:normal">All our 4NT students qualify for ITE, with one student scoring 5 distinctions, while 72.7% of our 4NA students qualify for 5NA, with 7 students scoring 4 distinctions and above.</span> </td>
-  </tr>
-  <tr>
-    <td class="tg-7btt"><span style="font-weight:bold">2</span></td>
-    <td class="tg-7btt"><span style="font-weight:bold">GCE O Level Results 2023</span></td>
-    <td class="tg-jxgv"><span style="font-weight:normal;background-color:#FFF">All our 4E students qualify for JC / Polytechnic and 83.3% of our 5N students qualify for Polytechnic. 86.1% of the entire cohort attained 5 or more O Level passes, with 32 students scoring 5 distinctions and above.</span></td>
-  </tr>
-  <tr>
-    <td rowspan="3" class="tg-7btt">3</td>
-    <td rowspan="3" class="tg-7btt">English Language &amp; Literature</td>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">New South Wales International Competitions and Assessments for Schools - English</span><span style="font-weight:normal;font-style:normal">- 6 Distinctions, 5 Credits, 2 Merits</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">The Queen's Commonwealth Essay Competition</span> <br><span style="font-weight:normal;font-style:normal">- 2 Gold, 3 Silver, 14 Bronze</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">National Schools Literature Festival</span><br><span style="font-weight:normal;font-style:normal">- Book Trailer Commendation Award</span></td>
-  </tr>
-  <tr>
-    <td rowspan="4" class="tg-7btt">4</td>
-    <td rowspan="4" class="tg-7btt">Mathematics</td>
-    <td class="tg-d5oz"><span style="font-weight:bold;font-style:italic">National Accounting Challenge</span><br><span style="font-weight:normal;font-style:normal">- 1st Runner Up</span></td>
-  </tr>
-  <tr>
-    <td class="tg-d5oz"><span style="font-weight:bold;font-style:italic">Junior Math Olympiad</span><br><span style="font-weight:normal;font-style:normal">- 1 Bronze, 1 honourable mention</span></td>
-  </tr>
-  <tr>
-    <td class="tg-d5oz"><span style="font-weight:bold;font-style:italic">Australian Math Competition</span><br><span style="font-weight:normal;font-style:normal">- 2 Distinction, 12 Credit</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">All Normal Course Math Competition</span><br><span style="font-weight:normal;font-style:normal">- 14th Position in Individual Category</span></td>
-  </tr>
-  <tr>
-    <td rowspan="8" class="tg-7btt">5</td>
-    <td rowspan="8" class="tg-7btt">Science</td>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">Chemistry Olympiad</span><br><span style="font-weight:normal;font-style:normal">- 2 Bronze</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">Biology Olympiad</span><br><span style="font-weight:normal;font-style:normal">- 1 Gold, 3 Honourable Mentions</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">SISTEMIC</span><br><span style="font-weight:normal;font-style:normal">- Bronze (Team Award)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">ICAS - Sec 2</span><br><span style="font-weight:normal;font-style:normal">- 1 Distinction, 5 Credits, 4 Merits</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">ICAS - Sec 3</span><br><span style="font-weight:normal;font-style:normal">- 2 Distinction, 12 Credits, 3 Merits</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">USPE 2023 Finals</span><br><span style="font-weight:normal;font-style:normal">- Best Oral Defense Team Award</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">Singapore Youth Science Fair 2023</span><br><span style="font-weight:normal;font-style:normal">- Accomplishment Award</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">National Youth Upcycling Movement (STEM)</span><br><span style="font-weight:normal;font-style:normal">- Silver (Team), Bronze (Team)</span></td>
-  </tr>
-  <tr>
-    <td rowspan="5" class="tg-7btt">6</td>
-    <td rowspan="5" class="tg-7btt">Craft &amp; Technology</td>
-    <td class="tg-6t3r"><span style="font-weight:bold;font-style:italic">Live on Festival 2023</span><br><span style="font-weight:normal;font-style:normal">- Top 20</span></td>
-  </tr>
-  <tr>
-    <td class="tg-6t3r"><span style="font-weight:bold;font-style:italic">ViArt Competition</span><br><span style="font-weight:normal;font-style:normal">- 1st prize for Best Sustainable Message Award. Donated to Upcycle Art Auction Initiative</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">Earth Day Art Competition Organised by Conservation International Singapore</span><br><span style="font-weight:normal;font-style:normal">- Top 3, Top 10 Finalist</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">YOOP Art Competition @ CGH</span><span style="font-weight:normal;font-style:normal">- Art Exhibition @CGH</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">SYF Youth Station (SYF Songwriting competition)</span><span style="font-weight:normal;font-style:normal">- Lower Secondary Top 20 Songs category</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7btt"><span style="font-weight:bold">7</span></td>
-    <td class="tg-7btt"><span style="font-weight:bold">Others</span></td>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">Campus Legend Secondary School Edition Season 3</span><br><span style="font-weight:normal;font-style:normal">- 3rd</span></td>
-  </tr>
-</tbody></table>
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead>
+<tr><th style="background-color:#34A853;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#34A853">No</span></th><th style="background-color:#34A853;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#34A853">Department</span></th>
+<th style="background-color:#34A853;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#34A853">Competition / Award</span></th></tr>
+</thead>
+<tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">1</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">GCE N Level Results 2023</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">All our 4NT students qualify for ITE, with one student scoring 5 distinctions, while 72.7% of our 4NA students qualify for 5NA, with 7 students scoring 4 distinctions and above.</span> </td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">2</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">GCE O Level Results 2023</span></td>
+<td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal;background-color:#FFF">All our 4E students qualify for JC / Polytechnic and 83.3% of our 5N students qualify for Polytechnic. 86.1% of the entire cohort attained 5 or more O Level passes, with 32 students scoring 5 distinctions and above.</span></td></tr>
+<tr><td rowspan="3" style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3</td><td rowspan="3" style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">English Language &amp; Literature</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">New South Wales International Competitions and Assessments for Schools - English</span><span style="font-weight:normal">- 6 Distinctions, 5 Credits, 2 Merits</span></td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">The Queen's Commonwealth Essay Competition</span> <br><span style="font-weight:normal">- 2 Gold, 3 Silver, 14 Bronze</span></td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">National Schools Literature Festival</span><br><span style="font-weight:normal">- Book Trailer Commendation Award</span></td></tr>
+<tr><td rowspan="4" style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4</td><td rowspan="4" style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mathematics</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">National Accounting Challenge</span><br><span style="font-weight:normal">- 1st Runner Up</span></td></tr>
+<tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Junior Math Olympiad</span><br><span style="font-weight:normal">- 1 Bronze, 1 honourable mention</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Australian Math Competition</span><br><span style="font-weight:normal">- 2 Distinction, 12 Credit</span></td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">All Normal Course Math Competition</span><br><span style="font-weight:normal">- 14th Position in Individual Category</span></td></tr>
+<tr><td rowspan="8" style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5</td><td rowspan="8" style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Science</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Chemistry Olympiad</span><br><span style="font-weight:normal">- 2 Bronze</span></td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Biology Olympiad</span><br><span style="font-weight:normal">- 1 Gold, 3 Honourable Mentions</span></td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">SISTEMIC</span><br><span style="font-weight:normal">- Bronze (Team Award)</span></td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">ICAS - Sec 2</span><br><span style="font-weight:normal">- 1 Distinction, 5 Credits, 4 Merits</span></td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">ICAS - Sec 3</span><br><span style="font-weight:normal">- 2 Distinction, 12 Credits, 3 Merits</span></td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">USPE 2023 Finals</span><br><span style="font-weight:normal">- Best Oral Defense Team Award</span></td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Singapore Youth Science Fair 2023</span><br><span style="font-weight:normal">- Accomplishment Award</span></td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">National Youth Upcycling Movement (STEM)</span><br><span style="font-weight:normal">- Silver (Team), Bronze (Team)</span></td></tr>
+<tr><td rowspan="5" style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6</td><td rowspan="5" style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Craft &amp; Technology</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Live on Festival 2023</span><br><span style="font-weight:normal">- Top 20</span></td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">ViArt Competition</span><br><span style="font-weight:normal">- 1st prize for Best Sustainable Message Award. Donated to Upcycle Art Auction Initiative</span></td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Earth Day Art Competition Organised by Conservation International Singapore</span><br><span style="font-weight:normal">- Top 3, Top 10 Finalist</span></td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">YOOP Art Competition @ CGH</span><span style="font-weight:normal">- Art Exhibition @CGH</span></td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">SYF Youth Station (SYF Songwriting competition)</span><span style="font-weight:normal">- Lower Secondary Top 20 Songs category</span></td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">7</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Others</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Campus Legend Secondary School Edition Season 3</span><br><span style="font-weight:normal">- 3rd</span></td></tr></tbody></table>
 
 ### 2022
 
