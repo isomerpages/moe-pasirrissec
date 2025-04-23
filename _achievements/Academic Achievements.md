@@ -215,10 +215,10 @@ variant: markdown
   <tr>
     <td rowspan="5" class="tg-7btt">6</td>
     <td rowspan="5" class="tg-7btt">Craft &amp; Technology</td>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">Live on Festival 2023</span><br><span style="font-weight:normal;font-style:normal">- Top 20</span></td>
+    <td class="tg-6t3r"><span style="font-weight:bold;font-style:italic">Live on Festival 2023</span><br><span style="font-weight:normal;font-style:normal">- Top 20</span></td>
   </tr>
   <tr>
-    <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">ViArt Competition</span><br><span style="font-weight:normal;font-style:normal">- 1st prize for Best Sustainable Message Award. Donated to Upcycle Art Auction Initiative</span></td>
+    <td class="tg-6t3r"><span style="font-weight:bold;font-style:italic">ViArt Competition</span><br><span style="font-weight:normal;font-style:normal">- 1st prize for Best Sustainable Message Award. Donated to Upcycle Art Auction Initiative</span></td>
   </tr>
   <tr>
     <td class="tg-4erg"><span style="font-weight:bold;font-style:italic">Earth Day Art Competition Organised by Conservation International Singapore</span><br><span style="font-weight:normal;font-style:normal">- Top 3, Top 10 Finalist</span></td>
