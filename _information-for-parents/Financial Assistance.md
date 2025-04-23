@@ -35,4 +35,4 @@ DigitalAccess@Home provides subsidised broadband and laptops/tablets to lower-in
 
 Low-income households living in HDB flats with at least one Singapore Citizen are eligible to apply for DigitalAccess@Home.
 
-For details on DigitalAccess@Home, please visit [imda.gov.sg/dah](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home). For any queries, you may contact digitalaccess@imda.gov.sg or 6377 3800.
+For details on DigitalAccess@Home, please visit [imda.gov.sg/dah](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home). For any queries, you may contact [digitalaccess@imda.gov.sg](digitalaccess@imda.gov.sg) or 6377 3800.
