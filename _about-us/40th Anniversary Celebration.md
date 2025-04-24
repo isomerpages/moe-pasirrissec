@@ -4,3 +4,10 @@ permalink: /40th-anniversary-celebration/
 variant: tiptap
 description: ""
 ---
+<p>The school celebrated its 40th Anniversary on 23 April with the theme
+‘Kindness: Small Acts, Big Impact’ as we will be featuring 40 inspiring
+stories on acts of kindness gathered from students and staff. Click <a href="https://go.gov.sg/prss40thanniversary" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+check out some of the videos featuring the inspiring stories of kindness.</p>
+<p>The anniversary programme will feature 3 key segments which include a
+plenary session, the Student Learning Festival as well as the Awards ceremony.</p>
+<p>Click here to view</p>
