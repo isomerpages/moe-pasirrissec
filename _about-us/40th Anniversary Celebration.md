@@ -12,10 +12,10 @@ check out some of the videos featuring the inspiring stories of kindness.</p>
 plenary session, the Student Learning Festival as well as the Awards ceremony.</p>
 <p>Click to view the Plenary Compilation and Awards Compilation videos below.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7MMjqc29z4E?si=PSOo52y9owU89kAF"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lPlHgxs-ybw?si=qZDwvJfwPxfkSbo9"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lPlHgxs-ybw?si=qZDwvJfwPxfkSbo9"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7MMjqc29z4E?si=oKLGYXikyZnDHJ1E"></iframe>
 </div>
 <p></p>
