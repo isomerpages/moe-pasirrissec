@@ -57,38 +57,26 @@ The programme is divided into three tiers:
 
 Science Experiential, Enrichment and Development Programme (SEED) which aims to promote interest and authentic learning in Science and Technology within and beyond the confines of the classroom
 
-**Unity Scientific Innovation Challenge with SP &amp; ERI@N (USPE 2022) Finals**
+**A*STAR-VJC Science Fair** <br>
+2 Certificate of Participation
 
-* Consolation prize and Participation prize
+**Singapore Junior Biology Olympiad**<br>
+1 Gold, 1 Silver, 5 Bronze, 1 Honorable Mention
 
-**IgnITE Skills Challenge 2022**
+**Singapore Junior Chemistry Olympiad**<br>
+2 Merits, 23 COP
 
-* Certificate of Participation
+**International Chemistry Quiz**<br>
+1 Distinction, 7 Credits
 
-**International C. B. Paul Science Quiz 2022**
+**ICAS Science Competition** <br>
+1 High Distinction, 4 Distinction, 9 Credit, 4 Merit and 16 Certificate of Participation
 
-* Lower Secondary - 2 silver, 1 bronze and 1 participation
-* Upper Secondary - 1 silver, 1 bronze, 3 merit and 3 participations
+**Singapore Physics League**<br>
+1 Bronze, 1 Certificate of Participation
 
-**Singapore Junior Physics Olympiad 2022**
-
-* Individual round - 1 bronze, 7 honourable mentions and 5 participations
-* Team round - 1 bronze and 2 participations
-
-**Singapore Junior Biology Olympiad 2022**
-
-* Individual round - 3 bronze, 2 honourable mentions and 2 participations
-
-**ASEAN +3 Junior Science Odyssey (APTJSO)**
-
-* Science Process Skills Challenge - Silver
-* Sustainability Challenge - Silver
-* Interdisciplinary Group Project - Gold
-
-#### Achievements
-
-* Best Oral Defense Award' for USPE 2023
-* Bronze Award' for SISTEMIC 2023
+**Temasek Engineering Olympiad**<br>
+1 Gold Award, 1 Commendation Award
 
 #### The PRSS Ecogarden
 
