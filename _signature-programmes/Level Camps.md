@@ -58,8 +58,8 @@ At the start of the camp, students define what success means to them and how the
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/sqIaw-vygTY?si=U8Qrn8UQcBXPTHhw" height="315" width="560"></iframe>
 </div>
 
-![](/images/Sec%204%20LC.png)
-
+![](/images/Signature%20Programmes/Level%20Camps/Quest.png)
+![](/images/Signature%20Programmes/Level%20Camps/Conquest.png)
 Through these activities, we hope that they will help them to
 
 *   enhance their resilience and help them to stay focused on pursuing their aspirations
