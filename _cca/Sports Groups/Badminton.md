@@ -23,6 +23,12 @@ In 2023, the team participated in the East Zone B Division Badminton Tournament 
 
 Participation in NSG 'B' Division Badminton Championships 2024 (East Zone)
 
+2025 'B' Division Badminton team qualified for Quarterfinal stage of the NSG East Zone Badminton Competition 
+
+2025 'C' Division Badminton team plays in the Pool B stage of the NSG Badminton Competition. 
+
+Both Dylan Tan (S3-T7) and Chan Kok Fung (S3-A2) achieved 2nd place and Silver medals at the Zendora Badminton League (Divisions 1 and 2 respectively) organised by UWCSEA East Badminton Academy. 
+
 ### **Schedule**
 
 | Training Days | Time | Venue |
