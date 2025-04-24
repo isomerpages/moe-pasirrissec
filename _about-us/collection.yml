@@ -2,23 +2,23 @@ collections:
   about-us:
     output: true
     order:
-      - 40th Anniversary Celebration.md
       - Principal's Foreword.md
       - Our Heritage.md
       - Vision, Mission and Values.md
       - School Motto, Crest and Song.md
       - Student Creed.md
+      - Our People/.keep
       - Our People/School Advisory Committee.md
       - Our People/Key Personnel.md
       - Our People/Teachers by Home Class.md
-      - Our People/.keep
+      - Our Partners/.keep
       - Our Partners/Our Partners.md
       - Our Partners/Parents Support Group.md
       - Our Partners/Alumni.md
-      - Our Partners/.keep
+      - School Magazines/.keep
       - School Magazines/Retrospect 2024.md
       - School Magazines/Retrospect 2023.md
       - School Magazines/Retrospect 2022.md
       - School Magazines/Retrospect 2021.md
-      - School Magazines/.keep
       - LHL Award for Innovation in Normal Course.md
+      - 40th Anniversary Celebration.md
