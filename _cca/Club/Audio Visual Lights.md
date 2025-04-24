@@ -9,33 +9,37 @@ variant: markdown
 
 #### **SERVE, SHOOT and CREATE**
 
-The Audio Visual and Lights Club (AVL) is dedicated to three main core areas:&nbsp;**SERVE, SHOOT and CREATE**! Within SERVE, AVL members actively contribute to the school and her community by offering indispensable Audio-Visual (AV) support for a range of school events such as National Day celebrations and Graduation Ceremony. In SHOOT, members acquire and refine their photography and videography skills through a combination of structured courses and hands-on training sessions. They apply these skills while participating in various AV projects, serving as photographers for both school and community events. Additionally, members delve into the art of post-production editing to CREATE exceptional-quality photographs and videos that captivate audiences.
+The Audio Visual and Lights Club (AVL) focuses on three main areas: SERVE, SHOOT and CREATE!
+
+In SERVE, members support the school by providing essential Audio-Visual (AV) assistance for events like National Day celebrations and the Graduation Ceremony.
+
+In SHOOT, members develop their photography and videography skills through structured courses and hands-on training. They use these skills in AV projects and serve as photographers for school events.
+
+In CREATE, members enhance their post-production editing skills to produce high-quality photos and videos that engage and impress audiences.
+
  
 ### **Highlights**
 
-Competitions 
-- Our Schools, Our Stories Photo Contest 
-- Schools Digital Media Awards 2024 
-- RP The Media Challenge 2024 
-
-Learning Journeys and Outdoor Photoshoots<br>
-AVL Learn a Skill <br>
-AVL Training and Bonding Camps
+Our Schools, Our Stories Photo Contest<br>
+Republic Polytechnic The Media Challenge<br>
+IMDA Google Content Creation Course<br>
+Event Photography and Videography Course<br>
+Learning Journeys<br>
+Outdoor Photoshoots<br>
+AVL Training and Bonding Camps<br>
+"Through Our Lens" Projects<br>
 
 ### **Achivements**
 
-* Our School, Our Stories Photo Contest 2024 <br>
-Honourable Mention Award - Nur Ashura 3A2 
-
-* The Media Challenge 2024<br>
+The Media Challenge 2024<br>
 Special Commendation Award for Best Big Idea and Insight
 
 ### **Schedule**
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday  | 3.30pm - 6.00pm | Computer Lab 2/ AVL Room |
-| Thursday | 3.30pm - 6.00pm | Computer Lab 2/ AVL Room (Odd Week) |
+| Tuesday  | 3.30pm - 6.00pm | Computer Lab 3 and 4/ AVL Room |
+| Thursday | 3.30pm - 6.00pm | Computer Lab 3/ AVL Room (Odd Week) |
 
 ### **Teachers-in-charge**
 
@@ -45,8 +49,4 @@ Special Commendation Award for Best Big Idea and Insight
 * Ms. Siti Radilah (ICT Manager)
  
 ### **Photos / Videos**
-![](/images/CCA/AVL/Website_Collage_V2.jpg)
-
-![](/images/CCA/AVL/avl%20collage%20website.JPG)
-
-![](/images/avl2.png)
+![](/images/CCA/AVL/AVL_1.jpg)
