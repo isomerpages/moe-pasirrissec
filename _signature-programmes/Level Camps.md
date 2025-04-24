@@ -14,9 +14,10 @@ Camp Oneiric offers plenty of opportunities for our students to step beyond thei
 ![](/images/Signature%20Programmes/Level%20Camps/Oneiric.png)
 ![](/images/Signature%20Programmes/Level%20Camps/Oneiric_2.png)
 ![](/images/Signature%20Programmes/Level%20Camps/Oneiric3.png)
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/T-vdJ-cPKLo?si=LC5RE3KlQ-WGhuep" height="315" width="560"></iframe>
+<div style="text-align:center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/T-vdJ-cPKLo?si=LC5RE3KlQ-WGhuep" height="315" width="560"></iframe></div>
 <br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GDqHsVH3Ipc?si=ivWsK5_hrx35myN4" height="315" width="560"></iframe>
+
+<div style="text-align:center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GDqHsVH3Ipc?si=ivWsK5_hrx35myN4" height="315" width="560"></iframe></div>
 
 #### **Sec 2 - Camp Spark**
 
