@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - 40th Anniversary Celebration.md
       - Principal's Foreword.md
       - Our Heritage.md
       - Vision, Mission and Values.md
