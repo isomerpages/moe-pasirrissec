@@ -10,4 +10,12 @@ stories on acts of kindness gathered from students and staff. Click <a href="htt
 check out some of the videos featuring the inspiring stories of kindness.</p>
 <p>The anniversary programme will feature 3 key segments which include a
 plenary session, the Student Learning Festival as well as the Awards ceremony.</p>
-<p>Click to view the Plenary Session and Awards Ceremony videos.</p>
+<p>Click to view the Plenary Session and Awards Ceremony videos below.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7MMjqc29z4E?si=PSOo52y9owU89kAF"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lPlHgxs-ybw?si=qZDwvJfwPxfkSbo9"></iframe>
+</div>
+<p></p>
