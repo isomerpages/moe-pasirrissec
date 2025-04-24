@@ -19,7 +19,7 @@ Find out more [here](/about-us/our-partners/alumni/).
 
 ### **DSA VLOG**
 <div style="text-align:center">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Q0mwhVLAV9E?si=o7hzoiJCMnGv3Tb7" height="315" width="560"></iframe></div>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/q20cKmMot6o?si=Sc7OoMbikxv4tQxL" height="315" width="560"></iframe>
 
 ### **SCHOOL SONG**
 
@@ -48,4 +48,4 @@ Let truth and sincerity come right from your heart<br>
 These and other thoughts we gladly bring<br>  
 To Pasir Ris right from the start<br>  
 To Pasir Ris right from the start
-</p>
+</p></div>
