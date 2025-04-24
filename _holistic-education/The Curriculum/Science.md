@@ -116,7 +116,7 @@ Click to view the virtual tour of our school's [Eco Garden](https://www.theasys.
 | Lower Secondary Science / NT Science | Ms Jaslin Jiang Wei Yeow | [jiang_wei_yeow@moe.edu.sg](mailto:jiang_wei_yeow@moe.edu.sg) |
 | Biology / Lower Secondary Science | Mr Zachary Koh Jia Sheng | [koh_jia_sheng_zachary@moe.edu.sg](mailto:koh_jia_sheng_zachary@moe.edu.sg) |
 | Physics / Lower Secondary Science | Mr Kok Wai Keong Kevin | [kok_wai_keong_kevin@moe.edu.sg](mailto:kok_wai_keong_kevin@moe.edu.sg) |
-| Physics / Lower Secondary Science | Mr Lim Yong Liang | [lim_yong_liang@moe.edu.sg@moe.edu.sg](mailto:lim_yong_liang@moe.edu.sg) |
+| Physics / Lower Secondary Science | Mr Lim Yong Liang | [lim_yong_liang@moe.edu.sg](mailto:lim_yong_liang@moe.edu.sg) |
 | Chemistry / Lower Secondary Science / Mathematics | Mdm Zulaiha Bte Osman | [zulaiha_osman@moe.edu.sg](mailto:zulaiha_osman@moe.edu.sg) |
 | STEM Instructor | Mdm Dinah Tan Kwee Choo | [tan_kwee_choo@moe.edu.sg](mailto:tan_kwee_choo@moe.edu.sg) |
 | STEM Instructor | Ms Khairunnisa Bte Rahmat | [khairunnisa_rahmat@moe.edu.sg](mailto:khairunnisa_rahmat@moe.edu.sg) |
