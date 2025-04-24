@@ -54,18 +54,9 @@ It is our goal to continue to engage our students and to prepare them for the ch
 
 ### Photos
 
-![](/images/Curriculum/English%20Language/ell%2001.JPG)
-
-![](/images/Curriculum/English%20Language/ell%2002a.JPG)
-
-![](/images/Curriculum/English%20Language/ell%2003.jpg)
-
-![](/images/Curriculum/English%20Language/ell%2004.jpg)
-
-![](/images/Curriculum/English%20Language/ell%2005.jpg)
-
-![](/images/Curriculum/English%20Language/ell%2006.jpg)
-
-![](/images/english.png)
-
-![](/images/english2.png)
+![](/images/Curriculum/English%20Language/EL_Dept_2025__1_.jpg)<br>
+![](/images/Curriculum/English%20Language/EL_Dept_2025__2_.jpg)<br>
+![](/images/Curriculum/English%20Language/EL_Dept_2025__3_.jpg)<br>
+![](/images/Curriculum/English%20Language/EL_Dept_2025__4_.jpg)<br>
+![](/images/Curriculum/English%20Language/EL_Dept_2025__5_.jpg)<br>
+![](/images/Curriculum/English%20Language/EL_Dept_2025__6_.jpg)<br>
