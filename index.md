@@ -29,7 +29,7 @@ sections:
         with the theme ‘Kindness: Small Acts, Big Impact’. Click NEXT for more
         information."
       button: NEXT
-      url: https://www.pasirrissec.moe.edu.sg/Announcements/
+      url: https://www.pasirrissec.moe.edu.sg/40th-anniversary-celebration/
       image: /images/40th_final_poster.jpg
       alt: 40th Anniversary Celebration
   - infopic:
