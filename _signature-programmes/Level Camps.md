@@ -50,12 +50,10 @@ The tagline of the camp is “Go the Distance”. The activities in the camp als
 
 At the start of the camp, students define what success means to them and how they can live a life of purpose, identifying the reasons why they want to be successful and yet at the same time find support from others should the going get tough. Students also build their confidence through learning about the power of first impressions, where they are exposed to the importance of social and business etiquette, personal grooming, and hygiene, as well as effective interpersonal communication skills.
 
-<div style="text-align:center">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/sqIaw-vygTY?si=U8Qrn8UQcBXPTHhw" height="315" width="560"></iframe>
-</div>
+<div style="padding:75% 0 0 0;position:relative;"><iframe title="Camp_Conquest_2025__8_10_Jan_" style="position:absolute;top:0;left:0;width:100%;height:100%;" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" frameborder="0" src="https://player.vimeo.com/video/1078588585?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div>
 
-![](/images/Signature%20Programmes/Level%20Camps/Quest.png)
-![](/images/Signature%20Programmes/Level%20Camps/Conquest.png)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe title="Camp Quest 2025 video" style="position:absolute;top:0;left:0;width:100%;height:100%;" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" frameborder="0" src="https://player.vimeo.com/video/1078589080?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div>
+
 Through these activities, we hope that they will help them to
 
 *   enhance their resilience and help them to stay focused on pursuing their aspirations
