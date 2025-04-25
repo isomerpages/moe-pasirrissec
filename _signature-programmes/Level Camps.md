@@ -39,9 +39,8 @@ Throughout the camp, students had opportunities to develop their class spirit as
 
 The theme of the camp was selected as adolescence is a period of transformation, not unlike a chrysalis changing into a butterfly. It is only through the struggle of metamorphosis that he gains the strength to survive on his own. This is not like the growing up process, where our young grow through the struggles and difficulties they went through.
 
-<div style="text-align:center">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Xj0-YlUML3E?si=5VrBuWx97RWRtYoU" height="315" width="560"></iframe>
-</div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe title="S3 Camp Metamorphosis" style="position:absolute;top:0;left:0;width:100%;height:100%;" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" frameborder="0" src="https://player.vimeo.com/video/1078565121?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div>
+
 
 #### **Sec 4N - Camp Quest / Sec 4E5N - Camp Conquest**
 
