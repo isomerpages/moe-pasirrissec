@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <p></p><div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/Open_House_Banner_2024_Resize.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E%20Open%20house/MOTD_800x580_pxls.png">
 </div>
 <p></p><table>
 <tbody>
@@ -51,7 +51,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<a href="/e-open-house/dsa-talent-areas/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/7.png">
+<a href="/e-open-house/dsa-talent-areas/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/DSA_2025_iCON.png">
 </a></div>
 </td><th rowspan="1" colspan="1">
 <p></p>

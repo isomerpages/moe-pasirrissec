@@ -57,38 +57,26 @@ The programme is divided into three tiers:
 
 Science Experiential, Enrichment and Development Programme (SEED) which aims to promote interest and authentic learning in Science and Technology within and beyond the confines of the classroom
 
-**Unity Scientific Innovation Challenge with SP &amp; ERI@N (USPE 2022) Finals**
+**A*STAR-VJC Science Fair** <br>
+2 Certificate of Participation
 
-* Consolation prize and Participation prize
+**Singapore Junior Biology Olympiad**<br>
+1 Gold, 1 Silver, 5 Bronze, 1 Honorable Mention
 
-**IgnITE Skills Challenge 2022**
+**Singapore Junior Chemistry Olympiad**<br>
+2 Merits, 23 COP
 
-* Certificate of Participation
+**International Chemistry Quiz**<br>
+1 Distinction, 7 Credits
 
-**International C. B. Paul Science Quiz 2022**
+**ICAS Science Competition** <br>
+1 High Distinction, 4 Distinction, 9 Credit, 4 Merit and 16 Certificate of Participation
 
-* Lower Secondary - 2 silver, 1 bronze and 1 participation
-* Upper Secondary - 1 silver, 1 bronze, 3 merit and 3 participations
+**Singapore Physics League**<br>
+1 Bronze, 1 Certificate of Participation
 
-**Singapore Junior Physics Olympiad 2022**
-
-* Individual round - 1 bronze, 7 honourable mentions and 5 participations
-* Team round - 1 bronze and 2 participations
-
-**Singapore Junior Biology Olympiad 2022**
-
-* Individual round - 3 bronze, 2 honourable mentions and 2 participations
-
-**ASEAN +3 Junior Science Odyssey (APTJSO)**
-
-* Science Process Skills Challenge - Silver
-* Sustainability Challenge - Silver
-* Interdisciplinary Group Project - Gold
-
-#### Achievements
-
-* Best Oral Defense Award' for USPE 2023
-* Bronze Award' for SISTEMIC 2023
+**Temasek Engineering Olympiad**<br>
+1 Gold Award, 1 Commendation Award
 
 #### The PRSS Ecogarden
 
@@ -103,7 +91,7 @@ Click to view the virtual tour of our school's [Eco Garden](https://www.theasys.
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
-| HOD Science| Mr Mr Richmond Ang Dy | [richmond_ang_dy@moe.edu.sg](mailto:richmond_ang_dy@moe.edu.sg) | 
+| HOD Science| Mr Richmond Ang Dy | [richmond_ang_dy@moe.edu.sg](mailto:richmond_ang_dy@moe.edu.sg) | 
 | Biology / Lower Secondary Science| Mr Joshua Tan<br>HOD Character &amp; Citizenship Education |  [joshua_tan_see_kuang@moe.edu.sg](mailto:joshua_tan_see_kuang@moe.edu.sg) | 
 | Chemistry | Mr Chua Khoon Wee<br>HOD Information Communication Technology | [chua_khoon_wee@moe.edu.sg](mailto:chua_khoon_wee@moe.edu.sg) |
 | Chemistry | Mr Sim Chun Siang<br>HOD Student Development  | [sim_chun_siang@moe.edu.sg](mailto:sim_chun_siang@moe.edu.sg) | 
@@ -116,7 +104,7 @@ Click to view the virtual tour of our school's [Eco Garden](https://www.theasys.
 | Lower Secondary Science / NT Science | Ms Jaslin Jiang Wei Yeow | [jiang_wei_yeow@moe.edu.sg](mailto:jiang_wei_yeow@moe.edu.sg) |
 | Biology / Lower Secondary Science | Mr Zachary Koh Jia Sheng | [koh_jia_sheng_zachary@moe.edu.sg](mailto:koh_jia_sheng_zachary@moe.edu.sg) |
 | Physics / Lower Secondary Science | Mr Kok Wai Keong Kevin | [kok_wai_keong_kevin@moe.edu.sg](mailto:kok_wai_keong_kevin@moe.edu.sg) |
-| Physics / Lower Secondary Science | Mr Lim Yong Liang | [lim_yong_liang@moe.edu.sg@moe.edu.sg](mailto:lim_yong_liang@moe.edu.sg@moe.edu.sg) |
+| Physics / Lower Secondary Science | Mr Lim Yong Liang | [lim_yong_liang@moe.edu.sg](mailto:lim_yong_liang@moe.edu.sg) |
 | Chemistry / Lower Secondary Science / Mathematics | Mdm Zulaiha Bte Osman | [zulaiha_osman@moe.edu.sg](mailto:zulaiha_osman@moe.edu.sg) |
 | STEM Instructor | Mdm Dinah Tan Kwee Choo | [tan_kwee_choo@moe.edu.sg](mailto:tan_kwee_choo@moe.edu.sg) |
 | STEM Instructor | Ms Khairunnisa Bte Rahmat | [khairunnisa_rahmat@moe.edu.sg](mailto:khairunnisa_rahmat@moe.edu.sg) |

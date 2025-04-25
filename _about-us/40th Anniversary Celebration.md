@@ -1,7 +1,7 @@
 ---
 title: 40th Anniversary Celebration
 permalink: /40th-anniversary-celebration/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p>The school celebrated its 40th Anniversary on 23rd April 2025 with the
