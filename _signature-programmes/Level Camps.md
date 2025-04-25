@@ -16,7 +16,6 @@ Camp Oneiric offers plenty of opportunities for our students to step beyond thei
 ![](/images/Signature%20Programmes/Level%20Camps/Oneiric3.png)
 <div style="text-align:center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/T-vdJ-cPKLo?si=LC5RE3KlQ-WGhuep" height="315" width="560"></iframe></div>
 <br>
-
 <div style="text-align:center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GDqHsVH3Ipc?si=ivWsK5_hrx35myN4" height="315" width="560"></iframe></div>
 
 #### **Sec 2 - Camp Spark**
@@ -29,11 +28,8 @@ The metaphor of “Campfire” symbolizes the progression whereby Pasirians have
 
 Through the camp, students will develop a positive mindset as they learn to overcome challenges they face along the way. Through the authentic and experiential learning in this camp, they will forge friendships, deepen their sense of belonging, and pride towards the school. Highlights of this year’s camp include virtual reality, urban farming, outdoor cooking, laser tag and class-based campfires!
 
-<div style="text-align:center">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/AEGEg6JSCx8?si=AXtLN_Q04nBQbshh" height="315" width="560"></iframe>
-</div>
-
-![](/images/Signature%20Programmes/Level%20Camps/sec_2%20camp%20spark%202024.jpg)
+<div style="padding:75% 0 0 0;position:relative;"><iframe title="Camp Spark (8 to 10 Jan 2025)" style="position:absolute;top:0;left:0;width:100%;height:100%;" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" frameborder="0" src="https://player.vimeo.com/video/1078564502?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div>
+<br>
 
 #### **Sec 3 - Camp Metamorphosis**
 
@@ -43,9 +39,8 @@ Throughout the camp, students had opportunities to develop their class spirit as
 
 The theme of the camp was selected as adolescence is a period of transformation, not unlike a chrysalis changing into a butterfly. It is only through the struggle of metamorphosis that he gains the strength to survive on his own. This is not like the growing up process, where our young grow through the struggles and difficulties they went through.
 
-<div style="text-align:center">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Xj0-YlUML3E?si=5VrBuWx97RWRtYoU" height="315" width="560"></iframe>
-</div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe title="S3 Camp Metamorphosis" style="position:absolute;top:0;left:0;width:100%;height:100%;" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" frameborder="0" src="https://player.vimeo.com/video/1078565121?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div>
+
 
 #### **Sec 4N - Camp Quest / Sec 4E5N - Camp Conquest**
 
