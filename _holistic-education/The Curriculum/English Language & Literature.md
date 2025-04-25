@@ -53,6 +53,7 @@ It is our goal to continue to engage our students and to prepare them for the ch
 | English Language / Literature | Ms Maryam Bte Anuar | [maryam_anuar@moe.edu.sg@moe.edu.sg](mailto:maryam_anuar@moe.edu.sg) |
 | Art / English Language | Ms Kimberlyn Lee | [kimberlyn_lee@moe.edu.sg@moe.edu.sg](mailto:kimberlyn_lee@moe.edu.sg) |
 | Science / English Language | Mr Daniel Ng | [ng_tze_keen_daniel@moe.edu.sg](mailto:ng_tze_keen_daniel@moe.edu.sg) |
+
 ### Photos
 
 ![](/images/Curriculum/English%20Language/EL_Dept_2025__1_.jpg)<br>
