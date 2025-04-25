@@ -27,10 +27,7 @@ The theme of Camp Spark and its tagline “Zest For Life” is specially concept
 The metaphor of “Campfire” symbolizes the progression whereby Pasirians have gained their footing after Secondary One, internalised the PRIZE values and way of life, and will now begin their preparation to cultivate passion to chase their dreams.
 
 Through the camp, students will develop a positive mindset as they learn to overcome challenges they face along the way. Through the authentic and experiential learning in this camp, they will forge friendships, deepen their sense of belonging, and pride towards the school. Highlights of this year’s camp include virtual reality, urban farming, outdoor cooking, laser tag and class-based campfires!
-
-<div style="text-align:center">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://youtube.com/embed/wF-34X4dD1c?si=KnBWguzzV8MYX9ry" height="315" width="560"></iframe>
-</div>
+<div style="padding:75% 0 0 0;position:relative;"><iframe title="Camp Spark (8 to 10 Jan 2025)" style="position:absolute;top:0;left:0;width:100%;height:100%;" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" frameborder="0" src="https://player.vimeo.com/video/1078564502?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div>
 <br>
 
 ![](/images/Signature%20Programmes/Level%20Camps/sec_2%20camp%20spark%202024.jpg)
