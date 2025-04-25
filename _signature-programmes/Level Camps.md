@@ -29,9 +29,7 @@ The metaphor of “Campfire” symbolizes the progression whereby Pasirians have
 
 Through the camp, students will develop a positive mindset as they learn to overcome challenges they face along the way. Through the authentic and experiential learning in this camp, they will forge friendships, deepen their sense of belonging, and pride towards the school. Highlights of this year’s camp include virtual reality, urban farming, outdoor cooking, laser tag and class-based campfires!
 
-<div style="text-align:center">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/AEGEg6JSCx8?si=AXtLN_Q04nBQbshh" height="315" width="560"></iframe>
-</div>
+<div style="text-align:center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://youtube.com/embed/wF-34X4dD1c?si=KnBWguzzV8MYX9ry" height="315" width="560"></iframe></div>
 
 ![](/images/Signature%20Programmes/Level%20Camps/sec_2%20camp%20spark%202024.jpg)
 
