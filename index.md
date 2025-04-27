@@ -22,11 +22,20 @@ sections:
       button: Click here to find out more
       url: /achievements/In-The-News/
   - infopic:
+      title: DSA E-OPEN HOUSE
+      subtitle: Direct School Admission
+      id: infopic
+      description: Find out more about our DSA talent areas.
+      button: Click here
+      url: /dsa/
+      image: /images/E Open house/MOTD_800x580_pxls.png
+      alt: Image alt text
+  - infopic:
       title: PRSS 40th Anniversary Celebration
       subtitle: ANNOUNCEMENTS
       id: infopic
-      description: "The school will be celebrating its 40th Anniversary on 23 April
-        with the theme ‘Kindness: Small Acts, Big Impact’. Click NEXT for more
+      description: "The school celebrated its 40th Anniversary on 23 April with the
+        theme ‘Kindness: Small Acts, Big Impact’. Click NEXT for more
         information."
       button: NEXT
       url: https://www.pasirrissec.moe.edu.sg/40th-anniversary-celebration/
