@@ -53,5 +53,3 @@ Transform physical spaces into themed corners to cultivate students’ interest 
 <iframe allowfullscreen="true" height="369" width="560" frameborder="0" src="https://docs.google.com/presentation/d/1u2bqYOlYKGSmtsRYOwCuHjLjR_YirObR0Xidi6O1y4g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 <br>
 </div>
-
-Click [here](/useful-links/direct-school-admission-dsa/dsa-alp-in-humanities-and-english-language/) to find out how you can join Pasir Ris Secondary School through our Direct School Admission in ALP.
