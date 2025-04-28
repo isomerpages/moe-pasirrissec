@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Applied Learning Programme.md
       - Signature Programmes.md
       - National Digital Literacy Programme.md
       - Learning for Life Programme.md
