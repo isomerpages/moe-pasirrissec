@@ -32,7 +32,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: PRSS 40th Anniversary Celebration
-      subtitle: ANNOUNCEMENTS
+      subtitle: EVENTS
       id: infopic
       description: "The school celebrated its 40th Anniversary on 23 April with the
         theme ‘Kindness: Small Acts, Big Impact’. Click NEXT for more
