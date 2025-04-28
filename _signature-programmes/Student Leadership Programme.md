@@ -1,6 +1,6 @@
 ---
-title: Student Leadership
-permalink: /signature-programmes/Student-Leadership/
+title: Student Leadership Programme
+permalink: /signature-programmes/student-leadership/
 description: ""
 variant: markdown
 ---
