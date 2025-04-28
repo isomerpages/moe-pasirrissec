@@ -32,12 +32,11 @@ sections:
       alt: Image alt text
   - infopic:
       title: PRSS 40th Anniversary Celebration
-      subtitle: ANNOUNCEMENTS
+      subtitle: EVENTS
       id: infopic
       description: "The school celebrated its 40th Anniversary on 23 April with the
-        theme ‘Kindness: Small Acts, Big Impact’. Click NEXT for more
-        information."
-      button: NEXT
+        theme ‘Kindness: Small Acts, Big Impact’."
+      button: CLICK TO VIEW
       url: https://www.pasirrissec.moe.edu.sg/40th-anniversary-celebration/
       image: /images/40th_final_poster.jpg
       alt: 40th Anniversary Celebration
