@@ -35,7 +35,7 @@ will also acquire digital literacy in the four components of <strong>MOE Digital
 <a class="isomer-image-wrapper" href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan/digital-literacy-and-technological-skills">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Signature%20Programmes/MOE_Digital_Literacy_Framework.png">
 </a>
-<h4><strong>Personal Learning Device (PLD)</strong></h4>
+<h4><strong>Personal Learning Device</strong></h4>
 <p>At Pasir Ris Secondary School, all students use a Chromebook as their
 PLD. Chromebooks are chosen for their variety of affordances, including
 seamless learning experiences alongside existing teaching and learning
