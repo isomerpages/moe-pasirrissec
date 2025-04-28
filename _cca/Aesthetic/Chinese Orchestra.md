@@ -33,6 +33,7 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 * SYF 2019: Certificate of Distinction
 * SYF 2021: Certificate of Accomplishment
 * SYF 2023: Certificate of Distinction
+* SYF 2025: Certificate of Accomplishment
 
 ### **Schedule**
 
@@ -62,18 +63,6 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 Mr Chin Yen Choong
 
 ### **Photos / Videos**
-![](/images/CCA/Chinese%20Orchestra/IMG_20250318_WA0037.jpg)
-
-![](/images/CCA/Chinese%20Orchestra/20250209_202738__1_.jpg)
-
-![](/images/CCA/Chinese%20Orchestra/CO_2025_01.png)
-
-![](/images/CCA/Chinese%20Orchestra/CO_2025_02.png)
-
-![](/images/CCA/Chinese%20Orchestra/CO_2025_03.png)
-
-![](/images/CCA/Chinese%20Orchestra/CO_2025_04.png)
-
 ![](/images/CCA/Chinese%20Orchestra/2024%20chinese%20orchestra.jpg)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G7r30ncf14E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>
