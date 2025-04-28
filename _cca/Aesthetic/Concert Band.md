@@ -28,6 +28,7 @@ The Concert Band, led by 2 well-respected conductors, has a dynamic programme to
 * 2019 Singapore Youth Festival (SYF) - Distinction
 * 2021 Singapore Youth Festival (SYF) - Distinction
 * 2023 Singapore Youth Festival (SYF) - Distinction
+* 2025 Singapore Youth Festival (SYF) - Distinction
 
 ### **Schedule**
 
@@ -57,6 +58,11 @@ Mr Md Faizal Othman<br>
 Mr Steven Phua
 
 ### **Photos / Videos**
+![](/images/CCA/Concert%20Band/Band_2025.png)
+
+![](/images/CCA/Concert%20Band/Band_01_2025.png)
+
+![](/images/CCA/Concert%20Band/Band_02_2025.png)
 
 <img height="auto" width="700" src="/images/CCA/Concert%20Band/band%2001.JPG"><br>
 <img src="/images/CCA/Concert%20Band/band%2005.jpg"><br>

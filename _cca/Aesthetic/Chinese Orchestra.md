@@ -33,6 +33,7 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 * SYF 2019: Certificate of Distinction
 * SYF 2021: Certificate of Accomplishment
 * SYF 2023: Certificate of Distinction
+* SYF 2025: Certificate of Accomplishment
 
 ### **Schedule**
 
