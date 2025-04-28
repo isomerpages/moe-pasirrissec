@@ -5,8 +5,6 @@ description: ""
 variant: markdown
 ---
 ### Frequently Asked Questions
-<br>
-<table style="width:100%"><tbody><tr style="background-color:gold"><th>FAQ </th></tr><tr><td>Please click <a href="/files/FAQS\FAQs_e_Open_House.pdf">here</a> to view the FAQs</td></tr></tbody></table>
 
 <br>
 <table style="width:100%"><tbody><tr style="background-color:gold"><th>FAQ 2024</th></tr><tr><td>Please click <a href="/files/FAQS\FAQs_e_Open_House_2024.pdf">here</a> to view the FAQs</td></tr></tbody></table>
