@@ -16,5 +16,6 @@ c)&nbsp;**[Digital Media](/useful-links/direct-school-admission-dsa/dsa-digital-
 
 Students can apply through the DSA-Sec Portal. There are no application fees.
 
-The DSA-Sec portal will be open from 7th May 2025 to 3rd June 2025. For more details, please refer to MOE website at [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
+The DSA-Sec portal will be open from 7th May 2025 to 3rd June 2025. 
 
+For more details, please refer to MOE website at [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
