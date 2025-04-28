@@ -10,4 +10,12 @@ a)&nbsp;**[Learning for Life Programme in Music &amp; Performing Arts](/useful-l
 
 b)&nbsp;**[Talent Development in Sports - Football (Boys) and Volleyball (Boys &amp; Girls)](/useful-links/direct-school-admission-dsa/dsa-talent-development-in-sports/)**&nbsp;– new in 2020, our school has many alumni who embrace sports for life and are doing well in careers related to sports. As such, we are building on the tradition to grow sporting talents at our school. We have a comprehensive and extensive programme in Football and Volleyball to develop our athletes. Not only do they receive high-quality training in sports, but there is also a robust leadership programme to develop them into worthy sports ambassadors. We strongly believe that sports can build character, foster friendship and teamwork.&nbsp;If you have a strong passion for Football or Volleyball and have represented your primary school in sports competitions, do join us!
 
-c)&nbsp;**[Digital Media](/useful-links/direct-school-admission-dsa/dsa-digital-media/)** - Our school has been on MOE pilot for the PDLP (Personal Digital Learning Programme) in 2019 and we have set up a programme to nurture students’ talent and interest in digital media. This programme is different from the ALP as it will include AVL (Audio Visual &amp; Lighting) support and service to school and talent development in digital media including video recording, broadcasting, photography, coding, computational thinking and makerspace programme. Here, students undergo training on different digital media and get to create interesting prototypes such as block programming with mBots and micro bits using principles of design thinking.
+c)&nbsp;**[Digital Media](/useful-links/direct-school-admission-dsa/dsa-digital-media/)** - Our school has been on MOE pilot for the PDLP (Personal Digital Learning Programme) in 2019 and we have set up a programme to nurture students’ talent and interest in digital media. This programme includes the AVL (Audio Visual & Lighting) support and service to school and talent development in digital media including video recording, broadcasting, photography, coding, computational thinking and makerspace programme. Here, students undergo training on different digital media and get to create interesting prototypes such as block programming with mBots and micro bits using principles of design thinking.
+
+#### **Selection Criteria and Process**
+
+Students can apply through the DSA-Sec Portal. There are no application fees.
+
+The DSA-Sec portal will be open from 7th May 2025 to 3rd June 2025. 
+
+For more details, please refer to MOE website at [https://www.moe.gov.sg/secondary/dsa.](https://www.moe.gov.sg/secondary/dsa)
