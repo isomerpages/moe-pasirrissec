@@ -8,7 +8,7 @@ variant: tiptap
 <p>Pasir Ris Secondary School is in an exciting stage of growth. We would
 like to extend our warmest invitation to all Primary 6 students to apply
 for direct admission to our Secondary One via the DSA-Sec Direct School
-Admission Exercise.&nbsp;Here are the 4 categories of DSA Talent Areas
+Admission Exercise.&nbsp;Here are the 3 categories of DSA Talent Areas
 students can apply to:</p>
 <p>a)&nbsp;<strong><a href="/useful-links/direct-school-admission-dsa/dsa-llp-in-music-and-performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme in Music &amp; Performing Arts</a></strong>&nbsp;
 - At PRSS, we embrace the love of aesthetics and have a vibrant culture
