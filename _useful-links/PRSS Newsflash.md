@@ -7,6 +7,7 @@ variant: markdown
 Welcome to our school Newsflash. Stay informed with all the exciting updates, upcoming events, and important announcements from our school community. 
 
 **2025**<br>
+[Term 2 - Newsflash](/files/Newsflash_Term_2_2025_Final.pdf)<br>
 [Term 1 - Newsflash](/files/Newsflash_Term_1_2025.pdf)<br>
 
 **2024**  
