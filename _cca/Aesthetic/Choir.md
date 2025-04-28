@@ -50,6 +50,9 @@ Every year is an exciting year for PRSS Choir, with an array of meaningful activ
 Mr. Terrence Toh
 
 ### **Photos / Videos**
+![](/images/CCA/Choir/Choir_2025_Sem_1__1_.jpg)
+
+![](/images/CCA/Choir/Choir_2025.png)
 
 ![](/images/CCA/Choir/Choir_Grid_01.jpg)
 <center>
