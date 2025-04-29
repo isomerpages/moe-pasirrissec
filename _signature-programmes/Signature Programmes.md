@@ -10,4 +10,4 @@ In addition to our Learning for Life Programme (LLP) in Music and Performing Art
 
 Through initiatives such as Interdisciplinary Project Work, Level Camps, the Overseas Twinning Programme, and our student leadership development initiative – the Pegasus Programme – we strive to nurture Pasirians into confident learners, caring and resilient citizens.
 
-To explore our school's signature programmes, please view the programmes available in the left-hand navigation menu.
+To explore our school's signature programmes, please view the different programmes available in the left-hand navigation menu.
