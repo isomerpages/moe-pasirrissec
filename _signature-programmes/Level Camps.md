@@ -11,9 +11,11 @@ Transitioning to a secondary school can be both exciting but daunting for all Se
 In Camp Oneiric, we are sure that the Secondary Ones will enjoy and have a memorable time in the series of fun and exciting activities that we have lined up for them. We believe that the camp will provide solid transitional support for the Secondary One students.
 
 Camp Oneiric offers plenty of opportunities for our students to step beyond their comfort zones and become independent and confident learners. Some of the highlights from this camp include making the dream catcher, Kin Ball, Amazing Race, Aesthetic Induction program, and music-making sessions. These activities will establish stronger bonds between classmates and their teachers.
-![](/images/Signature%20Programmes/Level%20Camps/Oneiric.png)
-![](/images/Signature%20Programmes/Level%20Camps/Oneiric_2.png)
-![](/images/Signature%20Programmes/Level%20Camps/Oneiric3.png)
+![](/images/Signature%20Programmes/Level%20Camps/Oneiric_2025.png)
+
+![](/images/Signature%20Programmes/Level%20Camps/Oneiric_2025_1.png)
+
+![](/images/Signature%20Programmes/Level%20Camps/Oneiric_2025_2.png)
 <div style="text-align:center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/T-vdJ-cPKLo?si=LC5RE3KlQ-WGhuep" height="315" width="560"></iframe></div>
 <br>
 <div style="text-align:center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GDqHsVH3Ipc?si=ivWsK5_hrx35myN4" height="315" width="560"></iframe></div>
