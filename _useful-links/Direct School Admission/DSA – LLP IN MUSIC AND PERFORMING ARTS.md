@@ -124,7 +124,7 @@ audition.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>For all applicants who are not studying in MOE mainstream primary schools,
-please refer MOE <a href="https://go.gov.sg/nmsdsa-sec-application." rel="noopener nofollow" target="_blank">DSA-Sec for Non-mainstream school</a> website.</p>
+please refer MOE <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener nofollow" target="_blank">DSA-Sec for Non-mainstream school</a> website.</p>
 </li>
 <li>
 <p>International Students may apply but must take part in and fulfil the
@@ -170,8 +170,8 @@ final.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Application through the centralised DSA-Sec Portal
-<br>Mainstream students:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec<br>Non-mainstream</a> students:&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+<br>Mainstream students:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec<br></a>Non-Mainstream
+Students:&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
