@@ -78,19 +78,15 @@ or Photography</p>
 or Photography related competitions or CC</p>
 </li>
 </ul>
-<p>Applicants who do not have prior experience may also apply. The school
+<p>Applicants should indicate non-school based awards / activities which
+may comprise their school-based participation in relevant competitions
+in their online application in MOE’s DSA portal.
+<br>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
 <p><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 <p><strong>Selection Process</strong>&nbsp;&nbsp;</p>
-<p>Applicants will be shortlisted based on:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>School and Non-school based Awards / Activities which may comprise their
-school-based performances and/ or participation in relevant competitions</p>
-</li>
-</ul>
 <p>Shortlisted applicants will be required to go through an interview. Prior
 to the interview, instructions will also be provided to shortlisted applicants
 so that they may upload artefacts to an online platform for showcase, in
@@ -105,7 +101,7 @@ group participation in past events, activities, CCA sessions or competitions.&nb
 <ul data-tight="true" class="tight">
 <li>
 <p>For all applicants who are not studying in MOE mainstream primary schools,
-please refer to MOE <a href="https://go.gov.sg/nmsdsa-sec-application." rel="noopener nofollow" target="_blank">DSA-Sec Non-mainstream school </a>website.</p>
+please refer to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
 </li>
 <li>
 <p>International Students may apply but must take part in and fulfil the
@@ -113,4 +109,100 @@ requirements of the Admissions Exercise for International Students (AEIS)
 test to be successful in DSA.&nbsp;</p>
 </li>
 </ul>
-<p></p>
+<p><strong>Centralised DSA-Sec Application Process</strong>
+</p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 7 May 2025, 11am
+to 3 Jun 2025, 3pm. For more details, please refer to MOE website –&nbsp;
+<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applicants will be notified of the outcome of the application by 4 Sep
+2025. Candidates who are given a Confirmed Offer are guaranteed a place
+in our school in the Posting Group which they are eligible for (Posting
+Group 1, 2 or 3) based on their PSLE results.&nbsp;</p>
+</li>
+<li>
+<p>No appeal will be entertained as the school’s decision on the offer is
+final.&nbsp;</p>
+</li>
+</ul>
+<p><strong>Key Dates</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dates</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Application through the centralised DSA-Sec Portal
+<br>Mainstream students:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec<br></a>Non-Mainstream
+students:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 May 2025, 11am – 3 Jun 2025, 3pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Notification of Interview/ Audition/ Trial for shortlisted applicants</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 Jun 2025 -22 Aug 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Outcome of application (Confirmed Offer, Waiting List, Rejected)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 25 Aug and 4 Sep</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students with CO or WL offer will receive email and SMS
+<br>notification on the School Preference Submission</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mid-Oct 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Submission of school preferences via the DSA-Sec Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 Oct 2025, 9am – 31 Oct 2025, 3pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Release of DSA-Sec results with PSLE results release</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Late-Nov 2025</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school, and participate in the activities
+related to the talent they are selected for from Sec 1 - 4.&nbsp;</p>
