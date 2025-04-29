@@ -43,3 +43,11 @@ recording, broadcasting, photography, coding, computational thinking and
 makerspace programme. Here, students undergo training on different digital
 media and get to create interesting prototypes such as block programming
 with mBots and micro bits using principles of design thinking.</p>
+<p><strong>Selection Criteria and Process</strong>
+</p>
+<p>Students can apply through the DSA-Sec Portal. There are no application
+fees.</p>
+<p>The DSA-Sec portal will be open from 7th May 2025 to 3rd June 2025.</p>
+<p>For more details, please refer to MOE website at&nbsp;[<a href="https://www.moe.gov.sg/secondary/dsa.](https://www.moe.gov.sg/secondary/dsa)" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa.](https://www.moe.gov.sg/secondary/dsa)</a>
+</p>
+<p></p>
