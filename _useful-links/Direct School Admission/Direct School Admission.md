@@ -43,11 +43,82 @@ recording, broadcasting, photography, coding, computational thinking and
 makerspace programme. Here, students undergo training on different digital
 media and get to create interesting prototypes such as block programming
 with mBots and micro bits using principles of design thinking.</p>
-<p><strong>Selection Criteria and Process</strong>
+<h4><strong>Centralised DSA-Sec Application Process</strong></h4>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 7 May 2025, 11am
+to 3 Jun 2025, 3pm. For more details, please refer to MOE website –&nbsp;
+<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;</p>
+<p><strong>Key Dates</strong>
 </p>
-<p>Students can apply through the DSA-Sec Portal. There are no application
-fees.</p>
-<p>The DSA-Sec portal will be open from 7th May 2025 to 3rd June 2025.</p>
-<p>For more details, please refer to MOE website at&nbsp;[<a href="https://www.moe.gov.sg/secondary/dsa.](https://www.moe.gov.sg/secondary/dsa)" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa.](https://www.moe.gov.sg/secondary/dsa)</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dates</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Application through the centralised DSA-Sec Portal
+<br>Mainstream students:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec<br></a>Non-Mainstream
+Students:&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 May 2025, 11am – 3 Jun 2025, 3pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Notification of Interview/ Audition/ Trial for shortlisted applicants</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 Jun 2025 -22 Aug 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Outcome of application (Confirmed Offer, Waiting List, Rejected)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between 25 Aug and 4 Sep</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students with CO or WL offer will receive email and SMS notification on
+the School Preference Submission</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mid-Oct 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Submission of school preferences via the DSA-Sec Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 Oct 2025, 9am – 31 Oct 2025, 3pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Release of DSA-Sec results with PSLE results release</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Late-Nov 2025</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
