@@ -15,4 +15,4 @@ variant: markdown
 	
 ###  Enquiries
 
-If you have further enquiries, please [contact us](/contact-us/)
+If you have further enquiries, please [Contact Us](/contact-us/)
