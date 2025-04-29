@@ -51,7 +51,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<a href="/useful-links/subfolders/Direct%20School%20Admission"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/DSA_2025_iCON.png">
+<a href="/useful-links/direct-school-admission-dsa/direct-school-admission/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/DSA_2025_iCON.png">
 </a></div>
 </td><th rowspan="1" colspan="1">
 <p></p>
