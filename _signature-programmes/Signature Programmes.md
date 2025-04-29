@@ -9,3 +9,5 @@ Pasir Ris Secondary School’s Signature Programmes are designed and customised 
 In addition to our Learning for Life Programme (LLP) in Music and Performing Arts, our school has been a pilot for the 1:1 Personal Digital Learning Programme since 2019, in support of the National Digital Literacy Programme. 
 
 Through initiatives such as Interdisciplinary Project Work, Level Camps, the Overseas Twinning Programme, and our student leadership development initiative – the Pegasus Programme – we strive to nurture Pasirians into confident learners, caring and resilient citizens.
+
+To explore our school's signature programmes, please view the programmes available in the left-hand navigation menu.
