@@ -148,7 +148,7 @@ final.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Application through the centralised DSA-Sec Portal
-<br>Mainstream students:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec<br></a>Non-Mainstream
+<br>Mainstream students:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec <br></a>Non-Mainstream
 students:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
 </p>
 </td>
