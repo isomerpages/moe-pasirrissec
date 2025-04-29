@@ -14,18 +14,16 @@ c)&nbsp;**[Digital Media](/useful-links/direct-school-admission-dsa/dsa-digital-
 
 #### **Centralised DSA-Sec Application Process**
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal.<br> The application is free-of-charge and will be open from **7 May 2025, 11am to 3 Jun 2025, 3pm**. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec<br> 
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal.<br> The application is free-of-charge and will be open from **7 May 2025, 11am to 3 Jun 2025, 3pm**. For more details, please refer to MOE website – [ www.moe.gov.sg/dsa-sec]( www.moe.gov.sg/dsa-sec)<br> 
 
 **Key Dates**
 
 
 | Activity | Dates |
 | -------- | -------- |
-| Application through the centralised DSA-Sec Portal. <br>Mainstream students: https://go.gov.sg/apply-dsa-sec<br> Non-mainstream students: https://go.gov.sg/apply-dsa-sec-nms | 7 May 2025, 11am – 3 Jun 2025, 3pm     |
+| Application through the centralised DSA-Sec Portal. <br>Mainstream students:[ https://go.gov.sg/apply-dsa-sec]( https://go.gov.sg/apply-dsa-sec)<br> Non-mainstream students:[ https://go.gov.sg/apply-dsa-sec-nms]( https://go.gov.sg/apply-dsa-sec-nms) | 7 May 2025, 11am – 3 Jun 2025, 3pm     |
 |Notification of Interview/ Audition/ Trial for shortlisted applicants|30 Jun 2025 -22 Aug 2025|
 |Outcome of application (Confirmed Offer, Waiting List, Rejected)|Between 25 Aug and 4 Sep|
 |Students with CO or WL offer will receive email and SMS notification<br> on the School Preference Submission|Mid-Oct 2025|
 |Submission of school preferences via the DSA-Sec Portal|27 Oct 2025, 9am – 31 Oct 2025, 3pm|
 |Release of DSA-Sec results with PSLE results release|Late-Nov 2025|
-
-
