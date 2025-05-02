@@ -158,8 +158,8 @@ final.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Application through the centralised DSA-Sec Portal
-<br>Mainstream students:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a> 
-<br>Non Mainstream students:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+<br>Mainstream students:&nbsp;<a href="https://go.gov.sg/apply-dsa-sec" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a> 
+<br>Non Mainstream students:&nbsp;<a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
