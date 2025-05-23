@@ -4,6 +4,14 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 2025 End of Term 2 Activities
+Please refer to the individual end-of-activity class schedule specific to your class level.
+
+[2025 End of Term 2 Activities (Secondary 1 Class Schedule)](/files/Announcements/2025_End_of_Term_2_Activities__Secondary_1_Class_Schedule_.pdf)<br>
+[2025 End of Term 2 Activities (Secondary 2 Class Schedule)](/files/Announcements/2025_End_of_Term_2_Activities__Secondary_2_Class_Schedule_.pdf)<br>
+[2025 End of Term 2 Activities (Secondary 3 Class Schedule)](/files/Announcements/2025_End_of_Term_2_Activities__Secondary_3_Class_Schedule_.pdf)<br>
+[2025 End of Term 2 Activities (Secondary 4 &amp; 5 Class Schedule)](/files/Announcements/2025_End_of_Term_2_Activities__Secondary_4___5_Class_Schedule_.pdf)
+
 #### Collection of School Graduation Certificate (SGC) for 2024 Cohort
 Students from 2024 Sec 4NA, Sec 4Exp, Sec 4NT and Sec 5NA cohorts may collect their SGC from the school General Office during office hours<br>
 
