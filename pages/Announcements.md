@@ -28,7 +28,7 @@ The anniversary programme will feature 3 key segments which include a plenary se
 
 Welcome back to school!<br>
 We are pleased to share with you the school’s broad directions and key initiatives for Term 2.<br>
-Please click [here](/files/Newsflash_Term_2_2025_Final.pdf) to view the Newsletter.<br>
+Please click [here](/files/Announcements/Newsflash/Newsflash_Term_2_2025.pdf) to view the Newsletter.<br>
 
 #### 2025 Term 2 Timetable, with effect from Monday, 24 March 2025
 
