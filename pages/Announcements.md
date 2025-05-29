@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Prelim Exams Timetable
+[4E5N Prelim Schedule](/files/Announcements/2025/4E5N_Prelim_Schedule_2025.pdf) <br>
+[4NA Prelim Schedule](/files/Announcements/2025/4NA_Prelim_Schedule_2025.pdf)<br> [4NT Prelim Schedule](/files/Announcements/2025/4NT_Prelim_Schedule_2025.pdf)
+
 #### 2025 End of Term 2 Activities
 Please refer to the individual end-of-activity class schedule specific to your class level.
 
