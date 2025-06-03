@@ -17,9 +17,10 @@ description: ""
 
 \# Pure Geography students will have to read History elective, and vice-versa for Pure History students in Option B and E.
 
-
-	<h5><center>Secondary 3 G2<h6></h6></center></h5>
-
+<table border="1px solid black" style="width:100%">
+<tbody><tr>
+	<th><h5><center>Secondary 3 G2<h6></h6></center></h5></th>
+</tr></tbody></table>
 <b>Pasir Ris Secondary School - Sec 3 G2 Subject Combination for 2026</b>
 <br>
 
