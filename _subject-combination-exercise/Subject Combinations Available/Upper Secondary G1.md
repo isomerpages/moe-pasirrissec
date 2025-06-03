@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Subject Combinations Available
 ---
-<h3>Information on Upper Secondary Elective Subjects (Normal Technical)</h3>
+<h3>Information on Upper Secondary Elective Subjects G1</h3>
 
 <a href="#section-1">Art</a><br>
 <a href="#section-2">Design &amp; Technology</a><br> 
