@@ -13,7 +13,7 @@ third_nav_title: Subject Combination Exercise
 
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1"><b>Can a student change his/her option after he/she has selected the option?</b></label><div>
-<p>Students can log in to Allears to change his/her options before the deadline on <b>4 Nov 2024 at 11.59 p.m</b>. The latest option saved in the database would be used for the streaming exercise.</p></div></li>
+<p>Students can log in to Allears to change his/her options before the deadline on <b>31 October 2025 at 11.59 p.m</b>. The latest option saved in the database would be used for the streaming exercise.</p></div></li>
 	
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2"><b>If my child / ward is not allocated the combination/ elective of his/her choice, can we appeal?</b></label><div><p>Yes. The appeal can be conducted online from <b>11 – 14 Nov 2024, 0900h</b> once the streaming results are released.
