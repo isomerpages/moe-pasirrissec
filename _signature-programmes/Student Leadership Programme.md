@@ -35,15 +35,16 @@ PRSS Student Leader Group comprises the Student Councillors, Class Leaders Commi
 
 Nominations are made by teachers, peers and aspiring student leaders themselves. The eventual appointment will be based on students’ continued good performance and positive assessment by school leaders, teachers and peers.
 
-![](/images/Signature%20Programmes/Student%20Leadership/3__NEW__Student_Council.jpg)
-<center><i>28th Student Council Ex-Co (2024/2025)</i></center>
+![29th Student Council Investiture](/images/Signature%20Programmes/Student%20Leadership/1__School_Website__caption___29th_Student_Council_Investiture_.jpg)
+<center><i>29th_Student_Council_Investiture</i></center>
+	
+![Student Leadership Nexus organised by 29th Student Council](/images/Signature%20Programmes/Student%20Leadership/2__School_Website__caption___Student_Leadership_Nexus_organised_by_29th_Student_Council_.jpg)
+<center><i>Student Leadership Nexus organised by 29th Student Council</i></center>
 
-![](/images/Signature%20Programmes/Student%20Leadership/4a__NEW__Student_Leadership_Nexus_1.jpg)<center><i>Student Leadership Nexus organised by 28th Student Council EXCO</i></center>
-	
-![](/images/Signature%20Programmes/Student%20Leadership/4b__NEW__Student_Leadership_Nexus_2JPG.jpg)<center><i>Student Leadership Nexus organised by 28th Student Council EXCO</i></center>
-	
-![](/images/Signature%20Programmes/Student%20Leadership/5_Class_Leaders_and_Peer_Support_Leaders_Appointment_Ceremony__resize_.jpg)<center><i>Class Leaders and Peer Support Leaders Appointment Ceremony</i></center>
+![Student Leadership Nexus organised by 29th Student Council](/images/Signature%20Programmes/Student%20Leadership/3__School_Website__caption___Class_Leaders_and_Peer_Support_Leaders_Appointment_Ceremony_.jpg)
+<center><i>Student Leadership Nexus organised by 29th Student Council</i></center>
 
 ![](/images/Signature%20Programmes/Student%20Leadership/6__NEW__PRSSCares_Movement.jpg)<center><i>#PRSSCares initiative by Peer Support Leaders</i></center>
 
 ![](/images/Signature%20Programmes/Student%20Leadership/7__NEW__CCA_Leadership_Handover_Ceremony.jpg)<center><i>CCA Leadership Handover Ceremony</i></center>
+
