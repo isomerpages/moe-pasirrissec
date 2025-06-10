@@ -47,4 +47,3 @@ Nominations are made by teachers, peers and aspiring student leaders themselves.
 ![](/images/Signature%20Programmes/Student%20Leadership/6__NEW__PRSSCares_Movement.jpg)<center><i>#PRSSCares initiative by Peer Support Leaders</i></center>
 
 ![](/images/Signature%20Programmes/Student%20Leadership/7__NEW__CCA_Leadership_Handover_Ceremony.jpg)<center><i>CCA Leadership Handover Ceremony</i></center>
-
