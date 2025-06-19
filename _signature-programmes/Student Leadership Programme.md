@@ -36,15 +36,14 @@ PRSS Student Leader Group comprises the Student Councillors, Class Leaders Commi
 Nominations are made by teachers, peers and aspiring student leaders themselves. The eventual appointment will be based on students’ continued good performance and positive assessment by school leaders, teachers and peers.
 
 ![29th Student Council Investiture](/images/Signature%20Programmes/Student%20Leadership/1__School_Website__caption___29th_Student_Council_Investiture_.jpg)
-<center><i>29th_Student_Council_Investiture</i></center>
+<center><i>29th Student Council Investiture</i></center>
 	
 ![Student Leadership Nexus organised by 29th Student Council](/images/Signature%20Programmes/Student%20Leadership/2__School_Website__caption___Student_Leadership_Nexus_organised_by_29th_Student_Council_.jpg)
 <center><i>Student Leadership Nexus organised by 29th Student Council</i></center>
 
 ![Student Leadership Nexus organised by 29th Student Council](/images/Signature%20Programmes/Student%20Leadership/3__School_Website__caption___Class_Leaders_and_Peer_Support_Leaders_Appointment_Ceremony_.jpg)
-<center><i>Student Leadership Nexus organised by 29th Student Council</i></center>
+<center><i>Class Leaders and Peer Support Leaders Appointment Ceremony</i></center>
 
 ![](/images/Signature%20Programmes/Student%20Leadership/6__NEW__PRSSCares_Movement.jpg)<center><i>#PRSSCares initiative by Peer Support Leaders</i></center>
 
 ![](/images/Signature%20Programmes/Student%20Leadership/7__NEW__CCA_Leadership_Handover_Ceremony.jpg)<center><i>CCA Leadership Handover Ceremony</i></center>
-
