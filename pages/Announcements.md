@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### 2025 Semester 2 Timetable, with effect from Monday, 30 June 2025
 
-Please click [here](/files/2025_SEM_2_TT__WEF_30_JUN____Class.pdf)to access 2025 Semester 2 Timetable for all classes.<br>
+Please click [here](/files/2025_SEM_2_TT__WEF_30_JUN____Class.pdf) to access 2025 Semester 2 Timetable for all classes.<br>
 
 
 #### Prelim Exams Timetable
