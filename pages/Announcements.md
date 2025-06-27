@@ -4,6 +4,11 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 2025 Semester 2 Timetable, with effect from Monday, 30 June 2025
+
+Please click [here](/files/2025_SEM_2_TT__WEF_30_JUN____Class.pdf)to access 2025 Semester 2 Timetable for all classes.<br>
+
+
 #### Prelim Exams Timetable
 [4E5N Prelim Schedule](/files/Announcements/2025/4E5N_Prelim_Schedule_2025.pdf) <br>
 [4NA Prelim Schedule](/files/Announcements/2025/4NA_Prelim_Schedule_2025.pdf)<br> [4NT Prelim Schedule](/files/Announcements/2025/4NT_Prelim_Schedule_2025.pdf)
@@ -29,10 +34,6 @@ The anniversary programme will feature 3 key segments which include a plenary se
 Welcome back to school!<br>
 We are pleased to share with you the school’s broad directions and key initiatives for Term 2.<br>
 Please click [here](/files/Announcements/Newsflash/Newsflash_Term_2_2025.pdf) to view the Newsletter.<br>
-
-#### 2025 Term 2 Timetable, with effect from Monday, 24 March 2025
-
-Please click [here](/files/2025_T2_TT_WEF_24_MAR_FINAL_FOR_CLASSES.pdf) to access 2025 Term 2 Timetable for all classes.<br>
 
 
 #### ECGC Briefing for Parents of Sec 4 and Sec 5 Students on Saturday, 8th February 2025
