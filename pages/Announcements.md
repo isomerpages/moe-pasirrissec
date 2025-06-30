@@ -4,7 +4,7 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### 2025 Term 2 Newsflash
+#### 2025 Term 3 Newsflash
 
 Welcome back to school!<br>
 We are pleased to share with you the school’s broad directions and key initiatives for Term 3.<br>
