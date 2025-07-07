@@ -4,7 +4,7 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### Secondary 1 OAL briefing slides
+#### Secondary 1 OALC briefing slides
 
 We are pleased to share with you the S1 OAL Camp Slides for Parent Information. You may refer to the slides [here](/files/2025_S1_OAL_Camp_Briefing.pdf).
 
