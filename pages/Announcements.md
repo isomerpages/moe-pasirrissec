@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Secondary 1 OAL briefing slides
+
+We are pleased to share with you the S1 OAL Camp Slides for Parent Information. You may refer to the slides [here](/files/2025_S1_OAL_Camp_Briefing.pdf).
+
 #### 2025 Term 3 Newsflash
 
 Welcome back to school!<br>
@@ -34,10 +38,6 @@ Students from 2024 Sec 4NA, Sec 4Exp, Sec 4NT and Sec 5NA cohorts may collect th
 The school will be celebrating its 40th Anniversary on 23 April with the theme ‘Kindness: Small Acts, Big Impact’ as we will be featuring 40 inspiring stories on acts of kindness gathered from students and staff. Click [here](https://go.gov.sg/prss40thanniversary) to check out some of the videos featuring the inspiring stories of kindness. 
 
 The anniversary programme will feature 3 key segments which include a plenary session, the Student Learning Festival as well as the Awards ceremony.
-
-#### ECGC Briefing for Parents of Sec 4 and Sec 5 Students on Saturday, 8th February 2025
-
-Click here to access the [ECGC Parents Briefing slides](/files/Information%20for%20Parents/2025_S45_ECGC_Briefing_for_Parents__Sat_8_Feb_.pdf)
 
 
 #### Our School Magazine, *Retrospect 2024 - Inspire* is now available online
