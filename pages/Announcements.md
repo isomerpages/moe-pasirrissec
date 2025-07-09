@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 2025 Semester 2 Blended Learning Timetable
+
+Please click [here](/files/2025_SEM2_BL_TT_V1___Class.pdf) to access 2025 Semester 2 Blended Learning Timetable. <br>
+
 #### Secondary 1 OALC briefing slides
 
 We are pleased to share with you the S1 OAL Camp Slides for Parent Information. You may refer to the slides [here](/files/2025_S1_OAL_Camp_Briefing.pdf).
@@ -43,7 +47,3 @@ The anniversary programme will feature 3 key segments which include a plenary se
 #### Our School Magazine, *Retrospect 2024 - Inspire* is now available online
 
 We are happy to announce that the online copy of the school magazine, Retrospect 2024 – Inspire, is now available. Please click [here](https://online.fliphtml5.com/yhdnr/vzld/#p=1) to take a walk down memory lane to reminisce the fond memories we had in 2024.
-
-#### 2025 Semester 1 Blended Learning Timetable
-
-Please click [here](/files/2025_SEM1_BL_TT_V1a_Classes.pdf) to access 2025 Semester 1 Blended Learning Timetable. <br>
