@@ -33,7 +33,7 @@ description: ""
 
 \* Option G, will only be offered to students in the top 25%. A good pass in the relevant lower secondary subjects is required to read pure humanities, pure sciences and additional mathematics. Allocations of the above are based on students’ academic performance and aptitude, subjected to the availability of school resources. Subject Combination with less than 15 students may not be implemented.
 
-\# Pure Geography students will have to read History elective, and vice-versa for Pure History students in Option E and G.
+\# Pure Geography students will have to read History elective, and vice-versa for Pure History students in Options E and G.
 
 <table border="1px solid black" style="width:100%">
 <tbody><tr>
