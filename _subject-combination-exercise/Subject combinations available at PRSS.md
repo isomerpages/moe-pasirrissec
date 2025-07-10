@@ -31,9 +31,9 @@ description: ""
 <td style="background-color:#c0c0c0;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#c0c0c0;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td></tr>
 </tbody></table>
 
-\* Options D and E, will only be offered to students in the top 25%. A good pass in the relevant lower secondary subjects is required to read pure humanities, pure sciences and additional mathematics. Allocations of the above are based on students’ academic performance and aptitude, subjected to the availability of school resources. Subject Combination with less than 15 students may not be implemented.
+\* Option G, will only be offered to students in the top 25%. A good pass in the relevant lower secondary subjects is required to read pure humanities, pure sciences and additional mathematics. Allocations of the above are based on students’ academic performance and aptitude, subjected to the availability of school resources. Subject Combination with less than 15 students may not be implemented.
 
-\# Pure Geography students will have to read History elective, and vice-versa for Pure History students in Option B and E.
+\# Pure Geography students will have to read History elective, and vice-versa for Pure History students in Options E and G.
 
 <table border="1px solid black" style="width:100%">
 <tbody><tr>
