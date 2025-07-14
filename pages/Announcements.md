@@ -4,6 +4,11 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Friday 18 July 2025 Timetable for Sec 2 to 5 students
+
+Please click [here](/files/TT_for_S2__S3__S45N_18_Jul_Fri.pdf) to access the timetable.<br>
+
+
 #### 2025 Semester 2 Blended Learning Timetable
 
 Please click [here](/files/2025_SEM2_BL_TT_V1___Class.pdf) to access 2025 Semester 2 Blended Learning Timetable. <br>
