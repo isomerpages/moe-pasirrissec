@@ -4,7 +4,7 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### Friday 18 July 2025 Timetable for Sec 2 to 5 students
+#### Friday 18 July 2025 Timetable for Secondary 2 to 5 classes
 
 Please click [here](/files/TT_for_S2__S3__S45N_18_Jul_Fri.pdf) to access the timetable.<br>
 
