@@ -52,7 +52,7 @@ variant: tiptap
 <p>Sec 1 OAL Camp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/presentation/d/1ADXt_DJMwCdkeLa1hZxjtPILbR3XiCjB/edit?usp=sharing&amp;ouid=105184148916453945222&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">S1 OALC briefing Slides</a>
+<p><a href="/files/2025_S1_OAL_Camp_Briefing.pdf" rel="noopener nofollow" target="_blank">S1 OALC briefing Slides</a>
 </p>
 </td>
 </tr>
