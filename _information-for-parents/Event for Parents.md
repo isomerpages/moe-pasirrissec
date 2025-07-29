@@ -28,16 +28,61 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 Jan 2025</p>
+<p>25 Jul 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4 and Sec 5</p>
+<p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S4 and 5 Virtual Parent Engagement</p>
+<p>S2 Virtual Parent Engagement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Information for Parents/Sec_4_and_5_Parents_Engagement_2025_vetted.pdf" rel="noopener nofollow" target="_blank">S4 and 5 Virtual Parent Engagement Slides</a>
+<p><a href="https://docs.google.com/presentation/d/1ADXt_DJMwCdkeLa1hZxjtPILbR3XiCjB/edit?usp=sharing&amp;ouid=105184148916453945222&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">S2 Virtual Parent Engagement Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 Jul 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 OAL Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/presentation/d/1ADXt_DJMwCdkeLa1hZxjtPILbR3XiCjB/edit?usp=sharing&amp;ouid=105184148916453945222&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">S1 OALC briefing Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 Feb 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 Virtual Parent Engagement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Information for Parents/Sec_3_Parents_Engagement_2025.pdf" rel="noopener nofollow" target="_blank">S3 Virtual Parent Engagement Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Feb 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 Virtual Parent Engagement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1B0XsN1X0BAO0nRy_9sDyfoCeb6lR0A3p/view?usp=sharing" rel="noopener nofollow" target="_blank">S2 Virtual Parent Engagement Slides</a>
 </p>
 </td>
 </tr>
@@ -73,31 +118,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 Feb 2025</p>
+<p>24 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2</p>
+<p>Sec 4 and Sec 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S2 Virtual Parent Engagement</p>
+<p>S4 and 5 Virtual Parent Engagement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1B0XsN1X0BAO0nRy_9sDyfoCeb6lR0A3p/view?usp=sharing" rel="noopener nofollow" target="_blank">S2 Virtual Parent Engagement Slides</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25 Feb 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S3 Virtual Parent Engagement</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Information for Parents/Sec_3_Parents_Engagement_2025.pdf" rel="noopener nofollow" target="_blank">S3 Virtual Parent Engagement Slides</a>
+<p><a href="/files/Information for Parents/Sec_4_and_5_Parents_Engagement_2025_vetted.pdf" rel="noopener nofollow" target="_blank">S4 and 5 Virtual Parent Engagement Slides</a>
 </p>
 </td>
 </tr>
