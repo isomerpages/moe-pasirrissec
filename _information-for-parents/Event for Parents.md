@@ -28,6 +28,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>26 Jul 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ECG Virtual Sharing on Post-Sec Educational Pathways</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/15rOu69NNVIShbQr2IBsHmTMHljCqWUSV?usp=drive_link" rel="noopener nofollow" target="_blank">ECG Virtual Sharing on Post-Sec Educational Pathways Google Folder</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>25 Jul 2025</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,7 +67,7 @@ variant: tiptap
 <p>Sec 1 OAL Camp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/presentation/d/1ADXt_DJMwCdkeLa1hZxjtPILbR3XiCjB/edit?usp=sharing&amp;ouid=105184148916453945222&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">S1 OALC briefing Slides</a>
+<p><a href="/files/2025_S1_OAL_Camp_Briefing.pdf" rel="noopener nofollow" target="_blank">S1 OALC briefing Slides</a>
 </p>
 </td>
 </tr>
