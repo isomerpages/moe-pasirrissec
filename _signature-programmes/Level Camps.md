@@ -23,7 +23,7 @@ Camp Oneiric offers plenty of opportunities for our students to step beyond thei
 
 #### **Sec 1 Outdoor Adventure Learning Camp (OALC)**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qzXLc9FtsoE?si=Mspm-rcm0oaEt28h" height="315" width="560"></iframe>
+<div style="text-align:center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qzXLc9FtsoE?si=Mspm-rcm0oaEt28h" height="315" width="560"></iframe>
 
 #### **Sec 2 - Camp Spark**
 
@@ -67,4 +67,4 @@ Through these activities, we hope that they will help them to
 *   deepen their friendships with cohort peers to achieve team goals
 *   learn various soft skills relevant to the future workplace
 *   cultivate a sense of belonging and pride in the school
-*   develop greater awareness of post-secondary options
+*   develop greater awareness of post-secondary options</div>
