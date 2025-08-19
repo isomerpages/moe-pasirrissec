@@ -83,7 +83,7 @@ The Cyber Wellness programme in PRSS aim to equip students with the knowledge, s
 
 #### Training and Workshops
 
-We organise trainings for our leaders and students to internalise the Cyber Wellness key messages. In 2023, we organised the NCAC enrichment module so that our student leaders are equipped with the key leadership skills to champion CW.
+We conduct training sessions for our leaders and students to help them internalise key Cyber Wellness messages. These sessions also equip our student leaders with essential leadership skills to effectively champion Cyber Wellness initiatives.
 
 ![](/images/CCE/CW/cw01%20training%20&amp;%20workshops.png)
 
@@ -104,20 +104,10 @@ In PRSS, we also engage student leaders to lead Cyber Wellness peer advocacy pro
 
 #### Awards and Recognition
 
-To further develop and share our expertise in Cyber Wellness, the school presented our Cyber Wellness programme at the National Cyber Wellness STAR Award Conference 2015, Cyber Wellness Connexion 2017, National Cyber Wellness Student Ambassador Summit 2017 and National CW Connexion 2019. Our student leaders have also participated in competitions such as Cyber Warriors Challenge and National Cyber Wellness Advocacy Challenge. At the NCAC 2016, our school teams won the First and Third Prize. Our student, Ong Jiang En was also awarded the National Cyber Wellness Student Ambassador Award in 2017. Terry Teng Joon Seng, President of the Student Council was also awarded the National Cyber Wellness Student Ambassador Award in 2019. We also participated in Design For Good Competition 2021 (Cyber Wellness poster), and our student Rachel Tan received the Commendation Medal. In 2022, our team of students (Ryan Qiu, Samakya, Tan Aik Wee, Mohd Ibrahim, Davwin Arinze) also won the National Cyber Wellness Advocacy Challenge - Gold Award. In 2024, our school has co-organised a National Cyber Wellness Competition with IMDA.
-
-<img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise.jpeg" style="width:50%;float:left"><img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%202.jpeg" style="width:50%"><img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%203.jpeg" style="width:50%;float:left"><img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%204.jpeg" style="width:50%;float:left"><img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%205.jpeg" style="width:50%">
-<br><br>
-<img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%206.jpeg" style="width:50%">
-<center><i>Presentation at National Cyber Wellness student conferences and winning the 1st and 3rd Prize at National Cyber Wellness Advocacy Challenge
-	in 2014-2018.</i></center>
+To further develop and share our expertise in Cyber Wellness, the school presented our Cyber Wellness programme at the National Cyber Wellness STAR Award Conference 2015, Cyber Wellness Connexion 2017, National Cyber Wellness Student Ambassador Summit 2017 and National CW Connexion 2019. Our student leaders have also participated in competitions such as Cyber Warriors Challenge and National Cyber Wellness Advocacy Challenge. At the NCAC 2016, our school teams won the First and Third Prize. Our student, Ong Jiang En was also awarded the National Cyber Wellness Student Ambassador Award in 2017. Terry Teng Joon Seng, President of the Student Council was also awarded the National Cyber Wellness Student Ambassador Award in 2019. We also participated in Design For Good Competition 2021 (Cyber Wellness poster), and our student Rachel Tan received the Commendation Medal. In 2022, our team of students (Ryan Qiu, Samakya, Tan Aik Wee, Mohd Ibrahim, Davwin Arinze) also won the National Cyber Wellness Advocacy Challenge - Gold Award. Since 2024, our school has co-organised a National Cyber Wellness Competition with IMDA.
 
 ![](/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%207.jpeg)
 <center><i>Ong Jiang En, Cyber Wellness Student Ambassdor Awardee 2017</i></center>
-
-<img src="/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%208.jpeg" style="width:50%">
-
-<center><i>Our teacher-in-charge sharing about the school's holistic Cyber Wellness programme to other Cyber Wellness Coordinators at Cyber Wellness Connexion Conference</i></center>
 
 ![](/images/terry%20award.jpeg)
 <center><i>Terry Teng, Cyber Wellness Student Ambassador Awardee 2019</i></center>
@@ -131,8 +121,6 @@ To further develop and share our expertise in Cyber Wellness, the school present
 ![](/images/CCE/CW/Cyberwellness_DFG_Competition_2021_Rachel_Tan.jpg)
 <center><i>Our student, Rachel Tan winning the Design For Good Competition 2021</i></center>
 
-![](/images/CCE/CW/Top_Prize_at_National_Cyber_Wellness_Advocacy_Challenge_2022.jpg)
-<center><i>Our student winning the Top Prize at National Cyber Wellness Advocacy Challenge 2022</i></center>
 
 #### Partnerships
 
@@ -149,12 +137,10 @@ We have engaged the support of other organisations such as Singapore Kindness Mo
 <img src="/images/Partnership.jpeg" style="width:50%;float:left"><img src="/images/Partnership%201.jpeg" style="width:50%">
 		 <img src="/images/Partnership%203.jpeg" style="width:50%;float:left"><img src="/images/Partnership%203.jpeg" style="width:50%">
 		 <img src="/images/Partnership%204.jpeg" style="width:50%;float:left"><img src="/images/Partnership%205.jpeg" style="width:50%">
-		 <img src="/images/Partnership%206.jpeg" style="width:50%;float:left"><img src="/images/Partnership%207.jpeg" style="width:50%">
-		 <img src="/images/Partnership%208.jpeg" style="width:50%;float:left"><img src="/images/Partnership%209.jpeg" style="width:50%">
 		 
-This year, our school has partnered Infocomm Media Development Authority (IMDA) to co-organize the inaugural National Cyber Wellness Competition, an event aimed at empowering students to become responsible, savvy, and positive digital citizens. With over 100 submissions from primary and secondary schools across Singapore, the competition encouraged students to explore essential themes like online safety, digital empathy, and ethical online behaviour. We played an active role in shaping the competition’s structure and content, nurturing a generation of youth who can confidently navigate the digital world and positively influence their peers. The competition highlighted the significance of cyber wellness advocacy and inspired participants to lead the way in promoting safe and responsible online behaviour.
+Every year, our school has partnered Infocomm Media Development Authority (IMDA) to co-organize the inaugural National Cyber Wellness Competition, an event aimed at empowering students to become responsible, savvy, and positive digital citizens. With close to 600 submissions from primary and secondary schools across Singapore, the competition encouraged students to explore essential themes like online safety, digital empathy, and ethical online behaviour. We played an active role in shaping the competition’s structure and content, nurturing a generation of youth who can confidently navigate the digital world and positively influence their peers. The competition highlighted the significance of cyber wellness advocacy and inspired participants to lead the way in promoting safe and responsible online behaviour.
 
-Our Competition Website: [https://go.gov.sg/ncw2024](https://go.gov.sg/ncw2024)
+Our Competition Website: [https://go.gov.sg/ncw2025](https://go.gov.sg/ncw2025)
 		 
 #### Cyber Bullying hurts more than you think
 
