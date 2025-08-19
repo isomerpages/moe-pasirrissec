@@ -138,9 +138,9 @@ We have engaged the support of other organisations such as Singapore Kindness Mo
 		 <img src="/images/Partnership%203.jpeg" style="width:50%;float:left"><img src="/images/Partnership%203.jpeg" style="width:50%">
 		 <img src="/images/Partnership%204.jpeg" style="width:50%;float:left"><img src="/images/Partnership%205.jpeg" style="width:50%">
 		 
-Every year, our school has partnered Infocomm Media Development Authority (IMDA) to co-organize the inaugural National Cyber Wellness Competition, an event aimed at empowering students to become responsible, savvy, and positive digital citizens. With over 100 submissions from primary and secondary schools across Singapore, the competition encouraged students to explore essential themes like online safety, digital empathy, and ethical online behaviour. We played an active role in shaping the competition’s structure and content, nurturing a generation of youth who can confidently navigate the digital world and positively influence their peers. The competition highlighted the significance of cyber wellness advocacy and inspired participants to lead the way in promoting safe and responsible online behaviour.
+Every year, our school has partnered Infocomm Media Development Authority (IMDA) to co-organize the inaugural National Cyber Wellness Competition, an event aimed at empowering students to become responsible, savvy, and positive digital citizens. With close to 600 submissions from primary and secondary schools across Singapore, the competition encouraged students to explore essential themes like online safety, digital empathy, and ethical online behaviour. We played an active role in shaping the competition’s structure and content, nurturing a generation of youth who can confidently navigate the digital world and positively influence their peers. The competition highlighted the significance of cyber wellness advocacy and inspired participants to lead the way in promoting safe and responsible online behaviour.
 
-Our Competition Website: [https://go.gov.sg/ncw2024](https://go.gov.sg/ncw2024)
+Our Competition Website: [https://go.gov.sg/ncw2024](https://go.gov.sg/ncw2025)
 		 
 #### Cyber Bullying hurts more than you think
 
