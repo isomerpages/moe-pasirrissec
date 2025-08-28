@@ -68,12 +68,7 @@ to 3 Jun 2025, 3pm. For more details, please refer to MOE website –&nbsp;
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application through the centralised DSA-Sec Portal
-<br>Mainstream students:&nbsp;<a href="https://go.gov.sg/apply-dsa-sec" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
-<a rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a>Non-Mainstream Students:&nbsp; <a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
-</p>
+<p>Application through the centralised DSA-Sec Portal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7 May 2025, 11am – 3 Jun 2025, 3pm</p>
