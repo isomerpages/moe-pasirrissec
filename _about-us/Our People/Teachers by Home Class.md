@@ -516,10 +516,10 @@ variant: tiptap
 <p>3E4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LIU SHUCUN</p>
+<p>SITI MARIAM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liu_shu_cun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_shu_cun@moe.edu.sg</a>
+<p><a href="mailto:siti_mariam_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_mariam_hashim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -528,10 +528,10 @@ variant: tiptap
 <p>3E5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEONG THEN YEE</p>
+<p>SHYANE ONG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seong_then_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seong_then_yee@moe.edu.sg</a>
+<p><a href="mailto:chi_ying_shayne_ong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chi_ying_shayne_ong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
