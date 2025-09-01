@@ -4,9 +4,13 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### Sec 1 to Sec 3 End of Year Examinations Timetable
+#### 2025 S1-S3 End-of-Year Examinations Timetable
 
 Please click on the link to view the Sec 1 to Sec 3 End-of-Year Examinations Timetable.
+
+[2025 Sec 1 End of Year Timetable](/files/2025_S1_EYE_Timetable__29_Aug_.pdf)<br>
+[2025 Sec 2 End of Year Timetable](/files/2025_S2_EYE_Timetable__29_Aug_.pdf)<br>
+[2025 Sec 3 End of Year Timetable](/files/2025_S3_EYE_Timetable__29_Aug_.pdf)
 
 #### Friday 18 July 2025 Timetable for Secondary 2 to 5 classes
 
