@@ -15,8 +15,8 @@ Please click [here](/files/Newsflash_Term_4_2025.pdf) to view the Newsletter.<br
 Please click on the link to view the Sec 1 to Sec 3 End-of-Year Examinations Timetable.
 
 [2025 Sec 1 End of Year Timetable](/files/2025_S1_EYE_Timetable__29_Aug_.pdf)<br>
-[2025 Sec 2 End of year Timetable](/files/2025_S2_EYE_Timetable__1_Sept_.pdf)<br>
-[2025 Sec 3 End of Year Timetable](/files/2025_S3_EYE_Timetable__29_Aug_.pdf)
+[2025 Sec 2 End of Year Timetable](/files/2025_S2_EYE_Timetable__1_Sept_.pdf)<br>
+[2025 Sec 3 End-of-Year Timetable (Updated)](/files/2025_S1_3_EYE_Timetable__18_Sept____for_students.pdf)
 
 #### Collection of School Graduation Certificate (SGC) for 2024 Cohort
 Students from 2024 Sec 4NA, Sec 4Exp, Sec 4NT and Sec 5NA cohorts may collect their SGC from the school General Office during office hours<br>
