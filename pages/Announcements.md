@@ -4,6 +4,11 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 2025 Secondary 4 &amp; 5 Abridged Timetable
+
+Please click [here](/files/Announcements/Abridged_TT_for_graduating_classes_23___30_Sep.pdf) to view the timetable for Secondary 4 &amp; 5 Graduating Classes.
+
+
 #### 2025 Term 4 Newsflash
 
 Welcome back to school!<br>
