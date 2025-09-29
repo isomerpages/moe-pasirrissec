@@ -63,7 +63,7 @@ Science Experiential, Enrichment and Development Programme (SEED) which aims to 
 **Singapore Youth Science Festival 2025**<br>
 1 Certificate of Accomplishment, 1 Certificate of Commendation
 
-**(Singapore International STEM Innovation Challenge) SISTEMIC 2025**<br>
+**Singapore International STEM Innovation Challenge (SISTEMIC) 2025**<br>
 1 Silver Award
 
 **Singapore Junior Biology Olympiad 2025**  
