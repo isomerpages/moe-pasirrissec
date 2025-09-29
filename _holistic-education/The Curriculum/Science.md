@@ -60,10 +60,10 @@ Science Experiential, Enrichment and Development Programme (SEED) which aims to 
 **A\*STAR-VJC Science Fair 2025**  
 2 Certificate of Participation
 
-**Singapore Youth Science Festival 2025**
+**Singapore Youth Science Festival 2025**<br>
 1 Certificate of Accomplishment, 1 Certificate of Commendation
 
-**(Singapore International STEM Innovation Challenge) SISTEMIC 2025**
+**(Singapore International STEM Innovation Challenge) SISTEMIC 2025**<br>
 1 Silver Award
 
 **Singapore Junior Biology Olympiad 2025**  
@@ -75,10 +75,10 @@ Science Experiential, Enrichment and Development Programme (SEED) which aims to 
 **International Chemistry Quiz 2025**  
 5 Distinctions, 9 Credits
 
-**ICAS Science Competition 2025**
+**ICAS Science Competition 2025**<br>
 2 Distinction, 5 Credit, 3 Merit
 
-**Offshore &amp; Sustainable Engineering Challenge 2025**
+**Offshore &amp; Sustainable Engineering Challenge 2025**<br>
 Design Marvel Award
 
 **Singapore Physics League 2025**  
