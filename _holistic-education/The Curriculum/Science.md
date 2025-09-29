@@ -57,25 +57,34 @@ The programme is divided into three tiers:
 
 Science Experiential, Enrichment and Development Programme (SEED) which aims to promote interest and authentic learning in Science and Technology within and beyond the confines of the classroom
 
-**A*STAR-VJC Science Fair** <br>
+**A\*STAR-VJC Science Fair 2025**  
 2 Certificate of Participation
 
-**Singapore Junior Biology Olympiad**<br>
-1 Gold, 1 Silver, 5 Bronze, 1 Honorable Mention
+**Singapore Youth Science Festival 2025**<br>
+1 Certificate of Accomplishment, 1 Certificate of Commendation
 
-**Singapore Junior Chemistry Olympiad**<br>
-2 Merits, 23 COP
+**(Singapore International STEM Innovation Challenge) SISTEMIC 2025**<br>
+1 Silver Award
 
-**International Chemistry Quiz**<br>
-1 Distinction, 7 Credits
+**Singapore Junior Biology Olympiad 2025**  
+1 Silver, 2 Bronze, 2 Honorable Mention
 
-**ICAS Science Competition** <br>
-1 High Distinction, 4 Distinction, 9 Credit, 4 Merit and 16 Certificate of Participation
+**Singapore Junior Chemistry Olympiad 2025**  
+1 Gold Award, 1 Certificate of Merit
 
-**Singapore Physics League**<br>
+**International Chemistry Quiz 2025**  
+5 Distinctions, 9 Credits
+
+**ICAS Science Competition 2025**<br>
+2 Distinction, 5 Credit, 3 Merit
+
+**Offshore &amp; Sustainable Engineering Challenge 2025**<br>
+Design Marvel Award
+
+**Singapore Physics League 2025**  
 1 Bronze, 1 Certificate of Participation
 
-**Temasek Engineering Olympiad**<br>
+**Temasek Engineering Olympiad 2025**  
 1 Gold Award, 1 Commendation Award
 
 #### The PRSS Ecogarden
@@ -117,5 +126,5 @@ Click to view the virtual tour of our school's [Eco Garden](https://www.theasys.
 ![Students as Inquirers in the Science classroom](/images/Curriculum/Science/science%2002.jpg)
 <center><i>Students as Inquirers in the Science classroom</i></center>
 
-![Students demonstrating evidence of their learning at different national &amp; international competitions](/images/Curriculum/Science/science%2003.jpeg)
+![](/images/Curriculum/Science/PHOTO_2025_07_30_13_52_32.jpg)
 <center><i>Students demonstrating evidence of their learning at different national and international competitions</i></center><br>
