@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 2025 Check Script Timetable T4W5 13/10 - 17/10
+
+Please click [here](/files/2025_ChkScript_TT_Final___Class.pdf) to view the timetable for Secondary 1 to 3 Classes.
+
 #### 2025 Secondary 4 &amp; 5 Abridged Timetable
 
 Please click [here](/files/Announcements/Abridged_TT_for_graduating_classes_23___30_Sep.pdf) to view the timetable for Secondary 4 &amp; 5 Graduating Classes.
