@@ -37,7 +37,7 @@ variant: tiptap
 <p>MOE-OBS Challenge Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parents_Briefing_Slides__2025_MOC_.pdf" rel="noopener nofollow" target="_blank">MOE OBS Challenge Programme Slides</a>
+<p><a href="/files/Parents_Briefing_Slides__2025_MOC_.pdf" rel="noopener nofollow" target="_blank">MOE-OBS Challenge Programme Slides</a>
 </p>
 </td>
 </tr>
