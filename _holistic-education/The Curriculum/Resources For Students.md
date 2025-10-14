@@ -85,11 +85,11 @@ if they encounter any issues on their account related matters.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Resources for Student/_For_Sec_JC_Student__Data_Management_E_Poster_for_Student_iCON.pdf" rel="noopener noreferrer nofollow" target="_blank">Student ICON Data Management Poster</a>
+<p><a href="/files/Resources for Student/For_Student_All_Levels__Data_Management_E_Poster_for_Student_iCON.pdf" rel="noopener nofollow" target="_blank">Student ICON Data Management E Poster</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Resources for Student/_For_Student_All_Levels__Quick_Guide_on_Student_iCON_Data_Management.pdf" rel="noopener noreferrer nofollow" target="_blank">Quick Guide on Student iCON Data Management</a>
+<p><a href="/files/Resources for Student/For_Student_All_Levels__Quick_Guide_on_Student_iCON_Data_Management.pdf" rel="noopener nofollow" target="_blank">Quick Guide on Student iCON Data Management</a>
 </p>
 </li>
 <li>
