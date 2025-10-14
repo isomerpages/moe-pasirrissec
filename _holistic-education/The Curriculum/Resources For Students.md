@@ -34,6 +34,9 @@ variant: tiptap
 <p>For Student Self Service Password Reset (SSPR) Guide, please <a href="/files/Resources for Student/Student_MIMS_SSPR_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>
 </p>
 </li>
+<li>
+<p>Poster MIMS SSPR Guide</p>
+</li>
 </ul>
 </td>
 </tr>
@@ -82,15 +85,15 @@ if they encounter any issues on their account related matters.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Resources for Student/_For_Sec_JC_Student__Data_Management_E_Poster_for_Student_iCON.pdf" rel="noopener noreferrer nofollow" target="_blank">Student ICON Data Management Poster</a>
+<p><a href="/files/Resources for Student/For_Student_All_Levels__Data_Management_E_Poster_for_Student_iCON.pdf" rel="noopener nofollow" target="_blank">Student ICON Data Management E Poster</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Resources for Student/_For_Student_All_Levels__Quick_Guide_on_Student_iCON_Data_Management.pdf" rel="noopener noreferrer nofollow" target="_blank">Quick Guide on Student iCON Data Management</a>
+<p><a href="/files/Resources for Student/For_Student_All_Levels__Quick_Guide_on_Student_iCON_Data_Management.pdf" rel="noopener nofollow" target="_blank">Quick Guide on Student iCON Data Management</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Resources for Student/_For_Student_All_Levels__Google_Takeout_Guide_for_Student_iCON.pdf" rel="noopener noreferrer nofollow" target="_blank">Google Takeout Guide for Student iCON</a>
+<p><a href="/files/Resources for Student/For_Graduating_Students_Google_Takeout_Guide_for_Student_iCON__2025_.pdf" rel="noopener nofollow" target="_blank">Google Takeout Guide for Student iCON Data</a>
 </p>
 </li>
 </ul>
@@ -104,7 +107,7 @@ if they encounter any issues on their account related matters.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p> <a href="https://schoolibrary.moe.edu.sg/pasirrissec" rel="noopener nofollow" target="_blank">School Library OPAC</a>
+<p><a href="https://schoolibrary.moe.edu.sg/pasirrissec" rel="noopener nofollow" target="_blank">School Library OPAC</a>
 </p>
 </td>
 </tr>

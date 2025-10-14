@@ -4,10 +4,6 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### MOE-OBS Challenge Programme (Sec 3s)
-
-Please click [here](/files/Parents_Briefing_Slides__2025_MOC_.pdf) to view MOE-OBS Challenge Programme (Sec 3s) slides.
-
 #### 2025 Check Script Timetable T4W5 13/10 - 17/10
 
 Please click [here](/files/2025_ChkScript_TT_Final___Class.pdf) to view the timetable for Secondary 1 to 3 Classes.
