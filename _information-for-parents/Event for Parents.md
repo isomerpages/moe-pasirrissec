@@ -28,7 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10<sup>th</sup> Oct 2025</p>
+<p>10 Oct 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 3</p>
