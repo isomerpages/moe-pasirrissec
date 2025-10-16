@@ -8,43 +8,11 @@ variant: markdown
 
 Please click [here](/files/2025_ChkScript_TT_Final___Class.pdf) to view the timetable for Secondary 1 to 3 Classes.
 
-#### 2025 Secondary 4 &amp; 5 Abridged Timetable
-
-Please click [here](/files/Announcements/Abridged_TT_for_graduating_classes_23___30_Sep.pdf) to view the timetable for Secondary 4 &amp; 5 Graduating Classes.
-
-
 #### 2025 Term 4 Newsflash
 
 Welcome back to school!<br>
 We are pleased to share with you the school’s broad directions and key initiatives for Term 4.<br>
 Please click [here](/files/Newsflash_Term_4_2025.pdf) to view the Newsletter.<br>
-
-#### 2025 S1-S3 End-of-Year Examinations Timetable
-
-Please click on the link to view the Sec 1 to Sec 3 End-of-Year Examinations Timetable.
-
-[2025 Sec 1 End of Year Timetable](/files/2025_S1_EYE_Timetable__29_Aug_.pdf)<br>
-[2025 Sec 2 End of Year Timetable](/files/2025_S2_EYE_Timetable__1_Sept_.pdf)<br>
-[2025 Sec 3 End-of-Year Timetable (Updated on 21 Sep)](/files/2025_S3_EYE_Timetable__21_Sept____for_students.pdf)
-
-#### Collection of School Graduation Certificate (SGC) for 2024 Cohort
-Students from 2024 Sec 4NA, Sec 4Exp, Sec 4NT and Sec 5NA cohorts may collect their SGC from the school General Office during office hours<br>
-
-
-#### 2025 Semester 2 Blended Learning Timetable
-
-Please click [here](/files/2025_SEM2_BL_TT_V1___Class.pdf) to access 2025 Semester 2 Blended Learning Timetable. <br>
-
-
-#### 2025 Semester 2 Timetable, with effect from Monday, 30 June 2025
-
-Please click [here](/files/2025_SEM_2_TT__WEF_30_JUN____Class.pdf) to access 2025 Semester 2 Timetable for all classes. The new school term begins on Monday 30 June 2025, Term 3 Week 1, following the **odd week** timetable. <br>
-
-
-#### Prelim Exams Timetable
-[4E5N Prelim Schedule](/files/Announcements/2025/4E5N_Prelim_Schedule_2025.pdf) <br>
-[4NA Prelim Schedule](/files/Announcements/2025/4NA_Prelim_Schedule_2025.pdf)<br> [4NT Prelim Schedule](/files/Announcements/2025/4NT_Prelim_Schedule_2025.pdf)
-
 
 #### 40th anniversary celebration
 The school will be celebrating its 40th Anniversary on 23 April with the theme ‘Kindness: Small Acts, Big Impact’ as we will be featuring 40 inspiring stories on acts of kindness gathered from students and staff. Click [here](https://go.gov.sg/prss40thanniversary) to check out some of the videos featuring the inspiring stories of kindness. 
