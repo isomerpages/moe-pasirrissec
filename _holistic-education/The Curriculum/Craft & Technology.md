@@ -43,9 +43,10 @@ variant: markdown
 
 <h3>Signature Program - Makers’ Education</h3> 
 	
-<p>Since 2019, the D&amp;T Unit has begun to shift in tandem with the national initiative towards “digital”.  As part of the shift, the department has acquired some prototyping capability such as laser cutting equipment, heat press machines and 3D printer. This will “empower” the D&amp;T Unit to gradually incorporate “Makers’ Education” as part of the department’s added focus to expose the students to prototype and test out their “ideas for school improvement” around them. Such opportunities will allow our students to experience a “real life” approach in problem solving as the students are able to “transform” their proposed ideas from sketches/drawings to actual real life application and or implementation.</p>
+<p>Since 2019, the D&amp;T Unit has begun to shift in tandem with the national initiative towards “digital”. As part of the shift, the department has acquired some prototyping capability such as laser cutting equipment, heat press machines, 3D printers and plotter machines. This will “empower” the D&amp;T Unit to gradually incorporate “Makers’ Education” as part of the department’s added focus to expose the students to experiment, prototype and test out their ideas. Such opportunities will allow our students to experience a “real life” approach in problem solving as the students are able to “transform” their proposed ideas from sketches/drawings to actual real life application and or implementation.</p>
 
 <img src="/images/classroom.jpeg">
+	<img src="/images/classroom.jpeg">
 
 <h3>Extended Learning</h3>
 	
