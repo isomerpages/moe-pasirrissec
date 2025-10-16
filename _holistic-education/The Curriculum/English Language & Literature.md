@@ -47,6 +47,7 @@ It is our goal to continue to engage our students and to prepare them for the ch
 | English Literature / History | Ms Mavis Ho Min Yu| [ho_min_yu_mavis@moe.edu.sg](mailto:ho_min_yu_mavis@moe.edu.sg) |
 | English Language / Elements of Business Skills | Mdm Lee Wei Wei | [lee_wei_wei@moe.edu.sg](mailto:lee_wei_wei@moe.edu.sg)|
 | English Language / Literature | Mdm Nazrene Akbar Ali | [nazrene_akbar_ali@moe.edu.sg](mailto:nazrene_akbar_ali@moe.edu.sg) |
+| English Language| Mdm Norhafizah Maarof | [Norhafizah\_Maarof](mailto:Norhafizah_Maarof@moe.edu.sg](mailto:Norhafizah_Maarof@moe.edu.sg) |
 | History / English Language | Mdm Shahilla d/o K Balakrishnan| [shahilla_balakrishnan@moe.edu.sg](mailto:shahilla_balakrishnan@moe.edu.sg) |
 | Social Studies / English Language | Ms Shayne Ong Chi Ying | [chi_ying_shayne_ong@moe.edu.sg](mailto:chi_ying_shayne_ong@moe.edu.sg) |
 | English Language / Social Studies | Ms Pearlyn Chia Kai Ling | [pearlyn_chia_kai_ling@moe.edu.sg](mailto:pearlyn_chia_kai_ling@moe.edu.sg) |
