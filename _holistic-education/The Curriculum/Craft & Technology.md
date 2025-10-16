@@ -295,7 +295,6 @@ People
 | Music | Ms Fam Hui Yuen | fam_hui_yuen@moe.edu.sg |
 | Music | Mr Ong Ting Kai | ong_ting_kai@moe.edu.sg |
 | STEM Instructor | Mr Mohd Ali bin Yunos | mohamed_ali_yunos@moe.edu.sg |
-| STEM Instructor | Mr Sanusi bin Idris | sanusi_b_idris@moe.edu.sg |
 
 Photos
 ------
