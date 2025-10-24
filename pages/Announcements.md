@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### 2026 Uniform sale and Booklist
 
-Please refer to [here](https://www.pasirrissec.moe.edu.sg/useful-links/information-for-parents/booklist/) for the uniform sale and 2026 booklist sale information.
+Please refer to [here](https://www.pasirrissec.moe.edu.sg/useful-links/information-for-parents/booklist/) for the uniform sale and 2026 booklist information.
 
 #### 2025 Check Script Timetable T4W5 13/10 - 17/10
 
