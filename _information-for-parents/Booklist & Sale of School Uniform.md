@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>Booklists for 2025</strong></h4>
+<h4><strong>Booklists for 2026</strong></h4>
 <p>The following are the booklists for the respective levels:</p>
 <p><strong>Secondary 1</strong>
 </p>
