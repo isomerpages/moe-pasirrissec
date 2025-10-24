@@ -7,11 +7,7 @@ variant: tiptap
 <h4><strong>Sale of School Uniform</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Uniform_sale_schedule__S1_final.pdf" rel="noopener nofollow" target="_blank">Sale of School Uniform for Sec 1</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Announcements/Uniform_sale_schedule__S2___S5_.pdf" rel="noopener nofollow" target="_blank">Sale of School Uniform for Sec 2 to Sec 5</a>
+<p><a href="/files/PRSS_Uniform_Sale_EY25.pdf" rel="noopener nofollow" target="_blank">Sale of Uniform for Sec 1 to Sec 5</a>
 </p>
 </li>
 </ul>
@@ -21,7 +17,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Announcements/2024/SECONDARY_ONE___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/SECONDARY_1_BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </li>
 </ul>
@@ -29,7 +25,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Announcements/2024/SECONDARY_TWO___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/SECONDARY_2_BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </li>
 </ul>
@@ -37,15 +33,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Announcements/2024/SECONDARY_THREE_EXPRESS___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 3 Express</a>
-</p>
-</li>
-<li>
-<p><a href="/files/SECONDARY_THREE___NA___FINAL.pdf" rel="noopener nofollow" target="_blank">Sec 3 NA</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Announcements/2024/SECONDARY_THREE_NT___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 3 NT</a>
+<p><a href="/files/SECONDARY_3_BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </li>
 </ul>
@@ -53,15 +41,15 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Announcements/2024/SECONDARY_FOUR_EXPRESS___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 4 Express</a>
+<p><a href="/files/SECONDARY_4__EXPRESS___BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 Express</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Announcements/2024/SECONDARY_FOUR_NA___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 4 NA</a>
+<p><a href="/files/SECONDARY_4__NA__BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 NA</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Announcements/2024/SECONDARY_FOUR_NT___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 4 NT</a>
+<p><a href="/files/SECONDARY_4__NT__BOOKLIST_2626.pdf" rel="noopener nofollow" target="_blank">Sec 4 NT</a>
 </p>
 </li>
 </ul>
@@ -69,7 +57,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Announcements/2024/SECONDARY_FIVE_NA___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 5 NA</a>
+<p><a href="/files/SECONDARY_5__NA__BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">Sec 5 NA</a>
 </p>
 </li>
 </ul>

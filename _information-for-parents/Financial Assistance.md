@@ -10,24 +10,8 @@ Singapore Citizens in government, government-aided, specialized, and some indepe
 
 Eligibility and benefits of the MOE Financial Assistance Scheme (MOE-FAS) are available on the [MOE Financial Assistance](https://www.moe.gov.sg/financial-matters/financial-assistance) website.
 
-If you wish to apply, you can submit the online [MOE FAS Application Form](https://form.gov.sg/6666a548f71e023bcbe7c9b7) or download and submit the MOE Financial Assistance Form below to the school’s Admin Office.
+If you wish to apply, please apply online at the following link : [https://go.gov.sg/moe-efasggas](https://go.gov.sg/moe-efasggas).
 
-<style>
-table, th, td {
-  border: 1px solid white;
-  border-collapse: collapse;
-}
-th, td {
-  background-color: #D3D3D3;
-}
-</style>
-
-<table style="width:100%">
-  <tbody><tr>
-    <th>MOE FAS Application Form</th>
-    <th><a href="/files/Information%20for%20Parents/2025%20moe%20fas%20application%20form.pdf">2025 FAS Application Form Checklist.pdf</a></th>
-  </tr>
-</tbody></table>
 
 ### DigitalAccess@Home
 
