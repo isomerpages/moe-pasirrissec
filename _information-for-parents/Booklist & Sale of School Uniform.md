@@ -33,8 +33,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Announcements/2024/SECONDARY_THREE_EXPRESS___FINAL__.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
-<a href="/files/SECONDARY_3_BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">file</a>
+<p><a href="/files/SECONDARY_3_BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </li>
 </ul>
