@@ -23,7 +23,7 @@ Through ECG curriculum and programmes, the school aims to help students
 to:
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>A</strong>ppreciate all occupations</p>
+<p><strong>A</strong>ppreciate the value all occupations</p>
 </li>
 <li>
 <p><strong>D</strong>iscover talents and interest</p>
@@ -173,6 +173,11 @@ https://www.moe.gov.sg/post-secondary/admissions<br>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/CCE/ECG/ceg_2023_07.png">
 </div>
+
+<h4>Post-Secondary School Education Pathways (For students graduating from 2027 onwards)</h4>
+<img src="/images/CCE/ECG_2025.png"><br>
+https://www.moe.gov.sg/microsites/psle-fsbb/assets/infographics/full-subject-based-banding/subject-level-requirements-post-sec.pdf
+
 <h4>MySkillsFuture Student Portal - Support for Our Students</h4>
 
 “What do you want to be when you grow up?”<br>
@@ -182,7 +187,7 @@ difficult decisions to make. Students need to be able to make well-informed
 choices by talking to their parents, home teachers, subject teachers and/or
 school ECG counsellor about their education and career aspirations. They
 can also explore and gather information via the MOE Education and Career
-Guidance e-portal at [www.myskillsfuture.gov.sg](https://www.myskillsfuture.gov.sg/content/portal/en/index.html)
+Guidance e-portal at [www.myskillsfuture.gov.sg](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/My%20Skills%20Future.png">
