@@ -22,6 +22,13 @@ sections:
       button: Click here to find out more
       url: /achievements/In-The-News/
   - infopic:
+      title: PRSS Open House
+      subtitle: ANNOUNCEMENTS
+      id: infopic
+      description: Experience the Pasirian spirit. Join us at our Open House 2026!
+      image: /images/Open_House_Nov_2025_Poster.jpg
+      alt: Image alt text
+  - infopic:
       title: PRSS 40th Anniversary Celebration
       subtitle: EVENTS
       id: infopic
@@ -50,11 +57,4 @@ sections:
       image: /images/E Open house/2023 campus tour (resized).png
       alt: PRSS Campus Tour
       subtitle: TOUR
-  - infopic:
-      title: PRSS Open House
-      subtitle: ANNOUNCEMENTS
-      id: infopic
-      description: Experience the Pasirian spirit. Join us at our Open House 2026!
-      image: /images/Open_House_Nov_2025_Poster.jpg
-      alt: Image alt text
 ---
