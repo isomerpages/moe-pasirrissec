@@ -50,4 +50,10 @@ sections:
       image: /images/E Open house/2023 campus tour (resized).png
       alt: PRSS Campus Tour
       subtitle: TOUR
+  - infopic:
+      title: PRSS Open House
+      subtitle: ANNOUNCEMENTS
+      id: infopic
+      description: Experience the Pasirian spirit. Join us at our Open House 2026!
+      alt: Image alt text
 ---
