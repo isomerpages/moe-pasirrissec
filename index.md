@@ -55,5 +55,6 @@ sections:
       subtitle: ANNOUNCEMENTS
       id: infopic
       description: Experience the Pasirian spirit. Join us at our Open House 2026!
+      image: /images/Open_House_Nov_2025_Poster.jpg
       alt: Image alt text
 ---
