@@ -36,6 +36,10 @@ Mr Amir HMS
 
 ### **Photos / Videos**
 ![](/images/CCA/Floorball/Floorball_C_Boys_at_NSG_2024.jpg)
+<p align="center">Our Floorball CCA Flag and CCA Logo were unveiled during the CCA Leadership Handover Ceremony on 30th June 2025.
+The CCA logo was designed by our Floorballers DAING SHURAHBIL BIN DAING SHAFFIE (S3A2) and Captains LUCAS LIM LE XUAN (S3E6) and KIEGAN ANG ZHE-YU (S1-1) </p>
+
+![Floorball team w flag](/images/CCA/Floorball/Floorball.jpg)
 <p align="center">Our Boys at 2024 NSG Floorball (C-Boys)</p>
 
 ![](/images/CCA/Floorball/Floorball_Boys_at_Pesta_Sukan_Floorball_Cup_2024.jpg)
