@@ -57,32 +57,17 @@ approved by HOD PE/CCA.
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:80%;float:left" height="auto" width="100%" src="/images/ChineseOrchestra.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Aesthetic/Chinese-Orchestra/"><img style="width:80%;float:left" height="auto" width="100%" src="/images/ChineseOrchestra.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:80%;float:left" height="auto" width="100%" src="/images/Choir.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Aesthetic/Choir/"><img style="width:80%;float:left" height="auto" width="100%" src="/images/Choir.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:80%;float:left" height="auto" width="100%" src="/images/ConcertBand.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Aesthetic/Concert-Band/"><img style="width:80%;float:left" height="auto" width="100%" src="/images/ConcertBand.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:80%;float:left" height="auto" width="100%" src="/images/ModernDance.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Aesthetic/Modern-Dance/"><img style="width:80%;float:left" height="auto" width="100%" src="/images/ModernDance.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:80%;float:left" height="auto" width="100%" src="/images/EnglishDrama.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Aesthetic/English-Drama/"><img style="width:80%;float:left" height="auto" width="100%" src="/images/EnglishDrama.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -104,15 +89,9 @@ approved by HOD PE/CCA.
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%;float:left" height="auto" width="100%" src="/images/audio.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Club/Audio-Visual-Lights/"><img style="width:50%;float:left" height="auto" width="100%" src="/images/audio.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%;float:left" height="auto" width="100%" src="/images/tinkersclub.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Club/Tinkers-Club/"><img style="width:50%;float:left" height="auto" width="100%" src="/images/tinkersclub.png"></a>
 </td>
 </tr>
 </tbody>
@@ -128,37 +107,19 @@ approved by HOD PE/CCA.
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%;float:left" height="auto" width="100%" src="/images/basket.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/Basketball/"><img style="width:85%;float:left" height="auto" width="100%" src="/images/basket.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%;float:left" height="auto" width="100%" src="/images/football.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/Football/"><img style="width:85%;float:left" height="auto" width="100%" src="/images/football.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%;float:left" height="auto" width="100%" src="/images/netball.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/Netball/"><img style="width:85%;float:left" height="auto" width="100%" src="/images/netball.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%;float:left" height="auto" width="100%" src="/images/volleyb.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/Volleyball/"><img style="width:85%;float:left" height="auto" width="100%" src="/images/volleyb.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%;float:left" height="auto" width="100%" src="/images/badminton.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/Badminton/"><img style="width:85%;float:left" height="auto" width="100%" src="/images/badminton.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%;float:left" height="auto" width="100%" src="/images/Floorball.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/sports-groups/floorball/"><img style="width:85%;float:left" height="auto" width="100%" src="/images/Floorball.png"></a>
 </td>
 </tr>
 </tbody>
@@ -174,20 +135,11 @@ approved by HOD PE/CCA.
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:70%;float:left" height="auto" width="100%" src="/images/ncclogo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Uniformed-Groups/National-Cadet-Corps/"><img style="width:70%;float:left" height="auto" width="100%" src="/images/ncclogo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:70%;float:left" height="auto" width="100%" src="/images/npcclogo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Uniformed-Groups/National-Police-Cadet-Corps/"><img style="width:70%;float:left" height="auto" width="100%" src="/images/npcclogo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:70%;float:left" height="auto" width="100%" src="/images/ncdcclogo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/"><img style="width:70%;float:left" height="auto" width="100%" src="/images/ncdcclogo.png"></a>
 </td>
 </tr>
 </tbody>
