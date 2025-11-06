@@ -33,7 +33,7 @@ AVL Training and Bonding Camps<br>
 
 The Media Challenge 2024<br>
 Special Commendation Award for Best Big Idea and Insight
-Objectifs Student Visual Storytelling Awards 2025 - 1st Prize (Photo Team of the Year) 
+<br>Objectifs Student Visual Storytelling Awards 2025 - 1st Prize (Photo Team of the Year) 
 
 
 ### **Schedule**
