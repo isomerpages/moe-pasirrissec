@@ -55,7 +55,7 @@ Students may participate in more than one CCA on a case by case basis approved b
 <td><a href="/cca/Sports-and-Games/Football"><img src="/images/football.png" style="width:85%;float:left"></a></td><td><a href="/cca/Sports-and-Games/Netball/"><img src="/images/netball.png" style="width:85%;float:left"></a></td>
 </tr><tr>
 <td><a href="/cca/Sports-and-Games/Volleyball/"><img src="/images/volleyb.png" style="width:85%;float:left"></a></td>
-<td><a href="/cca/Sports-and-Games/Badminton/"><img src="/images/badminton.png" style="width:85%;float:left"></a></td>
+<td><a href="/cca/Sports-and-Games/Badminton/"><img src="/images/badminton.png" style="width:85%;float:left"></a></td><td><a href="/cca/sports-groups/floorball/"><img src="/images/Floorball.png" style="width:85%;float:left"></a></td>
 </tr></tbody></table></p></div></li>
 	
 <li><input type="checkbox" id="accordion4">  
