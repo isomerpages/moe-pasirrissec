@@ -135,20 +135,11 @@ approved by HOD PE/CCA.
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:70%;float:left" height="auto" width="100%" src="/images/ncclogo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Uniformed-Groups/National-Cadet-Corps/"><img style="width:70%;float:left" height="auto" width="100%" src="/images/ncclogo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:70%;float:left" height="auto" width="100%" src="/images/npcclogo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Uniformed-Groups/National-Police-Cadet-Corps/"><img style="width:70%;float:left" height="auto" width="100%" src="/images/npcclogo.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:70%;float:left" height="auto" width="100%" src="/images/ncdcclogo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Uniformed-Groups/National-Civil-Defence-Cadet-Corps/"><img style="width:70%;float:left" height="auto" width="100%" src="/images/ncdcclogo.png"></a>
 </td>
 </tr>
 </tbody>
