@@ -26,7 +26,8 @@ Participation at the NSG and external competitions have provided our boys with a
 | Monday | 2.30pm - 5.30pm | Hall |
 | Wednesday  | 3.00pm - 6.00pm  | Hall |
 
-
+Addtional training Days for 2026
+Saturday 8.00am to 11.00am (E6 Cluster Floorball Development Programme)
 ### **Teacher-in-charge**
 * Mr Amir HMS (IC)
 * Mr Kevin Kok
