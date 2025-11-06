@@ -33,6 +33,8 @@ AVL Training and Bonding Camps<br>
 
 The Media Challenge 2024<br>
 Special Commendation Award for Best Big Idea and Insight
+<br>Objectifs Student Visual Storytelling Awards 2025 - 1st Prize (Photo Team of the Year) 
+
 
 ### **Schedule**
 
@@ -47,6 +49,7 @@ Special Commendation Award for Best Big Idea and Insight
 * Mr Koh Chun Kiat (2IC)
 * Ms. Wendy Wong 
 * Ms. Siti Radilah (ICT Manager)
+* Ms. Nor 'Ain (ICT Manager)
  
 ### **Photos / Videos**
 ![](/images/CCA/AVL/AVL_1.jpg)

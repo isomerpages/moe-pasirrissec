@@ -13,29 +13,37 @@ At Tinkers Club, students learn about crafting and coding. As we live in an IT s
 
 ### **Highlights**
 
-* Innovate, Design and Engineering (IDE) Series 2023 
-* SAFMC Glider Competition 2023 
+* Innovate, Design and Engineering (IDE) Series 2025 
+* SAFMC Glider Competition 2024 
 * Tons of Crafting! 
 * Micro:bit (Advance) Workshop 
+* Minecraft Education Workshop (Python)
 * Artifical Intelligence Coding Workshop 
 * Advance Game Development Workshop
 
 ### **Achievements**
 
-3rd place in IDC Challenge Compeition 2023
+* 2nd place in RoboRoarz @ SUTD 2025
+* 3rd place in IDC Challenge Compeition 2023
+* 2nd place in Frisbee (Inter-School Pentangular Sports Carnival 2023)
+* 3rd place in badmintion (Inter-School Pentangular Sports Carnival 2023)
+* 1st place in Most Creative Award (SAFMC 2018) 
+* 3rd place in Aesthetics Award (SAFMC 2018)
+
 
 ### **Schedule**
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday  | 3.30pm - 6.00pm | Tinkers' Club Room/ D&amp;T Workshop 2 |
-| Thursday | 3.30pm - 6.00pm | Tinkers' Club Room/ D&amp;T Workshop 2 |
+| Every Tuesday &amp; Even Thursday | 3.30pm - 5.30pm | Tinkers' Club Room/ PRSS Makerspace |
+| Odd Thursday (Online CCA) | 3.30pm - 5.30pm | Tinkers' Club Room/ PRSS Makerspace |
 
 ### **Teachers-in-charge**
 
 * Mr. Wilfred Teo (OIC)
 * Mr. Noor Rahman Saini  
 * Ms. Maryam bte Anuar
+* Mr. Mohd Ali Yunos (STEM Instructor)
 
 ### **Photos / Videos**
 
