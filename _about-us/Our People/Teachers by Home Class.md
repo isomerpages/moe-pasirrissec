@@ -279,7 +279,7 @@ variant: tiptap
 <p>2-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MARYAM BINTE ANUAR</p>
+<p>MARYAM ANUAR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maryam_anuar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maryam_anuar@moe.edu.sg</a>

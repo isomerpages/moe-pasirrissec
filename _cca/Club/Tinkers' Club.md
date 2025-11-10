@@ -42,7 +42,7 @@ At Tinkers Club, students learn about crafting and coding. As we live in an IT s
 
 * Mr. Wilfred Teo (OIC)
 * Mr. Noor Rahman Saini  
-* Ms. Maryam bte Anuar
+* Ms. Maryam Anuar
 * Mr. Mohd Ali Yunos (STEM Instructor)
 
 ### **Photos / Videos**

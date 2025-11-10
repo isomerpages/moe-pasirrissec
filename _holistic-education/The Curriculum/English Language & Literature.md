@@ -51,7 +51,7 @@ It is our goal to continue to engage our students and to prepare them for the ch
 | History / English Language | Mdm Shahilla d/o K Balakrishnan| [shahilla_balakrishnan@moe.edu.sg](mailto:shahilla_balakrishnan@moe.edu.sg) |
 | Social Studies / English Language | Ms Shayne Ong Chi Ying | [chi_ying_shayne_ong@moe.edu.sg](mailto:chi_ying_shayne_ong@moe.edu.sg) |
 | English Language / Social Studies | Ms Pearlyn Chia Kai Ling | [pearlyn_chia_kai_ling@moe.edu.sg](mailto:pearlyn_chia_kai_ling@moe.edu.sg) |
-| English Language / Literature | Ms Maryam Bte Anuar | [maryam_anuar@moe.edu.sg](mailto:maryam_anuar@moe.edu.sg) |
+| English Language / Literature | Ms Maryam Anuar | [maryam_anuar@moe.edu.sg](mailto:maryam_anuar@moe.edu.sg) |
 | Art / English Language | Ms Kimberlyn Lee | [kimberlyn_lee@moe.edu.sg](mailto:kimberlyn_lee@moe.edu.sg) |
 | Science / English Language | Mr Daniel Ng | [ng_tze_keen_daniel@moe.edu.sg](mailto:ng_tze_keen_daniel@moe.edu.sg) |
 
