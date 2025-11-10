@@ -42,7 +42,6 @@ Professional development includes department retreats and learning journeys, ope
 
 |Subject Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
-|Chinese Language | Mr Wong Wei Long <br> HOD Mother Tongue Languages | [wong_wei_long@moe.edu.sg](mailto:wong_wei_long@moe.edu.sg) |
 | Malay Language | Mr Lokhman Haris Bin Abdul Karem <br>SH Aesthetics | [lokhman_haris_abdul_karem@moe.edu.sg](mailto:lokhman_haris_abdul_karem@moe.edu.sg) |
 | Chinese Language | Ms Wong Jie Lin | [wong_jie_lin@moe.edu.sg](mailto:wong_jie_lin@moe.edu.sg) |
 | Chinese Language | Mr Liu Shu Cun | [liu_shu_cun@moe.edu.sg](mailto:liu_shu_cun@moe.edu.sg) |
