@@ -4,8 +4,7 @@ title: Pasir Ris Secondary School
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: Join us on 21st November for our School Open House and discover
-  more about our programmes
+notification: Discover more at our School Open House - Visit us on 21st November!
 sections:
   - hero:
       background: /images/Homepage/Homepage.gif
