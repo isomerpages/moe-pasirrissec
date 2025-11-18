@@ -15,6 +15,7 @@ sections:
         - title: Information for Parents
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
+      variant: center
   - infobar:
       title: PRSS in the news regarding full SBB experience
       subtitle: Announcement
@@ -25,7 +26,7 @@ sections:
       title: PRSS Open House
       subtitle: ANNOUNCEMENTS
       id: infopic
-      description: Experience the Pasirian spirit. Join us at our Open House 2026!
+      description: Experience the Pasirian spirit. Join us at our Open House 2025!
       image: /images/Open_House_Nov_2025_Poster.jpg
       alt: Image alt text
       url: https://for.edu.sg/prssoh2025
