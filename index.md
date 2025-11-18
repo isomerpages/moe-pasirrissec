@@ -4,7 +4,8 @@ title: Pasir Ris Secondary School
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: ""
+notification: Join us on 21st November for our School Open House and discover
+  more about our programmes
 sections:
   - hero:
       background: /images/Homepage/Homepage.gif
@@ -15,6 +16,7 @@ sections:
         - title: Information for Parents
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
+      variant: center
   - infobar:
       title: PRSS in the news regarding full SBB experience
       subtitle: Announcement
