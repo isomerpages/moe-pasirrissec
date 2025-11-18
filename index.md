@@ -25,7 +25,7 @@ sections:
       title: PRSS Open House
       subtitle: ANNOUNCEMENTS
       id: infopic
-      description: Experience the Pasirian spirit. Join us at our Open House 2026!
+      description: Experience the Pasirian spirit. Join us at our Open House 2025!
       image: /images/Open_House_Nov_2025_Poster.jpg
       alt: Image alt text
       url: https://for.edu.sg/prssoh2025
