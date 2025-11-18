@@ -254,6 +254,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH Lower Secondary Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Robert Lee Teck Hock</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_teck_hock_robert@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_hock_robert@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -285,18 +297,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_chun_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_chun_kiat@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Robert Lee Teck Hock</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_teck_hock_robert@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_hock_robert@moe.edu.sg</a>
 </p>
 </td>
 </tr>
