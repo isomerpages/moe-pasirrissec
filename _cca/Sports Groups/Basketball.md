@@ -14,7 +14,8 @@ The students train twice a week on Tuesdays and Thursdays. During training sessi
 The Basketball CCA emphasises on 3 core values that the students are expected to uphold during and outside of training sessions. **Excellence, Perseverance and Passion**. They are expected to achieve excellence in everything that they do, persevere when the going gets tough and demonstrate passion in their CCA.
  
 ### **Highlights**
-  
+EZ C Divsion Basketball 2025- Boys team qualifed and participated in League 1 (Top 16 schools in Singapore) of the National School Games.  
+
 Participated in National School Games - EZ B Division Basketball 2025 with the Boys team emerging top 8 in the East Zone.
 
 Participated in National School Games - Basketball C Division 2024 with the Girls team merging Champion in League 3.
@@ -56,9 +57,9 @@ Participated in National School Games - EZ "C" Division Basketball Tournament 20
 * Mr Choo Hoo Sen
 
 ### **Photos / Videos**
-![](/images/CCA/Basketball/B_Girls_at_NSG_EZ_Basketball_Tournament_2025_1.jpg)
+B Girls at NSG EZ Basketball Tournament  ![](/images/CCA/Basketball/B_Girls_at_NSG_EZ_Basketball_Tournament_2025_1.jpg)
 ![](/images/CCA/Basketball/B_Girls_at_NSG_EZ_Basketball_Tournament_2025_2.jpg)
-![](/images/CCA/Basketball/BB_Girls_emerging_top_3_at_Annual_Cross_Country_race.jpg)![](/images/CCA/Basketball/C_Girls_at_Interschool_Friendly_Games.jpg)![](/images/CCA/Basketball/C_Girls_recruiting_during_CCA_Bazaar.jpg)
+BB Girls emerging top 3 at Annual Cross Country race![](/images/CCA/Basketball/BB_Girls_emerging_top_3_at_Annual_Cross_Country_race.jpg)C Girls at Interschool Friendly Games![](/images/CCA/Basketball/C_Girls_at_Interschool_Friendly_Games.jpg)C Girls recruiting during CCA Bazaar![](/images/CCA/Basketball/C_Girls_recruiting_during_CCA_Bazaar.jpg)
 ![](/images/CCA/Basketball/bball%20team.jpeg)
 ![](/images/CCA/Basketball/bball%20team%20photo_boys.jpeg)
 ![](/images/CCA/Basketball/retro1.jpeg)
