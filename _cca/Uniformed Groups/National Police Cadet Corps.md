@@ -61,11 +61,25 @@ Urban Adventure Civil Defence Skills Challenge 2019 - 3rd place (Open Category)
 * SSGT (NPCC) Aw En Zi Charlotte (Female) 
 * SSGT (NPCC) Lee Lin Ken (Male)
 
+**SPF-NPCC Badge 2025:**
+- AISHWARYA ANAND (4E5)
+- JOWIN PAY ZHEN XI (4E5)
+- BOSCO LEE (4E6)
+
+**Station Inspector Promotion 2025:**
+- JOWIN PAY ZHEN XI (4E5)
+- BOSCO LEE (4E6)
+- FELISYA SHERIE BINTE ABDULLAH (4T7)
+
+**Best Unit Cadet 2025:**
+- TAN BING HONG (4E6)
+- LYNSEY LIM YIN XIN (4T7)
+
 20 of our cadets took part in the National Day Parade 2022 At The Float@Marina
 
 ### **Achievements**
 
-UNIT OVERALL PROFICENCY AWARD - DISTINCTION (2022)
+UNIT OVERALL PROFICENCY AWARD - DISTINCTION
 
 ### **Schedule**
 
