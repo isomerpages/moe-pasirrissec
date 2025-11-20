@@ -36,19 +36,21 @@ Every year is an exciting year for PRSS Choir, with an array of meaningful activ
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Monday | 3.30pm - 6.30pm | Music Room / AVA Room |
-| Thursday | 3.30pm - 6.30pm | Music Room |
+| Mondays | 3.30pm - 6.30pm | AVA Room |
+| Thursdays | 3.30pm - 6.30pm | Music Room |
 
 ### **Teachers-in-charge**
 
-* Mr Muhammad Omarali (OIC) 
+* Mr Omarali (OIC) 
 * Mdm Nazrene (2IC)
-* Mdm Sumrah Chuni 
+* Mdm Sumrah 
 * Mdm Siti Mirna 
-* Ms. Fiona Chew
+* Ms Fiona Chew
 
 **Conductor**<br>
-Mr. Terrence Toh
+* Mr Terrence Toh
+* Mr Ivan Tan
+* Ms Zhou Manqi
 
 ### **Photos / Videos**
 ![](/images/CCA/Choir/Choir_2025_Sem_1__1_.jpg)
