@@ -75,7 +75,19 @@ Urban Adventure Civil Defence Skills Challenge 2019 - 3rd place (Open Category)
 - TAN BING HONG (4E6)
 - LYNSEY LIM YIN XIN (4T7)
 
-20 of our cadets took part in the National Day Parade 2022 At The Float@Marina
+### **Events**
+PDS exchange with Ngee Ann Secondary School<br>
+PDS performance for school events (CCA bazaar and the 40th Anniversary celebrations)<br>
+Community Safety and Security Programme sharing with the NCDCC cadets<br>
+SCDF Tampines Fire Station visit<br>
+Area Games Day<br>
+Secondary 1 oath-taking ceremony<br>
+Kayaking 1-star course<br>
+NPCC Police Annual Parade<br>
+NPCC Observance Parade<br>
+0.22 classification shoot<br>
+0.38 shooting competition<br>
+Mid-year unit bonding camp<br>
 
 ### **Achievements**
 
@@ -85,16 +97,17 @@ UNIT OVERALL PROFICENCY AWARD - DISTINCTION
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 3.30pm - 6.00pm | New Foyer/ Tar Road (S1/S2)/ Parade Square (S3) |
-| Wednesday | 3.00pm - 6.00pm | New Foyer/ Tar Road (S1/S2)/ Parade Square (S3) |
+| Tuesday | 3.40pm - 6.00pm | Parade Square, Outside General Office, New Foyer |
+| Wednesday | 3.40pm - 6.00pm | Parade Square, Outside General Office, New Foyer, Lower ISH |
 
 ### **Teachers-in-charge**
 
-* Mr Seong Then Yee 
-* Ms Kimberlyn Lee
-* Mr Zachary Koh
-* Ms Desiree Oh 
-* Mdm Karen Tan Jialin
+OC Unit: Mr Zachary Koh<br>
+DyOC Unit: Ms Kimberlyn Lee<br>
+Squad 1 TO: Mrs Karen Tan and Mr Seong Then Yee<br>
+Squad 2 TO: Ms Desiree Oh<br>
+Squad 3 TO: Ms Kimberlyn Lee<br>
+Squad 4 TO: Mr Zachary Koh<br>
 
 ### **Photos / Videos**
 
