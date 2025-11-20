@@ -27,7 +27,12 @@ NCDCC believes in developing and empowering our youths to be active concerned ci
 *  Tampines West Community Resilience Day
 
 ### **Achievements**
+2025
+- Unit Overall Performance Award - Distinction (11th consecutive year, since 2015)
+- Pinnacle Award - Warrant Officer Lim Shi Enn &amp; Fu Shi wei
+- Unit Best Cadet - Warrant Officer Lim Shi Enn <br>
 
+2024
 * 2024 Unit Overall Performance Award - Distinction (10th consecutive year, since 2015) 
 * Pinnacle Award - Warrant Officer Chuang Kai Yuen &amp; Warrant Officer Lim En Xuan Best Unit Cadet - Warrant Officer Lim En Xuan
 
@@ -35,8 +40,8 @@ NCDCC believes in developing and empowering our youths to be active concerned ci
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 3.30pm - 6.30pm | NCDCC Room/ L2 Classrooms/ Tar Road next to Lower ISH |
-| Wednesday | 3.00pm - 6.00pm | NCDCC Room/ L2 Classrooms/ Tar Road next to Lower ISH |
+| Tuesdays &amp; Wednesdays | 3.30pm - 6.30pm | NCDCC Room/ L3 Classrooms |
+
 
 ### **Teachers-in-charge**
 

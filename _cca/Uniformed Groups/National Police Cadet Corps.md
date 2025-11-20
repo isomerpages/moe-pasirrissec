@@ -61,26 +61,53 @@ Urban Adventure Civil Defence Skills Challenge 2019 - 3rd place (Open Category)
 * SSGT (NPCC) Aw En Zi Charlotte (Female) 
 * SSGT (NPCC) Lee Lin Ken (Male)
 
-20 of our cadets took part in the National Day Parade 2022 At The Float@Marina
+**SPF-NPCC Badge 2025:**
+- AISHWARYA ANAND (4E5)
+- JOWIN PAY ZHEN XI (4E5)
+- BOSCO LEE (4E6)
+
+**Station Inspector Promotion 2025:**
+- JOWIN PAY ZHEN XI (4E5)
+- BOSCO LEE (4E6)
+- FELISYA SHERIE BINTE ABDULLAH (4T7)
+
+**Best Unit Cadet 2025:**
+- TAN BING HONG (4E6)
+- LYNSEY LIM YIN XIN (4T7)
+
+### **Events**
+PDS exchange with Ngee Ann Secondary School<br>
+PDS performance for school events (CCA bazaar and the 40th Anniversary celebrations)<br>
+Community Safety and Security Programme sharing with the NCDCC cadets<br>
+SCDF Tampines Fire Station visit<br>
+Area Games Day<br>
+Secondary 1 oath-taking ceremony<br>
+Kayaking 1-star course<br>
+NPCC Police Annual Parade<br>
+NPCC Observance Parade<br>
+0.22 classification shoot<br>
+0.38 shooting competition<br>
+Mid-year unit bonding camp<br>
 
 ### **Achievements**
 
-UNIT OVERALL PROFICENCY AWARD - DISTINCTION (2022)
+UNIT OVERALL PROFICENCY AWARD - DISTINCTION
 
 ### **Schedule**
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 3.30pm - 6.00pm | New Foyer/ Tar Road (S1/S2)/ Parade Square (S3) |
-| Wednesday | 3.00pm - 6.00pm | New Foyer/ Tar Road (S1/S2)/ Parade Square (S3) |
+| Tuesday | 3.40pm - 6.00pm | Parade Square, Outside General Office, New Foyer |
+| Wednesday | 3.40pm - 6.00pm | Parade Square, Outside General Office, New Foyer, Lower ISH |
 
 ### **Teachers-in-charge**
 
-* Mr Seong Then Yee 
-* Ms Kimberlyn Lee
-* Mr Zachary Koh
-* Ms Desiree Oh 
-* Mdm Karen Tan Jialin
+OC Unit: Mr Zachary Koh<br>
+DyOC Unit: Ms Kimberlyn Lee<br>
+Squad 1 TO: Mrs Karen Tan and Mr Seong Then Yee<br>
+Squad 2 TO: Ms Desiree Oh<br>
+Squad 3 TO: Ms Kimberlyn Lee<br>
+Squad 4 TO: Mr Zachary Koh<br>
 
 ### **Photos / Videos**
 

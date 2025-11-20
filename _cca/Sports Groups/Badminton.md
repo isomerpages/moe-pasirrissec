@@ -29,6 +29,8 @@ Participation in NSG 'B' Division Badminton Championships 2024 (East Zone)
 
 Both Dylan Tan (S3-T7) and Chan Kok Fung (S3-A2) achieved 2nd place and Silver medals at the Zendora Badminton League (Divisions 1 and 2 respectively) organised by UWCSEA East Badminton Academy. 
 
+2025 'C' Division Badminton team qualified for NSG League 3 and emerged top 8 in the competition.
+
 ### **Schedule**
 
 | Training Days | Time | Venue |
@@ -50,7 +52,10 @@ Both Dylan Tan (S3-T7) and Chan Kok Fung (S3-A2) achieved 2nd place and Silver m
 * Coach Kenneth Khoo
 
 ### **Photos / Videos**
-
+![](/images/CCA/Badminton/Zendora_Badminton_League_Div_2.png)
+![](/images/CCA/Badminton/2025_Badminton_B_Boys.jpg)
+![](/images/CCA/Badminton/2025_Badminton_C_Boys.jpg)
+![](/images/CCA/Badminton/5a3080d6_1447_4a14_a619_922c259497df.jpg)
 ![](/images/CCA/Badminton/Badminton_01_2024.jpg)
 ![](/images/CCA/Badminton/Badminton_02_2024.jpg)
 ![](/images/CCA/Badminton/badminton%2001.jpg)
