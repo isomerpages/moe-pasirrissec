@@ -20,14 +20,14 @@ We are also growing our Precision Drill Squad (PDS) starting in 2025, inviting i
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday <br>(when there are no HQ activities) | 3.00pm - 6.00pm | L3 Classrooms/ Eco Garden |
-| Wednesday <br>(when there are no HQ activities) | 3.00pm - 6.00pm | L3 Classrooms/ Eco Garden |
+| Monday (PDS/FSD only) | 3.30pm - 6.00pm | Parade Square/L3 Classrooms/ Eco Garden |
+| Wednesday (Normal Training) | 3.30pm - 6.00pm | Parade Square/L3 Classrooms/ Eco Garden|
 
 ### **Teachers-in-charge**
 
 | NCC Boys | NCC Girls |
 | -------- | -------- | 
-| Mr Cheng Song Fong (IC)  | Mr Stephen Gan (IC)| 
+| Mr Cheng Song Fong (IC)  | Mr Eric Koh (IC)| 
 | Mr Ernest Yeo (2IC)  | Ms Sabrina Ho (2IC) | 
 |   | Mdm Mabel Zhang Lingjia | 
 
