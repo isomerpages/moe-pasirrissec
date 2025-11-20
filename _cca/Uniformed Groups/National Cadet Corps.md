@@ -11,13 +11,9 @@ The NCC provides a wide range of opportunities and unique experiences for our st
 
 ### **Highlights**
 
-To develop our cadets with a global mindset, the NCC has a comprehensive International Cadet Exchange Programmes that bring the cadet leaders and senior cadet leaders to countries such as Australia, the Maldives, the United Kingdom and the United States of America. Selected senior cadet leaders will also witness SAF’s capabilities when they embark on visits to overseas military exercises such as Exercise Thunder Warrior in New Zealand and Exercise Panzer Strike in Germany. To date, 4 of our cadets have been selected by NCC HQ to go for such exchange programmes.
-
-Freestyle Drill Exhibition (FSD) competition has always been the niche of PRSS NCC unit. Our unit has been placed the top 4 positions in the East District for the past 3 years. The exciting annual competition fosters creativity, teamwork, resilience and discipline that are hallmarks of a NCC Cadet. In this competition, cadets are required to choreograph the drill movements and promote creativity to make drill fun but yet challenging.
-
-Check out this video link for their performance during the East District competition:
-
-[https://www.youtube.com/watch?v=tn6rNsQ8kj8&amp;feature=youtu.be](https://www.youtube.com/watch?v=tn6rNsQ8kj8&amp;feature=youtu.be)
+Both our units, NCC Boys and NCC Girls have attained the Distinction Award every year since 2018. We have good results from Annual Sports Competition, with our Sec 1 Boys and Sec 2 Girls unit placing 4th in Nationals.
+Freestyle Drill Exhibition (FSD) competition has always been the niche of PRSS NCC unit. The exciting annual competition fosters creativity, teamwork, resilience and discipline that are hallmarks of a NCC Cadet. In this competition, cadets are required to choreograph the drill movements and promote creativity to make drill fun but yet challenging.<br>
+We are also growing our Precision Drill Squad (PDS) starting in 2025, inviting interested students to join and train precision drills with rifles. Courses organised by HQ will also be offered to them as they advance in their proficiency.
 
 ### **Schedule**
 
