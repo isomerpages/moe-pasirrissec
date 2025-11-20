@@ -50,14 +50,14 @@ At the end of four years in Drama Club, students will become more confident, wel
 
 | Day | Time | Venue |
 | --- | --- | --- |
-|Tuesday | 3.30pm - 6.00pm | Black Box |
-| Friday | 2.30pm - 6.00pm | Black Box |
+|Tuesdays | 3.30pm - 6.00pm | Black Box |
+| Fridays | 2.30pm - 6.00pm | Black Box |
 
 ### **Teachers-in-charge**
 
-* Mdm. Shahilla (OIC)
+* Mdm. Shahilla Raj(OIC)
 * Ms. Jumiah Ahmad (2IC)
-* Ms. Nithiyaa
+* Ms. Nithiyaa Rajaratnam
 
 ### **Instructor:**
 Mr. Ian Loy  
