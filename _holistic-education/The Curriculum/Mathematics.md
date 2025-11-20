@@ -18,8 +18,10 @@ The Mathematics curriculum is closely aligned to MOE defined syllabus and includ
   
 #### Highlights
 
-*   Australian Math Competition for Lower Secondary students
-*   Singapore Mathematical Olympiads for Upper Secondary students
+*   Australian Math Competition for Lower Secondary students <br>
+3 Distinction in Upper Sec, 8 Credit in Upper Sec, 6 Credit in Lower Sec
+*   Singapore Mathematical Olympiads for Upper Secondary students<br>
+1 Silver in Upper Sec 3 Bronze in Upper Sec, 1 Bronze in Lower Sec, 8 Honorable Mention
 *   Accounting Competition for Upper Secondary students
 *   Mathematical Modelling and Problems in Real World Context (PRWC)
 *   Math Trail (beyond school)
