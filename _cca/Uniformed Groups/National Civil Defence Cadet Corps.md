@@ -40,8 +40,8 @@ NCDCC believes in developing and empowering our youths to be active concerned ci
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 3.30pm - 6.30pm | NCDCC Room/ L2 Classrooms/ Tar Road next to Lower ISH |
-| Wednesday | 3.00pm - 6.00pm | NCDCC Room/ L2 Classrooms/ Tar Road next to Lower ISH |
+| Tuesdays &amp; Wednesdays | 3.30pm - 6.30pm | NCDCC Room/ L3 Classrooms |
+
 
 ### **Teachers-in-charge**
 
