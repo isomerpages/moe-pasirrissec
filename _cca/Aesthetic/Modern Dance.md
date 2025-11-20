@@ -29,13 +29,14 @@ We have a busy schedule every year and we pride ourselves in presenting the best
 * 2020 Our 1st E-CCA &amp; E-Investiture  
 * 2021 Singapore Youth Festival  
 * 2023 Singapore Youth Festival
+* 2024 The Pursuit
+* 2025 Singapore Youth Festival
 
 ### **Achievements**
 
-* SYF 2017: Certificate of Distinction  
-* SYF 2019: Certificate of Accomplishment
 * SYF 2021: Certificate of Accomplishment  
 * SYF 2023: Certificate of Accomplishment  
+* SYF 2025 : Certificate of Distinction
 
 ### **Schedule**
 
@@ -46,9 +47,9 @@ We have a busy schedule every year and we pride ourselves in presenting the best
 
 ### **Teachers-in-charge**
 
-* Mdm. Fazidah Mohd Lias (IC)
-* Mdm. Rubi’ah Massuan (2IC)
-* Ms. Mindy Low Lixian
+* Mdm Fazidah Mohd Lias (IC)
+* Mdm Rubi’ah Massuan (2IC)
+* Ms Mindy Low Lixian
 
 ##### **Choreographer:**
 Mr. Shahbirul Zaki 
