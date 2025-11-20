@@ -19,13 +19,16 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 
 ### **Highlights**
 
-* 2020: SYF Beat the Bug Percussion Ensemble 
-* 2020: National Day Virtual Performance 
-* 2020: Ensemble Showdown 
-* 2021: Chinese New Year Celebrations - Music Video 
-* 2022: Chinese New Year Celebrations - Music Video 
+* 2020: SYF Beat the Bug Percussion Ensemble
+* 2020: National Day Virtual Performance
+* 2020: Ensemble Showdown
+* 2021: Chinese New Year Celebrations - Music Video
+* 2022: Chinese New Year Celebrations - Music Video
 * 2022: Young Talent Showcase @ OTH
 * 2023: Singapore Youth Festival
+* 2024: Tampines East NDP Celebration - Ensemble Performance
+* 2025: Tampines East CNY Celebration - Ensemble Performance
+* 2025: Singapore Youth Festival
 
 ### **Achievement**
 
@@ -41,14 +44,14 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 3.15pm - 6.30pm | CO Room |
-| Thursday | 3.15pm - 6.30pm | CO Room |
+| Tuesdays | 3.15pm - 6.30pm | CO Room |
+
 
 ##### **Sectionals Practice**
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Thursday  | 3.15pm - 6.30pm | Classrooms  |
+| Thursdays  | 3.15pm - 6.30pm | Classrooms  |
 
 ### **Teachers-in-charge**
 
@@ -57,7 +60,7 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 * Mdm Ng Ai Hoon 
 * Mdm Yeong Wei Syn 
 * Ms Fam Hui Yuen
-* Mdm Jin Beihua 
+* Ms Jin Beihua 
 
 #### **Conductor**
 Mr Chin Yen Choong
