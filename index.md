@@ -29,7 +29,7 @@ sections:
       description: Experience the Pasirian spirit. Join us at our Open House 2025!
       image: /images/Open_House_Nov_2025_Poster.jpg
       alt: Image alt text
-      url: /open-house-2025/
+      url: for.edu.sg/prssoh2025
       button: View programme details
   - infopic:
       title: PRSS 40th Anniversary Celebration
