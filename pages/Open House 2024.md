@@ -8,6 +8,8 @@ description: ""
 
 We are excited to announce that the programme for our Open House on 21 November 2025 is now out!
 
+![](/images/2025_Open_House_Programme___Venues__Public_.jpg)
+
 #### Principal Address
 
 Click to view our [Principal-Designate’s Welcome Address](/files/PRINCIPAL_S_WELCOME_MESSAGE_for_Open_House_2025.pdf)
