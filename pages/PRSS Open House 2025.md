@@ -1,6 +1,6 @@
 ---
-title: Open House 2024
-permalink: /openhouse2024/
+title: PRSS Open House 2025
+permalink: /openhouse2025/
 variant: markdown
 description: ""
 ---
