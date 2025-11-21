@@ -6,9 +6,11 @@ description: ""
 ---
 ### Open House Programme is out!
 
-![](/images/Open%20House/PRSS_2024_Open_House_programme.jpg)
+![](/images/Open_House_Nov_2025_Poster.jpg)
 
-We are excited to announce that the programme for our Open House on 23 November 2024 is now out!
+We are excited to announce that the programme for our Open House on 21 November 2025 is now out!
+
+
 
 Please note:  
 * Visitors are advised to enter the school premises via the main gate.
@@ -19,6 +21,3 @@ Please note:
 
 Click to view our [Campus Tour](https://www.thinglink.com/video/1700089113832588068)
 
-#### PRSS 39th Journey
-
-Click to view our [PRSS 39th Journey](https://www.canva.com/design/DAGH5zJkigw/qMxovPsDlT8wU7NoKIbphg/view?utm_content=DAGH5zJkigw&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
