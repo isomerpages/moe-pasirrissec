@@ -8,6 +8,8 @@ description: ""
 
 We are excited to announce that the programme for our Open House on 21 November 2025 is now out!
 
+#### Programe Highlights
+
 ![](/images/2025_Open_House_Programme___Venues__Public_.jpg)
 
 [PRSS Open House Programme Details](for.edu.sg/prssoh2025)
