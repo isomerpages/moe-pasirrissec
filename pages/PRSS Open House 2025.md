@@ -14,7 +14,9 @@ description: ""
 
 #### Principal Address
 
-[Principal Address Slides](/files/OpenHouse2025_Principal_Talk_22Nov.pdf)
+<iframe allowfullscreen="true" height="749" width="1280" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSO6Nszq8FmOAYETxSTv0T_OP013rW0PH3n2oFVOYMcFkOH_bfqFuZmKqO3XZO5Fg/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+[Principal’s Address Presentation (PDF)](/files/OpenHouse2025_Principal_Talk_22Nov.pdf)
 
 #### PRSS Experience
 
