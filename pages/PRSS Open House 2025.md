@@ -23,4 +23,3 @@ description: ""
 #### Campus Tour
 
 Click to view our [Campus Tour](https://www.thinglink.com/video/1700089113832588068)
-
