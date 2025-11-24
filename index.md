@@ -30,7 +30,7 @@ sections:
       image: /images/Open_House_Nov_2025_Poster.jpg
       alt: Image alt text
       url: /openhouse2025/
-      button: View programme details
+      button: Find out more
   - infopic:
       title: PRSS 40th Anniversary Celebration
       subtitle: EVENTS
