@@ -14,7 +14,7 @@ We are excited to announce that the programme for our Open House on 21 November 
 
 #### Principal Address
 
-Click to view our [Principal-Designate’s Welcome Address](/files/PRINCIPAL_S_WELCOME_MESSAGE_for_Open_House_2025.pdf)
+[Principal Address Slides](/files/OpenHouse2025_Principal_Talk_22Nov.pdf)
 
 #### PRSS Experience
 
