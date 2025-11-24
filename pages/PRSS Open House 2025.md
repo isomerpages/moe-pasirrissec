@@ -12,7 +12,7 @@ We are excited to announce that the programme for our Open House on 21 November 
 
 ![](/images/2025_Open_House_Programme___Venues__Public_.jpg)
 
-[PRSS Open House Programme Details](for.edu.sg/prssoh2025)
+[PRSS Open House Programme Details](https://go.gov.sg/prssoh2025)
 
 #### Principal Address
 
