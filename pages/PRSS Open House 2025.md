@@ -6,8 +6,6 @@ description: ""
 ---
 ![](/images/Open_House_Nov_2025_Poster.jpg)
 
-We are excited to announce that the programme for our Open House on 21 November 2025 is now out!
-
 #### Programe Highlights
 
 ![](/images/2025_Open_House_Programme___Venues__Public_.jpg)
@@ -25,10 +23,3 @@ We are excited to announce that the programme for our Open House on 21 November 
 #### Campus Tour
 
 Click to view our [Campus Tour](https://www.thinglink.com/video/1700089113832588068)
-
-#### Getting Here
-
-
-* Visitors are advised to enter the school premises via the main gate.
-* We will not be able to accept more cars, so all drivers are advised to park at the nearest carpark at Blk 243 Tampines St 21 S521243.
-* We look forward to seeing you at our Open House!
