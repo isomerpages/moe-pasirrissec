@@ -29,7 +29,7 @@ sections:
       description: Experience the Pasirian spirit. Join us at our Open House 2025!
       image: /images/Open_House_Nov_2025_Poster.jpg
       alt: Image alt text
-      url: https://for.edu.sg/prssoh2025
+      url: for.edu.sg/prssoh2025
       button: View programme details
   - infopic:
       title: PRSS 40th Anniversary Celebration
@@ -41,17 +41,6 @@ sections:
       url: https://www.pasirrissec.moe.edu.sg/40th-anniversary-celebration/
       image: /images/40th_final_poster.jpg
       alt: 40th Anniversary Celebration
-  - infopic:
-      title: eRetrospect 2024
-      subtitle: ANNOUNCEMENTS
-      id: infopic
-      description: Our school magazine eRetrospect 2024 – Inspire is now available. We
-        invite you to take a walk down memory lane and reminisce the fond
-        memories we had in 2024.
-      button: CLICK TO VIEW
-      url: https://online.fliphtml5.com/yhdnr/vzld/#p=1
-      image: /images/Retrospect_2024.jpg
-      alt: Image alt text
   - infopic:
       title: PRSS Campus Tour
       description: Take a virtual stroll through our school with the interactive 360° tour.
