@@ -7,7 +7,7 @@ variant: tiptap
 <h4><strong>Sale of School Uniform</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/PRSS_Uniform_Sale_EY25.pdf" rel="noopener nofollow" target="_blank">Sale of Uniform for Sec 1 to Sec 5</a>
+<p><a href="/files/Uniform_Sale_EY26_Updated_11_Dec.pdf" rel="noopener nofollow" target="_blank">Sale of Uniform for Sec 1 to Sec 5 (updated as of 11 Dec)</a>
 </p>
 </li>
 </ul>
