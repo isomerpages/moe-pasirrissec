@@ -4,9 +4,9 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### Our School Magazine, *Retrospect 2025 - Kindness*, is Now Available Online
+#### Our School Magazine, *Retrospect 2025*, is Now Available Online
 
-We are pleased to share that the online edition of the school magazine, ***Retrospect 2025 – Kindness*** is now available. Please click [here](https://go.gov.sg/retrospect2025) to view it.
+We are pleased to share that the online edition of the school magazine, **Retrospect 2025** is now available. Please click [here](https://go.gov.sg/prssretrospect2025) to view it.
 
 #### 2026 Uniform sale and Booklist
 
