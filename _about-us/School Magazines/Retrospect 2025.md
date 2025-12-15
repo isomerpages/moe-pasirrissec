@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: School Magazines
 ---
-##### [PRSS Retrospect 2025](https://go.gov.sg/retrospect2025)
+##### PRSS Retrospect 2025
 
 <a href="https://go.gov.sg/retrospect2025"><img src="/images/About%20Us/PRSS_Retrospect_2025.jpg"></a>
 
