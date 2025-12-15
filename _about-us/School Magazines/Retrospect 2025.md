@@ -9,6 +9,5 @@ third_nav_title: School Magazines
 
 <a href="https://go.gov.sg/retrospect2025"><img src="/images/About%20Us/PRSS_Retrospect_2025.jpg"></a>
 
-Click on the cover or scan the QR code to access the online version of the school magazine.
+Please click on the cover or scan the QR code to access the online version of the school magazine.
 ![](/images/About%20Us/https___go_gov_sg_retrospect2025.png)
-
