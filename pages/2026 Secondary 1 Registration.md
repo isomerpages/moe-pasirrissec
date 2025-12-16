@@ -4,16 +4,6 @@ permalink: /2026-secondary-1-registration/
 description: ""
 variant: tiptap
 ---
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Sec 1 Registration/Principal_s_Welcome_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal’s Welcome Address</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Sec 1 Registration/Presenters_deck_Sec_1_2025_Parent_Engagement_Session.pdf" rel="noopener noreferrer nofollow" target="_blank">Presenter’s Deck</a>
-</p>
-</li>
-</ol>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -33,14 +23,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png">
 </div>
-<p><a href="https://form.gov.sg/6743c463134eac173226e9e6" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Online Registration Form (COMPULSORY)</a>
+<p><a href="https://form.gov.sg/69255055d36fe20db8e0fc8b" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Online Registration Form (COMPULSORY)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" src="/images/Sec%201%20Registration/2023_e_Open_House.png">
 </div>
-<p><a href="/openhouse2024" rel="noopener noreferrer nofollow" target="_blank">2024 e-Open House</a>
+<p><a href="/openhouse2025" rel="noopener noreferrer nofollow" target="_blank">2025 e-Open House</a>
 </p>
 </td>
 </tr>
@@ -72,7 +62,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Useful_links.png">
 </div>
-<p><a href="/files/Sec 1 Registration/Sec_1_Reg_2024_Administrative_Matters__new_updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen and Use of Smart Card</a>
+<p><a href="/files/Sec 1 Registration/Sec_1_Reg_2024_Administrative_Matters__new_updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen and use of Smart Card</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
