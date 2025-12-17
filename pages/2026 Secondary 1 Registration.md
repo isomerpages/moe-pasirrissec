@@ -39,14 +39,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Sec_1_Camp_Oneiric.png">
 </div>
-<p><a href="/files/Sec 1 Registration/First_Day_of_School_and_Camp_Oneiric_Programme__new_updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Sec 1 Camp Programme</a>
+<p><a href="/files/Sec 1 Registration/First_Day_of_School_and_Camp_Oneiric_Programme__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Sec 1 Camp Programme</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Message_to_2023_Sec_1_Pasirian.jpg">
 </div>
-<p><a href="/files/Sec 1 Registration/School_Hours__updated_.pdf" rel="noopener nofollow" target="_blank">School Hours</a>
+<p><a href="/files/Sec 1 Registration/School_Hours.pdf" rel="noopener nofollow" target="_blank">School Hours</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,7 +62,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Useful_links.png">
 </div>
-<p><a href="/files/Sec 1 Registration/Sec_1_Reg_2024_Administrative_Matters__new_updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen and use of Smart Card</a>
+<p><a href="/files/Sec 1 Registration/Sec_1_Reg_2025_Administrative_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen and use of Smart Card</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +76,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png">
 </div>
-<p><a href="/files/Sec 1 Registration/S1_School_Transfers.pdf" rel="noopener nofollow" target="_blank">Sec 1 Appeal for Admission</a>
+<p><a href="https://form.gov.sg/69264aba1c8817f9a21b6320" rel="noopener nofollow" target="_blank">Sec 1 Appeal for Admission</a>
 </p>
 </td>
 </tr>
@@ -102,7 +102,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/SBB.png">
 </div>
-<p><a href="/files/Sec 1 Registration/fSBB_Slides_for_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Full Subject-Based Banding</a>
+<p><a href="/files/Sec 1 Registration/fSBB_Slides_for_Website__updated_15_Dec_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Full Subject-Based Banding</a>
 </p>
 </td>
 </tr>
@@ -112,7 +112,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Stu_support_icon.png">
 </div>
-<p><a href="/files/Sec 1 Registration/Support_for_Students__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Support for Students</a>
+<p><a href="/files/Sec 1 Registration/Support_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Support for Students</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,14 +120,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/CCA.png">
 </div>
-<p><a href="/files/Sec 1 Registration/CCA_S1Briefing_19Dec2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activities</a>
+<p><a href="/files/Sec 1 Registration/CCA_S1Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activities</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FAQ.png">
 </div>
-<p><a href="/files/Sec 1 Registration/FAQs_updated.pdf" rel="noopener nofollow" target="_blank">FAQs</a>
+<p><a href="/files/Sec 1 Registration/FAQs_Updated_20_Nov_2025.pdf" rel="noopener nofollow" target="_blank">FAQs</a>
 </p>
 </td>
 </tr>
