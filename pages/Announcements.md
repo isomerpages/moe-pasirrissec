@@ -4,13 +4,14 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### 2026 Uniform sale and Booklist
+
+Please refer to [here](https://www.pasirrissec.moe.edu.sg/useful-links/information-for-parents/booklist/) for the uniform sale and 2026 booklist information.
+
 #### Our School Magazine, *Retrospect 2025*, is now available online
 
 We are pleased to share that the online edition of the school magazine, **Retrospect 2025**, is now available. Please click [here](https://go.gov.sg/prssretrospect2025) to view it.
 
-#### 2026 Uniform sale and Booklist
-
-Please refer to [here](https://www.pasirrissec.moe.edu.sg/useful-links/information-for-parents/booklist/) for the uniform sale and 2026 booklist information.
 
 #### 2025 Check Script Timetable T4W5 13/10 - 17/10
 

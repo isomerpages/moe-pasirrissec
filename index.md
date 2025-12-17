@@ -32,16 +32,6 @@ sections:
       url: /openhouse2025/
       button: Find out more
   - infopic:
-      title: PRSS 40th Anniversary Celebration
-      subtitle: EVENTS
-      id: infopic
-      description: "The school celebrated its 40th Anniversary on 23 April with the
-        theme ‘Kindness: Small Acts, Big Impact’."
-      button: CLICK TO VIEW
-      url: https://www.pasirrissec.moe.edu.sg/40th-anniversary-celebration/
-      image: /images/40th_final_poster.jpg
-      alt: 40th Anniversary Celebration
-  - infopic:
       title: PRSS Campus Tour
       description: Take a virtual stroll through our school with the interactive 360° tour.
       button: Campus Tour

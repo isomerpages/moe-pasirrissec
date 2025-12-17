@@ -36,7 +36,7 @@ to 2pm)
 <br>Email:&nbsp;<a href="mailto:rent@lockerandlock.com" rel="noopener noreferrer nofollow" target="_blank">rent@lockerandlock.com</a> 
 <br>Website:&nbsp;<a href="https://www.lockernlock.com/" rel="noopener noreferrer nofollow" target="_blank">lockernlock.com</a>
 </p>
-<p>Please click&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSeisolK3flJHuHebdSK2kFlvzFlzeXmoubTjBSpnylG-NlllA/viewform" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or
+<p>Please click&nbsp;<a href="https://lockerrental.relacsys.com/locations/location-detail?locationId=4e63951d7036231c1d84" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or
 scan the QR code to complete the locker rental form</p>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/qrcode_locker.png">
