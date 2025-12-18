@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4>Welcome message for Sec 1 registration</h4>
-<p>Dear Parents and Sec 1 (2026) Pasirians,</p>
+<p>Dear Parents and Sec 1(2026) Pasirians,</p>
 <p>Welcome to Pasir Secondary School (PRSS)! My team and I look forward to
 meeting all of you when the 2026 academic year starts. For Pasirians, we
 will see each other on 2 January 2026, 7:30am in your PE T-shirt and school
@@ -13,18 +13,19 @@ shorts/skirt.</p>
 <p>Before that, I seek your help to complete the registration procedures
 by following the steps below; and also taking note of key information by
 clicking on the following links.</p>
-<p>Registration (by Monday, 22 Dec 2025, 12pm)</p>
+<p><strong>Registration (by Monday, 22 December 2025, 12pm)</strong>
+</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The most important information is found
-via the <a href="/files/Sec%201%20Registration/Sec_1_Reg_2025_Administrative_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Administrative Matters</u></a>&nbsp;link.
-Please go through the information that includes:</p>
+via the <u>Administrative Matters</u> link. Please go through the information
+that includes:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Purchase of school books and uniform;</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School smart card for concessionary travel;</p>
 <p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Canteen stalls and e-payment; and,</p>
 <p>d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The MOE-Financial assistance scheme.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://form.gov.sg/69255055d36fe20db8e0fc8b" rel="noopener nofollow" target="_blank">Compulsory registration form</a>.
-Complete this form as we will need this information to prepare for your
-orientation camp.</p>
-<p>Further &nbsp;information (for reading before 2 Jan 2026)</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Compulsory registration form</u>. Complete
+this form as we will need this information to prepare for your orientation
+camp.</p>
+<p>Further information (for reading before 2 Jan 2026)</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="" rel="noopener nofollow" target="_blank">The first day of school and Sec 1 camp programme</a> information
 gives on overview of the things to bring on 2 January, and the exciting
 camp activities from 7 – 9 January.</p>
@@ -41,11 +42,10 @@ on the school which includes:</p>
 <p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/Sec%201%20Registration/fSBB_Slides_for_Website__updated_15_Dec_2025_.pdf" rel="noopener nofollow" target="_blank">Full Subject-based banding</a>;</p>
 <p>g.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/2025_PDLP_Parent_Engagement_Deck__Sec_1_Registration__2.pdf" rel="noopener nofollow" target="_blank">The Personalised Digital Learning Programme</a>;
 and,</p>
-<p>h.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/FAQs_Updated_20_Nov_2025.pdf" rel="noopener nofollow" target="_blank">FAQs</a>.</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will also be inviting parents to come
-to school for a face-to-face gathering on 9 January, as part of the orientation
-activities. Please join us if you can; further information will be shared
-with you soon.</p>
+<p>h.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/FAQs_Updated_20_Nov_2025.pdf" rel="noopener nofollow" target="_blank">FAQs</a>.6.
+On Monday, 22 December 2025, parents will receive a form via Parents’ Gateway
+(PG) for the procurement of the Personal Learning Device (PLD). Do complete
+the form by Monday, 5 January 2026.&nbsp;.</p>
 <p>Just like the incoming Pasirians, I am new to PRSS and will officially
 join the school as Principal on 1 January 2026. I am excited to walk with
 you on this new journey in secondary school.</p>
