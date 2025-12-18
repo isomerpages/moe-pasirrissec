@@ -24,7 +24,7 @@ Please go through the information that includes:</p>
 Complete this form as we will need this information to prepare for your
 orientation camp.</p>
 <p>Further &nbsp;information (for reading before 2 Jan 2026)</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>The first day of school and Sec 1 camp programme</u> information
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="" rel="noopener nofollow" target="_blank">The first day of school and Sec 1 camp programme</a> information
 gives on overview of the things to bring on 2 January, and the exciting
 camp activities from 7 – 9 January.</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>School rules</u> are important to maintain
@@ -89,7 +89,7 @@ you on this new journey in secondary school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Sec_1_Camp_Oneiric.png">
 </div>
-<p><a href="/files/Sec 1 Registration/First_Day_of_School_and_Camp_Oneiric_Programme__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Sec 1 Camp Programme</a>
+<p><a href="/files/First_Day_of_School_and_Camp_Oneiric_Programme__updated_front_pix_.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Sec 1 Camp Programme</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
