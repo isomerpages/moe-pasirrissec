@@ -69,7 +69,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 25%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Book_icon.png">
 </div>
-<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/information-for-parents/booklist/" rel="noopener nofollow" target="_blank">Purchase of Books and School Uniform</a>
+<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/information-for-parents/booklist/" rel="noopener nofollow" target="_blank">Purchase of School Textbooks and Uniform</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
