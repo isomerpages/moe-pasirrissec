@@ -153,7 +153,7 @@ to walk with you on this new journey in secondary school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/PDLP.png">
 </div>
-<p><a href="/files/Sec 1 Registration/2026_PDLP_Parent_Engagement_Deck__S1_Registration___For_School_Website_.pdf" rel="noopener nofollow" target="_blank">The Personalised Digital Learning Programme</a>
+<p><a href="/files/Sec 1 Registration/2026_PDLP_Parent_Engagement_Deck__S1_Registration___For_School_Website_.pdf" rel="noopener nofollow" target="_blank">The Personalised Digital Learning ProgrammPersonalised Digital Learning Programme e</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
