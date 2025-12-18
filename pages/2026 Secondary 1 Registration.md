@@ -27,36 +27,31 @@ camp.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>The first day of school and Sec 1 camp programme</u> information
 gives on overview of the things to bring on 2 January, and the exciting
 camp activities from 7 – 9 January.</p>
-<p>&nbsp;</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>School rules</u> are important to maintain
 a caring and supportive school environment. Please go through the school
 rules with your child.</p>
-<p>&nbsp;</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have also curated more information
 on the school which includes:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>List of Sec 1 2026 Home Teachers</u>;</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Our 2025 e-Open House site</u>;</p>
 <p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our CCAs;</p>
-<p>d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<u>School Hours</u>;</p>
+<p>d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>School Hours</u>;</p>
 <p>e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Support for students</u>;</p>
-<p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Full Subject-based banding</u>;</p>
+<p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Full Subject-based banding</u>;</p>
 <p>g.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>The Personalised Digital Learning Programme</u>;
 and,</p>
 <p>h.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>FAQs</u>.</p>
-<p>&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the coming days, some of you will also be receiving information via Parents’ Gateway (PG) on offering some of your subjects at a more demanding level, and on offering higher mother tongue languages. Do look out for this message.</a>
-<a href="#_msocom_2" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[BIW(2]</a>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will also be inviting parents to come
-to school for a face-to-face gathering on 9 January, &lt;&lt;<a rel="noopener noreferrer nofollow" target="_blank">time</a><a href="#_msocom_3" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[BIW(3]</a>&nbsp;&gt;&gt; as part
-of the orientation activities. Please join us if you can; further information
-will be shared with you soon.</p>
+to school for a face-to-face gathering on 9 January, as part of the orientation
+activities. Please join us if you can; further information will be shared
+with you soon.</p>
 <p>Just like the incoming Pasirians, I am new to PRSS and will officially
 join the school as Principal on 1 January 2026. I am excited to walk with
 you on this new journey in secondary school.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>With Pride and Responsibility,</p>
-<p>Ivan Wu</p>
+<p>Mr. Ivan Wu</p>
 <p>Principal-designate</p>
 <p></p>
 <table style="minWidth: 75px">
