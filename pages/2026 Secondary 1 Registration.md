@@ -42,7 +42,8 @@ on the school which includes:</p>
 <p>e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/Support_for_Students.pdf" rel="noopener nofollow" target="_blank">Support for students</a>;</p>
 <p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/fSBB_Slides_for_Website__updated_15_Dec_2025_.pdf" rel="noopener nofollow" target="_blank">Full Subject-based Banding</a>;</p>
 <p>g.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/2025_PDLP_Parent_Engagement_Deck__Sec_1_Registration__2.pdf" rel="noopener nofollow" target="_blank">The Personalised Digital Learning Programme</a>;</p>
-<p>h.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Mother Tongue Languages</u>; and,</p>
+<p>h.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/Information_on_MTL_Languages.pdf" rel="noopener noreferrer nofollow" target="_blank"> <u>Mother Tongue Languages</u></a>;
+and,</p>
 <p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/Sec%201%20Registration/FAQs_Updated_20_Nov_2025.pdf" rel="noopener nofollow" target="_blank">FAQs</a>.</p>
 <p></p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On Monday, 22 December 2025, parents
