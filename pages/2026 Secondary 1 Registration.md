@@ -76,7 +76,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png">
 </div>
-<p><a href="https://form.gov.sg/69264aba1c8817f9a21b6320" rel="noopener nofollow" target="_blank">Sec 1 Appeal for Admission</a>
+<p><a href="https://form.gov.sg/69264aba1c8817f9a21b6320" rel="noopener nofollow" target="_blank">Sec 1 Admission Appeal</a>
 </p>
 </td>
 </tr>
