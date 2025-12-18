@@ -69,6 +69,7 @@ to walk with you on this new journey in secondary school.</p>
 <p>Principal-designate</p>
 <p></p>
 <p></p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -172,14 +173,14 @@ to walk with you on this new journey in secondary school.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FAQ.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FAQ.png">
 </div>
 <p><a href="/files/Sec 1 Registration/FAQs_Updated_20_Nov_2025.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Contact_Information.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Contact_Information.png">
 </div>
 <p><a href="https://pasirrissec.moe.edu.sg/Contact-Us" rel="noopener nofollow" target="_blank">Contact Information</a>
 </p>
