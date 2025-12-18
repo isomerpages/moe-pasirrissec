@@ -4,6 +4,7 @@ permalink: /2026-secondary-1-registration/
 description: ""
 variant: tiptap
 ---
+<h4>Welcome message for Sec 1 registration</h4>
 <p>Dear Parents and Sec 1 (2026) Pasirians,</p>
 <p>Welcome to Pasir Secondary School (PRSS)! My team and I look forward to
 meeting all of you when the 2026 academic year starts. For Pasirians, we
@@ -103,7 +104,7 @@ you on this new journey in secondary school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Attire.png">
 </div>
-<p><a href="/files/Sec 1 Registration/School_Rules_and_Regulations__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">School Rules</a>
+<p><a href="/files/School_Rules_and_Regulations__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">School Rules</a>
 </p>
 </td>
 </tr>
