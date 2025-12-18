@@ -25,36 +25,40 @@ Please go through the information that includes:</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://form.gov.sg/69255055d36fe20db8e0fc8b" rel="noopener nofollow" target="_blank">Compulsory registration form</a>.
 Complete this form as we will need this information to prepare for your
 orientation camp.</p>
-<p><strong>Further information (for reading before 2 Jan 2026)</strong>
+<p><strong>Further information (for reading before 2 January 2026)</strong>
 </p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/First_Day_of_School_and_Camp_Oneiric_Programme__updated_front_pix_.pdf" rel="noopener nofollow" target="_blank">The first day of school and Sec 1 Camp</a> information
-gives on overview of the things to bring on 2 January, and the exciting
-camp activities from 7 – 9 January.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/School_Rules_and_Regulations__updated_.pdf" rel="noopener nofollow" target="_blank">School Rules</a> are
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/First_Day_of_School_and_Camp_Oneiric_Programme__updated_front_pix_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>The first day of school and Sec 1 Camp programme</u></a> information
+gives on overview of the things to bring on Friday, 2 January 2026, and
+the exciting camp activities from Wednesday-Friday, 7 – 9 January 2026.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/School_Rules_and_Regulations__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>School rules</u></a> are
 important to maintain a caring and supportive school environment. Please
 go through the school rules with your child.</p>
-<p>5. We have also curated more information on the school which includes:</p>
-<p>a. List of Sec 1 2026 Home Teachers;</p>
-<p>b. Our 2025 Open House site;</p>
-<p>c. Our CCAs;</p>
-<p>d. School Hours;</p>
-<p>e. Support for students;</p>
-<p>f. Full Subject-based Banding;</p>
-<p>g. The Personalised Digital Learning Programme;</p>
-<p>h. Mother Tongue Languages; and,</p>
-<p>i. FAQs.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have also curated more information
+on the school which includes:</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/Home_Teachers_2026.pdf" rel="noopener nofollow" target="_blank">List of Sec 1 2026 Home Teachers</a>;</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/openhouse2025" rel="noopener nofollow" target="_blank">Our 2025 Open House site</a>;</p>
+<p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/CCA_S1Briefing.pdf" rel="noopener nofollow" target="_blank">Our CCAs</a>;</p>
+<p>d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/School_Hours.pdf" rel="noopener nofollow" target="_blank">School Hours</a>;</p>
+<p>e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/Support_for_Students.pdf" rel="noopener nofollow" target="_blank">Support for students</a>;</p>
+<p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/fSBB_Slides_for_Website__updated_15_Dec_2025_.pdf" rel="noopener nofollow" target="_blank">Full Subject-based Banding</a>;</p>
+<p>g.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/2025_PDLP_Parent_Engagement_Deck__Sec_1_Registration__2.pdf" rel="noopener nofollow" target="_blank">The Personalised Digital Learning Programme</a>;</p>
+<p>h.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Mother Tongue Languages</u>; and,</p>
+<p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/Sec%201%20Registration/FAQs_Updated_20_Nov_2025.pdf" rel="noopener nofollow" target="_blank">FAQs</a>.</p>
 <p></p>
-<p>6. On Monday, 22 December 2025, parents will receive a form via Parents’
-Gateway (PG) for the procurement of the Personal Learning Device (PLD).
-Do complete the form by Monday, 5 January 2026.</p>
-<p>7. In the coming days, some of you will also be receiving information
-via Parents’ Gateway (PG) on offering some of your subjects at a more demanding
-level, and on offering Higher Mother Tongue languages. Do look out for
-this message.</p>
-<p>8. We will also be inviting parents to come to school for a face-to-face
-gathering on Friday, 9 January 2026, 6pm, as part of the orientation activities.
-Please join us if you can; further information will be shared with you
-soon.</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On Monday, 22 December 2025, parents
+will receive a form via Parents’ Gateway (PG) for the procurement of the
+Personal Learning Device (PLD). Do complete the form by Monday, 5 January
+2026.&nbsp;</p>
+<p></p>
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the coming days, some of you will
+also be receiving information via Parents’ Gateway (PG) on offering some
+of your subjects at a more demanding level, and on offering Higher Mother
+Tongue languages. Do look out for this message.</p>
+<p></p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will also be inviting parents to come
+to school for a face-to-face gathering on Friday, 9 January 2026, 6pm,
+as part of the orientation activities. Please join us if you can; further
+information will be shared with you soon.</p>
 <p>Just like the incoming Pasirians, I am new to PRSS and will officially
 join the school as Principal on Thursday, 1 January 2026. I am excited
 to walk with you on this new journey in secondary school.</p>
@@ -62,6 +66,7 @@ to walk with you on this new journey in secondary school.</p>
 <p>With Pride and Responsibility,</p>
 <p>Mr. Ivan Wu</p>
 <p>Principal-designate</p>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -73,9 +78,9 @@ to walk with you on this new journey in secondary school.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Key_Personnel.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Useful_links.png">
 </div>
-<p><a href="/files/Sec 1 Registration/Home_Teachers_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Home Teachers</a>
+<p><a href="/files/Sec 1 Registration/Sec_1_Reg_2025_Administrative_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">Administrative Matters</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,6 +88,30 @@ to walk with you on this new journey in secondary school.</p>
 <img style="width: 35%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png">
 </div>
 <p><a href="https://form.gov.sg/69255055d36fe20db8e0fc8b" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Online Registration Form </a><strong><a href="https://form.gov.sg/69255055d36fe20db8e0fc8b" rel="noopener noreferrer nofollow" target="_blank">(Compulsory)</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Sec_1_Camp_Oneiric.png">
+</div>
+<p><a href="/files/First_Day_of_School_and_Camp_Oneiric_Programme__updated_front_pix_.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Sec 1 Camp Programme</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Attire.png">
+</div>
+<p><a href="/files/School_Rules_and_Regulations__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">School Rules</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Key_Personnel.png">
+</div>
+<p><a href="/files/Sec 1 Registration/Home_Teachers_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Home Teachers</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,57 +125,30 @@ to walk with you on this new journey in secondary school.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Sec_1_Camp_Oneiric.png">
+<img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/CCA.png">
 </div>
-<p><a href="/files/First_Day_of_School_and_Camp_Oneiric_Programme__updated_front_pix_.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School and Sec 1 Camp Programme</a>
+<p><a href="/files/Sec 1 Registration/CCA_S1Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activities</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Message_to_2023_Sec_1_Pasirian.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Message_to_2023_Sec_1_Pasirian.jpg">
 </div>
 <p><a href="/files/Sec 1 Registration/School_Hours.pdf" rel="noopener nofollow" target="_blank">School Hours</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Attire.png">
+<img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Stu_support_icon.png">
 </div>
-<p><a href="/files/School_Rules_and_Regulations__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">School Rules</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Useful_links.png">
-</div>
-<p><a href="/files/Sec 1 Registration/Sec_1_Reg_2025_Administrative_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">Administrative Matters</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 25%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Book_icon.png">
-</div>
-<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/information-for-parents/booklist/" rel="noopener nofollow" target="_blank">Purchase of School Textbooks and Uniform</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png">
-</div>
-<p><a href="https://form.gov.sg/69264aba1c8817f9a21b6320" rel="noopener nofollow" target="_blank">Sec 1 Online Admission Appeal Form</a>
+<p><a href="/files/Sec 1 Registration/Support_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Support for Students</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FAS.png">
-</div>
-<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/Information-for-Parents/Financial-Assistance/" rel="noopener nofollow" target="_blank">Financial Assistance Application</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -168,20 +170,17 @@ to walk with you on this new journey in secondary school.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Stu_support_icon.png">
-</div>
-<p><a href="/files/Sec 1 Registration/Support_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Support for Students</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/CCA.png">
-</div>
-<p><a href="/files/Sec 1 Registration/CCA_S1Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activities</a>
-</p>
+<p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FAQ.png">
@@ -189,13 +188,7 @@ to walk with you on this new journey in secondary school.</p>
 <p><a href="/files/Sec 1 Registration/FAQs_Updated_20_Nov_2025.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Contact_Information.png">
 </div>
@@ -203,7 +196,11 @@ to walk with you on this new journey in secondary school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png">
+</div>
+<p><a href="https://form.gov.sg/69264aba1c8817f9a21b6320" rel="noopener nofollow" target="_blank">Sec 1 Online Admission Appeal Form</a>
+</p>
 </td>
 </tr>
 </tbody>
