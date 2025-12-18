@@ -147,37 +147,24 @@ to walk with you on this new journey in secondary school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/PDLP.png">
-</div>
-<p><a href="/files/Sec 1 Registration/2025_PDLP_Parent_Engagement_Deck__Sec_1_Registration__2.pdf" rel="noopener noreferrer nofollow" target="_blank">Personal Learning Device</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/SBB.png">
 </div>
 <p><a href="/files/Sec 1 Registration/fSBB_Slides_for_Website__updated_15_Dec_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Full Subject-Based Banding</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/PDLP.png">
+</div>
+<p><a href="/2025_PDLP_Parent_Engagement_Deck__Sec_1_Registration__2.pdf" rel="noopener nofollow" target="_blank">The Personalised Digital Learning Programme</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/Mother_Tongue_Language.png">
+</div>
+<p>Mother Tongue Languages</p>
 </td>
 </tr>
 <tr>
