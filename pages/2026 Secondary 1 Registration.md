@@ -30,7 +30,7 @@ orientation camp.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/First_Day_of_School_and_Camp_Oneiric_Programme__updated_front_pix_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>The first day of school and Sec 1 Camp programme</u></a> information
 gives on overview of the things to bring on Friday, 2 January 2026, and
 the exciting camp activities from Wednesday-Friday, 7 – 9 January 2026.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/School_Rules_and_Regulations__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>School rules</u></a> are
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/School_Rules_and_Regulations__updated_.pdf" rel="noopener nofollow" target="_blank">School rules </a>are
 important to maintain a caring and supportive school environment. Please
 go through the school rules with your child.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have also curated more information
@@ -38,10 +38,10 @@ on the school which includes:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/Home_Teachers_2026.pdf" rel="noopener nofollow" target="_blank">List of Sec 1 2026 Home Teachers</a>;</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/openhouse2025" rel="noopener nofollow" target="_blank">Our 2025 Open House site</a>;</p>
 <p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/CCA_S1Briefing.pdf" rel="noopener nofollow" target="_blank">Our CCAs</a>;</p>
-<p>d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/School_Hours.pdf" rel="noopener nofollow" target="_blank">School Hours</a>;</p>
+<p>d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec 1 Registration/School_Hours.pdf" rel="noopener nofollow" target="_blank">School Hours</a>;</p>
 <p>e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/Support_for_Students.pdf" rel="noopener nofollow" target="_blank">Support for students</a>;</p>
-<p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/fSBB_Slides_for_Website__updated_15_Dec_2025_.pdf" rel="noopener nofollow" target="_blank">Full Subject-based Banding</a>;</p>
-<p>g.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/2025_PDLP_Parent_Engagement_Deck__Sec_1_Registration__2.pdf" rel="noopener nofollow" target="_blank">The Personalised Digital Learning Programme</a>;</p>
+<p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/Sec 1 Registration/fSBB_Slides_for_Website__updated_15_Dec_2025_.pdf" rel="noopener nofollow" target="_blank">Full Subject-based Banding</a>;</p>
+<p>g.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec 1 Registration/2026_PDLP_Parent_Engagement_Deck__S1_Registration___For_School_Website_.pdf" rel="noopener nofollow" target="_blank">The Personalised Digital Learning Programme</a>;</p>
 <p>h.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/Information_on_MTL_Languages.pdf" rel="noopener noreferrer nofollow" target="_blank"> <u>Mother Tongue Languages</u></a>;
 and,</p>
 <p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/Sec%201%20Registration/FAQs_Updated_20_Nov_2025.pdf" rel="noopener nofollow" target="_blank">FAQs</a>.</p>
@@ -153,7 +153,7 @@ to walk with you on this new journey in secondary school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/PDLP.png">
 </div>
-<p><a href="/2025_PDLP_Parent_Engagement_Deck__Sec_1_Registration__2.pdf" rel="noopener nofollow" target="_blank">The Personalised Digital Learning Programme</a>
+<p><a href="/files/Sec 1 Registration/2026_PDLP_Parent_Engagement_Deck__S1_Registration___For_School_Website_.pdf" rel="noopener nofollow" target="_blank">The Personalised Digital Learning ProgrammPersonalised Digital Learning Programme e</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
