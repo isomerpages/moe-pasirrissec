@@ -111,7 +111,7 @@ to walk with you on this new journey in secondary school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Key_Personnel.png">
 </div>
-<p><a href="/files/Sec 1 Registration/Home_Teachers_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Home Teachers</a>
+<p><a href="/files/Sec 1 Registration/Home_Teachers_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 2026 Home Teachers</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,7 +125,7 @@ to walk with you on this new journey in secondary school.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/CCA.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/CCA.png">
 </div>
 <p><a href="/files/Sec 1 Registration/CCA_S1Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activities</a>
 </p>
@@ -164,7 +164,8 @@ to walk with you on this new journey in secondary school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/Mother_Tongue_Language.png">
 </div>
-<p>Mother Tongue Languages</p>
+<p><a href="/files/Information_on_MTL_Languages.pdf" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Languages</a>
+</p>
 </td>
 </tr>
 <tr>
