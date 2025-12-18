@@ -85,7 +85,7 @@ to walk with you on this new journey in secondary school.</p>
 <p><a href="/files/Sec 1 Registration/Sec_1_Reg_2025_Administrative_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">Administrative Matters</a>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://form.gov.sg/69255055d36fe20db8e0fc8b"><img style="width: 25%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://form.gov.sg/69255055d36fe20db8e0fc8b"><img style="width: 23%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png"></a>
 <p><a href="https://form.gov.sg/69255055d36fe20db8e0fc8b" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Online Registration Form </a><strong><a href="https://form.gov.sg/69255055d36fe20db8e0fc8b" rel="noopener noreferrer nofollow" target="_blank">(Compulsory)</a></strong>
 </p>
 </td>
@@ -108,7 +108,7 @@ to walk with you on this new journey in secondary school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Key_Personnel.png">
+<img style="width: 25%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Key_Personnel.png">
 </div>
 <p><a href="/files/Sec 1 Registration/Home_Teachers_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 2026 Home Teachers</a>
 </p>
@@ -135,7 +135,7 @@ to walk with you on this new journey in secondary school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Stu_support_icon.png">
+<img style="width: 33%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Stu_support_icon.png">
 </div>
 <p><a href="/files/Sec 1 Registration/Support_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Support for Students</a>
 </p>
@@ -144,7 +144,7 @@ to walk with you on this new journey in secondary school.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/SBB.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/SBB.png">
 </div>
 <p><a href="/files/Sec 1 Registration/fSBB_Slides_for_Website__updated_15_Dec_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Full Subject-Based Banding</a>
 </p>
@@ -158,7 +158,7 @@ to walk with you on this new journey in secondary school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ICONS/Mother_Tongue_Language.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/ICONS/Mother_Tongue_Language.png">
 </div>
 <p><a href="/files/Information_on_MTL_Languages.pdf" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Languages</a>
 </p>
@@ -172,11 +172,11 @@ to walk with you on this new journey in secondary school.</p>
 <p><a href="/files/Sec 1 Registration/FAQs_Updated_20_Nov_2025.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions</a>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/Contact-Us"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Contact_Information.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/Contact-Us"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Contact_Information.png"></a>
 <p><a href="https://pasirrissec.moe.edu.sg/Contact-Us" rel="noopener nofollow" target="_blank">Contact Information</a>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://form.gov.sg/69264aba1c8817f9a21b6320"><img style="width: 20%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://form.gov.sg/69264aba1c8817f9a21b6320"><img style="width: 23%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png"></a>
 <p><a href="https://form.gov.sg/69264aba1c8817f9a21b6320" rel="noopener nofollow" target="_blank">Sec 1 Online Admission Appeal Form</a>
 </p>
 </td>
