@@ -23,14 +23,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png">
 </div>
-<p><a href="https://form.gov.sg/69255055d36fe20db8e0fc8b" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Online Registration Form (COMPULSORY)</a>
+<p><a href="https://form.gov.sg/69255055d36fe20db8e0fc8b" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Online Registration Form </a><strong><a href="https://form.gov.sg/69255055d36fe20db8e0fc8b" rel="noopener noreferrer nofollow" target="_blank">(Compulsory)</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" src="/images/Sec%201%20Registration/2023_e_Open_House.png">
 </div>
-<p><a href="/openhouse2025" rel="noopener noreferrer nofollow" target="_blank">2025 e-Open House</a>
+<p><a href="/openhouse2025" rel="noopener noreferrer nofollow" target="_blank">Open House 2025</a>
 </p>
 </td>
 </tr>
@@ -62,21 +62,21 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Useful_links.png">
 </div>
-<p><a href="/files/Sec 1 Registration/Sec_1_Reg_2025_Administrative_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen and use of Smart Card</a>
+<p><a href="/files/Sec 1 Registration/Sec_1_Reg_2025_Administrative_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">Administrative Matters</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 25%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Book_icon.png">
 </div>
-<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/information-for-parents/booklist/" rel="noopener nofollow" target="_blank">Purchase of Books and School Uniform</a>
+<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/information-for-parents/booklist/" rel="noopener nofollow" target="_blank">Purchase of School Textbooks and Uniform</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" src="/images/Sec%201%20Registration/Online_Registration.png">
 </div>
-<p><a href="https://form.gov.sg/69264aba1c8817f9a21b6320" rel="noopener nofollow" target="_blank">Sec 1 Appeal for Admission</a>
+<p><a href="https://form.gov.sg/69264aba1c8817f9a21b6320" rel="noopener nofollow" target="_blank">Sec 1 Online Admission Appeal Form</a>
 </p>
 </td>
 </tr>
@@ -86,7 +86,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FAS.png">
 </div>
-<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/Information-for-Parents/Financial-Assistance/" rel="noopener nofollow" target="_blank">Application of Financial Assistance</a>
+<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/Information-for-Parents/Financial-Assistance/" rel="noopener nofollow" target="_blank">Financial Assistance Application</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,7 +94,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/PDLP.png">
 </div>
-<p><a href="/files/Sec 1 Registration/2025_PDLP_Parent_Engagement_Deck__Sec_1_Registration__2.pdf" rel="noopener noreferrer nofollow" target="_blank">Personalised Digital Learning Programme (PDLP)</a>
+<p><a href="/files/Sec 1 Registration/2025_PDLP_Parent_Engagement_Deck__Sec_1_Registration__2.pdf" rel="noopener noreferrer nofollow" target="_blank">Personal Learning Device</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,7 +127,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FAQ.png">
 </div>
-<p><a href="/files/Sec 1 Registration/FAQs_Updated_20_Nov_2025.pdf" rel="noopener nofollow" target="_blank">FAQs</a>
+<p><a href="/files/Sec 1 Registration/FAQs_Updated_20_Nov_2025.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions</a>
 </p>
 </td>
 </tr>
