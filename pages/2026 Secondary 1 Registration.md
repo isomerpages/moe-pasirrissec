@@ -16,44 +16,52 @@ clicking on the following links.</p>
 <p><strong>Registration (by Monday, 22 December 2025, 12pm)</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The most important information is found
-via the <u>Administrative Matters</u> link. Please go through the information
-that includes:</p>
+via the <a href="/files/Sec%201%20Registration/Sec_1_Reg_2025_Administrative_Matters.pdf" rel="noopener nofollow" target="_blank">Administrative Matters</a> link.
+Please go through the information that includes:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Purchase of school books and uniform;</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School smart card for concessionary travel;</p>
 <p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Canteen stalls and e-payment; and,</p>
 <p>d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The MOE-Financial assistance scheme.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Compulsory registration form</u>. Complete
-this form as we will need this information to prepare for your orientation
-camp.</p>
-<p>Further information (for reading before 2 Jan 2026)</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="" rel="noopener nofollow" target="_blank">The first day of school and Sec 1 camp programme</a> information
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://form.gov.sg/69255055d36fe20db8e0fc8b" rel="noopener nofollow" target="_blank">Compulsory registration form</a>.
+Complete this form as we will need this information to prepare for your
+orientation camp.</p>
+<p><strong>Further information (for reading before 2 Jan 2026)</strong>
+</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/First_Day_of_School_and_Camp_Oneiric_Programme__updated_front_pix_.pdf" rel="noopener nofollow" target="_blank">The first day of school and Sec 1 Camp</a> information
 gives on overview of the things to bring on 2 January, and the exciting
 camp activities from 7 – 9 January.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>School rules</u> are important to maintain
-a caring and supportive school environment. Please go through the school
-rules with your child.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have also curated more information
-on the school which includes:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/Home_Teachers_2026.pdf" rel="noopener nofollow" target="_blank">List of Sec 1 2026 Home Teachers</a>;</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/openhouse2025" rel="noopener nofollow" target="_blank">Our 2025 e-Open House site</a>;</p>
-<p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our <a href="/files/Sec%201%20Registration/CCA_S1Briefing.pdf" rel="noopener nofollow" target="_blank">CCAs</a>;</p>
-<p>d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/School_Hours.pdf" rel="noopener nofollow" target="_blank">School Hours</a>;</p>
-<p>e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/Support_for_Students.pdf" rel="noopener nofollow" target="_blank">Support for students</a>;</p>
-<p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/Sec%201%20Registration/fSBB_Slides_for_Website__updated_15_Dec_2025_.pdf" rel="noopener nofollow" target="_blank">Full Subject-based banding</a>;</p>
-<p>g.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/2025_PDLP_Parent_Engagement_Deck__Sec_1_Registration__2.pdf" rel="noopener nofollow" target="_blank">The Personalised Digital Learning Programme</a>;
-and,</p>
-<p>h.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/FAQs_Updated_20_Nov_2025.pdf" rel="noopener nofollow" target="_blank">FAQs</a>.6.
-On Monday, 22 December 2025, parents will receive a form via Parents’ Gateway
-(PG) for the procurement of the Personal Learning Device (PLD). Do complete
-the form by Monday, 5 January 2026.&nbsp;.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/School_Rules_and_Regulations__updated_.pdf" rel="noopener nofollow" target="_blank">School Rules</a> are
+important to maintain a caring and supportive school environment. Please
+go through the school rules with your child.</p>
+<p>5. We have also curated more information on the school which includes:</p>
+<p>a. List of Sec 1 2026 Home Teachers;</p>
+<p>b. Our 2025 Open House site;</p>
+<p>c. Our CCAs;</p>
+<p>d. School Hours;</p>
+<p>e. Support for students;</p>
+<p>f. Full Subject-based Banding;</p>
+<p>g. The Personalised Digital Learning Programme;</p>
+<p>h. Mother Tongue Languages; and,</p>
+<p>i. FAQs.</p>
+<p></p>
+<p>6. On Monday, 22 December 2025, parents will receive a form via Parents’
+Gateway (PG) for the procurement of the Personal Learning Device (PLD).
+Do complete the form by Monday, 5 January 2026.</p>
+<p>7. In the coming days, some of you will also be receiving information
+via Parents’ Gateway (PG) on offering some of your subjects at a more demanding
+level, and on offering Higher Mother Tongue languages. Do look out for
+this message.</p>
+<p>8. We will also be inviting parents to come to school for a face-to-face
+gathering on Friday, 9 January 2026, 6pm, as part of the orientation activities.
+Please join us if you can; further information will be shared with you
+soon.</p>
 <p>Just like the incoming Pasirians, I am new to PRSS and will officially
-join the school as Principal on 1 January 2026. I am excited to walk with
-you on this new journey in secondary school.</p>
+join the school as Principal on Thursday, 1 January 2026. I am excited
+to walk with you on this new journey in secondary school.</p>
 <p></p>
 <p>With Pride and Responsibility,</p>
 <p>Mr. Ivan Wu</p>
 <p>Principal-designate</p>
-<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
