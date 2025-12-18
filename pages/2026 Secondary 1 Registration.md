@@ -30,7 +30,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" src="/images/Sec%201%20Registration/2023_e_Open_House.png">
 </div>
-<p><a href="/openhouse2025" rel="noopener noreferrer nofollow" target="_blank">2025 Open House</a>
+<p><a href="/openhouse2025" rel="noopener noreferrer nofollow" target="_blank">Open House 2025</a>
 </p>
 </td>
 </tr>
@@ -86,7 +86,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 35%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/FAS.png">
 </div>
-<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/Information-for-Parents/Financial-Assistance/" rel="noopener nofollow" target="_blank">Application of Financial Assistance</a>
+<p><a href="https://www.pasirrissec.moe.edu.sg/useful-links/Information-for-Parents/Financial-Assistance/" rel="noopener nofollow" target="_blank">Financial Assistance Application</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
