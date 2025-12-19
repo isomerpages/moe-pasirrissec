@@ -23,13 +23,14 @@ sections:
       button: Click here to find out more
       url: /achievements/In-The-News/
   - infopic:
-      title: 2026 Secondary 1 Registration
-      subtitle: Welcome Pasirians!
+      title: Sec 1 Registration 2026 Intake
+      subtitle: ANNOUNCEMENTS
       id: infopic
       button: Find Out More
       image: /images/Homepage/Welcome_Page_2026.png
       alt: Image alt text
       url: https://www.pasirrissec.moe.edu.sg/2026-secondary-1-registration/
+      description: We warmly welcome our incoming Sec 1 students and parents.
   - infopic:
       title: PRSS Open House
       subtitle: ANNOUNCEMENTS
