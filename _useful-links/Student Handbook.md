@@ -4,4 +4,11 @@ permalink: /student-handbook/
 variant: markdown
 description: ""
 ---
-<div style="position:relative;padding-top:max(60%,324px);width:100%;height:0;"><iframe allowfullscreen="true" frameborder="0" scrolling="no" src="https://online.fliphtml5.com/yhdnr/Final-Handbook-2026/" style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;"></iframe></div>
+#### PRSS Student Handbook 2026 
+
+<a href="https://go.gov.sg/prss2026handbook"><img src="/images/2026_Student_Handbook_Page_01.jpg"></a>
+
+Click to view or scan the QR to view it on your device.
+
+![](/images/https___go_gov_sg_prss2026handbook.png)
+
