@@ -28,13 +28,13 @@ orientation camp.</p>
 <p><strong>Further information (for reading before 2 January 2026)</strong>
 </p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/First_Day_of_School_and_Camp_Oneiric_Programme__updated_front_pix_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>The first day of school and Sec 1 Camp programme</u></a> information
-gives on overview of the things to bring on Friday, 2 January 2026, and
+gives an overview of the things to bring on Friday, 2 January 2026, and
 the exciting camp activities from Wednesday-Friday, 7 – 9 January 2026.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/School_Rules_and_Regulations__updated_.pdf" rel="noopener nofollow" target="_blank">School rules </a>are
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/School_Rules_and_Regulations__updated_.pdf" rel="noopener nofollow" target="_blank">School rules</a> are
 important to maintain a caring and supportive school environment. Please
 go through the school rules with your child.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have also curated more information
-on the school which includes:</p>
+of the school which includes:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/Home_Teachers_2026.pdf" rel="noopener nofollow" target="_blank">List of Sec 1 2026 Home Teachers</a>;</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/openhouse2025" rel="noopener nofollow" target="_blank">Our 2025 Open House site</a>;</p>
 <p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/CCA_S1Briefing.pdf" rel="noopener nofollow" target="_blank">Our CCAs</a>;</p>
