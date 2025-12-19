@@ -23,13 +23,13 @@ sections:
       button: Click here to find out more
       url: /achievements/In-The-News/
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: 2026 Secondary 1 Registration
+      subtitle: Welcome Pasirians!
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Find Out More
       image: /images/Homepage/Welcome_Page_2026.png
       alt: Image alt text
+      url: https://www.pasirrissec.moe.edu.sg/2026-secondary-1-registration/
   - infopic:
       title: PRSS Open House
       subtitle: ANNOUNCEMENTS
