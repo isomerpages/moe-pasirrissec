@@ -10,4 +10,4 @@ description: ""
 
 Click to view, or scan the QR code to access it on your device
 
-![](/images/https___go_gov_sg_prss2026handbook.png)
+<img height="auto" width="140" src="/images/https___go_gov_sg_prss2026handbook.png">
