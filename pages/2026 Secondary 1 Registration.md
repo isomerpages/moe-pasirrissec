@@ -34,7 +34,7 @@ the exciting camp activities from Wednesday-Friday, 7 – 9 January 2026.</p>
 important to maintain a caring and supportive school environment. Please
 go through the school rules with your child.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have also curated more information
-of the school which includes:</p>
+on the school which includes:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/Home_Teachers_2026.pdf" rel="noopener nofollow" target="_blank">List of Sec 1 2026 Home Teachers</a>;</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/openhouse2025" rel="noopener nofollow" target="_blank">Our 2025 Open House site</a>;</p>
 <p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Sec%201%20Registration/CCA_S1Briefing.pdf" rel="noopener nofollow" target="_blank">Our CCAs</a>;</p>
