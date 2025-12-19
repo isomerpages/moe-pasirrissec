@@ -6,10 +6,10 @@ variant: tiptap
 ---
 <h4>Welcome message for Sec 1 registration</h4>
 <p>Dear Parents and Sec 1(2026) Pasirians,</p>
-<p>Welcome to Pasir Secondary School (PRSS)! My team and I look forward to
-meeting all of you when the 2026 academic year starts. For Pasirians, we
-will see each other on 2 January 2026, 7:30am in your PE T-shirt and school
-shorts/skirt.</p>
+<p>Welcome to Pasir Ris Secondary School (PRSS)! My team and I look forward
+to meeting all of you when the 2026 academic year starts. For Pasirians,
+we will see each other on 2 January 2026, 7:30am in your PE T-shirt and
+school shorts/skirt.</p>
 <p>Before that, I seek your help to complete the registration procedures
 by following the steps below; and also taking note of key information by
 clicking on the following links.</p>
