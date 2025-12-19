@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Calendar.md
+      - Student Handbook.md
       - Subject Combination Exercise/.keep
       - Subject Combination Exercise/Sec 3 Subject Combination Exercise.md
       - Subject Combination Exercise/Considerations in choosing a subject
