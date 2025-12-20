@@ -10,7 +10,7 @@ description: ""
 
 Click the view the Student Handbook online or scan the QR code to access it on your device. 
 
-The Student handbook is also available in PDF format for offline viewing and download. 
+The Student Handbook is also available in PDF format for offline viewing and download. 
 
 [2026 Student Handbook](/files/Useful%20Links/2026_Student_Handbook.pdf)
 
