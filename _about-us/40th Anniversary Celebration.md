@@ -10,7 +10,7 @@ stories on acts of kindness gathered from students and staffs.
 	
 Click <a href="https://go.gov.sg/prss40thanniversary" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
 check out some of the videos featuring the inspiring stories of kindness.</p>
-<p>The anniversary programme will feature three key segments which include a
+<p>The Anniversary Programme will feature three key segments which include a
 Plenary Session, the Student Learning Festival as well as the Awards Ceremony.</p>
 
 <p>Click the video below to view the Plenary and Awards Compilation videos.</p>
