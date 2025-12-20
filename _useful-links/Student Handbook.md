@@ -8,7 +8,7 @@ description: ""
 
 <a href="https://go.gov.sg/prss2026handbook"><img src="/images/2026_Student_Handbook_Page_01.jpg"></a>
 
-Click the view the Student Handbook online or scan the QR code to access it on your device. 
+Click to view the Student Handbook online or scan the QR code to access it on your device. 
 
 The Student Handbook is also available in PDF format for offline viewing and download. 
 
