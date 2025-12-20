@@ -10,6 +10,8 @@ description: ""
 
 Click the view the Student Handbook online or scan the QR code to access it on your device. 
 
-The Student handbook is also available in PDF format for offline viewing and download. [here](/files/Useful%20Links/2026_Student_Handbook.pdf)
+The Student handbook is also available in PDF format for offline viewing and download. 
+
+[Student Handbook 2026](/files/Useful%20Links/2026_Student_Handbook.pdf)
 
 ![](/images/https___go_gov_sg_prss2026handbook.png)
