@@ -135,9 +135,7 @@ test to be successful in DSA.&nbsp;</p>
 <h4><strong>Centralised DSA-Sec Application Process</strong></h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025, 11am
-to 3 Jun 2025, 3pm. For more details, please refer to MOE website –&nbsp;
-<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
-</p>
+to 3 Jun 2025, 3pm.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Applicants will be notified of the outcome of the application by 4 Sep
@@ -170,12 +168,7 @@ final.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application through the centralised DSA-Sec Portal
-<br>Mainstream students:&nbsp;<a href="https://go.gov.sg/apply-dsa-sec" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
-<a rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a>Non-Mainstream Students:&nbsp;<a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
-</p>
+<p>Application through the centralised DSA-Sec Portal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7 May 2025, 11am – 3 Jun 2025, 3pm</p>
