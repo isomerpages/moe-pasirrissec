@@ -58,7 +58,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dean%20Lim.png">
 </div>
-<p><strong><a href="https://www.tnp.sg/news/singapore/singapore-poly-scholars-overcome-odds" rel="noopener noreferrer nofollow" target="_blank">Read the article on The new Paper</a></strong>
+<p><strong><a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/newpaper20190130-1" rel="noopener noreferrer nofollow" target="_blank">Read the article on eNLB</a></strong>
 </p>
 <h3><strong>Facing the Os together</strong></h3>
 <div class="isomer-image-wrapper">
