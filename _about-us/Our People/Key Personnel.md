@@ -38,6 +38,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Principal-Designate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wu Biwei, Ivan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:prss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">prss@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,10 +77,10 @@ variant: tiptap
 <p>Year Head Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Ashiq Mohamed Elia</p>
+<p>Mr Sim Chun Siang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_ashiq_mohamed_elia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_ashiq_mohamed_elia@moe.edu.sg</a>
+<p><a href="mailto:sim_chun_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_chun_siang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -101,10 +113,10 @@ variant: tiptap
 <p>HOD Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joshua Tan See Kuang</p>
+<p>Mr Ong Wei Jin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:joshua_tan_see_kuang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joshua_tan_see_kuang@moe.edu.sg</a>
+<p><a href="ong_wei_jin@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_wei_jin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -125,10 +137,10 @@ variant: tiptap
 <p>HOD Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Keng Yam</p>
+<p>Mdm Ho Shu Ying Connie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_keng_yam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_keng_yam@moe.edu.sg</a>
+<p><a href="shu_ying_ho@moe.edu.sg" rel="noopener nofollow" target="_blank">shu_ying_ho@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -177,18 +189,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:amir_hamzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amir_hamzah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD Student Development</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Sim Chun Siang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sim_chun_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_chun_siang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -302,13 +302,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Physical Education</p>
+<p>SH Student Well-being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andy Law</p>
+<p>Ms Sabrina Ho Yen Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:law_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_andy@moe.edu.sg</a>
+<p><a href="mailto:ho_yen_yin_sabrina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yen_yin_sabrina@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -347,18 +347,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LT History</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Mariamah Mohd Yusoff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mariamah_mohd_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mariamah_mohd_yusoff@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LT Geography</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -374,10 +362,10 @@ variant: tiptap
 <p>ST Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Mariam Bte Hashim</p>
+<p>Mr Winston Chiang Ming Yao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_mariam_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_mariam_hashim@moe.edu.sg</a>
+<p><a href="mailto:winston_chiang_ming_yao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">winston_chiang_ming_yao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
