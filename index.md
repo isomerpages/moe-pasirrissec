@@ -18,9 +18,9 @@ sections:
       variant: center
   - infobar:
       title: PRSS in the news regarding full SBB experience
-      subtitle: Announcement
+      subtitle: Announcements
       id: infobar
-      button: Click here to find out more
+      button: Click to find out more
       url: /achievements/In-The-News/
   - infopic:
       title: Sec 1 Registration 2026 Intake
