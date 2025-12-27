@@ -35,7 +35,6 @@ Learn To Play Games Enrichment Modules
 | -------- | -------- | -------- |
 | Physical Education  | Mr Amir Hamzah Bin Mohamed<br> HOD PE &amp; CCA | [amir_hamzah@moe.edu.sg](mailto:AMIR_HAMZAH@moe.edu.sg) |
 | Physical Education  | Mr Ow Kok Meng<br> HOD Strategic Partnership | [ow_kok_meng@moe.edu.sg](mailto:ow_kok_meng@moe.edu.sg) |
-| Physical Education | Mr Andy Law<br> SH PE &amp; CCA | [law_andy@moe.edu.sg](mailto:law_andy@moe.edu.sg) |
 | Physical Education  | Mr Abdul Halim Bin Mohamed Udori | [abdul_halim_mohamed_udori@moe.edu.sg](mailto:abdul_halim_mohamed_udori@moe.edu.sg)|
 | Physical Education  | Mr Yew Kah Keat Vincent| [yew_kah_keat_vincent@moe.edu.sg](mailto:yew_kah_keat_vincent@moe.edu.sg)|
 | Physical Education  | Mr Mohamed Iskandar Bin Ahmad | [mohamed_iskandar_ahmad@moe.edu.sg](mailto:mohamed_iskandar_ahmad@moe.edu.sg) |
