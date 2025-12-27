@@ -41,7 +41,7 @@ variant: tiptap
 <p>Principal-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wu Biwei, Ivan</p>
+<p>Mr Wu Biwei Ivan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:prss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">prss@moe.edu.sg</a>
