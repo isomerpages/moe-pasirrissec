@@ -35,14 +35,12 @@ The Mathematics curriculum is closely aligned to MOE defined syllabus and includ
 | Math / Additional Math| Ms Chew Shuhui Eunice <br>School Staff Developer | [chew_shuhui_eunice@moe.edu.sg](mailto:chew_shuhui_eunice@moe.edu.sg) |
 | Math | Mr Robert Lee Teck Hock <br> SH Mathematics | [lee_teck_hock_robert@moe.edu.sg](mailto:lee_teck_hock_robert@moe.edu.sg) |
 | Math / Computer Applications | Mr Chang Hock Boon <br>ST Mathematics | [chang_hock_boon@moe.edu.sg](mailto:chang_hock_boon@moe.edu.sg) |
-| Math / Additional Math | Mr Neo Chin Lee Albert | [neo_chin_lee@moe.edu.sg](mailto:neo_chin_lee@moe.edu.sg) |
 | Math / Additional Math | Mr Ng Boon Tiong Desmond | [ng_boon_tiong_a@moe.edu.sg](mailto:ng_boon_tiong_a@moe.edu.sg) |
 | Math / Computer Applications | Mr Cheng Song Fong | [cheng_song_fong@moe.edu.sg](mailto:cheng_song_fong@moe.edu.sg) |
 | Math / Additional Math / Computer Applications | Mr Chng Wei Min Daniel | [chng_wei_min_daniel@moe.edu.sg](mailto:chng_wei_min_daniel@moe.edu.sg) |
 | Math / Additional Math / Computer Applications | Mr Lee Kuan Wei Colin | [lee_kuan_wei@moe.edu.sg](mailto:ee_kuan_wei@moe.edu.sg) |
 | Math / Computer Applications | Mdm Sumrah Chuni | [sumrah_chuni@moe.edu.sg](mailto:sumrah_chuni@moe.edu.sg) |
 | Math / Additional Math / Physics | Mr Seong Then Yee | [seong_then_yee@moe.edu.sg](mailto:seong_then_yee@moe.edu.sg) |
-| Math / Chemistry | Mdm Zulaiha Osman | [zulaiha_osman@moe.edu.sg](mailto:zulaiha_osman@moe.edu.sg) |
 | Math | Mdm Yeong Wei Syn | [yeong_wei_syn@moe.edu.sg](mailto:yeong_wei_syn@moe.edu.sg)|
 | Maths / EBS | Mr Ernest Yeo | [yeo_yingcai_ernest@moe.edu.sg](mailto:yeo_yingcai_ernest@moe.edu.sg) |
 | Principles of Accounts / Math | Ms Ng Mei Ling | [ng_mei_ling@moe.edu.sg](mailto:ng_mei_ling@moe.edu.sg)|
