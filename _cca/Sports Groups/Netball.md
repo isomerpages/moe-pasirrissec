@@ -35,14 +35,14 @@ We are helping out our neighbouring Yumin Primary school to have friendly matche
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Monday | 3.30pm - 6.30pm | Upper ISH |
+| Monday | 3.30pm - 6.30pm | Lower ISH |
 | Friday | 1.30pm - 4.30pm | Upper ISH |
 
 ### **Teachers-in-charge**
 
-* Mdm Nadiah (IC)  
+* Mdm Nadiah (OIC)  
+* Ms Shayne Ong (2IC)
 * Ms Lee Wei Wei
-* Miss Shayne Ong
 
 ### **Coach**
 

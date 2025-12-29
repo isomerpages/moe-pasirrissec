@@ -32,23 +32,23 @@ Participated in National School Games - EZ "C" Division Basketball Tournament 20
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 3.00pm - 6.00pm | Parade Square |
-| Thursday | 3.00pm - 6.00pm | Lower ISH  |
+| Tuesday | 3.00pm - 6.00pm | Parade Square / Lower ISH |
+| Thursday | 3.00pm - 6.00pm | Lower ISH / Upper ISH |
 
 ##### **Girls Team**
 
 | Day  | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 3.00pm - 5.30pm  | Lower ISH |
-| Thursday | 3.00pm - 6.00pm | Parade Square |
+| Tuesday | 3.00pm - 5.30pm  | Parade Square / Lower ISH |
+| Thursday | 3.00pm - 6.00pm | Lower ISH / Upper ISH |
 
 ### **Teachers-in-charge**
 
 | Boys Team | Girls Team |
 | -------- | -------- | 
-| Mr Vincent Yew (IC)  | Ms Jaslin Jiang (IC) | 
+| Mr Vincent Yew (OIC)  | Ms Jaslin Jiang (OIC) | 
 | Mr Daniel Chng (2IC) | Ms Hairunisa Hosnin (2IC) | 
-| Mr Albert Neo  | Mdm Tan Sai Kee | 
+| Ms Khew Sing Eian | Ms Yeong Wei Syn | 
 
 
 ### **Coach**

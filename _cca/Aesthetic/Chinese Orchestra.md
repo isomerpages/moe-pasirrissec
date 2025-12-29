@@ -58,9 +58,8 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 * Mdm Siti Sarah (OIC) 
 * Ms Ng Mei Ling (2IC)
 * Mdm Ng Ai Hoon 
-* Mdm Yeong Wei Syn 
-* Ms Fam Hui Yuen
-* Ms Jin Beihua 
+* Mdm Jin Beihua
+* Mr Ong Ting Kai 
 
 #### **Conductor**
 Mr Chin Yen Choong

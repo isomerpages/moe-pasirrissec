@@ -35,15 +35,14 @@ At Tinkers Club, students learn about crafting and coding. As we live in an IT s
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Every Tuesday &amp; Even Thursday | 3.30pm - 5.30pm | Tinkers' Club Room/ PRSS Makerspace |
-| Odd Thursday (Online CCA) | 3.30pm - 5.30pm | Tinkers' Club Room/ PRSS Makerspace |
+| Every Tuesday &amp; Thursday | 3.30pm - 5.30pm | Tinkers' Club Room / D&amp;T Workshop 2 |
+
 
 ### **Teachers-in-charge**
 
-* Mr. Wilfred Teo (OIC)
-* Mr. Noor Rahman Saini  
-* Ms. Maryam Anuar
-* Mr. Mohd Ali Yunos (STEM Instructor)
+* Mr Wilfred Teo (OIC)
+* Ms Maryam Anuar (2IC)
+* Mr Noor Rahman Saini  
 
 ### **Photos / Videos**
 

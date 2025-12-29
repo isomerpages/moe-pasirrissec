@@ -29,8 +29,8 @@ Participation at the NSG and external competitions have provided our boys with a
 Addtional training Days for 2026
 Saturday 8.00am to 11.00am (E6 Cluster Floorball Development Programme)
 ### **Teacher-in-charge**
-* Mr Amir HMS (IC)
-* Mr Kevin Kok
+* Mr Amir HMS (OIC)
+* Mr Kevin Kok (2IC)
 
 ### **Coach**
 Mr Amir HMS

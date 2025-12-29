@@ -39,13 +39,14 @@ NSG Football Championships C Division League 1 (Top 8)
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday &amp; Thursday | 3.00pm - 5.30pm | Field |
+| Tuesday &amp; Thursday | 3.00pm - 5.30pm | Field / Parade Square |
 
 
 ### **Teachers-in-charge**
 
 * Mr Abdul Halim (OIC)
 * Mr Desmond Ng (2IC)
+* Mr Liu Shu Cun
 * Mr Robert Lee
 
 ### **Coach**

@@ -34,15 +34,18 @@ variant: markdown
 | Day | Time | Venue |
 | -------- | -------- | -------- |
 | Tuesday | 3.00pm - 6.00pm | Upper ISH |
-| Thursday | 3.00pm - 6.00pm | Upper ISH |
+| Thursday | 3.00pm - 6.00pm | Outdoor Volleyball Court |
 
 ### **Teachers-in-charge**
 
-Mdm Wang Xiang Kun (IC: Girls Team)<br>
-Mdm Liu Yang (2IC: Girls Team)<br>
-Mr Chang Hock Boon (IC: Boys Team)<br>
-Mr Andy Law<br>
-Mr Ow Kok Meng (Advisor)
+| Boys Team | Girls Team | 
+| -------- | -------- | 
+| Mr Chang Hock Boon (OIC) | Mdm Liu Yang (OIC) | 
+| Mdm Norhafizah Ma'arof (2IC) | Ms Nithiyaa Rajaratnam (2IC) | 
+| Mr Ow Kok Meng | Ms Carol Chua Huina | 
+
+
+
 
 ### **Coach**
 

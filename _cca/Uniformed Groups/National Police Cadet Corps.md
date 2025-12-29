@@ -102,12 +102,11 @@ UNIT OVERALL PROFICENCY AWARD - DISTINCTION
 
 ### **Teachers-in-charge**
 
-OC Unit: Mr Zachary Koh<br>
-DyOC Unit: Ms Kimberlyn Lee<br>
-Squad 1 TO: Mrs Karen Tan and Mr Seong Then Yee<br>
-Squad 2 TO: Ms Desiree Oh<br>
-Squad 3 TO: Ms Kimberlyn Lee<br>
-Squad 4 TO: Mr Zachary Koh<br>
+Ms Kimberlyn Lee (OIC)<br>
+Mr Zachary Koh (2IC)<br>
+Ms Desiree Oh Yi Ting<br>
+Mr Seong Then Yee<br>
+Mrs Karen Tan Jialin<br>
 
 ### **Photos / Videos**
 
