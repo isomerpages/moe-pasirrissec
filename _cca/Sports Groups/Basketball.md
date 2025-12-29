@@ -48,7 +48,7 @@ Participated in National School Games - EZ "C" Division Basketball Tournament 20
 | -------- | -------- | 
 | Mr Vincent Yew (IC)  | Ms Jaslin Jiang (IC) | 
 | Mr Daniel Chng (2IC) | Ms Hairunisa Hosnin (2IC) | 
-| Mr Albert Neo  | Mdm Tan Sai Kee | 
+| Ms Khew Sing Eian | Ms Yeong Wei Syn | 
 
 
 ### **Coach**
