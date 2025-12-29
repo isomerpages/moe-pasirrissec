@@ -47,11 +47,10 @@ The Concert Band, led by 2 well-respected conductors, has a dynamic programme to
 #### **Teachers-in-charge**
 
 * Mdm Anmilia Anwar Datt (OIC) 
-* Mdm. Zulaiha Osman (2IC) 
+* Ms Fam Hui Yuen (2IC)
 * Mr. Lokhman Haris 
 * Ms. Pearlyn Chia
-* Ms. Ong Ting Kai
-* Ms. Khew Sing Eian
+* Mdm Siti Mirna
 
 #### **Conductors**
 Mr Md Faizal Othman<br>
