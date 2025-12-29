@@ -27,9 +27,9 @@ We are also growing our Precision Drill Squad (PDS) starting in 2025, inviting i
 
 | NCC Boys | NCC Girls |
 | -------- | -------- | 
-| Mr Cheng Song Fong (IC)  | Mr Eric Koh (IC)| 
+| Mr Cheng Song Fong (OIC)  | Mr Eric Koh (OIC)| 
 | Mr Ernest Yeo (2IC)  | Ms Sabrina Ho (2IC) | 
-|   | Mdm Mabel Zhang Lingjia | 
+| Mdm Mabel Zhang Lingjia |  | 
 
 ### **Photos / Videos**
 
