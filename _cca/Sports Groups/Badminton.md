@@ -42,7 +42,7 @@ Both Dylan Tan (S3-T7) and Chan Kok Fung (S3-A2) achieved 2nd place and Silver m
 
 ### **Teachers-in-charge**
 
-* Mr Mohamed Iskandar Bin Ahmad (IC)
+* Mr Mohamed Iskandar Bin Ahmad (OIC)
 * Ms Mavis Ho Min Yu (2IC)
 * Ms Quah Wei Wee 
 
