@@ -34,7 +34,7 @@ variant: markdown
 | Day | Time | Venue |
 | -------- | -------- | -------- |
 | Tuesday | 3.00pm - 6.00pm | Upper ISH |
-| Thursday | 3.00pm - 6.00pm | Upper ISH |
+| Thursday | 3.00pm - 6.00pm | Outdoor Volleyball Court |
 
 ### **Teachers-in-charge**
 
