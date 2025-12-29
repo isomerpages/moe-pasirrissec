@@ -58,7 +58,6 @@ At the end of four years in Drama Club, students will become more confident, wel
 * Mdm. Shahilla Raj(OIC)
 * Ms. Jumiah Ahmad (2IC)
 
-
 ### **Instructor:**
 Mr. Ian Loy  
 
