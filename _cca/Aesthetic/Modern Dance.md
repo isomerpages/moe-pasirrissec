@@ -47,9 +47,9 @@ We have a busy schedule every year and we pride ourselves in presenting the best
 
 ### **Teachers-in-charge**
 
-* Mdm Fazidah Mohd Lias (IC)
-* Mdm Rubi’ah Massuan (2IC)
-* Ms Mindy Low Lixian
+* Mdm Fazidah Mohd Lias (OIC)
+* Ms Mindy Low Lixian (2IC)
+* Mdm Rubi’ah Massuan
 
 ##### **Choreographer:**
 Mr. Shahbirul Zaki 
