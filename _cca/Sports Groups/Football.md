@@ -39,7 +39,7 @@ NSG Football Championships C Division League 1 (Top 8)
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday &amp; Thursday | 3.00pm - 5.30pm | Field |
+| Tuesday &amp; Thursday | 3.00pm - 5.30pm | Field / Parade Square |
 
 
 ### **Teachers-in-charge**
