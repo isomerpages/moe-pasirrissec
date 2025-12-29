@@ -46,6 +46,7 @@ NSG Football Championships C Division League 1 (Top 8)
 
 * Mr Abdul Halim (OIC)
 * Mr Desmond Ng (2IC)
+* Liu Shu Cun
 * Mr Robert Lee
 
 ### **Coach**
