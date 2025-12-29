@@ -40,9 +40,9 @@ At Tinkers Club, students learn about crafting and coding. As we live in an IT s
 
 ### **Teachers-in-charge**
 
-* Mr. Wilfred Teo (OIC)
-* Ms. Maryam Anuar (2IC)
-* Mr. Noor Rahman Saini  
+* Mr Wilfred Teo (OIC)
+* Ms Maryam Anuar (2IC)
+* Mr Noor Rahman Saini  
 
 ### **Photos / Videos**
 
