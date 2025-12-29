@@ -41,11 +41,9 @@ Every year is an exciting year for PRSS Choir, with an array of meaningful activ
 
 ### **Teachers-in-charge**
 
-* Mr Omarali (OIC) 
-* Mdm Nazrene (2IC)
+* Mdm Nazrene (OIC) 
+* Mr Omarali (2IC)
 * Mdm Sumrah 
-* Mdm Siti Mirna 
-* Ms Fiona Chew
 
 **Conductor**<br>
 * Mr Terrence Toh
