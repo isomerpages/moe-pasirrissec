@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Timetable for 5 - 6 January 2026
+
+Please click [here](/files/5___6_Jan_2026_Timetable_Version_1___Class.pdf) to view the timetable for 5 - 6 January 2026. Level camps will be held from 7 - 9 January 2026.
+
 #### 2026 Uniform Sale and Booklist
 
 Please refer to the details [here](https://www.pasirrissec.moe.edu.sg/useful-links/information-for-parents/booklist/) for the uniform sale and 2026 booklist information.
