@@ -23,16 +23,6 @@ Please refer to the details [here](https://www.pasirrissec.moe.edu.sg/useful-lin
 We are pleased to share that the online edition of the school magazine, **Retrospect 2025**, is now available. Please click [here](https://go.gov.sg/prssretrospect2025) to view it.
 
 
-#### 2025 Check Script Timetable T4W5 13/10 - 17/10
-
-Please click [here](/files/2025_ChkScript_TT_Final___Class.pdf) to view the timetable for Sec 1 to Sec 3 classes.
-
-#### 2025 Term 4 Newsflash
-
-Welcome back to school!<br>
-We are pleased to share with you the school’s broad directions and key initiatives for Term 4.<br>
-Please click [here](/files/Newsflash_Term_4_2025.pdf) to view the Newsletter.<br>
-
 #### 40th Anniversary Celebration
 The school will be celebrating its 40th Anniversary on 23rd April 2025 with the theme *‘Kindness: Small Acts, Big Impact’* as we will be featuring 40 inspiring stories on acts of kindness gathered from students and staffs. 
 
