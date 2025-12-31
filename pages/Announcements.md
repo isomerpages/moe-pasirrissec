@@ -10,9 +10,6 @@ Welcome back to school and Happy 2026!<br>
 We are pleased to share with you the school’s broad directions and key initiatives for Term 1.<br>
 Please click [[here](/files/Newsflash_Term_1_2026.pdf)] to view the newsletter.<br>
 
-#### Timetable for 5 - 6 January 2026
-
-Please click [here](/files/5___6_Jan_2026_Timetable_Version_1___Class.pdf) to view the timetable for 5 - 6 January 2026. Level camps will be held from 7 - 9 January 2026.
 
 #### 2026 Uniform Sale and Booklist
 
