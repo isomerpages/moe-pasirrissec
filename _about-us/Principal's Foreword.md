@@ -4,28 +4,18 @@ permalink: /about-us/Principals-Foreword/
 description: ""
 variant: markdown
 ---
-<img src="/images/Mrs%20Chua.jpg" style="width:30%;float:left;margin-right:5%">
-		 
-         
+<img src="/images/About%20Us/Mr_Ivan_Wu.jpg" style="width:30%;float:left;margin-right:5%">
 
-A warm welcome to Pasir Ris Secondary School and congratulations on your child’s successful completion of Primary School.
+I see much to be grateful for as a new member of the Pasir Ris Secondary School (PRSS) family. Under the leadership of Mrs Grace Chua, coupled with the efforts of the PRSS team, it is evident that we have stayed true to our mission of inspiring lives, nurturing talents, and realising dreams. Over the past 40 years, cohorts of Pasirians have passed through our gates and emerged as more confident learners and caring individuals.
 
-A new chapter of your child’s life is about to begin and all of us are pleased that you have chosen PRSS for the next significant milestone in your child’s education.
+We now exist in a phase of greater geopolitical tensions coupled with disruptions brought about by accelerating technological advances. Now, more than ever, we must prepare our students as adaptive and resilient individuals, who believe that they have a responsibility in making our communities and nation thrive in the years to come.
 
-Here at Pasir Ris Secondary, we are committed to offer a conducive environment to bring out the best in all our students. As the first secondary school to be established in Tampines in 1985, we strive to provide quality learning and development opportunities to nurture confident learners, caring and resilient citizens, grounded on sound values and key principles of holistic education.&nbsp; In tandem with the evolving landscape and changing profiles of learners, our school has introduced 1-1 PLD (Personal Learning Device) since 2019 to nurture confident and self-directed digital learners who are able to connect, &nbsp;collaborate and contribute to the growth of learners.&nbsp; This will go a long way to prepare students well for the future of education, equipped with 21st Century Competencies and embrace lifelong learning.
+To this end, my team and I will stay the course of nurturing caring and resilient Pasirians. As educators, we will continue to sharpen our craft to provide a range of learning experiences to cater to the diverse interests and needs of our students. We aim to increase our students’ cultural appreciation and sense of rootedness via our music and the performing arts experiences. All students will be exposed to a variety of art forms, and students with greater interest and aptitude will be given more opportunities to extend their learning. In addition, we strive to strengthen our students’ sense of reality and nationhood via our overseas twinning programme with several Asian countries. We believe in the importance for our students to have an authentic platform to develop their cross-cultural skills to be better citizens.
 
-Over the years, we have been successful in nurturing our Pasirians to excel in both academic and co-curricular areas. Our key approach is to mould students’ character through designing and customising our programmes to help them cultivate the desired school values of Pride, Responsibility, Integrity, Zeal &amp; Empathy, build their socio-emotional competencies to navigate the complexities in adolescence and to realise their aspirations.
+It is important for us to build future skills in our students through the academic curriculum. We have integrated the use of technology in our teaching as a vehicle to develop the digital literacies of our students. Our teachers also model the way by experimenting with new methods to make teaching customised and engaging for students. We also provide interdisciplinary learning opportunities for our students to develop critical thinking and collaboration opportunities. To this end, we continue to provide our students with a range of learning opportunities to develop learning dispositions to pursue lifelong learning.
 
-We strongly believe that parents have a very important role to play in the education and development of our youths. Close partnership between the home and school is key to our students’ development and success.&nbsp; Our staff especially the Year Heads and Home Teachers will work hand-in-hand with you as I believe our collective wisdom will go a long way to help your child learn and grow. For a start, I seek your help to take an active interest in your child’s growth and ensure that he/she maintains good conduct at all times, attends school regularly and punctually and is engaged meaningfully after school hours.
+I am honoured to be part of the PRSS family. I invite you – parents, community partners, colleagues and Pasirians – to be part of the next phase of our journey of inspiring lives, nurturing talents and realising dreams so that we can contribute to a thriving Singapore of tomorrow.
 
-To be more involved in your child’s education, you may want to consider joining the Parent Support Group (PSG) or attend the parenting workshops to learn good parenting tips and interact with the school leaders and teachers at regular intervals to exchange views and knowledge of your child’s experiences at school.
+Serving with Pride &amp; Responsibility,
 
-We look forward to partner you in the growth and development of your child.
-
-Thank You and Best Wishes  
-
-  
-
-**Mrs. Grace Chua  
-Principal  
-Pasir Ris Secondary School**
+Ivan Wu
