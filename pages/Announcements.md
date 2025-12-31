@@ -8,7 +8,7 @@ variant: markdown
 
 Welcome back to school and Happy 2026!<br>
 We are pleased to share with you the school’s broad directions and key initiatives for Term 1.<br>
-Please click [[here](/files/Newsflash_Term_1_2026.pdf)] to view the newsletter.<br>
+Please click [here](/files/Newsflash_Term_1_2026.pdf) to view the newsletter.<br>
 
 
 #### 2026 Uniform Sale and Booklist
