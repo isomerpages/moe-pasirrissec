@@ -223,7 +223,7 @@ At upper secondary level, your child/ward will have to offer a set of compulsory
 		
 <ol><li>View instructions for online subject combination selection here.</li>
 <li>Submit your four subject combination options here.</li>
-<li>Parents need to acknowledge, by submitting a signed copy of the selected subject combinations here or via the QR code by Nov 2024.</li></ol>
+<li>Parents need to acknowledge, by submitting a signed copy of the selected subject combinations by Nov 2025.</li></ol>
 <br>
 		
 </div></li></ul>	
