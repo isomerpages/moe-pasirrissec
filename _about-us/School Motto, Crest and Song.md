@@ -27,7 +27,9 @@ It is the school’s aspiration to provide the best possible education for our s
 
 ## **School Song**
 
-Our school songs calls on Pasir Ris Secondary School students to take pride in ourselves, in our deeds, to be true and sincere and to give our best in our service to others.
+Our school song calls on Pasir Ris Secondary School students to take pride in ourselves, in our deeds, to be true and sincere and to give our best in our service to others.
+
+We must always sing our school song with pride and joy. It is the duty of every student to know and understand the meaning of the school song.
 
 <p align="center">
 With pride and joy let us sing <br>
