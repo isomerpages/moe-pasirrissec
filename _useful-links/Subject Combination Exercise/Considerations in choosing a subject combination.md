@@ -208,13 +208,13 @@ Please note that students who are keen to proceed to ITE can also consider parti
 		<label for="accordion4"><b>Step 4:</b> Select Subject Combinations which include the relevant elective subjects</label> <div name="back" id="back">
 
 At upper secondary level, your child/ward will have to offer a set of compulsory subjects. In addition to these, your child/ward may choose between 1-3 elective subjects. Based on the courses and prerequisite subjects shortlisted in Step 3, identify the relevant Subject Combinations.  You can click the links below to view the Subject Combinations available and find out more about the subjects.
-<br><br><a href="/list-of-subject-combinations.html#section-1">Sec 3 Express Subject Combinations for 2025</a><br>
+<br><br><a href="/list-of-subject-combinations.html#section-1">Sec 3 G3 Subject Combinations for 2026</a><br>
 <a href="/upper-secondary-express/">Information on Sec 3 Express Elective Subjects</a>
 <br><br>
-<a href="/list-of-subject-combinations.html#section-2">Sec 3 Normal (Academic) Combinations for 2025</a><br>
+<a href="/list-of-subject-combinations.html#section-2">Sec 3 G2 Subject Combination for 2026</a><br>
 <a href="/upper-secondary-normal-academic/">Information on Sec 3 Normal (Academic) Elective Subjects</a>
 <br><br> 
-<a href="/list-of-subject-combinations.html#section-3">Sec 3 Normal (Technical) Combinations for 2025</a><br>
+<a href="/list-of-subject-combinations.html#section-3">Sec 3 G1 Subject Combination for 2026</a><br>
 <a href="/upper-secondary-normal-technical/">Information on Sec 3 Normal (Technical) Elective Subjects</a>
  <br><br>
 		</div></li>
@@ -222,8 +222,8 @@ At upper secondary level, your child/ward will have to offer a set of compulsory
 		<label for="accordion5"><b>Step 5:</b> Submit online application (Links to be created nearer to the exercise)</label><div>
 		
 <ol><li>View instructions for online subject combination selection here.</li>
-<li>Submit your four subject combination options here.</li>
-<li>Parents need to acknowledge, by submitting a signed copy of the selected subject combinations by Nov 2025.</li></ol>
+<li>Submit your four subject combination options.</li>
+<li>Parents need to acknowledge, by submitting a signed copy of the selected subject combinations.</li></ol>
 <br>
 		
 </div></li></ul>	
