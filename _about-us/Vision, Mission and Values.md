@@ -8,17 +8,13 @@ variant: markdown
 <blockquote>
 <h4>Confident Learners, Caring &amp; Resilient Citizens</h4>
 </blockquote>
-<p>We want to nurture every Pasirian to become a:</p>
+<p>We want to nurture every Pasirian to become:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Confident Learner:</strong> One who is inquisitive, motivated,
-reflective,&nbsp;thinks critically, communicates effectively and owns his
-or her learning.</p>
+<p>One who cares deeply for his peers and the community and takes steps to contribute to a sustainable future.</p>
 </li>
 <li>
-<p><strong>Caring and Resilient Citizen:</strong> One who embraces challenges
-and has the moral courage to make a positive difference to the lives of
-others.</p>
+<p>One who embraces challenges and has the moral courage to make a positive difference to the lives of others.</p>
 <p></p>
 </li>
 </ul>
@@ -26,14 +22,7 @@ others.</p>
 <blockquote>
 <h4>Inspiring Lives, Nurturing Talents, Realising Dreams</h4>
 </blockquote>
-<p>We believe that every student can learn and grow. Teachers hold the key
-to unlock the hearts and minds of our students. It is therefore imperative
-for teachers to model the way for Pasirians, guide them to be anchored
-on core values and purpose, teach them the requisite skills and knowledge
-to be future-ready and develop their potential to the fullest so that they
-will have a zest for life, the passion to learn, the confidence to lead
-and the resilience to navigate the complexities in life to become the future
-of Singapore.</p>
+<p>We will lead, care and inspire all our students. We believe that every student is a gem, every student can learn and grow given the right support and guidance. We will help every student realise his potential and aspiration.</p>
 <h3><strong>School Core Values</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">

@@ -4,9 +4,7 @@ permalink: /useful-links/canteenadvertisement/
 description: ""
 variant: markdown
 ---
-#### CLOSED
-
-
+##### **Please note that applications for the school canteen are closed**.
 
 #### Application Procedure
 
