@@ -13,7 +13,7 @@ The School Advisory Committee (SAC) kicked off its 19th term of service with 8 m
 | Designation | Name |
 | -------- | -------- | 
 | CHAIRMAN	     | MR MOHAMMED RIDWAN BIN ABDUL KAHAR   
-|HON SECRETARY| MR IVAN WU 
+|HON SECRETARY| MRS GRACE CHUA
 |MEMBER|MR LIM KENG CHONG RICHARD
 |MEMBER|MDM JOANNA LIM
 |MEMBER|MDM HENSON STACIE ANNE HUI WEN
