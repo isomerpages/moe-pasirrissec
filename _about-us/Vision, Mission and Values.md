@@ -11,7 +11,7 @@ variant: markdown
 <p>We want to nurture every Pasirian to become:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>One who cares deeply for his peers and the community and takes steps to contribute to a sustainable future</p>
+<p>One who cares deeply for his peers and the community and takes steps to contribute to a sustainable future.</p>
 </li>
 <li>
 <p>One who embraces challenges and has the moral courage to make a positive difference to the lives of others.</p>
