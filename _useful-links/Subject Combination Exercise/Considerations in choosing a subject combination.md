@@ -221,7 +221,7 @@ At upper secondary level, your child/ward will have to offer a set of compulsory
 	<li><input type="checkbox" id="accordion5">  
 		<label for="accordion5"><b>Step 5:</b> Submit online application (Links to be created nearer to the exercise)</label><div>
 		
-<ol><li>View instructions for online subject combination selection here.</li>
+<ol><li>View instructions for online subject combination selection.</li>
 <li>Submit your four subject combination options.</li>
 <li>Parents need to acknowledge, by submitting a signed copy of the selected subject combinations.</li></ol>
 <br>
