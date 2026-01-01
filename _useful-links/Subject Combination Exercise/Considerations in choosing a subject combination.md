@@ -209,13 +209,13 @@ Please note that students who are keen to proceed to ITE can also consider parti
 
 At upper secondary level, your child/ward will have to offer a set of compulsory subjects. In addition to these, your child/ward may choose between 1-3 elective subjects. Based on the courses and prerequisite subjects shortlisted in Step 3, identify the relevant Subject Combinations.  You can click the links below to view the Subject Combinations available and find out more about the subjects.
 <br><br><a href="/list-of-subject-combinations.html#section-1">Sec 3 G3 Subject Combinations for 2026</a><br>
-<a href="/upper-secondary-g3/">Information on Sec 3 Express Elective Subjects</a>
+<a href="/upper-secondary-g3/">Information on Upper Secondary Elective Subjects G3</a>
 <br><br>
 <a href="/list-of-subject-combinations.html#section-2">Sec 3 G2 Subject Combination for 2026</a><br>
-<a href="/upper-secondary-g2/">Information on Sec 3 Normal (Academic) Elective Subjects</a>
+<a href="/upper-secondary-g2/">Information on Upper Secondary Elective Subjects G2</a>
 <br><br> 
 <a href="/list-of-subject-combinations.html#section-3">Sec 3 G1 Subject Combination for 2026</a><br>
-<a href="/upper-secondary-g1/">Information on Sec 3 Normal (Technical) Elective Subjects</a>
+<a href="/upper-secondary-g1/">Information on Upper Secondary Elective Subjects G1</a>
  <br><br>
 		</div></li>
 	<li><input type="checkbox" id="accordion5">  
