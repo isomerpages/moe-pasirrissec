@@ -39,7 +39,7 @@ To Pasir Ris right from the start <br><br>
 There's care and service we offer <br> 
 Give kindness to everyone and grudging to none  <br>
 These and other deeds to you we proffer  <br>
-Realizing the best from everyone  <br><br>
+Realising the best from everyone  <br><br>
 	<b>Chorus</b><br>	
 Have pride in self and concern for others  <br>
 But never from the good to stray away  <br><br>
