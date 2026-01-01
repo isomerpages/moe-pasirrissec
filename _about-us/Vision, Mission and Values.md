@@ -22,7 +22,7 @@ variant: markdown
 <blockquote>
 <h4>Inspiring Lives, Nurturing Talents, Realising Dreams</h4>
 </blockquote>
-<p>We will lead, care and inspire all our students. We believe that every student is a gem, every student can learn and grow given the right support and guidance. We will help every student realise his potential and aspiration</p>
+<p>We will lead, care and inspire all our students. We believe that every student is a gem, every student can learn and grow given the right support and guidance. We will help every student realise his potential and aspiration.</p>
 <h3><strong>School Core Values</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
