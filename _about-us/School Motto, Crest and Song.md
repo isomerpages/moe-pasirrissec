@@ -21,7 +21,7 @@ These virtues, like sails in the wind, will carry us forward to success and work
 
 #### **Yellow and Green**
   
-The school colours, *yellow and green*, represent the *freshness and enlightenment* a sound education provides. 
+The school colours, yellow and green, represent the freshness and enlightenment a sound education provides. 
 
 It is the school’s aspiration to provide the best possible education for our students to ensure that the future generations of Singapore citizens will show pride in their pursuits and shoulder their responsibilities with commitment and dedication.
 
