@@ -4,6 +4,11 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+
+#### Timetable for 5 - 6 January 2026
+
+Please click [here](/files/5_6_Jan_2026_Timetable_Version_2a___Class.pdf) to view the updated timetable (version 2a)  for 5 - 6 January 2026. Level camps will be held from 7 - 9 January 2026.
+
 #### 2026 Term 1 Newsflash
 
 Welcome back to school and Happy 2026!
