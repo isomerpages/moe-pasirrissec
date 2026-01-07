@@ -49,7 +49,7 @@ more information on MOE Sexuality Education.</p>
 </li>
 </ol>
 <hr>
-<h4><strong>OVERVIEW OF PASIR RIS SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
+<h4><strong>OVERVIEW OF PASIR RIS SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -91,9 +91,9 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
-<h4><strong>At Pasir Ris Secondary School, the following Sexuality Education lessons will be taught in <u>2025:</u></strong></h4>
+<h4><strong>At Pasir Ris Secondary School, the following Sexuality Education lessons will be taught in <u>2026:</u></strong></h4>
 <p></p>
-<h5><strong>2025 Sexuality Education Lessons in CCE</strong></h5>
+<h5><strong>2026 Sexuality Education Lessons in CCE</strong></h5>
 <p></p>
 <h4><strong>SECONDARY 1</strong></h4>
 <table style="minWidth: 125px">
@@ -789,7 +789,7 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<h4><strong>At Pasir Ris Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong></h4>
+<h4><strong>At Pasir Ris Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
