@@ -49,7 +49,7 @@ more information on MOE Sexuality Education.</p>
 </li>
 </ol>
 <hr>
-<h4><strong>OVERVIEW OF PASIR RIS SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
+<h4><strong>OVERVIEW OF PASIR RIS SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
