@@ -870,7 +870,7 @@ form is to be submitted by 31/01/2025.</p>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="https://form.gov.sg/695885ac443c721ff7137b05" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+at the start of the year and is also available <a href="https://form.gov.sg/695885ac443c721ff7137b05" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
 form is to be submitted by 23/01/2026.</p>
 </li>
 <li>
