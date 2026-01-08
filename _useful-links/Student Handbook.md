@@ -10,6 +10,5 @@ description: ""
 
 
 
-The Student Handbook is also available in PDF format for offline viewing and download. 
+Please click [here](/files/Useful%20Links/School_Handbook_2026.pdf) to download the Student Handbook.
 
-[PRSS Student Handbook 2026](/files/Useful%20Links/PRSS_Handbook_2026.pdf)
