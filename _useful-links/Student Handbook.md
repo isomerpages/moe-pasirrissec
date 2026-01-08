@@ -10,5 +10,4 @@ description: ""
 
 
 
-Please click [here](/files/Useful%20Links/School_Handbook_2026.pdf) to download the Student Handbook.
-
+Please click [here](/files/Useful%20Links/School_Handbook_2026.pdf) to view the Student Handbook.
