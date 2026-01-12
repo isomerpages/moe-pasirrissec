@@ -1,6 +1,6 @@
 ---
-title: Basketball
-permalink: /cca/Sports-and-Games/Basketball/
+title: Basketball (Boys & Girls)
+permalink: /cca/sports-and-games/basketball/
 description: ""
 third_nav_title: Sports Groups
 variant: markdown
@@ -25,6 +25,8 @@ Participated in National School Games - EZ "B" Division Basketball Tournament 20
 Participated in Whye Nam Cup U14 with the Boys team emerging 3rd for this inter-school tournament. 
 
 Participated in National School Games - EZ "C" Division Basketball Tournament 2022 with the Boys team emerging top 8 in the East zone. 
+
+### **Open to: All Students (Boys & Girls)**
 
 ### **Schedule**
 

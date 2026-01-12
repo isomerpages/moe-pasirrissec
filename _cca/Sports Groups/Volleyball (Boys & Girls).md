@@ -1,6 +1,6 @@
 ---
-title: Volleyball
-permalink: /cca/Sports-and-Games/Volleyball/
+title: Volleyball (Boys & Girls)
+permalink: /cca/sports-and-games/volleyball/
 description: ""
 third_nav_title: Sports Groups
 variant: markdown
@@ -19,6 +19,9 @@ variant: markdown
 
 *   Our ‘C’ Boys Volleyball team won the 3rd place in the East Zone National School Games in 2022
 *   Our ‘C’ Boys managed to compete in the East Zone National School Games (Nationals) in 2022
+
+### **Open to: All Students (Boys & Girls)**
+
 
 ### **Schedule**
 
@@ -43,8 +46,6 @@ variant: markdown
 | Mr Chang Hock Boon (OIC) | Mdm Liu Yang (OIC) | 
 | Mdm Norhafizah Ma'arof (2IC) | Ms Nithiyaa Rajaratnam (2IC) | 
 | Mr Ow Kok Meng | Ms Carol Chua Huina | 
-
-
 
 
 ### **Coach**

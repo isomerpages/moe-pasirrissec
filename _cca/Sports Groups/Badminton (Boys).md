@@ -1,6 +1,6 @@
 ---
-title: Badminton
-permalink: /cca/Sports-and-Games/Badminton/
+title: Badminton (Boys)
+permalink: /cca/sports-and-games/badminton/
 description: ""
 third_nav_title: Sports Groups
 variant: markdown
@@ -30,6 +30,8 @@ Participation in NSG 'B' Division Badminton Championships 2024 (East Zone)
 Both Dylan Tan (S3-T7) and Chan Kok Fung (S3-A2) achieved 2nd place and Silver medals at the Zendora Badminton League (Divisions 1 and 2 respectively) organised by UWCSEA East Badminton Academy. 
 
 2025 'C' Division Badminton team qualified for NSG League 3 and emerged top 8 in the competition.
+
+### **Open to: Boys only**
 
 ### **Schedule**
 
