@@ -35,6 +35,8 @@ PRSS Football is more than a CCA — it’s a family bound by respect, effort, a
 NSG Football Championships B Division League 1 (Top 16) 
 NSG Football Championships C Division League 1 (Top 8)
 
+### **Open to: Boys only**
+
 ### **Schedule**
 
 | Day | Time | Venue |
