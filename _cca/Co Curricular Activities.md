@@ -211,17 +211,17 @@ refer to the table below or select the respective CCA icons for more details.</p
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/Basketball/"><img style="width:85%;float:left" height="auto" width="100%" src="/images/basket.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/sports-and-games/basketball/"><img style="width:85%;float:left" height="auto" width="100%" src="/images/basket.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/Football/"><img style="width:85%;float:left" height="auto" width="100%" src="/images/football.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/sports-and-games/football/"><img style="width:85%;float:left" height="auto" width="100%" src="/images/football.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/Netball/"><img style="width:85%;float:left" height="auto" width="100%" src="/images/netball.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/sports-and-games/netball/"><img style="width:85%;float:left" height="auto" width="100%" src="/images/netball.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/Volleyball/"><img style="width:85%;float:left" height="auto" width="100%" src="/images/volleyb.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/sports-and-games/volleyball/"><img style="width:85%;float:left" height="auto" width="100%" src="/images/volleyb.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/Badminton/"><img style="width:85%;float:left" height="auto" width="100%" src="/images/badminton.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/sports-and-games/badminton/"><img style="width:85%;float:left" height="auto" width="100%" src="/images/badminton.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/sports-groups/floorball/"><img style="width:85%;float:left" height="auto" width="100%" src="/images/Floorball.png"></a>
 </td>
