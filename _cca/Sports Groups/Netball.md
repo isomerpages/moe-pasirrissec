@@ -31,7 +31,7 @@ Besides the annual NSG for B and C Division, we are also participating in the Sc
 
 We are helping out our neighbouring Yumin Primary school to have friendly matches with their upper primary team to condition them for their NSG. By doing so we are also indirectly talent spotting for our future team.
 
-### **Open to:  Girls only**
+### **Open to: Girls only**
 
 ### **Schedule**
 
