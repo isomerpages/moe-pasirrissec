@@ -31,6 +31,8 @@ Both Dylan Tan (S3-T7) and Chan Kok Fung (S3-A2) achieved 2nd place and Silver m
 
 2025 'C' Division Badminton team qualified for NSG League 3 and emerged top 8 in the competition.
 
+### **Open to: Boys only**
+
 ### **Schedule**
 
 | Training Days | Time | Venue |
