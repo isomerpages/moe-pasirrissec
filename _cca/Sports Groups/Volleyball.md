@@ -21,7 +21,7 @@ variant: markdown
 *   Our ‘C’ Boys managed to compete in the East Zone National School Games (Nationals) in 2022
 
 ### **Open to**
-All Students / Boys Team / Girls Team
+All Students ( Boys Team / Girls Team)
 
 ### **Schedule**
 
