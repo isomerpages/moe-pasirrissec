@@ -26,6 +26,8 @@ Participated in Whye Nam Cup U14 with the Boys team emerging 3rd for this inter-
 
 Participated in National School Games - EZ "C" Division Basketball Tournament 2022 with the Boys team emerging top 8 in the East zone. 
 
+### **Open to: All Students (Boys & Girls)**
+
 ### **Schedule**
 
 ##### **Boys Team**
