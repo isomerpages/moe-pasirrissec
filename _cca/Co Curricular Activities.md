@@ -78,7 +78,7 @@ Please refer to the individual CCA pages for more information.</p>
 <p>Basketball (Boys &amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NCC</p>
+<p>National Cadet Corps (NCC)</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ Please refer to the individual CCA pages for more information.</p>
 <p>Volleyball (Boys &amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NPCC</p>
+<p>National Police Cadet Corps (NPCC)</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ Please refer to the individual CCA pages for more information.</p>
 <p>Badminton (Boys only)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NCDCC</p>
+<p>National Civil Defence Cadet Corps (NCDCC)</p>
 </td>
 </tr>
 <tr>
