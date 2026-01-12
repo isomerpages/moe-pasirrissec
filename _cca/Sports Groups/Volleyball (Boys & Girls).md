@@ -20,8 +20,8 @@ variant: markdown
 *   Our ‘C’ Boys Volleyball team won the 3rd place in the East Zone National School Games in 2022
 *   Our ‘C’ Boys managed to compete in the East Zone National School Games (Nationals) in 2022
 
-### **Open to**
-All Students ( Boys Team / Girls Team)
+### **Open to: All Students (Boys Team / Girls Team)**
+
 
 ### **Schedule**
 
