@@ -44,7 +44,7 @@ approved by HOD PE/CCA.</p>
 <h4><strong>Below are the Co-Curricular Activities (CCAs) offered at Pasir Ris Secondary School:</strong><br></h4>
 <p>Most CCAs are open to all students, while a few are gender-specific. For
 more details, please refer to the table below or select the respective
-CCA icons for details.</p>
+CCA icons.</p>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
