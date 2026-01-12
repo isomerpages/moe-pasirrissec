@@ -19,6 +19,8 @@ We participatied at the U14 Pesta Sukan Floorball Challenge (Quarter-Finals) and
 We also grew as a team through our participation at the  U16 Youth Floorball League (November, December 2024).
 Participation at the NSG and external competitions have provided our boys with a holistic CCA experience.
 
+### **Open to: Boys only**
+
 ### **Schedule**
 
 | Day | Time | Venue |
@@ -28,6 +30,7 @@ Participation at the NSG and external competitions have provided our boys with a
 
 Addtional training Days for 2026
 Saturday 8.00am to 11.00am (E6 Cluster Floorball Development Programme)
+
 ### **Teacher-in-charge**
 * Mr Amir HMS (OIC)
 * Mr Kevin Kok (2IC)
