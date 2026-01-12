@@ -42,9 +42,9 @@ to medical reasons. In this case, the LEAPs 2.0 points will not be affected.</p>
 <p>Students may participate in more than one CCA on a case by case basis
 approved by HOD PE/CCA.</p>
 <h4><strong>Below are the Co-Curricular Activities (CCAs) offered at Pasir Ris Secondary School:</strong><br></h4>
-<p>Most CCAs are open to all students (boys and girls). Some CCAs are gender-specific.
-You may refer to the table below or select the respective CCA icons for
-detailed information.</p>
+<p>Most CCAs are open to all students, while a few are gender-specific. For
+more details, please refer to the table below or select the respective
+CCA icons for details.</p>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
