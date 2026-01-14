@@ -4,13 +4,21 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### GCE O-Level Results Briefing Slides
+
+We congratulate our Secondary 4 and 5 students on the release of their GCE O-Level Examination Results, and extend our appreciation to our teachers and parents for their unwavering support.
+
+Please click [here](/files/For_Website__Release_of_2025_GCE_O_Level_Results.pdf) to view the presentation slides from the results release.
+
+We wish our students every success as they embark on the next phase of their learning journey.
+
 #### Release of 2025 GCE O-Level Examination Results
 
 Dear Students and Parents/Guardians of the 2025 Graduating Cohort,
 
-The **2025 GCE O-Level Examination Results** will be released on **14 January 2026 (Wednesday) at 2.00 pm**.
+The 2025 GCE O-Level Examination Results will be released on **14 January 2026 (Wednesday) at 2.00 pm**.
 
-All **4Exp and 5NA students** are encouraged to return to school to collect their results. A briefing on **post-secondary application options** will be conducted after the release of results.  
+All 4Exp and 5NA students are encouraged to return to school to collect their results. A briefing on post-secondary application options will be conducted after the release of results.  
 
 Parents/Guardians are welcome to accompany their child/ward.
 
