@@ -8,9 +8,9 @@ variant: markdown
 
 Dear Students and Parents/Guardians of the 2025 Graduating Cohort,
 
-The **2025 GCE O-Level Examination Results** will be released on **14 January 2026 (Wednesday) at 2.00 pm**.
+The 2025 GCE O-Level Examination Results will be released on **14 January 2026 (Wednesday) at 2.00 pm**.
 
-All **4Exp and 5NA students** are encouraged to return to school to collect their results. A briefing on **post-secondary application options** will be conducted after the release of results.  
+All 4Exp and 5NA students are encouraged to return to school to collect their results. A briefing on post-secondary application options will be conducted after the release of results.  
 
 Parents/Guardians are welcome to accompany their child/ward.
 
