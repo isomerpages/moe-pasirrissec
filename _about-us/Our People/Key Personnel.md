@@ -125,7 +125,7 @@ variant: tiptap
 <p>HOD Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ho Shu Ying Connie</p>
+<p>Ms Ho Shu Ying Connie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="shu_ying_ho@moe.edu.sg" rel="noopener nofollow" target="_blank">shu_ying_ho@moe.edu.sg</a>
