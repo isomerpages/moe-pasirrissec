@@ -6,9 +6,9 @@ variant: markdown
 ---
 #### Timetable for Term 1 2026 (Updated 16/1/2026)
 
-Please click  to view Term 1 2026 timetable for secondary 1 &amp; 2 classes.
+Please click [here](/files/2026_T1_TT_FOR_LS_WEF_19_JAN_FINAL_A.pdf) to view Term 1 2026 timetable for secondary 1 &amp; 2 classes.
 
-Please click  to view Term 1 2026 timetable for secondary 3, 4 &amp; 5 classes.
+Please click [here](/files/2026_T1_TT_FOR_US_WEF_19_JAN_FINAL_A.pdf) to view Term 1 2026 timetable for secondary 3, 4 &amp; 5 classes.
 
 
 #### GCE O-Level Results Briefing Slides
