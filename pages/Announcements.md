@@ -4,6 +4,13 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Timetable for Term 1 2026 (Updated 16/1/2026)
+
+Please click  to view Term 1 2026 timetable for secondary 1 &amp; 2 classes.
+
+Please click [here](/files/2026_T1_TT_wef_12_JAN_FINAL_FOR_US_CLASSES.pdf) to view Term 1 2026 timetable for secondary 3, 4 &amp; 5 classes.
+
+
 #### GCE O-Level Results Briefing Slides
 
 We congratulate our Secondary 4 and 5 students on the release of their GCE O-Level Examination Results and extend our appreciation to our teachers and parents for their unwavering support.
@@ -42,15 +49,6 @@ Students who are unable to return to school on **14 January 2026** to collect th
 
 We wish all our students every success in their future endeavors.
 
-
-
-
-
-#### Timetable for Term 1 2026
-
-Please click [here](/files/2026_T1_TT_wef_12_JAN_FINAL_FOR_LS_CLASSES.pdf) to view Term 1 2026 timetable for secondary 1 &amp; 2 classes.
-
-Please click [here](/files/2026_T1_TT_wef_12_JAN_FINAL_FOR_US_CLASSES.pdf) to view Term 1 2026 timetable for secondary 3, 4 &amp; 5 classes.
 
 #### 2026 Term 1 Newsflash
 
