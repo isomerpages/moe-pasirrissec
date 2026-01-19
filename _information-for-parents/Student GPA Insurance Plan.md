@@ -16,4 +16,4 @@ The GPA Insurance covers each student when that student is:
 
 All student accident insurance claims submission are to be submitted electronically. 
 
-Parents/students are to submit their claims online and check the claims status through the online [Student GPA Insurance](https://www.income.com.sg/studentgpa) portal.
+Parents/students are to submit their claims online and check the claims status through the online [Student GPA Insurance](https://www.income.com.sg/claims/group-personal-accident-for-students-claim) portal.
