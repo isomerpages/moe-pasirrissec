@@ -28,6 +28,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>21 Mar 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3, 4 &amp; 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parent Engagement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>10 Oct 2025</p>
 </td>
 <td rowspan="1" colspan="1">
