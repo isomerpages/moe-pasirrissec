@@ -4,19 +4,19 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### Secondary 1 Parent Engagement Slides
+#### Secondary 1 Parent Engagement 
 
 Please click the link below to view the presentation slides from the Parent Engagement session held on **Friday, 9 January 2026.**
 
 [Sec 1 Parent Engagement](/files/2026_Sec_1_Parent_Engagement_9_Jan___compressed.pdf)<br>
-[PDLP Parent Engagement](/files/2026_PDLP_Parent_Engagement_Deck__For_9_Jan_2026__updated.pdf)
+[Sec 1 PDLP Parent Engagement](/files/2026_PDLP_Parent_Engagement_Deck__For_9_Jan_2026__updated.pdf)
 
 
 #### Timetable for Term 1 2026 (Updated 16/1/2026)
 
-Please click [here](/files/2026_T1_TT_FOR_LS_WEF_19_JAN_FINAL_A.pdf) to view Term 1 2026 timetable for secondary 1 &amp; 2 classes.
+Please click [here](/files/2026_T1_TT_FOR_LS_WEF_19_JAN_FINAL_A.pdf) to view Term 1 2026 Timetable for Secondary 1 &amp; 2 classes.
 
-Please click [here](/files/2026_T1_TT_FOR_US_WEF_19_JAN_FINAL_A.pdf) to view Term 1 2026 timetable for secondary 3, 4 &amp; 5 classes.
+Please click [here](/files/2026_T1_TT_FOR_US_WEF_19_JAN_FINAL_A.pdf) to view Term 1 2026 Timetable for Secondary 3, 4 &amp; 5 classes.
 
 
 #### GCE O-Level Results Briefing Slides
