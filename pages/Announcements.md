@@ -4,6 +4,11 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Blended Learning Timetable for Semester 1 2026
+
+Please click [here](/files/2026_Sem1_BL_TT_V1a_Class.pdf) to view Semester 1 2026 Blended Learning Timetable.
+
+
 #### Secondary 1 Parent Engagement 
 
 Please click the link below to view the presentation slides from the Parent Engagement session held on **Friday, 9 January 2026.**
