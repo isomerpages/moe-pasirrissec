@@ -28,13 +28,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Wednesday, 21 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Parents’ Engagement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Information for Parents/Sec_3_Parents_Engagement_2026_compressed.pdf" rel="noopener nofollow" target="_blank">Sec 3 Parents Engagement 2026 Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Friday, 9 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Parent Engagement</p>
+<p>Sec 1 Parents' Engagement</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2026_Sec_1_Parent_Engagement_9_Jan___compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Parent Engagement Slides</a>
