@@ -4,12 +4,22 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Sec 4 &amp; 5 Parents’ Engagement Session 
+
+Please click to view the presentation slides for [Sec 4/5 Parents’ Engagement Session (21 Jan 2026)](/files/Information%20for%20Parents/Sec_4_and_5_Parents_Engagement_2026_compressed.pdf)
+
+
+#### Sec 3 Parents’ Engagement Session 
+
+Please click to view the presentation slides for [Sec 3 Parents’ Engagement Session (21 Jan 2026)](/files/Information%20for%20Parents/Sec_3_Parents_Engagement_2026_compressed.pdf)
+
+
 #### Blended Learning Timetable for Semester 1 2026
 
 Please click [here](/files/2026_Sem1_BL_TT_V1a_Class.pdf) to view Semester 1 2026 Blended Learning Timetable.
 
 
-#### Secondary 1 Parent Engagement 
+#### Sec 1 Parents' Engagement Session
 
 Please click the link below to view the presentation slides from the Parent Engagement session held on **Friday, 9 January 2026.**
 
