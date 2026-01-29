@@ -6,8 +6,6 @@ description: ""
 ---
 #### PRSS Student Handbook 2026 
 
-<a href="https://go.gov.sg/prss2026handbook"><img src="/images/2026_Student_Handbook_Page_01.jpg"></a>
+<a href="https://online.fliphtml5.com/yhdnr/Student-Handbook-2026_29Jan/#p=3"><img src="/images/2026_Student_Handbook_Page_01.jpg"></a>
 
-
-
-Please click [here](/files/Useful%20Links/School_Handbook_2026.pdf) to view the Student Handbook.
+Please click [here](/files/Useful%20Links/Student_Handbook_2026_29Jan.pdf) to view the Student Handbook.
