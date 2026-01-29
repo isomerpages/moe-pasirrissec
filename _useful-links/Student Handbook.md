@@ -4,7 +4,7 @@ permalink: /student-handbook/
 variant: markdown
 description: ""
 ---
-#### PRSS 2026 Student Handbook 
+#### PRSS Student Handbook 2026
 
 <a href="https://online.fliphtml5.com/yhdnr/Student-Handbook-2026_29Jan/#p=3"><img src="/images/2026_Student_Handbook_Page_01.jpg"></a>
 
