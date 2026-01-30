@@ -4,6 +4,12 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Sec 2 Parents’ Engagement Session 
+
+Please click to view the presentation slides for 
+
+[Sec 2 Parents' Engagement Session (28 Jan 2026) ](/files/School_Website__Sec_2_Parent_Engagement_Slide_Deck.pdf)
+
 #### Sec 4 &amp; 5 Parents’ Engagement Session 
 
 Please click to view the presentation slides for 
