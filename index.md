@@ -32,15 +32,6 @@ sections:
       url: https://www.pasirrissec.moe.edu.sg/2026-secondary-1-registration/
       description: We warmly welcome our incoming Sec 1 students and parents.
   - infopic:
-      title: PRSS Open House 2025
-      subtitle: EVENTS
-      id: infopic
-      description: Experience the Pasirian spirit. Join us at our Open House 2025!
-      image: /images/Open_House_Nov_2025_Poster.jpg
-      alt: Image alt text
-      url: /openhouse2025/
-      button: Find out more
-  - infopic:
       title: PRSS Campus Tour
       description: Take a virtual stroll through our school with the interactive 360° tour.
       button: Campus Tour
