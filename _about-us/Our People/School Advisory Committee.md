@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### **School Advisory Committee**
 
-The School Advisory Committee (SAC) is a key partner of the school whose sole objective is serving the school in their areas of expertise. Over the years, many of them have not only contributed their ideas generously but have been most forthcoming in providing opportunities for our Pasirians to work with the community at large, thereby enriching their education and nurturing the whole child. We are indeed grateful for the services of the following members::
+The School Advisory Committee (SAC) is a key partner of the school whose sole objective is serving the school in their areas of expertise. Over the years, many of them have not only contributed their ideas generously but have been most forthcoming in providing opportunities for our Pasirians to work with the community at large, thereby enriching their education and nurturing the whole child. We are indeed grateful for the services of the following members:
 
 
 | Designation | Name |
