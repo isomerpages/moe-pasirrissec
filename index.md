@@ -24,7 +24,7 @@ sections:
       url: /achievements/In-The-News/
   - infopic:
       title: Sec 1 Registration 2026 Intake
-      subtitle: ANNOUNCEMENTS
+      subtitle: EVENTS
       id: infopic
       button: Find Out More
       image: /images/Homepage/Welcome_Page_2026.png
