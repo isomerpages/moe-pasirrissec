@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/Homepage/Homepage.gif
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: /Announcements
         - title: Information for Parents
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
+        - title: Sec 1 Registration 2026 Intake
+          description: ""
+          url: /2026-secondary-1-registration/
       variant: center
   - resources:
       title: Announcements and Media
