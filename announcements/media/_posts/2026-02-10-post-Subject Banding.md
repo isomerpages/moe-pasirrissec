@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+#### **Our staff and students were featured in the news regarding their school experiences with the implementation of full SBB on 8 Jan 2025**
+
 **Click [here](https://youtu.be/bTGMBlxhyNc) to watch the video by Channel 5 News.**
 
 **Click [here](https://youtu.be/OyifjH2KOWA) to watch the video by Channel News Asia.**
