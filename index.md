@@ -39,8 +39,4 @@ sections:
       image: /images/E Open house/2023 campus tour (resized).png
       alt: PRSS Campus Tour
       subtitle: TOUR
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
 ---
