@@ -16,12 +16,10 @@ sections:
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
       variant: center
-  - infobar:
-      title: PRSS in the news regarding full SBB experience
-      subtitle: Announcements
-      id: infobar
-      button: Click to find out more
-      url: /achievements/In-The-News/
+  - resources:
+      title: Announcements and Media
+      id: resources
+      button: Click to view more
   - infopic:
       title: Sec 1 Registration 2026 Intake
       id: infopic
@@ -38,8 +36,4 @@ sections:
       image: /images/E Open house/2023 campus tour (resized).png
       alt: PRSS Campus Tour
       subtitle: TOUR
-  - resources:
-      title: Announcements and Media
-      id: resources
-      button: Click to view more
 ---
