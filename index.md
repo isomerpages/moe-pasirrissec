@@ -39,20 +39,4 @@ sections:
       image: /images/E Open house/2023 campus tour (resized).png
       alt: PRSS Campus Tour
       subtitle: TOUR
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: Our School Magazine, Retrospect 2025, is now available online
-          date: 10 February 2026
-          announcement: We are pleased to share that the online edition of the school
-            magazine, Retrospect 2025, is now available. Please click here to
-            view it.
-          link_text: ""
-          link_url: ""
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
 ---
