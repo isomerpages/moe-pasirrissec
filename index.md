@@ -39,7 +39,7 @@ sections:
       alt: PRSS Campus Tour
       subtitle: TOUR
   - resources:
-      title: Announcements & Media
+      title: News and Announcements
       id: resources
       button: Click to view more
 ---
