@@ -9,22 +9,19 @@ sections:
   - hero:
       background: /images/Homepage/Homepage.gif
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: /Announcements
         - title: Information for Parents
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
+        - title: Sec 1 Registration 2026
+          description: ""
+          url: /2026-secondary-1-registration/
       variant: center
-  - infobar:
-      title: PRSS in the news regarding full SBB experience
-      subtitle: Announcements
-      id: infobar
-      button: Click to find out more
-      url: /achievements/In-The-News/
+  - resources:
+      title: Announcements and Media
+      id: resources
+      button: Click to view more
   - infopic:
       title: Sec 1 Registration 2026 Intake
-      subtitle: ANNOUNCEMENTS
       id: infopic
       button: Find Out More
       image: /images/Homepage/Welcome_Page_2026.png
