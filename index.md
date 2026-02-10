@@ -12,7 +12,7 @@ sections:
         - title: Information for Parents
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
-        - title: Sec 1 Registration 2026 Intake
+        - title: Sec 1 Registration 2026
           description: ""
           url: /2026-secondary-1-registration/
       variant: center
