@@ -19,7 +19,7 @@ sections:
   - resources:
       title: Announcements and Media
       id: resources
-      button: Click to view more
+      button: view all announcements
   - infopic:
       title: Sec 1 Registration 2026 Intake
       id: infopic
