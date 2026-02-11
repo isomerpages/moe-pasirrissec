@@ -7,5 +7,5 @@ description: ""
 image: ""
 variant: markdown
 ---
-Please click to view the briefing slides for
+Please click to view the presentation slides for
 [Sec 3 Parents’ Engagement Session](/files/Information%20for%20Parents/Sec_3_Parents_Engagement_2026_compressed.pdf) held on Wednesday, 21 January 2026.
