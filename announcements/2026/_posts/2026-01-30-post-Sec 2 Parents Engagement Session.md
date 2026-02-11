@@ -7,6 +7,4 @@ description: ""
 image: ""
 variant: markdown
 ---
-Please click to view the briefing slides for the Sec 2 Parents’ Engagement Session held on Wednesday, 28 January 2026.
-
-[Sec 2 Parents’ Engagement Session Slides](/files/Information%20for%20Parents/School_Website__Sec_2_Parent_Engagement_Slide_Deck.pdf)
+Please click to view the presentation slides for [Sec 2 Parents’ Engagement Session](/files/Information%20for%20Parents/School_Website__Sec_2_Parent_Engagement_Slide_Deck.pdf) held on Wednesday, 28 January 2026.
