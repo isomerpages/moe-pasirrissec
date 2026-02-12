@@ -11,4 +11,4 @@ variant: markdown
 
 We are pleased to share with you the school’s broad directions and key initiatives for Term 1.
 
-Please click [here](/files/Newsflash_Term_1_2026.pdf) to view the newsletter.
+Please click [here](/files/Newsflash_Term_1_2026.pdf) to view our PRSS newsletter.

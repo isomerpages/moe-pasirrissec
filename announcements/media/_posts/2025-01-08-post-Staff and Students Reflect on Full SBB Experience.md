@@ -1,6 +1,6 @@
 ---
-title: "In the News: Staff and Students Reflect on Full SBB Experience"
-permalink: /in-the-news-staff-and-students-reflect-on-full-sbb-experience/
+title: Staff and Students Reflect on Full SBB Experience
+permalink: /staff-and-students-reflect-on-full-sbb-experience/
 date: 2025-01-08
 layout: post
 description: ""
