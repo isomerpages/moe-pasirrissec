@@ -21,14 +21,6 @@ sections:
       id: resources
       button: view all announcements
   - infopic:
-      title: Sec 1 Registration 2026 Intake
-      id: infopic
-      button: Find Out More
-      image: /images/Homepage/Welcome_Page_2026.png
-      alt: Image alt text
-      url: https://www.pasirrissec.moe.edu.sg/2026-secondary-1-registration/
-      description: We warmly welcome our incoming Sec 1 students and parents.
-  - infopic:
       title: PRSS Campus Tour
       description: Take a virtual stroll through our school with the interactive 360° tour.
       button: Campus Tour
