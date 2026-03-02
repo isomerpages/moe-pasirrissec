@@ -17,7 +17,7 @@ sections:
           url: /2026-secondary-1-registration/
       variant: center
   - resources:
-      title: Announcements and Media
+      title: Latest Announcements
       id: resources
       button: More
   - infopic:
