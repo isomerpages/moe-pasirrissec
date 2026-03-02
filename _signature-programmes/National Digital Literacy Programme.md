@@ -26,12 +26,12 @@ components of the NDLP is the introduction of the<strong> Personalised Digital L
 all secondary school students, whereby every secondary school student will
 own a school-prescribed computing device or Personal Learning Device (PLD)
 by end-2021.</p>
-<p>The Personal Learning Device (PLD) will be used in tandem with the national
-e-learning platform – the Singapore Student Learning Space (SLS) – as well
-as other educational technology to personalise and enhance students’ learning.
-This will also better enable students to acquire digital skills and apply
-these skills as they navigate an increasingly digitalised world. Students
-will also acquire digital literacy in the four components of <strong>MOE Digital Literacy Framework</strong>:</p>
+<p>The PLD will be used in tandem with the national e-learning platform –
+the Singapore Student Learning Space (SLS) – as well as other educational
+technology to personalise and enhance students’ learning. This will also
+better enable students to acquire digital skills and apply these skills
+as they navigate an increasingly digitalised world. Students will also
+acquire digital literacy in the four components of <strong>MOE Digital Literacy Framework</strong>:</p>
 <a class="isomer-image-wrapper" href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan/digital-literacy-and-technological-skills">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Signature%20Programmes/MOE_Digital_Literacy_Framework.png">
 </a>
@@ -71,7 +71,7 @@ warranty and other relevant matters.</p>
 <p>For PLD purchased in 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Signature programmes/NDLP/DR4a___Student_Device_Information_Kit_2026__Acer__updated.pdf" rel="noopener nofollow" target="_blank">Student Device Information Kit</a>
+<p><a href="/files/Signature programmes/NDLP/DR4a___Student_Device_Information_Kit_2026_Updated_24_Feb_26.pdf" rel="noopener nofollow" target="_blank">Student Device Information Kit</a>
 </p>
 </td>
 </tr>
@@ -117,6 +117,6 @@ are available for students that are on financial assistance schemes.</p>
 <p>Students, including permanent residents (PR) and international students
 (IS), that need additional support should approach the General Office for
 more information on financial assistance.</p>
-<h4><strong>The Acceptable Use Policy (AUP)</strong></h4>
+<h4><strong>The Acceptable Use Policy</strong></h4>
 <p><a href="/files/Signature programmes/NDLP/Acceptable_Use_Policy__AUP__Revised_2025_PRSS_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Acceptable Use Policy (AUP) for use of EdTech Resources</a>
 </p>
