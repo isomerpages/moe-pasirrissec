@@ -19,7 +19,7 @@ sections:
   - resources:
       title: Announcements and Media
       id: resources
-      button: view all announcements
+      button: More
   - infopic:
       title: PRSS Campus Tour
       description: Take a virtual stroll through our school with the interactive 360° tour.
