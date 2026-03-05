@@ -784,6 +784,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4T7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lokhman Haris Abdul Karem</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lokhman_haris_abdul_karem@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lokhman_haris_abdul_karem@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><strong>Secondary 5</strong></h3>
