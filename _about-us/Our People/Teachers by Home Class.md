@@ -789,7 +789,7 @@ variant: tiptap
 <p>4T7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lokhman Haris Abdul Karem</p>
+<p>LOKHMAN HARIS ABDUL KAREM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lokhman_haris_abdul_karem@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lokhman_haris_abdul_karem@moe.edu.sg</a>
