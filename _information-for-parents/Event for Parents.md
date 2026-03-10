@@ -28,6 +28,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Friday, 06 March 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 OAL Camp 2026 Briefing for Parents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Information for Parents/Sec_1_OAL_Camp_2026_Briefing_for_Parents_compressed.pdf" rel="noopener nofollow" target="_blank">Sec 1 OAL Camp 2026 Briefing for Parents Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Wednesday, 28 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
