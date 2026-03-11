@@ -14,7 +14,6 @@ General Office during office hours</p>
 <p>* School Opening and Closing Hours: 7.00am – 6.00pm</p>
 <h5><strong>For General Enquiries &amp; Feedback</strong></h5>
 <p>Tel: +65 6501 0800
-<br>Fax: +65 6501 0900
 <br>Email: <a href="mailto:prss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">prss@moe.edu.sg</a>
 <br>Have a question? <a href="https://ask.gov.sg/prss" rel="noopener noreferrer nofollow" target="_blank"><u>https://ask.gov.sg/prss</u></a>
 </p>
