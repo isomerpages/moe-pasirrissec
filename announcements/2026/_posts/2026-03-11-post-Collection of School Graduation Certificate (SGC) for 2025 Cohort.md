@@ -10,8 +10,8 @@ variant: tiptap
 <p>Students from 2025 Sec 4NT cohorts may collect their SGC from the school
 General Office during office hours</p>
 <h5><strong>Operation Hours</strong></h5>
+<p>* General Office Operation Hours: 7.30am – 5.30pm</p>
 <p>* School Opening and Closing Hours: 7.00am – 6.00pm</p>
-<p>* GO Operation Hours: 7.30am – 5.30pm</p>
 <h5><strong>For General Enquiries &amp; Feedback</strong></h5>
 <p>Tel: +65 6501 0800
 <br>Fax: +65 6501 0900
