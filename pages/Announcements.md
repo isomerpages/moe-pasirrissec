@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Collection of School Graduation Certificate (SGC) for 2025 Cohort
+
+Students from 2025 Sec 4NT cohorts may collect their SGC from the school General Office during office hours (8.00am - 5.30pm)
+
 #### Sec 2 Parents’ Engagement Session 
 
 Please click to view the presentation slides for 
