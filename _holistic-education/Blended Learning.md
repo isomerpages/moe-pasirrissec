@@ -5,21 +5,21 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Blended Learning</strong></h4>
-<p>The 2025 fortnightly Blended Learning (BL) Days will commence from 14
-February (Friday). Students will also participate in at least 1 hour of
+<p>The 2026 fortnightly Blended Learning (BL) Days will commence from 23
+January (Friday). Students will also participate in at least 1 hour of
 Student-Initiated Learning (SIL) activity on BL Days to explore an area
 of interest within or beyond the curriculum. Please refer to the table
 below for the BL Day schedule in Sem 1.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2025_BL_Day_Schedule__Sem_1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_BL_Day_Sem_1_Schedule.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>For Students</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Please refer to the <a href="/files/2025_BL_Day_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">2025 BL Day and SIL Briefing Slides</a> that
-was shared on 10 February 2025 during Assembly for more information. For
-any account or password queries, please contact the following:</p>
+<p>Please refer to the <strong><a href="/files/2026_BL_Day_Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 BL Day</a> </strong>and <strong><a href="/files/2026_SIL_Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">SIL Briefing Slides</a></strong> that
+was shared during Assembly for more information. For any account or password
+queries, please contact the following:</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
@@ -41,9 +41,6 @@ following:</p>
 </li>
 <li>
 <p>School Counsellor or SEN Officer at 6501 0839</p>
-</li>
-<li>
-<p></p>
 </li>
 </ol>
 </div>
