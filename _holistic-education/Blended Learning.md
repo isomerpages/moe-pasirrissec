@@ -10,7 +10,6 @@ January (Friday). Students will also participate in at least 1 hour of
 Student-Initiated Learning (SIL) activity on BL Days to explore an area
 of interest within or beyond the curriculum. Please refer to the table
 below for the BL Day schedule in Sem 1.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_BL_Day_Sem_1_Schedule.png">
 </div>
