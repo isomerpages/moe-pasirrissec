@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3></h3>
 <p>We are pleased to share with you the school’s broad directions and key
 initiatives for Term 2.</p>
 <p>Please click <a href="/files/Newsflash_Term_2_2026.pdf" rel="noopener nofollow" target="_blank">here</a> to
