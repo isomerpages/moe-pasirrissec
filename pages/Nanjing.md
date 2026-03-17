@@ -2,7 +2,6 @@
 title: Nanjing
 permalink: /signature-programmes/Overseas-Twinning-Programme/Nanjing/
 description: ""
-third_nav_title: Overseas Twinning Programme
 variant: markdown
 ---
 Pasir Ris Secondary School embarks on the 5D4N Nanjing School Immersion and Twinning Programme with schools in China so as to achieve the following:
