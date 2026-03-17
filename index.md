@@ -12,9 +12,9 @@ sections:
         - title: Information for Parents
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
-        - title: Sec 1 Registration 2026
+        - title: Signature Programmes
           description: ""
-          url: /2026-secondary-1-registration/
+          url: /signature-programmes/signature-programmes/
       variant: center
   - resources:
       title: Latest Announcements
