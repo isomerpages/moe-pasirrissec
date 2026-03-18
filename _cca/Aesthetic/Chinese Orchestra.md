@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Where Music **CO**nquers
 
-Pasir Ris Secondary School Chinese Orchestra (PRSSCO) is committed to developing Pasirians into confident and independent learners who are motivated to always put their best foot forward. PRSSCO advocates care for each other, and teamwork and discipline are crucial values of an orchestra.
+The Pasir Ris Secondary School Chinese Orchestra (PRSSCO) is committed to developing Pasirians into confident and independent learners who are motivated to always put their best foot forward. PRSSCO advocates care for each other, and teamwork and discipline are crucial values of an orchestra.
 
 As one of the premier school Chinese orchestras in Singapore, we seek to develop our students into competent and credible musicians. Through regular performance opportunities, learning journeys, and workshops, we aim to deepen and extend music learning and experiences. Students also have the opportunity to create their own arrangements and perform in small ensembles. With the support of our LLP, our Music Accreditation Programme seeks primarily to develop the talents of our Chinese Orchestra members by providing strong support for the enhancement and accreditation of musical skills.
 
