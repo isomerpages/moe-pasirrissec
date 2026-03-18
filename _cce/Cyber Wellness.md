@@ -106,9 +106,6 @@ In PRSS, we also engage student leaders to lead Cyber Wellness peer advocacy pro
 
 To further develop and share our expertise in Cyber Wellness, the school presented our Cyber Wellness programme at the National Cyber Wellness STAR Award Conference 2015, Cyber Wellness Connexion 2017, National Cyber Wellness Student Ambassador Summit 2017 and National CW Connexion 2019. Our student leaders have also participated in competitions such as Cyber Warriors Challenge and National Cyber Wellness Advocacy Challenge. At the NCAC 2016, our school teams won the First and Third Prize. Our student, Ong Jiang En was also awarded the National Cyber Wellness Student Ambassador Award in 2017. Terry Teng Joon Seng, President of the Student Council was also awarded the National Cyber Wellness Student Ambassador Award in 2019. We also participated in Design For Good Competition 2021 (Cyber Wellness poster), and our student Rachel Tan received the Commendation Medal. In 2022, our team of students (Ryan Qiu, Samakya, Tan Aik Wee, Mohd Ibrahim, Davwin Arinze) also won the National Cyber Wellness Advocacy Challenge - Gold Award. Since 2024, our school has co-organised a National Cyber Wellness Competition with IMDA.
 
-![](/images/Sharing%20of%20our%20Cyber%20securities%20Expertise%207.jpeg)
-<center><i>Ong Jiang En, Cyber Wellness Student Ambassdor Awardee 2017</i></center>
-
 ![](/images/terry%20award.jpeg)
 <center><i>Terry Teng, Cyber Wellness Student Ambassador Awardee 2019</i></center>
 
