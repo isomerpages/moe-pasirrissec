@@ -41,10 +41,6 @@ We are also growing our Precision Drill Squad (PDS) starting in 2025, inviting i
 
 ![](/images/image4_edited.jpeg)
 
-![](/images/NCC%20Boys%20and%20Girls%20Cadet%20Leaders%202021.jpeg)
-
-![](/images/POP%20parade%20NCC.jpeg)
-
 ![](/images/Freestyle-drill-competition_edited.jpeg)
 
 ![](/images/image2_edited.jpeg)
