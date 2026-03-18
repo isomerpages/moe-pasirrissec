@@ -33,6 +33,8 @@ It is our goal to continue to engage our students and to prepare them for the ch
 * EL and Literature Festival 
 * Commonwealth Essay Competitions
 * National Schools Literature Festival (NSLF)
+* Singapore Secondary Schools Debating Championships 
+* National Public Speaking competition 
 
 ### People
 
