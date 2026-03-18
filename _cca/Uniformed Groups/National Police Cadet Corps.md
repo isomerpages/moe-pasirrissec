@@ -95,7 +95,7 @@ In 2023, we will continue to carry out more programmes face to face so that our 
 | Tuesday | 3.40 pm - 6.00 pm | Parade Square / Outside GO / New Foyer |
 | Wednesday | 3.40 pm - 6.00 pm | Parade Square / Outside GO / New Foyer / Lower ISH |
 
-### **Teachers-in-charge**
+### Teachers-in-charge
 
 Ms Kimberlyn Lee (OIC)<br>
 Mr Zachary Koh (2IC)<br>
@@ -103,7 +103,7 @@ Ms Desiree Oh Yi Ting<br>
 Mr Seong Then Yee<br>
 Mrs Karen Tan Jialin<br>
 
-### **Photos / Videos**
+### Photos &amp; Videos
 
 ![](/images/CCA/NPCC/npcc%2001.jpg)
 
