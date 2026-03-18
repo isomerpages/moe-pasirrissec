@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-### **About us**
-
-#### **“Only the Best wear Blue”.**
+#### Only the Best wear Blue
 
 Pasir Ris Secondary NPCC Unit believes in developing our cadets' character, leadership and resilience. Hence, our unit motto is Nurturing Leaders of Tomorrow. We will always ensure that all the cadets will have a fulfilling experience discovering about themselves and learning skills that will be useful for the future. 
 
@@ -17,11 +15,26 @@ Some of our unit programs include the 0.22 revolver shooting, Crime Scene Invest
 
 In 2023, we will continue to carry out more programmes face to face so that our cadets can learn more effectively to achieve our goals.
 
-### **Highlights**
+### Highlights
 
-Unit Overall Proficiency Award (UOPA) – Gold Award (2006 - 2021)<br>
-Unit Overall Proficiency Award (UOPA) – Distinction Award (2022)<br>
-Urban Adventure Civil Defence Skills Challenge 2019 - 3rd place (Open Category) 
+* PDS exchange with Ngee Ann Secondary School
+* PDS performance for school events (CCA bazaar and the 40th Anniversary celebrations)
+* Community Safety and Security Programme sharing with the NCDCC cadets
+* SCDF Tampines Fire Station visit
+* Area Games Day
+* Secondary 1 oath-taking ceremony
+* Kayaking 1-star course
+* NPCC Police Annual Parade
+* NPCC Observance Parade
+* 0.22 classification shoot
+* 0.38 shooting competition
+* Mid-year unit bonding camp
+
+### **Achievements**
+
+* Unit Overall Proficiency Award (UOPA) – Gold Award (2006 - 2021)
+* Unit Overall Proficiency Award (UOPA) – Distinction Award (2022)
+* Urban Adventure Civil Defence Skills Challenge 2019 - 3rd place (Open Category) 
 
 **SPF-NPCC Badge Award 2021**
 * SI (NPCC) Adiba Jamshed Puyyakara 
@@ -75,30 +88,12 @@ Urban Adventure Civil Defence Skills Challenge 2019 - 3rd place (Open Category)
 - TAN BING HONG (4E6)
 - LYNSEY LIM YIN XIN (4T7)
 
-### **Events**
-PDS exchange with Ngee Ann Secondary School<br>
-PDS performance for school events (CCA bazaar and the 40th Anniversary celebrations)<br>
-Community Safety and Security Programme sharing with the NCDCC cadets<br>
-SCDF Tampines Fire Station visit<br>
-Area Games Day<br>
-Secondary 1 oath-taking ceremony<br>
-Kayaking 1-star course<br>
-NPCC Police Annual Parade<br>
-NPCC Observance Parade<br>
-0.22 classification shoot<br>
-0.38 shooting competition<br>
-Mid-year unit bonding camp<br>
-
-### **Achievements**
-
-UNIT OVERALL PROFICENCY AWARD - DISTINCTION
-
-### **Schedule**
+### Schedule
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 3.40pm - 6.00pm | Parade Square, Outside General Office, New Foyer |
-| Wednesday | 3.40pm - 6.00pm | Parade Square, Outside General Office, New Foyer, Lower ISH |
+| Tuesday | 3.40 pm - 6.00 pm | Parade Square / Outside GO / New Foyer |
+| Wednesday | 3.40 pm - 6.00 pm | Parade Square / Outside GO / New Foyer / Lower ISH |
 
 ### **Teachers-in-charge**
 
