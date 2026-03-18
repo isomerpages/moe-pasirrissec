@@ -40,7 +40,7 @@ The Concert Band, led by two well-respected conductors, has a dynamic programme 
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 3.15pm - 5.30pm  | Classrooms  |
+| Tuesday | 3.15 pm - 5.30 pm  | Classrooms  |
 
 ### Teachers-in-charge
 
