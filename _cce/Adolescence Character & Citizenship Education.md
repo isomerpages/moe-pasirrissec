@@ -2,6 +2,7 @@
 title: Adolescence Character & Citizenship Education
 permalink: /cce/Adolescence-CCE-AC2E/
 description: ""
+variant: markdown
 ---
 Character and Citizenship Education (CCE), including National Education (NE), and Social and Emotional Learning (SEL) are integral to the holistic development of our students, leading to positive life outcomes. CCE 2021 provides an integrated approach to addressing our students’ development of values, character, social-emotional well-being, and citizenship dispositions in a coherent and holistic way.  
 
@@ -17,7 +18,7 @@ d) **Future readiness**: Have a sense of purpose in life, develop the dispositio
 
 Students will learn values through three overarching ideas, namely (Identity, Relationships and Choices) in six domains, starting with self and extending to the family, school, community, nation and the world. The diagram below shows the Core Values, the 3 Big Ideas and the Expanding Domains in the CCE syllabus.  
 
-### **CCE 2021 Curriculum Frame**
+### CCE 2021 Curriculum Frame
 
 ![](/images/The%20CCE%202021%20Curriculum%20Frame.png)
 
@@ -51,7 +52,7 @@ Responsible decision-making enables us to apply moral reasoning and sound values
 
 These competencies can be taught, demonstrated, and applied through explicit instruction, planned authentic learning experiences, as well as teachable moments. For sustainable lifelong character development, these competencies must be taught, learnt, and applied within the broader context of values learning so that students understand the purpose and meaningfulness of acquiring these competencies.
 
-### The 3 big ideas: Conceptual core of CCE
+### The 3 Big Ideas: Conceptual core of CCE
 
 **(i) Identity**
 
@@ -73,7 +74,7 @@ The big idea of “Choices” emphasises the complex environment that our studen
 
 Within the internal sphere, decisions are made in areas such as one’s value system, morality, personal excellence, and education and career goals. Externally, decisions on how to be and act occur within various contexts such as: the home, school, cyberspace, neighbourhood, common public spaces, the nation, and the world; relationships with family, friends, fellow citizens, others, and the environment; situations involving moral dilemmas, multiple perspectives, and contentious issues.  
 
-### CCE Curriculum Content Areas
+#### CCE Curriculum Content Areas
 
 While the CCE Curriculum Content is premised on the three big ideas of Identity, Relationships and Choices, and anchored on the teaching of core values and social-emotional competencies, to help students find a sense of purpose, these fundamentals are taught and applied in the following Curriculum Content Areas.  
 
@@ -89,7 +90,7 @@ While the CCE Curriculum Content is premised on the three big ideas of Identity,
 
 (**vi) Family Education (FE)**: FE is premised on the nation’s shared value of the family as the basic unit of society, and focuses on the importance of having stable family units with extended family support. Students learn about being responsible family members, and to be grateful for the role their families play in shaping who they are and who they become. They are encouraged to love and appreciate their families despite imperfections, and urged to reflect on the value of family relationships, and the importance of broadening their definition of success to include quality family life.  
 
-### Establishing a Caring and Enabling School Environment
+#### Establishing a Caring and Enabling School Environment
 
 **Establishing Positive Teacher-Student Relationships - the Key to Effective CCE Instruction**
 
