@@ -13,7 +13,7 @@ In line with the theme, students donned their ethnic costumes for the Racial Har
 
 ![CCE photos](/images/cce%20photos.png)
 
-#### Programme Highlights
+### Programme Highlights
 
 
 ##### National Education 
