@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-The NCC provides a wide range of opportunities and unique experiences for our students to build character, develop leadership and lifeskills and most importantly, build and deepen commitment towards our nation. All cadets participate in core activities that strengthen their character and develop their leadership skills, for example, basic survival training, Camp FORGE (teambuilding camp for Sec 1) and Camp STEEL (leadership camp for Sec 2). For the cadet leaders in upper secondary, they can look forward to advanced survival training at Mt Ophir and also advanced leadership training through the Specialist Course. With strong support from MINDEF and SAF, our cadets are able to acquire military-related skills such as Individual Field Craft and Marksmanship Training with the SAR-21 rifle.
+The NCC provides a wide range of opportunities and unique experiences for our students to build character, develop leadership and life skills and most importantly, build and deepen commitment towards our nation. All cadets participate in core activities that strengthen their character and develop their leadership skills. For example, basic survival training, Camp FORGE (Team-Building camp for Sec 1) and Camp STEEL (Leadership Camp for Sec 2). For the Cadet Leaders in upper secondary, they can look forward to advanced survival training at Mount Ophir and also advanced leadership training through the Specialist Course. With strong support from MINDEF and SAF, our cadets are able to acquire military-related skills such as Individual Field Craft and Marksmanship Training with the SAR-21 rifle.
 
 ### Highlights
 
