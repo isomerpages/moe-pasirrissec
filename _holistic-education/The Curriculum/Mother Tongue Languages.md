@@ -59,12 +59,7 @@ Professional development includes department retreats and learning journeys, ope
 
 #### Photos
 
-
-
-
 ![](/images/Curriculum/Mother%20Tongue%20Language/MTL_Fortnight_2025.jpg)
-
-
 
 ![](/images/Deepavali.jpeg)
 
