@@ -98,6 +98,7 @@ Cyber Wellness is especially important for our internet-savvy youth today. All s
 In PRSS, we also engage student leaders to lead Cyber Wellness peer advocacy projects. A signature event is the Cyber Wellness Fest. Experiential learning games led by Cyber Wellness Champs, talks, exhibitions and awareness competitions are organised to further inculcate Cyber Wellness values. We also collaborate with external organisations such as Singapore Kindness Movement, National Library Board and Fei Yue Social Services in organizing our activities. Our Student Councillors also organise the Safer Internet Awareness Campaign Week to further spread awareness and share tips on all Cyber Wellness issues. Cyber Wellness. As advocacy, our students have also created posters.
 
 ![](/images/SL%20positive.png)
+
 ![](/images/SL%20positive2.png)
 ![](/images/SL%20positive3.png)
 ![](/images/SL%20positive4.png)
@@ -105,15 +106,6 @@ In PRSS, we also engage student leaders to lead Cyber Wellness peer advocacy pro
 #### Awards and Recognition
 
 To further develop and share our expertise in Cyber Wellness, the school presented our Cyber Wellness programme at the National Cyber Wellness STAR Award Conference 2015, Cyber Wellness Connexion 2017, National Cyber Wellness Student Ambassador Summit 2017 and National CW Connexion 2019. Our student leaders have also participated in competitions such as Cyber Warriors Challenge and National Cyber Wellness Advocacy Challenge. At the NCAC 2016, our school teams won the First and Third Prize. Our student, Ong Jiang En was also awarded the National Cyber Wellness Student Ambassador Award in 2017. Terry Teng Joon Seng, President of the Student Council was also awarded the National Cyber Wellness Student Ambassador Award in 2019. We also participated in Design For Good Competition 2021 (Cyber Wellness poster), and our student Rachel Tan received the Commendation Medal. In 2022, our team of students (Ryan Qiu, Samakya, Tan Aik Wee, Mohd Ibrahim, Davwin Arinze) also won the National Cyber Wellness Advocacy Challenge - Gold Award. Since 2024, our school has co-organised a National Cyber Wellness Competition with IMDA.
-
-![](/images/terry%20award.jpeg)
-<center><i>Terry Teng, Cyber Wellness Student Ambassador Awardee 2019</i></center>
-
-![](/images/be%20the%20change_1.jpeg)
-<center><i>Winning the Top Prize at Design For Change Challenge in 2019</i></center>
-
-<img src="/images/Terry%20individual.jpeg" style="width:35%;float:left"><img src="/images/be%20the%20change_2.jpeg" style="width:65%">
-<center><i>Sharing their aspirations for the online sphere</i></center>
 
 ![](/images/CCE/CW/Cyberwellness_DFG_Competition_2021_Rachel_Tan.jpg)
 <center><i>Our student, Rachel Tan winning the Design For Good Competition 2021</i></center>
