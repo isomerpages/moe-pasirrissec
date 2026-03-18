@@ -51,8 +51,8 @@ The Concert Band, led by two well-respected conductors, has a dynamic programme 
 * Mdm Siti Mirna
 
 ### Conductors
-Mr Md Faizal Othman<br>
-Mr Steven Phua
+* Mr Md Faizal Othman
+* Mr Steven Phua
 
 ### Photos &amp; Videos
 ![](/images/CCA/Concert%20Band/Band_2025.png)
