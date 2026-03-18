@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports Groups
 variant: markdown
 ---
-The Pasir Ris Secondary Badminton team was formed in 1983 under the leadership of the then-principal, Ms Bandera. The team’s humble beginnings gained momentum when Mr Pay Loo Seng was appointed teacher-in-charge upon his arrival in 1993. Under his guidance, both the boys’ and girls’ teams rose to prominence, reaching the pinnacle of their achievements between 1995 and 1998, during which our C boys participated in the national semi-finals in 1995.
+Pasir Ris Secondary Badminton team was formed in 1983 under the leadership of the then-principal, Ms Bandera. The team’s humble beginnings gained momentum when Mr Pay Loo Seng was appointed teacher-in-charge upon his arrival in 1993. Under his guidance, both the boys’ and girls’ teams rose to prominence, reaching the pinnacle of their achievements between 1995 and 1998, during which our C boys participated in the national semi-finals in 1995.
 
 Our players, Chang Kim Fatt and Chang Kim Tuck, earned individual accolades, including a third-place finish in the Pilot Pen Nationals Under-16 doubles in 1996 and a top-eight finish in the National Tournament Under-19 doubles in 1998. After decades of dedicated service, Mr Pay retired in 2018, and the flag of PRSS badminton continues to fly high under the stewardship of Mr Iskandar and Mr Kaddy Koh in recent years.
 
@@ -13,47 +13,34 @@ To date, Mr Iskandar and Ms Quah are helming the badminton team in a bid to brin
 
 ### Highlights
 
-In 2020, our B boys beat Chung Cheng High in their zonal group stage to ensure progression into the Quarter Final rounds of the National School Games. However, due to the COVID pandemic, the National School Games had to be suspended.
+* 2025 'B' Division Badminton team qualified for Quarterfinal stage of the NSG East Zone Badminton Competition 
+* 2025 'C' Division Badminton team plays in the Pool B stage of the NSG Badminton Competition
+* Both Dylan Tan (3T7) and Chan Kok Fung (3A2) achieved 2nd place and silver medals, respectively, at the Zendora Badminton League (Divisions 1 and 2), organised by UWCSEA East Badminton Academy
+* 2025 'C' Division Badminton team qualified for NSG League 3 and emerged top 8 in the competition
 
-In 2021, the team participated in the East Zone B Division Badminton Tournament of the National School Games.
+### Open to Boys only
 
-In 2022, both boys' teams participated in the East Zone B and C Divisions Badminton Tournament of the National School Games, where they gained plenty of experience. Some of the players also took part in the annual Chinese Swimming Club Badminton Tournament and the Alpha-Age Group Series (Dec) Tournament. 
-
-In 2023, the team participated in the East Zone B Division Badminton Tournament of the National School Games. Some of the players also participated in the Papago Badminton Carnival 2023.
-
-Participation in NSG 'B' Division Badminton Championships 2024 (East Zone)
-
-2025 'B' Division Badminton team qualified for Quarterfinal stage of the NSG East Zone Badminton Competition 
-
-2025 'C' Division Badminton team plays in the Pool B stage of the NSG Badminton Competition. 
-
-Both Dylan Tan (S3-T7) and Chan Kok Fung (S3-A2) achieved 2nd place and Silver medals at the Zendora Badminton League (Divisions 1 and 2 respectively) organised by UWCSEA East Badminton Academy. 
-
-2025 'C' Division Badminton team qualified for NSG League 3 and emerged top 8 in the competition.
-
-### **Open to: Boys only**
-
-### **Schedule**
+### Schedule
 
 | Training Days | Time | Venue |
 | -------- | -------- | -------- |
-| Monday |3.00pm - 6.00pm | Competition Period |
-| Tuesday | 3.00pm - 6.00pm | School Hall |
-| Thursday | 3.00pm - 6.00pm | School Hall |
+| Monday |3.00 pm - 6.00 pm | Competition Period |
+| Tuesday | 3.00 pm - 6.00 pm | School Hall |
+| Thursday | 3.00 pm - 6.00 pm | School Hall |
 
 
-### **Teachers-in-charge**
+### Teachers-in-charge
 
 * Mr Mohamed Iskandar Bin Ahmad (OIC)
 * Ms Mavis Ho Min Yu (2IC)
 * Ms Quah Wei Wee 
 
-### **Coach**
+### Coach
 
 * Coach Justin Tay Li Wei 
 * Coach Kenneth Khoo
 
-### **Photos / Videos**
+### Photos & Videos
 ![](/images/CCA/Badminton/Zendora_Badminton_League_Div_2.png)
 ![](/images/CCA/Badminton/2025_Badminton_B_Boys.jpg)
 ![](/images/CCA/Badminton/2025_Badminton_C_Boys.jpg)
