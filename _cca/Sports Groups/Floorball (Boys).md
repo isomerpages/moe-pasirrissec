@@ -13,10 +13,10 @@ Our training framework which revolves around our A, B, Cs and 1, 2, 3s aims to d
 
 ### Highlights
 
-* Our boys participated in our maiden National School Games Floorball Championships in 2024 (C-Division Boys) League 3. 
-* We participatied at the U14 Pesta Sukan Floorball Challenge (Quarter-Finals) and U17 Pesta Sukan Floorball Challenge (Preliminary Round) in July. 
-* We also grew as a team through our participation at the  U16 Youth Floorball League (November, December 2024).
-* Participation at the NSG and external competitions have provided our boys with a holistic CCA experience.
+* Our boys participated in our maiden National School Games Floorball Championships in 2024 (C-Division Boys) League 3
+* We participated at the U14 Pesta Sukan Floorball Challenge (Quarter-Finals) and U17 Pesta Sukan Floorball Challenge (Preliminary Round) in July
+* We also grew as a team through our participation at the  U16 Youth Floorball League (November, December 2024)
+* Participation at the NSG and external competitions have provided our boys with a holistic CCA experience
 
 ### Open to Boys only
 
