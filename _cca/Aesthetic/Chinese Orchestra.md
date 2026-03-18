@@ -59,7 +59,7 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 * Mdm Jin Beihua
 * Mr Ong Ting Kai 
 
-#### Conductor
+### Conductor
 Mr Chin Yen Choong
 
 ### Photos &amp; Videos
