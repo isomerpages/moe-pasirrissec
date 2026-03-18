@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports Groups
 variant: markdown
 ---
-At Pasir Ris Secondary, our Netball girls started their journey during the December holidays by attending the Netball festival. Before the National School Games (NSG), we also got to host a couple of friendly games. This offered a golden opportunity for our C Division to glean some experience for their NSG. In the second quarter of the year, we also participated in the School’s Challenge League 2023 to further hone our ball-handling skills. Finally, the highlight of this year was our farewell for our Secondary 4 seniors. All good things must come to an end, we wish our seniors all the best for the next phase of their lives and we look forward to another challenging and rewarding year in 2024!
+At Pasir Ris Secondary, our Netball girls started their journey during the December holidays by attending the Netball festival. Before the National School Games (NSG), we also got to host a couple of friendly games. This offered a golden opportunity for our C Division to glean some experience for their NSG. 
 
 ![](/images/CCA/Netball/netball_2023_01.png)
 <p align="center"><i>Secondary One first training</i></p>
