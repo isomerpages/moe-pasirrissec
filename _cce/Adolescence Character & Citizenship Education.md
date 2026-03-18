@@ -102,7 +102,7 @@ FE is premised on the nation’s shared value of the family as the basic unit of
 
 Positive interpersonal relationships between teachers and students contribute significantly to the students’ learning process. In positive Teacher-Student Relationships (TSR), students perceive they are respected, supported and valued by their teachers. When students experience positive TSR, they are more engaged in school and able to sustain their learning motivation. When teachers build positive relationships with their students, they feel a sense of security which allows them to engage more actively in interactions within the school environment, shaping their character, and social-emotional well-being and development.
 
-In PRSS, time is set aside for home teachers to have Student-Teacher Conferences (STCs) in the morning. During STCs, HTs meet students one to one to get to know them better and to understand their concerns so that they are able to better support them.
+At PRSS, time is set aside for home teachers to have Student-Teacher Conferences (STCs) in the morning. During STCs, HTs meet students one to one to get to know them better and to understand their concerns so that they are able to better support them.
 
 ![](/images/STC.jpeg)
 <center>STCs being conducted by home teachers </center>
