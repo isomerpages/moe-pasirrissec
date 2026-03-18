@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports Groups
 variant: markdown
 ---
-At Pasir Ris Secondary, our Netball girls started their journey during the December holidays by attending the Netball festival. Before the National School Games (NSG), we also got to host a couple of friendly games. This offered a golden opportunity for our C Division to glean some experience for their NSG. 
+At Pasir Ris Secondary School, our Netball girls started their journey during the December holidays by attending the Netball festival. Before the National School Games (NSG), we also got to host a couple of friendly games. This offered a golden opportunity for our C Division to glean some experience for their NSG. 
 
 ![](/images/CCA/Netball/netball_2023_01.png)
 <p align="center"><i>Secondary One first training</i></p>
