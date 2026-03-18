@@ -14,7 +14,9 @@ We are disciplined and responsible for our actions.<br>
 We are loyal to the Nation.
 </center>
 
-National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under the purview of the Ministry of Education and the Ministry of Home Affairs, Singapore Civil Defence Force. NCDCC believes in developing and empowering our youths to be active concerned citizens with life-saving skills. PRSS NCDCC began its journey in 2015, with the focus to develop greater awareness of civil defence in our cadets and prepare them with the skills to respond effectively to emergencies at home and abroad. The attitude of readiness against adversity and practical skills which are critical in the face of danger and emergencies, are life-long capabilities that will prove beneficial to our young civil defence ambassadors.  
+National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under the purview of the Ministry of Education and the Ministry of Home Affairs, Singapore Civil Defence Force. NCDCC believes in developing and empowering our youths to be active concerned citizens with life-saving skills. 
+
+Pasir Ris Secondary NCDCC began its journey in 2015, with the focus to develop greater awareness of civil defence in our cadets and prepare them with the skills to respond effectively to emergencies at home and abroad. The attitude of readiness against adversity and practical skills which are critical in the face of danger and emergencies, are life-long capabilities that will prove beneficial to our young civil defence ambassadors.  
 
 ### Highlights
 
@@ -57,4 +59,3 @@ National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under t
 
 ![National Day Parade](/images/CCA/NDCC/ndcc%2002.jpg)
 <center>National Day Parade</center>
-
