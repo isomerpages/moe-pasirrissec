@@ -30,47 +30,7 @@ Some of our unit programmes include the 0.22 revolver shooting, Crime Scene Inve
 
 ### **Achievements**
 
-* Unit Overall Proficiency Award (UOPA) – Gold Award (2006 - 2021)
-* Unit Overall Proficiency Award (UOPA) – Distinction Award (2022)
-* Urban Adventure Civil Defence Skills Challenge 2019 - 3rd place (Open Category) 
-
-**SPF-NPCC Badge Award 2021**
-* SI (NPCC) Adiba Jamshed Puyyakara 
-* SI (NPCC) Lee Jia Jing 
-* SSGT (NPCC) Nur Hidayah Binte Johar 
-
-**Station Inspector Promotion 2021**
-* SI (NPCC) Adiba Jamshed Puyyakara 
-* SI (NPCC) Lee Jia Jing 
-
-**Best Unit Cadet 2021**
-* SI (NPCC) Adiba Jamshed Puyyakara (Female) 
-* SI (NPCC) Lee Jia Jing (Male) 
-
-**SPF-NPCC Badge Award 2022**
-* SI (NPCC) Ravi Rashmi Priscilla 
-* SI (NPCC) You Chen Kai  
-
-**Station Inspector Promotion 2022**
-* SI (NPCC) Ravi Rashmi Priscilla 
-* SI (NPCC) You Chen Kai 
-
-**Best Unit Cadet 2022**
-* SI (NPCC) Ravi Rashmi Priscilla (Female) 
-* SI (NPCC) You Chen Kai (Male) 
-
-**SPF-NPCC Badge Award 2023** 
-* SI (NPCC) Su Jing Ning Janelle 
-* SSGT(NPCC) Aw En Zi Charlotte 
-* SSGT(NPCC) Rebekah Wee Yong Yi 
-
-**Station Inspector Promotion 2023**
-* SI (NPCC) Su Jing Ning Janelle 
-* SI (NPCC) Koh Zhong Yi Joyvis 
-
-**Best Unit Cadet 2023**
-* SSGT (NPCC) Aw En Zi Charlotte (Female) 
-* SSGT (NPCC) Lee Lin Ken (Male)
+Unit Overall Proficiency Award (UOPA) – Distinction Award (2022 - 2025)
 
 **SPF-NPCC Badge 2025:**
 - AISHWARYA ANAND (4E5)
