@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-The NCC provides a wide range of opportunities and unique experiences for our students to build character, develop leadership and life skills and most importantly, build and deepen commitment towards our nation. 
+The Pasir Ris Secondary School NCC provides a wide range of opportunities and unique experiences for our students to build character, develop leadership and life skills and most importantly, build and deepen commitment towards our nation. 
 
 All cadets participate in core activities that strengthen their character and develop their leadership skills, for example, Basic Survival Training, Camp FORGE (Team-Building Camp for Sec 1) and Camp STEEL (Leadership Camp for Sec 2). 
 
