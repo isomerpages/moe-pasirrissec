@@ -107,15 +107,6 @@ Mrs Karen Tan Jialin<br>
 
 ![](/images/CCA/NPCC/npcc%2001.jpg)
 
-![](/images/UNIT%20PHOTO%202022.jpeg)
-<center><i>Unit Photo</i></center><i>
-
-![](/images/NPCC-%20CSI.png)
-<center>Crime Scene Investigation</center>
-
-![](/images/NPCC%20-%20Campfire.png)
-<center>Campcraft (Campfire, Flag Staff, Basha Making &amp; Map Reading)</center>
-
 ![](/images/SPF-NPCC%20Award%20Ceremony%202022.jpeg)
 <center>SPF-NPCC Award Ceremony 2022</center>
 
@@ -126,4 +117,4 @@ Mrs Karen Tan Jialin<br>
 
 ![](/images/NDP%20at%20Platform1.jpeg)
 
-![](/images/NDP%20at%20Platform2.jpeg)</i>
+![](/images/NDP%20at%20Platform2.jpeg)
