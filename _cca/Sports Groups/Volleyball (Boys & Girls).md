@@ -5,41 +5,39 @@ description: ""
 third_nav_title: Sports Groups
 variant: markdown
 ---
-### **About us**
-
-##### **Dig, Set &amp; Spike to Victory!**&nbsp;
+### Dig, Set &amp; Spike to Victory!
 
 “Ace!” the thunderous cheer roared as the players circled round each other, put their hands in the center and jumped for victory. This group cheer gives them the adrenalin rush as they soar to greater heights, striking the opponent&nbsp;zealously. We have instilled in our players the ‘Never Say Die’ attitude.&nbsp;
 
-##### **Ace, Ace, Ace! We’re going to pump you up!**
+##### Ace, Ace, Ace! We’re going to pump you up!
 
 ![](/images/volleyball.png)
 
-### **Highlights**
+### Highlights
 
 *   Our ‘C’ Boys Volleyball team won the 3rd place in the East Zone National School Games in 2022
 *   Our ‘C’ Boys managed to compete in the East Zone National School Games (Nationals) in 2022
 
-### **Open to: All Students (Boys & Girls)**
+### Open to All Students (Boys & Girls)
 
 
-### **Schedule**
+### Schedule
 
-##### **Boys Team**
-
-| Day | Time | Venue |
-| -------- | -------- | -------- |
-| Monday | 3.00pm - 6.00pm | Upper ISH |
-| Wednesday | 3.00pm - 6.00pm | Upper ISH |
-
-##### **Girls Team**
+**Boys Team**
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 3.00pm - 6.00pm | Upper ISH |
-| Thursday | 3.00pm - 6.00pm | Outdoor Volleyball Court |
+| Monday | 3.00 pm - 6.00 pm | Upper ISH |
+| Wednesday | 3.00 pm - 6.00 pm | Upper ISH |
 
-### **Teachers-in-charge**
+**Girls Team**
+
+| Day | Time | Venue |
+| -------- | -------- | -------- |
+| Tuesday | 3.00 pm - 6.00 pm | Upper ISH |
+| Thursday | 3.00 pm - 6.00 pm | Outdoor Volleyball Court |
+
+### Teachers-in-charge
 
 | Boys Team | Girls Team | 
 | -------- | -------- | 
@@ -48,11 +46,11 @@ variant: markdown
 | Mr Ow Kok Meng | Ms Carol Chua Huina | 
 
 
-### **Coach**
+### Coach
 
 Mr Ryan Ling&nbsp;
 
-### **Photos / Videos**
+### Photos & Videos
 
 ![](/images/CCA/Volleyball/volleyball%2001.jpg)
 
@@ -64,4 +62,3 @@ Mr Ryan Ling&nbsp;
 
 ![](/images/Vball%20grp%20photo%202.jpeg)
 
-![](/images/Vball%20grp%20photo%203.jpeg)
