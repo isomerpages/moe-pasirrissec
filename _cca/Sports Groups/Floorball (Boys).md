@@ -18,7 +18,7 @@ Our training framework which revolves around our A, B, Cs and 1, 2, 3s aims to d
 * We also grew as a team through our participation at the  U16 Youth Floorball League (November, December 2024).
 * Participation at the NSG and external competitions have provided our boys with a holistic CCA experience.
 
-### Open to boys only
+### Open to Boys only
 
 ### Schedule
 
