@@ -13,7 +13,7 @@ In 2010, PRSS Choir found new direction, transitioning from a SSA (Female) choir
 
 ### Highlights
 
-Every year is an exciting year for PRSS Choir, with an array of meaningful activities. Other than the opportunities to stage full-length concerts with our PRSS Choir alumni to showcase their musical abilities, outdoor performances have been and will always be definitive and stimulating experiences for all PRSS Choir members. These activities include the following:
+Every year is an exciting year for PRSS Choir, with an array of meaningful activities. Other than opportunities to stage full-length concerts with our PRSS Choir alumni to showcase their musical abilities, outdoor performances have been and will always be definitive and stimulating experiences for all PRSS Choir members. These activities include the following:
 
 * 2017 Tampines Hub Grand Opening Celebrations - La(H) Singapura! Concert
 * 2018 A Beautiful Life: A Tapestry of Love - Victoria Concert Hall
