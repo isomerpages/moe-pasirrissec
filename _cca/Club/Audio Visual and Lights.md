@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Club
 variant: markdown
 ---
-#### SERVE, SHOOT and CREATE
+#### SERVE, SHOOT and CREATE!
 
 The Audio Visual and Lights (AVL) Club focuses on three main areas: **SERVE, SHOOT and CREATE**!
 
