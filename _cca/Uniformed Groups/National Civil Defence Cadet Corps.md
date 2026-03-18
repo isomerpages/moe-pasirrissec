@@ -67,4 +67,3 @@ National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under t
 ![Service Month at MWS Center](/images/CCA/NDCC/ndcc%2005.jpg)
 <center>Service Month at MWS Center</center>
 
-![](/images/ncdcc.png)
