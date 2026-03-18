@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Built on passion, driven by brotherhood
 
-At Pasir Ris Secondary School Football, every player steps onto the field with one mission — to give everything for the team. Our spirit is defined by determination, discipline, and the will to never give up. From the moment the whistle blows, we play with intensity, always ready to take charge or fight our way back, no matter the score.
+At Pasir Ris Secondary School, every player steps onto the field with one mission — to give everything for the team. Our spirit is defined by determination, discipline, and the will to never give up. From the moment the whistle blows, we play with intensity, always ready to take charge or fight our way back, no matter the score.
 
 Training twice a week, we pour effort into every drill and take every piece of feedback seriously. Improvement is our constant goal, and we push one another to grow stronger — physically, mentally, and as a team.
 
