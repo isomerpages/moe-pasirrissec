@@ -201,9 +201,9 @@ Art student putting up his finishing touch on his final artwork (his installatio
 
 <p>At PRSS, we believe that our students have the innate ability to express themselves musically. Through our exciting and comprehensive music programmes, we aim to develop them with musical and extra-musical skills such as critical thinking, psychomotor, social awareness, moral and cultural values. All of these skills and values will lead towards the holistic development of a child.</p>
 	
-### Music Programmes @PRSS
+<h3>Music Programmes @PRSS</h3><br>
 	
-#### The Lower Secondary Music Syllabus
+<h4>The Lower Secondary Music Syllabus</h4>
 	
 1. <p>Secondary One (Express and Normal Academic)</p>
 
