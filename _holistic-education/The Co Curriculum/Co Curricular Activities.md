@@ -12,7 +12,7 @@ Our CCA Programme provides students with a platform to discover their interests 
 * Uniformed groups
 * Sports
 * Performing Arts
-* Clubs and societies
+* Clubs
 
 Students will be graded according to the LEAPs 2.0 system.
 
