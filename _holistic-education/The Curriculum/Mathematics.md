@@ -7,13 +7,14 @@ variant: markdown
 ---
 #### Programme
 
-Mathematics Department aims to develop students to have inquisitive minds, to be independent learners and confident problem solvers. This vision is achieved by equipping every student with the attitude of perseverance, critical thinking, logical reasoning and communication skills that will serve as a foundation for the student to be confident in solving problems in this VUCA world.
+The Math Department aims to develop students to have inquisitive minds, to be independent learners and confident problem solvers. This vision is achieved by equipping every student with the attitude of perseverance, critical thinking, logical reasoning and communication skills that will serve as a foundation for the student to be confident in solving problems in this VUCA world.
 
-Aligned with the school vision, the Mathematics Department embarked on the Professional Learning Team (PLT) as a platform to enhance teaching pedagogies such as Polya’s Model, Differentiated Instructions (DI), Making Thinking Visible (MTV) routines etc. and also to develop teaching packages leveraging the use of ICT through Students Learning Space (SLS) and other ICT tools e.g. GeoGebra, Desmos for deep learning. The lesson packages are designed in such a way that it leverage epedagogies  to support learning. In this process, teachers facilitate students’ learning through discussion as we develop our students to be independent learners who take ownership for their own learning and manage and create their own learning so as to achieve deep and eventually profound learning.
+Aligned with the school vision, the Math Department embarked on the Professional Learning Team (PLT) as a platform to enhance teaching pedagogies such as Polya’s Model, Differentiated Instructions (DI), Making Thinking Visible (MTV) routines etc. and also to develop teaching packages leveraging the use of ICT through Students Learning Space (SLS) and other ICT tools e.g. GeoGebra, Desmos for deep learning. 
+
+The lesson packages are designed in such a way that it leverage e-pedagogies  to support learning. In this process, teachers facilitate students’ learning through discussion as we develop our students to be independent learners who take ownership for their own learning and manage and create their own learning so as to achieve deep and eventually profound learning.
 
 The Mathematics curriculum is closely aligned to MOE defined syllabus and includes problem solving heuristics and application of real-life contexts.
 
-	
 ![](/images/Maths%20Dept%20Website.jpeg)
   
 #### Highlights
@@ -44,7 +45,6 @@ The Mathematics curriculum is closely aligned to MOE defined syllabus and includ
 | Math | Mdm Yeong Wei Syn | [yeong_wei_syn@moe.edu.sg](mailto:yeong_wei_syn@moe.edu.sg)|
 | Maths / EBS | Mr Ernest Yeo | [yeo_yingcai_ernest@moe.edu.sg](mailto:yeo_yingcai_ernest@moe.edu.sg) |
 | Principles of Accounts / Math | Ms Ng Mei Ling | [ng_mei_ling@moe.edu.sg](mailto:ng_mei_ling@moe.edu.sg)|
-| Principles of Accounts / Math | Mr Lee Chee Weng | [lee_chee_weng@moe.edu.sg](mailto:lee_chee_weng@moe.edu.sg) |
 
 #### Photos
 
