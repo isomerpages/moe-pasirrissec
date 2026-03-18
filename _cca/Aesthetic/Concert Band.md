@@ -11,7 +11,7 @@ Pasir Ris Concert Band is committed to create resilient leaders and passionate m
 
 ### Highlights
 
-The Concert Band, led by 2 well-respected conductors, has a dynamic programme to ensure your well rounded development in musicality and character. From showcases to camps to exchanges and overseas programmes, we have it all! 
+The Concert Band, led by two well-respected conductors, has a dynamic programme to ensure your well rounded development in musicality and character. From showcases to camps to exchanges and overseas programmes, we have it all! 
 
 * 2019 Tampines GRC National Day Observance Ceremony 
 * 2019 La Famille de Musique @ Singapore Conference Hall 
@@ -46,8 +46,8 @@ The Concert Band, led by 2 well-respected conductors, has a dynamic programme to
 
 * Mdm Anmilia Anwar Datt (OIC) 
 * Ms Fam Hui Yuen (2IC)
-* Mr. Lokhman Haris 
-* Ms. Pearlyn Chia
+* Mr Lokhman Haris 
+* Ms Pearlyn Chia
 * Mdm Siti Mirna
 
 #### Conductors
