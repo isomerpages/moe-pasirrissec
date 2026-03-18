@@ -50,10 +50,10 @@ We have a busy schedule every year and we pride ourselves in presenting the best
 * Mdm Rubi’ah Massuan
 
 ##### **Choreographer:**
-Mr. Shahbirul Zaki 
+Mr Shahbirul Zaki 
 
 ##### **Technique Instructor:**
-Ms. Eunice Wee  
+Ms Eunice Wee  
 
 ### Photos &amp; Videos
 
