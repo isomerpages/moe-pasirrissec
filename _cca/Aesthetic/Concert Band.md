@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### One Band, One Sound, One Soul
 
-The Pasir Ris Concert Band is committed to create resilient leaders and passionate musicians among our members. We instill high standard of musicianship and discipline among our members in our pursuit towards music excellence. Members are provided with many opportunities to showcase their passion towards music through various performing platforms, masterclasses and exchange programmes. In addition, our distinct leadership programme is aimed to harness leadership skills as well as musicianship.
+The Pasir Ris Secondary School Concert Band is committed to create resilient leaders and passionate musicians among our members. We instill high standard of musicianship and discipline among our members in our pursuit towards music excellence. Members are provided with many opportunities to showcase their passion towards music through various performing platforms, masterclasses and exchange programmes. In addition, our distinct leadership programme is aimed to harness leadership skills as well as musicianship.
 
 ### Highlights
 
