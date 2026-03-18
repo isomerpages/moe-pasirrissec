@@ -259,12 +259,6 @@ In addition to ApLM@ITE, selected sec 3 express students were also enrolled in A
 <figure><table><tbody><tr>
 <td><img style="width: 100%" height="auto" width="100%" src="/images/CCE/ECG/Career_Awareness_Day_2024_15.png"></td><td><img src="/images/CCE/ECG/Career_Awareness_Day_2024_16.png"></td></tr></tbody></table><figcaption>Product Design &amp; Development at Singapore Polytechnic </figcaption></figure>
 
-<h5>Learning Journeys to Jurong Island</h5>
-
-As part of the STEAM Carnival, selected students were given the rare opportunity
-to visit Jurong Island to learn more about the petrol-chemical industry.
-![](/images/CCE/ECG/learning_journey_jurong_island_2024.jpg)
-
 <h5>STEAM Carnival Career VR Expo</h5>
 <p>During the STEAM carnival, all sec 3 students got to explore various STEAM
 related careers using virtual reality sets to give them a more immersive
