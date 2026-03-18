@@ -49,7 +49,7 @@ At the end of four years in Drama Club, students will become more confident, wel
 * Ms Jumiah Ahmad (2IC)
 
 ### Instructor
-Mr. Ian Loy  
+Mr Ian Loy  
 
 ### Photos &amp; Videos
 ![](/images/CCA/Drama/School_Exchange_All_Schools_BEST.jpg)
