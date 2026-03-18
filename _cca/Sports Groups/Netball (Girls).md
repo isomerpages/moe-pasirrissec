@@ -43,8 +43,7 @@ We are helping out our neighbouring Yumin Primary school to have friendly matche
 ### Teachers-in-charge
 
 * Mdm Nadiah (OIC)  
-* Ms Shayne Ong (2IC)
-* Ms Lee Wei Wei
+* Ms Lee Wei Wei (2IC)
 
 ### Coach
 
