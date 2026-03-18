@@ -20,7 +20,7 @@ Some of our unit programmes include the 0.22 revolver shooting, the Crime Scene 
 * Community Safety and Security Programme sharing with the NCDCC cadets
 * SCDF Tampines Fire Station visit
 * Area Games Day
-* Secondary 1 Oath-taking ceremony
+* Secondary 1 Oath-taking Ceremony
 * Kayaking 1-star course
 * NPCC Police Annual Parade
 * NPCC Observance Parade
