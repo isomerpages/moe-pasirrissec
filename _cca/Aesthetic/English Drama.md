@@ -40,8 +40,8 @@ At the end of four years in Drama Club, students will become more confident, wel
 
 | Day | Time | Venue |
 | --- | --- | --- |
-|Tuesdays | 3.30pm - 6.00pm | Black Box |
-| Fridays | 2.30pm - 6.00pm | Black Box |
+|Tuesdays | 3.30 pm - 6.00 pm | Black Box |
+| Fridays | 2.30 pm - 6.00 pm | Black Box |
 
 ### Teachers-in-charge
 
