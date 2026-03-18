@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Club
 variant: markdown
 ---
-#### Let's do Crafting and Coding!
+### Let's do Crafting and Coding!
 
 At Tinkers' Club, students learn about crafting and coding. As we live in an ICT-savvy environment, it is essential for students to learn about coding and understand the basic fundamentals of creating programs using block coding software and microcontrollers. Crafting is also another essential skill that we want students to acquire. Students will learn to be creative and to innovate their own prototypes using modelling materials and crafting equipment. These programmes allow students to be future-ready, where innovation and basic ICT knowledge is essential in their daily lives.
 
