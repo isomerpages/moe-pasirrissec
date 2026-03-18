@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Excellence, Perseverance and Passion!
 
-Pasir Ris Secondary Basketball CCA was initiated in 2009. At that time, only the Girls' team was formed. In the following year, we started recruiting members for the Boys team due to a strong interest from the male students to join the CCA.
+Pasir Ris Secondary School Basketball CCA was initiated in 2009. At that time, only the Girls' team was formed. In the following year, we started recruiting members for the Boys team due to a strong interest from the male students to join the CCA.
 
 The students train twice a week on Tuesdays and Thursdays. During training sessions, they are taught basketball skills, teamwork and important core values.
   
@@ -25,14 +25,14 @@ The Basketball CCA emphasises on 3 core values that the students are expected to
 
 ### Schedule
 
-##### **Boys Team**
+**Boys Team**
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
 | Tuesday | 3.00pm - 6.00pm | Parade Square / Lower ISH |
 | Thursday | 3.00pm - 6.00pm | Lower ISH / Upper ISH |
 
-##### **Girls Team**
+**Girls Team**
 
 | Day  | Time | Venue |
 | -------- | -------- | -------- |
@@ -64,7 +64,7 @@ The Basketball CCA emphasises on 3 core values that the students are expected to
 ![](/images/CCA/Basketball/BB_Girls_emerging_top_3_at_Annual_Cross_Country_race.jpg)
 
 ![](/images/CCA/Basketball/C_Girls_at_Interschool_Friendly_Games.jpg)
-<p align="center">C Girls at Interschool Friendly Game!</p>
+<p align="center">C Girls at Interschool Friendly Game</p>
 
 ![](/images/CCA/Basketball/C_Girls_recruiting_during_CCA_Bazaar.jpg)
 <p align="center">C Girls recruiting during CCA Bazaar</p>
