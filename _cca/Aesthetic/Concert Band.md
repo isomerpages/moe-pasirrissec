@@ -30,17 +30,17 @@ The Concert Band, led by two well-respected conductors, has a dynamic programme 
 
 ### Schedule
 
-**Combined Practice**
+##### Combined Practice
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Monday &amp; Thursday | 3.15pm - 6.30pm | Band Room |
+| Monday &amp; Thursday | 3.15 pm - 6.30 pm | Band Room |
 
-**Sectionals Practice**
+##### Sectionals Practice
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 3.15pm - 5.30pm  | Classrooms  |
+| Tuesday | 3.15 pm - 5.30 pm  | Classrooms  |
 
 ### Teachers-in-charge
 
@@ -51,8 +51,8 @@ The Concert Band, led by two well-respected conductors, has a dynamic programme 
 * Mdm Siti Mirna
 
 ### Conductors
-Mr Md Faizal Othman<br>
-Mr Steven Phua
+* Mr Md Faizal Othman
+* Mr Steven Phua
 
 ### Photos &amp; Videos
 ![](/images/CCA/Concert%20Band/Band_2025.png)

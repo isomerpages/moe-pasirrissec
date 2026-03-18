@@ -2,7 +2,7 @@
 title: Tinkers' Club
 permalink: /cca/Club/Tinkers-Club/
 description: ""
-third_nav_title: Club
+third_nav_title: Clubs
 variant: markdown
 ---
 ### Let's do Crafting and Coding!

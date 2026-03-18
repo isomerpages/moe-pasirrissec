@@ -2,7 +2,7 @@
 title: Audio Visual and Lights
 permalink: /cca/club/audio-visual-lights/
 description: ""
-third_nav_title: Club
+third_nav_title: Clubs
 variant: markdown
 ---
 ### SERVE, SHOOT and CREATE!

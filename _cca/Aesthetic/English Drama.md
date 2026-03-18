@@ -40,8 +40,8 @@ At the end of four years in Drama Club, students will become more confident, wel
 
 | Day | Time | Venue |
 | --- | --- | --- |
-|Tuesdays | 3.30pm - 6.00pm | Black Box |
-| Fridays | 2.30pm - 6.00pm | Black Box |
+|Tuesday | 3.30 pm - 6.00 pm | Black Box |
+| Friday | 2.30 pm - 6.00 pm | Black Box |
 
 ### Teachers-in-charge
 
@@ -49,7 +49,7 @@ At the end of four years in Drama Club, students will become more confident, wel
 * Ms Jumiah Ahmad (2IC)
 
 ### Instructor
-Mr. Ian Loy  
+Mr Ian Loy  
 
 ### Photos &amp; Videos
 ![](/images/CCA/Drama/School_Exchange_All_Schools_BEST.jpg)
