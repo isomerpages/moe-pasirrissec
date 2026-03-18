@@ -42,7 +42,7 @@ The Concert Band, led by two well-respected conductors, has a dynamic programme 
 | -------- | -------- | -------- |
 | Tuesday | 3.15pm - 5.30pm  | Classrooms  |
 
-#### Teachers-in-charge
+### Teachers-in-charge
 
 * Mdm Anmilia Anwar Datt (OIC) 
 * Ms Fam Hui Yuen (2IC)
@@ -50,7 +50,7 @@ The Concert Band, led by two well-respected conductors, has a dynamic programme 
 * Ms Pearlyn Chia
 * Mdm Siti Mirna
 
-#### Conductors
+### Conductors
 Mr Md Faizal Othman<br>
 Mr Steven Phua
 
