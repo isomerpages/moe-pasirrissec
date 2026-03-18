@@ -105,12 +105,6 @@ Mrs Karen Tan Jialin<br>
 
 ![](/images/CCA/NPCC/npcc%2001.jpg)
 
-![](/images/SPF-NPCC%20Award%20Ceremony%202022.jpeg)
-<center>SPF-NPCC Award Ceremony 2022</center>
-
-![](/images/cssp.jpeg)
-<center>CSSP Presentation</center>
-
 ![](/images/NDP%20at%20Platform.jpeg)
 
 ![](/images/NDP%20at%20Platform1.jpeg)
