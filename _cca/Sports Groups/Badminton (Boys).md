@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports Groups
 variant: markdown
 ---
-Pasir Ris Secondary Badminton team was formed in 1983 under the leadership of the then-principal, Ms Bandera. The team’s humble beginnings gained momentum when Mr Pay Loo Seng was appointed teacher-in-charge upon his arrival in 1993. Under his guidance, both the boys’ and girls’ teams rose to prominence, reaching the pinnacle of their achievements between 1995 and 1998, during which our C boys participated in the national semi-finals in 1995.
+The Pasir Ris Secondary Badminton team was formed in 1983 under the leadership of the then-principal, Ms Bandera. The team’s humble beginnings gained momentum when Mr Pay Loo Seng was appointed teacher-in-charge upon his arrival in 1993. Under his guidance, both the boys’ and girls’ teams rose to prominence, reaching the pinnacle of their achievements between 1995 and 1998, during which our C boys participated in the national semi-finals in 1995.
 
 Our players, Chang Kim Fatt and Chang Kim Tuck, earned individual accolades, including a third-place finish in the Pilot Pen Nationals Under-16 doubles in 1996 and a top-eight finish in the National Tournament Under-19 doubles in 1998. After decades of dedicated service, Mr Pay retired in 2018, and the flag of PRSS badminton continues to fly high under the stewardship of Mr Iskandar and Mr Kaddy Koh in recent years.
 
