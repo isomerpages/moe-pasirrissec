@@ -7,11 +7,11 @@ variant: markdown
 ---
 ### Excellence, Perseverance and Passion!
 
-Pasir Ris Secondary School Basketball CCA was initiated in 2009. At that time, only the Girls' team was formed. In the following year, we started recruiting members for the Boys team due to a strong interest from the male students to join the CCA.
+Pasir Ris Secondary School Basketball CCA was initiated in 2009. At that time, only the girls' team was formed. In the following year, we started recruiting members for the boys' team due to strong interest from the male students in joining the CCA.
 
-The students train twice a week on Tuesdays and Thursdays. During training sessions, they are taught basketball skills, teamwork and important core values.
+The students train twice a week, on Tuesdays and Thursdays. During training sessions, they are taught basketball skills, teamwork, and important core values.
   
-The Basketball CCA emphasises on 3 core values that the students are expected to uphold during and outside of training sessions. **Excellence, Perseverance and Passion**. They are expected to achieve excellence in everything that they do, persevere when the going gets tough and demonstrate passion in their CCA.
+The Basketball CCA emphasises **three** core values that the students are expected to uphold during and outside of training sessions. **Excellence, Perseverance, and Passion**. They are expected to achieve excellence in everything they do, persevere when the going gets tough, and demonstrate passion in their CCA.
  
 ### Highlights
 * EZ C Divsion Basketball 2025- Boys team qualifed and participated in League 1 (Top 16 schools in Singapore) of the National School Games.  
