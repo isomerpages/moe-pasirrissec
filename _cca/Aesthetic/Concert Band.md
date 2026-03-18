@@ -34,7 +34,7 @@ The Concert Band, led by two well-respected conductors, has a dynamic programme 
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Monday &amp; Thursday | 3.15pm - 6.30pm | Band Room |
+| Monday &amp; Thursday | 3.15 pm - 6.30 pm | Band Room |
 
 ##### Sectionals Practice
 
