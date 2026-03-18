@@ -42,8 +42,8 @@ The Pasir Ris Secondary NCDCC began its journey in 2015, with the focus to devel
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday &amp; Wednesday | 3.30 pm - 6.30 pm | NCDCC Room / Level 3 Classrooms / Tar Road next to Lower ISH |
-
+| Tuesday  | 3.30 pm - 6.30 pm | NCDCC Room / Level 3 Classrooms / Tar Road next to Lower ISH |
+| Wednesday | 3.30 pm - 6.30 pm | NCDCC Room / Level 3 Classrooms / Tar Road next to Lower ISH |
 
 ### **Teachers-in-charge**
 
