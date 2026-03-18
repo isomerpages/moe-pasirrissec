@@ -5,7 +5,7 @@ description: ""
 third_nav_title: The Curriculum
 variant: markdown
 ---
-#### Programme
+### Programme
 
 The Math Department aims to develop students to have inquisitive minds, to be independent learners and confident problem solvers. This vision is achieved by equipping every student with the attitude of perseverance, critical thinking, logical reasoning and communication skills that will serve as a foundation for the student to be confident in solving problems in this VUCA world.
 
@@ -17,7 +17,7 @@ The Mathematics curriculum is closely aligned to MOE defined syllabus and includ
 
 ![](/images/Maths%20Dept%20Website.jpeg)
   
-#### Highlights
+### Programme Highlights
 
 *   Australian Math Competition for Lower Secondary students <br>
 3 Distinction in Upper Sec, 8 Credit in Upper Sec, 6 Credit in Lower Sec
@@ -28,7 +28,7 @@ The Mathematics curriculum is closely aligned to MOE defined syllabus and includ
 *   Math Trail (beyond school)
 *   STEM in Math
 
-#### People
+### People
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
