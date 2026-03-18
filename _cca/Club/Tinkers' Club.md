@@ -33,7 +33,7 @@ At Tinkers' Club, students learn about crafting and coding. As we live in an ICT
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Every Tuesday &amp; Thursday | 3.30pm - 5.30pm | Tinkers' Club Room / D&amp;T Workshop 2 |
+| Tuesday &amp; Thursday | 3.30 pm - 5.30 pm | Tinkers' Club Room / D&amp;T Workshop 2 |
 
 
 ### Teachers-in-charge
