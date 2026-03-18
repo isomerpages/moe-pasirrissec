@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Aesthetic
 variant: markdown
 ---
-#### Crafted with sincerity. Choreographed with technical prowess. Performed with purpose.
+### Crafted with sincerity. Choreographed with technical prowess. Performed with purpose.
 
 You call it **Dance**. We call it **Life!**
 
-PRSS Modern Dance aims to instill a love for self-expression in our dancers. Brought together by a common passion for excellence, our dancers synthesize movements and dance techniques into their performances. Here at PRSS Modern dance, our dancers strive to connect the mind and the body through fluid dance movements while focusing on spontaneity and self-expression.
+The Pasir Ris Secondary School Modern Dance aims to instill a love for self-expression in our dancers. Brought together by a common passion for excellence, our dancers synthesize movements and dance techniques into their performances. Here at PRSS Modern dance, our dancers strive to connect the mind and the body through fluid dance movements while focusing on spontaneity and self-expression.
 
 We empower our dancers to boldly express their thoughts and emotions through the graceful movements of their bodies. PRSS Modern Dance explores and redefines the ever-evolving modern dance form. We do this in a disciplined yet nurturing environment that develops our students to be confident, creative and committed dancers.
 
@@ -43,10 +43,10 @@ We have a busy schedule every year and we pride ourselves in presenting the best
 * Ms Mindy Low Lixian (2IC)
 * Mdm Rubi’ah Massuan
 
-##### **Choreographer:**
+### Choreographer
 Mr Shahbirul Zaki 
 
-##### **Technique Instructor:**
+### Technique Instructor
 Ms Eunice Wee  
 
 ### Photos &amp; Videos
