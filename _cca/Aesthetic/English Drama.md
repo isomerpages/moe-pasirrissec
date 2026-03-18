@@ -13,15 +13,6 @@ At the end of four years in Drama Club, students will become more confident, wel
 
 ### Highlights
 
-**2017**  
-* SYF (AP) Drama: – ‘The Stranger’ - Certificate of Accomplishment  
-* Bunga Sayang: A Gift of Love (School Concert at Victoria Concert Hall)  
-
-**2018**  
-* Drama Production – ‘Where’s Grandpa?’  
-* A Beautiful Life: A Tapestry of Love (School Concert at Victoria Concert Hall)  
-* Values-In-Action Programme – Performance at APSN Tanglin School
-
 **2019**  
 * SYF (AP) Drama: – ‘Friendkenstein’ - Certificate of Distinction  
 * Values-In-Action Programme – Performance at APSN Tanglin School
@@ -54,8 +45,8 @@ At the end of four years in Drama Club, students will become more confident, wel
 
 ### Teachers-in-charge
 
-* Mdm. Shahilla Raj (OIC)
-* Ms. Jumiah Ahmad (2IC)
+* Mdm Shahilla Raj (OIC)
+* Ms Jumiah Ahmad (2IC)
 
 ### Instructor
 Mr. Ian Loy  
