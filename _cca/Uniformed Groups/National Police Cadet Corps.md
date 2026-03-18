@@ -26,7 +26,7 @@ Some of our unit programmes include the 0.22 revolver shooting, Crime Scene Inve
 * NPCC Observance Parade
 * 0.22 classification shoot
 * 0.38 shooting competition
-* Mid-year unit bonding camp
+* Mid-Year Unit bonding camp
 
 ### **Achievements**
 
