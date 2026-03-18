@@ -223,31 +223,31 @@ Art student putting up his finishing touch on his final artwork (his installatio
 	
 <img src="/images/keyboard%202.jpeg">
 	
-### Uniquely N(T) Music @PRSS
+<h3>Uniquely N(T) Music @PRSS</h3><br>
 
 <b><p>Normal (Technical) Stream</p></b>
 
 <p>The Music Programme for Normal (T) students is spread over 4 years, with the option for students to take up NT Music elective subject in Upper Secondary.  </p>
 
-#### Secondary One
+<h4>Secondary One</h4><br>
 
 <p>Our students will attend ukulele and keyboard lessons, where they learn basic playing skills through pop songs.</p>
 	
 <img src="/images/ukulele.jpeg">
 	
-#### Secondary Two
+<h4>Secondary Two</h4><br>
 
 <p>Our students continue to build on their instrumental skills as they work with acoustic as well virtual instruments on the GarageBand (available on Apple devices) to arrange and showcase their work in groups.</p>
 	
 <img src="/images/GarageBand.jpeg">
 	
-#### N(T) Level Music (Upper Secondary)
+	<h4> N(T) Level Music (Upper Secondary)</h4>
 
 <p>This subject is offered to our interested 3NT students as their elective subject during the Secondary Two streaming exercise. The programme allow students to deepen their skills in reading, analyzing and reproducing music of different forms, and more importantly, to become active listeners who can readily interact with music of different genres. Where possible, these students will be provided opportunities to showcase their musical creation and improvisation via both physically (Lunchtime concert) or digitally (via youtube).</p>
 
-### Highlights
+<h3>Highlights</h3>
 
-#### Lunchtime Concert - MUSEIT: Season Three, Episode 2
+<h4>Lunchtime Concert - MUSEIT: Season Three, Episode 2</h4>
 
 <p>Featuring our Secondary One Lower Secondary Music Syllabus and N(T) music students.</p>
 
