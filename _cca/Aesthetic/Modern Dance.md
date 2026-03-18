@@ -17,12 +17,6 @@ We empower our dancers to boldly express their thoughts and emotions through the
 
 We have a busy schedule every year and we pride ourselves in presenting the best at any event.
 
-* 2018 Chingay
-* 2018 A Beautiful Life - A Tapestry of Love @ Victoria Concert Hall
-* 2018 Muara @ Esplanade
-* 2019 CCA Bazaar
-* 2019 Singapore Youth Festival
-* 2019 Muara @ Esplanade
 * 2020 Chingay 2020
 * 2020 Our 1st E-CCA &amp; E-Investiture  
 * 2021 Singapore Youth Festival  
