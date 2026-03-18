@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Excellence, Perseverance and Passion!
 
-Pasir Ris Secondary School Basketball CCA was initiated in 2009. At that time, only the girls' team was formed. In the following year, we started recruiting members for the boys' team due to strong interest from the male students in joining the CCA.
+The Pasir Ris Secondary School Basketball CCA was initiated in 2009. At that time, only the girls' team was formed. In the following year, we started recruiting members for the boys' team due to strong interest from the male students in joining the CCA.
 
 The students train twice a week, on Tuesdays and Thursdays. During training sessions, they are taught basketball skills, teamwork, and important core values.
   
