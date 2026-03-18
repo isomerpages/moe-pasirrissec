@@ -159,7 +159,7 @@ Art student putting up his finishing touch on his final artwork (his installatio
 			
 <img src="/images/food.png">
 	
-	<h3><p>Learning Journey to supermarket</p></h3>
+<h3>Learning Journey to supermarket</h3>
 
 <p>During this period, virtual supermarket visit was mounted where students learn more about comparative shopping and analyzing nutritional claims on a food product.</p>
 			
