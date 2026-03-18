@@ -60,8 +60,6 @@ Ms. Eunice Wee
 ![](/images/CCA/Dance/Modern_Dance_Website.jpg)<br>
 ![](/images/CCA/Dance/Dance_Grid_01.jpg)
 
-![](/images/Dance%20Photo%201.jpeg)
-![](/images/Dance%20Photo%202.jpeg)
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BLsSi5YnuY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
