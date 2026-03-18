@@ -58,17 +58,13 @@ Professional development includes department retreats and learning journeys, ope
 | Malay Language | Mr Muhammad Omarali Bin Zulkiflee | [muhammad_omarali_zulkiflee@moe.edu.sg](mailto:muhammad_omarali_zulkiflee@moe.edu.sg) |
 
 #### Photos
-![](/images/Curriculum/Mother%20Tongue%20Language/CNY_2025.png)
 
-![](/images/Curriculum/Mother%20Tongue%20Language/MTL_Dept_Comp.png)
+
+
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/MTL_Fortnight_2025.jpg)
 
-![](/images/Curriculum/Mother%20Tongue%20Language/MTL_Fortnight_2025___2_.png)
 
-![](/images/Curriculum/Mother%20Tongue%20Language/MTL_Fortnight_2025___1_.png)
-
-![](/images/Curriculum/Mother%20Tongue%20Language/MTL_Fortnight_2025___3_.png)
 
 ![](/images/Deepavali.jpeg)
 
