@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Aesthetic
 variant: markdown
 ---
-#### Many Voices, One Harmony
+##### Many Voices, One Harmony
 
 The Pasir Ris Secondary School Choir aims to foster a family of choristers with exemplary character and musicianship, who is self-directed to achieve high standards of performance whilst celebrates cultural diversity. With our motto of **“Many Voices, One Harmony”**, PRSS Choir prides herself by working together as a family where no member is left behind. We believe in deepening one’s values, developing one's self-confidence and honing one's leadership skills. These qualities reflect the school’s belief in the importance of developing confident and well-rounded individuals as they contribute actively to the music culture in school. 
 
@@ -57,8 +57,3 @@ Every year is an exciting year for PRSS Choir, with an array of meaningful activ
 ![](/images/CCA/Choir/Choir_Grid_01.jpg)
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5T8rVnL3f_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
-
-
-
-
-
