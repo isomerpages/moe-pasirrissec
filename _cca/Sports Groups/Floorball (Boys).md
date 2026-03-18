@@ -7,8 +7,9 @@ third_nav_title: Sports Groups
 ---
 2024 marks the beginning of our Floorball CCA journey, starting with our Secondary 2 boys from the various CCA groups. From 2025, Floorball (Boys) is offered as one of the Sports CCAs.
 
-Our members are guided by our team ethos of: Positive Winning **Attitude**, **Basics** to Perfection, **Communication**, **Discipline**, **Enthusiasm**, **Focus** and **Grit**. 
-Our training framework which revolves around our A,B,Cs and 1, 2, 3s aims to develop our students into accomplished Sportsmen and Gentlemen who **Play Hard, Play Smart and Play Together.**
+Our members are guided by our team ethos of: Positive Winning Attitude, Basics to Perfection, Communication, Discipline, Enthusiasm, Focus and Grit. 
+
+Our training framework which revolves around our A, B, Cs and 1, 2, 3s aims to develop our students into accomplished Sportsmen and Gentlemen who **Play Hard, Play Smart and Play Together.**
 
 ### Highlights
 
@@ -17,7 +18,7 @@ Our training framework which revolves around our A,B,Cs and 1, 2, 3s aims to dev
 * We also grew as a team through our participation at the  U16 Youth Floorball League (November, December 2024).
 * Participation at the NSG and external competitions have provided our boys with a holistic CCA experience.
 
-### Open to: Boys only
+### Open to boys only
 
 ### Schedule
 
@@ -37,9 +38,10 @@ Saturday 8.00am to 11.00am (E6 Cluster Floorball Development Programme)
 Mr Amir HMS
 
 ### Photos &amp; Videos
-![](/images/CCA/Floorball/Floorball_C_Boys_at_NSG_2024.jpg)
-Our Floorball CCA Flag and CCA Logo were unveiled during the CCA Leadership Handover Ceremony on 30th June 2025. The CCA logo was designed by our Floorballers DAING SHURAHBIL BIN DAING SHAFFIE (S3A2) and Captains LUCAS LIM LE XUAN (S3E6) and KIEGAN ANG ZHE-YU (S1-1) <p></p>
 
+Our Floorball CCA Flag and CCA Logo were unveiled during the CCA Leadership Handover Ceremony on 30th June 2025. The CCA logo was designed by our Floorballers DAING SHURAHBIL BIN DAING SHAFFIE (S3A2) and Captains LUCAS LIM LE XUAN (S3E6) and KIEGAN ANG ZHE-YU (S1-1)
+
+![](/images/CCA/Floorball/Floorball_C_Boys_at_NSG_2024.jpg)
 ![Floorball team w flag](/images/CCA/Floorball/Floorball.jpg)
 <p align="center">Our Boys at 2024 NSG Floorball (C-Boys)</p>
 
