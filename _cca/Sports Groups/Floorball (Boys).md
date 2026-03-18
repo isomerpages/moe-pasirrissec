@@ -52,10 +52,10 @@ Our Floorball CCA Flag and CCA Logo were unveiled during the CCA Leadership Hand
 <p align="center">Our 2025 NSG Floorball (C-Boys) team</p>
 
 ![](/images/CCA/Floorball/PRSS_Floorball__Team___Pioneer_.jpg)
-<p align="center">PRSS Floorball Team (Pioneer)</p>
+<p align="center">Our PRSS Floorball Team (Pioneer)</p>
 
 ![](/images/CCA/Floorball/PRSS_Floorball__Goalkeeper_.jpg)
-<p align="center">PRSS Floorball Goalkeeper</p>
+<p align="center">Our PRSS Floorball Goalkeeper</p>
 
 ![](/images/CCA/Floorball/PRSS_Floorball__Teacher_Coach_Amir_HMS_.jpg)
-<p align="center">PRSS Floorball (Teacher-Coach Amir HMS)</p>
+<p align="center">Our PRSS Floorball (Teacher-Coach Amir HMS)</p>
