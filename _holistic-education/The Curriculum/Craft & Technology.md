@@ -241,7 +241,7 @@ Art student putting up his finishing touch on his final artwork (his installatio
 	
 <img src="/images/GarageBand.jpeg">
 	
-	<h4> N(T) Level Music (Upper Secondary)</h4>
+<h4> N(T) Level Music (Upper Secondary)</h4>
 
 <p>This subject is offered to our interested 3NT students as their elective subject during the Secondary Two streaming exercise. The programme allow students to deepen their skills in reading, analyzing and reproducing music of different forms, and more importantly, to become active listeners who can readily interact with music of different genres. Where possible, these students will be provided opportunities to showcase their musical creation and improvisation via both physically (Lunchtime concert) or digitally (via youtube).</p>
 
@@ -256,20 +256,20 @@ Art student putting up his finishing touch on his final artwork (his installatio
 <img src="/images/Sec1_group3.png">
 <img src="/images/Sec1_group4.jpeg">
 
-<p>Singapore Youth Festival: Celebrations in the City @ Kampung Admiralty</p>
+<p align="center">Singapore Youth Festival: Celebrations in the City @ Kampung Admiralty</p>
 
 <p>Our pop band (students from Secondary Three N(T) level music class) performed with Mr Dick Yip and his Minstrels at Kampung Admiralty for Singapore Youth Festival: Celebrations in the City.</p>
 	
 <img src="/images/SYF.jpeg">
 	
-<p>Singapore Youth Festival: Celebrations in the City @ Esplanade Concourse</p>
+<p align="center">Singapore Youth Festival: Celebrations in the City @ Esplanade Concourse</p>
 
-<p>Collaboration with “The Acapella Group” from ITE College Central.</p>
+<p align="center">Collaboration with “The Acapella Group” from ITE College Central.</p>
 			
 <img src="/images/SYF_EC1.jpeg">
 <img src="/images/SYF_EC2.jpeg">
 
-<p>PRSS pop band was featured on Lian He Zao Bao Article!</p>
+<p></p><center>PRSS pop band was featured on Lian He Zao Bao Article!</center><p></p>
 	
 <img src="/images/popband%201.jpeg">
 <img src="/images/popband%202.jpeg">
