@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Aesthetic
 variant: markdown
 ---
-### **About us**
-
 #### Where Music **CO**nquers
 
 Pasir Ris Secondary School Chinese Orchestra (PRSSCO) is committed to developing Pasirians into confident and independent learners who are motivated to always put their best foot forward. PRSSCO advocates care for each other and teamwork and discipline are crucial values of an orchestra.
@@ -17,7 +15,7 @@ Since the commencement of the PRSSCO Niche Programme in Chinese Orchestra in 200
 
 We welcome parents and prospective students to check out our Instagram and TikTok @prssco\_\_ for updates and events in PRSSCO.
 
-### **Highlights**
+### Highlights
 
 * 2020: SYF Beat the Bug Percussion Ensemble
 * 2020: National Day Virtual Performance
@@ -30,7 +28,7 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 * 2025: Tampines East CNY Celebration - Ensemble Performance
 * 2025: Singapore Youth Festival
 
-### **Achievement**
+### Achievements
 
 * SYF 2017: Certificate of Distinction
 * SYF 2019: Certificate of Distinction
@@ -38,22 +36,22 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 * SYF 2023: Certificate of Distinction
 * SYF 2025: Certificate of Accomplishment
 
-### **Schedule**
+### Schedule
 
-##### **Combine Practice**
-
-| Day | Time | Venue |
-| -------- | -------- | -------- |
-| Tuesdays | 3.15pm - 6.30pm | CO Room |
-
-
-##### **Sectionals Practice**
+**Combine Practice**
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Thursdays  | 3.15pm - 6.30pm | Classrooms  |
+| Tuesdays | 3.15 pm - 6.30 pm | CO Room |
 
-### **Teachers-in-charge**
+
+**Sectionals Practice**
+
+| Day | Time | Venue |
+| -------- | -------- | -------- |
+| Thursdays  | 3.15 pm - 6.30 pm | Classrooms  |
+
+### Teachers-in-charge
 
 * Mdm Siti Sarah (OIC) 
 * Ms Ng Mei Ling (2IC)
@@ -61,10 +59,10 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 * Mdm Jin Beihua
 * Mr Ong Ting Kai 
 
-#### **Conductor**
+#### Conductor
 Mr Chin Yen Choong
 
-### **Photos / Videos**
+### Photos &amp; Videos
 ![](/images/CCA/Chinese%20Orchestra/CO_2025_01.png)
 
 ![](/images/CCA/Chinese%20Orchestra/20250209_202738__1_.jpg)

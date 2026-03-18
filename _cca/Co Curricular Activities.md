@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p>Co-Curricular Activities (CCAs) are an integral part of the holistic,
-well-rounded education that PRSS seeks to provide. The school has a broad
-and diverse range of CCAs to cater to the different needs and interests
-of our students.</p>
+well-rounded education that Pasir Ris Secondary School seeks to provide.
+The school has a broad and diverse range of CCAs to cater to the different
+needs and interests of our students.</p>
 <p>Our CCA Programme provides students with a platform to discover their
 interests and talents, as well as develop CCA-specific knowledge, skills,
 values and attitudes through sustained participation.</p>
@@ -28,8 +28,8 @@ the four CCA groups:</p>
 <p>Clubs and societies</p>
 </li>
 </ul>
-<p>Students will be graded according to the LEAPs 2.0 system.</p>
-<p>For more information, visit MOE <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" rel="noopener noreferrer nofollow" target="_blank">LEAPs 2.0 for secondary school</a> website.</p>
+<p>Students will be graded according to the LEAPs 2.0 system. For more information,
+visit MOE <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" rel="noopener noreferrer nofollow" target="_blank">LEAPs 2.0 for secondary school</a> website.</p>
 <h4><strong>CCA Participation</strong></h4>
 <p>All students must enrolled in a CCA throughout their secondary education.
 Points will be awarded for participation only when attendance rate is above

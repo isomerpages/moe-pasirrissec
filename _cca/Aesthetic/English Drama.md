@@ -5,15 +5,13 @@ description: ""
 third_nav_title: Aesthetic
 variant: markdown
 ---
-### **About us**
-
 Drama Club in Pasir Ris Secondary School focuses on nurturing students’ potential in creating drama productions and staging performances. As part of their training, students continuously develop their expertise in performance and stage management. 
 
 To expose students to the glee and glamour of working in a theatre production, students will get to be involved in either devising, performing or stage-managing a drama production every year. Students will also usually attend local drama productions, to gain exposure and learn to appreciate a variety of drama performances. Aside from watching plays, students have the opportunity to learn more about backstage management, ranging from lighting techniques to props design, and the pre-production process, including script writing and creating characters. 
 
 At the end of four years in Drama Club, students will become more confident, well-spoken and creative individuals. These attributes have helped them charm audiences from all walks of life, excel in oral communication and forge friendships with everyone they meet.
 
-### **Highlights**
+### Highlights
 
 **2017**  
 * SYF (AP) Drama: – ‘The Stranger’ - Certificate of Accomplishment  
@@ -39,29 +37,30 @@ At the end of four years in Drama Club, students will become more confident, wel
 **2023**
 * 2023 Singapore Youth Festival
 
-### **Achievements**
+### Achievements
 
 * SYF (AP) Drama 2017: Certificate of Commendation
 * SYF (AP) Drama 2019: Certificate of Distinction
 * SYF (AP) Drama 2021: Certificate of Distinction &amp; Certificate of Accomplishment  
 * SYF (AP) Drama 2023: Certificate of Distinction
+* SYF (AP) Drama 2025: Certificate of Distinction
 
-### **Schedule**
+### Schedule
 
 | Day | Time | Venue |
 | --- | --- | --- |
 |Tuesdays | 3.30pm - 6.00pm | Black Box |
 | Fridays | 2.30pm - 6.00pm | Black Box |
 
-### **Teachers-in-charge**
+### Teachers-in-charge
 
 * Mdm. Shahilla Raj (OIC)
 * Ms. Jumiah Ahmad (2IC)
 
-### **Instructor:**
+### Instructor:
 Mr. Ian Loy  
 
-### **Photos / Videos**
+### Photos &amp; Videos
 ![](/images/CCA/Drama/School_Exchange_All_Schools_BEST.jpg)
 
 ![](/images/CCA/Drama/Drama_2025.png)

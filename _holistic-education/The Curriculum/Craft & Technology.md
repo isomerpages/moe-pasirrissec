@@ -89,32 +89,29 @@ Still Life object photography before painting</p>
 		
 <img src="/images/Still%20life.jpeg">
 
-<b></b><p><b>Highlights Photo Set B: </b>
-Launching of the Art Installation Showcase @Level 2 during the 35th Anniversary celebrations (12 Mar 2021)</p>
-
 <img src="/images/Aet%20Installation.png">
 
-<b></b><p><b>Highlights Photo Set C: </b> 
+<b></b><p><b>Highlights Photo Set B: </b> 
 Student’s Portraiture Showcase @Le Visage Gallery – Level 3</p>
 			
 <img src="/images/Portraiture%20Showcase.jpeg">
 
-<b></b><p><b>Highlights Photo Set D: </b> Student’s master pieces @The Sculpture Park – Level 4</p>
+<b></b><p><b>Highlights Photo Set C: </b> Student’s master pieces @The Sculpture Park – Level 4</p>
 		
 <img src="/images/The%20Sculpture%20Park.jpeg">
 			
-<b></b><p><b>Highlights Photo Set E: </b> Secondary 2 student working on her printmaking template</p>
+<b></b><p><b>Highlights Photo Set D: </b> Secondary 2 student working on her printmaking template</p>
 			
 <img src="/images/printmaking%20template.jpeg">
 			
-<b></b><p><b>Highlights Photo Set F: </b> A group of 3NA Art on the learning journey to 2020 NAFA Open House event to get inspiration</p>
+<b></b><p><b>Highlights Photo Set E: </b> A group of 3NA Art on the learning journey to 2020 NAFA Open House event to get inspiration</p>
 			
 <img src="/images/art.png">
 			
-<b></b><p><b>Highlights Photo Set G: </b> Art jamming @NAFA’s Skylight Studio. Can you spot Mr. Rahman’s drawing?</p>
+<b></b><p><b>Highlights Photo Set F: </b> Art jamming @NAFA’s Skylight Studio. Can you spot Mr. Rahman’s drawing?</p>
 <img src="/images/Art%20jamming%20@NAFA’s%201.jpeg">
 			
-<p><b>Highlights Photo Set H: </b>3A1 budding artists have a go at canvas painting during their studio practice.</p>		
+<p><b>Highlights Photo Set G: </b>3A1 budding artists have a go at canvas painting during their studio practice.</p>		
 <img src="/images/canvas%20painting.jpeg">
 
 <p><b>Highlights Photo Set H: </b> 
@@ -159,7 +156,7 @@ Art student putting up his finishing touch on his final artwork (his installatio
 			
 <img src="/images/food.png">
 	
-	<h3><p>Learning Journey to supermarket</p></h3>
+<h3>Learning Journey to supermarket</h3>
 
 <p>During this period, virtual supermarket visit was mounted where students learn more about comparative shopping and analyzing nutritional claims on a food product.</p>
 			
@@ -201,9 +198,9 @@ Art student putting up his finishing touch on his final artwork (his installatio
 
 <p>At PRSS, we believe that our students have the innate ability to express themselves musically. Through our exciting and comprehensive music programmes, we aim to develop them with musical and extra-musical skills such as critical thinking, psychomotor, social awareness, moral and cultural values. All of these skills and values will lead towards the holistic development of a child.</p>
 	
-### Music Programmes @PRSS
+<h3>Music Programmes @PRSS</h3><br>
 	
-#### The Lower Secondary Music Syllabus
+<h4>The Lower Secondary Music Syllabus</h4>
 	
 1. <p>Secondary One (Express and Normal Academic)</p>
 
@@ -223,31 +220,31 @@ Art student putting up his finishing touch on his final artwork (his installatio
 	
 <img src="/images/keyboard%202.jpeg">
 	
-### Uniquely N(T) Music @PRSS
+<h3>Uniquely N(T) Music @PRSS</h3><br>
 
 <b><p>Normal (Technical) Stream</p></b>
 
 <p>The Music Programme for Normal (T) students is spread over 4 years, with the option for students to take up NT Music elective subject in Upper Secondary.  </p>
 
-#### Secondary One
+<h4>Secondary One</h4><br>
 
 <p>Our students will attend ukulele and keyboard lessons, where they learn basic playing skills through pop songs.</p>
 	
 <img src="/images/ukulele.jpeg">
 	
-#### Secondary Two
+<h4>Secondary Two</h4><br>
 
 <p>Our students continue to build on their instrumental skills as they work with acoustic as well virtual instruments on the GarageBand (available on Apple devices) to arrange and showcase their work in groups.</p>
 	
 <img src="/images/GarageBand.jpeg">
 	
-#### N(T) Level Music (Upper Secondary)
+<h4> N(T) Level Music (Upper Secondary)</h4>
 
 <p>This subject is offered to our interested 3NT students as their elective subject during the Secondary Two streaming exercise. The programme allow students to deepen their skills in reading, analyzing and reproducing music of different forms, and more importantly, to become active listeners who can readily interact with music of different genres. Where possible, these students will be provided opportunities to showcase their musical creation and improvisation via both physically (Lunchtime concert) or digitally (via youtube).</p>
 
-### Highlights
+<h3>Highlights</h3>
 
-#### Lunchtime Concert - MUSEIT: Season Three, Episode 2
+<h4>Lunchtime Concert - MUSEIT: Season Three, Episode 2</h4>
 
 <p>Featuring our Secondary One Lower Secondary Music Syllabus and N(T) music students.</p>
 
@@ -256,20 +253,20 @@ Art student putting up his finishing touch on his final artwork (his installatio
 <img src="/images/Sec1_group3.png">
 <img src="/images/Sec1_group4.jpeg">
 
-<p>Singapore Youth Festival: Celebrations in the City @ Kampung Admiralty</p>
+<p align="center">Singapore Youth Festival: Celebrations in the City @ Kampung Admiralty</p>
 
 <p>Our pop band (students from Secondary Three N(T) level music class) performed with Mr Dick Yip and his Minstrels at Kampung Admiralty for Singapore Youth Festival: Celebrations in the City.</p>
 	
 <img src="/images/SYF.jpeg">
 	
-<p>Singapore Youth Festival: Celebrations in the City @ Esplanade Concourse</p>
+<p align="center">Singapore Youth Festival: Celebrations in the City @ Esplanade Concourse</p>
 
-<p>Collaboration with “The Acapella Group” from ITE College Central.</p>
+<p align="center">Collaboration with “The Acapella Group” from ITE College Central.</p>
 			
 <img src="/images/SYF_EC1.jpeg">
 <img src="/images/SYF_EC2.jpeg">
 
-<p>PRSS pop band was featured on Lian He Zao Bao Article!</p>
+<p></p><center>PRSS pop band was featured on Lian He Zao Bao Article!</center><p></p>
 	
 <img src="/images/popband%201.jpeg">
 <img src="/images/popband%202.jpeg">

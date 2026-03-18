@@ -5,18 +5,19 @@ description: ""
 third_nav_title: The Curriculum
 variant: markdown
 ---
-#### Programme
+### Programme
 
-Mathematics Department aims to develop students to have inquisitive minds, to be independent learners and confident problem solvers. This vision is achieved by equipping every student with the attitude of perseverance, critical thinking, logical reasoning and communication skills that will serve as a foundation for the student to be confident in solving problems in this VUCA world.
+The Math Department aims to develop students to have inquisitive minds, to be independent learners and confident problem solvers. This vision is achieved by equipping every student with the attitude of perseverance, critical thinking, logical reasoning and communication skills that will serve as a foundation for the student to be confident in solving problems in this VUCA world.
 
-Aligned with the school vision, the Mathematics Department embarked on the Professional Learning Team (PLT) as a platform to enhance teaching pedagogies such as Polya’s Model, Differentiated Instructions (DI), Making Thinking Visible (MTV) routines etc. and also to develop teaching packages leveraging the use of ICT through Students Learning Space (SLS) and other ICT tools e.g. GeoGebra, Desmos for deep learning. The lesson packages are designed in such a way that it leverage epedagogies  to support learning. In this process, teachers facilitate students’ learning through discussion as we develop our students to be independent learners who take ownership for their own learning and manage and create their own learning so as to achieve deep and eventually profound learning.
+Aligned with the school vision, the Math Department embarked on the Professional Learning Team (PLT) as a platform to enhance teaching pedagogies such as Polya’s Model, Differentiated Instructions (DI), Making Thinking Visible (MTV) routines etc. and also to develop teaching packages leveraging the use of ICT through Students Learning Space (SLS) and other ICT tools e.g. GeoGebra, Desmos for deep learning. 
+
+The lesson packages are designed in such a way that it leverage e-pedagogies  to support learning. In this process, teachers facilitate students’ learning through discussion as we develop our students to be independent learners who take ownership for their own learning and manage and create their own learning so as to achieve deep and eventually profound learning.
 
 The Mathematics curriculum is closely aligned to MOE defined syllabus and includes problem solving heuristics and application of real-life contexts.
 
-	
 ![](/images/Maths%20Dept%20Website.jpeg)
   
-#### Highlights
+### Programme Highlights
 
 *   Australian Math Competition for Lower Secondary students <br>
 3 Distinction in Upper Sec, 8 Credit in Upper Sec, 6 Credit in Lower Sec
@@ -27,14 +28,14 @@ The Mathematics curriculum is closely aligned to MOE defined syllabus and includ
 *   Math Trail (beyond school)
 *   STEM in Math
 
-#### People
+### People
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
-| Math / Additional Math | Mr So Kwee Soon Victor <br> HOD Mathematics | [so_kwee_soon@moe.edu.sg](mailto:so_kwee_soon@moe.edu.sg) |
+| Math / Additional Math | Mr So Kwee Soon Victor <br> HOD Math | [so_kwee_soon@moe.edu.sg](mailto:so_kwee_soon@moe.edu.sg) |
 | Math / Additional Math| Ms Chew Shuhui Eunice <br>School Staff Developer | [chew_shuhui_eunice@moe.edu.sg](mailto:chew_shuhui_eunice@moe.edu.sg) |
-| Math | Mr Robert Lee Teck Hock <br> SH Mathematics | [lee_teck_hock_robert@moe.edu.sg](mailto:lee_teck_hock_robert@moe.edu.sg) |
-| Math / Computer Applications | Mr Chang Hock Boon <br>ST Mathematics | [chang_hock_boon@moe.edu.sg](mailto:chang_hock_boon@moe.edu.sg) |
+| Math | Mr Robert Lee Teck Hock <br> LH / SH Math | [lee_teck_hock_robert@moe.edu.sg](mailto:lee_teck_hock_robert@moe.edu.sg) |
+| Math / Computer Applications | Mr Chang Hock Boon <br>ST Math | [chang_hock_boon@moe.edu.sg](mailto:chang_hock_boon@moe.edu.sg) |
 | Math / Additional Math | Mr Ng Boon Tiong Desmond | [ng_boon_tiong_a@moe.edu.sg](mailto:ng_boon_tiong_a@moe.edu.sg) |
 | Math / Computer Applications | Mr Cheng Song Fong | [cheng_song_fong@moe.edu.sg](mailto:cheng_song_fong@moe.edu.sg) |
 | Math / Additional Math / Computer Applications | Mr Chng Wei Min Daniel | [chng_wei_min_daniel@moe.edu.sg](mailto:chng_wei_min_daniel@moe.edu.sg) |
@@ -44,7 +45,6 @@ The Mathematics curriculum is closely aligned to MOE defined syllabus and includ
 | Math | Mdm Yeong Wei Syn | [yeong_wei_syn@moe.edu.sg](mailto:yeong_wei_syn@moe.edu.sg)|
 | Maths / EBS | Mr Ernest Yeo | [yeo_yingcai_ernest@moe.edu.sg](mailto:yeo_yingcai_ernest@moe.edu.sg) |
 | Principles of Accounts / Math | Ms Ng Mei Ling | [ng_mei_ling@moe.edu.sg](mailto:ng_mei_ling@moe.edu.sg)|
-| Principles of Accounts / Math | Mr Lee Chee Weng | [lee_chee_weng@moe.edu.sg](mailto:lee_chee_weng@moe.edu.sg) |
 
 #### Photos
 

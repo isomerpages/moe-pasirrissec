@@ -19,9 +19,9 @@ Our focus on clear and effective communication is manifested in programmes such 
 
 In addition, we have developed a comprehensive EL Reading programme, which consists of a series of literary appreciation activities in the library as well as the reading of contemporary issues in the classroom on a regular basis. The students are encouraged to select books from different genres such as realistic fiction, science fiction and action/adventure from recommended book lists. They are also taught to read critically and provide their own personal responses to the characters and issues presented in the books and news articles.
 
-The department has also organised a EL/Lit Festival in Term 2 Week 3 this year where students participated in author’s talks, master classes and exciting library activities to cultivate a joy of learning English Language and Literature. Students also enjoyed the Poetry under the Stars event for our Upper Sec English Literature students to do stargazing and engage in poetry appreciation and writing in the evening.
+The department also organises a EL/Lit Festival in Term 2 annually where students can participate in author’s talks, master classes and exciting library activities to cultivate a joy of learning English Language and Literature. 
 
-Our students are also exposed to a variety of opportunities such as the National Schools Literature Festival (NSLF) which sees them participating in the Book Trailer, Book Parade and Unseen Debates and the International Competitions and Assessments for Schools (ICAS) which challenges students who are strong in the language. In addition, we also participate in the Commonwealth Essay Writing Competition and the YMCA Plain English Speaking competition annually.  
+Our students are also exposed to a variety of opportunities such as the National Schools Literature Festival (NSLF) which sees them participating in the Book Trailer, Book Parade and Unseen Debates and the Singapore Secondary Schools Debating Championships which challenges students who are strong in the language. In addition, we also participate in the Commonwealth Essay Writing Competition and the National Public Speaking competition annually. 
 
 In the Literature classroom, students read and respond to a variety of literary texts from the genres of prose, poetry and drama. They also explore different perspectives and give personal responses to different themes on family, culture and society. The texts can range from classics, such as Shakespeare to modern works such as Farenheit 451 by Ray Bradbury.
 
@@ -33,16 +33,19 @@ It is our goal to continue to engage our students and to prepare them for the ch
 * EL and Literature Festival 
 * Commonwealth Essay Competitions
 * National Schools Literature Festival (NSLF)
+* Singapore Secondary Schools Debating Championships 
+* National Public Speaking competition 
 
 ### People
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
 | English Language / Literature | Mdm Foong Woon Sin <br> HOD English Language and Literature | [foong_woon_sin@moe.edu.sg](mailto:foong_woon_sin@moe.edu.sg) |
-| English Language  | Ms Parvin Bibi Marican<br> Year Head Lower Secondary |[parvin_bibi_marican@moe.edu.sg](mailto:parvin_bibi_marican@moe.edu.sg) |
+| English Language  | Ms Parvin Bibi Marican<br> YH Lower Secondary |[parvin_bibi_marican@moe.edu.sg](mailto:parvin_bibi_marican@moe.edu.sg) |
 | English Language | Mrs Lynn Tan <br> LT English Language | [loy_lin_li_lynn@moe.edu.sg](mailto:loy_lin_li_lynn@moe.edu.sg) |
 | English Language / Literature | Ms Jumiah Ahmad <br> ST English Language | [jumiah_ahmad@moe.edu.sg](mailto:jumiah_ahmad@moe.edu.sg) |
 | English Language / Literature | Ms Nithiyaa Rajaratnam <br> LH English Language | [nithiyaa_rajaratnam@moe.edu.sg](mailto:[nithiyaa_rajaratnam@moe.edu.sg](mailto:nithiyaa_rajaratnam@moe.edu.sg)@moe.edu.sg) |
+| English Language / Science | Mr Daniel Ng <br> SH CCE | [ng_tze_keen_daniel@moe.edu.sg](mailto:ng_tze_keen_daniel@moe.edu.sg) |
 | English Language / Geography | Mdm Noraidah Suwandi | [noraidah_suwandi@moe.edu.sg](mailto:noraidah_suwandi@moe.edu.sg)|
 | English Literature / History | Ms Mavis Ho Min Yu| [ho_min_yu_mavis@moe.edu.sg](mailto:ho_min_yu_mavis@moe.edu.sg) |
 | English Language / Elements of Business Skills | Mdm Lee Wei Wei | [lee_wei_wei@moe.edu.sg](mailto:lee_wei_wei@moe.edu.sg)|
@@ -53,7 +56,7 @@ It is our goal to continue to engage our students and to prepare them for the ch
 | English Language / Social Studies | Ms Pearlyn Chia Kai Ling | [pearlyn_chia_kai_ling@moe.edu.sg](mailto:pearlyn_chia_kai_ling@moe.edu.sg) |
 | English Language / Literature | Ms Maryam Anuar | [maryam_anuar@moe.edu.sg](mailto:maryam_anuar@moe.edu.sg) |
 | Art / English Language | Ms Kimberlyn Lee | [kimberlyn_lee@moe.edu.sg](mailto:kimberlyn_lee@moe.edu.sg) |
-| Science / English Language | Mr Daniel Ng | [ng_tze_keen_daniel@moe.edu.sg](mailto:ng_tze_keen_daniel@moe.edu.sg) |
+
 
 ### Photos
 

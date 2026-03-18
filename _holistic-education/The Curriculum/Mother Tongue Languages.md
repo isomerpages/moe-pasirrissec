@@ -9,7 +9,7 @@ variant: markdown
 
 #### Vision
 
-##### **Learn our MTL, Love our MTL, Live out our MTL | Teachers as Learners, Teachers as Leaders**
+L**earn our MTL, Love our MTL, Live out our MTL | Teachers as Learners, Teachers as Leaders**
 
 The Mother Tongue Languages (MTL) Department believes in nurturing Pasirians to:  
 
@@ -28,13 +28,13 @@ We seek to develop Pasirians who will be:
 * *Connected learners* who leverage technology in the application of MTL in daily life and to the understanding of contemporary issues.
 * *Discerning digital users* who are keenly aware and proud of their cultural heritage (values, history, tradition) and willing to embrace other cultures in Singapore and Asia in the increasingly digitised age.
 
-#### Programme Highlights
+### Programme Highlights
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/mtl%20dept%20website%20update%202023.png)
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/mtl%20dept%20website%20update%202023%2002.png)
 
-####  People
+###  People
 
 **Teachers as Learners, Teachers as Leaders**
 
@@ -57,18 +57,9 @@ Professional development includes department retreats and learning journeys, ope
 | Malay Language | Mdm Anmilia Bte Anwar Datt  | [anmilia_anwar_datt@moe.edu.sg](mailto:anmilia_anwar_datt@moe.edu.sg) |
 | Malay Language | Mr Muhammad Omarali Bin Zulkiflee | [muhammad_omarali_zulkiflee@moe.edu.sg](mailto:muhammad_omarali_zulkiflee@moe.edu.sg) |
 
-#### Photos
-![](/images/Curriculum/Mother%20Tongue%20Language/CNY_2025.png)
-
-![](/images/Curriculum/Mother%20Tongue%20Language/MTL_Dept_Comp.png)
+### Photos
 
 ![](/images/Curriculum/Mother%20Tongue%20Language/MTL_Fortnight_2025.jpg)
-
-![](/images/Curriculum/Mother%20Tongue%20Language/MTL_Fortnight_2025___2_.png)
-
-![](/images/Curriculum/Mother%20Tongue%20Language/MTL_Fortnight_2025___1_.png)
-
-![](/images/Curriculum/Mother%20Tongue%20Language/MTL_Fortnight_2025___3_.png)
 
 ![](/images/Deepavali.jpeg)
 

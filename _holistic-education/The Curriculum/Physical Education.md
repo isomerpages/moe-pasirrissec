@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Programme
 
-The Physical Education Department at PRSS aspires to develop Pasirians' to cultivate skills, practices and values to enjoy a lifetime of active healthy living. Our PE programme consists mainly of:
+At Pasir Ris Secondary, the Physical Education Department aspires to develop Pasirians' to cultivate skills, practices and values to enjoy a lifetime of active healthy living. Our PE programme consists mainly of:
 
 1. Physical Health and Fitness Lessons
 2. Sports Module
@@ -15,21 +15,21 @@ The Physical Education Department at PRSS aspires to develop Pasirians' to culti
 
 #### Learning outcomes and objectives
 
-To enable Pasirians to demonstrate individually and with others the physical skills, practices and values to enjoy a lifetime of active and healthy living.
+To enable Pasirians' to demonstrate individually and with others the physical skills, practices and values to enjoy a lifetime of active and healthy living.
 
-#### Programme Highlights
+### Programme Highlights
 
-Termly Physical Activities Games Modules 
-Physical, Health and Fitness
-Outdoor Education
-Secondary 1 Outdoor Adventure Learning Camp
-Secondary 3 MOE-OBS Camp 
-Level Camps 
-Annual Cross-Country Meet
-Inter-Class Games
-Learn To Play Games Enrichment Modules
+* Termly Physical Activities Games Modules 
+* Physical, Health and Fitness
+* Outdoor Education
+* Secondary 1 Outdoor Adventure Learning Camp
+* Secondary 3 MOE-OBS Camp 
+* Level Camps 
+* Annual Cross-Country Meet
+* Inter-Class Games
+* Learn To Play Games Enrichment Modules
 
-#### People
+### People
 
 | Subject(s) Taught | Name | E-mail Address |
 | -------- | -------- | -------- |
@@ -39,7 +39,7 @@ Learn To Play Games Enrichment Modules
 | Physical Education  | Mr Yew Kah Keat Vincent| [yew_kah_keat_vincent@moe.edu.sg](mailto:yew_kah_keat_vincent@moe.edu.sg)|
 | Physical Education  | Mr Mohamed Iskandar Bin Ahmad | [mohamed_iskandar_ahmad@moe.edu.sg](mailto:mohamed_iskandar_ahmad@moe.edu.sg) |
 
-#### Photos
+### Photos
 
 ![](/images/Curriculum/Physical%20Education/prss%20pe%20dept%202023.jfif)
 <center><i>PRSS PE Department</i></center>
