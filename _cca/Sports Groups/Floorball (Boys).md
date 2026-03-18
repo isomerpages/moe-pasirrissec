@@ -27,8 +27,8 @@ Our training framework which revolves around our A, B, Cs and 1, 2, 3s aims to d
 | Monday | 2.30 pm - 5.30 pm | Hall |
 | Wednesday | 3.00 pm - 6.00 pm  | Hall |
 
-**Addtional Training Days for 2026**<br>
-Saturday 8.00am to 11.00am (E6 Cluster Floorball Development Programme)
+Addtional Training Days for 2026<br>
+* Saturday 8.00am to 11.00am (E6 Cluster Floorball Development Programme)
 
 ### Teacher-in-charge
 * Mr Amir HMS (OIC)
