@@ -15,9 +15,9 @@ With strong support from MINDEF and SAF, our cadets are able to acquire military
 
 ### Highlights
 
-Both our units, NCC Boys and NCC Girls, have attained the Distinction Award every year since 2018. We have good results from Annual Sports Competition, with our Sec 1 Boys and Sec 2 Girls unit placing 4th in Nationals.
-Freestyle Drill Exhibition (FSD) competition has always been the niche of PRSS NCC unit. The exciting annual competition fosters creativity, teamwork, resilience and discipline that are hallmarks of a NCC Cadet. In this competition, cadets are required to choreograph the drill movements and promote creativity to make drill fun but yet challenging.
-We are also growing our Precision Drill Squad (PDS) starting in 2025, inviting interested students to join and train precision drills with rifles. Courses organised by HQ will also be offered to them as they advance in their proficiency.
+* Both our NCC Boys and NCC Girls units have attained the Distinction Award every year since 2018. We have good results from Annual Sports Competition, with our Sec 1 Boys and Sec 2 Girls unit placing 4th in Nationals.
+* Freestyle Drill Exhibition (FSD) competition has always been the niche of PRSS NCC unit. The exciting annual competition fosters creativity, teamwork, resilience and discipline that are hallmarks of a NCC Cadet. In this competition, cadets are required to choreograph the drill movements and promote creativity to make drill fun but yet challenging.
+* We are also growing our Precision Drill Squad (PDS) starting in 2025, inviting interested students to join and train precision drills with rifles. Courses organised by HQ will also be offered to them as they advance in their proficiency.
 
 ### Schedule
 
@@ -33,7 +33,7 @@ We are also growing our Precision Drill Squad (PDS) starting in 2025, inviting i
 | -------- | -------- | 
 | Mr Cheng Song Fong (OIC)  | Mr Eric Koh (OIC)| 
 | Mr Ernest Yeo (2IC)  | Ms Sabrina Ho (2IC) | 
-| Mdm Mabel Zhang Lingjia |  | 
+| Mdm Mabel Zhang Lingjia | 
 
 ### Photos &amp; Videos
 
