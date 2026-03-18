@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-#### Only the Best wear Blue
+### Only the Best wear Blue
 
 Pasir Ris Secondary School NPCC Unit believes in developing our cadets' character, leadership, and resilience. Hence, our unit motto is **Nurturing Leaders of Tomorrow**. We will always ensure that all cadets have a fulfilling experience discovering themselves and learning skills that will be useful for the future. 
 
@@ -20,12 +20,12 @@ Some of our unit programmes include the 0.22 revolver shooting, the Crime Scene 
 * Community Safety and Security Programme sharing with the NCDCC cadets
 * SCDF Tampines Fire Station visit
 * Area Games Day
-* Secondary 1 oath-taking ceremony
+* Secondary 1 Oath-taking ceremony
 * Kayaking 1-star course
 * NPCC Police Annual Parade
 * NPCC Observance Parade
-* 0.22 classification shoot
-* 0.38 shooting competition
+* 0.22 Classification Shoot
+* 0.38 Shooting Competition
 * Mid-Year Unit bonding camp
 
 ### **Achievements**
