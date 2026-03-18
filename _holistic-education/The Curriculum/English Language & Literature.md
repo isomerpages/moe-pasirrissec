@@ -45,7 +45,7 @@ It is our goal to continue to engage our students and to prepare them for the ch
 | English Language | Mrs Lynn Tan <br> LT English Language | [loy_lin_li_lynn@moe.edu.sg](mailto:loy_lin_li_lynn@moe.edu.sg) |
 | English Language / Literature | Ms Jumiah Ahmad <br> ST English Language | [jumiah_ahmad@moe.edu.sg](mailto:jumiah_ahmad@moe.edu.sg) |
 | English Language / Literature | Ms Nithiyaa Rajaratnam <br> LH English Language | [nithiyaa_rajaratnam@moe.edu.sg](mailto:[nithiyaa_rajaratnam@moe.edu.sg](mailto:nithiyaa_rajaratnam@moe.edu.sg)@moe.edu.sg) |
-| Science / English Language | Mr Daniel Ng <br> SH CCE | [ng_tze_keen_daniel@moe.edu.sg](mailto:ng_tze_keen_daniel@moe.edu.sg) |
+| English Language / Science | Mr Daniel Ng <br> SH CCE | [ng_tze_keen_daniel@moe.edu.sg](mailto:ng_tze_keen_daniel@moe.edu.sg) |
 | English Language / Geography | Mdm Noraidah Suwandi | [noraidah_suwandi@moe.edu.sg](mailto:noraidah_suwandi@moe.edu.sg)|
 | English Literature / History | Ms Mavis Ho Min Yu| [ho_min_yu_mavis@moe.edu.sg](mailto:ho_min_yu_mavis@moe.edu.sg) |
 | English Language / Elements of Business Skills | Mdm Lee Wei Wei | [lee_wei_wei@moe.edu.sg](mailto:lee_wei_wei@moe.edu.sg)|
