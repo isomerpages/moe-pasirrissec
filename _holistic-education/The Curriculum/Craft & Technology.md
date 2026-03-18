@@ -89,32 +89,29 @@ Still Life object photography before painting</p>
 		
 <img src="/images/Still%20life.jpeg">
 
-<b></b><p><b>Highlights Photo Set B: </b>
-Launching of the Art Installation Showcase @Level 2 during the 35th Anniversary celebrations (12 Mar 2021)</p>
-
 <img src="/images/Aet%20Installation.png">
 
-<b></b><p><b>Highlights Photo Set C: </b> 
+<b></b><p><b>Highlights Photo Set B: </b> 
 Student’s Portraiture Showcase @Le Visage Gallery – Level 3</p>
 			
 <img src="/images/Portraiture%20Showcase.jpeg">
 
-<b></b><p><b>Highlights Photo Set D: </b> Student’s master pieces @The Sculpture Park – Level 4</p>
+<b></b><p><b>Highlights Photo Set C: </b> Student’s master pieces @The Sculpture Park – Level 4</p>
 		
 <img src="/images/The%20Sculpture%20Park.jpeg">
 			
-<b></b><p><b>Highlights Photo Set E: </b> Secondary 2 student working on her printmaking template</p>
+<b></b><p><b>Highlights Photo Set D: </b> Secondary 2 student working on her printmaking template</p>
 			
 <img src="/images/printmaking%20template.jpeg">
 			
-<b></b><p><b>Highlights Photo Set F: </b> A group of 3NA Art on the learning journey to 2020 NAFA Open House event to get inspiration</p>
+<b></b><p><b>Highlights Photo Set E: </b> A group of 3NA Art on the learning journey to 2020 NAFA Open House event to get inspiration</p>
 			
 <img src="/images/art.png">
 			
-<b></b><p><b>Highlights Photo Set G: </b> Art jamming @NAFA’s Skylight Studio. Can you spot Mr. Rahman’s drawing?</p>
+<b></b><p><b>Highlights Photo Set F: </b> Art jamming @NAFA’s Skylight Studio. Can you spot Mr. Rahman’s drawing?</p>
 <img src="/images/Art%20jamming%20@NAFA’s%201.jpeg">
 			
-<p><b>Highlights Photo Set H: </b>3A1 budding artists have a go at canvas painting during their studio practice.</p>		
+<p><b>Highlights Photo Set G: </b>3A1 budding artists have a go at canvas painting during their studio practice.</p>		
 <img src="/images/canvas%20painting.jpeg">
 
 <p><b>Highlights Photo Set H: </b> 
