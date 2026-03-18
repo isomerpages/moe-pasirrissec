@@ -30,13 +30,13 @@ The Concert Band, led by two well-respected conductors, has a dynamic programme 
 
 ### Schedule
 
-**Combined Practice**
+##### Combined Practice
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
 | Monday &amp; Thursday | 3.15pm - 6.30pm | Band Room |
 
-**Sectionals Practice**
+##### Sectionals Practice
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
