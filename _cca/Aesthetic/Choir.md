@@ -5,15 +5,15 @@ description: ""
 third_nav_title: Aesthetic
 variant: markdown
 ---
-##### Many Voices, One Harmony
+### Many Voices, One Harmony
 
-The Pasir Ris Secondary School Choir aims to foster a family of choristers with exemplary character and musicianship, who is self-directed to achieve high standards of performance whilst celebrates cultural diversity. With our motto of **“Many Voices, One Harmony”**, PRSS Choir prides herself by working together as a family where no member is left behind. We believe in deepening one’s values, developing one's self-confidence and honing one's leadership skills. These qualities reflect the school’s belief in the importance of developing confident and well-rounded individuals as they contribute actively to the music culture in school. 
+The Pasir Ris Secondary School Choir aims to foster a family of choristers with exemplary character and musicianship, who are self-directed to achieve high standards of performance while celebrating cultural diversity. With our motto of **“Many Voices, One Harmony”**, PRSS Choir prides itself on working together as a family where no member is left behind. We believe in deepening one’s values, developing one's self-confidence, and honing one's leadership skills. These qualities reflect the school’s belief in the importance of developing confident and well-rounded individuals as they contribute actively to the music culture in school. 
 
-In 2010, PRSS Choir found new direction, transitioning from a SSA (Female) Choir to SATB (Mixed-Gender) Choir under the baton of Mr. Terrence Toh. Over time, PRSS Choir grew from strength to strength, culminating in the attainment of her first Singapore Youth Festival (SYF) Gold Award as an SATB Choir in 2011. Subsequently, in 2013, PRSS Choir was awarded a Certificate of Distinction in the biennial SYF Arts Presentation, a feat repeated in 2015, 2017 and 2019, establishing herself as a Performing Arts group with immense potential and promise. With ample opportunities and a rich diversity of learning experiences created for every member, both locally and overseas over the years, PRSS Choir hopes to bring out the best in every member, apart from discovering their musical talents and developing an appreciation for music.
+In 2010, PRSS Choir found new direction, transitioning from a SSA (Female) choir to SATB (Mixed-Gender) choir under the baton of Mr. Terrence Toh. Over time, PRSS Choir grew from strength to strength, culminating in the attainment of its first Singapore Youth Festival (SYF) Gold Award as an SATB choir in 2011. Subsequently, in 2013, PRSS Choir was awarded a Certificate of Distinction in the biennial SYF Arts Presentation, a feat repeated in 2015, 2017, and 2019, establishing it as a performing arts group with immense potential and promise. With ample opportunities and a rich diversity of learning experiences created for every member, both locally and overseas over the years, PRSS Choir hopes to bring out the best in every member, and to help them discover their musical talents and develop an appreciation for music.
 
 ### Highlights
 
-Every year is an exciting year for PRSS Choir, with an array of meaningful activities. Other than the opportunities to stage full-length concerts with our PRSS Choir alumni to showcase their musical abilities, outdoor performances have been and will always be definitive and stimulating experiences for all PRSS Choir members. These activities include the following:
+Every year is an exciting year for PRSS Choir, with an array of meaningful activities. Other than opportunities to stage full-length concerts with our PRSS Choir alumni to showcase their musical abilities, outdoor performances have been and will always be definitive and stimulating experiences for all PRSS Choir members. These activities include the following:
 
 * 2017 Tampines Hub Grand Opening Celebrations - La(H) Singapura! Concert
 * 2018 A Beautiful Life: A Tapestry of Love - Victoria Concert Hall
@@ -43,7 +43,7 @@ Every year is an exciting year for PRSS Choir, with an array of meaningful activ
 * Mr Omarali (2IC)
 * Mdm Sumrah 
 
-#### Conductor
+### Conductor
 * Mr Terrence Toh
 * Mr Ivan Tan
 * Ms Zhou Manqi
