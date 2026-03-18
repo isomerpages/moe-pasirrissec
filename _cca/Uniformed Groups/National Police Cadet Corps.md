@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### Only the Best wear Blue
 
-Pasir Ris Secondary NPCC Unit believes in developing our Cadets' character, leadership and resilience. Hence, our unit motto is **Nurturing Leaders of Tomorrow**. We will always ensure that all the cadets will have a fulfilling experience discovering about themselves and learning skills that will be useful for the future. 
+Pasir Ris Secondary School NPCC Unit believes in developing our Cadets' character, leadership and resilience. Hence, our unit motto is **Nurturing Leaders of Tomorrow**. We will always ensure that all the cadets will have a fulfilling experience discovering about themselves and learning skills that will be useful for the future. 
 
 This year, some of our cadets are gearing up in preparation for the HQ competitions such as the CSI Competition and Area competition. It is also our pride to achieve our 19th consecutive year Gold Award for the Unit Overall Proficiency Award (UOPA) in 2022. 
 
