@@ -55,15 +55,6 @@ National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under t
 ![SCDF Award Recipients](/images/CCA/NDCC/ndcc04.JPG)
 <center>SCDF Award Recipients</center>
 
-![Cross Country First Aider](/images/CCA/NDCC/ndcc%2001.jpg)
-<center>Cross Country First Aider</center>
-
 ![National Day Parade](/images/CCA/NDCC/ndcc%2002.jpg)
 <center>National Day Parade</center>
-
-![Precision Drill Competition](/images/CCA/NDCC/ndcc%2003.jpg)
-<center>Precision Drill Competition</center>
-
-![Service Month at MWS Center](/images/CCA/NDCC/ndcc%2005.jpg)
-<center>Service Month at MWS Center</center>
 
