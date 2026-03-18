@@ -25,7 +25,7 @@ the four CCA groups:</p>
 <p>Performing Arts</p>
 </li>
 <li>
-<p>Clubs and societies</p>
+<p>Clubs</p>
 </li>
 </ul>
 <p>Students will be graded according to the LEAPs 2.0 system. For more information,
