@@ -24,44 +24,44 @@ MOE uses the Cyber Wellness framework to develop the child’s instinct to prote
 
 Students need to:
 
-*   uphold their own dignity when online (e.g., share appropriate content and participate in only legal online activities).  
+*   Uphold their own dignity when online (e.g., share appropriate content and participate in only legal online activities).  
     
-*   respect other people online. (e.g., put themselves in others’ shoes, accept diverse views and opinions, give credit when using other people’s work, and seek permission where necessary and avoid sharing hurtful materials)
+*   Respect other people online. (e.g., put themselves in others’ shoes, accept diverse views and opinions, give credit when using other people’s work, and seek permission where necessary and avoid sharing hurtful materials)
 
 **2. Safe and Responsible Use**
 
 Students need to:
 
-*   have an understanding of the risks of harmful and illegal online behaviours and take steps to protect themselves (e.g., keep their personal information private, verify the reliability of information using various sources and take steps to avoid dangers they may encounter online).
+*   Have an understanding of the risks of harmful and illegal online behaviours and take steps to protect themselves (e.g., keep their personal information private, verify the reliability of information using various sources and take steps to avoid dangers they may encounter online).
     
-*   make wise and healthy choices (e.g., maintain a healthy balance of their online and offline activities).
+*   Make wise and healthy choices (e.g., maintain a healthy balance of their online and offline activities).
 
 **3.  Positive Peer Influence**
 
 Students need to:
 
-*   be a positive role model online (e.g. share healthy and positive content, harness the affordances of technology to do good for society)      
-*   advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media)  
+*  Be a positive role model online (e.g., share healthy and positive content, harness the affordances of technology to do good for society).
+*  Advocate positive online behaviour (e.g., stand up for their peers online, report cases of cyberbullying to a trusted adult/authority and post encouraging remarks on social media).  
     
 ### PRSS Cyber Wellness Programme
 
-In Pasir Ris Secondary School, our vision is to develop Pasirians as savvy online users who have positive online influence. To do so, we have a 3-pronged approach:
+At Pasir Ris Secondary School, our vision is to develop Pasirians as savvy online users who have positive online influence. To do so, we have a 3-pronged approach:
 
 ![](/images/PRSS%20Cyber%20Wellness%20Programme2.jpeg)
 
 ### Cyber Wellness Curriculum
 
-The goal of CW lessons is to equip students with life-long social-emotional competencies and sound values so that they can become safe, respectful and responsible users of Information Communications Technology (ICT).
+The goal of Cyber Wellness lessons is to equip students with lifelong social-emotional competencies and sound values so that they can become safe, respectful and responsible users of Information Communications Technology (ICT).
 
 The four key messages for students are:
 
-1. Embrace ICT yet maintain a balanced lifestyle between the physical and the cyber world.    
+1. Embrace ICT yet maintain a balanced lifestyle between the physical and the cyber world.
 
-3. Harness the power of ICT for positive purposes. 
+3. Harness the power of ICT for positive purposes.
     
-3.  Maintain a positive presence in cyberspace.  
+3. Maintain a positive presence in cyberspace.
     
-4.  Be a safe and responsible user of ICT.  
+4. Be a safe and responsible user of ICT.
 
 Lessons are delivered via the Character and Citizenship Education (CCE) curriculum in PRSS. Key CW topics are also incorporated in subjects such as English and Mother Tongue Languages.
 
@@ -73,13 +73,13 @@ Extracted from MOE (2024, Oct 02) [Practising Cyber Wellness](https://www.moe.go
 
 #### Sense-Think-Act @ Home
 
-To complement the Cyber Wellness curriculum in schools, parents can set a good example at home in the use of technology and play an active role in guiding our children to navigate in cyberspace.&nbsp;In partnership with parents, we also organise parenting workshops for parents during PTMs to learn more about what teenagers do online and how to effectively manage some of the challenges they face in managing their children’s online behaviour.
+To complement the Cyber Wellness curriculum in schools, parents can set a good example at home in the use of technology and play an active role in guiding our children to navigate in cyberspace. In partnership with parents, we also organise parenting workshops for parents during Parent Teacher Meetings to learn more about what teenagers do online and how to effectively manage some of the challenges they face in managing their children’s online behaviour.
 
 To ensure that their children are safe and have positive experiences online, parents can:
 
 ![](/images/PARENT.png)
 
-The Cyber Wellness programme in PRSS aim to equip students with the knowledge, skills and values to exhibit appropriate behaviour when interacting with other cyber users to advocate a safe and healthy cyber community.
+The Cyber Wellness programme in PRSS aims to equip students with the knowledge, skills and values to exhibit appropriate behaviour when interacting with other cyber users to advocate a safe and healthy cyber community.
 
 #### Training and Workshops
 
