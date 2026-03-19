@@ -42,7 +42,7 @@ Social-emotional competencies enable us to examine and understand our own though
 
 The competencies related to developing **self-awareness** allow us to understand our emotions, thoughts, values, personal goals, and mindsets, which enable us to construct an understanding of who we are.
 
-The competencies related to **social awareness** enable us to develop cognitive and emotional empathy, understand the perspectives of people with different backgrounds or cultures, and to become more sensitive to the social environment and the needs of others.
+The competencies related to **social awareness** enable us to develop cognitive and emotional empathy, understand the perspectives of people with different backgrounds or cultures, and become more sensitive to the social environment and the needs of others.
 
 The competencies for **self-management** enable us to self-regulate our emotions, thoughts and behaviours, to achieve personal well-being, to demonstrate pro-social behaviours, and to choose to be our best selves.
 
