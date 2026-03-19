@@ -14,9 +14,9 @@ We are disciplined and responsible for our actions.<br>
 We are loyal to the Nation.
 </center>
 
-National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under the purview of the Ministry of Education and the Ministry of Home Affairs, Singapore Civil Defence Force. NCDCC believes in developing and empowering our youths to be active concerned citizens with life-saving skills. 
+National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under the purview of the Ministry of Education and the Ministry of Home Affairs, Singapore Civil Defence Force. NCDCC believes in developing and empowering our youths to be active, concerned citizens with life-saving skills. 
 
-The Pasir Ris Secondary NCDCC began its journey in 2015, with the focus to develop greater awareness of civil defence in our cadets and prepare them with the skills to respond effectively to emergencies at home and abroad. The attitude of readiness against adversity and practical skills which are critical in the face of danger and emergencies, are life-long capabilities that will prove beneficial to our young civil defence ambassadors.  
+The Pasir Ris Secondary NCDCC began its journey in 2015, with the focus on developing greater awareness of civil defence in our cadets and preparing them with the skills to respond effectively to emergencies at home and abroad. The attitude of readiness against adversity and practical skills, which are critical in the face of danger and emergencies, are lifelong capabilities that will prove beneficial to our young civil defence ambassadors.  
 
 ### Highlights
 
@@ -26,17 +26,17 @@ The Pasir Ris Secondary NCDCC began its journey in 2015, with the focus to devel
 
 ### Achievements
 
-**2025**
-* Unit Overall Performance Award - Distinction (*11th consecutive year since 2015*)
-* Pinnacle Award - Warrant Officer Lim Shi Enn 
-* Pinnacle Award - Warrant Officer Fu Shi wei
-* Unit Best Cadet - Warrant Officer Lim Shi Enn 
-
 **2024**
 * Unit Overall Performance Award - Distinction 
 * Pinnacle Award - Warrant Officer Chuang Kai Yuen 
 * Pinnacle Award - Warrant Officer Lim En Xuan
 * Best Unit Cadet - Warrant Officer Lim En Xuan
+
+**2025**
+* Unit Overall Performance Award - Distinction (*11th consecutive year since 2015*)
+* Pinnacle Award - Warrant Officer Lim Shi Enn 
+* Pinnacle Award - Warrant Officer Fu Shi wei
+* Unit Best Cadet - Warrant Officer Lim Shi Enn 
 
 ### Schedule
 
