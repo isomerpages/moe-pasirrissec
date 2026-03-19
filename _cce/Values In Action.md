@@ -20,7 +20,7 @@ of what it takes to be socially responsible.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/VIA/via_2023_02.png">
 </div>
 <h4>ECO Stewardship</h4>
-<p>Through purposeful partnerships with external organizations like Outward
+<p>Through purposeful partnerships with external organisations like Outward
 Bound School and Ocean Purpose Project, our students participate actively
 and advocate for the responsible use of natural resources and protection
 of the natural environment through coastal clean-up projects and upcycling.
@@ -36,7 +36,7 @@ primary school and kindergarten students in our community.</p>
 to take action to support lower-income families experiencing food insecurity.
 Students help create awareness among schoolmates and rally support through
 food drives at school or by encouraging classmates to volunteer and provide
-services to various organizations.</p>
+services to various organisations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/VIA/via_2023_05.png">
 </div>
