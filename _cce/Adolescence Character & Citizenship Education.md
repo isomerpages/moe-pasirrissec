@@ -26,7 +26,7 @@ Students will learn values through three overarching ideas, namely Identity, Rel
 
 ![](/images/The%20CCE%202021%20Curriculum%20Frame.png)
 
-<center>The CCE 2021 Curriculum Frame</center>
+<center><strong>The CCE 2021 Curriculum Frame</strong></center>
 
 ![](/images/CCE%20Curriculum%20Content.png)
 
