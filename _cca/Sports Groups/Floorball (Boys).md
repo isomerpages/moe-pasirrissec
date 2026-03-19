@@ -5,18 +5,20 @@ variant: markdown
 description: ""
 third_nav_title: Sports Groups
 ---
-2024 marks the beginning of our Floorball CCA journey, starting with our Secondary 2 boys from the various CCA groups. From 2025, Floorball (Boys) is offered as one of the Sports CCAs.
+### Play Hard, Play Smart and Play Together
 
-Our members are guided by our team ethos of: Positive Winning Attitude, Basics to Perfection, Communication, Discipline, Enthusiasm, Focus and Grit. 
+2024 marks the beginning of our Floorball CCA journey, starting with our Secondary 2 boys from the various CCA groups. From 2025, floorball (boys) is offered as one of the sports CCAs.
 
-Our training framework which revolves around our A, B, Cs and 1, 2, 3s aims to develop our students into accomplished Sportsmen and Gentlemen who **Play Hard, Play Smart and Play Together.**
+Our members are guided by our team ethos of positive winning attitude, basics to perfection, communication, discipline, enthusiasm, focus and grit. 
+
+Our training framework, which revolves around our A, B, Cs and 1, 2, 3s, aims to develop our students into accomplished sportsmen and gentlemen who **play hard, play smart and play together.**
 
 ### Highlights
 
-* Our boys participated in our maiden National School Games Floorball Championships in 2024 (C-Division Boys) League 3
-* We participated at the U14 Pesta Sukan Floorball Challenge (Quarter-Finals) and U17 Pesta Sukan Floorball Challenge (Preliminary Round) in July
-* We also grew as a team through our participation at the  U16 Youth Floorball League (November, December 2024)
-* Participation at the NSG and external competitions have provided our boys with a holistic CCA experience
+* Our boys participated in our maiden National School Games Floorball Championships in 2024 (C-Division Boys), League 3.
+* We participated at the U14 Pesta Sukan Floorball Challenge (Quarter-Finals) and U17 Pesta Sukan Floorball Challenge (Preliminary Round) in July.
+* We also grew as a team through our participation at the U16 Youth Floorball League (November, December 2024).
+* Participation at the NSG and external competitions has provided our boys with a holistic CCA experience.
 
 ### Open to Boys only
 
@@ -40,7 +42,7 @@ Mr Amir HMS
 ### Photos &amp; Videos
 
 
-![Floorball team w flag](/images/CCA/Floorball/Floorball.jpg)
+![Floorball team w flag](/images/CCA/Floorball/Floorball.jpg)<br>
 Our Floorball CCA Flag and CCA Logo were unveiled during the CCA Leadership Handover Ceremony on 30th June 2025. The Floorball CCA logo was designed by our Floorballers Daing Shurahbil Bin Daing Shaffie (3A2) and Captains Lucas Lim Le Xuan (3E6) and Kiegan Ang Zhe-Yu (S1-1)
 
 ![](/images/CCA/Floorball/Floorball_C_Boys_at_NSG_2024.jpg)

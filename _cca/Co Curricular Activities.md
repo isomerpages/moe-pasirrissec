@@ -9,39 +9,39 @@ well-rounded education that Pasir Ris Secondary School seeks to provide.
 The school has a broad and diverse range of CCAs to cater to the different
 needs and interests of our students.</p>
 <p>Our CCA Programme provides students with a platform to discover their
-interests and talents, as well as develop CCA-specific knowledge, skills,
-values and attitudes through sustained participation.</p>
+interests and talents as well as develop CCA-specific knowledge, skills,
+values, and attitudes through sustained participation.</p>
 <p>CCA participation is <strong>compulsory</strong> for all students in secondary
-school. All students care expected to take part in at least one CCA from
+school. All students are expected to take part in at least one CCA from
 the four CCA groups:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Uniformed groups</p>
+<p>Uniformed Groups</p>
 </li>
 <li>
 <p>Sports</p>
 </li>
 <li>
-<p>Performing Arts</p>
+<p>Aesthetics</p>
 </li>
 <li>
 <p>Clubs</p>
 </li>
 </ul>
-<p>Students will be graded according to the LEAPs 2.0 system. For more information,
-visit MOE <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" rel="noopener noreferrer nofollow" target="_blank">LEAPs 2.0 for secondary school</a> website.</p>
+<p>Students will be graded according to the LEAPs 2.0 system. For more information
+on the LEAPs 2.0, visit MOE <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" rel="noopener noreferrer nofollow" target="_blank">LEAPs 2.0 for secondary school</a> website.</p>
 <h4><strong>CCA Participation</strong></h4>
-<p>All students must enrolled in a CCA throughout their secondary education.
-Points will be awarded for participation only when attendance rate is above
-75%. Students with poor CCA attendance (less than 75%) will be given a
-conduct grade of fair and their CCA points will not be computed for the
-year.</p>
+<p>All students must enrol in a CCA throughout their secondary education.
+Points will be awarded for participation only when the attendance rate
+is above 75%. Students with poor CCA attendance (less than 75%) will be
+given a conduct grade of 'fair', and their CCA points will not be computed
+for the year.</p>
 <p>Students are encouraged to remain in the CCA assigned to them throughout
 their secondary education. Changing of CCA will only be considered due
 to medical reasons. In this case, the LEAPs 2.0 points will not be affected.</p>
 <p>Students may participate in more than one CCA on a case by case basis
 approved by HOD PE/CCA.</p>
-<h4><strong>Below are the Co-Curricular Activities (CCAs) offered at Pasir Ris Secondary School:</strong><br></h4>
+<h4><strong>CCAs offered at Pasir Ris Secondary School</strong><br></h4>
 <p>Most CCAs are open to all students, while a few are gender-specific. Please
 refer to the table below or select the respective CCA icons for more details.</p>
 <p></p>
@@ -55,13 +55,13 @@ refer to the table below or select the respective CCA icons for more details.</p
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Aesthetic</p>
+<p>Aesthetics</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Clubs</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Sports &amp; Games</p>
+<p>Sports</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Uniformed Groups</p>

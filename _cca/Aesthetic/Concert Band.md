@@ -7,26 +7,26 @@ variant: markdown
 ---
 ### One Band, One Sound, One Soul
 
-The Pasir Ris Secondary School Concert Band is committed to create resilient leaders and passionate musicians among our members. We instill a high standard of musicianship and discipline among our members in our pursuit of music excellence. Members are provided with many opportunities to showcase their passion for music through various performing platforms, masterclasses, and exchange programmes. In addition, our distinct leadership programme is aimed to harness leadership skills as well as musicianship.
+The Pasir Ris Secondary School Concert Band is committed to creating resilient leaders and passionate musicians among our members. We instil a high standard of musicianship and discipline among our members in our pursuit of musical excellence. Members are provided with many opportunities to showcase their passion for music through various performing platforms, masterclasses, and exchange programmes. In addition, our distinct leadership programme is aimed at harnessing leadership skills as well as musicianship.
 
 ### Highlights
 
-The Concert Band, led by two well-respected conductors, has a dynamic programme to ensure your well rounded development in musicality and character. From showcases to camps to exchanges and overseas programmes, we have it all! 
+The PRSS Concert Band, led by two well-respected conductors, has a dynamic programme to ensure your well-rounded development in musicality and character. From showcases to camps to exchanges and overseas programmes, we have it all! 
 
-* 2019 Tampines GRC National Day Observance Ceremony 
-* 2019 La Famille de Musique @ Singapore Conference Hall 
-* 2020 La Famille de Musique eGames Day 
-* 2022 WBAS Youth Arts Leaders Conference 
-* 2023 Labour Day Open House @ Istana 
-* 2023 Singapore Youth Festival
+* 2019: Tampines GRC National Day Observance Ceremony 
+* 2019: La Famille de Musique @ Singapore Conference Hall 
+* 2020: La Famille de Musique eGames Day 
+* 2022: WBAS Youth Arts Leaders Conference 
+* 2023: Labour Day Open House @ Istana 
+* 2023: Singapore Youth Festival (SYF)
 
 ### Achievements
 
-* 2017 Singapore Youth Festival (SYF) - Distinction
-* 2019 Singapore Youth Festival (SYF) - Distinction
-* 2021 Singapore Youth Festival (SYF) - Distinction
-* 2023 Singapore Youth Festival (SYF) - Distinction
-* 2025 Singapore Youth Festival (SYF) - Distinction
+* SYF 2017: Certificate of Distinction
+* SYF 2019: Certificate of Distinction
+* SYF 2021: Certificate of Distinction
+* SYF 2023: Certificate of Distinction
+* SYF 2025: Certificate of Distinction
 
 ### Schedule
 
