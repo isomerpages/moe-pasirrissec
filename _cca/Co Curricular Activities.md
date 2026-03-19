@@ -41,7 +41,7 @@ their secondary education. Changing of CCA will only be considered due
 to medical reasons. In this case, the LEAPs 2.0 points will not be affected.</p>
 <p>Students may participate in more than one CCA on a case by case basis
 approved by HOD PE/CCA.</p>
-<h4><strong>CCAs  offered at Pasir Ris Secondary School</strong><br></h4>
+<h4><strong>CCAs offered at Pasir Ris Secondary School</strong><br></h4>
 <p>Most CCAs are open to all students, while a few are gender-specific. Please
 refer to the table below or select the respective CCA icons for more details.</p>
 <p></p>
