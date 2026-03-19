@@ -14,7 +14,7 @@ To date, Mr Iskandar and Ms Quah are helming the badminton team in a bid to brin
 ### Highlights
 
 * The 2025 'B' Division Badminton team qualified for the quarterfinal stage of the NSG East Zone Badminton Competition. 
-* 2025 'C' Division Badminton team plays in the Pool B stage of the NSG Badminton Competition
+* 2025 'C' Division Badminton team plays in the Pool B stage of the NSG Badminton Competition.
 * Both Dylan Tan (3T7) and Chan Kok Fung (3A2) achieved 2nd place and silver medals, respectively, at the Zendora Badminton League (Divisions 1 and 2), organised by UWCSEA East Badminton Academy.
 * The 2025 'C' Division Badminton team qualified for the NSG League 3 and emerged in the top 8 in the competition.
 

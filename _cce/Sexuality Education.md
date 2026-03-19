@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>PASIR RIS SECONDARY SCHOOL</strong></h3>
-<h3><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></h3>
+<h4><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></h4>
 <ol>
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand

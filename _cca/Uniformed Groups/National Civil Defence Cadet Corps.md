@@ -38,6 +38,8 @@ The Pasir Ris Secondary NCDCC began its journey in 2015, with the focus on devel
 * Pinnacle Award - Warrant Officer Fu Shi wei
 * Unit Best Cadet - Warrant Officer Lim Shi Enn 
 
+### Open to All Students (Boys &amp; Girls)
+
 ### Schedule
 
 | Day | Time | Venue |
@@ -45,14 +47,14 @@ The Pasir Ris Secondary NCDCC began its journey in 2015, with the focus on devel
 | Tuesday  | 3.30 pm - 6.30 pm | NCDCC Room / Level 3 Classrooms / Tar Road next to Lower ISH |
 | Wednesday | 3.30 pm - 6.30 pm | NCDCC Room / Level 3 Classrooms / Tar Road next to Lower ISH |
 
-### **Teachers-in-charge**
+### Teachers-in-charge
 
 * Mr Jonathan Ng (OIC)
 * Mr Winston Chiang (2IC)
 * Mr Daniel Ng
 * Mr Lim Yong Liang
 
-### **Photos**
+### Photos &amp; Videos
 
 ![SCDF Award Recipients](/images/CCA/NDCC/ndcc04.JPG)
 <center>SCDF Award Recipients</center>

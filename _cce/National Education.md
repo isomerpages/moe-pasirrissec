@@ -4,7 +4,7 @@ permalink: /cce/national-education/
 description: ""
 variant: tiptap
 ---
-<h4>FUTURE-ORIENTED CITIZENSHIP</h4>
+<h3>FUTURE-ORIENTED CITIZENSHIP</h3>
 <p>National Education is anchored on the following citizenship dispositions
 which enable Pasirians to realise their part in the success of the community
 and nation:</p>
@@ -23,7 +23,7 @@ world.&nbsp;</p>
 </li>
 <li>
 <p>A sense of hope: It is critical for our citizenry to continue to have
-confidence and optimism in Singapore’s future, and resilience to face the
+confidence and optimism in Singapore’s future and resilience to face the
 challenges ahead.</p>
 </li>
 </ul>
@@ -34,9 +34,9 @@ challenges ahead.</p>
 <p>In order to create holistic learning experiences among Pasirians, a plethora
 of events and activities are organised throughout the years. These activities
 include commemoration of Total Defence Day, International Friendship Day,
-Racial Harmony Day, National Day and NRIC Presentation Ceremony. With these
-programmes, we hope that Pasirians’ understanding of their identity and
-convictions as citizens will be developed as they lead and participate
+Racial Harmony Day, National Day and the NRIC Presentation Ceremony. With
+these programmes, we hope that Pasirians’ understanding of their identity
+and convictions as citizens will be developed as they lead and participate
 actively.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SG Secure Talk and Exhibition during Total Defence Day" src="/images/national%20education_01.png">
@@ -69,8 +69,8 @@ while they are here.</p>
 <p>Through focus group discussions and surveys, we strive to understand the
 needs and challenges faced by our students in order to support them and
 plan the programme to enhance their school experiences.</p>
-<p>Programmes include experiences such as learning journeys&nbsp; to culturally
-rich places to help them better understand local culture, social norms
+<p>Programmes include experiences such as learning journeys to culturally
+rich places to help them better understand local culture and social norms
 and also build a social network of support through interactive bonding
 sessions.&nbsp;</p>
 <p>We also incorporate a buddy system for them to help ease their transition
@@ -103,7 +103,7 @@ our journey to nationhood, cultivate the instincts for survival as a nation,
 and have confidence in our nation's future.</p>
 </li>
 <li>
-<p>allow for individual sense-making, to nurture engaged citizens, who are
+<p>allow for individual sense-making, to nurture engaged citizens who are
 socially aware, adept at critical thinking, and informed about local, regional
 and global issues.</p>
 </li>

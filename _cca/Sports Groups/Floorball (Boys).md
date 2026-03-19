@@ -5,13 +5,13 @@ variant: markdown
 description: ""
 third_nav_title: Sports Groups
 ---
-### Play Hard, Play Smart and Play Together
+### Play hard, Play smart and Play together!
 
 2024 marks the beginning of our Floorball CCA journey, starting with our Secondary 2 boys from the various CCA groups. From 2025, floorball (boys) is offered as one of the sports CCAs.
 
 Our members are guided by our team ethos of positive winning attitude, basics to perfection, communication, discipline, enthusiasm, focus and grit. 
 
-Our training framework, which revolves around our A, B, Cs and 1, 2, 3s, aims to develop our students into accomplished sportsmen and gentlemen who **play hard, play smart and play together.**
+Our training framework, which revolves around our A, B, Cs and 1, 2, 3s, aims to develop our students into accomplished sportsmen and gentlemen who play hard, play smart and play together.
 
 ### Highlights
 
