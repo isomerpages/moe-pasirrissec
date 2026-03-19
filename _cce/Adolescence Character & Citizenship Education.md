@@ -126,9 +126,9 @@ To establish an effective learning environment for CCE, it is critical to take i
 
 To increase student engagement during CCE lessons, the teachers seek to strengthen student voice through facilitating lessons well. To build up staff capacity in this area, the specialised CCE teachers of each level conduct weekly training and discussions with the home teachers of each level, where they discuss the lesson content as well as the pedagogies that they are using to enable effective learning and how to assess if students have learnt.
 
-##### Adult Role-modeling
+##### Adult Role-modelling
 
-Adults in the school, especially school leaders, key personnel, teachers, and coaches have a powerful influence on students, who look to them for guidance, inspiration, wisdom, and support. Adults need to be aware of the positive or negative impact they can have on young minds, and consciously try to be good role models of the values, social-emotional competencies, and citizenship dispositions that we hope to see in students.
+Adults in the school, especially school leaders, key personnel, teachers, and coaches, have a powerful influence on students, who look to them for guidance, inspiration, wisdom, and support. Adults need to be aware of the positive or negative impact they can have on young minds and consciously try to be good role models of the values, social-emotional competencies, and citizenship dispositions that we hope to see in students.
 
 ##### Consistent and Coherent Messaging
 
