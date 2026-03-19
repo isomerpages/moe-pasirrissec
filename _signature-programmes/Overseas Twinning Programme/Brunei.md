@@ -7,7 +7,7 @@ variant: markdown
 ---
 Pasir Ris Secondary School embarks on the twinning programme with schools in Brunei so as to achieve the following:  
   
-* To deepen in Pasirians the emerging 21st century of global awareness and cross-cultural skills and sensitivities.
+* To deepen in Pasirians the emerging 21st Century Competencies (21CC) of global awareness and cross-cultural skills and sensitivities.
 * To sensitise Pasirians to the place of Singapore in the emerging economic, educational and technological landscapes in the world, through exposing them to a school in Brunei and the city.
 * To strengthen Pasirians’ commitment and rootedness to Singapore.
 * To provide opportunities for students to appreciate the cultural differences between Singapore and Brunei, thus drawing lessons from them and preparing them to be global citizens.
