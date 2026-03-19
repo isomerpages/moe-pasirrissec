@@ -23,7 +23,7 @@ world.&nbsp;</p>
 </li>
 <li>
 <p>A sense of hope: It is critical for our citizenry to continue to have
-confidence and optimism in Singapore’s future, and resilience to face the
+confidence and optimism in Singapore’s future and resilience to face the
 challenges ahead.</p>
 </li>
 </ul>
