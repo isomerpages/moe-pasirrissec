@@ -30,7 +30,7 @@ Students will learn values through three overarching ideas, namely Identity, Rel
 
 ![](/images/CCE%20Curriculum%20Content.png)
 
-<center>CCE Curriculum Content</center>
+<center><strong>CCE Curriculum Content</strong></center>
 
 The curriculum content of CCE is based on the three big ideas of Identity, Relationships, and Choices and comprises the teaching and learning of core values and social-emotional competencies with a focus on developing a sense of purpose in our students.
 
