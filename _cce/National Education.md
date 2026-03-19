@@ -34,9 +34,9 @@ challenges ahead.</p>
 <p>In order to create holistic learning experiences among Pasirians, a plethora
 of events and activities are organised throughout the years. These activities
 include commemoration of Total Defence Day, International Friendship Day,
-Racial Harmony Day, National Day and NRIC Presentation Ceremony. With these
-programmes, we hope that Pasirians’ understanding of their identity and
-convictions as citizens will be developed as they lead and participate
+Racial Harmony Day, National Day and the NRIC Presentation Ceremony. With
+these programmes, we hope that Pasirians’ understanding of their identity
+and convictions as citizens will be developed as they lead and participate
 actively.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SG Secure Talk and Exhibition during Total Defence Day" src="/images/national%20education_01.png">
