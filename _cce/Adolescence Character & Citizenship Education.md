@@ -100,11 +100,11 @@ Information and Communication Technologies (ICT) are becoming increasingly perva
 ##### (vi) Family Education
 Family Education (FE) is premised on the nation’s shared value of the family as the basic unit of society and focuses on the importance of having stable family units with extended family support. Students learn about being responsible family members and to be grateful for the role their families play in shaping who they are and who they become. They are encouraged to love and appreciate their families despite imperfections, and urged to reflect on the value of family relationships and the importance of broadening their definition of success to include quality family life. 
 
-#### Establishing a Caring and Enabling School Environment
+### Establishing a Caring and Enabling School Environment
 
 ##### Establishing Positive Teacher-Student Relationships - the Key to Effective CCE Instruction
 
-Positive interpersonal relationships between teachers and students contribute significantly to the students’ learning process. In positive Teacher-Student Relationships (TSR), students perceive they are respected, supported and valued by their teachers. When students experience positive TSR, they are more engaged in school and able to sustain their learning motivation. When teachers build positive relationships with their students, they feel a sense of security which allows them to engage more actively in interactions within the school environment, shaping their character, and social-emotional well-being and development.
+Positive interpersonal relationships between teachers and students contribute significantly to the students’ learning process. In positive teacher-student relationships (TSR), students perceive they are respected, supported and valued by their teachers. When students experience positive TSR, they are more engaged in school and able to sustain their learning motivation. When teachers build positive relationships with their students, they feel a sense of security which allows them to engage more actively in interactions within the school environment, shaping their character and social-emotional well-being and development.
 
 At PRSS, time is set aside for home teachers to have Student-Teacher Conferences (STCs) in the morning. During STCs, HTs meet students one to one to get to know them better and to understand their concerns so that they are able to better support them.
 
