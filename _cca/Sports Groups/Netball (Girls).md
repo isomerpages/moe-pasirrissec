@@ -21,17 +21,15 @@ At Pasir Ris Secondary School, our netball girls started their journey during th
 
 ### Highlights
 
-The 2024 B Div Netball girls National School Games started early in Term 1. Before the team could even meet up for a good team warm up we found ourselves right in a game! Despite our girls sustaining injuries, the team fought on with grit and grace. Our match to qualify for the second round was so close. Although the girls had to make many last minute changes in their playing positions due to unforeseen circumcumstances, they stood up for the occasion and played excellently.
+The 2024 B Div Netball girls' National School Games started early in Term 1. Before the team could even meet up for a good team warm-up we found ourselves right in a game! Despite our girls sustaining injuries, the team fought on with grit and grace. Our match to qualify for the second round was so close. Although the girls had to make many last-minute changes in their playing positions due to unforeseen circumstances, they rose to the occasion and played excellently.
 
 Besides the annual NSG for B and C Division, we are also participating in the School Challenge League. Hence, during CCA we get to spar with other schools in mini-competitions.
 
 ### Achievements
 
-We are helping out our neighbouring Yumin Primary school to have friendly matches with their upper primary team to condition them for their NSG. By doing so we are also indirectly talent spotting for our future team.
+We are helping out our neighbouring Yumin Primary School to have friendly matches with their upper primary team to condition them for their NSG. By doing so, we are also indirectly talent spotting for our future team.
 
 ### Open to Girls only
-
-
 
 ### Schedule
 
