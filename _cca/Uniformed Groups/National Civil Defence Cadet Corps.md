@@ -38,6 +38,8 @@ The Pasir Ris Secondary NCDCC began its journey in 2015, with the focus on devel
 * Pinnacle Award - Warrant Officer Fu Shi wei
 * Unit Best Cadet - Warrant Officer Lim Shi Enn 
 
+### Open to All Students (Boys &amp; Girls)
+
 ### Schedule
 
 | Day | Time | Venue |
