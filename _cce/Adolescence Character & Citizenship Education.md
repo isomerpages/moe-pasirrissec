@@ -34,13 +34,13 @@ Students will learn values through three overarching ideas, namely Identity, Rel
 
 The curriculum content of CCE is based on the three big ideas of Identity, Relationships, and Choices and comprises the teaching and learning of core values and social-emotional competencies with a focus on developing a sense of purpose in our students.
 
-* #### Core Values and Purpose
+* ##### Core Values and Purpose
 
 Our core values include respect, responsibility, resilience, integrity, care, and harmony, which are acknowledged as values that are at the foundation of our shared societal and national values. Recognising the potential in every child, the schooling environment creates learning opportunities that draw out and develop our students’ personal character strengths, e.g., adaptability, empathy, creativity, and curiosity, as well as nurture in them our shared societal and national values. Besides developing their personal character strengths, our students are encouraged to demonstrate care for others, consider others' perspectives, and show sensitivity towards the thoughts and feelings of others.
 
 In addition to values, there is a need to emphasise a sense of purpose. Finding a sense of purpose gives our life meaning. It is about discovering how one’s values, strengths, talents, and interests can be meaningfully applied so that one feels a sense of personal significance within one’s sphere of influence and beyond. Students may know and understand values, be able to articulate what they look like in practice, and have the competence to apply them, but they may not have the motivation to act on them when the situation calls for it. Integrating a sense of purpose into one’s identity is a vital part of the internalisation of values for character development and transformation. With a sense of purpose, an individual is more likely to live out the core values that make up the foundation of his/her character and meaningfully apply the social-emotional competencies learnt.
 
-* #### Social-Emotional Competencies
+* ##### Social-Emotional Competencies
 
 Social-emotional competencies enable us to examine and understand our own thoughts and emotions, develop a sense of responsibility and concern for others, and act for the good of self, others, and society. When we apply these competencies, we live out our values and grow our character.
 
@@ -60,9 +60,9 @@ These competencies can be taught, demonstrated, and applied through explicit ins
 
 ##### (i) Identity
 
-Identity, which is a complex and multi-faceted construct in developmental psychology, is at the core of the process of human psychosocial development. It is described by the fundamental question, “Who am I?”. This is a person's subjective experience of who he or she is, largely influenced by his or her interaction with the social environment3. Identity is also about how a person sees himself/herself as belonging to a social group characterised by different features such as ethnicity, religion, profession, nationality, etc.
+Identity, which is a complex and multi-faceted construct in developmental psychology, is at the core of the process of human psychosocial development. It is described by the fundamental question, “Who am I?”. This is a person's subjective experience of who he or she is, largely influenced by his or her interaction with the social environment. Identity is also about how a person sees himself/herself as belonging to a social group characterised by different features such as ethnicity, religion, profession, nationality, etc.
 
-The question “Who am I?” prompts reflection on one’s self-identity and self-concept. The questions “Who do I want to be?” and “What does my best self-look like?” aim to empower individuals to shape their identity and self-concept positively with a sense of purpose and awareness of their personal significance in the world around them. One’s purpose needs to be not only meaningful to oneself, but also positively impacts the world beyond oneself. 
+The question “Who am I?” prompts reflection on one’s self-identity and self-concept. The questions “Who do I want to be?” and “What does my best self look like?” aim to empower individuals to shape their identity and self-concept positively with a sense of purpose and awareness of their personal significance in the world around them. One’s purpose needs to be not only meaningful to oneself, but also positively impacts the world beyond oneself. 
 
 ##### (ii) Relationships
 
