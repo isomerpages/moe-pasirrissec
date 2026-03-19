@@ -22,7 +22,7 @@ The PRSS Concert Band, led by two well-respected conductors, has a dynamic progr
 
 ### Achievements
 
-* 2017: Singapore Youth Festival (SYF) - Distinction
+* SYF 2017: - Distinction
 * 2019: Singapore Youth Festival (SYF) - Distinction
 * 2021: Singapore Youth Festival (SYF) - Distinction
 * 2023: Singapore Youth Festival (SYF) - Distinction
