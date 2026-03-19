@@ -4,7 +4,7 @@ permalink: /cce/national-education/
 description: ""
 variant: tiptap
 ---
-<h4>FUTURE-ORIENTED CITIZENSHIP</h4>
+<h3>FUTURE-ORIENTED CITIZENSHIP</h3>
 <p>National Education is anchored on the following citizenship dispositions
 which enable Pasirians to realise their part in the success of the community
 and nation:</p>
@@ -103,7 +103,7 @@ our journey to nationhood, cultivate the instincts for survival as a nation,
 and have confidence in our nation's future.</p>
 </li>
 <li>
-<p>allow for individual sense-making, to nurture engaged citizens, who are
+<p>allow for individual sense-making, to nurture engaged citizens who are
 socially aware, adept at critical thinking, and informed about local, regional
 and global issues.</p>
 </li>
