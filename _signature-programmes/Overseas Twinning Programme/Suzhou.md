@@ -7,7 +7,7 @@ variant: markdown
 ---
 Pasir Ris Secondary School embarks on twinning programme with schools in China so as to achieve the following:
 
-* To deepen in Pasirians the emerging 21st century global awareness and cross-cultural skills and sensitivities.
+* To deepen in Pasirians the emerging21st-century global awareness and cross-cultural skills and sensitivities.
 * To sensitise Pasirians to Singapore’s role and place in the emerging economic, educational and technological landscapes around the world through exposing them to schools and cities in Asia and ASEAN.
 * To strengthen Pasirians’ commitment and rootedness to Singapore.
 
