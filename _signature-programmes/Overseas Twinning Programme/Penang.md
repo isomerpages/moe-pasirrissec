@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Overseas Twinning Programme
 ---
-The school has organised an overseas cultural and school immersion trip to Penang in 2023 and 2024. The objectives of the immersion trip are as follows:
+Pasir Ris Secondary School has organised an overseas cultural and school immersion trip to Penang in 2023 and 2024. The objectives of the immersion trip are as follows:
 
 * To deepen in Pasirians the emerging 21st century of global awareness and cross-cultural skills and sensitivities.
 * To sensitise Pasirians to the place of Singapore in the emerging economic, educational and technological landscapes in the world, through exposing them to an ASEAN school and city.
