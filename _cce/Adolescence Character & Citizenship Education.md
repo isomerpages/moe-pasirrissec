@@ -11,7 +11,7 @@ CCE 2021 aims to develop in our students:
 ##### a) Good Character
 Have a sound moral compass, a strong sense of right and wrong, think critically and ethically, be discerning in judgement, take responsibility for choices and actions, be caring towards others and strive for excellence.
 
-##### b) Resilience and Social-Emotional Wellbeing
+##### b) Resilience and Social-Emotional Well-being
 Have a balanced sense of self, form healthy relationships, be resilient when faced with challenges, find meaning in life, and have a sense of gratitude and appreciation.
 
 ##### c) Active Citizenship
@@ -120,7 +120,7 @@ Supportive peer relationships form a critical part of the network of positive re
 
 ##### Student Voice and Ownership
 
-To establish an effective learning environment for CCE, it is critical to take into account student voices and co-design learning approaches and activities that cater to their needs and interests. Creating space for students to be heard and encouraged to play an active role in what and how they learn provides opportunities for them to develop agency or self-directedness, responsibility, and ownership of their learning. 
+To establish an effective learning environment for CCE, it is critical to take into account student voices and co-design learning approaches and activities that cater to their needs and interests. Creating space for students to be heard and encouraged to play an active role in what and how they learn provides opportunities for them to develop agency or self-directedness, responsibility, and ownership of their learning. Student participation in the planning and implementation of some aspects of CCE, e.g. Values-in-Action (VIA) activities, co-curricular activities (CCAs), outdoor activities, cyber wellness, peer-support initiatives and other relevant aspects, will create opportunities for them to develop leadership competencies, as well as a sense of belonging to their school community and the motivation to make a positive difference. 
 
 ![](/images/Staff%201.png)
 
