@@ -16,7 +16,7 @@ c) **Active citizenship**: Develop a strong national identity based on a sense o
 
 d) **Future readiness**: Have a sense of purpose in life, and develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work.
 
-Students will learn values through three overarching ideas, namely (Identity, Relationships and Choices) in six domains, starting with self and extending to the family, school, community, nation, and the world. The diagram below shows the core values, the three big ideas and the expanding domains in the CCE syllabus.
+Students will learn values through three overarching ideas, namely Identity, Relationships and Choices in six domains, starting with self and extending to the family, school, community, nation, and the world. The diagram below shows the core values, the three big ideas and the expanding domains in the CCE syllabus.
 
 ### CCE 2021 Curriculum Frame
 
@@ -28,11 +28,11 @@ Students will learn values through three overarching ideas, namely (Identity, Re
 
 <center>CCE Curriculum Content</center>
 
-The curriculum content of CCE is based on the three big ideas of Identity, Relationships, and Choices, and comprises the teaching and learning of core values and social-emotional competencies with a focus on developing a sense of purpose in our students.
+The curriculum content of CCE is based on the three big ideas of Identity, Relationships, and Choices and comprises the teaching and learning of core values and social-emotional competencies with a focus on developing a sense of purpose in our students.
 
-* ##### Core values and purpose
+* #### Core Values and Purpose
 
-Our core values include respect, responsibility, resilience, integrity, care, and harmony, which are acknowledged as values that are at the foundation of our shared societal and national values. Recognising the potential in every child, the schooling environment creates learning opportunities that draw out and develop our students’ personal character strengths, e.g. adaptability, empathy, creativity, and curiosity; as well as nurture in them our shared societal and national values. Besides developing their personal character strengths, our students are encouraged to demonstrate care for others, consider others' perspectives, and show sensitivity towards the thoughts and feelings of others.
+Our core values include respect, responsibility, resilience, integrity, care, and harmony, which are acknowledged as values that are at the foundation of our shared societal and national values. Recognising the potential in every child, the schooling environment creates learning opportunities that draw out and develop our students’ personal character strengths e.g., adaptability, empathy, creativity, and curiosity, as well as nurture in them our shared societal and national values. Besides developing their personal character strengths, our students are encouraged to demonstrate care for others, consider others' perspectives, and show sensitivity towards the thoughts and feelings of others.
 
 In addition to values, there is a need to emphasise a sense of purpose. Finding a sense of purpose gives our life meaning. It is about discovering how one’s values, strengths, talents, and interests can be meaningfully applied so that one feels a sense of personal significance within one’s sphere of influence and beyond. Students may know and understand values, be able to articulate what they look like in practice, and have the competence to apply them; but they may not have the motivation to act on them when the situation calls for it. Integrating a sense of purpose into one’s identity is a vital part of the internalisation of values for character development and transformation2. With a sense of purpose, an individual is more likely to live out the core values that make up the foundation of his/her character, and meaningfully apply the social-emotional competencies learnt.
 
