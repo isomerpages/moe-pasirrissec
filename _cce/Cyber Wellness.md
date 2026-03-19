@@ -89,7 +89,7 @@ We conduct training sessions for our leaders and students to help them internali
 
 #### Assembly Talks
 
-Cyber Wellness is especially important for our internet-savvy youth today. All students will attend assembly talks and lessons which will teach them how to stay safe in cyber-world. There are also competitions and termly just-in-time holiday reminders to engage students. Topics covered include socializing on social media platforms, fake news, copyright issues, cyber-gaming, Internet addiction, cyber-bullying and cyber-relationships.
+Cyber wellness is especially important for our internet-savvy youth today. All students will attend assembly talks and lessons which will teach them how to stay safe in cyberworld. There are also competitions and termly just-in-time holiday reminders to engage students. Topics covered include socialising on social media platforms, fake news, copyright issues, cyber-gaming, Internet addiction, cyber-bullying and cyber-relationships.
 
 ![](/images/CCE/CW/cw02%20assembly%20talks.png)
 		 
