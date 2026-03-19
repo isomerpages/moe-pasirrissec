@@ -76,7 +76,7 @@ The big idea of “Relationships” is guided by the question, “How do I relat
 
 The big idea of “Choices” emphasises the complex environment that our students are growing up in and the various types of decisions they will need to make. These decisions will determine and be determined by who they are and who they want to be. The questions, “How do I choose to be?”, “How do I choose to act?”, and “What kind of future do I want?”, emphasise agency or self-directedness and personal responsibility in the choices one makes during the decision-making process both internally and externally.
 
-Within the internal sphere, decisions are made in areas such as one’s value system, morality, personal excellence, education and career goals. Externally, decisions on how to be and act occur within various contexts such as home, school, cyberspace, neighbourhood, common public spaces, the nation, and the world, relationships with family, friends, fellow citizens, others, and the environment; situations involving moral dilemmas, multiple perspectives, and contentious issues.  
+Within the internal sphere, decisions are made in areas such as one’s value system, morality, personal excellence, education and career goals. Externally, decisions on how to be and act occur within various contexts such as home, school, cyberspace, neighbourhood, common public spaces, the nation, and the world: relationships with family, friends, fellow citizens, others, and the environment; and situations involving moral dilemmas, multiple perspectives, and contentious issues.
 
 ### CCE Curriculum Content Areas
 
