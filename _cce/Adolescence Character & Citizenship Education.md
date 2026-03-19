@@ -16,7 +16,7 @@ c) **Active citizenship**: Develop a strong national identity based on a sense o
 
 d) **Future readiness**: Have a sense of purpose in life, and develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work.
 
-Students will learn values through three overarching ideas, namely (Identity, Relationships and Choices) in six domains, starting with self and extending to the family, school, community, nation, and the world. The diagram below shows the core values, the three big Ideas and the expanding domains in the CCE syllabus.  
+Students will learn values through three overarching ideas, namely (Identity, Relationships and Choices) in six domains, starting with self and extending to the family, school, community, nation, and the world. The diagram below shows the core values, the three big ideas and the expanding domains in the CCE syllabus.
 
 ### CCE 2021 Curriculum Frame
 
