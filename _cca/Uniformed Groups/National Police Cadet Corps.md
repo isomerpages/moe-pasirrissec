@@ -46,6 +46,8 @@ Some of our unit programmes include the 0.22 revolver shooting, the Crime Scene 
 - TAN BING HONG (4E6)
 - LYNSEY LIM YIN XIN (4T7)
 
+### Open to All Students (Boys &amp; Girls)
+
 ### Schedule
 
 | Day | Time | Venue |
