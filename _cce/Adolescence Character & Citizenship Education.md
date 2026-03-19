@@ -62,7 +62,7 @@ These competencies can be taught, demonstrated, and applied through explicit ins
 
 Identity, which is a complex and multi-faceted construct in developmental psychology, is at the core of the process of human psychosocial development. It is described by the fundamental question, “Who am I?”. This is a person's subjective experience of who he or she is, largely influenced by his or her interaction with the social environment. Identity is also about how a person sees himself/herself as belonging to a social group characterised by different features such as ethnicity, religion, profession, nationality, etc.
 
-The question “Who am I?” prompts reflection on one’s self-identity and self-concept. The questions “Who do I want to be?” and “What does my best self look like?” aim to empower individuals to shape their identity and self-concept positively with a sense of purpose and awareness of their personal significance in the world around them. One’s purpose needs to be not only meaningful to oneself, but also positively impacts the world beyond oneself. 
+The question “Who am I?” prompts reflection on one’s self-identity and self-concept. The questions “Who do I want to be?” and “What does my best self look like?” aim to empower individuals to shape their identity and self-concept positively with a sense of purpose and awareness of their personal significance in the world around them. One’s purpose needs to be not only meaningful to oneself but also positively impacts the world beyond oneself. 
 
 ##### (ii) Relationships
 
