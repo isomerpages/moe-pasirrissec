@@ -24,6 +24,8 @@ With strong support from MINDEF and SAF, our cadets are able to acquire military
 * NCC Land Unit Recognition Award Boys - Distinction
 * NCC Land Unit Recognition Award Girls - Distinction
 
+### Open to All Students (Boys &amp; Girls)
+
 ### Schedule
 
 | Day | Time | Venue |
