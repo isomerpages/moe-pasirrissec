@@ -8,13 +8,17 @@ Character and Citizenship Education (CCE), including National Education (NE) and
 
 CCE 2021 aims to develop in our students:
 
-a) **Good character**: Have a sound moral compass, a strong sense of right and wrong, think critically and ethically, be discerning in judgement, take responsibility for choices and actions, be caring towards others and strive for excellence.
+##### a) Good Character
+Have a sound moral compass, a strong sense of right and wrong, think critically and ethically, be discerning in judgement, take responsibility for choices and actions, be caring towards others and strive for excellence.
 
-b) **Resilience and social-emotional well-being**: Have a balanced sense of self, form healthy relationships, be resilient when faced with challenges, find meaning in life, and have a sense of gratitude and appreciation.
+##### b) Resilience and Social-Emotional Wellbeing
+Have a balanced sense of self, form healthy relationships, be resilient when faced with challenges, find meaning in life, and have a sense of gratitude and appreciation.
 
-c) **Active citizenship**: Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, and the will to act on improving the lives of others and building a future for our nation.
+##### c) Active Citizenship
+Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, and the will to act on improving the lives of others and building a future for our nation.
 
-d) **Future readiness**: Have a sense of purpose in life, and develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work.
+##### d) Future Readiness
+Have a sense of purpose in life, and develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work.
 
 Students will learn values through three overarching ideas, namely Identity, Relationships and Choices in six domains, starting with self and extending to the family, school, community, nation, and the world. The diagram below shows the core values, the three big ideas and the expanding domains in the CCE syllabus.
 
@@ -50,7 +54,7 @@ The competencies for **relationship management** enable us to build and maintain
 
 Responsible decision-making enables us to apply moral reasoning and sound values-based judgements in the choices we make.
 
-These competencies can be taught, demonstrated, and applied through explicit instruction, planned authentic learning experiences, as well as teachable moments. For sustainable lifelong character development, these competencies must be taught, learnt, and applied within the broader context of values learning so that students understand the purpose and meaningfulness of acquiring these competencies.
+These competencies can be taught, demonstrated, and applied through explicit instruction and planned authentic learning experiences, as well as teachable moments. For sustainable lifelong character development, these competencies must be taught, learnt, and applied within the broader context of values learning so that students understand the purpose and meaningfulness of acquiring these competencies.
 
 ### The 3 Big Ideas: Conceptual Core of CCE
 
