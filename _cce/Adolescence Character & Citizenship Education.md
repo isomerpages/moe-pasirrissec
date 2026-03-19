@@ -80,7 +80,7 @@ Within the internal sphere, decisions are made in areas such as one’s value sy
 
 ### CCE Curriculum Content Areas
 
-While the CCE Curriculum Content is premised on the three big ideas of Identity, Relationships and Choices, and anchored on the teaching of core values and social-emotional competencies, to help students find a sense of purpose, these fundamentals are taught and applied in the following Curriculum Content Areas.  
+While the CCE Curriculum Content is premised on the three big ideas of Identity, Relationships and Choices, and anchored on the teaching of core values and social-emotional competencies to help students find a sense of purpose, these fundamentals are taught and applied in the following Curriculum Content Areas.  
 
 ##### (i) National Education (NE): 
 NE, a significant aspect of CCE, comprises a wide range of school efforts that help students experience and explore their national identity as Singaporeans, understand the realities and challenges unique to our nation, and foster a sense of hope and belonging to Singapore. A strong sense of belonging, reality, and hope motivates our students to be active citizens. While they seek to achieve their personal life goals, they also see themselves as playing a contributory role in their immediate communities and in the nation. NE in CCE aims to be empowering and aspirational, allowing for individual sense-making, so as to nurture engaged citizens, who are socially aware, adept at critical thinking, and informed about local, regional, and global issues.
