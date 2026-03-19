@@ -95,7 +95,7 @@ Cyber wellness is especially important for our internet-savvy youth today. All s
 		 
 #### Student Leaders Positive Peer Advocacy
 
-At PRSS, we also engage student leaders to lead Cyber Wellness peer advocacy projects. A signature event is the Cyber Wellness Fest. Experiential learning games led by Cyber Wellness Champs, talks, exhibitions and awareness competitions are organised to further inculcate Cyber Wellness values. We also collaborate with external organisations such as the Singapore Kindness Movement, the National Library Board and Fei Yue Social Services in organising our activities. Our student councillors also organise the Safer Internet Awareness Campaign Week to further spread awareness and share tips on all cyber wellness issues. Cyber Wellness. As advocacy, our students have also created posters.
+At PRSS, we also engage student leaders to lead Cyber Wellness peer advocacy projects. A signature event is the Cyber Wellness Fest. Experiential learning games led by Cyber Wellness Champs, talks, exhibitions and awareness competitions are organised to further inculcate Cyber Wellness values. We also collaborate with external organisations such as the Singapore Kindness Movement, the National Library Board and Fei Yue Social Services in organising our activities. Our student councillors also organise the Safer Internet Awareness Campaign Week to further spread awareness and share tips on all cyber wellness issues. Cyber wellness is a key focus, and as part of this advocacy, our students have also designed posters.
 
 ![](/images/SL%20positive.png)
 
