@@ -40,7 +40,7 @@ In addition to values, there is a need to emphasise a sense of purpose. Finding 
 
 Social-emotional competencies enable us to examine and understand our own thoughts and emotions, develop a sense of responsibility and concern for others, and act for the good of self, others, and society. When we apply these competencies, we live out our values and grow our character.
 
-The competencies related to developing **self-awareness** allow us to understand our emotions, thoughts, values, personal goals, and mind-sets, which enable us to construct an understanding of who we are.
+The competencies related to developing **self-awareness** allow us to understand our emotions, thoughts, values, personal goals, and mindsets, which enable us to construct an understanding of who we are.
 
 The competencies related to **social awareness** enable us to develop cognitive and emotional empathy, understand the perspectives of people with different backgrounds or cultures, and to become more sensitive to the social environment and the needs of others.
 
