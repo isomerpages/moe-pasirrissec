@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Overseas Twinning Programme
 variant: markdown
 ---
-Pasir Ris Secondary School embarked on her inaugural eTwinning Programme with **Suncheon Namsan Middle School** from South Korea in 2021. The objectives of the eTwinning programme are as follows:
+Pasir Ris Secondary School embarked on her inaugural eTwinning Programme with **Suncheon Namsan Middle School** from South Korea in 2021. The objectives of the eTwinning Programme are as follows:
 
 * To deepen in Pasirians the emerging 21st-century global awareness and cross-cultural skills and sensitivities.
 * To sensitise Pasirians to Singapore’s role and place in the emerging economic, educational and technological landscapes around the world through exposing them to schools and cities in Asia and ASEAN.
