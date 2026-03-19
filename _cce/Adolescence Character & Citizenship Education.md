@@ -36,9 +36,9 @@ Our core values include respect, responsibility, resilience, integrity, care, an
 
 In addition to values, there is a need to emphasise a sense of purpose. Finding a sense of purpose gives our life meaning. It is about discovering how one’s values, strengths, talents, and interests can be meaningfully applied so that one feels a sense of personal significance within one’s sphere of influence and beyond. Students may know and understand values, be able to articulate what they look like in practice, and have the competence to apply them, but they may not have the motivation to act on them when the situation calls for it. Integrating a sense of purpose into one’s identity is a vital part of the internalisation of values for character development and transformation. With a sense of purpose, an individual is more likely to live out the core values that make up the foundation of his/her character and meaningfully apply the social-emotional competencies learnt.
 
-* ##### Social-emotional competencies
+* #### Social-Emotional Competencies
 
-Social-emotional competencies enable us to examine and understand our own thoughts and emotions, develop a sense of responsibility and concern for others, and act for the good of self, others, and the society. When we apply these competencies, we live out our values and grow our character.
+Social-emotional competencies enable us to examine and understand our own thoughts and emotions, develop a sense of responsibility and concern for others, and act for the good of self, others, and society. When we apply these competencies, we live out our values and grow our character.
 
 The competencies related to developing **self-awareness** allow us to understand our emotions, thoughts, values, personal goals, and mind-sets, which enable us to construct an understanding of who we are.
 
