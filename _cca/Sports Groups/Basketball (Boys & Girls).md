@@ -7,19 +7,19 @@ variant: markdown
 ---
 ### Excellence, Perseverance and Passion!
 
-The Pasir Ris Secondary School Basketball CCA was initiated in 2009. At that time, only the girls' team was formed. In the following year, we started recruiting members for the boys' team due to strong interest from the male students in joining the CCA.
+The Pasir Ris Secondary School Basketball was initiated in 2009. At that time, only the girls' team was formed. In the following year, we started recruiting members for the boys' team due to strong interest from the male students in joining the CCA.
 
 The students train twice a week, on Tuesdays and Thursdays. During training sessions, they are taught basketball skills, teamwork, and important core values.
   
 The Basketball CCA emphasises **three** core values that the students are expected to uphold during and outside of training sessions. **Excellence, Perseverance, and Passion**. They are expected to achieve excellence in everything they do, persevere when the going gets tough, and demonstrate passion in their CCA.
  
 ### Highlights
-* EZ C Divsion Basketball 2025- Boys team qualifed and participated in League 1 (Top 16 schools in Singapore) of the National School Games.  
-* Participated in National School Games - EZ B Division Basketball 2025 with the Boys team emerging top 8 in the East Zone.
-* Participated in National School Games - Basketball C Division 2024 with the Girls team merging Champion in League 3.
-* Participated in National School Games - EZ "B" Division Basketball Tournament 2022 with the Girls team emerging top 6 in the East zone.&nbsp;
-* Participated in Whye Nam Cup U14 with the Boys team emerging 3rd for this inter-school tournament.&nbsp;
-* Participated in National School Games - EZ "C" Division Basketball Tournament 2022 with the Boys team emerging top 8 in the East zone.&nbsp;
+* EZ C Division Basketball 2025 - The boys' team qualified and participated in League 1 (top 16 schools in Singapore) of the National School Games.  
+* Participated in National School Games - EZ B Division Basketball 2025 with the boys' team emerging in the top 8 in the East Zone.
+* Participated in National School Games - Basketball C Division 2024 with the girls' team emerging Champion in League 3.
+* Participated in National School Games - EZ "B" Division Basketball Tournament 2022 with the girls team emerging top 6 in the East zone.
+* Participated in the Whye Nam Cup U14, with the boys' team emerging 3rd for this inter-school tournament.
+* Participated in National School Games - EZ "C" Division Basketball Tournament 2022 with the boys' team emerging top 8 in the East zone.
 
 ### Open to All Students (Boys &amp; Girls)
 
