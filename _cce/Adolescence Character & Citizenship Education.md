@@ -14,7 +14,7 @@ b) **Resilience and social-emotional well-being**: Have a balanced sense of self
 
 c) **Active citizenship**: Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, and the will to act on improving the lives of others and building a future for our nation.
 
-d) **Future readiness**: Have a sense of purpose in life, develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work.
+d) **Future readiness**: Have a sense of purpose in life, and develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work.
 
 Students will learn values through three overarching ideas, namely (Identity, Relationships and Choices) in six domains, starting with self and extending to the family, school, community, nation, and the world. The diagram below shows the core values, the three big Ideas and the expanding domains in the CCE syllabus.  
 
