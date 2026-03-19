@@ -117,19 +117,19 @@ We believe in working closely with other key stakeholders.
 
 *   **Other schools**
 
-Since 2015, we have been supporting the Cyber Wellness programmes in other schools. Our student leaders have conducted workshops and training programmes for both Primary and Secondary schools. Our student leaders have also organised a Cyber Wellness Fest to engage their students as a form of Values-In-Action (VIA) project.&nbsp;
+Since 2015, we have been supporting the cyber wellness programmes in other schools. Our student leaders have conducted workshops and training programmes for both primary and secondary schools. Our student leaders have also organised a Cyber Wellness Fest to engage their students as a form of Values-In-Action (VIA) project.
   
 *   **Other external organisations**
 
-We have engaged the support of other organisations such as Singapore Kindness Movement, Kingmaker, KPMG, IMDA and the Tampines community centres to run various activities such as assembly talks and outreach projects.
+We have engaged the support of other organisations such as the Singapore Kindness Movement, Kingmaker, KPMG, IMDA and the Tampines Community Centres to run various activities such as assembly talks and outreach projects.
 
 <img src="/images/Partnership.jpeg" style="width:50%;float:left"><img src="/images/Partnership%201.jpeg" style="width:50%">
 		 <img src="/images/Partnership%203.jpeg" style="width:50%;float:left"><img src="/images/Partnership%203.jpeg" style="width:50%">
 		 <img src="/images/Partnership%204.jpeg" style="width:50%;float:left"><img src="/images/Partnership%205.jpeg" style="width:50%">
 		 
-Every year, our school has partnered Infocomm Media Development Authority (IMDA) to co-organize the inaugural National Cyber Wellness Competition, an event aimed at empowering students to become responsible, savvy, and positive digital citizens. With close to 600 submissions from primary and secondary schools across Singapore, the competition encouraged students to explore essential themes like online safety, digital empathy, and ethical online behaviour. We played an active role in shaping the competition’s structure and content, nurturing a generation of youth who can confidently navigate the digital world and positively influence their peers. The competition highlighted the significance of cyber wellness advocacy and inspired participants to lead the way in promoting safe and responsible online behaviour.
+Every year, our school has partnered with the Infocomm Media Development Authority (IMDA) to co-organise the inaugural National Cyber Wellness Competition, an event aimed at empowering students to become responsible, savvy, and positive digital citizens. With close to 600 submissions from primary and secondary schools across Singapore, the competition encouraged students to explore essential themes like online safety, digital empathy, and ethical online behaviour. We played an active role in shaping the competition’s structure and content, nurturing a generation of youth who can confidently navigate the digital world and positively influence their peers. The competition highlighted the significance of cyber wellness advocacy and inspired participants to lead the way in promoting safe and responsible online behaviour.
 
-Our Competition Website: [https://go.gov.sg/ncw2025](https://go.gov.sg/ncw2025)
+You may view our competition website at [https://go.gov.sg/ncw2025](https://go.gov.sg/ncw2025)
 		 
 #### Cyber Bullying hurts more than you think
 
