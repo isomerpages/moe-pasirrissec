@@ -69,8 +69,8 @@ while they are here.</p>
 <p>Through focus group discussions and surveys, we strive to understand the
 needs and challenges faced by our students in order to support them and
 plan the programme to enhance their school experiences.</p>
-<p>Programmes include experiences such as learning journeys&nbsp; to culturally
-rich places to help them better understand local culture, social norms
+<p>Programmes include experiences such as learning journeys to culturally
+rich places to help them better understand local culture and social norms
 and also build a social network of support through interactive bonding
 sessions.&nbsp;</p>
 <p>We also incorporate a buddy system for them to help ease their transition
