@@ -42,7 +42,7 @@ We welcome parents and prospective students to check out our Instagram and TikTo
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
-| Tuesday | 3.15 pm - 6.30 pm | CO Room |
+| Tuesday | 3.15 pm - 6.30 pm | Chinese Orchestra Room |
 
 
 ##### Sectionals Practice
