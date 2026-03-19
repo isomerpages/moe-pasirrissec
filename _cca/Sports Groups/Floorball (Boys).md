@@ -11,7 +11,7 @@ third_nav_title: Sports Groups
 
 Our members are guided by our team ethos of positive winning attitude, basics to perfection, communication, discipline, enthusiasm, focus and grit. 
 
-Our training framework, which revolves around our A, B, Cs and 1, 2, 3s, aims to develop our students into accomplished sportsmen and gentlemen who **play hard, play smart and play together.**
+Our training framework, which revolves around our A, B, Cs and 1, 2, 3s, aims to develop our students into accomplished sportsmen and gentlemen who play hard, play smart and play together.
 
 ### Highlights
 
