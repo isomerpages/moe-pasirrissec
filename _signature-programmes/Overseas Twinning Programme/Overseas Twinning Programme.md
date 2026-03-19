@@ -14,5 +14,5 @@ As part of the programme, Pasirians have the opportunity to host overseas studen
 
 Since 2021, Pasir Ris Secondary School has hosted e-Twinning Programmes with students from the following schools:
 
-*   Suncheon Namsan Middle School, South Korea (2021 - 2023)
-*   Chitose High School, Japan (2023)
+* Suncheon Namsan Middle School, South Korea (2021 - 2023)
+* Chitose High School, Japan (2023)
