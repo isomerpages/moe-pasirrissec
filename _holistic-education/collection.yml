@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Co Curricular Activities.md
       - The Curriculum/.keep
       - The Curriculum/The Curriculum.md
       - The Curriculum/English Language & Literature.md
