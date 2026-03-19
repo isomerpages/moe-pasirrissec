@@ -32,7 +32,7 @@ Students need to:
 
 Students need to:
 
-*   have an understanding of the risks of harmful and illegal online behaviours and take steps to protect themselves (e.g. keep their personal information private, verify the reliability of information using various sources, take steps to avoid dangers they may encounter online.)
+*   have an understanding of the risks of harmful and illegal online behaviours and take steps to protect themselves (e.g., keep their personal information private, verify the reliability of information using various sources and take steps to avoid dangers they may encounter online.)
     
 *   make wise and healthy choices (e.g. maintain a healthy balance of their online and offline activities)
 
