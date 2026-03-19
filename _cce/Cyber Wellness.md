@@ -12,7 +12,7 @@ Cyber Wellness (CW) refers to the positive well-being of Internet users. It invo
 
 ![](/images/MOE%20Cyber%20Wellness%20Framework.png)
 
-MOE uses the CW framework to develop the child’s instinct to protect and empower him to take responsibility for his own well-being in cyberspace. The three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’ when adhered to will anchor a child’s well-being in cyberspace as he will then be able to make careful and well-considered decisions. In Pasir Ris Secondary School, we are guided by the CW framework to plan and implement holistic CW Education which is customised to the student profile and school environment.
+MOE uses the Cyber Wellness framework to develop the child’s instinct to protect and empower him or her to take responsibility for his own well-being in cyberspace. The three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’, when adhered to, will anchor a child’s well-being in cyberspace, as he or she will then be able to make careful and well-considered decisions. In Pasir Ris Secondary School, we are guided by the CW framework to plan and implement holistic CW education which is customised to the student profile and school environment.
 
 ### PRSS Cyber Wellness Framework
 
