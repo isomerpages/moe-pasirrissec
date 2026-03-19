@@ -18,7 +18,7 @@ The PRSS Concert Band, led by two well-respected conductors, has a dynamic progr
 * 2020: La Famille de Musique eGames Day 
 * 2022: WBAS Youth Arts Leaders Conference 
 * 2023: Labour Day Open House @ Istana 
-* 2023: Singapore Youth Festival
+* 2023: Singapore Youth Festival (SYF)
 
 ### Achievements
 
