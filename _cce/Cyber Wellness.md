@@ -83,7 +83,7 @@ The Cyber Wellness programme in PRSS aims to equip students with the knowledge, 
 
 #### Training and Workshops
 
-We conduct training sessions for our leaders and students to help them internalise key Cyber Wellness messages. These sessions also equip our student leaders with essential leadership skills to effectively champion Cyber Wellness initiatives.
+We conduct training sessions for our leaders and students to help them internalise key cyber wellness messages. These sessions also equip our student leaders with essential leadership skills to effectively champion cyber wellness initiatives.
 
 ![](/images/CCE/CW/cw01%20training%20&amp;%20workshops.png)
 
