@@ -46,7 +46,7 @@ The competencies related to **social awareness** enable us to develop cognitive 
 
 The competencies for **self-management** enable us to self-regulate our emotions, thoughts and behaviours, to achieve personal well-being, to demonstrate pro-social behaviours, and to choose to be our best selves.
 
-The competencies for **relationship management** enable us to build and maintain positive relationships with others with accordance to social norms and culture. We also develop empathy through practising perspective-taking, and understanding the impact and consequences of our actions on others.
+The competencies for **relationship management** enable us to build and maintain positive relationships with others in accordance with social norms and culture. We also develop empathy through practising perspective-taking, and understanding the impact and consequences of our actions on others.
 
 Responsible decision-making enables us to apply moral reasoning and sound values-based judgements in the choices we make.
 
