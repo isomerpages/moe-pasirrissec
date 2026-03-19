@@ -30,7 +30,7 @@ Some of our unit programmes include the 0.22 revolver shooting, the Crime Scene 
 
 ### Achievements
 
-2022 - 2005: Unit Overall Proficiency Award – Distinction Award 
+2022 - 2005: Unit Overall Proficiency Award - Distinction Award 
 
 **SPF-NPCC Badge 2025:**
 - AISHWARYA ANAND (4E5)
