@@ -15,6 +15,9 @@ sections:
         - title: Signature Programmes
           description: ""
           url: /signature-programmes/signature-programmes/
+        - title: Achievements
+          description: ""
+          url: /achievements/In-The-News/
       variant: center
   - resources:
       title: Latest Announcements
