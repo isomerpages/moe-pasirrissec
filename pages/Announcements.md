@@ -4,6 +4,14 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Timetable for Term 2 2026 (Updated 23/3/2026)
+
+Please click [here](/files/2026_Term_2_TT_FINAL1___Class_LowerSecondary_ODDWeek.pdf) to view Term 2 2026 Timetable for Secondary 1 &amp; 2 classes (Odd Week).
+
+Please click [here](/files/2026_Term_2_TT_FINAL1___Class_LowerSecondary_EVENWeek.pdf) to view Term 2 2026 Timetable for Secondary 1 &amp; 2 classes (Even Week).
+
+Please click [here](/files/2026_Term_2_TT_FINAL1___Class_UpperSecondary.pdf)to view Term 2 2026 Timetable for Secondary 3, 4 &amp; 5 classes.
+
 #### Collection of School Graduation Certificate (SGC) for 2025 Cohort
 
 Students from 2025 Sec 4NT cohorts may collect their SGC from the school General Office during office hours (8.00am - 5.30pm)
@@ -40,12 +48,6 @@ Please click the link below to view the presentation slides from the Parent Enga
 [Sec 1 Parent Engagement](/files/2026_Sec_1_Parent_Engagement_9_Jan___compressed.pdf)<br>
 [Sec 1 PDLP Parent Engagement](/files/2026_PDLP_Parent_Engagement_Deck__For_9_Jan_2026__updated.pdf)
 
-
-#### Timetable for Term 1 2026 (Updated 16/1/2026)
-
-Please click [here](/files/2026_T1_TT_FOR_LS_WEF_19_JAN_FINAL_A.pdf) to view Term 1 2026 Timetable for Secondary 1 &amp; 2 classes.
-
-Please click [here](/files/2026_T1_TT_FOR_US_WEF_19_JAN_FINAL_A.pdf) to view Term 1 2026 Timetable for Secondary 3, 4 &amp; 5 classes.
 
 
 #### GCE O-Level Results Briefing Slides
