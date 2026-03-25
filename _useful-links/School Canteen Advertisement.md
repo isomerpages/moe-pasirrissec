@@ -8,6 +8,14 @@ variant: markdown
 
 #### Application Procedure
 
+
+
+| Type of Stall | Closing Date | Requirement |
+| -------- | -------- | -------- |
+| Halal Nasi Padang Stall     | 30 April 2026    | •	Menu may include varieties such as steamed rice, meat dishes (e.g., ayam lemak, baked/grilled chicken, rendang), vegetable dishes (e.g. egg belado, sayur lodeh, stir-fried mixed vegetables, long beans, tofu, and tempeh).<br>•	All halal ingredients and aligned with HPB Healthy Meals Guidelines.|
+
+
+
 1\. Download and complete the  [Application Form](/files/application%20for%20school%20canteen%20stall.pdf). You may also request for hardcopy form at the School’s General Office.  
 
 2\. Attached the following documents together with the application form:
