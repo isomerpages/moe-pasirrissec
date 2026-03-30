@@ -119,7 +119,7 @@ All our 4NT students qualify for ITE, while 73% of our 4NA students qualify for 
 <tr><td><u>Peraduan Cipta Kata (Fiesta Bahasa 2025)</u><br>- LS Category - 2nd Place, US Category - 2nd Place</td></tr>  
 <tr><td style="padding:10px;"><u>Pena Emas</u><br>- LS Category - 2 Gold, 3 Silver, US Category - 4 Gold, 4 Silver, Top 30 Best Essay</td></tr>  
 <tr><td style="padding:10px;"><u>Peraduan Sahibba</u><br>- Participation</td></tr>  
-<tr><td style="padding:10px;"><u>Peraduan Teevers</u><br>- Participation</td></tr>  
+<tr><td style="padding:10px;"><u>Peraduan Teevers</u><br>- Participation</td></tr>
   
 </tbody>  
 </table>
