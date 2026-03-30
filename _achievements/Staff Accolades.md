@@ -400,33 +400,33 @@ Mr Koh Chun Kiat (Innovator; SgLDC)
 <u>Platinum Award</u><br>  
 Mr Chiang Shu Lee<br><br>  
   
-<u>Gold Award</u><br>  
-Mr Chiang Shu Lee<br>  
-Mr Chang Hock Boon<br>  
-Ms Chia Hwee Tze<br>  
-Ms Chua Wei Tian<br>  
-Mdm Hazwani Binte Abdul Wahid<br>  
-Ms Ho Yen Yin Sabrina<br>  
-Mr Joshua Tan See Kuang<br>  
-Ms Khairunnisa Binte Rahmat<br>  
-Mdm Mariamah Bte Mohd Yusoff<br>  
-Mr Mohamed Ashiq Bin Mohamed Elias<br>  
-Mr Mohd Amin Bin Kadir<br>  
-Mdm Salmia Bte Anuar<br>  
-Mr Sanusi B Idris<br>  
-Mdm Sarifah Bte Tamsir<br>  
-Mr Sim Keng Yam<br>  
+<u>Gold Award</u><br>
+Mr Chiang Shu Lee <br>
+Mr Chang Hock Boon <br>
+Ms Chia Hwee Tze<br> 
+Ms Chua Wei Tian<br>
+Mdm Hazwani Binte Abdul Wahid<br> 
+Ms Ho Yen Yin Sabrina<br>
+Mr Joshua Tan See Kuang<br>
+Ms Khairunnisa Binte Rahmat<br>
+Mdm Mariamah Bte Mohd Yusoff<br>
+Mr Mohamed Ashiq Bin Mohamed Elias<br>
+Mr Mohd Amin Bin Kadir<br>
+Mdm Salmia Bte Anuar<br>
+Mr Sanusi B Idris<br>
+Mdm Sarifah Bte Tamsir<br>
+Mr Sim Keng Yam<br>
 Mdm Tan Kwee Choo<br><br>  
   
 <u>Silver Award</u><br>  
-Mdm Anmilia Bte Anwar Datt<br>  
-Mr Lokhman Haris Bin Abdul Karem<br>  
-Ms Ng Mei Ling<br>  
-Mdm Rubi'ah Binte Massuan<br>  
-Mdm Sharifah Maimunah Bte Syed Mansoor<br>  
-Ms Siti Radilah Binte Ahmad Sidek<br>  
-Mdm Wong Jie Lin<br>  
-Ms Wong Yun Yi<br>  
+Mdm Anmilia Bte Anwar Datt <br>
+Mr Lokhman Haris Bin Abdul Karem <br>
+Ms Ng Mei Ling<br>
+Mdm Rubi'ah Binte Massuan<br>
+Mdm Sharifah Maimunah Bte Syed Mansoor<br>
+Ms Siti Radilah Binte Ahmad Sidek<br>
+Mdm Wong Jie Lin<br>
+Ms Wong Yun Yi <br>
 Mdm Zulaiha Bte Osman  
 </td>  
 <td>MOE Service Excellence Awards</td>  
@@ -436,13 +436,10 @@ Mdm Zulaiha Bte Osman
 <td>10</td>  
 <td>  
 <u>Silver Award - Reimagine Test Tube Washing in Science Labs</u><br><br>  
-(Ms Chua Wei Tian, Mr Mohamed Ali Bin Yunos,<br>  
-Mdm Tan Kwee Choo, Ms Khairunnisa Binte Rahmat)<br><br>  
+Ms Chua Wei Tian, Mr Mohamed Ali Bin Yunos, Mdm Tan Kwee Choo, Ms Khairunnisa Binte Rahmat<br><br>  
   
 <u>Silver Award - Customized motorized trolley</u><br><br>  
-(Mr Mohd Amin Bin Kadir, Mr Sanusi B Idris,<br>  
-Mdm Salmia Bte Anuar, Ms Dian Mayasari<br>  
-Binte Mohamed Tahir, Mr Seah Kok Thuan)  
+Mr Mohd Amin Bin Kadir, Mr Sanusi B Idris, Mdm Salmia Bte Anuar, Ms Dian Mayasari Binte Mohamed Tahir, Mr Seah Kok Thuan 
 </td>  
 <td>MOE Innergy Awards</td>  
 </tr>  
