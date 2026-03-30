@@ -108,7 +108,7 @@ variant: markdown
 <td>1</td>  
 <td>NCC</td>  
 <td>  
-<strong><em>NCC Outstanding Cadet Award</em></strong><br>  
+<u>NCC Outstanding Cadet Award</u><br>  
 - Damien Ng (4E4)<br>  
 - Koo Kai Yuan Clarissa (4E3)  
 </td>  
@@ -118,7 +118,7 @@ variant: markdown
 <td>2</td>  
 <td>NCDCC</td>  
 <td>  
-<strong><em>SPF-NCDCC Award</em></strong><br>  
+<u>SPF-NCDCC Award</u><br>  
 - Nur Syazana Binte Hazlin Noor (4A1)<br>  
 - Lim Xin Yi Charlene (4E5)  
 </td>  
@@ -128,7 +128,7 @@ variant: markdown
 <td>3</td>  
 <td>NCDCC</td>  
 <td>  
-<strong><em>Best Unit Cadet Award</em></strong><br>  
+<u>Best Unit Cadet Award</u><br>  
 - Nur Syazana Binte Hazlin Noor (4A1)  
 </td>  
 </tr>  
@@ -137,7 +137,7 @@ variant: markdown
 <td>4</td>  
 <td>NPCC</td>  
 <td>  
-<strong><em>SPF-NPCC Badge Award</em></strong><br>  
+<u>SPF-NPCC Badge Award</u><br>  
 - You Chu Mei (4E4)<br>  
 - Muhammad Azfar Bin Muhammad Faudzan (4E3)  
 </td>  
@@ -147,7 +147,7 @@ variant: markdown
 <td>5</td>  
 <td>NPCC</td>  
 <td>  
-	<strong><em>Best Unit Cadet</em></strong><br>  
+	<u>Best Unit Cadet</u><br>  
 - You Chu Mei (4E4)<br>  
 - Muhammad Azfar Bin Muhammad Faudzan (4E3)  
 </td>  
