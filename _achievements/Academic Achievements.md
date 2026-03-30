@@ -6,7 +6,123 @@ variant: markdown
 ---
 ### 2025
 
-
+<table style="border-collapse:collapse; width:100%; font-family:Arial; border:1px solid black;">  
+  
+<thead>  
+<tr>  
+<th style="background-color:#d4af37; color:white; padding:10px; text-align:left;">No</th>  
+<th style="background-color:#d4af37; color:white; padding:10px; text-align:left;">Department</th>  
+<th style="background-color:#d4af37; color:white; padding:10px; text-align:left;">Competition / Award</th>  
+</tr>  
+</thead>  
+  
+<tbody>  
+  
+<tr>  
+<td style="padding:10px;">1</td>  
+<td style="padding:10px;">GCE O Level Results 2025</td>  
+<td style="padding:10px;">  
+89.9% of our 4E5N students attained five or more O Level passes.  
+</td>  
+</tr>  
+  
+<tr>  
+<td style="padding:10px;">2</td>  
+<td style="padding:10px;">GCE N Level Results 2025</td>  
+<td style="padding:10px;">  
+All our 4NT students qualify for ITE, while 73% of our 4NA students qualify for 5NA, with 11 students scoring 4 distinctions and above.  
+</td>  
+</tr>  
+  
+<tr>  
+<td rowspan="4" style="padding:10px;">3</td>  
+<td rowspan="4" style="padding:10px;">English Language &amp; Literature</td>  
+<td>  
+<u>NSW International Competitions and Assessments for Schools - English</u><br>  
+- 1 Higher Distinction, 2 Distinctions  
+</td>  
+</tr>  
+  
+<tr>  
+<td>  
+	<u>YMCA Plain English Speaking Competition</u><br>  
+- Top 8 finalists  
+</td>  
+</tr>  
+  
+<tr>  
+<td style="padding:10px;">  
+<u>National Public Speaking Competition</u><br>  
+- 4th position  
+</td>  
+</tr>  
+  
+<tr>  
+<td style="padding:10px;">  
+<u>Singapore Secondary Schools Debating Championship 2025</u><br>  
+- Quarter-finalist  
+</td>  
+</tr>  
+  
+<tr>  
+<td rowspan="3" style="padding:10px;">4</td>  
+<td rowspan="3" style="padding:10px;">Mathematics</td>  
+<td style="padding:10px;">  
+<u>Junior Math Olympiad</u><br>  
+- Bronze (1), Honourable Mention (4), Participation (20)  
+</td>  
+</tr>  
+  
+<tr>  
+<td style="padding:10px;">  
+<u>Senior Math Olympiad</u><br>  
+- Silver (1), Bronze (3), Honourable Mention (4), Participation (30)  
+</td>  
+</tr>  
+  
+<tr>  
+<td style="padding:10px;">  
+<u>Australian Math Competition</u><br>  
+- Distinction (3), Proficiency (18), Credit (13)  
+</td>  
+</tr>  
+  
+<tr>  
+<td rowspan="10" style="padding:10px;">5</td>  
+<td rowspan="10" style="padding:10px;">Science</td>  
+<td style="padding:10px;">  
+<u>Chemistry Olympiad</u><br>  
+- 1 Gold, 1 Merit, 22 Participation  
+</td>  
+</tr>   
+<tr><td style="padding:10px;"><u>Biology Olympiad</u><br>- 1 Silver, 2 Bronze, 2 Honorable Mention</td></tr>  
+<tr><td style="padding:10px;"><u>SISTEMIC</u><br>- Silver Award</td></tr>  
+<tr><td style="padding:10px;"><u>ICAS - Sec 3, Sec 2</u><br>- 2 Distinction, 5 Credit, 3 Merit</td></tr>  
+<tr><td style="padding:10px;"><u>International Chemistry Quiz</u><br>- 5 Distinction, 9 Credits</td></tr>  
+<tr><td style="padding:10px;"><u>A\*STAR VJC Science Festival</u><br>- Certificate of Participation</td></tr>  
+<tr><td style="padding:10px;"><u>Singapore Youth Science Festival</u><br>- 1 Certificate of Accomplishment, 1 Certificate of Commendation</td></tr>  
+<tr><td style="padding:10px;"><u>Temasek Engineering Olympiad</u><br>- 1 Gold, 1 Commendation</td></tr>  
+<tr><td style="padding:10px;"><u>Singapore Physics League</u><br>- 1 Bronze, 1 Commendation</td></tr>  
+<tr><td><u>Offshore &amp; Sustainable Engineering Challenge 2025</u><br>- Design Marvel Award</td></tr>  
+<tr>  
+<td rowspan="8" style="padding:10px;">6</td>  
+<td rowspan="8" style="padding:10px;">Mother Tongue Languages</td>  
+<td style="padding:10px;">  
+<u>National Text Recital Competition (CL)</u><br>  
+- Bronze  
+</td>  
+</tr>  
+  
+<tr><td style="padding:10px;"><u>National Chinese Language Challenge</u><br>- Individual Excellence Award (Top 30)</td></tr>  
+<tr><td style="padding:10px;"><u>National Poem Recitation Competition</u><br>- Commendation</td></tr>  
+<tr><td style="padding:10px;"><u>National Mandarin Oratorical Competition</u><br>- Commendation</td></tr>  
+<tr><td><u>Peraduan Cipta Kata (Fiesta Bahasa 2025)</u><br>- LS Category - 2nd Place, US Category - 2nd Place</td></tr>  
+<tr><td style="padding:10px;"><u>Pena Emas</u><br>- LS Category - 2 Gold, 3 Silver, US Category - 4 Gold, 4 Silver, Top 30 Best Essay</td></tr>  
+<tr><td style="padding:10px;"><u>Peraduan Sahibba</u><br>- Participation</td></tr>  
+<tr><td style="padding:10px;"><u>Peraduan Teevers</u><br>- Participation</td></tr>  
+  
+</tbody>  
+</table>
 
 ### 2024
 
