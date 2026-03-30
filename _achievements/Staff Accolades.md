@@ -31,7 +31,7 @@ Mdm Sumrah Binte Chuni<br>
 Mdm Wendy Wong Jie Lin<br>  
 Mr Zachary Koh Jia Sheng  
 </td>  
-<td>Teachers' Day Award - Caring Teacher Award</td>  
+<td>Teachers' Day Award <br>(Caring Teacher Award)</td>  
 </tr>  
   
 <tr>  
@@ -41,7 +41,7 @@ Mdm Lynn Loy Lin Li<br>
 Mr Sim Chun Siang<br>  
 Mr Winston Chiang Ming Yao  
 </td>  
-<td>Teachers' Day Award - Inspiring Teacher Award</td>  
+<td>Teachers' Day Award<br>(Inspiring Teacher Award)</td>  
 </tr>  
   
 <tr>  
