@@ -123,14 +123,14 @@ Ms Quah Wei Wee<br><br>
 <tr>  
 <td>7</td>  
 <td>  
-<u>1 Bronze Award</u><br>
+<u>1 Bronze Award</u><br><br>
 	
-<u>Fostering Future of Learning with Hybrid Team Teaching and Learning:</u><br>
+Fostering Future of Learning with Hybrid Team Teaching and Learning:<br>
 Mr Khoon Wee, Ms Siti Radilah, Ms Nor’Ain, Ms Sabrina, Ms Eunice, Mdm Sumrah, Mr Chun Kiat, Mr Victor, Mr Joshua, Ms Wei Wee<br><br>  
   
 <u>2 Commendation Awards</u><br><br>
-<u>Bringing the World into the Classroom through Immersive Experiences:</u><br> Ms Sabrina, Ms Sarifah, Ms Mindy, Ms Siti Radilah, Ms Nor’Ain<br>  
-<u>Enhancing Classroom Comfort with Exhaust Fan Ventilation:</u>:<br> Mr Mohd Amin, Mdm Salmia, Mr Rizal  
+Bringing the World into the Classroom through Immersive Experiences:<br> Ms Sabrina, Ms Sarifah, Ms Mindy, Ms Siti Radilah, Ms Nor’Ain<br>  
+Enhancing Classroom Comfort with Exhaust Fan Ventilation:<br> Mr Mohd Amin, Mdm Salmia, Mr Rizal  
 </td>  
 <td>Innergy Awards</td>  
 </tr>  
