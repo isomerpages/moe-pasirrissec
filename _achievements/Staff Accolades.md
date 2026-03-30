@@ -4,6 +4,166 @@ permalink: /achievements/staff-accolades/
 description: ""
 variant: markdown
 ---
+### 2025
+
+<table style="" cellspacing="0" border="1">
+<tbody><tr>  
+<th style="background-color: gold;">No</th>  
+<th style="background-color: gold;">Staff</th>  
+<th style="background-color: gold;">Award</th>  
+</tr>  
+  
+</tbody><tbody>  
+<tr>  
+<td>1</td>  
+<td>  
+Mr Amir Hamzah Bin Mohamed Salleh<br>  
+Mr Chang Hock Boon<br>  
+Mr Cheng Song Fong<br>  
+Ms Desiree Oh Yi Ting<br>  
+Mr Desmond Ng Boon Tiong<br>  
+Mr Lim Yong Liang<br>  
+Ms Maryam Anuar<br>  
+Mr Ong Ting Kai<br>  
+Miss Pearlyn Chia Kai Ling<br>  
+Mdm Rubi’ah Binte Massuan<br>  
+Mdm Sumrah Binte Chuni<br>  
+Mdm Wendy Wong Jie Lin<br>  
+Mr Zachary Koh Jia Sheng  
+</td>  
+<td>Teachers' Day Award - Caring Teacher Award</td>  
+</tr>  
+  
+<tr>  
+<td>2</td>  
+<td>  
+Mdm Lynn Loy Lin Li<br>  
+Mr Sim Chun Siang<br>  
+Mr Winston Chiang Ming Yao  
+</td>  
+<td>Teachers' Day Award - Inspiring Teacher Award</td>  
+</tr>  
+  
+<tr>  
+<td>3</td>  
+<td>  
+Mohamed Ashiq<br>  
+Sarifah Bte Tamsir<br>  
+Amir Hamzah<br>  
+Winston Chiang<br>  
+Zachary Koh<br>  
+Mohamed Ali Yunos  
+</td>  
+<td>Outstanding Contribution Awards (OCA) Individual</td>  
+</tr>  
+  
+<tr>  
+<td>4</td>  
+<td>  
+<strong>CCA Sports (9)</strong><br>  
+* Football (Halim, Desmond Ng, Robert)<br>  
+* Volleyball (Andy, Hock Boon)<br>  
+* Basketball (Boys) (Vincent, Daniel Chng)<br>  
+* Netball (Nadiah, Wei Wei)<br>
+ 
+<strong>Geography Unit (3)</strong><br>
+Hairunisa, Mabel, Mindy, Sarifah, Sabrina<br>
+  
+<strong>NDP-CCE (3)</strong><br>
+Maryam, Desiree, Kimberlyn, Winston<br>
+  
+<strong>Student Development Team (4)</strong><br>
+Karen, Sabrina, Pearlyn, Mabel, Ernest, Zachary  
+</td>  
+<td>Outstanding Contribution Awards (OCA) Team</td>  
+</tr>  
+  
+<tr>  
+<td>5</td>  
+<td>  
+Anmilia Bte Anwar Datt<br>  
+Chang Hock Boon<br>  
+Dian Mayasari Binte Mohamed Tahir<br>  
+Hazwani Binte Abdul Wahid<br>  
+Ho Yen Yin, Sabrina<br>  
+Koh Jia Sheng Zachary<br>  
+Mohamed Ali Bin Yunos<br>  
+Mohamed Ashiq Bin Mohamed Elias<br>  
+Parvin Bibi Marican<br>  
+Rubi'Ah Binte Massuan<br>  
+Salmia Binte Anuar<br>  
+Sim Chun Siang<br>  
+Siti Sarah Binte Mamat<br>  
+Winston Chiang Ming Yao  
+</td>  
+<td>MOE Service Excellence Award (MSEA) Gold</td>  
+</tr>  
+  
+<tr>  
+<td>6</td>  
+<td>  
+Fam Hui Yuen<br>  
+Fazidah Binte Mohamed Lias<br>  
+Ho Kheng Chan<br>  
+Jiang Wei Yeow<br>  
+Koh Chun Kiat<br>  
+Leong Soo Mui Dolly<br>  
+Maryam Anuar<br>  
+Ng Mei Ling<br>  
+Nor 'Ain Binte Rahman<br>  
+Nur Nadiah Bte Adanan<br>  
+Nurain Binte Ibrahim<br>  
+Oh Yi Ting Desiree<br>  
+Quah Wei Wee<br><br>  
+(Posted in from Changkat Changi Sec in Jul - Norhafizah Bte Ma'arof)  
+</td>  
+<td>MOE Service Excellence Award (MSEA) Silver</td>  
+</tr>  
+  
+<tr>  
+<td>7</td>  
+<td>  
+<strong>1 Bronze Award</strong><br>
+	
+**Fostering Future of Learning with Hybrid Team Teaching and Learning:**
+Khoon Wee, Siti Radilah, Nor’Ain, Sabrina, Eunice, Sumrah, Chun Kiat, Victor, Joshua, Wei Wee<br><br>  
+  
+<strong>2 Commendation Awards</strong><br><br>
+**Bringing the World into the Classroom through Immersive Experiences:** Sabrina, Sarifah, Mindy, Siti Radilah, Nor’Ain<br>  
+**Enhancing Classroom Comfort with Exhaust Fan Ventilation:**
+Amin, Salmia, Rizal  
+</td>  
+<td>Innergy Awards</td>  
+</tr>  
+  
+<tr>  
+<td>8</td>  
+<td>  
+	<b>Commendation Medal:</b><br><br>
+Hazwani<br>  
+Karen Tan  
+</td>  
+<td>National Day Awards</td>  
+</tr>  
+  
+<tr>  
+<td>9</td>  
+<td>  
+	<b>Long Service Awards:</b><br><br>
+Sim Keng Yam<br>  
+Koh Kai Hwee<br>  
+Nazrene Akbar Ali  
+</td>  
+<td>National Day Awards</td>  
+</tr>  
+  
+</tbody>  
+</table>
+
+
+
+
+
 ### 2024
 <table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mr Mohamed Ashiq Bin Mohamed Elias</td><td>LEAP Award – Singapore Hokkien Huay Kuan</td></tr><tr><td>2</td><td>Mdm Mariamah Mohd Yusoff</td><td>National Day Awards<br><br>The Commendation Medal</td></tr>  
 	<tr><td>3</td><td>Mr Sanusi B Idris</td><td>National Day Awards<br><br>The Efficiency Medal</td></tr>  
