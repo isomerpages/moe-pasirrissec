@@ -49,7 +49,7 @@ variant: markdown
   
 <tr>  
 <td>4</td>  
-<td>National School Games Football Championships</td>  
+<td>National School Games<br> Football Championships</td>  
 <td>  
 <u>C-Division Boys, League 1</u><br>  
 - Top 8  
@@ -58,7 +58,7 @@ variant: markdown
   
 <tr>  
 <td>5</td>  
-<td>National School Games Volleyball Championships</td>  
+<td>National School Games<br> Volleyball Championships</td>  
 <td>  
 <u>C-Division Boys, League 2</u><br>  
 - Champion  
@@ -67,7 +67,7 @@ variant: markdown
   
 <tr>  
 <td>6</td>  
-<td>National School Games Netball Championships</td>  
+<td>National School Games<br> Netball Championships</td>  
 <td>  
 <u>C-Division Girls, League 4</u><br>  
 - Third  
@@ -76,7 +76,7 @@ variant: markdown
   
 <tr>  
 <td>7</td>  
-<td>National School Games TKD Kyorugi Championships</td>  
+<td>National School Games<br> TKD Kyorugi Championships</td>  
 <td>  
 <u>B-Division Girls</u><br>  
 - Champion  
@@ -85,7 +85,7 @@ variant: markdown
   
 <tr>  
 <td>8</td>  
-<td>National School Games Gymnastic (Trampoline) Championships</td>  
+<td>National School Games <br>Gymnastic (Trampoline) Championships</td>  
 <td>  
 <u>B-Division Boys</u><br>  
 - Bronze Medal  
@@ -94,7 +94,7 @@ variant: markdown
   
 <tr>  
 <td>9</td>  
-<td>National School Games Track and Field Championships</td>  
+<td>National School Games <br>Track and Field Championships</td>  
 <td>  
 <u>C-Division Boys, 4x100m Relay</u><br>  
 - Finalist  
@@ -105,11 +105,11 @@ variant: markdown
 <td>10</td>  
 <td>Singapore Youth Festival Arts Presentation</td>  
 <td>  
-<u>Concert Band</u> - Certificate of Distinction<br><br>
-<u>Choir</u> - Certificate of Accomplishment<br><br>
-<u>Chinese Orchestra</u> - Certificate of Accomplishment<br><br>  
-<u>English Drama</u> - Certificate of Distinction<br><br>
-<u>Modern Dance</u> - Certificate of Distinction  
+<u>Concert Band</u> <br>- Certificate of Distinction<br><br>
+<u>Choir</u> <br>- Certificate of Accomplishment<br><br>
+<u>Chinese Orchestra</u><br> - Certificate of Accomplishment<br><br>  
+<u>English Drama</u> <br>- Certificate of Distinction<br><br>
+<u>Modern Dance</u> <br>- Certificate of Distinction  
 </td>  
 </tr>  
   
