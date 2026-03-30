@@ -266,7 +266,7 @@ Mr Cheng Song Fong<br>
 Mdm Chew Xin Rong, Fiona<br>
 Mr Zachary Koh Jia Sheng<br>
 Mr Kevin Kok Wai Keong<br>
-Mr Liu Shucu<br>
+Mr Liu Shu Cun<br>
 Mr Seong Then Yee<br>
 Mr Winston Chiang Ming Yao  
 </td>  
