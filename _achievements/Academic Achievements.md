@@ -59,22 +59,100 @@ variant: markdown
 
 ### 2022
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead>
-<tr><th style="background-color:#34A853;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#34A853">No</span></th><th style="background-color:#34A853;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#34A853">Department</span></th>
-<th style="background-color:#34A853;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#34A853">Competition / Award</span></th></tr>
-</thead>
-<tbody>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">1</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">GCE O Level Results 2022</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">4E – 7 subjects with 100% passes</span><br><span style="font-weight:normal">5N – 4 subjects with 100% passes</span><br><span style="font-weight:normal">A total of 26 students scored 5 distinctions and above</span></td>
-</tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">2</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">GCE N Level Results 2022</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">All our 4NT students qualify for ITE and 3 of them scored 3 out of 4 distinctions while 89.7% of our 4NA students qualify for the 5NA and 17 of them scored 4 distinctions and above.</span> </td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">3</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">English Language &amp; Literature</span></td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">GEMA Short Story Writing Competition 2022</span><span style="font-weight:normal">- Silver Award (Senior Category)</span><br><span style="font-weight:normal">- Consolation</span> <br><br><span style="font-weight:bold">Live on Festival 2022 Essay Writing Competition</span><br><span style="font-weight:normal">- Higher Distinction Award (Senior Category)</span> </td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">4</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Mother Tongue</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Young Reporter News Challenge</span><span style="font-weight:normal">- Outstanding News Video Re-Tell News Category</span></td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">5</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Science</span></td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">43rd International C.B. Paul Science Quiz</span><span style="font-weight:normal">- Sec 2 (2 Silver, 1 Bronze)</span><br><span style="font-weight:normal">- Sec 4 (1 Silver, 1 Bronze, 3 Merit)</span><br><br><span style="font-weight:bold">Biology Olympiad</span><br><span style="font-weight:normal">- 3 Bronze</span><br><span style="font-weight:normal">- 2 Honorable Mention</span><br><br><span style="font-weight:bold">Physics Olympiad</span><br><span style="font-weight:normal">- 1 Bronze</span><br><span style="font-weight:normal">- 7 Honorable Mention</span><br><br><span style="font-weight:bold">9th ASEAN Plus Three Junior Science Odyssey (APTJSO)</span><br><span style="font-weight:normal">- 1 Gold (Mixed Country team)</span><br><span style="font-weight:normal">- 2 Silver (for Science Process Skills Challenge, and Sustainability Challenge)</span><br><br><span style="font-weight:bold">2022 East Zone ASTAR VJC Science Fair</span><br><span style="font-weight:normal">- Merit (Sec 2 Team)</span></td>
-</tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">6</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Mathematics</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Singapore Math Olympiad (SMO)</span><span style="font-weight:normal">- 4 Honorable Mentions</span> </td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">7</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Information Communciation</span> <br><span style="font-weight:bold">&amp; Technology (CPA)</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Animation and Game Making Competition 2022</span><span style="font-weight:normal">- Game Category Bronze</span> </td></tr></tbody></table>
+<table style="border-collapse:collapse; width:100%; font-family:Arial; border=">  
+  
+<thead>    
+<tr style="background-color:#d4af37; color:white;">  
+<th style="padding:10px; text-align:left;">No</th>  
+<th style="padding:10px; text-align:left;">Department</th>  
+<th style="padding:10px; text-align:left;">Competition / Award</th>  
+</tr>  
+</thead>  
+  
+<tbody>  
+<tr>  
+<td>1</td>  
+<td>GCE O Level Results 2022</td>  
+<td>  
+4E – 7 subjects with 100% passes<br>  
+5N – 4 subjects with 100% passes<br><br>  
+A total of 26 students scored 5 distinctions and above  
+</td>  
+</tr>  
+  
+<tr>  
+<td style="padding:10px; text-align:left;">2</td>  
+<td style="padding:10px; text-align:left;">GCE N Level Results 2022</td>  
+<td style="padding:10px;">  
+All our 4NT students qualify for ITE and 3 of them scored 3 out of 4 distinctions while 89.7% of our 4NA students qualify for the 5NA and 17 of them scored 4 distinctions and above.  
+</td>  
+</tr>  
+  
+<tr>  
+<td style="padding:10px; text-align:left;">3</td>  
+<td style="padding:10px; text-align:left;">English Language &amp; Literature</td>  
+<td>  
+<u>GEMA Short Story Writing Competition 2022</u><br>  
+- Silver Award (Senior Category)<br>  
+- Consolation<br><br>  
+<u>Live on Festival 2022 Essay Writing Competition</u><br>  
+- Higher Distinction Award (Senior Category)  
+</td>  
+</tr>  
+  
+<tr>  
+<td style="padding:10px; text-align:left;">4</td>  
+<td style="padding:10px; text-align:left;">Mother Tongue</td>  
+<td>  
+<u>Young Reporter News Challenge</u><br> - Outstanding News Video Re-Tell News Category  
+</td>  
+</tr>  
+  
+<tr>  
+<td style="padding:10px; text-align:left;">5</td>  
+<td style="padding:10px; text-align:left;">Science</td>  
+<td style="padding:10px;">  
+<u>43rd International C.B. Paul Science Quiz</u><br>  
+- Sec 2 (2 Silver, 1 Bronze)<br>  
+- Sec 4 (1 Silver, 1 Bronze, 3 Merit)<br><br>  
+  
+<u>Biology Olympiad</u><br>  
+- 3 Bronze<br>  
+- 2 Honorable Mention<br><br>  
+  
+<u>Physics Olympiad</u><br>  
+- 1 Bronze<br>  
+- 7 Honorable Mention<br><br>  
+  
+<u>9th ASEAN Plus Three Junior Science Odyssey (APTJSO)</u><br>  
+- 1 Gold (Mixed Country team)<br>  
+- 2 Silver (Science Process Skills Challenge &amp; Sustainability Challenge)<br><br>
+  
+<u>2022 East Zone ASTAR VJC Science Fair</u><br>
+- Merit (Sec 2 Team)  
+</td>  
+</tr>  
+  
+<tr>  
+<td style="padding:10px; text-align:left;">6</td>  
+<td style="padding:10px; text-align:left;">Mathematics</td>  
+<td style="padding:10px;">  
+<u>Singapore Math Olympiad (SMO)</u>
+<br>- 4 Honorable Mentions  
+</td>  
+</tr>  
+  
+<tr>  
+<td style="padding:10px; text-align:left;">7</td>  
+<td style="padding:10px; text-align:left;">  
+Information Communication &amp; Technology (CPA) 
+</td>  
+<td style="padding:10px;">  
+<u>Animation and Game Making Competition 2022</u> <br>- Game Category Bronze  
+</td>  
+</tr>  
+</tbody>  
+</table>
 
 2021
 ----
