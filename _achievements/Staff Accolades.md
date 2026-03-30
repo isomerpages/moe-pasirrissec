@@ -139,7 +139,7 @@ Amin, Salmia, Rizal
 <tr>  
 <td>8</td>  
 <td>  
-The Commendation Medal:<br>  
+	<b>Commendation Medal:</b><br><br>
 Hazwani<br>  
 Karen Tan  
 </td>  
@@ -149,7 +149,7 @@ Karen Tan
 <tr>  
 <td>9</td>  
 <td>  
-Long Service Awards:<br>  
+	<b>Long Service Awards:</b><br><br>
 Sim Keng Yam<br>  
 Koh Kai Hwee<br>  
 Nazrene Akbar Ali  
