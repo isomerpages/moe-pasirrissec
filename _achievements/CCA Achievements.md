@@ -58,7 +58,7 @@ variant: markdown
 <td>3</td>  
 <td>NPCC</td>  
 <td>  
-<strong><em>SPF-NPCC Badge Award</em></strong><br>  
+	<u>SPF-NPCC Badge Award</u><br>  
 - Adiba Jamshed Puyyakara (4E6)*<br>  
 - Lee Jia Jing (4E4)<br>  
 - Nur Hidayah Binte Johar (4E3)<br><br>  
