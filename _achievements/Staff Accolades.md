@@ -8,9 +8,9 @@ variant: markdown
 
 <table style="" cellspacing="0" border="1">
 <tbody><tr>  
-<th style="background-color: gold;">No</th>  
-<th style="background-color: gold;">Staff</th>  
-<th style="background-color: gold;">Award</th>  
+<th style="background-color:#d4af37; color:white;">No</th>  
+<th style="background-color:#d4af37; color:white;">Staff</th>  
+<th style="background-color:#d4af37; color:white;">Award</th>  
 </tr>  
   
 </tbody><tbody>  
