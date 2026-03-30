@@ -130,7 +130,7 @@ Mr Khoon Wee, Ms Siti Radilah, Ms Nor’Ain, Ms Sabrina, Ms Eunice, Mdm Sumrah, 
   
 <strong>2 Commendation Awards</strong><br><br>
 <strong>Bringing the World into the Classroom through Immersive Experiences:</strong> Ms Sabrina, Ms Sarifah, Ms Mindy, Ms Siti Radilah, Ms Nor’Ain<br>  
-	<strong>Enhancing Classroom Comfort with Exhaust Fan Ventilation:</strong>: Amin, Salmia, Rizal  
+	<strong>Enhancing Classroom Comfort with Exhaust Fan Ventilation:</strong>: Mr Mohd Amin, Mdm Salmia, Mr Rizal  
 </td>  
 <td>Innergy Awards</td>  
 </tr>  
