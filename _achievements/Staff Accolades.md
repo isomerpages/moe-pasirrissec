@@ -60,19 +60,19 @@ Mr Mohamed Ali Yunos
 <tr>  
 <td>4</td>  
 <td>  
-<strong>CCA Sports</strong><br>
+<u>CCA Sports</u><br>
 Football (Mr Halim, Mr Desmond Ng, Mr Robert)<br>  
 Volleyball (Mr Andy, Mr Hock Boon)<br>  
 Basketball (Boys) (Mr Vincent, Mr Daniel Chng)<br>  
-Netball (Mdm Nadiah, Ms Wei Wei)<br>
+Netball (Mdm Nadiah, Ms Wei Wei)<br><br>
  
-<strong>Geography Unit</strong><br>
-Mdm Hairunisa, Ms Mabel, Ms Mindy, Mdm Sarifah, Ms Sabrina<br>
+<u>Geography Unit</u><br>
+Mdm Hairunisa, Ms Mabel, Ms Mindy, Mdm Sarifah, Ms Sabrina<br><br>
   
-<strong>NDP-CCE</strong><br>
-Ms Maryam, Ms Desiree, Ms Kimberlyn, Mr Winston<br>
+<u>NDP-CCE</u><br>
+Ms Maryam, Ms Desiree, Ms Kimberlyn, Mr Winston<br><br>
   
-<strong>Student Development Team</strong><br>
+<u>Student Development Team</u><br>
 Ms Karen, Ms Sabrina, Ms Pearlyn, Ms Mabel, Mr Ernest, Mr Zachary  
 </td>  
 <td>Outstanding Contribution Awards (OCA) Team</td>  
@@ -123,14 +123,14 @@ Ms Quah Wei Wee<br><br>
 <tr>  
 <td>7</td>  
 <td>  
-<strong>1 Bronze Award</strong><br>
+<u>1 Bronze Award</u><br>
 	
-<strong>Fostering Future of Learning with Hybrid Team Teaching and Learning:</strong>
+<u>Fostering Future of Learning with Hybrid Team Teaching and Learning:</u><br>
 Mr Khoon Wee, Ms Siti Radilah, Ms Nor’Ain, Ms Sabrina, Ms Eunice, Mdm Sumrah, Mr Chun Kiat, Mr Victor, Mr Joshua, Ms Wei Wee<br><br>  
   
-<strong>2 Commendation Awards</strong><br><br>
-<strong>Bringing the World into the Classroom through Immersive Experiences:</strong> Ms Sabrina, Ms Sarifah, Ms Mindy, Ms Siti Radilah, Ms Nor’Ain<br>  
-	<strong>Enhancing Classroom Comfort with Exhaust Fan Ventilation:</strong>: Mr Mohd Amin, Mdm Salmia, Mr Rizal  
+<u>2 Commendation Awards</u><br><br>
+<u>Bringing the World into the Classroom through Immersive Experiences:</u><br> Ms Sabrina, Ms Sarifah, Ms Mindy, Ms Siti Radilah, Ms Nor’Ain<br>  
+<u>Enhancing Classroom Comfort with Exhaust Fan Ventilation:</u>:<br> Mr Mohd Amin, Mdm Salmia, Mr Rizal  
 </td>  
 <td>Innergy Awards</td>  
 </tr>  
@@ -138,7 +138,7 @@ Mr Khoon Wee, Ms Siti Radilah, Ms Nor’Ain, Ms Sabrina, Ms Eunice, Mdm Sumrah, 
 <tr>  
 <td>8</td>  
 <td>  
-	<b>Commendation Medal:</b><br><br>
+	<u>Commendation Medal:</u><br><br>
 Mdm Hazwani Binte Abdul Wahid<br>  
 Ms Karen Tan Jialin
 </td>  
@@ -148,7 +148,7 @@ Ms Karen Tan Jialin
 <tr>  
 <td>9</td>  
 <td>  
-	<b>Long Service Awards:</b><br><br>
+	<u>Long Service Awards:</u><br><br>
 Mr Sim Keng Yam<br>  
 Mr Koh Kai Hwee<br>  
 Mdm Nazrene Akbar Ali  
