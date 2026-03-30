@@ -138,7 +138,7 @@ Enhancing Classroom Comfort with Exhaust Fan Ventilation:<br> Mr Mohd Amin, Mdm 
 <tr>  
 <td>8</td>  
 <td>  
-	<u>Commendation Medal:</u><br><br>
+	<u>Commendation Medal</u><br><br>
 Mdm Hazwani Binte Abdul Wahid<br>  
 Ms Karen Tan Jialin
 </td>  
@@ -148,7 +148,7 @@ Ms Karen Tan Jialin
 <tr>  
 <td>9</td>  
 <td>  
-	<u>Long Service Awards:</u><br><br>
+	<u>Long Service Awards</u><br><br>
 Mr Sim Keng Yam<br>  
 Mr Koh Kai Hwee<br>  
 Mdm Nazrene Akbar Ali  
