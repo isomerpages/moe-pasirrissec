@@ -277,32 +277,179 @@ Mr Winston Chiang Ming Yao
 </table>
 
 ### 2023
- 
-<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mr Mohd Amin Bin Kadir</td><td>National Day Awards <br><br>The Commendation Medal</td></tr><tr><td>2</td><td>Mdm Tan Kwee Choo</td><td>National Day Awards<br><br>The Efficiency Medal</td></tr>  
-	<tr><td>3</td><td>Mdm Loy Lin Li Lynn<br>Mr Ng Tze Keen Daniel<br>Mr Abdul Halim Bin Udori<br>Ms Jiang Wei Yeow Jaslin</td><td>National Day Awards<br><br>The Long Service Medal</td></tr>  
-	<tr><td>4</td><td>Mohd Amin Bin Kadir<br>Mdm Hazwani Binte Abdul Wahid
-</td><td>National Day Awards<br><br>COVID-19 Resilience Medal</td></tr>  
-	<tr><td>5</td><td>Ms Shayne Ong Chi Ying<br>Mr Muhammad Omarali Bin Zulkiflee<br>Mr Chiang Shu Lee<br>
-Mdm Shahilla d/o K Balakrishnan<br>Mr Wilfred Teo Yu Wen
-</td><td>National Day Awards<br><br>NIE Caring Teacher Award</td></tr>  
-	<tr><td>6</td><td>Mdm Lynn Loy Lin Li (Mrs Tan)<br>Mdm Rubi’ah Binte Massuan<br>Mr Amir Hamzah Bin Mohamed
-</td><td>Teachers’ Day Award<br>(Inspiring Teacher Award)<br></td></tr> 
-	<tr><td>7</td><td>Mdm Ng Ai Hoon<br>Ms Mavis Ho Min Yu<br>Mr Seong Then Yee<br>Mr Winston Chiang Ming Yao<br>
-Mr Wong Wei Long<br>Mr Zachary Koh Jia Sheng<br>Ms Siti Sarah Binte Mamat<br>Ms Quah Wei Wee<br>Ms Buganeswari D/O Somo Pillay<br>Ms Sabrina Ho Yen Yin<br>Ms Jaslin Jiang Wei Yeow<br>Mr Eric Koh Kai Hwee<br>Mdm Sumrah Binte Chuni<br>Mdm Zulaiha Bte Osman</td><td>Teachers’ Day Award <br>(Caring Teacher Award)<br></td></tr> 	
-	<tr><td>8</td><td>Mdm Sarifah Bte Tamsir (Facilitator of NLC)<br>Mdm Hairunisa Binte Hosnin (Facilitator of Workshop)<br>Mr Wilfred Teo Yu Wen (Innovator; SgLDC)<br>Mr Koh Chun Kiat (Innovator; SgLDC)</td><td>MOE AST Academy Award</td></tr> 
-	<tr><td>9</td><td><u>Platinum Award</u><br>
-		Mr Chiang Shu Lee<br><br><u>Gold Award</u><br>Mr Chiang Shu Lee<br>Mr Chang Hock Boon<br>Ms Chia Hwee Tze<br>Ms Chua Wei Tian<br>Mdm Hazwani Binte Abdul Wahid<br>Ms Ho Yen Yin Sabrina<br>Mr Joshua Tan See Kuang<br>Ms Khairunnisa Binte Rahmat<br>Mdm Mariamah Bte Mohd Yusoff<br>Mr Mohamed Ashiq Bin Mohamed Elias<br>
-Mr Mohd Amin Bin Kadir<br>Mdm Salmia Binte Anuar<br>Mr Sanusi B Idris<br>Mdm Sarifah Bte Tamsir<br>Mr Sim Keng Yam<br>Mdm Tan Kwee Choo<br><br>
-<u>Silver Award</u><br>
-Mdm Anmilia Bte Anwar Datt<br>Mr Lokhman Haris Bin Abdul Karem<br>Ms Ng Mei Ling<br>Mdm Rubi'ah Binte Massuan<br>Mdm Sharifah Maimunah Bte Syed Mansoor<br>
-Ms Siti Radilah Binte Ahmad Sidek<br>Mdm Wong Jie Lin<br>Ms Wong Yun Yi<br>Mdm Zulaiha Bte Osman
-		</td><td>MOE Service Excellence Awards</td></tr>
-	<tr><td>10</td><td><u>Silver Award - Reimagine Test Tube Washing in Science Labs</u><br><br>(Ms Chua Wei Tian, Mr Mohamed Ali Bin Yunos, <br>Mdm Tan Kwee Choo, Ms Khairunnisa Binte Rahmat)<br><br>
-<u>Silver Award - Customized motorized trolley</u>
-<br><br>
-(Mr Mohd Amin Bin Kadir, Mr Sanusi B Idris, <br>Mdm Salmia Bte Anuar, Ms Dian Mayasari <br>Binte Mohamed Tahir, Mr Seah Kok Thuan)
-</td><td>MOE Innergy Awards</td></tr>
-</tbody></table>
+
+<table cellspacing="0" cellpadding="8" border="1">  
+<thead>  
+<tr>  
+<th style="background-color:#d4af37; color:white;">No</th>  
+<th style="background-color:#d4af37; color:white;">Staff</th>  
+<th style="background-color:#d4af37; color:white;">Award</th>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>1</td>  
+<td>Mr Mohd Amin Bin Kadir</td>  
+<td>  
+National Day Awards<br><br>  
+The Commendation Medal  
+</td>  
+</tr>  
+  
+<tr>  
+<td>2</td>  
+<td>Mdm Tan Kwee Choo</td>  
+<td>  
+National Day Awards<br><br>  
+The Efficiency Medal  
+</td>  
+</tr>  
+  
+<tr>  
+<td>3</td>  
+<td>  
+Mdm Loy Lin Li Lynn<br>  
+Mr Ng Tze Keen Daniel<br>  
+Mr Abdul Halim Bin Udori<br>  
+Ms Jiang Wei Yeow Jaslin  
+</td>  
+<td>  
+National Day Awards<br><br>  
+The Long Service Medal  
+</td>  
+</tr>  
+  
+<tr>  
+<td>4</td>  
+<td>  
+Mohd Amin Bin Kadir<br>  
+Mdm Hazwani Binte Abdul Wahid  
+</td>  
+<td>  
+National Day Awards<br><br>  
+COVID-19 Resilience Medal  
+</td>  
+</tr>  
+  
+<tr>  
+<td>5</td>  
+<td>  
+Ms Shayne Ong Chi Ying<br>  
+Mr Muhammad Omarali Bin Zulkiflee<br>  
+Mr Chiang Shu Lee<br>  
+Mdm Shahilla d/o K Balakrishnan<br>  
+Mr Wilfred Teo Yu Wen  
+</td>  
+<td>  
+National Day Awards<br><br>  
+NIE Caring Teacher Award  
+</td>  
+</tr>  
+  
+<tr>  
+<td>6</td>  
+<td>  
+Mdm Lynn Loy Lin Li (Mrs Tan)<br>  
+Mdm Rubi’ah Binte Massuan<br>  
+Mr Amir Hamzah Bin Mohamed  
+</td>  
+<td>  
+Teachers’ Day Award<br>  
+(Inspiring Teacher Award)  
+</td>  
+</tr>  
+  
+<tr>  
+<td>7</td>  
+<td>  
+Mdm Ng Ai Hoon<br>  
+Ms Mavis Ho Min Yu<br>  
+Mr Seong Then Yee<br>  
+Mr Winston Chiang Ming Yao<br>  
+Mr Wong Wei Long<br>  
+Mr Zachary Koh Jia Sheng<br>  
+Ms Siti Sarah Binte Mamat<br>  
+Ms Quah Wei Wee<br>  
+Ms Buganeswari D/O Somo Pillay<br>  
+Ms Sabrina Ho Yen Yin<br>  
+Ms Jaslin Jiang Wei Yeow<br>  
+Mr Eric Koh Kai Hwee<br>  
+Mdm Sumrah Binte Chuni<br>  
+Mdm Zulaiha Bte Osman  
+</td>  
+<td>  
+Teachers’ Day Award<br>  
+(Caring Teacher Award)  
+</td>  
+</tr>  
+  
+<tr>  
+<td>8</td>  
+<td>  
+Mdm Sarifah Bte Tamsir (Facilitator of NLC)<br>  
+Mdm Hairunisa Binte Hosnin (Facilitator of Workshop)<br>  
+Mr Wilfred Teo Yu Wen (Innovator; SgLDC)<br>  
+Mr Koh Chun Kiat (Innovator; SgLDC)  
+</td>  
+<td>MOE AST Academy Award</td>  
+</tr>  
+  
+<tr>  
+<td>9</td>  
+<td>  
+<u>Platinum Award</u><br>  
+Mr Chiang Shu Lee<br><br>  
+  
+<u>Gold Award</u><br>  
+Mr Chiang Shu Lee<br>  
+Mr Chang Hock Boon<br>  
+Ms Chia Hwee Tze<br>  
+Ms Chua Wei Tian<br>  
+Mdm Hazwani Binte Abdul Wahid<br>  
+Ms Ho Yen Yin Sabrina<br>  
+Mr Joshua Tan See Kuang<br>  
+Ms Khairunnisa Binte Rahmat<br>  
+Mdm Mariamah Bte Mohd Yusoff<br>  
+Mr Mohamed Ashiq Bin Mohamed Elias<br>  
+Mr Mohd Amin Bin Kadir<br>  
+Mdm Salmia Bte Anuar<br>  
+Mr Sanusi B Idris<br>  
+Mdm Sarifah Bte Tamsir<br>  
+Mr Sim Keng Yam<br>  
+Mdm Tan Kwee Choo<br><br>  
+  
+<u>Silver Award</u><br>  
+Mdm Anmilia Bte Anwar Datt<br>  
+Mr Lokhman Haris Bin Abdul Karem<br>  
+Ms Ng Mei Ling<br>  
+Mdm Rubi'ah Binte Massuan<br>  
+Mdm Sharifah Maimunah Bte Syed Mansoor<br>  
+Ms Siti Radilah Binte Ahmad Sidek<br>  
+Mdm Wong Jie Lin<br>  
+Ms Wong Yun Yi<br>  
+Mdm Zulaiha Bte Osman  
+</td>  
+<td>MOE Service Excellence Awards</td>  
+</tr>  
+  
+<tr>  
+<td>10</td>  
+<td>  
+<u>Silver Award - Reimagine Test Tube Washing in Science Labs</u><br><br>  
+(Ms Chua Wei Tian, Mr Mohamed Ali Bin Yunos,<br>  
+Mdm Tan Kwee Choo, Ms Khairunnisa Binte Rahmat)<br><br>  
+  
+<u>Silver Award - Customized motorized trolley</u><br><br>  
+(Mr Mohd Amin Bin Kadir, Mr Sanusi B Idris,<br>  
+Mdm Salmia Bte Anuar, Ms Dian Mayasari<br>  
+Binte Mohamed Tahir, Mr Seah Kok Thuan)  
+</td>  
+<td>MOE Innergy Awards</td>  
+</tr>  
+  
+</tbody>  
+</table>
+
 
 ### 2022
 
