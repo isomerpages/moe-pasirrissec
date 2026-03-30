@@ -12,3 +12,6 @@ To help students keep up with the Information Age, it is necessary to expose the
 
 At Pasir Ris Secondary. the infusion of the S.T.E.A.M. curriculum in our daily lessons helps raise students’ awareness of an interdisciplinary approach to learning via S.T.E.A.M. In addition, our inaugural S.T.E.A.M Festival for all students provides hands-on opportunities for authentic learning with the application of critical thinking and problem-solving skills. We hope to nurture a lifelong interest in S.T.E.A.M and its application so that more of them join the science and technology sector.
 
+![](/images/Signature%20Programmes/STEAM_Photo_Collage.jpg)
+
+Through immersive outdoor activities, creative projects, and laboratory investigations, students develop essential skills in inquiry, collaboration, and innovation.
