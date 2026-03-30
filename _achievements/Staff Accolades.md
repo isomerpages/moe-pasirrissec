@@ -60,19 +60,19 @@ Mohamed Ali Yunos
 <tr>  
 <td>4</td>  
 <td>  
-<strong>CCA Sports (9)</strong><br>  
-* Football (Halim, Desmond Ng, Robert)<br>  
-* Volleyball (Andy, Hock Boon)<br>  
-* Basketball (Boys) (Vincent, Daniel Chng)<br>  
-* Netball (Nadiah, Wei Wei)<br>
+<strong>CCA Sports</strong><br>
+Football (Halim, Desmond Ng, Robert)<br>  
+Volleyball (Andy, Hock Boon)<br>  
+Basketball (Boys) (Vincent, Daniel Chng)<br>  
+Netball (Nadiah, Wei Wei)<br>
  
-<strong>Geography Unit (3)</strong><br>
+<strong>Geography Unit</strong><br>
 Hairunisa, Mabel, Mindy, Sarifah, Sabrina<br>
   
-<strong>NDP-CCE (3)</strong><br>
+<strong>NDP-CCE</strong><br>
 Maryam, Desiree, Kimberlyn, Winston<br>
   
-<strong>Student Development Team (4)</strong><br>
+<strong>Student Development Team</strong><br>
 Karen, Sabrina, Pearlyn, Mabel, Ernest, Zachary  
 </td>  
 <td>Outstanding Contribution Awards (OCA) Team</td>  
