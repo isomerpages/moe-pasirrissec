@@ -6,28 +6,470 @@ variant: markdown
 ---
 ### 2025
 
-<table data-sheets-baot="1" data-sheets-root="1" style="table-layout:fixed;font-size:10pt;font-family:Arial;width:0px;border-collapse:collapse;border:none" border="1" dir="ltr" cellpadding="0" cellspacing="0" xmlns="http://www.w3.org/1999/xhtml"><colgroup><col width="61"><col width="284"><col width="409"></colgroup><tbody><tr style="height:21px;"><td style="border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffd700;font-family:Calibri;font-size:11pt;font-weight:bold;color:#323232;text-align:center;">No</td><td style="border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#ffd700;font-family:Calibri;font-size:11pt;font-weight:bold;color:#323232;text-align:center;">Co-Curriculur Activity / Student</td><td style="border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#ffd700;font-family:Calibri;font-size:11pt;font-weight:bold;color:#323232;text-align:center;">Programme / Competition / Award</td></tr><tr style="height:21px;"><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;text-align:center;">1</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:bold;text-align:center;">NCC</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-family:Calibri;font-size:11pt;font-weight:normal;"><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:bold;font-style:italic;">Boys Unit Recognition Award</span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:normal;font-style:normal;"><br>- Distinction<br><br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:bold;font-style:italic;">Girls Unit Recognition Award</span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:normal;font-style:normal;"><br>- Distinction</span></td></tr><tr style="height:21px;"><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;text-align:center;">2</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:bold;text-align:center;">NCDCC</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-family:Calibri;font-size:11pt;font-weight:normal;"><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:bold;font-style:italic;">Unit Overall Proficiency Award<br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:normal;font-style:normal;">- Distinction</span></td></tr><tr style="height:21px;"><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;text-align:center;">3</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:bold;text-align:center;">NPCC</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-family:Calibri;font-size:11pt;font-weight:normal;"><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:bold;font-style:italic;">Boys Unit Overall Proficiency Award<br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:normal;font-style:normal;">- Distinction</span></td></tr><tr style="height:44px;"><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;text-align:center;">4</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">National School Games Football Championships</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;"><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:bold;font-style:italic;">C-Division Boys, League 1<br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:normal;font-style:normal;">- Top 8</span></td></tr><tr style="height:21px;"><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;text-align:center;">5</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">National School Games Volleyball Championships</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;"><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:bold;font-style:italic;">C-Division Boys, League 2<br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:normal;font-style:normal;">- Champion</span></td></tr><tr style="height:21px;"><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;text-align:center;">6</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">National School Games Netball Championships</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;"><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:bold;font-style:italic;">C-Division Girls, League 4<br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:normal;font-style:normal;">- Third</span></td></tr><tr style="height:21px;"><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;text-align:center;">7</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">National School Games TKD Kyorugi Championships</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;"><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:bold;font-style:italic;">B-Division Girls<br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:normal;font-style:normal;">- Champion</span></td></tr><tr style="height:21px;"><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;text-align:center;">8</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">National School Games Gymnastic (Trampoline) Championships</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;"><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:bold;font-style:italic;">B-Division Boys<br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:normal;font-style:normal;">- Bronze Medal</span></td></tr><tr style="height:21px;"><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;text-align:center;">9</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">National School Games Track and Field Championships</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;"><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:bold;font-style:italic;">C-Division Boys, 4x100m Relay<br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:normal;font-style:normal;">- Finalist</span></td></tr><tr style="height:21px;"><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;text-align:center;">10</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">Singapore Youth Festival Arts Presentation</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;"><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:bold;font-style:italic;">Concert Band<br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:normal;font-style:normal;">- Certificate of Distinction<br><br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:bold;font-style:italic;">Choir<br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:normal;font-style:normal;">- Certificate of Accomplishment<br><br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:bold;font-style:italic;">Chinese Orchestra<br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:normal;font-style:normal;">- Certificate of Accomplishment<br><br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:bold;font-style:italic;">English Drama</span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:bold;font-style:normal;"><br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:normal;font-style:normal;">- Certificate of Distinction<br><br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:bold;font-style:italic;">Modern Dance<br></span><span style="font-size:11pt;font-family:Calibri,Arial;font-weight:normal;font-style:normal;">- Certificate of Distinction</span></td></tr><tr style="height:21px;"><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;text-align:center;">11</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">Student Leadership</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-family:Calibri;font-size:11pt;font-weight:normal;">Singapore Silent Hero Student Award</td></tr><tr style="height:21px;"><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:11pt;font-weight:normal;text-align:center;">12</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-family:Calibri;font-size:11pt;font-weight:bold;text-align:center;">Sustainability Advocacy Challenge</td><td style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-family:Calibri;font-size:11pt;font-weight:normal;">Silver (Team)</td></tr></tbody></table>
+<table cellspacing="0" cellpadding="8" border="1" style="width:100%; border-collapse:collapse; font-family:Arial; border:1px solid black;">  
+  
+<thead>  
+<tr>  
+<th style="background-color:#d4af37; color:white; text-align:left;">No</th>  
+<th style="background-color:#d4af37; color:white; text-align:left;">Co-Curricular Activity / Student</th>  
+<th style="background-color:#d4af37; color:white; text-align:left;">Programme / Competition / Award</th>  
+</tr>  
+</thead>  
+  
+<tbody>  
+  
+<tr>  
+<td>1</td>  
+<td>NCC</td>  
+<td>  
+<u>Boys Unit Recognition Award</u><br>  
+- Distinction<br><br>  
+<u>Girls Unit Recognition Award</u><br>  
+- Distinction  
+</td>  
+</tr>  
+  
+<tr>  
+<td>2</td>  
+<td>NCDCC</td>  
+<td>  
+<u>Unit Overall Proficiency Award</u><br>  
+- Distinction  
+</td>  
+</tr>  
+  
+<tr>  
+<td>3</td>  
+<td>NPCC</td>  
+<td>  
+<u>Boys Unit Overall Proficiency Award</u><br>  
+- Distinction  
+</td>  
+</tr>  
+  
+<tr>  
+<td>4</td>  
+<td>National School Games<br> Football Championships</td>  
+<td>  
+<u>C-Division Boys, League 1</u><br>  
+- Top 8  
+</td>  
+</tr>  
+  
+<tr>  
+<td>5</td>  
+<td>National School Games<br> Volleyball Championships</td>  
+<td>  
+<u>C-Division Boys, League 2</u><br>  
+- Champion  
+</td>  
+</tr>  
+  
+<tr>  
+<td>6</td>  
+<td>National School Games<br> Netball Championships</td>  
+<td>  
+<u>C-Division Girls, League 4</u><br>  
+- Third  
+</td>  
+</tr>  
+  
+<tr>  
+<td>7</td>  
+<td>National School Games<br> TKD Kyorugi Championships</td>  
+<td>  
+<u>B-Division Girls</u><br>  
+- Champion  
+</td>  
+</tr>  
+  
+<tr>  
+<td>8</td>  
+<td>National School Games <br>Gymnastic (Trampoline) Championships</td>  
+<td>  
+<u>B-Division Boys</u><br>  
+- Bronze Medal  
+</td>  
+</tr>  
+  
+<tr>  
+<td>9</td>  
+<td>National School Games <br>Track and Field Championships</td>  
+<td>  
+<u>C-Division Boys, 4x100m Relay</u><br>  
+- Finalist  
+</td>  
+</tr>  
+  
+<tr>  
+<td>10</td>  
+<td>Singapore Youth Festival Arts Presentation</td>  
+<td>  
+<u>Concert Band</u> <br>- Certificate of Distinction<br><br>
+<u>Choir</u> <br>- Certificate of Accomplishment<br><br>
+<u>Chinese Orchestra</u><br> - Certificate of Accomplishment<br><br>  
+<u>English Drama</u> <br>- Certificate of Distinction<br><br>
+<u>Modern Dance</u> <br>- Certificate of Distinction  
+</td>  
+</tr>  
+  
+<tr>  
+<td>11</td>  
+<td>Student Leadership</td>  
+<td>Singapore Silent Hero Student Award</td>  
+</tr>  
+  
+<tr>  
+<td>12</td>  
+<td>Sustainability Advocacy Challenge</td>  
+<td>Silver (Team)</td>  
+</tr>  
+  
+</tbody>  
+  
+</table>
 
 
 ### 2024
 
-<table style="table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border: medium;" data-sheets-baot="1" data-sheets-root="1" border="1" dir="ltr" cellpadding="0" cellspacing="0" xmlns="http://www.w3.org/1999/xhtml"><colgroup><col width="61"><col width="279"><col width="451"></colgroup><tbody><tr style="height: 21px;"><td style="border: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(255, 215, 0); font-family: Calibri; font-size: 11pt; font-weight: bold; color: rgb(50, 50, 50); text-align: center;">No</td><td style="border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 215, 0); font-family: Calibri; font-size: 11pt; font-weight: bold; color: rgb(50, 50, 50); text-align: center;">Co-Curriculur Activity / Student</td><td style="border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 215, 0); font-family: Calibri; font-size: 11pt; font-weight: bold; color: rgb(50, 50, 50); text-align: center;">Programme / Competition / Award</td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">1</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">NCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal;"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic;">Boys Unit Recognition Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal;"><br>- Distinction<br><br></span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic;">Girls Unit Recognition Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal;"><br>- Distinction</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">2</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">NCDCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal;"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic;">Unit Overall Proficiency Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal;"><br>- Gold Award</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">3</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">NPCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; font-style: italic;"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic;">Unit Overall Proficiency Award<br></span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal;">-Gold Award</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">4</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">Badminton (C-Boys)</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal;"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic;">NSG League 3</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal;"><br>- Champion</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">5</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">Basketball (C-Girls)</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal;"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic;">NSG League 3<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal;"><br>- Champion</span></td></tr></tbody></table>
+<table cellspacing="0" style="width:100%; border-collapse:collapse; font-family:Arial; border:1px solid black;">  
+  
+<thead>  
+<tr>  
+<th style="background-color:#d4af37; color:white; text-align:left;">No</th>  
+<th style="background-color:#d4af37; color:white; text-align:left;">Co-Curricular Activity / Student</th>  
+<th style="background-color:#d4af37; color:white; text-align:left;">Programme / Competition / Award</th>  
+</tr>  
+</thead>  
+  
+<tbody>  
+  
+<tr>  
+<td>1</td>  
+<td>NCC</td>  
+<td>  
+<u>Boys Unit Recognition Award</u><br>  
+- Distinction<br><br>  
+<u>Girls Unit Recognition Award</u><br>  
+- Distinction  
+</td>  
+</tr>  
+  
+<tr>  
+<td>2</td>  
+<td>NCDCC</td>  
+<td>  
+<u>Unit Overall Proficiency Award</u><br>  
+- Gold Award  
+</td>  
+</tr>  
+  
+<tr>  
+<td>3</td>  
+<td>NPCC</td>  
+<td>  
+<u>Unit Overall Proficiency Award</u><br>  
+- Gold Award  
+</td>  
+</tr>  
+  
+<tr>  
+<td>4</td>  
+<td>Badminton (C-Boys)</td>  
+<td>  
+<u>NSG League 3</u><br>  
+- Champion  
+</td>  
+</tr>  
+  
+<tr>  
+<td>5</td>  
+<td>Basketball (C-Girls)</td>  
+<td>  
+<u>NSG League 3</u><br>  
+- Champion  
+</td>  
+</tr>  
+  
+</tbody>  
+  
+</table>
 
 ### 2023
- 
-<table style="table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border: medium;" data-sheets-baot="1" data-sheets-root="1" border="1" dir="ltr" cellpadding="0" cellspacing="0" xmlns="http://www.w3.org/1999/xhtml"><colgroup><col width="62"><col width="281"><col width="444"></colgroup><tbody><tr style="height: 21px;"><td style="border: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(255, 215, 0); font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(50, 50, 50); text-align: center;">No</td><td style="border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(255, 215, 0); font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(50, 50, 50); text-align: center;">Co-Curriculur Activity / Student</td><td style="border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(255, 215, 0); font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(50, 50, 50); text-align: center;">Programme / Competition / Award</td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">1</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">Aesthetics CCA Groups</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic; color: rgb(60, 71, 100);">Singapore Youth Art Presentation Festival</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal; color: rgb(60, 71, 100);"><br><br>Concert Band - Certificate of Distinction<br>Chinese Orchestra - Certificate of Distinction<br>Choir - Certificate of Distinction<br>English Drama- Certificate of Distinction<br>Modern Dance - Certificate of Accomplishment</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">2</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">NPCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic; color: rgb(60, 71, 100);">SPF-NPCC Badge Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal; color: rgb(60, 71, 100);"><br><br>SI (NPCC)- Su Jing Ning Janelle<br>SSGT (NPCC) - Aw En Zi Charlotte<br>SGT (NPCC) - Rebekah Wee Yong Yi</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">3</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">NCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 11pt; font-weight: normal;"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic;">Boys Unit Recognition Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal;"><br>- Distinction<br><br></span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic;">Girls Unit Recognition Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal;"><br>- Distinction</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">4</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">NCDCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal;"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic;">Unit Overall Proficiency Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal;"><br>- Gold Award</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">5</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">NPCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal;"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic;">Unit Overall Proficiency Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal;"><br>- Gold Award</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">6</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; text-align: center;">Football (C-Division)</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 11pt; font-weight: normal;">NSG League 1 - Top 8</td></tr></tbody></table>
+
+<table cellspacing="0" cellpadding="8" border="1" style="width:100%; border-collapse:collapse; font-family:Arial; border:1px solid black;">  
+  
+<thead>  
+<tr>  
+<th style="background-color:#d4af37; color:white; text-align:left;">No</th>  
+<th style="background-color:#d4af37; color:white; text-align:left;">Co-Curricular Activity / Student</th>  
+<th style="background-color:#d4af37; color:white; text-align:left;">Programme / Competition / Award</th>  
+</tr>  
+</thead>  
+  
+<tbody>  
+  
+<tr>  
+<td>1</td>  
+<td>Aesthetics CCA Groups</td>  
+<td>  
+<u>Singapore Youth Art Presentation Festival</u><br><br>  
+Concert Band - Certificate of Distinction<br>  
+Chinese Orchestra - Certificate of Distinction<br>  
+Choir - Certificate of Distinction<br>  
+English Drama - Certificate of Distinction<br>  
+Modern Dance - Certificate of Accomplishment  
+</td>  
+</tr>  
+  
+<tr>  
+<td>2</td>  
+<td>NPCC</td>  
+<td>  
+<u>SPF-NPCC Badge Award</u><br><br>  
+SI (NPCC) - Su Jing Ning Janelle<br>  
+SSGT (NPCC) - Aw En Zi Charlotte<br>  
+SGT (NPCC) - Rebekah Wee Yong Yi  
+</td>  
+</tr>  
+  
+<tr>  
+<td>3</td>  
+<td>NCC</td>  
+<td>  
+<u>Boys Unit Recognition Award</u><br>  
+- Distinction<br><br>  
+<u>Girls Unit Recognition Award</u><br>  
+- Distinction  
+</td>  
+</tr>  
+  
+<tr>  
+<td>4</td>  
+<td>NCDCC</td>  
+<td>  
+<u>Unit Overall Proficiency Award</u><br>  
+- Gold Award  
+</td>  
+</tr>  
+  
+<tr>  
+<td>5</td>  
+<td>NPCC</td>  
+<td>  
+<u>Unit Overall Proficiency Award</u><br>  
+- Gold Award  
+</td>  
+</tr>  
+  
+<tr>  
+<td>6</td>  
+<td>Football (C-Division)</td>  
+<td>NSG League 1 - Top 8</td>  
+</tr>  
+  
+</tbody>  
+  
+</table>
 
 ### 2022
 
-<table style="table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border: medium;" data-sheets-baot="1" data-sheets-root="1" border="1" dir="ltr" cellpadding="0" cellspacing="0" xmlns="http://www.w3.org/1999/xhtml"><colgroup><col width="61"><col width="282"><col width="447"></colgroup><tbody><tr style="height: 21px;"><td style="border: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(255, 215, 0); font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(50, 50, 50); text-align: center;">No</td><td style="border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(255, 215, 0); font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(50, 50, 50); text-align: center;">Co-Curriculur Activity / Student</td><td style="border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(255, 215, 0); font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(50, 50, 50); text-align: center;">Programme / Competition / Award</td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">1</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">NCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic; color: rgb(60, 71, 100);">Boys Unit Recognition Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal; color: rgb(60, 71, 100);"><br>- Distinction<br><br></span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic; color: rgb(60, 71, 100);">Girls Unit Recognition Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal; color: rgb(60, 71, 100);"><br>- Distinction</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">2</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">NCDCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic; color: rgb(60, 71, 100);">Unit Overall Proficiency Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal; color: rgb(60, 71, 100);"><br>- Gold Award</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">3</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">NPCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic; color: rgb(60, 71, 100);">Unit Overall Proficiency Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal; color: rgb(60, 71, 100);"><br>-Gold Award</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">4</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">Volleyball</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic; color: rgb(60, 71, 100);">East Zone 'C' Division Volleyball Championship</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal; color: rgb(60, 71, 100);"><br>- 3rd Place</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">5</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">Others</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic; color: rgb(60, 71, 100);">Campus Legend Secondary School Edition Season 3</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal; color: rgb(60, 71, 100);"><br>- 3rd Place</span></td></tr></tbody></table>
+<table style="width:100%; border-collapse:collapse; font-family:Arial; border:1px solid black;" cellspacing="0" cellpadding="8" border="1">  
+  
+<thead>  
+<tr>  
+<th style="background-color:#d4af37; color:white; text-align:left;">No</th>  
+<th style="background-color:#d4af37; color:white; text-align:left;">Co-Curricular Activity / Student</th>  
+<th style="background-color:#d4af37; color:white; text-align:left;">Programme / Competition / Award</th>  
+</tr>  
+</thead>  
+  
+<tbody>  
+<tr>  
+<td>1</td>  
+<td>NCC</td>  
+<td>  
+<u>Boys Unit Recognition Award</u><br>  
+- Distinction<br><br>  
+<u>Girls Unit Recognition Award</u><br>  
+- Distinction  
+</td>  
+</tr>  
+  
+<tr>  
+<td>2</td>  
+<td>NCDCC</td>  
+<td>  
+<u>Unit Overall Proficiency Award</u><br>  
+- Gold Award  
+</td>  
+</tr>  
+  
+<tr>  
+<td>3</td>  
+<td>NPCC</td>  
+<td>  
+<u>Unit Overall Proficiency Award</u><br>  
+- Gold Award  
+</td>  
+</tr>  
+  
+<tr>  
+<td>4</td>  
+<td>Volleyball</td>  
+<td>  
+<u>East Zone 'C' Division Volleyball Championship</u><br>  
+- 3rd Place  
+</td>  
+</tr>  
+  
+<tr>  
+<td>5</td>  
+<td>Others</td>  
+<td>  
+<u>Campus Legend Secondary School Edition Season 3</u><br>  
+- 3rd Place  
+</td>  
+</tr>  
+</tbody>  
+  
+</table>
+
 
 ### 2021
 
-<table style="table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border: medium;" data-sheets-baot="1" data-sheets-root="1" border="1" dir="ltr" cellpadding="0" cellspacing="0" xmlns="http://www.w3.org/1999/xhtml"><colgroup><col width="61"><col width="282"><col width="450"></colgroup><tbody><tr style="height: 21px;"><td style="border: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(255, 215, 0); font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(50, 50, 50); text-align: center;">No</td><td style="border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(255, 215, 0); font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(50, 50, 50); text-align: center;">Co-Curriculur Activity / Student</td><td style="border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(255, 215, 0); font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(50, 50, 50); text-align: center;">Programme / Competition / Award</td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">1</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">NCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic; color: rgb(60, 71, 100);">NCC Outstanding Cadet Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal; color: rgb(60, 71, 100);"><br>- Elijah Lau Jia Jin (4E6)<br>- Anston Sieow Wei Cong (4A2)</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">2</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">NCDCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic; color: rgb(60, 71, 100);">SPF-NCDCC Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal; color: rgb(60, 71, 100);"><br>- Leong Wee Kwok Ray (4E6)<br>- Ng Jun Jie, Raymus (4E6)</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">3</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">NPCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic; color: rgb(60, 71, 100);">SPF-NPCC Badge Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal; color: rgb(60, 71, 100);"><br>- Adiba Jamshed Puyyakara (4E6)*<br>- Lee Jia Jing (4E4)<br>- Nur Hidayah Binte Johar (4E3)<br><br>*selected to be valedictorian for SPF-NPCC Award Ceremony</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">5</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">Malay Dance</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);">Accomplishment</td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">6</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">Concert Band</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);">Distinction</td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">7</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">Chinese Orchestra</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);">Accomplishment</td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">8</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">English Drama</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);">Distinction</td></tr></tbody></table>
+<table style="width:100%; border-collapse:collapse; font-family:Arial; border:1px solid black;" cellspacing="0" cellpadding="8" border="1">  
+  
+<thead>  
+<tr>  
+<th style="background-color:#d4af37; color:white; text-align:left;">No</th>  
+<th style="background-color:#d4af37; color:white; text-align:left;">Co-Curricular Activity / Student</th>  
+<th style="background-color:#d4af37; color:white; text-align:left;">Programme / Competition / Award</th>  
+</tr>  
+</thead>  
+  
+<tbody>  
+<tr>  
+<td>1</td>  
+<td>NCC</td>  
+<td>  
+<u>NCC Outstanding Cadet Award</u><br>  
+- Elijah Lau Jia Jin (4E6)<br>  
+- Anston Sieow Wei Cong (4A2)  
+</td>  
+</tr>  
+  
+<tr>  
+<td>2</td>  
+<td>NCDCC</td>  
+<td>  
+<u>SPF-NCDCC Award</u><br>  
+- Leong Wee Kwok Ray (4E6)<br>  
+- Ng Jun Jie, Raymus (4E6)  
+</td>  
+</tr>  
+  
+<tr>  
+<td>3</td>  
+<td>NPCC</td>  
+<td>  
+	<u>SPF-NPCC Badge Award</u><br>  
+- Adiba Jamshed Puyyakara (4E6)*<br>  
+- Lee Jia Jing (4E4)<br>  
+- Nur Hidayah Binte Johar (4E3)<br><br>  
+<em>*selected as valedictorian for SPF-NPCC Award Ceremony</em>  
+</td>  
+</tr>  
+  
+<tr>  
+<td>4</td>  
+<td>Malay Dance</td>  
+<td>Accomplishment</td>  
+</tr>  
+  
+<tr>  
+<td>5</td>  
+<td>Concert Band</td>  
+<td>Distinction</td>  
+</tr>  
+  
+<tr>  
+<td>6</td>  
+<td>Chinese Orchestra</td>  
+<td>Accomplishment</td>  
+</tr>  
+  
+<tr>  
+<td>7</td>  
+<td>English Drama</td>  
+<td>Distinction</td>  
+</tr>  
+  
+</tbody>  
+</table>
 
 ### 2020
 
-<table style="table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border: medium;" data-sheets-baot="1" data-sheets-root="1" border="1" dir="ltr" cellpadding="0" cellspacing="0" xmlns="http://www.w3.org/1999/xhtml"><colgroup><col width="62"><col width="280"><col width="392"></colgroup><tbody><tr style="height: 21px;"><td style="border: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(255, 215, 0); font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(50, 50, 50); text-align: center;">No</td><td style="border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(255, 215, 0); font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(50, 50, 50); text-align: center;">Co-Curriculur Activity / Student</td><td style="border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; background-color: rgb(255, 215, 0); font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(50, 50, 50); text-align: center;">Programme / Competition / Award</td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">1</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">NCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic; color: rgb(60, 71, 100);">NCC Outstanding Cadet Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal; color: rgb(60, 71, 100);"><br>- Damien Ng (4E4)<br>- Koo Kai Yuan Clarissa (4E3)</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">2</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">NCDCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic; color: rgb(60, 71, 100);">SPF-NCDCC Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal; color: rgb(60, 71, 100);"><br>- Nur Syazana Binte Hazlin Noor (4A1)<br>- Lim Xin Yi Charlene (4E5))</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">3</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">NCDCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic; color: rgb(60, 71, 100);">Best Unit Cadet Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal; color: rgb(60, 71, 100);"><br>- Nur Syazana Binte Hazlin Noor(4A1)</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">4</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">NPCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: italic; color: rgb(60, 71, 100);">SPF-NPCC Badge Award</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal; color: rgb(60, 71, 100);"><br>- You Chu Mei (4E4)<br>- Muhammad Azfar Bin Muhammad Faudzan (4E3)</span></td></tr><tr style="height: 21px;"><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">5</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: bold; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100); text-align: center;">NPCC</td><td style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: none; overflow: hidden; padding: 2px 3px; vertical-align: top; font-family: Calibri; font-size: 11pt; font-weight: normal; white-space: normal; overflow-wrap: break-word; color: rgb(60, 71, 100);"><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: bold; font-style: normal; color: rgb(60, 71, 100);">Best Unit Cadet</span><span style="font-size: 11pt; font-family: Calibri, Arial; font-weight: normal; font-style: normal; color: rgb(60, 71, 100);"><br>- You Chu Mei (4E4)<br>- Muhammad Azfar Bin Muhammad Faudzan (4E3)</span></td></tr></tbody></table>
+<table style="width:100%; border-collapse:collapse; font-family:Arial; border:1px solid black;" cellspacing="0" cellpadding="8" border="1">  
+<thead>  
+<tr>  
+<th style="background-color:#d4af37; color:white;">No</th>  
+<th style="background-color:#d4af37; color:white;">Co-Curricular Activity / Student</th>  
+<th style="background-color:#d4af37; color:white;">Programme / Competition / Award</th>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>1</td>  
+<td>NCC</td>  
+<td>  
+<u>NCC Outstanding Cadet Award</u><br>  
+- Damien Ng (4E4)<br>  
+- Koo Kai Yuan Clarissa (4E3)  
+</td>  
+</tr>  
+  
+<tr>  
+<td>2</td>  
+<td>NCDCC</td>  
+<td>  
+<u>SPF-NCDCC Award</u><br>  
+- Nur Syazana Binte Hazlin Noor (4A1)<br>  
+- Lim Xin Yi Charlene (4E5)  
+</td>  
+</tr>  
+  
+<tr>  
+<td>3</td>  
+<td>NCDCC</td>  
+<td>  
+<u>Best Unit Cadet Award</u><br>  
+- Nur Syazana Binte Hazlin Noor (4A1)  
+</td>  
+</tr>  
+  
+<tr>  
+<td>4</td>  
+<td>NPCC</td>  
+<td>  
+<u>SPF-NPCC Badge Award</u><br>  
+- You Chu Mei (4E4)<br>  
+- Muhammad Azfar Bin Muhammad Faudzan (4E3)  
+</td>  
+</tr>  
+  
+<tr>  
+<td>5</td>  
+<td>NPCC</td>  
+<td>  
+	<u>Best Unit Cadet</u><br>  
+- You Chu Mei (4E4)<br>  
+- Muhammad Azfar Bin Muhammad Faudzan (4E3)  
+</td>  
+</tr>  
+  
+</tbody>  
+</table>
 
 <ul class="jekyllcodex_accordion">
 
