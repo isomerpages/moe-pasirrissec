@@ -59,21 +59,22 @@ variant: markdown
 
 ### 2022
 
-<table style="border-collapse:collapse; width:100%; font-family:Arial; border=">  
+<table style="border-collapse:collapse; width:100%; font-family:Arial; border:1px solid black;">  
   
-<thead>    
-
-<tr><th style="background-color:#d4af37; color:white; padding:10px; text-align:left;">No</th>  
-<th style="background-color:#d4af37; color:white; padding:10px; text-align:left;">Department</th>  
-<th style="background-color:#d4af37; color:white; padding:10px; text-align:left;">Competition / Award</th>  
+<thead>  
+<tr>  
+<th style="background-color:#d4af37; color:white; padding:10px; text-align:left; solid black;">No</th>  
+<th style="background-color:#d4af37; color:white; padding:10px; text-align:left; solid black;">Department</th>  
+<th style="background-color:#d4af37; color:white; padding:10px; text-align:left; solid black;">Competition / Award</th>  
 </tr>  
 </thead>  
   
 <tbody>  
+  
 <tr>  
-<td>1</td>  
-<td>GCE O Level Results 2022</td>  
-<td>  
+<td style="solid black; padding:10px;">1</td>  
+<td style="solid black; padding:10px;">GCE O Level Results 2022</td>  
+<td style="solid black; padding:10px;">  
 4E – 7 subjects with 100% passes<br>  
 5N – 4 subjects with 100% passes<br><br>  
 A total of 26 students scored 5 distinctions and above  
@@ -81,16 +82,16 @@ A total of 26 students scored 5 distinctions and above
 </tr>  
   
 <tr>  
-<td style="padding:10px; text-align:left;">2</td>  
-<td style="padding:10px; text-align:left;">GCE N Level Results 2022</td>  
-<td style="padding:10px;">  
+<td>2</td>  
+<td>GCE N Level Results 2022</td>  
+<td>  
 All our 4NT students qualify for ITE and 3 of them scored 3 out of 4 distinctions while 89.7% of our 4NA students qualify for the 5NA and 17 of them scored 4 distinctions and above.  
 </td>  
 </tr>  
   
 <tr>  
-<td style="padding:10px; text-align:left;">3</td>  
-<td style="padding:10px; text-align:left;">English Language &amp; Literature</td>  
+<td>3</td>  
+<td>English Language &amp; Literature</td>  
 <td>  
 <u>GEMA Short Story Writing Competition 2022</u><br>  
 - Silver Award (Senior Category)<br>  
@@ -101,17 +102,18 @@ All our 4NT students qualify for ITE and 3 of them scored 3 out of 4 distinction
 </tr>  
   
 <tr>  
-<td style="padding:10px; text-align:left;">4</td>  
-<td style="padding:10px; text-align:left;">Mother Tongue</td>  
-<td>  
-<u>Young Reporter News Challenge</u><br> - Outstanding News Video Re-Tell News Category  
+<td>4</td>  
+<td>Mother Tongue</td>  
+<td style="solid black; padding:10px;">  
+<u>Young Reporter News Challenge</u><br>  
+- Outstanding News Video Re-Tell News Category  
 </td>  
 </tr>  
   
 <tr>  
-<td style="padding:10px; text-align:left;">5</td>  
-<td style="padding:10px; text-align:left;">Science</td>  
-<td style="padding:10px;">  
+<td style="solid black; padding:10px;">5</td>  
+<td style="solid black; padding:10px;">Science</td>  
+<td style="solid black; padding:10px;">  
 <u>43rd International C.B. Paul Science Quiz</u><br>  
 - Sec 2 (2 Silver, 1 Bronze)<br>  
 - Sec 4 (1 Silver, 1 Bronze, 3 Merit)<br><br>  
@@ -126,31 +128,31 @@ All our 4NT students qualify for ITE and 3 of them scored 3 out of 4 distinction
   
 <u>9th ASEAN Plus Three Junior Science Odyssey (APTJSO)</u><br>  
 - 1 Gold (Mixed Country team)<br>  
-- 2 Silver (Science Process Skills Challenge &amp; Sustainability Challenge)<br><br>
+- 2 Silver (Science Process Skills Challenge &amp; Sustainability Challenge)<br><br>  
   
-<u>2022 East Zone ASTAR VJC Science Fair</u><br>
+<u>2022 East Zone ASTAR VJC Science Fair</u><br>  
 - Merit (Sec 2 Team)  
 </td>  
 </tr>  
   
 <tr>  
-<td style="padding:10px; text-align:left;">6</td>  
-<td style="padding:10px; text-align:left;">Mathematics</td>  
-<td style="padding:10px;">  
-<u>Singapore Math Olympiad (SMO)</u>
-<br>- 4 Honorable Mentions  
+<td style="solid black; padding:10px;">6</td>  
+<td style="solid black; padding:10px;">Mathematics</td>  
+<td style="solid black; padding:10px;">  
+<u>Singapore Math Olympiad (SMO)</u><br>  
+- 4 Honorable Mentions  
 </td>  
 </tr>  
   
 <tr>  
-<td style="padding:10px; text-align:left;">7</td>  
-<td style="padding:10px; text-align:left;">  
-Information Communication &amp; Technology (CPA) 
-</td>  
-<td style="padding:10px;">  
-<u>Animation and Game Making Competition 2022</u> <br>- Game Category Bronze  
+<td style="solid black; padding:10px;">7</td>  
+<td style="solid black; padding:10px;">Information Communication &amp; Technology (CPA)</td>  
+<td style="solid black; padding:10px;">  
+<u>Animation and Game Making Competition 2022</u><br>  
+- Game Category Bronze  
 </td>  
 </tr>  
+  
 </tbody>  
 </table>
 
