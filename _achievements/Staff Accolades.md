@@ -461,10 +461,62 @@ Mr Mohd Amin Bin Kadir, Mr Sanusi B Idris, Mdm Salmia Bte Anuar, Ms Dian Mayasar
 
 ### 2021
 
-<table style="width:100%"><tbody><tr style="background-color:gold"><th>No</th><th>Staff</th><th>Award</th></tr><tr><td>1</td><td>Mr Muhammad Omarali Bin Zulkiflee<br>Mr Ng Boon Tiong<br>Mdm Ng Ai Hoon<br>Mdm Nur Nadiah bte Adanan<br>Mr Matthew Ng Kai Wen<br>Ms June Ho Wei Wei<br>Ms Sabrina Ho<br>Ms Ng Mei Ling<br>Mr Zulkifli bin Mohamed Saat<br>Ms Parvin Bibi Marican<br>Mr Jonathan Chan Aik Beng<br>Mr Albert Neo Chin Lee</td><td>Teachers' Day Award<br>(Caring Teacher Award)<br></td></tr>
-	<tr><td>2</td><td>Ms Yuan Pin<br>Mr Kevin Teo Tze Yong<br>Mrs Shahilla Raj<br></td><td>Teachers' Day Award<br>(Inspiring Teacher Award)<br></td></tr> 	
-		<tr><td>3</td><td>Mdm Sarifah Tamsir<br>Ms Leong Su Juen<br>Ms Jasmine Peh<br></td><td>AST Academy Award (Associate)</td></tr> 	
-</tbody></table>
+<table cellspacing="0" cellpadding="8" border="1">  
+<thead>  
+<tr>  
+<th style="background-color:#d4af37; color:white;">No</th>  
+<th style="background-color:#d4af37; color:white;">Staff</th>  
+<th style="background-color:#d4af37; color:white;">Award</th>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>1</td>  
+<td>  
+Mr Muhammad Omarali Bin Zulkiflee<br>  
+Mr Ng Boon Tiong<br>  
+Mdm Ng Ai Hoon<br>  
+Mdm Nur Nadiah bte Adanan<br>  
+Mr Matthew Ng Kai Wen<br>  
+Ms June Ho Wei Wei<br>  
+Ms Sabrina Ho<br>  
+Ms Ng Mei Ling<br>  
+Mr Zulkifli bin Mohamed Saat<br>  
+Ms Parvin Bibi Marican<br>  
+Mr Jonathan Chan Aik Beng<br>  
+Mr Albert Neo Chin Lee  
+</td>  
+<td>  
+Teachers' Day Award<br>  
+(Caring Teacher Award)  
+</td>  
+</tr>  
+  
+<tr>  
+<td>2</td>  
+<td>  
+Ms Yuan Pin<br>  
+Mr Kevin Teo Tze Yong<br>  
+Mrs Shahilla Raj  
+</td>  
+<td>  
+Teachers' Day Award<br>  
+(Inspiring Teacher Award)  
+</td>  
+</tr>  
+  
+<tr>  
+<td>3</td>  
+<td>  
+Mdm Sarifah Tamsir<br>  
+Ms Leong Su Juen<br>  
+Ms Jasmine Peh  
+</td>  
+<td>AST Academy Award (Associate)</td>  
+</tr>  
+  
+</tbody>  
+</table>
 <br>
 <ul class="jekyllcodex_accordion">
 
