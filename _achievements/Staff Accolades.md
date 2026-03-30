@@ -139,8 +139,8 @@ Mr Khoon Wee, Ms Siti Radilah, Ms Nor’Ain, Ms Sabrina, Ms Eunice, Mdm Sumrah, 
 <td>8</td>  
 <td>  
 	<b>Commendation Medal:</b><br><br>
-Hazwani<br>  
-Karen Tan  
+Mdm Hazwani Binte Abdul Wahid<br>  
+Ms Karen Tan Jialin
 </td>  
 <td>National Day Awards</td>  
 </tr>  
@@ -149,9 +149,9 @@ Karen Tan
 <td>9</td>  
 <td>  
 	<b>Long Service Awards:</b><br><br>
-Sim Keng Yam<br>  
-Koh Kai Hwee<br>  
-Nazrene Akbar Ali  
+Mr Sim Keng Yam<br>  
+Mr Koh Kai Hwee<br>  
+Mdm Nazrene Akbar Ali  
 </td>  
 <td>National Day Awards</td>  
 </tr>  
