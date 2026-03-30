@@ -62,7 +62,7 @@ variant: markdown
 <table style="border-collapse:collapse; width:100%; font-family:Arial; border=">  
   
 <thead>    
-<tr style="background-color:#d4af37; color:white;">  
+<tr style="background-color:#FFD700; color:#ffffff;">
 <th style="padding:10px; text-align:left;">No</th>  
 <th style="padding:10px; text-align:left;">Department</th>  
 <th style="padding:10px; text-align:left;">Competition / Award</th>  
