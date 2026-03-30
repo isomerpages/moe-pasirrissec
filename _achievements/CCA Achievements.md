@@ -38,7 +38,7 @@ variant: markdown
 <td>1</td>  
 <td>NCC</td>  
 <td>  
-<strong><em>NCC Outstanding Cadet Award</em></strong><br>  
+<u>NCC Outstanding Cadet Award</u><br>  
 - Elijah Lau Jia Jin (4E6)<br>  
 - Anston Sieow Wei Cong (4A2)  
 </td>  
@@ -48,7 +48,7 @@ variant: markdown
 <td>2</td>  
 <td>NCDCC</td>  
 <td>  
-<strong><em>SPF-NCDCC Award</em></strong><br>  
+<u>SPF-NCDCC Award</u><br>  
 - Leong Wee Kwok Ray (4E6)<br>  
 - Ng Jun Jie, Raymus (4E6)  
 </td>  
