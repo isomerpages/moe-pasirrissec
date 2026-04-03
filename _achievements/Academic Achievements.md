@@ -99,7 +99,7 @@ All our 4NT students qualify for ITE, while 73% of our 4NA students qualify for 
 <tr><td style="padding:10px;"><u>SISTEMIC</u><br>- Silver Award</td></tr>  
 <tr><td style="padding:10px;"><u>ICAS - Sec 3, Sec 2</u><br>- 2 Distinction, 5 Credit, 3 Merit</td></tr>  
 <tr><td style="padding:10px;"><u>International Chemistry Quiz</u><br>- 5 Distinction, 9 Credits</td></tr>  
-<tr><td style="padding:10px;"><u>A\*STAR VJC Science Festival</u><br>- Certificate of Participation</td></tr>  
+<tr><td style="padding:10px;"><u>A*STAR VJC Science Festival</u><br>- Certificate of Participation</td></tr>  
 <tr><td style="padding:10px;"><u>Singapore Youth Science Festival</u><br>- 1 Certificate of Accomplishment, 1 Certificate of Commendation</td></tr>  
 <tr><td style="padding:10px;"><u>Temasek Engineering Olympiad</u><br>- 1 Gold, 1 Commendation</td></tr>  
 <tr><td style="padding:10px;"><u>Singapore Physics League</u><br>- 1 Bronze, 1 Commendation</td></tr>  

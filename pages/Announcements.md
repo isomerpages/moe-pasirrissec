@@ -4,14 +4,6 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### Timetable for Term 2 2026 (Updated 23/3/2026)
-
-Please click [here](/files/2026_Term_2_TT_FINAL1___Class_LowerSecondary_ODDWeek.pdf) to view Term 2 2026 Timetable for Secondary 1 &amp; 2 classes (Odd Week).
-
-Please click [here](/files/2026_Term_2_TT_FINAL1___Class_LowerSecondary_EVENWeek.pdf) to view Term 2 2026 Timetable for Secondary 1 &amp; 2 classes (Even Week).
-
-Please click [here](/files/2026_Term_2_TT_FINAL1___Class_UpperSecondary.pdf)to view Term 2 2026 Timetable for Secondary 3, 4 &amp; 5 classes.
-
 #### Collection of School Graduation Certificate (SGC) for 2025 Cohort
 
 Students from 2025 Sec 4NT cohorts may collect their SGC from the school General Office during office hours (8.00am - 5.30pm)
