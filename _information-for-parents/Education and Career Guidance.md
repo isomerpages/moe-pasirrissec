@@ -12,7 +12,7 @@ At the Budget Debate 2016, MOE highlighted the importance of **Education and Car
 
 We recognise that for our children to thrive in a globalised economy and navigate meaningfully through life, they would benefit from having sound values and learning to seize every opportunity to develop transferable soft skills such as cross-cultural communication skills, problem-solving skills, and team work; and continually developing workplace readiness skills such as literacy, numeracy, and technical skills throughout life.
 
-Beyond schools’ efforts, parents can also play an important role at home in guiding our children in making important decisions for their education and career pathways. Some tips on how to help and guide your child are included in this e-mailer. Take the opportunity to discuss with your child the education and career options given the diverse and flexible pathways available at every key education stage.
+Beyond schools’ efforts, parents can also play an important role at home in guiding our children in making important decisions for their education and career pathways. Take the opportunity to discuss with your child the education and career options given the diverse and flexible pathways available at every key education stage.
 
 ### Education Career Guidance Counselling
 
