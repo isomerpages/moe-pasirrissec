@@ -8,7 +8,7 @@ variant: markdown
 
 Members of our Parent Support Group Exco often shared this famous quote, which aligns well with our Partnership Framework in fostering synergistic partnerships for win-win outcomes.
 
-#### PARENT SUPPORT GROUP EXCO 
+### PARENT SUPPORT GROUP EXCO 
 
 ##### 2026
 
@@ -29,7 +29,7 @@ Please click [here](https://go.gov.sg/prsspsg2026) to register for Parent Suppor
 
 We look forward to your support. Your involvement in school activities will enhance the educational experiences of our students and strengthen parent-child bonding. 
 
-#### DADS FOR LIFE EXCO
+### DADS FOR LIFE EXCO
 
 | No | PSG Appointment | Name |
 | -------- | -------- | -------- |
@@ -37,10 +37,11 @@ We look forward to your support. Your involvement in school activities will enha
 | 2     | Vice-Chairperson   | Mr Intekhab     |
  
 
-#### PHOTOS 
+### PHOTOS 
 
+##### PRSS OPEN HOUSE 
+	
 ![](/images/Information%20for%20parents/PSG/Open_House_2025.jpg)
-<p align="center"><i>Open House Nov 2025</i>
 	
 ![](/images/Information%20for%20parents/PSG/Open_House_2025_02.jpg)
 	
@@ -49,16 +50,15 @@ We look forward to your support. Your involvement in school activities will enha
 	
 ![](/images/Information%20for%20parents/PSG/Open_House_2025_04.jpg)
 
-![](/images/Information%20for%20parents/PSG/PSG_Get_Together_Session.jpg)
-</p><p align="center"><i>PSG Get-Together Session</i></p>
-
 ##### CHINESE NEW YEAR
 
 Chinese New Year Celebrations to usher in the Year of the Hog saw the PRSS PSG once again contributing items for the hampers. The PSG members had fun catching-up with one another and getting to know the new PSG members.
 
-![](/images/CNY-1.png)<br>
-![](/images/CNY-2.png)<br>
-![](/images/CNY-3.png)
+![](/images/Information%20for%20parents/PSG/CNY_Get_Together_2026.jpg)
+
+![](/images/Information%20for%20parents/PSG/CNY_Get_Together_2026_02.jpg)
+
+![](/images/Information%20for%20parents/PSG/CNY_Get_Together_2026_03.jpg)
 
 ##### INTERNATIONAL FRIENDSHIP DAY
 
