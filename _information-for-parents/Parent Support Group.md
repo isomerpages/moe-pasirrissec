@@ -52,7 +52,7 @@ We look forward to your support. Your involvement in school activities will enha
 
 ##### CHINESE NEW YEAR
 
-Chinese New Year Celebrations to usher in the Year of the Hog saw the PRSS PSG once again contributing items for the hampers. The PSG members had fun catching-up with one another and getting to know the new PSG members.
+Chinese New Year Celebrations to usher in the Year of the Horse saw the PRSS PSG members once again had fun catching-up with one another and getting to know the new PSG members.
 
 ![](/images/Information%20for%20parents/PSG/CNY_Get_Together_2026.jpg)
 
@@ -60,25 +60,12 @@ Chinese New Year Celebrations to usher in the Year of the Hog saw the PRSS PSG o
 
 ![](/images/Information%20for%20parents/PSG/CNY_Get_Together_2026_03.jpg)
 
+![](/images/Information%20for%20parents/PSG/Hari_Raya_Concert.jpg)
 ##### INTERNATIONAL FRIENDSHIP DAY
 
-When it comes to food tasting and food sampling, we called in the big guns – the mothers from the PSG! Their skills range from food preparation, taking care of the logistics, publicity and ensuring that they reach out to as many staff and students as possible. This year saw Asian ethnic food such as chicken curry, tom yum soup, muah chee, gyoza, kuih talam and kuih salat being dished out. The PSG received very good response from the student population and many came back for second helpings. Thank you PSG for making the International Friendship Day so memorable!
+When it comes to food tasting and food sampling, we called in the big guns – the mothers from the PSG! Their skills range from food preparation, taking care of the logistics, publicity and ensuring that they reach out to as many staff and students as possible. The PSG received very good response from the student population and many came back for second helpings. Thank you PSG for making the International Friendship Day so memorable!
 
-<p align="center">
-<img width="auto" height="auto" src="/images/IFD%20poster.png">
-<i>The IFD poster designed by our PSG Chairperson, Ms Ann Kwan</i></p>
-
-<p align="center">
-<img src="/images/Gyoza.png">
-	<i>The Gyoza was fried on the spot for students</i></p>
-	
-<p align="center">
-<img src="/images/Muah%20Chee.png">
-	<i>Sampling the muah chee</i></p>
-	
-<p align="center">
-<img src="/images/Accomplishment.png">
-<i>Mission accomplished!</i></p>
+![](/images/Information%20for%20parents/PSG/international_Friendship_Day_Pop_Up_Cafe.jpg)
 
 ##### RACIAL HARMONY DAY
 
