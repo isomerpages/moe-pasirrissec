@@ -23,6 +23,8 @@ This famous quote was often shared by members of our Parent Support Group Exco. 
 | 9     | Exco member  | Mdm Khadijah Karim  |
 | 10    | Exco member  | Mrs Soh Yew Hin <br>Mrs Wendy Soh|
 
+https://go.gov.sg/prsspsg2026
+
 We look forward to your support. Your involvement in school activities will enhance the educational experiences of our students and strengthen parent-child bonding. 
 
 #### DADS FOR LIFE EXCO
