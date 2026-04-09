@@ -8,7 +8,9 @@ variant: markdown
 
 Members of our Parent Support Group Exco often shared this famous quote, which aligns well with our Partnership Framework in fostering synergistic partnerships for win-win outcomes.
 
-#### PARENT SUPPORT GROUP EXCO 2026
+#### PARENT SUPPORT GROUP EXCO 
+
+##### 2026
 
 | No | PSG Appointment | Name |
 | -------- | -------- | -------- |
@@ -25,15 +27,19 @@ Members of our Parent Support Group Exco often shared this famous quote, which a
 
 Please click [here](https://go.gov.sg/prsspsg2026) to register for PSG in 2026.
 
-
 We look forward to your support. Your involvement in school activities will enhance the educational experiences of our students and strengthen parent-child bonding. 
 
 #### DADS FOR LIFE EXCO
 
-CHAIRPERSON : Mr Wong Yew Kong, Edwin<br>
-VICE CHAIRPERSON : Mr Intekhab
+| No | PSG Appointment | Name |
+| -------- | -------- | -------- |
+| 1     | Chairperson    | Mr Wong Yew Kong, Edwin     |
+| 2     | Vice-Chairperson   | Mr Intekhab     |
+ 
 
-#### PHOTOS
+#### PHOTOS 
+
+
 
 ![](/images/PSG%20EXCO%202019.png)
 <p align="center"><i>PRSS PSG EXCO<br>
