@@ -69,7 +69,7 @@ When it came to food tasting and sampling, we called in the big guns – the mot
 
 ##### RACIAL HARMONY DAY
 
-In the days leading up to the event, PSG members offered good suggestions for the PSG booth. With their expertise and good planning, the PSG photo and henna booths were set up. The photo booth saw many teachers taking group shots for their department photos, taking advantage of the colourful ethnic costumes that staff members were wearing. The props prepared by the PSG members added more character to the photos. Our henna booth also received a very good response..
+In the days leading up to the event, PSG members offered good suggestions for the PSG booth. With their expertise and good planning, the PSG photo and henna booths were set up. The photo booth saw many teachers taking group shots for their department photos, taking advantage of the colourful ethnic costumes that staff members were wearing. The props prepared by the PSG members added more character to the photos. Our henna booth also received a very good response.
 
 ![](/images/RH-2.png)<br>
 ![](/images/RH-3.png)<br>
