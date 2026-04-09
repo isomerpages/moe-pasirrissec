@@ -52,7 +52,7 @@ We look forward to your support. Your involvement in school activities will enha
 
 ##### CHINESE NEW YEAR
 
-Chinese New Year Celebrations to usher in the Year of the Horse saw the PRSS PSG members once again had fun catching-up with one another and getting to know the new PSG members.
+Chinese New Year celebrations to usher in the Year of the Horse saw the PRSS PSG members once again have fun catching up with one another and getting to know the new PSG members.
 
 ![](/images/Information%20for%20parents/PSG/CNY_Get_Together_2026.jpg)
 
