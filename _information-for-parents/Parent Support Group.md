@@ -10,29 +10,18 @@ This famous quote was often shared by members of our Parent Support Group Exco. 
 
 #### PARENT SUPPORT GROUP EXCO
 
-| **2023** |  |
-| -------- | -------- | 
-| CHAIRPERSON | Ms Ann Kwan | 
-| VICE CHAIRPERSON | Mr Soh Yew Hin | 
-| SECRETARY | Ms Sherene Tan |
-| EXCO MEMBER | Ms Joanne Poh | 
-|  | Mdm Grace Tan |
-|  | Mrs Wendy Soh |
-
-| **2024** |  | 
-| -------- | -------- |
-| CHAIRPERSON  | Mdm Sherene Tan  | 
-| VICE CHAIRPERSON | Mr Soh Yew Hin | 
-| SECRETARY | Mdm Isnimah |
-| EXCO MEMBER | Mrs Wendy Soh | 
-|  | Mdm Noor Yusainizah Ely | 
-|  | Mdm Rossita Raihan | 
-|  | Mdm Azilah | 
-|  | Ms Catherine Tan | 
-|  | Ms Lee Ee Ling | 
-|  | Ms Nelly Winata | 
-|  | Mrs Petra Tan | 
-|  | Mdm Khadijah Karim | 
+| No | PSG Appointment | Name |
+| -------- | -------- | -------- |
+| 1     | Chairperson   |  Mdm Isnimah    |
+| 2     | Vice-Chairperson  | Mdm Azilah   |
+| 3     | Secretary   | Ms Lee Ee Ling     |
+| 4     | Exco member  | Mdm Noor Yusainizah Ely  |
+| 5     | Exco member  | Mdm Rossita Raihan  |
+| 6     | Exco member  | Ms Catherine Tan  |
+| 7     | Exco member  | Ms Nelly Winata  |
+| 8     | Exco member  | Mrs Petra Tan  |
+| 9     | Exco member  | Mdm Khadijah Karim  |
+| 10    | Exco member  | Mrs Soh Yew Hin <br>Mrs Wendy Soh|
 
 We look forward to your support. Your involvement in school activities will enhance the educational experiences of our students and strengthen parent-child bonding. 
 
