@@ -25,7 +25,7 @@ Members of our Parent Support Group Exco often shared this famous quote, which a
 | 9     | Exco member  | Mdm Khadijah Karim  |
 | 10    | Exco member  | Mrs Soh Yew Hin <br>Mrs Wendy Soh|
 
-Please click [here](https://go.gov.sg/prsspsg2026) to register for PSG in 2026.
+Please click [here](https://go.gov.sg/prsspsg2026) to register for Parent Support Group in 2026.
 
 We look forward to your support. Your involvement in school activities will enhance the educational experiences of our students and strengthen parent-child bonding. 
 
@@ -76,15 +76,10 @@ When it comes to food tasting and food sampling, we called in the big guns – t
 <img src="/images/Accomplishment.png">
 <i>Mission accomplished!</i></p>
 
-<p align="center">
-<img src="/images/Support%20team.png">
-<i>All hands on deck to support the event.</i>
-</p>
-
 ##### RACIAL HARMONY DAY
 
 In the days leading up to the event, PSG members offered good suggestions for the PSG booth. With their expertise and good planning, the PSG photo and henna booths were set up. The photo booth saw many teachers taking group shots for their department photos, taking advantage of the colourful ethnic costumes that staff members were wearing. The props prepared by the PSG members added more character to the photos. Our henna booth also received very good response.
 
 ![](/images/RH-2.png)<br>
-![](/images/RH-3.png)
+![](/images/RH-3.png)<br>
 ![](/images/RH-4.png)
