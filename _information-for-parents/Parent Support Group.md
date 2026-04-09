@@ -61,6 +61,8 @@ Chinese New Year celebrations to usher in the Year of the Horse saw the PRSS PSG
 ![](/images/Information%20for%20parents/PSG/CNY_Get_Together_2026_03.jpg)
 
 ![](/images/Information%20for%20parents/PSG/Hari_Raya_Concert.jpg)
+<p align="center"><i>Hari Raya Concert</i></p>
+
 ##### INTERNATIONAL FRIENDSHIP DAY
 
 When it came to food tasting and sampling, we called in the big guns – the mothers from the PSG! Their skills range from food preparation, taking care of logistics, publicity and ensuring that they reach out to as many staff and students as possible. The PSG received a very good response from the student population, and many came back for second helpings. Thank you, PSG, for making the International Friendship Day so memorable!
