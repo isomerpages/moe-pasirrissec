@@ -39,11 +39,15 @@ We look forward to your support. Your involvement in school activities will enha
 
 #### PHOTOS 
 
-
-
-![](/images/PSG%20EXCO%202019.png)
-<p align="center"><i>PRSS PSG EXCO<br>
-L-R: Mrs Jenny Yang, Ms Amy Jiang, Ms Ann Kwan, Ms Sylvia Ng and Ms Joanne Poh</i>
+![](/images/Information%20for%20parents/PSG/Open_House_2025.jpg)
+<p align="center"><i>Open House Nov 2025</i>
+	
+![](/images/Information%20for%20parents/PSG/Open_House_2025_02.jpg)
+	
+	
+![](/images/Information%20for%20parents/PSG/Open_House_2025_03.jpg)
+	
+![](/images/Information%20for%20parents/PSG/Open_House_2025_04.jpg)
 
 ![](/images/Information%20for%20parents/PSG/PSG_Get_Together_Session.jpg)
 </p><p align="center"><i>PSG Get-Together Session</i></p>
