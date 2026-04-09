@@ -12,7 +12,7 @@ At the Budget Debate 2016, MOE highlighted the importance of **Education and Car
 
 We recognise that for our children to thrive in a globalised economy and navigate meaningfully through life, they would benefit from having sound values and learning to seize every opportunity to develop transferable soft skills such as cross-cultural communication skills, problem-solving skills, and team work; and continually developing workplace readiness skills such as literacy, numeracy, and technical skills throughout life.
 
-Beyond schools’ efforts, parents can also play an important role at home in guiding our children in making important decisions for their education and career pathways. Some tips on how to help and guide your child are included in this e-mailer. Take the opportunity to discuss with your child the education and career options given the diverse and flexible pathways available at every key education stage.
+Beyond schools’ efforts, parents can also play an important role at home in guiding our children in making important decisions for their education and career pathways. Take the opportunity to discuss with your child the education and career options given the diverse and flexible pathways available at every key education stage.
 
 ### Education Career Guidance Counselling
 
@@ -51,13 +51,8 @@ Use this poster to guide your child in answering these questions:
 *   Who am I?
 *   Where do I want to go?
 *   How do I get there?  
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<img src="/images/ECG4.jpeg" style="width:50%;float:left">
-Browse through this [e-book](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.pdf) which features 54 individuals go through diverse education and career pathways. The inspirational narratives highlight the many options that cater to the students' needs and can help them discover their selected pathways.
-  
-Using these stories as springboards, discuss with your child his/her education and career options. Take your child’s interests, abilities and passion into consideration during the discussion!
+<br><br><br>
+
 
 <img src="/images/ECG5.png" style="width:50%;float:left">
 We want to partner you to develop your child holistically!
