@@ -63,13 +63,13 @@ Chinese New Year celebrations to usher in the Year of the Horse saw the PRSS PSG
 ![](/images/Information%20for%20parents/PSG/Hari_Raya_Concert.jpg)
 ##### INTERNATIONAL FRIENDSHIP DAY
 
-When it comes to food tasting and food sampling, we called in the big guns – the mothers from the PSG! Their skills range from food preparation, taking care of the logistics, publicity and ensuring that they reach out to as many staff and students as possible. The PSG received very good response from the student population and many came back for second helpings. Thank you PSG for making the International Friendship Day so memorable!
+When it came to food tasting and sampling, we called in the big guns – the mothers from the PSG! Their skills range from food preparation, taking care of logistics, publicity and ensuring that they reach out to as many staff and students as possible. The PSG received a very good response from the student population, and many came back for second helpings. Thank you, PSG, for making the International Friendship Day so memorable!
 
 ![](/images/Information%20for%20parents/PSG/international_Friendship_Day_Pop_Up_Cafe.jpg)
 
 ##### RACIAL HARMONY DAY
 
-In the days leading up to the event, PSG members offered good suggestions for the PSG booth. With their expertise and good planning, the PSG photo and henna booths were set up. The photo booth saw many teachers taking group shots for their department photos, taking advantage of the colourful ethnic costumes that staff members were wearing. The props prepared by the PSG members added more character to the photos. Our henna booth also received very good response.
+In the days leading up to the event, PSG members offered good suggestions for the PSG booth. With their expertise and good planning, the PSG photo and henna booths were set up. The photo booth saw many teachers taking group shots for their department photos, taking advantage of the colourful ethnic costumes that staff members were wearing. The props prepared by the PSG members added more character to the photos. Our henna booth also received a very good response..
 
 ![](/images/RH-2.png)<br>
 ![](/images/RH-3.png)<br>
