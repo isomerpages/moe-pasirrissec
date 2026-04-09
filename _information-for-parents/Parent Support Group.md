@@ -66,6 +66,7 @@ Chinese New Year celebrations to usher in the Year of the Horse saw the PRSS PSG
 When it came to food tasting and sampling, we called in the big guns – the mothers from the PSG! Their skills range from food preparation, taking care of logistics, publicity and ensuring that they reach out to as many staff and students as possible. The PSG received a very good response from the student population, and many came back for second helpings. Thank you, PSG, for making the International Friendship Day so memorable!
 
 ![](/images/Information%20for%20parents/PSG/international_Friendship_Day_Pop_Up_Cafe.jpg)
+<p align="center"><i>International Friendship Day Pop Up Cafe</i></p>
 
 ##### RACIAL HARMONY DAY
 
