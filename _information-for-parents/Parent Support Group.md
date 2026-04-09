@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### Coming together is a beginning. Keeping together is progress. Working together is success. - Henry Ford
 
-This famous quote was often shared by members of our Parent Support Group Exco. It goes well with our Partnership Framework of fostering synergistic partnership for win-win outcomes.
+Members of our Parent Support Group Exco often shared this famous quote, which aligns well with our Partnership Framework in fostering synergistic partnerships for win-win outcomes.
 
 #### PARENT SUPPORT GROUP EXCO 2026
 
@@ -23,7 +23,8 @@ This famous quote was often shared by members of our Parent Support Group Exco. 
 | 9     | Exco member  | Mdm Khadijah Karim  |
 | 10    | Exco member  | Mrs Soh Yew Hin <br>Mrs Wendy Soh|
 
-https://go.gov.sg/prsspsg2026
+Please click [here](https://go.gov.sg/prsspsg2026) to register for PSG in 2026.
+
 
 We look forward to your support. Your involvement in school activities will enhance the educational experiences of our students and strengthen parent-child bonding. 
 
