@@ -4,7 +4,7 @@ permalink: /about-us/Principals-Foreword/
 description: ""
 variant: markdown
 ---
-![](/images/About%20Us/Principal_Forward.jpg)
+<img src="/images/About%20Us/Principal_Forward.jpg" style="width:80%;float:center;margin-right:5%">
 
 I see much to be grateful for as a new member of the Pasir Ris Secondary School (PRSS) family. Under the leadership of Mrs Grace Chua, coupled with the efforts of the PRSS team, it is evident that we have stayed true to our mission of inspiring lives, nurturing talents, and realising dreams. Over the past 40 years, cohorts of Pasirians have passed through our gates and emerged as more confident learners and caring individuals.
 
