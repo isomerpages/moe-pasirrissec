@@ -6,6 +6,10 @@ variant: markdown
 ---
 <img src="/images/About%20Us/Principal_Forward.jpg" style="width:80%;float:center;margin-right:5%">
 
+*From left: Ms Santha Sukumaran (Vice Principal); Mr Ivan Wu (Principal); Mdm Lee Beng Choo (Vice Principal (Administration))*
+
+*Photograph credits: Alyah Syakirah Binte Dzulkifli (4E4); Nur Faizah Binte Ramli (4A1); Qistina Nur Zarifah Binte Anan (4E4) (Class of 2026)*
+
 I see much to be grateful for as a new member of the Pasir Ris Secondary School (PRSS) family. Under the leadership of Mrs Grace Chua, coupled with the efforts of the PRSS team, it is evident that we have stayed true to our mission of inspiring lives, nurturing talents, and realising dreams. Over the past 40 years, cohorts of Pasirians have passed through our gates and emerged as more confident learners and caring individuals.
 
 We now exist in a phase of greater geopolitical tensions coupled with disruptions brought about by accelerating technological advances. Now, more than ever, we must prepare our students as adaptive and resilient individuals, who believe that they have a responsibility in making our communities and nation thrive in the years to come.
