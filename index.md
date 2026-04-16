@@ -31,4 +31,14 @@ sections:
       image: /images/E Open house/2023 campus tour (resized).png
       alt: PRSS Campus Tour
       subtitle: TOUR
+  - infopic:
+      title: Time to Dream
+      subtitle: Events
+      id: infopic
+      description: Join us for an unforgettable evening as all five PRSS Performing
+        Arts CCAs unite on stage in a powerful celebration of talent, passion,
+        and creativity.
+      button: View More
+      url: /time-to-dream/
+      alt: Image alt text
 ---
