@@ -46,8 +46,8 @@ with mBots and micro bits using principles of design thinking.</p>
 <h4><strong>Centralised DSA-Sec Application Process</strong></h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 6 May 2026, 11am
-to 2 Jun 2026, 3pm. For more details, please refer to MOE website –&nbsp;
-<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">www.moe.gov.sg/secondary/dsa</a>&nbsp;</p>
+to 2 Jun 2026, 3pm.</p>
+<p>For more details, please refer to MOE website –&nbsp; <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">www.moe.gov.sg/secondary/dsa</a>&nbsp;</p>
 <p><strong>Key Dates</strong>
 </p>
 <table style="minWidth: 50px">
