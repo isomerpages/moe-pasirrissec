@@ -71,7 +71,7 @@ to 2 Jun 2026, 3pm.</p>
 <p>Application through the centralised DSA-Sec Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 May 2026, 11am – 2 Jun 2026, 3pm</p>
+<p>6 May 2026, 11am – 2 Jun 2026, 4.30pm</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ to 2 Jun 2026, 3pm.</p>
 <p>Outcome of application (Confirmed Offer, Waiting List, Rejected)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Between 28 Aug and 17 Sep 2026</p>
+<p>Between 17 Aug and 28 Sep 2026</p>
 </td>
 </tr>
 <tr>
