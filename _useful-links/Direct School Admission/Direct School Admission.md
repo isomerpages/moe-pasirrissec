@@ -45,8 +45,8 @@ media and get to create interesting prototypes such as block programming
 with mBots and micro bits using principles of design thinking.</p>
 <h4><strong>Centralised DSA-Sec Application Process</strong></h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2025, 11am
-to 3 Jun 2025, 3pm. For more details, please refer to MOE website –&nbsp;
+The application is free-of-charge and will be open from 6 May 2026, 11am
+to 2 Jun 2026, 3pm. For more details, please refer to MOE website –&nbsp;
 <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">www.moe.gov.sg/secondary/dsa</a>&nbsp;</p>
 <p><strong>Key Dates</strong>
 </p>
@@ -71,7 +71,7 @@ to 3 Jun 2025, 3pm. For more details, please refer to MOE website –&nbsp;
 <p>Application through the centralised DSA-Sec Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May 2025, 11am – 3 Jun 2025, 3pm</p>
+<p>6 May 2026, 11am – 2 Jun 2026, 3pm</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ to 3 Jun 2025, 3pm. For more details, please refer to MOE website –&nbsp;
 <p>Notification of Interview/ Audition/ Trial for shortlisted applicants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2025 -22 Aug 2025</p>
+<p>29 Jun 2026 -28 Aug 2026</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ to 3 Jun 2025, 3pm. For more details, please refer to MOE website –&nbsp;
 <p>Outcome of application (Confirmed Offer, Waiting List, Rejected)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Between 25 Aug and 4 Sep</p>
+<p>Between 28 Aug and 17 Sep 2026</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ to 3 Jun 2025, 3pm. For more details, please refer to MOE website –&nbsp;
 the School Preference Submission</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mid-Oct 2025</p>
+<p>Mid-Oct 2026</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ the School Preference Submission</p>
 <p>Submission of school preferences via the DSA-Sec Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Oct 2025, 9am – 31 Oct 2025, 3pm</p>
+<p>19 Oct 2026, 9am – 23 Oct 2026, 3pm</p>
 </td>
 </tr>
 <tr>
@@ -112,10 +112,9 @@ the School Preference Submission</p>
 <p>Release of DSA-Sec results with PSLE results release</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Late-Nov 2025</p>
+<p>Late-Nov 2026</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
