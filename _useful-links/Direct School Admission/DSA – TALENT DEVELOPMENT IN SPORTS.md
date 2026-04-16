@@ -119,14 +119,13 @@ requirements of the Admissions Exercise for International Students (AEIS)
 test to be successful in DSA.&nbsp;</p>
 </li>
 </ul>
-<p><strong>Centralised DSA-Sec Application Process</strong>
-</p>
+<h4><strong>Centralised DSA-Sec Application Process</strong></h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 6 May 2026 to 2
 Jun 2026.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Applicants will be notified of the outcome of the application by 17 Sep
+<p>Applicants will be notified of the outcome of the application by 28 Aug
 2026. Candidates who are given a Confirmed Offer are guaranteed a place
 in our school in the Posting Group which they are eligible for (Posting
 Group 1, 2 or 3) based on their PSLE results.&nbsp;</p>
