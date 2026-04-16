@@ -24,14 +24,6 @@ sections:
       id: resources
       button: More
   - infopic:
-      title: PRSS Campus Tour
-      description: Take a virtual stroll through our school with the interactive 360° tour.
-      button: Campus Tour
-      url: https://go.gov.sg/prsscampustour
-      image: /images/E Open house/2023 campus tour (resized).png
-      alt: PRSS Campus Tour
-      subtitle: TOUR
-  - infopic:
       title: Time to Dream
       subtitle: Events
       id: infopic
@@ -42,4 +34,12 @@ sections:
       url: /time-to-dream/
       alt: Image alt text
       image: /images/WhatsApp_Image_2026_04_16_at_08_56_16.jpg
+  - infopic:
+      title: PRSS Campus Tour
+      description: Take a virtual stroll through our school with the interactive 360° tour.
+      button: Campus Tour
+      url: https://go.gov.sg/prsscampustour
+      image: /images/E Open house/2023 campus tour (resized).png
+      alt: PRSS Campus Tour
+      subtitle: TOUR
 ---
