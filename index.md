@@ -41,4 +41,5 @@ sections:
       button: View More
       url: /time-to-dream/
       alt: Image alt text
+      image: /images/WhatsApp_Image_2026_04_16_at_08_56_16.jpg
 ---
