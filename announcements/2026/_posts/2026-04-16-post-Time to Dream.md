@@ -1,5 +1,5 @@
 ---
-title: Time to dream
+title: Time to Dream
 permalink: /time-to-dream/
 date: 2026-04-16
 layout: post
