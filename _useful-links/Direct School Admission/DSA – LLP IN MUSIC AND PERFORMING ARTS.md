@@ -134,12 +134,12 @@ test to be successful in DSA.&nbsp;</p>
 </ul>
 <h4><strong>Centralised DSA-Sec Application Process</strong></h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2025, 11am
-to 3 Jun 2025, 3pm.</p>
+The application is free-of-charge and will be open from 6 May 2026 to 2
+Jun 2026.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Applicants will be notified of the outcome of the application by 4 Sep
-2025. Candidates who are given a Confirmed Offer are guaranteed a place
+<p>Applicants will be notified of the outcome of the application by 28 Aug
+2026. Candidates who are given a Confirmed Offer are guaranteed a place
 in our school in the Posting Group which they are eligible for (Posting
 Group 1, 2 or 3) based on their PSLE results.&nbsp;</p>
 </li>
@@ -171,7 +171,7 @@ final.&nbsp;</p>
 <p>Application through the centralised DSA-Sec Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May 2025, 11am – 3 Jun 2025, 3pm</p>
+<p>6 May 2026, 11am – 2 Jun 2026, 4.30pm</p>
 </td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@ final.&nbsp;</p>
 <p>Notification of Interview/ Audition/ Trial for shortlisted applicants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2025 -22 Aug 2025</p>
+<p>29 Jun 2026 -28 Aug 2026</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +187,7 @@ final.&nbsp;</p>
 <p>Outcome of application (Confirmed Offer, Waiting List, Rejected)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Between 25 Aug and 4 Sep</p>
+<p>Between 17 Aug and 28 Aug 2026</p>
 </td>
 </tr>
 <tr>
@@ -196,7 +196,7 @@ final.&nbsp;</p>
 the School Preference Submission</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mid-Oct 2025</p>
+<p>Mid-Oct 2026</p>
 </td>
 </tr>
 <tr>
@@ -204,7 +204,7 @@ the School Preference Submission</p>
 <p>Submission of school preferences via the DSA-Sec Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Oct 2025, 9am – 31 Oct 2025, 3pm</p>
+<p>19 Oct 2026, 9am – 23 Oct 2026, 3pm</p>
 </td>
 </tr>
 <tr>
@@ -212,7 +212,7 @@ the School Preference Submission</p>
 <p>Release of DSA-Sec results with PSLE results release</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Late-Nov 2025</p>
+<p>Late-Nov 2026</p>
 </td>
 </tr>
 </tbody>
@@ -224,4 +224,3 @@ the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from Sec 1 - 4.&nbsp;</p>
-<p></p>
