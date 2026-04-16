@@ -87,7 +87,7 @@ to 2 Jun 2026, 3pm.</p>
 <p>Outcome of application (Confirmed Offer, Waiting List, Rejected)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Between 17 Aug and 28 Sep 2026</p>
+<p>Between 17 Aug and 28 Aug 2026</p>
 </td>
 </tr>
 <tr>
