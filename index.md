@@ -19,6 +19,10 @@ sections:
           description: ""
           url: /achievements/In-The-News/
       variant: center
+  - resources:
+      title: Latest Announcements
+      id: resources
+      button: More
   - infopic:
       title: Time to Dream
       subtitle: Events
@@ -30,10 +34,6 @@ sections:
       url: /time-to-dream/
       alt: Image alt text
       image: /images/WhatsApp_Image_2026_04_16_at_08_56_16.jpg
-  - resources:
-      title: Latest Announcements
-      id: resources
-      button: More
   - infopic:
       title: PRSS Campus Tour
       description: Take a virtual stroll through our school with the interactive 360° tour.
