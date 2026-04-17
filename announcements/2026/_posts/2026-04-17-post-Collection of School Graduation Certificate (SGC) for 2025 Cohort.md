@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Students from 2025 Sec 4NA, 4NT &amp; Sec 5NA cohorts may collect their
+<p>Students from 2025 Sec 4Exp, 4NT &amp; Sec 5NA cohorts may collect their
 SGC from the school General Office during office hours (8.00am - 5.30pm)</p>
 <h5><strong>Operation Hours</strong></h5>
 <p><strong>Mon - Fri</strong>:&nbsp;7.30am - 5.30pm
