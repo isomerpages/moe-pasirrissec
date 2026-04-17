@@ -87,15 +87,14 @@ assessing the potential of the applicants.</p>
 <p><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 <p><strong>Selection Process</strong>&nbsp;&nbsp;</p>
-<p>Shortlisted applicants will be required to go through an interview. Prior
-to the interview, instructions will also be provided to shortlisted applicants
-so that they may upload artefacts to an online platform for showcase, in
-support of their DSA application. Examples of artefacts that can be uploaded
-may include a combination of: project presentation posters, photos/videos
-of their makers designs/products, programming source code, screenshots
-of mobile applications written, audio recordings, animation, photography
-or videography work. These artefacts can be gathered from individual or
-group participation in past events, activities, CCA sessions or competitions.&nbsp;&nbsp;</p>
+<p>Shortlisted applicants will be required to go through an interview and
+upload artefacts to an online platform to showcase their potential. Examples
+of artefacts that can be uploaded may include a combination of: project
+presentation posters, photos/videos of their makers designs/products, programming
+source code, screenshots of mobile applications written, audio recordings,
+animation, photography or videography work. These artefacts can be gathered
+from individual or group participation in past events, activities, CCA
+sessions or competitions.&nbsp;&nbsp;</p>
 <p><strong>Other Requirements</strong>
 </p>
 <ul data-tight="true" class="tight">
