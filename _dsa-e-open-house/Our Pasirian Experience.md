@@ -17,6 +17,7 @@ variant: markdown
 Find out more [here](/about-us/our-partners/alumni/).
 
 ### **DSA VLOG**
+
 <div style="text-align:center">
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eaPxFS94DDE?si=-1YlUwcJS6vfDQA2" height="315" width="560"></iframe></div>
 
