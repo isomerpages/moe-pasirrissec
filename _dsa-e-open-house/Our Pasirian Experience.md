@@ -7,9 +7,8 @@ variant: markdown
 ### **SCHOOL CORPORATE VIDEO**
 
 <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GOF8jI49lWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dvoCP6z4Wvc?si=9W9TXIe0W5bq242O" height="315" width="560"></iframe></div>
 
-### **STUDENTS' EXPERIENCE**
 
 ### **PASIRIAN ALUMNI**
 

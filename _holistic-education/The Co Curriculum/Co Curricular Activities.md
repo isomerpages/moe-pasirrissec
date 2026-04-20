@@ -194,7 +194,7 @@ refer to the table below or select the respective CCA icons for more details.</p
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Club/Audio-Visual-Lights/"><img style="width:50%;float:left" height="auto" width="100%" src="/images/audio.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/club/audio-visual-lights/"><img style="width:50%;float:left" height="auto" width="100%" src="/images/audio.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Club/Tinkers-Club/"><img style="width:50%;float:left" height="auto" width="100%" src="/images/tinkersclub.png"></a>
 </td>
