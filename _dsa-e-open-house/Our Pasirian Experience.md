@@ -9,7 +9,6 @@ variant: markdown
 <div style="text-align:center">
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dvoCP6z4Wvc?si=9W9TXIe0W5bq242O" height="315" width="560"></iframe></div>
 
-### **STUDENTS' EXPERIENCE**
 
 ### **PASIRIAN ALUMNI**
 
