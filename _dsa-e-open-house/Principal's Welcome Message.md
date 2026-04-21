@@ -4,26 +4,24 @@ permalink: /e-open-house/principals-welcome-message/
 description: ""
 variant: markdown
 ---
-<img src="/images/Mrs%20Chua.jpg" style="width:30%;float:left;margin-right:5%">
+<img src="/images/DSA/DSA_Principal_Message.jpg" style="width:65%;float:left;margin-right:5%">
 
-Dear Parents &amp; Prospective Students
+Dear Parents &amp; Students
 
-Thank you for your interest in Pasir Ris Secondary School (PRSS).
+Welcome to Pasir Ris Secondary School (PRSS)!
 
-PRSS is the first secondary school to be set up in Tampines in 1985.&nbsp; We have worked on many exciting initiatives and reviewed our curriculum to stay relevant and responsive to the evolving landscape.&nbsp; Many cohorts of students have benefited from our emphasis on a holistic education and have done well in articulating to post-secondary institutions.
+PRSS is the first secondary school to be set up in Tampines in 1985.  Over the past 40 years, we have nurtured cohorts of confident students who care for the people around them, and who have the courage to positively impact our community.
 
-We believe that every child can learn and succeed under the guidance and support of teachers in partnership with parents.&nbsp; Our mission of “Inspiring Lives, Nurturing Talents, Realising Dreams” is manifested in the many programmes designed to cater to the diverse interests and needs of students. Our teachers are involved in professional learning teams, critical inquiry and research to inform practice.&nbsp; As a pilot school for PDLP in 2019 where Sec 1 students were equipped with personal Chromebooks, Blended learning has become a regular feature in the time-table where students can log into lessons from home and pursue self-initiated learning at their own pace fortnightly. We continue to review our EdTech Masterplan to incorporate the latest affordances of EdTech for teaching and learning such as leveraging AI and working in partnership with ETD to grow digital literacies and 21st Century competencies. Our vision is to become a future-ready school with a vibrant community of confident and discerning learners who can harness technology skilfully to navigate the complexities of a technology-transformed world.
+We have stayed true to this cause because we believe that every child can learn and experience success under the guidance of teachers in partnership with parents.  To this end, we provide a range of learning experiences to cater to the diverse interests and needs of our students. 
 
-This year, we celebrate our 40th anniversary with a focus on empowering students to contribute to the community.&nbsp; Our theme on Kindness: Small Acts, Big Impact has generated much interest and awareness in the school community with students contributing 40 stories on acts of kindness to mark our school’s 40th birthday.
+In PRSS, we aim to increase our students’ cultural appreciation and sense of rootedness via our music and the performing arts experiences. All students will be exposed to a variety of art forms, and students with greater interest and aptitude in this regard are given more opportunities to extend their learning. In addition, we strive to strengthen our students’ sense of reality and nationhood via our overseas twinning programme with several Asian countries. Be it through overseas learning experiences, hosting foreign delegates in school, or interactions with foreign students via virtual means, we believe in the importance for our students to have an authentic platform to demonstrate and develop their cross-cultural skills.
 
-The school’s LLP in Music and the performing arts have grown many talents in a wide range of genres and skillsets.&nbsp; Students had the opportunity to participate in the NDP Virtual Choir 2024, SYF and various public performances and competitions.&nbsp;
+It is important for us to build future skills in our students through the academic curriculum. We have integrated the use of technology in our teaching as a vehicle to develop the digital literacies of our students. Our teachers also model the way by experimenting with new methods to make teaching more customised and engaging for students. We also provide interdisciplinary learning opportunities for our students to develop critical thinking and collaboration opportunities. To this end, we continue to provide our students with a range of learning opportunities to develop learning dispositions to pursue lifelong learning.
 
-A holistic and balanced education is what we advocate at PRSS.&nbsp; Students can choose from a range of CCAs from Sports, Uniformed Groups, Performing Arts and Clubs. Fostering the joy of learning and preparing our students well for the future with the requisite skills, knowledge, values, dispositions and competencies,&nbsp; is aligned with our vision of growing ‘Confident Learners, Caring and Resilient Citizens’.&nbsp;
+With some luck, I look forward to seeing you at our first assembly of 2027 as a member of the PRSS Family!
 
-Do visit our [website](/dsa) and enjoy the short presentations we have created for visitors to our e-Open House.
+With Pride and Responsibility,<br>
+**Ivan Wu**<br>
+**Principal**
 
-Thank You and Best Wishes to our P6s
-
-**Mrs Grace Chua**<br>
-**Principal**<br>
-**Pasir Ris Secondary School**
+<p style="font-size:14px;"><i>*Photograph credits: Alyah Syakirah Binte Dzulkifli (4E4); Nur Faizah Binte Ramli (4A1); Qistina Nur Zarifah Binte Anan (4E4) (Class of 2026)</i></p>
