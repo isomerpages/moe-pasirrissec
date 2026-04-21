@@ -4,7 +4,7 @@ permalink: /e-open-house/principals-welcome-message/
 description: ""
 variant: markdown
 ---
-<img src="/images/Mrs%20Chua.jpg" style="width:30%;float:left;margin-right:5%">
+<img src="/images/DSA/DSA_Principal_Message.jpg" style="width:65%;float:left;margin-right:5%">
 
 Dear Parents &amp; Students
 
