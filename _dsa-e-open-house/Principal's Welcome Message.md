@@ -23,3 +23,5 @@ With some luck, I look forward to seeing you at our first assembly of 2027 as a 
 With Pride and Responsibility,<br>
 **Ivan Wu**<br>
 **Principal**
+
+<p style="font-size:14px;"><i>*Photograph credits: Alyah Syakirah Binte Dzulkifli (4E4); Nur Faizah Binte Ramli (4A1); Qistina Nur Zarifah Binte Anan (4E4) (Class of 2026)</i></p>
