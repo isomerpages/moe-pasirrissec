@@ -4,7 +4,7 @@ permalink: /e-open-house/principals-welcome-message/
 description: ""
 variant: markdown
 ---
-<img src="/images/DSA/DSA_Principal_Message.jpg" style="width:655%;float:left;margin-right:5%">  
+<img src="/images/DSA/DSA_Principal_Message.jpg" style="width:55%;float:left;margin-right:5%">  
 
 Dear Parents &amp; Students
 
@@ -24,4 +24,4 @@ With Pride and Responsibility,<br>
 **Ivan Wu**<br>
 **Principal**
 
-<p style="font-size:16px;"><i>*Photograph credits: Alyah Syakirah Binte Dzulkifli (4E4); Nur Faizah Binte Ramli (4A1); Qistina Nur Zarifah Binte Anan (4E4) (Class of 2026)</i></p>
+<p style="font-size:17px;"><i>*Photograph credits: Alyah Syakirah Binte Dzulkifli (4E4); Nur Faizah Binte Ramli (4A1); Qistina Nur Zarifah Binte Anan (4E4) (Class of 2026)</i></p>
