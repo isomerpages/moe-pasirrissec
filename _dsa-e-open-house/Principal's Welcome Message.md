@@ -4,7 +4,7 @@ permalink: /e-open-house/principals-welcome-message/
 description: ""
 variant: markdown
 ---
-<img src="/images/DSA/DSA_Principal_Message.jpg" style="width:655%;float:left;margin-right:5%">  
+<img src="/images/DSA/DSA_Principal_Message.jpg" style="width:55%;float:left;margin-right:5%">  
 
 Dear Parents &amp; Students
 
