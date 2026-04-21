@@ -49,9 +49,3 @@ These and other thoughts we gladly bring<br>
 To Pasir Ris right from the start<br>  
 To Pasir Ris right from the start
 </p>
-
-Ready to experience life as a Pasirian?
-
-👉 Explore our CCAs  
-👉 Learn more about our DSA programmes  
-👉 Join us at our e-Open House
