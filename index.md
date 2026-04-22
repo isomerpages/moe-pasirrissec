@@ -27,6 +27,7 @@ sections:
       url: https://www.pasirrissec.moe.edu.sg/dsa/
       image: /images/DSA/DSA_Open_House_2026_resize.png
       alt: DSA eOpen House 2026
+      subtitle: EVENTS
   - infopic:
       title: Time to Dream
       subtitle: Events
