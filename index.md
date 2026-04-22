@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/Homepage/Homepage.gif
       key_highlights:
+        - title: DSA Open House 2026
+          description: ""
+          url: ""
         - title: Information for Parents
           description: ""
           url: /Information-for-Parents/Event-for-Parents/
