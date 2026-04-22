@@ -25,8 +25,7 @@ sections:
   - infopic:
       title: DSA eOpen House 2026
       id: infopic
-      description: Join us for our DSA e-Open House on 27 April 2026. More details
-        coming your way soon. Stay tuned!
+      description: Join us for our DSA e-Open House on 27 April 2026. Stay tuned!
       image: /images/DSA/DSA_Open_House_2026_resize.png
       alt: DSA eOpen House 2026
       subtitle: UPCOMING EVENTS
