@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Homepage/Homepage.gif
       key_highlights:
-        - title: DSA Open House 2026
+        - title: DSA Application 2026
           description: ""
           url: https://www.pasirrissec.moe.edu.sg/useful-links/direct-school-admission-dsa/direct-school-admission/
         - title: Information for Parents
