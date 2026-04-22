@@ -20,6 +20,13 @@ sections:
           url: /achievements/In-The-News/
       variant: center
   - infopic:
+      title: DSA eOpen House 2026
+      id: infopic
+      description: Join us for our DSA eOpen House 2026!
+      button: VIEW more
+      url: https://www.pasirrissec.moe.edu.sg/dsa/
+      image: /images/DSA/DSA_Open_House_2026_resize.png
+  - infopic:
       title: Time to Dream
       subtitle: Events
       id: infopic
