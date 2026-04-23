@@ -54,7 +54,7 @@ you to join our Pasirian family.</p>
 <p>Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/football/" rel="noopener nofollow" target="_blank">Football</a>
+<p><a href="/cca/sports-and-games/football/" rel="noopener nofollow" target="_blank">Football</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,7 +66,7 @@ you to join our Pasirian family.</p>
 <p>Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/volleyball/" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a>
+<p><a href="/cca/sports-and-games/volleyball/" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
