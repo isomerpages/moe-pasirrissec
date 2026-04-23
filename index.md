@@ -38,17 +38,6 @@ sections:
       id: resources
       button: More
   - infopic:
-      title: Time to Dream
-      subtitle: Events
-      id: infopic
-      description: Join us for an unforgettable evening as all five PRSS Performing
-        Arts CCAs unite on stage in a powerful celebration of talent, passion,
-        and creativity.
-      button: View More
-      url: /time-to-dream/
-      alt: Image alt text
-      image: /images/WhatsApp_Image_2026_04_16_at_08_56_16.jpg
-  - infopic:
       title: PRSS Campus Tour
       description: Take a virtual stroll through our school with the interactive 360° tour.
       button: Campus Tour
