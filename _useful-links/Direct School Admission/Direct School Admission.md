@@ -36,13 +36,13 @@ us!</p>
 <p>c)&nbsp;<strong><a href="/useful-links/direct-school-admission-dsa/dsa-digital-media/" rel="noopener noreferrer nofollow" target="_blank">Digital Media</a></strong> -
 Our school has been on MOE pilot for the PDLP (Personal Digital Learning
 Programme) in 2019 and we have set up a programme to nurture students’
-talent and interest in digital media. This programme is different from
-the ALP as it will include AVL (Audio Visual &amp; Lighting) support and
-service to school and talent development in digital media including video
-recording, broadcasting, photography, coding, computational thinking and
-makerspace programme. Here, students undergo training on different digital
-media and get to create interesting prototypes such as block programming
-with mBots and micro bits using principles of design thinking.</p>
+talent and interest in digital media. This programme includes AVL (Audio
+Visual &amp; Lighting) support and service to school and talent development
+in digital media including video recording, broadcasting, photography,
+coding, computational thinking and makerspace programme. Here, students
+undergo training on different digital media and get to create interesting
+prototypes such as block programming with mBots and micro bits using principles
+of design thinking.</p>
 <h4><strong>Centralised DSA-Sec Application Process</strong></h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 6 May 2026, 11am
