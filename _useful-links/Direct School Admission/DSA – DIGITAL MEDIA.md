@@ -100,9 +100,7 @@ sessions or competitions.&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>For all applicants who are not studying in MOE mainstream primary schools,
-please refer to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
-</li>
-<li>
+please refer to&nbsp;MOE <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener nofollow" target="_blank"> DSA-Sec for Non-mainstream school</a> website.</p>
 <p>International Students may apply but must take part in and fulfil the
 requirements of the Admissions Exercise for International Students (AEIS)
 test to be successful in DSA.&nbsp;</p>
