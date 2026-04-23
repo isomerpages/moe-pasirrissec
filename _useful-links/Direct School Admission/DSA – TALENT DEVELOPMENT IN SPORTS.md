@@ -54,7 +54,7 @@ you to join our Pasirian family.</p>
 <p>Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/cca/Sports-and-Games/Football/" rel="noopener noreferrer nofollow" target="_blank">Football</a>
+<p><a href="https://www.pasirrissec.moe.edu.sg/cca/sports-and-games/football/" rel="noopener noreferrer nofollow" target="_blank">Football</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,7 +66,7 @@ you to join our Pasirian family.</p>
 <p>Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/cca/Sports-and-Games/Volleyball/" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a>
+<p><a href="https://www.pasirrissec.moe.edu.sg/cca/sports-and-games/volleyball/" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
