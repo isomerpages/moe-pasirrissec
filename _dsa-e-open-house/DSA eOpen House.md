@@ -53,6 +53,12 @@ description: ""
 <a href="/e-open-house/faq-and-enquiries/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/8.png">
 </a></div>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<a href="/e-open-house/campus-tour"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/2.png">
+</a></div>
+</th>
 </tr>
 </tbody>
 </table>
