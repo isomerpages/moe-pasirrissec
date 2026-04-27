@@ -36,4 +36,13 @@ sections:
       title: Latest Announcements
       id: resources
       button: More
+  - infopic:
+      title: PRSS Campus Tour
+      subtitle: TOUR
+      id: infopic
+      description: Take a virtual stroll through our school with the interactive 360° tour.
+      button: Campus Tour
+      url: https://go.gov.sg/prsscampustour
+      image: /images/E Open house/2023 campus tour (resized).png
+      alt: PRSS Campus Tour
 ---
