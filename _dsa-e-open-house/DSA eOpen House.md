@@ -19,12 +19,6 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<a href="/e-open-house/campus-tour"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/2.png">
-</a></div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <a href="/e-open-house/our-pasirian-experience"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/3.png">
 </a></div>
 </th>
@@ -34,14 +28,14 @@ description: ""
 <a href="/signature-programmes/signature-programmes"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/4.png">
 </a></div>
 </th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <a href="/holistic-education/the-curriculum/the-curriculum/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICONS/5.png">
 </a></div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
