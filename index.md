@@ -25,14 +25,13 @@ sections:
   - infopic:
       title: DSA eOpen House 2026
       id: infopic
-      description: Join us for our DSA e-Open House on 27 April 2026. In the meantime,
-        click here for information on our DSA talent areas and application
-        process.
+      description: Join us for our DSA e-Open House on 27 April 2026. Click here to
+        find out more.
       image: /images/DSA/DSA_Open_House_2026_resize.png
       alt: DSA eOpen House 2026
-      subtitle: UPCOMING EVENTS
+      subtitle: EVENTS
       button: CLICK HERE
-      url: https://www.pasirrissec.moe.edu.sg/useful-links/direct-school-admission-dsa/direct-school-admission/
+      url: https://www.pasirrissec.moe.edu.sg/dsa/
   - resources:
       title: Latest Announcements
       id: resources
