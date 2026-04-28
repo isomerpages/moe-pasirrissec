@@ -4,7 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 variant: markdown
 ---
-<img src="/images/About%20Us/Principal_Forward.jpg" style="width:80%;float:center;margin-right:5%">
+<img src="/images/About%20Us/Mr_Ivan.jpg" style="width:80%;float:center;margin-right:5%">
 
 <p align="center" style="font-size:14px"><i>From left: Ms Santha Sukumaran (Vice Principal); Mr Ivan Wu (Principal); Mdm Lee Beng Choo (Vice Principal (Administration)) <br> Photograph credits: Alyah Syakirah Binte Dzulkifli (4E4); Nur Faizah Binte Ramli (4A1); Qistina Nur Zarifah Binte Anan (4E4) (Class of 2026)</i></p>
 
