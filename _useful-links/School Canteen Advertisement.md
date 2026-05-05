@@ -12,7 +12,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-| Halal Nasi Padang Stall     | 30 April 2026    | •	Menu may include varieties such as steamed rice, meat dishes (e.g., ayam lemak, baked/grilled chicken, rendang), vegetable dishes (e.g. egg belado, sayur lodeh, stir-fried mixed vegetables, long beans, tofu, and tempeh).<br>•	All halal ingredients and aligned with HPB Healthy Meals Guidelines.|
+
 
 
 
