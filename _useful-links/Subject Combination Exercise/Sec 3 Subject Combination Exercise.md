@@ -1,7 +1,7 @@
 ---
 title: Sec 3 Subject Combination Exercise
 permalink: /subject-combination/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Subject Combination Exercise
 ---
@@ -47,14 +47,92 @@ organised in the following manner:</p>
 </ol>
 <h3>Sec 3 Subject Combination Exercise (2026) - Important dates</h3>
 <p></p>
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Date/Period</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Description of Activity</span></th></tr></thead>
-<tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">25 May</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Subject Combination Microsite will be updated</span></td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">03 Aug (Assembly period)</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Subject Combination Briefing for all Sec 2 classes + Q &amp; A</span></td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">14 Aug</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Parent Engagement 2 (includes Subject Combination details and ECG matters)</span></td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#000;background-color:transparent">Post-exam activities (Oct)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#000;background-color:transparent">Issuance of letters for Subject Combination exercise </span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">and report books.</span></td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">28 Oct  – 31 Oct </span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Online Subject Combination exercise</span></td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">07 Nov </span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Release of Subject Allocation at 8am</span></td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">10-11 Nov (2359) </span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Appeal (Online)</span><br><br></td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">17 Nov 2025</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Release of Appeal Results</span></td></tr></tbody></table>
-
-*Dates may be subject to changes. Please check back regularly for updates.
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Date/Period</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Description of Activity</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Combination Microsite will be updated</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>03 Aug (Assembly period)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Combination Briefing for all Sec 2 classes + Q &amp; A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parent Engagement 2 (includes Subject Combination details and ECG matters)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Post-exam activities (Oct)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Briefing for Sec 2 students regarding the online system for selecting
+Subject Combinations.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Oct – 31 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Online Subject Combination exercise</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>07 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Release of Subject Allocation at 8am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10-11 Nov (2359)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Appeal (Online)
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Release of Appeal Results</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*Dates may be subject to changes. Please check back regularly for updates.</p>
