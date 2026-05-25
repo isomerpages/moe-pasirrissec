@@ -100,7 +100,7 @@ Subject Combinations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 Oct – 31 Oct</p>
+<p>23 Oct – 27 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Online Subject Combination exercise</p>
@@ -108,7 +108,7 @@ Subject Combinations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>07 Nov</p>
+<p>02 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Release of Subject Allocation at 8am</p>
@@ -116,7 +116,7 @@ Subject Combinations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10-11 Nov (2359)</p>
+<p>2-3 Nov (6.00pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Appeal (Online)
@@ -127,7 +127,7 @@ Subject Combinations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 Nov 2025</p>
+<p>10 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Release of Appeal Results</p>
@@ -135,4 +135,4 @@ Subject Combinations.</p>
 </tr>
 </tbody>
 </table>
-<p>*Dates may be subject to changes. Please check back regularly for updates.</p>
+<p></p>
