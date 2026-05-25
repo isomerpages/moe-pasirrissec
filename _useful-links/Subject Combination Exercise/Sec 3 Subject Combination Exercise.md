@@ -108,7 +108,7 @@ Subject Combinations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>02 Nov</p>
+<p>2 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Release of Subject Allocation at 8am</p>
