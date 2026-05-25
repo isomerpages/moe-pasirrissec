@@ -1,78 +1,417 @@
 ---
 title: Subject combinations available at PRSS
 permalink: /list-of-subject-combinations/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<div name="section-1" id="section-1">
-<table border="1px solid black" style="width:100%">
-<tbody><tr>
-	<th><h5><center>Secondary 3 G3 <h6></h6></center></h5></th>
-</tr></tbody></table></div>
-<b>Pasir Ris Secondary School - Sec 3 G3 Subject Combinations for 2026</b>
-<br>
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead>
-<tr><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Option</th><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1</th><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2</th><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3</th>
-<th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4</th><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5</th><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6</th><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7</th>
-<th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">8</th></tr>
-</thead>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
-<tr><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">G</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">English <br>Language</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mother Tongue/ <br>Higher Mother <br>Tongue</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mathematics</td>
-<td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Social Studies<br>+<br>Elective Geography<br><span style="font-weight:bold">or </span><br>Elective History</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Chemistry</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Additional <br>Mathematics</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Physics <br>or  <br>Biology</td>
-<td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Pure Geog<br>or<br>Pure Hist<br>or <br>Pure Lit<br>or <br>Phy/Bio</td></tr>
-<tr><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">F</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">English<br>Language</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mother Tongue/ <br>Higher Mother <br>Tongue</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mathematics</td>
-<td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Social Studies<br>+<br>Elective Geography<br><span style="font-weight:bold">or</span> <br>Elective History</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Chemistry</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Additional <br>Mathematics</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Physics <br>or  <br>Biology</td>
-<td style="background-color:#c0c0c0;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td></tr>
-<tr><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">E</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">English<br>Language</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mother Tongue/ <br>Higher Mother <br>Tongue</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mathematics</td>
-<td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Social Studies<br>+<br>Elective Geography<br><span style="font-weight:bold">or</span> <br>Elective History</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Science (Physics/ <br>Chemistry) or <br>Science (Biology/ <br>Chemistry)</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Principle of <br>Accounts <br><span style="font-weight:bold">or </span><br>Additional <br>Mathematics</td>
-<td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Pure Geog<br><span style="font-weight:bold">or</span><br>Pure Hist<br>or <br>Pure Lit</td><td style="background-color:#c0c0c0;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td></tr>
-<tr><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">D</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">English <br>Language</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mother Tongue/ <br>Higher Mother <br>Tongue</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mathematics</td>
-<td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Social Studies<br>+<br>Elective Geography<br><span style="font-weight:bold">or</span> <br>Elective History</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Science (Physics/ <br>Chemistry) or <br>Science (Biology/ <br>Chemistry)</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Art <br><span style="font-weight:bold">or</span> <br>D&amp;T <br><span style="font-weight:bold">or </span><br>Additional Mathematics</td>
-<td style="background-color:#c0c0c0;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#c0c0c0;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td></tr>
-</tbody></table>
-
-\* Option G, will only be offered to students in the top 25%. A good pass in the relevant lower secondary subjects is required to read pure humanities, pure sciences and additional mathematics. Allocations of the above are based on students’ academic performance and aptitude, subjected to the availability of school resources. Subject Combination with less than 15 students may not be implemented.
-
-\# Pure Geography students will have to read History elective, and vice-versa for Pure History students in Options E and G.
-
-<table border="1px solid black" style="width:100%">
-<tbody><tr>
-	<th><h5><center>Secondary 3 G2<h6></h6></center></h5></th>
-</tr></tbody></table>
-<b>Pasir Ris Secondary School - Sec 3 G2 Subject Combination for 2026</b>
+<tr>
+<th rowspan="1" colspan="1">
+<h5>Secondary 3 G3</h5>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>Pasir Ris Secondary School - Sec 3 G3 Subject Combinations for 20267</strong>
 <br>
-
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead>
-<tr><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Option</th><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1</th><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2</th><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3</th>
-<th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4</th><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5</th><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6</th><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7</th></tr>
-</thead>
+</p>
+<table style="minWidth: 225px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">C</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">English <br>Language</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mother Tongue/ <br>Higher Mother <br>Tongue</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mathematics</td>
-<td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Social Studies<br>+<br>Elective Geography<br><span style="font-weight:bold">or </span><br>Elective History</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Science (Physics/<br>Chemistry)<br><span style="font-weight:bold">or</span><br>Science (Biology/<br>Chemistry)</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Art <br><span style="font-weight:bold">or </span><br>D&amp;T</td>
-<td style="background-color:#c0c0c0;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td></tr>
-<tr><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">B</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">English<br>Language</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mother Tongue/ <br>Higher Mother <br>Tongue</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mathematics</td>
-<td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Social Studies<br>+<br>Elective Geography<br><span style="font-weight:bold">or</span> <br>Elective History</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Science (Physics/<br>Chemistry)<br>or<br>Science (Biology/<br>Chemistry)</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Principles of <br>Accounts<br><span style="font-weight:bold">or</span><br>Additional <br>Mathematics </td>
-<td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Computing</td></tr>
-</tbody></table>
-
-***
-
-\* The allocation of subject combination will be based on students’ academic performance and aptitude, subjected to the availability of school resources.
-
-<div name="section-3" id="section-3">
-<table border="1px solid black" style="width:100%">
-<tbody><tr>
-	<th><h5><center>Secondary 3 G1<h6></h6></center></h5></th>
-</tr></tbody></table></div>
-<b>Pasir Ris Secondary School - Sec 3 G1 Subject Combination for 2026</b>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Option</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>1</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>3</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>4</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>5</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>6</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>7</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>8</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>E</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English
+<br>Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue/
+<br>Higher Mother
+<br>Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies
+<br>+
+<br>Elective Geography
+<br><strong>or</strong> 
+<br>Elective History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science (Physics/
+<br>Chemistry) or
+<br>Science (Biology/
+<br>Chemistry)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principle of
+<br>Accounts
+<br><strong>or </strong>
+<br>Additional
+<br>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pure Geog
+<br><strong>or</strong>
+<br>Pure Hist
+<br>or
+<br>Pure Lit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>D</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English
+<br>Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue/
+<br>Higher Mother
+<br>Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies
+<br>+
+<br>Elective Geography
+<br><strong>or</strong> 
+<br>Elective History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science (Physics/
+<br>Chemistry) or
+<br>Science (Biology/
+<br>Chemistry)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art
+<br><strong>or</strong> 
+<br>D&amp;T
+<br><strong>or </strong>
+<br>Additional Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>* Option G, will only be offered to students in the top 25%. A good pass
+in the relevant lower secondary subjects is required to read pure humanities,
+pure sciences and additional mathematics. Allocations of the above are
+based on students’ academic performance and aptitude, subjected to the
+availability of school resources. Subject Combination with less than 15
+students may not be implemented.</p>
+<p># Pure Geography students will have to read History elective, and vice-versa
+for Pure History students in Options E and G.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h5>Secondary 3 G2</h5>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>Pasir Ris Secondary School - Sec 3 G2 Subject Combination for 2026</strong>
 <br>
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead>
-<tr><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Option</th><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1</th><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2</th><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3</th>
-<th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4</th><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5</th><th style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6</th></tr>
-</thead>
+</p>
+<table style="minWidth: 200px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">A</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">English <br>Language</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mother Tongue<br></td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mathematics</td>
-<td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Science</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">G1 Computing</td><td style="border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Design<br>Technology<br><span style="font-weight:bold">or </span><br>Elements of<br>Business<br>Studies<br>(EBS)</td></tr>
-</tbody></table>
-
-\* The allocation of subject combination will be based on students’ overall academic performance, aptitude, the number of available vacancies for the subjects and availability of school resources. Subject Combination with less than 15 students may not be eventually implemented.
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Option</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>1</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>3</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>4</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>5</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>6</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>7</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>C</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English
+<br>Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue/
+<br>Higher Mother
+<br>Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies
+<br>+
+<br>Elective Geography
+<br><strong>or </strong>
+<br>Elective History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science (Physics/
+<br>Chemistry)
+<br><strong>or</strong>
+<br>Science (Biology/
+<br>Chemistry)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art
+<br><strong>or </strong>
+<br>D&amp;T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>B</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English
+<br>Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue/
+<br>Higher Mother
+<br>Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies
+<br>+
+<br>Elective Geography
+<br><strong>or</strong> 
+<br>Elective History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science (Physics/
+<br>Chemistry)
+<br>or
+<br>Science (Biology/
+<br>Chemistry)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principles of
+<br>Accounts
+<br><strong>or</strong>
+<br>Additional
+<br>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computing</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p>* The allocation of subject combination will be based on students’ academic
+performance and aptitude, subjected to the availability of school resources.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h5>Secondary 3 G1</h5>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>Pasir Ris Secondary School - Sec 3 G1 Subject Combination for 2026</strong>
+<br>
+</p>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Option</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>1</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>3</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>4</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>5</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>6</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>A</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English
+<br>Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G1 Computing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design
+<br>Technology
+<br><strong>or </strong>
+<br>Elements of
+<br>Business
+<br>Studies
+<br>(EBS)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>* The allocation of subject combination will be based on students’ overall
+academic performance, aptitude, the number of available vacancies for the
+subjects and availability of school resources. Subject Combination with
+less than 15 students may not be eventually implemented.</p>
