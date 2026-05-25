@@ -459,7 +459,7 @@ is an aptitude-based admissions exercise to a Nitec or Higher Nitec course</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h5>Normal Academic Course</h5>
+<h5>Predominantly G2 Students</h5>
 </th>
 </tr>
 <tr>
@@ -503,7 +503,7 @@ is an aptitude-based admissions exercise to a Nitec or Higher Nitec course</p>
 <p>
 <br>Please note that students who are keen to proceed to ITE can also consider
 participating in the ITE Early Admission Exercise Option (ITE EAE) which
-is an aptitude-based admissions exercise to a Nitec or Higher Nitec course.
+is an aptitude-based admissions exercise to a Higher Nitec course.
 <br>
 <br>
 </p>
@@ -515,7 +515,7 @@ is an aptitude-based admissions exercise to a Nitec or Higher Nitec course.
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h5>Normal Technical Course</h5>
+<h5>Predominantly G1 Students</h5>
 </th>
 </tr>
 <tr>
@@ -523,8 +523,8 @@ is an aptitude-based admissions exercise to a Nitec or Higher Nitec course.
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank">Institute of Technical Education&nbsp;Early Admission Exercise</a> (Nitec
-&amp; 3-year Higher Nitec courses)</p>
+<p><a href="https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank">Institute of Technical Education&nbsp;Early Admission Exercise</a> (3-year
+Higher Nitec courses)</p>
 </td>
 </tr>
 <tr>
@@ -532,7 +532,7 @@ is an aptitude-based admissions exercise to a Nitec or Higher Nitec course.
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Institute of Technical Education (Nitec &amp; Higher Nitec courses)</p>
+<p>Institute of Technical Education (Higher Nitec courses)</p>
 </td>
 </tr>
 </tbody>
