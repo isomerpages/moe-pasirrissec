@@ -24,8 +24,8 @@ the streaming results are released.</p>
 <li>
 <p><strong>Who can I contact should I need further clarifications?</strong>
 </p>
-<p>You can contact the HOD of Science Mr Richmond Ang, or contact us at 6501
-0800.</p>
+<p>You can contact the HOD of Science, <a href="mailto:richmond_ang_dy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Richmond Ang</a>, or contact
+us at 6501 0800.</p>
 </li>
 <li>
 <p><strong>Under what circumstances will my child/ward not get the subject combination of his/her choice?</strong>
