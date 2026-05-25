@@ -6,7 +6,11 @@ description: ""
 third_nav_title: Subject Combination Exercise
 ---
 <h3>Frequent Asked Questions</h3>
-<h4>Streaming Procedures</h4>
+<h4></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Streaming Procedures</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
 <p><strong>Can a student change his/her option after he/she has selected the option?</strong>
@@ -42,9 +46,13 @@ lack of teachers)
 <br>iii. The maximum enrolment capacity is met for elective subjects using
 special facilities i.e. Art, Design &amp; Technology (D&amp;T).</p>
 </li>
-<li>
-<p>Subject Choices</p>
-</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Subject Choices</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul>
 <li>
 <p><strong>My child is unsure of which combination would benefit her in the future. Should he/she go to a JC/Poly/ITE? What should she do?</strong>
 </p>
@@ -53,29 +61,14 @@ interests, learning styles and explore possible tertiary options. Your
 child/ward may see the Home Teachers or the Education and Career Guidance
 Counsellor, Mr Mohammed Syahril Bin Samsudin by making an appointment with
 to explore his/her possible options. Mr Syahril is on-site in Pasir Ris
-Secondary School on Mondays and Thursdays during term time.
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+Secondary School on Mondays and Thursdays during term time.</p>
 <p>Appointments can be made via scanning the <a href="https://go.gov.sg/ecgbookingprss" rel="noopener noreferrer nofollow" target="_blank">QR code</a> or email (<a href="mailto:mohammed_syahril_samsudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohammed_syahril_samsudin@schools.gov.sg</u></a>)</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/ECG_2024_1.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 </li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" src="/images/ECG_2024_1.png">
+</div>
+<ul>
 <li>
 <p><strong>Is Additional Mathematics a compulsory subject for admission into JC or polytechnic?</strong>
 </p>
@@ -92,9 +85,9 @@ tertiary institution websites.</p>
 <li>
 <p><strong>What should I consider when choosing between combined Science and Pure Science subjects?</strong>
 </p>
-<p>Students are encouraged to opt for pure sciences if:
-<br>
-</p>
+</li>
+</ul>
+<p>Students are encouraged to opt for pure sciences if:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>they would like to pursue science or science-related courses in the polytechnics
@@ -108,9 +101,7 @@ or junior colleges,</p>
 </li>
 </ul>
 <p>
-<br>Students who are:
-<br>
-</p>
+<br>Students who are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>able to see relationship e.g., interpret data and graphs</p>
@@ -123,10 +114,7 @@ or junior colleges,</p>
 </li>
 </ul>
 <p></p>
-</li>
-<li>
-<p></p>
-</li>
+<ul>
 <li>
 <p><strong>Will I be able to meet the requirements of polytechnic courses if I do not read O-Level pure sciences?</strong>
 </p>
@@ -168,4 +156,12 @@ as either a school or private candidate. As such, it is not possible for
 your child/ward to offer additional subjects as a private candidate.</p>
 </li>
 </ul>
+</div>
+</details>
+</div>
+<p></p>
+<p>
+<br>
+</p>
+<p></p>
 <p></p>
