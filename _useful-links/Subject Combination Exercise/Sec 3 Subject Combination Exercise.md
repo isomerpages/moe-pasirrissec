@@ -45,7 +45,7 @@ organised in the following manner:</p>
 </p>
 </li>
 </ol>
-<h3>Sec 2 Subject Combination Exercise (2025) - Important dates</h3>
+<h3>Sec 3 Subject Combination Exercise (2026) - Important dates</h3>
 <p></p>
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Date/Period</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Description of Activity</span></th></tr></thead>
 <tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">01 Aug 2025</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">ECG Talk for parents (will be held virtually)</span></td></tr>
