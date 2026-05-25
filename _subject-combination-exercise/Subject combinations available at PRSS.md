@@ -16,12 +16,10 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>Pasir Ris Secondary School - Sec 3 G3 Subject Combinations for 20267</strong>
-<br>
+<p><strong>Pasir Ris Secondary School - Sec 3 G3 Subject Combinations for 2027</strong>
 </p>
-<table style="minWidth: 225px">
+<table style="minWidth: 200px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -65,15 +63,48 @@ description: ""
 <p><strong>7</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p><strong>8</strong>
-</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>E</strong>
 </p>
+<p>All G3 exp MT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English
+<br>Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue/
+<br>Higher Mother
+<br>Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies
+<br>+
+<br>Elective Geography
+<br><strong>or</strong> 
+<br>Elective History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEMISTRY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Additional
+<br>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PHYSICS or BIOLOGY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>D</strong>
+</p>
+<p>All G3 exp MT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English
@@ -101,26 +132,21 @@ description: ""
 <br>Chemistry)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principle of
-<br>Accounts
+<p>Art
+<br><strong>or</strong> 
+<br>D&amp;T or Principle of Accounts
 <br><strong>or </strong>
-<br>Additional
-<br>Mathematics</p>
+<br>Additional Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pure Geog
-<br><strong>or</strong>
-<br>Pure Hist
-<br>or
-<br>Pure Lit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>#PURE GEOG</p>
+<p>or</p>
+<p>PURE LIT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>D</strong>
+<p><strong>C</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,12 +177,9 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Art
 <br><strong>or</strong> 
-<br>D&amp;T
+<br>D&amp;T <strong>or</strong> Principle of Accounts
 <br><strong>or </strong>
 <br>Additional Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -164,12 +187,11 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>* Option G, will only be offered to students in the top 25%. A good pass
-in the relevant lower secondary subjects is required to read pure humanities,
-pure sciences and additional mathematics. Allocations of the above are
-based on students’ academic performance and aptitude, subjected to the
-availability of school resources. Subject Combination with less than 15
-students may not be implemented.</p>
+<p>A quality pass in the relevant lower secondary subjects is required to
+read pure humanities, pure sciences and additional mathematics. Allocations
+of the above are based on students’ academic performance and aptitude,
+subjected to the availability of school resources. Subject Combination
+with less than 15 students may not be implemented.</p>
 <p># Pure Geography students will have to read History elective, and vice-versa
 for Pure History students in Options E and G.</p>
 <table style="minWidth: 25px">
