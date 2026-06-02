@@ -4,7 +4,7 @@ permalink: /useful-links/information-for-parents/school-vendors/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Bookshop</strong></h4>
+<h4><strong>Bookshop and School Uniform </strong></h4>
 <p><strong>Pacific Bookstores Pte Ltd</strong> 
 <br>Daily sales at school bookshop from 7am to 3.00pm (except for Tuesday
 7am to 2.30pm)
@@ -12,23 +12,6 @@ variant: tiptap
 <br>Tel: 90479319 (School Bookshop) or 69298012 (Pacific's Office)</p>
 <p>Website:&nbsp;<a href="http://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
 </p>
-<h4><strong>Uniform</strong></h4>
-<p><strong>Jeep Sing Fashion</strong> 
-<br>4012 Ang Mo Kio Ave 10
-<br>#01-09 Techplace 1
-<br>Singapore 569628
-<br>Tel: 64563198</p>
-<p>Office hours:&nbsp;
-<br>Mon - Fri: 10.00 am – 6.00 pm (Sanitizing of Store and Lunch break - 1pm
-to 2pm)
-<br>Sat: 10.00 am to 2.00 pm
-<br>Sun &amp; Public Holiday: Closed</p>
-<p>Email: <a href="sales@jeepsinguniform.com" rel="noopener nofollow" target="_blank">sales@jeepsinguniform.com</a>
-<br>Website:&nbsp;<a href="https://jeepsinguniform.com/" rel="noopener noreferrer nofollow" target="_blank">https://Jeepsinguniform.com</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/Uniform%20vendor.jpeg">
-</div>
 <h4><strong>Locker</strong></h4>
 <p><strong>Locker &amp; Lock Pte Ltd</strong> 
 <br>Tel: 6742 1118 Fax: 6743 1112
