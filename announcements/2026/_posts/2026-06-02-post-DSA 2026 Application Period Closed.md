@@ -1,5 +1,5 @@
 ---
-title: DSA Registration Closed
+title: DSA 2026 Application Period Closed
 permalink: /direct-school-admission-dsa-update/
 date: 2026-06-02
 layout: post
