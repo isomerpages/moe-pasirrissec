@@ -4,11 +4,11 @@ permalink: /useful-links/information-for-parents/school-vendors/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Bookshop and School Uniform </strong></h4>
+<h4><strong>Bookshop and School Uniform</strong></h4>
 <p><strong>Pacific Bookstores Pte Ltd</strong> 
 <br>Daily sales at school bookshop from 7am to 3.00pm (except for Tuesday
 7am to 2.30pm)
-<br>School Holiday operating hour is from 9am to 3pm
+<br>Closed during School Holidays
 <br>Tel: 90479319 (School Bookshop) or 69298012 (Pacific's Office)</p>
 <p>Website:&nbsp;<a href="http://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
 </p>
