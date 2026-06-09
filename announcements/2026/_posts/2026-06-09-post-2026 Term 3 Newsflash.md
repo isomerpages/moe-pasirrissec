@@ -15,4 +15,4 @@ You may also refer to the following advisories:
 [SPF Advisory](/files/Announcements/Newsflash/SPF_Advisory.pdf)<br>
 [HPB Anti Vaping Advisory](/files/Announcements/Newsflash/HPB_Anti_Vaping_Advisory.pdf)
 
-Wishing everyone a safe and pleasant term break!
+We wish everyone a safe and pleasant term break!
