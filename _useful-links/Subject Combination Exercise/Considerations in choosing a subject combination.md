@@ -476,7 +476,7 @@ is an aptitude-based admissions exercise to a Nitec or Higher Nitec course</p>
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ite.edu.sg/docs/default-source/full-time-intake-pages-content/full-time-intake-exercises/jieh/jieh-2025-intake-entry-requirements.pdf" rel="noopener noreferrer nofollow" target="_blank">Direct Entry Scheme to Polytechnic Programme (DPP)</a>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/pse/ite-2-year-higher-nitec" rel="noopener nofollow" target="_blank">Institute of Technical Education 2-Year Higher Nitec</a>
 </p>
 </td>
 </tr>
