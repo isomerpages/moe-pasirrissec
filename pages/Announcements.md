@@ -4,6 +4,10 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
+#### Early School Closure on 25 June 2026
+The school will close at 2.00pm on Thursday, 25 June 2026 due to a staff event.<br>
+The school will operate as per normal on Friday, 26 June onwards.
+
 #### Collection of School Graduation Certificate (SGC) for 2025 Cohort
 
 Students from 2025 Sec 4Exp, 4NT &amp; Sec 5NA cohorts may collect their SGC from the school General Office during office hours (8.00am - 5.30pm)
