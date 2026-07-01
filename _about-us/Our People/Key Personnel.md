@@ -302,7 +302,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AG Assistant Year Head</p>
+<p>Assistant Year Head (Ag)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Mirna Bte Mustapah</p>
@@ -314,7 +314,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AG SH Co-Curricular Activities</p>
+<p>SH Co-Curricular Activities (Ag)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Iskandar Bin Ahmad</p>
