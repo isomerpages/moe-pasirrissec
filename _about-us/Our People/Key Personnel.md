@@ -98,6 +98,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Assistant Year Head (Ag)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Mirna Bte Mustapah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_mirna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_mirna@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -302,19 +314,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AG Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Mirna Bte Mustapah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_mirna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_mirna@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>AG SH Co-Curricular Activities</p>
+<p>SH Co-Curricular Activities (Ag)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Iskandar Bin Ahmad</p>
