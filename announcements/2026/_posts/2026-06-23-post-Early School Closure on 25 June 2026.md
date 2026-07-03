@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>The school will close at 2.00pm on Thursday, 25 June 2026 due to a staff
+<p>The school will close at 5.00pm on Monday, 06 July 2026 due to a staff
 event.</p>
-<p>The school will operate as per normal on Friday, 26 June onwards.</p>
+<p>The school will operate as per normal on Tuesday, 07 July 2026.</p>
 <p></p>
