@@ -4,9 +4,9 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-#### Early School Closure on 25 June 2026
-The school will close at 2.00pm on Thursday, 25 June 2026 due to a staff event.<br>
-The school will operate as per normal on Friday, 26 June onwards.
+#### Early School Closure on 06 July 2026
+The school will close at 5.00pm on Monday, 06 July 2026 due to a staff event.<br>
+The school will operate as per normal on Tuesday, 07 July 2026.
 
 #### Collection of School Graduation Certificate (SGC) for 2025 Cohort
 
