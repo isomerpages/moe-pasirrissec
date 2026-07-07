@@ -14,7 +14,7 @@ times, and venues for each paper. Please ensure you are well prepared and
 arrive punctually for all examinations.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2026_4E5N_Prelims_Timetable__2_Jul_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E5N Prelims Timetable</a>
+<p><a href="/files/2026_4E5N_Prelims_Timetable__3_Jul_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E5N Prelims Timetable</a>
 </p>
 </li>
 <li>
