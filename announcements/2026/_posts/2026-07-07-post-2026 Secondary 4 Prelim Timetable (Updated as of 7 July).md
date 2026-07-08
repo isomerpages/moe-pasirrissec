@@ -18,7 +18,7 @@ arrive punctually for all examinations.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/2026_4N_Prelims_Timetable__7_Jul_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4N Prelims Timetable</a>
+<p><a href="/files/2026_4N_Prelims_Timetable__8_Jul_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4N Prelims Timetable (updated 8 July)</a>
 </p>
 </li>
 </ul>
