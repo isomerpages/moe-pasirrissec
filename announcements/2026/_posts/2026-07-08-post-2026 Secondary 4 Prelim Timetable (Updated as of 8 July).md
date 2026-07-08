@@ -1,7 +1,7 @@
 ---
-title: 2026 Secondary 4 Prelim Timetable (Updated as of 7 July)
-permalink: /2026-secondary-4-prelim-timetable-updated-as-of-7-july/
-date: 2026-07-07
+title: 2026 Secondary 4 Prelim Timetable (Updated as of 8 July)
+permalink: /2026-secondary-4-prelim-timetable-updated-as-of-8-july/
+date: 2026-07-08
 layout: post
 description: ""
 image: ""
@@ -18,7 +18,7 @@ arrive punctually for all examinations.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/2026_4N_Prelims_Timetable__7_Jul_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4N Prelims Timetable</a>
+<p><a href="/files/2026_4N_Prelims_Timetable__8_Jul_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4N Prelims Timetable (updated 8 July)</a>
 </p>
 </li>
 </ul>
