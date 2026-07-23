@@ -1,0 +1,25 @@
+---
+title: 2026 Secondary 4 Prelim Timetable (Updated as of 22 July)
+permalink: /2026-secondary-4-prelim-timetable-updated-as-of-22-july/
+date: 2026-07-08
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
+<p>Dear Students,</p>
+<p>The Preliminary Examination timetable is now available. Please take the
+time to review your examination schedule carefully and note the dates,
+times, and venues for each paper. Please ensure you are well prepared and
+arrive punctually for all examinations.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2026_4E5N_Prelims_Timetable__3_Jul_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E5N Prelims Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026_4N_Prelims_Timetable__22_Jul_.pdf" rel="noopener nofollow" target="_blank">Sec 4N Prelims Timetable (updated 22 July)</a>
+</p>
+</li>
+</ul>
+<p>We wish all students every success in your Preliminary Examinations!</p>
